@@ -1,12 +1,16 @@
-# v2ex-hot-hub
+# zhihu-hot-hub
 
-[V2EX](https://www.v2ex.com/) 热议话题榜，记录从 2021-1-6 日至今的热门话题。每小时抓取一次数据，按天[归档](./archives)。
-
-## 今日热议话题
+记录[知乎](https://www.zhihu.com/)从 2021-1-8 日至今的热搜和热门话题。每小时抓取一次数据，按天[归档](./archives)。
 
 `更新时间：{updateTime}`
 
-{topics}
+## 热搜
+
+{searches}
+
+## 热门话题
+
+{questions}
 
 ## 历史归档
 

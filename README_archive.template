@@ -2,5 +2,11 @@
 
 `最后更新时间：{updateTime}`
 
-{topics}
+## 热搜
+
+{searches}
+
+## 热门话题
+
+{questions}
 
