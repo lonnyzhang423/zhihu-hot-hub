@@ -2,8 +2,10 @@ import json
 import logging
 import os
 import traceback
+import urllib.parse
 
 import requests
+from bs4 import BeautifulSoup
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 
@@ -11,11 +13,13 @@ import util
 
 logging.basicConfig()
 log = logging.getLogger(__name__)
-log.setLevel(level=logging.INFO)
+log.setLevel(level=logging.DEBUG)
 
 HOT_SEARCH_URL = 'https://www.zhihu.com/api/v4/search/top_search'
 HOT_QUESTION_URL = 'https://www.zhihu.com/api/v3/feed/topstory/hot-lists/total?limit=50'
 HOT_VIDEO_URL = 'https://www.zhihu.com/api/v3/feed/topstory/hot-lists/zvideo?limit=50'
+
+HOT_SEARCH_URL2 = 'https://www.zhihu.com/topsearch'
 
 retries = Retry(total=2,
                 backoff_factor=0.1,
@@ -48,7 +52,8 @@ def parseSearchList(content):
     def search(item):
         info = {}
         info['title'] = item['display_query']
-        info['url'] = 'https://www.zhihu.com/search?q={}'.format(item['query'])
+        q = urllib.parse.quote(item['query'])
+        info['url'] = 'https://www.zhihu.com/search?q={}'.format(q)
         return info
 
     result = []
@@ -59,6 +64,30 @@ def parseSearchList(content):
     except:
         log.error(traceback.format_exc())
 
+    return result
+
+
+def parseSearchList2(content):
+    """解析热搜
+    """
+    def search(item):
+        info = {}
+        info['title'] = item['queryDisplay']
+        q = urllib.parse.quote(item['realQuery'])
+        info['url'] = 'https://www.zhihu.com/search?q={}'.format(q)
+        return info
+
+    result = []
+    try:
+        soup = BeautifulSoup(content)
+        script = soup.find('script', type='text/json', id='js-initialData')
+        if script:
+            obj = json.loads(script.string)
+            list = obj['initialState']['topsearch']['data']
+            if list:
+                result = [search(item) for item in list]
+    except:
+        log.error(traceback.format_exc())
     return result
 
 
@@ -179,17 +208,17 @@ def handleArchiveMd(md):
     util.writeText(file, md)
 
 
-def handleRawContent(content: str, filePrefix: str):
+def handleRawContent(content: str, filePrefix: str, fileSuffix='json'):
     log.debug('raw content:%s', content)
-    name = '{}-{}.json'.format(filePrefix, util.currentDateStr())
+    name = '{}-{}.{}'.format(filePrefix, util.currentDateStr(), fileSuffix)
     file = os.path.join('raw', name)
     util.writeText(file, content)
 
 
 def run():
     # 热搜数据
-    searchContent = getContent(HOT_SEARCH_URL)
-    searches = parseSearchList(searchContent)
+    searchHtml = getContent(HOT_SEARCH_URL2)
+    searches = parseSearchList2(searchHtml)
     # 问题数据
     questionContent = getContent(HOT_QUESTION_URL)
     questions = parseQuestionList(questionContent)
@@ -204,12 +233,11 @@ def run():
     archiveMd = generateArchiveReadme(searches, questions, videos)
     handleArchiveMd(archiveMd)
     # 原始数据
-    raw = json.dumps(json.loads(searchContent), ensure_ascii=False)
-    handleRawContent(raw, 'hot-search')
+    handleRawContent(searchHtml, 'hot-search', 'html')
     raw = json.dumps(json.loads(questionContent), ensure_ascii=False)
-    handleRawContent(raw, 'hot-question')
+    handleRawContent(raw, 'hot-question', 'json')
     raw = json.dumps(json.loads(videoContent), ensure_ascii=False)
-    handleRawContent(raw, 'hot-video')
+    handleRawContent(raw, 'hot-video', 'json')
 
 
 if __name__ == "__main__":
