@@ -15,16 +15,24 @@ log.setLevel(level=logging.INFO)
 
 HOT_SEARCH_URL = 'https://www.zhihu.com/api/v4/search/top_search'
 HOT_QUESTION_URL = 'https://www.zhihu.com/api/v3/feed/topstory/hot-lists/total?limit=50'
+HOT_VIDEO_URL = 'https://www.zhihu.com/api/v3/feed/topstory/hot-lists/zvideo?limit=50'
 
 retries = Retry(total=2,
                 backoff_factor=0.1,
                 status_forcelist=[k for k in range(400, 600)])
 
-headers={
+headers = {
     'user-agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1'
 }
 
-def getContent(url: str) -> str:
+
+headers2 = {
+    'x-api-version': '3.0.76',
+    'user-agent': 'Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1'
+}
+
+
+def getContent(url: str, headers=headers) -> str:
     try:
         with requests.session() as s:
             s.mount("http://", HTTPAdapter(max_retries=retries))
@@ -75,7 +83,27 @@ def parseQuestionList(content):
     return result
 
 
-def generateArchiveReadme(searches, questsions):
+def parseVideoList(content):
+    """解析热门视频
+    """
+    def video(item):
+        info = {}
+        target = item['target']
+        info['title'] = target['title_area']['text']
+        info['url'] = target['link']['url']
+        return info
+
+    result = []
+    try:
+        arr = json.loads(content)['data']
+        if arr:
+            result = [video(item) for item in arr]
+    except:
+        log.error(traceback.format_exc())
+    return result
+
+
+def generateArchiveReadme(searches, questsions, videos):
     """生成归档readme
     """
     def liMd(item):
@@ -89,6 +117,10 @@ def generateArchiveReadme(searches, questsions):
     if questsions:
         questionMd = '\n'.join([liMd(item) for item in questsions])
 
+    videoMd = '暂无数据'
+    if videos:
+        videoMd = '\n'.join([liMd(item) for item in videos])
+
     readme = ''
     with open('README_archive.template', 'r') as f:
         readme = f.read()
@@ -99,11 +131,12 @@ def generateArchiveReadme(searches, questsions):
     readme = readme.replace("{updateTime}", now)
     readme = readme.replace("{searches}", searchMd)
     readme = readme.replace("{questions}", questionMd)
+    readme = readme.replace("{videos}", videoMd)
 
     return readme
 
 
-def generateTodayReadme(searches, questsions):
+def generateTodayReadme(searches, questsions, videos):
     """生成今日readme
     """
     def liMd(item):
@@ -117,6 +150,10 @@ def generateTodayReadme(searches, questsions):
     if questsions:
         questionMd = '\n'.join([liMd(item) for item in questsions])
 
+    videoMd = '暂无数据'
+    if videos:
+        videoMd = '\n'.join([liMd(item) for item in videos])
+
     readme = ''
     with open('README.template', 'r') as f:
         readme = f.read()
@@ -125,6 +162,7 @@ def generateTodayReadme(searches, questsions):
     readme = readme.replace("{updateTime}", now)
     readme = readme.replace("{searches}", searchMd)
     readme = readme.replace("{questions}", questionMd)
+    readme = readme.replace("{videos}", videoMd)
 
     return readme
 
@@ -155,19 +193,23 @@ def run():
     # 问题数据
     questionContent = getContent(HOT_QUESTION_URL)
     questions = parseQuestionList(questionContent)
+    # 视频数据
+    videoContent = getContent(HOT_VIDEO_URL, headers2)
+    videos = parseVideoList(videoContent)
 
     # 最新数据
-    todayMd = generateTodayReadme(searches, questions)
+    todayMd = generateTodayReadme(searches, questions, videos)
     handleTodayMd(todayMd)
     # 归档
-    archiveMd = generateArchiveReadme(searches, questions)
+    archiveMd = generateArchiveReadme(searches, questions, videos)
     handleArchiveMd(archiveMd)
-
     # 原始数据
     raw = json.dumps(json.loads(searchContent), ensure_ascii=False)
     handleRawContent(raw, 'hot-search')
     raw = json.dumps(json.loads(questionContent), ensure_ascii=False)
     handleRawContent(raw, 'hot-question')
+    raw = json.dumps(json.loads(videoContent), ensure_ascii=False)
+    handleRawContent(raw, 'hot-video')
 
 
 if __name__ == "__main__":
