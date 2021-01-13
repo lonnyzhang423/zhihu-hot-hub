@@ -1,7 +1,4 @@
-import json
-import logging
 import os
-import traceback
 import urllib.parse
 
 import requests
@@ -108,19 +105,19 @@ def generate_readme(searches, questsions, videos):
     return readme
 
 
-def handleTodayMd(md):
+def saveReadme(md):
     logger.debug('today md:%s', md)
     util.write_text('README.md', md)
 
 
-def handleArchiveMd(md):
+def saveArchiveMd(md):
     logger.debug('archive md:%s', md)
     name = util.current_date()+'.md'
     file = os.path.join('archives', name)
     util.write_text(file, md)
 
 
-def handleRawContent(content: str, filePrefix: str, fileSuffix='json'):
+def saveRawContent(content: str, filePrefix: str, fileSuffix='json'):
     logger.debug('raw content:%s', content)
     name = '{}-{}.{}'.format(filePrefix, util.current_date(), fileSuffix)
     file = os.path.join('raw', name)
@@ -132,23 +129,24 @@ def run():
     # 热搜数据
     searches, resp = zhihu.get_hot_search()
     if resp:
-        handleRawContent(resp.text, 'hot-search', 'html')
+        saveRawContent(resp.text, 'hot-search', 'html')
     # 问题数据
     questions, resp = zhihu.get_hot_question()
     if resp:
         text = util.cnsafe_json(resp.text)
-        handleRawContent(text, 'hot-question', 'json')
+        saveRawContent(text, 'hot-question', 'json')
     # 视频数据
     videos, resp = zhihu.get_hot_video()
     if resp:
         text = util.cnsafe_json(resp.text)
-        handleRawContent(text, 'hot-video', 'json')
+        saveRawContent(text, 'hot-video', 'json')
+
     # 最新数据
     todayMd = generate_readme(searches, questions, videos)
-    handleTodayMd(todayMd)
+    saveReadme(todayMd)
     # 归档
     archiveMd = generate_archive_md(searches, questions, videos)
-    handleArchiveMd(archiveMd)
+    saveArchiveMd(archiveMd)
 
 
 if __name__ == "__main__":

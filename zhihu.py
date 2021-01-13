@@ -2,7 +2,6 @@
 
 import contextlib
 import json
-import traceback
 
 import requests
 from bs4 import BeautifulSoup
@@ -64,7 +63,7 @@ class Zhihu:
                     obj = json.loads(script.string)
                     items = obj['initialState']['topsearch']['data']
         except:
-            logger.warning(traceback.format_exc())
+            logger.exception('get hot search failed')
         return (items, resp)
 
     def get_hot_question(self):
@@ -105,7 +104,7 @@ class Zhihu:
                 obj = resp.json()
                 items = obj['data']
         except:
-            logger.warning(traceback.format_exc())
+            logger.exception('get hot question failed')
         return (items, resp)
 
     def get_hot_video(self):
@@ -189,7 +188,7 @@ class Zhihu:
                 resp = s.get(HOT_VIDEO_URL)
                 items = resp.json()['data']
         except:
-            logger.warning(traceback.format_exc())
+            logger.exception('get hot video failed')
         return (items, resp)
 
 
