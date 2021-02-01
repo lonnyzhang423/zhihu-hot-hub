@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2021-02-02 05:04:18 +0800`
+`更新时间：2021-02-02 06:06:30 +0800`
 
 ## 热门搜索
 
@@ -58,46 +58,46 @@
 1. [为什么有的明星宁愿长期住酒店，也不租个房子？](https://www.zhihu.com/question/442085261)
 1. [2021 LPL 春季赛 BLG 连扳两局打破 RNG 本赛季不败金身，如何评价这场比赛？](https://www.zhihu.com/question/442356859)
 1. [如何评价《喜羊羊与灰太狼之筐出胜利》？](https://www.zhihu.com/question/440661331)
-1. [缅甸军方宣布接管政权，国家进入紧急状态，白宫督促军方尽快释放被扣押官员，这场风波会带来哪些国际影响？](https://www.zhihu.com/question/442277246)
-1. [《山海情》之后，「参演孔笙的作品」会成为演员争抢的机会吗？](https://www.zhihu.com/question/440961681)
 1. [你会给初看英美剧的人推荐哪十部英美剧？](https://www.zhihu.com/question/21124373)
+1. [缅甸军方宣布接管政权，国家进入紧急状态，白宫督促军方尽快释放被扣押官员，这场风波会带来哪些国际影响？](https://www.zhihu.com/question/442277246)
 1. [领导跳槽带你走，你跟不跟？](https://www.zhihu.com/question/433804952)
-1. [为什么网文中签到流小说开始火了？这个爽在哪里？](https://www.zhihu.com/question/441224071)
 1. [如何看待王冰冰采访蔡徐坤这一热搜？](https://www.zhihu.com/question/442353974)
 1. [《山海情》里最让你意难平的是什么？](https://www.zhihu.com/question/442019596)
 1. [如何评价我同学说「台式机终究会被淘汰」？](https://www.zhihu.com/question/441250882)
-1. [年薪百万是什么感觉？](https://www.zhihu.com/question/394637216)
-1. [得了新冠肺炎的人现在都怎么样了？](https://www.zhihu.com/question/395696795)
 1. [为什么中国出了这么多厉害的互联网公司，但没有自己设计过编程语言？](https://www.zhihu.com/question/359906573)
+1. [年薪百万是什么感觉？](https://www.zhihu.com/question/394637216)
+1. [为什么网文中签到流小说开始火了？这个爽在哪里？](https://www.zhihu.com/question/441224071)
+1. [得了新冠肺炎的人现在都怎么样了？](https://www.zhihu.com/question/395696795)
 1. [《江山如此多娇》与《山海情》，这两部电视剧哪部更好？](https://www.zhihu.com/question/439560134)
-1. [妹妹问我 211 大学和一般的一本大学出来工资都差不多，为什么要那么拼命的考个好大学，我该怎么回答？](https://www.zhihu.com/question/441088921)
-1. [海底捞自带食材是没素质的表现吗？](https://www.zhihu.com/question/284118317)
+1. [《山海情》之后，「参演孔笙的作品」会成为演员争抢的机会吗？](https://www.zhihu.com/question/440961681)
 1. [国产游戏《戴森球计划》怎样布局更科学高效？](https://www.zhihu.com/question/441812014)
 1. [当你穿越到修仙文被病娇男配勾引的恶毒女配身上，该怎么办？](https://www.zhihu.com/question/411691149)
-1. [为什么我看完《心灵奇旅》没有 get 到感动？](https://www.zhihu.com/question/436788096)
-1. [如何评价特斯拉向南昌电网道歉，称「沟通录音被剪辑」？](https://www.zhihu.com/question/442283163)
 1. [让美国人戴口罩为什么这么难？](https://www.zhihu.com/question/407867330)
-1. [假如有条狗脑子里突然有了所有的物理数学公式，狗既不会应用也不会表达，人类要怎么提取这些呢？](https://www.zhihu.com/question/441872398)
+1. [海底捞自带食材是没素质的表现吗？](https://www.zhihu.com/question/284118317)
+1. [为什么我看完《心灵奇旅》没有 get 到感动？](https://www.zhihu.com/question/436788096)
 1. [一个工作能力极强的人提出离职，怎么挽留他？](https://www.zhihu.com/question/299819397)
-1. [狗的战斗力明显比猫强，为什么总是狗被猫欺负?](https://www.zhihu.com/question/441988374)
+1. [假如有条狗脑子里突然有了所有的物理数学公式，狗既不会应用也不会表达，人类要怎么提取这些呢？](https://www.zhihu.com/question/441872398)
 1. [平庸的数学家能为数学的发展做什么贡献 ？](https://www.zhihu.com/question/442130053)
 1. [对计算机专业来说学历真的重要吗？](https://www.zhihu.com/question/311686982)
-1. [如何看待教育部「中小学生不得带手机入校，学校不得用手机布置作业」这一通知？](https://www.zhihu.com/question/442268156)
 1. [如何看待「长尾科技」的新作《什么是高中物理》？](https://www.zhihu.com/question/442344364)
-1. [卫健委提出北京以外省份返乡防疫「六不准」，不得层层加码或一刀切，对过年返乡有何指导意义？](https://www.zhihu.com/question/442161285)
 1. [明兰为什么没选择小公爷？](https://www.zhihu.com/question/440623071)
 1. [王者荣耀「长安赛年」的哪些细节能感受到当年的盛唐风貌？](https://www.zhihu.com/question/441473204)
 1. [为什么有的女孩子长的并没有很漂亮但是总有人都喜欢她？](https://www.zhihu.com/question/405378615)
 1. [2021 有哪些值得期待的高端电视？](https://www.zhihu.com/question/441304591)
-1. [雅思考官是怎么评分的？有哪些「内幕」？](https://www.zhihu.com/question/334277688)
 1. [股票的基本面如何分析？](https://www.zhihu.com/question/433679132)
+1. [雅思考官是怎么评分的？有哪些「内幕」？](https://www.zhihu.com/question/334277688)
 1. [有哪些素人（重点是素人）男生的颜值符合小说男主的标准？](https://www.zhihu.com/question/341014389)
 1. [古代人养猫铲屎吗？](https://www.zhihu.com/question/441747444)
+1. [爱而不得的人该放弃还是继续坚持？](https://www.zhihu.com/question/442107739)
 1. [关于遗憾，你认为是什么？](https://www.zhihu.com/question/441772242)
 1. [可以推荐看过的俄语电影么？](https://www.zhihu.com/question/441829447)
 1. [越野车冬天行车要注意什么？](https://www.zhihu.com/question/441107164)
-1. [爱而不得的人该放弃还是继续坚持？](https://www.zhihu.com/question/442107739)
 1. [明明早就该放弃的人，为什么一次又一次的原谅？](https://www.zhihu.com/question/441813530)
+1. [如果人生有倒退键，你最想回到什么时段？](https://www.zhihu.com/question/441650362)
+1. [除了看书，还有哪些可以拓宽视野、提升自我的高效方式？](https://www.zhihu.com/question/436071043)
+1. [可以分享一下你最近单曲循环的音乐吗？](https://www.zhihu.com/question/441190003)
+1. [加密的 PDF 文件如何有效的解密呢？](https://www.zhihu.com/question/22938994)
+1. [女生发朋友圈能可爱到什么程度？](https://www.zhihu.com/question/438871910)
 
 ## 热门视频
 
@@ -113,9 +113,9 @@
 1. [「我才不在乎你的要求！」美国 9 岁女孩被捕时想见爸爸却被喷辣椒水](https://www.zhihu.com/zvideo/1339522370966073344)
 1. [美智库齐声卖惨——如今的美国就是 1939 年的法国](https://www.zhihu.com/zvideo/1339565720838443008)
 1. [你能猜到结局算我输](https://www.zhihu.com/zvideo/1339318949520527360)
-1. [给小熊猫简简单单撸个蓝莓串！开心到起飞～](https://www.zhihu.com/zvideo/1339299164980195328)
 1. [美国国家地理频道热播纪录片《高考 2020》](https://www.zhihu.com/zvideo/1337767859385683968)
-1. [聊美国散户做多白银，应该如何定性，我们应该观察啥？](https://www.zhihu.com/zvideo/1339714307463020544)
+1. [就算过年不回家，也要做一桌家乡年夜饭！](https://www.zhihu.com/zvideo/1339684137146585088)
+1. [给小熊猫简简单单撸个蓝莓串！开心到起飞～](https://www.zhihu.com/zvideo/1339299164980195328)
 
 ## 历史归档
 
