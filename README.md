@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2021-06-09 03:31:44 +0800`
+`更新时间：2021-06-09 04:12:41 +0800`
 
 ## 热门搜索
 
@@ -23,8 +23,8 @@
 1. [原神公布 4 个新角色](https://www.zhihu.com/search?q=%E5%8E%9F%E7%A5%9E)
 1. [高考结束了！](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E7%BB%93%E6%9D%9F)
 1. [《叛逆者》今日开播](https://www.zhihu.com/search?q=%E5%8F%9B%E9%80%86%E8%80%85)
-1. [动画电影《普罗米亚》上映](https://www.zhihu.com/search?q=%E6%99%AE%E7%BD%97%E7%B1%B3%E4%BA%9A)
 1. [人人视频下架](https://www.zhihu.com/search?q=%E4%BA%BA%E4%BA%BA%E8%A7%86%E9%A2%91)
+1. [动画电影《普罗米亚》上映](https://www.zhihu.com/search?q=%E6%99%AE%E7%BD%97%E7%B1%B3%E4%BA%9A)
 1. [芯片价格飙涨 5 倍](https://www.zhihu.com/search?q=%E8%8A%AF%E7%89%87)
 1. [谏山创对谈荒川弘](https://www.zhihu.com/search?q=%E8%B0%8F%E5%B1%B1%E5%88%9B)
 1. [六大影视公司反对短视频侵权](https://www.zhihu.com/search?q=%E7%9F%AD%E8%A7%86%E9%A2%91%E4%BE%B5%E6%9D%83)
@@ -58,19 +58,19 @@
 1. [6 月 7 日广东新增 19 例本土确诊，目前防疫情况如何？确诊病例还会有所增加吗？](https://www.zhihu.com/question/463806780)
 1. [网传大象逃离西双版纳或因森林被大面积砍伐种橡胶、茶树，真实情况如何？大象北迁的原因是什么？](https://www.zhihu.com/question/463575906)
 1. [老师常说的「没带就是没写」合理吗？](https://www.zhihu.com/question/457033055)
-1. [工作 3 年和读研 3 年，会有哪些差距？您觉得哪个更值得？](https://www.zhihu.com/question/463621272)
 1. [家里使用烘干机，真的能取消晾晒区吗？](https://www.zhihu.com/question/450607143)
-1. [《觉醒年代》圈粉的原因是什么？](https://www.zhihu.com/question/460648920)
 1. [王小波到底是什么样的存在？](https://www.zhihu.com/question/27333174)
 1. [买房时要避开哪些楼层？](https://www.zhihu.com/question/447920355)
+1. [《觉醒年代》圈粉的原因是什么？](https://www.zhihu.com/question/460648920)
 1. [有没有适合发朋友圈的干净文案？](https://www.zhihu.com/question/427302918)
+1. [工作 3 年和读研 3 年，会有哪些差距？您觉得哪个更值得？](https://www.zhihu.com/question/463621272)
 1. [如何评价 2021 年 6 月上映的高分动画电影《普罗米亚》？](https://www.zhihu.com/question/462217273)
-1. [衡水中学回应学霸演讲视频引发讨论，选择平庸该被非议吗？](https://www.zhihu.com/question/462967509)
 1. [该不该为了研究生学历选择一个冷门的专业考研？](https://www.zhihu.com/question/458850143)
+1. [衡水中学回应学霸演讲视频引发讨论，选择平庸该被非议吗？](https://www.zhihu.com/question/462967509)
 1. [摘掉时代滤镜，王祖贤颜值放到现在内娱是什么水平？](https://www.zhihu.com/question/460820502)
 1. [高考正当时，南京大学招生宣传引争议，这一宣传方式是否妥当？](https://www.zhihu.com/question/463702038)
-1. [人的大脑相当于什么水平的 GPU 和 CPU ?](https://www.zhihu.com/question/404006982)
 1. [如何以「我去和亲那年，只有十六岁」为开头，写一个虐中有甜的故事？](https://www.zhihu.com/question/437988845)
+1. [人的大脑相当于什么水平的 GPU 和 CPU ?](https://www.zhihu.com/question/404006982)
 1. [有哪些优美的句子值得推荐？](https://www.zhihu.com/question/459600599)
 1. [生孩子会影响夫妻关系吗？](https://www.zhihu.com/question/369792300)
 1. [有哪些送给准高一新生的建议？](https://www.zhihu.com/question/49779691)
@@ -83,21 +83,21 @@
 1. [开始断舍离之后，有什么物品是你不会再购买的？](https://www.zhihu.com/question/457895008)
 1. [玩股票要具备哪些基本知识？](https://www.zhihu.com/question/19807409)
 1. [成绩一般的高二学生该怎么学?](https://www.zhihu.com/question/463170914)
-1. [假如把你的工作制作成一款游戏，你会如何设计它？](https://www.zhihu.com/question/462775862)
 1. [如何评价 EXO 的特别专辑《DON'T FIGHT THE FEELING》及其 MV？](https://www.zhihu.com/question/458831246)
 1. [2021 年 618 有什么特别的好物推荐？](https://www.zhihu.com/question/461478895)
 1. [NBA 2020-21 赛季太阳 122:105 掘金，如何评价这场比赛？](https://www.zhihu.com/question/463814681)
 1. [有哪些东西看似「跟家不沾边儿」，实际却是真家居神器？](https://www.zhihu.com/question/454606011)
 1. [2021 年 618 买护肤品有哪些建议和推荐？](https://www.zhihu.com/question/397144646)
 1. [那些从小学就开始是学霸的小孩子是怎么养的？](https://www.zhihu.com/question/427567462)
+1. [假如把你的工作制作成一款游戏，你会如何设计它？](https://www.zhihu.com/question/462775862)
 1. [有哪些适合 30 岁成熟男性的男装品牌？](https://www.zhihu.com/question/265777777)
+1. [Kotlin 语言现在怎么不火了?](https://www.zhihu.com/question/461471019)
+1. [计算机专业找不到暑期实习现在可不可以直接准备秋招？有什么建议吗？](https://www.zhihu.com/question/459194394)
+1. [2020 欧洲杯有哪些非常值得期待的地方？](https://www.zhihu.com/question/463813116)
+1. [考研什么时候准备？](https://www.zhihu.com/question/46869085)
 1. [《觉醒年代》可以为今年的高考作文题提供哪些素材？](https://www.zhihu.com/question/463608592)
 1. [高考后是否应该马上「对答案」？怎样科学「对答案」？对完后是一种怎样的心情？](https://www.zhihu.com/question/463614773)
-1. [Kotlin 语言现在怎么不火了?](https://www.zhihu.com/question/461471019)
-1. [夷陵之战刘备怎样才能打赢陆逊？](https://www.zhihu.com/question/463713654)
-1. [计算机专业找不到暑期实习现在可不可以直接准备秋招？有什么建议吗？](https://www.zhihu.com/question/459194394)
-1. [如何评价张云雷新歌《听潮》？](https://www.zhihu.com/question/463789122)
-1. [2020 欧洲杯有哪些非常值得期待的地方？](https://www.zhihu.com/question/463813116)
+1. [怎么看待显卡里的等等党？](https://www.zhihu.com/question/448323212)
 
 ## 热门视频
 
