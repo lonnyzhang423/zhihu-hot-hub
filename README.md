@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2021-07-02 03:10:24 +0800`
+`更新时间：2021-07-02 04:07:13 +0800`
 
 ## 热门搜索
 
@@ -74,20 +74,20 @@
 1. [2021 赛季太阳 4：2 击沉快船挺进总决赛，圣保罗会拿到第一个冠军吗？](https://www.zhihu.com/question/469262115)
 1. [今天，全军官兵都在各自战位上庆祝建党 100 周年，有没有哪个精彩瞬间让你破防？](https://www.zhihu.com/question/469245739)
 1. [12 强赛分组抽签结果出炉，国足将面对日本澳大利亚，你看好国足冲击世界杯的前景吗？](https://www.zhihu.com/question/469309297)
-1. [上汽董事长称不能接受与华为合作自动驾驶：它成了灵魂，而上汽就成了躯体。你怎么看？](https://www.zhihu.com/question/469323054)
 1. [如何看待消息称王自如加入格力，任格力副总裁？](https://www.zhihu.com/question/465492294)
+1. [上汽董事长称不能接受与华为合作自动驾驶：它成了灵魂，而上汽就成了躯体。你怎么看？](https://www.zhihu.com/question/469323054)
 1. [这 100 年来，中国科技数码行业有哪些飞跃发展的成果让你感到骄傲和自豪？](https://www.zhihu.com/question/468832684)
-1. [东京奥运会男篮落选赛中国男篮 79:109 不敌加拿大男篮，如何评价这场比赛？](https://www.zhihu.com/question/469226684)
 1. [可以安利一下年纪小很帅但是很糊的爱豆或演员吗？](https://www.zhihu.com/question/458588894)
 1. [情侣之间应该每天都联系吗？](https://www.zhihu.com/question/447408356)
 1. [iPhone13 值得等吗？](https://www.zhihu.com/question/445568012)
+1. [东京奥运会男篮落选赛中国男篮 79:109 不敌加拿大男篮，如何评价这场比赛？](https://www.zhihu.com/question/469226684)
 1. [滴滴 6 月 30 日纽交所上市，市值 670 亿美元，还有哪些值得关注的信息？](https://www.zhihu.com/question/469170831)
-1. [有哪些被颜值耽误的美食？](https://www.zhihu.com/question/463302536)
 1. [考研建议回家复习吗？](https://www.zhihu.com/question/436085854)
 1. [一个人做淘宝店需要多少技能？](https://www.zhihu.com/question/21030919)
 1. [可以分享几句你觉得励志的句子吗？](https://www.zhihu.com/question/462684741)
-1. [旅行中的哪一刻令你感到「祖国的山河美如画」？](https://www.zhihu.com/question/468764145)
 1. [想在高三拼一拼，但是不知道怎样去学习和计划，有没有什么切实的办法？](https://www.zhihu.com/question/467995879)
+1. [旅行中的哪一刻令你感到「祖国的山河美如画」？](https://www.zhihu.com/question/468764145)
+1. [有哪些被颜值耽误的美食？](https://www.zhihu.com/question/463302536)
 1. [中国好的二本有哪些？](https://www.zhihu.com/question/282553012)
 1. [最好的友情状态是怎样的?](https://www.zhihu.com/question/24091183)
 1. [如何评价小米 11 被强制更新 12.5.8 版本后导致性能大幅下降？](https://www.zhihu.com/question/466557336)
@@ -96,7 +96,7 @@
 1. [《王者荣耀》现在哪些英雄可以带斩杀？](https://www.zhihu.com/question/466600116)
 1. [命运真的是注定的吗，多努力也无法更改的吗？](https://www.zhihu.com/question/468059308)
 1. [计算机专业想进大厂，大一结束应该什么水准？](https://www.zhihu.com/question/450241362)
-1. [作为一名从小非常害怕昆虫的妈妈，如何培养孩子对昆虫和大自然的兴趣？](https://www.zhihu.com/question/468299114)
+1. [一年级小学生，家长需要帮检查作业吗？在辅导作业中，家长的角色和作用是什么？](https://www.zhihu.com/question/466551332)
 
 ## 热门视频
 
