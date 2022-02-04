@@ -11,22 +11,22 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2022-02-05 05:06:23 +0800`
+`更新时间：2022-02-05 06:06:00 +0800`
 
 ## 热门搜索
 
 1. [北京冬奥会开幕式](https://www.zhihu.com/search?q=%E5%86%AC%E5%A5%A5%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F)
-1. [《原神》角色神里绫人](https://www.zhihu.com/search?q=%E5%8E%9F%E7%A5%9E)
-1. [游戏《消逝的光芒 2》](https://www.zhihu.com/search?q=%E6%B6%88%E9%80%9D%E7%9A%84%E5%85%89%E8%8A%922)
-1. [刘强东捐赠 23.4 亿美元京东股票](https://www.zhihu.com/search?q=%E5%88%98%E5%BC%BA%E4%B8%9C%E6%8D%90%E8%B5%A0%E8%82%A1%E7%A5%A8)
+1. [天津新增 9 例确诊](https://www.zhihu.com/search?q=%E5%A4%A9%E6%B4%A5%E7%96%AB%E6%83%85)
+1. [浙江新增确诊病例 1 例](https://www.zhihu.com/search?q=%E6%B5%99%E6%B1%9F%E7%96%AB%E6%83%85)
 1. [广东全省新增本土确诊病例 9 例](https://www.zhihu.com/search?q=%E5%B9%BF%E4%B8%9C%E7%96%AB%E6%83%85)
+1. [马丽成中国首位百亿票房女影人](https://www.zhihu.com/search?q=%E9%A9%AC%E4%B8%BD)
 1. [工信部回应美撤销中国联通牌照](https://www.zhihu.com/search?q=%E5%B7%A5%E4%BF%A1%E9%83%A8%E5%9B%9E%E5%BA%94%E7%BE%8E%E6%92%A4%E9%94%80%E4%B8%AD%E5%9B%BD%E8%81%94%E9%80%9A%E7%89%8C%E7%85%A7)
 1. [哈登 4 分篮网 6 连败](https://www.zhihu.com/search?q=%E7%AF%AE%E7%BD%91)
 1. [威少 9 分湖人胜开拓者](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BA)
 1. [蔡斌任国家女排主教练](https://www.zhihu.com/search?q=%E8%94%A1%E6%96%8C)
-1. [马丽成中国首位百亿票房女影人](https://www.zhihu.com/search?q=%E9%A9%AC%E4%B8%BD)
+1. [刘强东捐赠 23.4 亿美元京东股票](https://www.zhihu.com/search?q=%E5%88%98%E5%BC%BA%E4%B8%9C%E6%8D%90%E8%B5%A0%E8%82%A1%E7%A5%A8)
 1. [近日虎年来最大规模雨雪将上线](https://www.zhihu.com/search?q=%E8%99%8E%E5%B9%B4%E6%9C%80%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%9B%A8%E9%9B%AA%E5%B0%86%E4%B8%8A%E7%BA%BF)
-1. [浙江新增确诊病例 1 例](https://www.zhihu.com/search?q=%E6%B5%99%E6%B1%9F%E7%96%AB%E6%83%85)
+1. [中国女足淘汰日本晋级亚洲杯决赛](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B3)
 1. [北京冬奥会开幕式先导片上线](https://www.zhihu.com/search?q=%E5%8C%97%E4%BA%AC%E5%86%AC%E5%A5%A5%E4%BC%9A%E5%BC%80%E5%B9%95%E5%BC%8F%E5%85%88%E5%AF%BC%E7%89%87)
 1. [王霜「你永远可以相信中国女足」](https://www.zhihu.com/search?q=%E7%8E%8B%E9%9C%9C)
 1. [陈巍 花样滑冰](https://www.zhihu.com/search?q=%E8%8A%B1%E6%A0%B7%E6%BB%91%E5%86%B0)
@@ -35,8 +35,8 @@
 1. [中国女冰战胜丹麦队](https://www.zhihu.com/search?q=%E5%86%B0%E7%90%83)
 1. [浓眉 30+17 湖人负快船](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BA)
 1. [历届冬奥会吉祥物你最喜欢哪个](https://www.zhihu.com/search?q=%E5%86%AC%E5%A5%A5%E4%BC%9A%E5%90%89%E7%A5%A5%E7%89%A9)
-1. [天津新增 9 例确诊](https://www.zhihu.com/search?q=%E5%A4%A9%E6%B4%A5%E7%96%AB%E6%83%85)
-1. [中国女足淘汰日本晋级亚洲杯决赛](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E8%B6%B3)
+1. [《原神》角色神里绫人](https://www.zhihu.com/search?q=%E5%8E%9F%E7%A5%9E)
+1. [游戏《消逝的光芒 2》](https://www.zhihu.com/search?q=%E6%B6%88%E9%80%9D%E7%9A%84%E5%85%89%E8%8A%922)
 1. [一人之下最新话更新](https://www.zhihu.com/search?q=%E4%B8%80%E4%BA%BA%E4%B9%8B%E4%B8%8B)
 1. [立春](https://www.zhihu.com/search?q=%E7%AB%8B%E6%98%A5)
 1. [中国冰壶混双惜败瑞典](https://www.zhihu.com/search?q=%E5%86%AC%E5%A5%A5%E5%86%B0%E5%A3%B6)
@@ -73,9 +73,9 @@
 1. [奥运会、夏奥会和冬奥会有什么区别?](https://www.zhihu.com/question/33720025)
 1. [如何评价游戏 《Dying Light 2》（消逝的光芒 2）？](https://www.zhihu.com/question/343043229)
 1. [魏翔有机会成长为下一个沈腾吗？](https://www.zhihu.com/question/510839337)
-1. [拜登发表声明称「『伊斯兰国』最高头目在美军袭击行动中自杀身亡」，还有哪些细节值得关注？](https://www.zhihu.com/question/514691168)
 1. [能不能分享一下你中考时的逆袭故事？](https://www.zhihu.com/question/513770706)
 1. [有没有好看，值得二刷的小说推荐？](https://www.zhihu.com/question/423985974)
+1. [拜登发表声明称「『伊斯兰国』最高头目在美军袭击行动中自杀身亡」，还有哪些细节值得关注？](https://www.zhihu.com/question/514691168)
 1. [有哪些关于冬奥会的冷知识？](https://www.zhihu.com/question/480379023)
 1. [情人节送什么礼物好呢？送礼物必看清单！！?](https://www.zhihu.com/question/513506687)
 1. [有钱又成功的 INFP 是什么样的？](https://www.zhihu.com/question/402487289)
@@ -89,15 +89,15 @@
 1. [每天的生活很难过，我有什么方法，可以开心的活着呢？](https://www.zhihu.com/question/514727004)
 1. [如何具有透过现象看到本质的能力？](https://www.zhihu.com/question/268328562)
 1. [我喜欢的男孩子不优秀，可是我还是喜欢，怎么办？](https://www.zhihu.com/question/514716301)
-1. [NBA 21-22 赛季国王 114:126 勇士，库里 20+7 克莱 23+7，如何评价这场比赛？](https://www.zhihu.com/question/514693591)
 1. [各大巨头纷纷布局，元宇宙真的会成为下一代互联网的形态吗？](https://www.zhihu.com/question/499091849)
+1. [NBA 21-22 赛季国王 114:126 勇士，库里 20+7 克莱 23+7，如何评价这场比赛？](https://www.zhihu.com/question/514693591)
 1. [本人高中，就很迷茫，但是知道自己要努力学习，但是很害怕自己努力了会换不回自己想要的结果，应该怎么办？](https://www.zhihu.com/question/514136665)
-1. [如果一段友谊中，总是你在付出，还需不需要一直下去？](https://www.zhihu.com/question/514595218)
-1. [想买家用全自动咖啡机，有没有性价比高的推荐？](https://www.zhihu.com/question/66754092)
-1. [有没有好的文案或句子?](https://www.zhihu.com/question/513356660)
-1. [你知道哪些比较冷门的美食吃法?](https://www.zhihu.com/question/59572494)
 1. [暗恋久了还放不下，到底是释怀不了，还是已经成了执念？](https://www.zhihu.com/question/514710945)
 1. [如果按奥特曼的体型比例做一个超大小提琴，会不会只能拉出来低音提琴的音色？](https://www.zhihu.com/question/509783172)
+1. [低谷期大家是怎么走出的?](https://www.zhihu.com/question/437877517)
+1. [本人高中，群交友谊真的值得继续吗？](https://www.zhihu.com/question/514686770)
+1. [如果一段友谊中，总是你在付出，还需不需要一直下去？](https://www.zhihu.com/question/514595218)
+1. [王霜发文称「你永远可以相信中国女足」，如何评价中国女足的赛场实力？](https://www.zhihu.com/question/514689348)
 
 ## 热门视频
 
