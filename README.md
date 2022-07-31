@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2022-08-01 02:10:11 +0800`
+`更新时间：2022-08-01 03:07:55 +0800`
 
 ## 热门搜索
 
@@ -47,22 +47,24 @@
 1. [有哪些你本来瞧不上，实际用了后发现是王炸的家居品？](https://www.zhihu.com/question/538193937)
 1. [如果我国实现 28nm 芯片全产业链国产化，能够满足国内多少比例的芯片供应？](https://www.zhihu.com/question/440261853)
 1. [郝瀚为演好《独行月球》中「袋鼠先生」，抛弃原有的动作习惯苦练一年，好演员都应该具备哪些素质？](https://www.zhihu.com/question/545331967)
-1. [7 月 31 日 KPL 夏季赛 A 组第三轮 XYG3:0 成都 AG 超玩会，如何评价这场比赛？](https://www.zhihu.com/question/546277899)
 1. [如何评价赵雷的《南方姑娘》？](https://www.zhihu.com/question/23084882)
 1. [《笑傲江湖》中，风清扬鄙视岳不群，为什么不自己重振华山？](https://www.zhihu.com/question/542185229)
 1. [在工厂上班是一种什么样的体验？](https://www.zhihu.com/question/348434653)
 1. [我读图形学博士觉得就是玩，是不是我心态有问题？](https://www.zhihu.com/question/425698106)
 1. [当大学老师是怎样的体验？](https://www.zhihu.com/question/26959292)
+1. [7 月 31 号《王者荣耀》夏季赛成都 AG 超玩会 0:3XYG，如何评价这场比赛？](https://www.zhihu.com/question/546273038)
 1. [暑假作业出现昆虫类的题目，孩子看都不要看拒绝做这类题，该怎么处理？](https://www.zhihu.com/question/543509390)
+1. [为什么我炒的菜味道不好吃呢？](https://www.zhihu.com/question/542483588)
 1. [PC 电脑能不能当服务器用？](https://www.zhihu.com/question/545536412)
-1. [为什么有些人只想用 1080P 的屏幕，而拒绝上高分辨率？](https://www.zhihu.com/question/545941560)
+1. [7 月 31 日 KPL 夏季赛 A 组第三轮 XYG3:0 成都 AG 超玩会，如何评价这场比赛？](https://www.zhihu.com/question/546277899)
 1. [手动挡开起来比自动挡累吗？](https://www.zhihu.com/question/543734327)
 1. [如果一定要喝饮料，哪些饮料相对比较健康?](https://www.zhihu.com/question/279774429)
-1. [董卿是刘谦的托吗？为什么？](https://www.zhihu.com/question/20032637)
+1. [为什么有些人只想用 1080P 的屏幕，而拒绝上高分辨率？](https://www.zhihu.com/question/545941560)
 1. [2022 赛季 F1 匈牙利大奖赛维斯塔潘夺冠，奔驰二三带回，如何评价本场比赛？](https://www.zhihu.com/question/546286804)
-1. [空气炸锅为什么一滴油就可以炸东西？](https://www.zhihu.com/question/332733985)
+1. [董卿是刘谦的托吗？为什么？](https://www.zhihu.com/question/20032637)
 1. [高中选科是选择自己喜欢的还是好上大学的科目?](https://www.zhihu.com/question/546255254)
 1. [1 亿和复制他人天赋的超能力，选哪一个？](https://www.zhihu.com/question/403421910)
+1. [空气炸锅为什么一滴油就可以炸东西？](https://www.zhihu.com/question/332733985)
 1. [一个人长期写作，他的生活会产生哪些改变？](https://www.zhihu.com/question/266637698)
 1. [在湾区工作一年大概能攒下来多少钱？](https://www.zhihu.com/question/299239760)
 1. [沙僧真的是因为打碎了玻璃盏才被赶到下界的吗？](https://www.zhihu.com/question/371515636)
@@ -71,19 +73,17 @@
 1. [如何高效地阅读曼昆的《经济学原理》？](https://www.zhihu.com/question/41905476)
 1. [成绩不好，突然想好好学习了，已经高三了，再努力来得及吗?](https://www.zhihu.com/question/540781006)
 1. [拿爱情和前途做选择是否无知?](https://www.zhihu.com/question/546169475)
-1. [如何自然地演讲 PPT，而不是念 PPT？](https://www.zhihu.com/question/432657311)
-1. [俄罗斯外交部发言人称，佩洛西亚洲行是「危险的军事政治冒险主义行为」，这释放了哪些消息？](https://www.zhihu.com/question/546239715)
 1. [家里有猫，刚结婚，如果怀孕了还能继续养猫吗？](https://www.zhihu.com/question/545809609)
 1. [女朋友家里很有钱，什么都不缺，七夕节应该送什么礼物？](https://www.zhihu.com/question/546150381)
 1. [为什么感觉《原神》稻妻的剧情里角色都在利用我？](https://www.zhihu.com/question/528740559)
-1. [为什么张都监不把更能打的武松收为小弟，反而设计将其除掉？武松不比蒋门神更好用吗？](https://www.zhihu.com/question/545795120)
+1. [俄罗斯外交部发言人称，佩洛西亚洲行是「危险的军事政治冒险主义行为」，这释放了哪些消息？](https://www.zhihu.com/question/546239715)
 1. [怎么样防止被领导套话？](https://www.zhihu.com/question/486267940)
 1. [为什么有些父母就喜欢不停的打击自己的子女呢?](https://www.zhihu.com/question/35544781)
 1. [如果可以选择，你最喜欢金庸武侠里面哪一位做自己的师傅？](https://www.zhihu.com/question/546148581)
 1. [如何看待 2022 年以来已有超 40 家 A 股公司退市，创历史新高？透露了哪些信息？](https://www.zhihu.com/question/546130542)
-1. [和羽生结弦聊天是种什么体验？](https://www.zhihu.com/question/528825120)
-1. [《独行月球》中有哪些 bug？](https://www.zhihu.com/question/546005963)
+1. [如何自然地演讲 PPT，而不是念 PPT？](https://www.zhihu.com/question/432657311)
 1. [运动饮料有什么推荐？](https://www.zhihu.com/question/25408939)
+1. [如何评价《七磅》这部电影 ?](https://www.zhihu.com/question/24918957)
 
 ## 热门视频
 
