@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2022-12-05 05:07:39 +0800`
+`更新时间：2022-12-05 06:07:12 +0800`
 
 ## 热门搜索
 
@@ -20,7 +20,7 @@
 1. [广州多家银行可暂缓还房贷](https://www.zhihu.com/search?q=%E5%B9%BF%E5%B7%9E%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E5%8F%AF%E6%9A%82%E7%BC%93%E8%BF%98%E6%88%BF%E8%B4%B7)
 1. [神十四返回舱搜救任务或为史上最难](https://www.zhihu.com/search?q=%E7%A5%9E%E5%8D%81%E5%9B%9B%E8%BF%94%E5%9B%9E%E8%88%B1%E6%90%9C%E6%95%91%E4%BB%BB%E5%8A%A1%E6%88%96%E4%B8%BA%E5%8F%B2%E4%B8%8A%E6%9C%80%E9%9A%BE)
 1. [专家：新冠回归乙类管理条件渐趋成熟](https://www.zhihu.com/search?q=%E4%B8%93%E5%AE%B6%EF%BC%9A%E6%96%B0%E5%86%A0%E5%9B%9E%E5%BD%92%E4%B9%99%E7%B1%BB%E7%AE%A1%E7%90%86%E6%9D%A1%E4%BB%B6%E6%B8%90%E8%B6%8B%E6%88%90%E7%86%9F)
-1. [英格兰 vs 塞内加尔](https://www.zhihu.com/search?q=%E8%8B%B1%E6%A0%BC%E5%85%B0%20vs%20%E5%A1%9E%E5%86%85%E5%8A%A0%E5%B0%94)
+1. [英格兰 3:0 淘汰塞内加尔](https://www.zhihu.com/search?q=%E8%8B%B1%E6%A0%BC%E5%85%B0%203%3A0%20%E6%B7%98%E6%B1%B0%E5%A1%9E%E5%86%85%E5%8A%A0%E5%B0%94)
 
 ## 热门话题
 
@@ -48,8 +48,8 @@
 1. [一个人不会管理自己情绪的真正原因是什么?](https://www.zhihu.com/question/352862607)
 1. [辽宁锦州发布「放弃努力太可惜」公告 14 小时后宣布「解封」，哪些信息值得关注？](https://www.zhihu.com/question/570243426)
 1. [胡锡进评「仍在查核酸但大量核酸点先撤了，这样的政策打架要不得」，如何看待这一现象？](https://www.zhihu.com/question/570290298)
-1. [在特别黑暗的中世纪的欧洲，为什么就能拥有着八十多所的大学？](https://www.zhihu.com/question/297128262)
 1. [《三体》中韦德的威慑度为 100% 是不是太过绝对了？](https://www.zhihu.com/question/435944781)
+1. [在特别黑暗的中世纪的欧洲，为什么就能拥有着八十多所的大学？](https://www.zhihu.com/question/297128262)
 1. [「费米悖论」大过滤器假说中的大过滤器可能有哪些？](https://www.zhihu.com/question/47377353)
 1. [北京朝阳区就核酸检测点调整不高效致歉，将加快核酸点由小区向社会面转移速度，具体情况如何？](https://www.zhihu.com/question/570321622)
 1. [外媒报道球王贝利放弃化疗转入临终病房，目前情况如何？你对贝利有哪些深刻印象？巅峰时代的他有多强？](https://www.zhihu.com/question/570298623)
@@ -60,20 +60,20 @@
 1. [立陶宛三军司令称，驻立美军已从对俄威慑转变为战备状态，这一状态将持续到 2025 年，释放了哪些信息？](https://www.zhihu.com/question/570278102)
 1. [神舟十四号三名航天员顺利出舱，身体状况良好，你对他们有哪些祝福？返回地面后航天员身体会经受怎样的考验？](https://www.zhihu.com/question/570228451)
 1. [本届世界杯六支亚足联球队破多项纪录，日韩的把球员送出去，把教练请进来的「留洋 + 青训」模式有何特别之处？](https://www.zhihu.com/question/570275543)
-1. [作为地图爱好者，你收藏过哪些有意义的地图？](https://www.zhihu.com/question/465456989)
 1. [如何培养小朋友爱读书的习惯？](https://www.zhihu.com/question/569774424)
 1. [有哪些小渔村 / 小镇可以满足「在海边生活的所有幻想」？](https://www.zhihu.com/question/569398846)
+1. [作为地图爱好者，你收藏过哪些有意义的地图？](https://www.zhihu.com/question/465456989)
 1. [你们家可爱的宠物，是怎样得来的，能说说吗？](https://www.zhihu.com/question/554308126)
 1. [俄官员称「对俄石油限价将危害欧盟能源安全」，具体危害有哪些？会产生哪些影响？](https://www.zhihu.com/question/570331248)
-1. [如果存在一个使用九进制的文明，那么它们会在何时有奇数和偶数的概念？](https://www.zhihu.com/question/568789213)
 1. [对阵澳大利亚屡失良机，如何评价劳塔罗在本届世界杯的表现？](https://www.zhihu.com/question/570320605)
-1. [G7 敲定俄油价格上限，欧盟委员会主席表示俄罗斯收入将受严重打击，何为价格上限机制？俄罗斯该如何应对？](https://www.zhihu.com/question/570284892)
 1. [考研小白，该怎么准备 24 考研？](https://www.zhihu.com/question/548919899)
 1. [室内设计中的人体工程学大概有哪些？](https://www.zhihu.com/question/276263073)
 1. [高二努力还会有希望吗？](https://www.zhihu.com/question/570307726)
 1. [30 年前的海马斯火箭炮在 2022 年看来还算先进武器吗？](https://www.zhihu.com/question/567658878)
-1. [12 月 3 日北京新增 708 例本土确诊病例，2486 例本土无症状感染者，当地防疫情况如何？](https://www.zhihu.com/question/570324023)
+1. [如果存在一个使用九进制的文明，那么它们会在何时有奇数和偶数的概念？](https://www.zhihu.com/question/568789213)
 1. [你是否可以接受自己的平庸？](https://www.zhihu.com/question/570310339)
+1. [G7 敲定俄油价格上限，欧盟委员会主席表示俄罗斯收入将受严重打击，何为价格上限机制？俄罗斯该如何应对？](https://www.zhihu.com/question/570284892)
+1. [12 月 3 日北京新增 708 例本土确诊病例，2486 例本土无症状感染者，当地防疫情况如何？](https://www.zhihu.com/question/570324023)
 
 ## 热门视频
 
@@ -101,8 +101,8 @@
 1. [一个人不会管理自己情绪的真正原因是什么?](https://www.zhihu.com/question/352862607)
 1. [辽宁锦州发布「放弃努力太可惜」公告 14 小时后宣布「解封」，哪些信息值得关注？](https://www.zhihu.com/question/570243426)
 1. [胡锡进评「仍在查核酸但大量核酸点先撤了，这样的政策打架要不得」，如何看待这一现象？](https://www.zhihu.com/question/570290298)
-1. [在特别黑暗的中世纪的欧洲，为什么就能拥有着八十多所的大学？](https://www.zhihu.com/question/297128262)
 1. [《三体》中韦德的威慑度为 100% 是不是太过绝对了？](https://www.zhihu.com/question/435944781)
+1. [在特别黑暗的中世纪的欧洲，为什么就能拥有着八十多所的大学？](https://www.zhihu.com/question/297128262)
 1. [「费米悖论」大过滤器假说中的大过滤器可能有哪些？](https://www.zhihu.com/question/47377353)
 1. [北京朝阳区就核酸检测点调整不高效致歉，将加快核酸点由小区向社会面转移速度，具体情况如何？](https://www.zhihu.com/question/570321622)
 1. [外媒报道球王贝利放弃化疗转入临终病房，目前情况如何？你对贝利有哪些深刻印象？巅峰时代的他有多强？](https://www.zhihu.com/question/570298623)
@@ -113,20 +113,20 @@
 1. [立陶宛三军司令称，驻立美军已从对俄威慑转变为战备状态，这一状态将持续到 2025 年，释放了哪些信息？](https://www.zhihu.com/question/570278102)
 1. [神舟十四号三名航天员顺利出舱，身体状况良好，你对他们有哪些祝福？返回地面后航天员身体会经受怎样的考验？](https://www.zhihu.com/question/570228451)
 1. [本届世界杯六支亚足联球队破多项纪录，日韩的把球员送出去，把教练请进来的「留洋 + 青训」模式有何特别之处？](https://www.zhihu.com/question/570275543)
-1. [作为地图爱好者，你收藏过哪些有意义的地图？](https://www.zhihu.com/question/465456989)
 1. [如何培养小朋友爱读书的习惯？](https://www.zhihu.com/question/569774424)
 1. [有哪些小渔村 / 小镇可以满足「在海边生活的所有幻想」？](https://www.zhihu.com/question/569398846)
+1. [作为地图爱好者，你收藏过哪些有意义的地图？](https://www.zhihu.com/question/465456989)
 1. [你们家可爱的宠物，是怎样得来的，能说说吗？](https://www.zhihu.com/question/554308126)
 1. [俄官员称「对俄石油限价将危害欧盟能源安全」，具体危害有哪些？会产生哪些影响？](https://www.zhihu.com/question/570331248)
-1. [如果存在一个使用九进制的文明，那么它们会在何时有奇数和偶数的概念？](https://www.zhihu.com/question/568789213)
 1. [对阵澳大利亚屡失良机，如何评价劳塔罗在本届世界杯的表现？](https://www.zhihu.com/question/570320605)
-1. [G7 敲定俄油价格上限，欧盟委员会主席表示俄罗斯收入将受严重打击，何为价格上限机制？俄罗斯该如何应对？](https://www.zhihu.com/question/570284892)
 1. [考研小白，该怎么准备 24 考研？](https://www.zhihu.com/question/548919899)
 1. [室内设计中的人体工程学大概有哪些？](https://www.zhihu.com/question/276263073)
 1. [高二努力还会有希望吗？](https://www.zhihu.com/question/570307726)
 1. [30 年前的海马斯火箭炮在 2022 年看来还算先进武器吗？](https://www.zhihu.com/question/567658878)
-1. [12 月 3 日北京新增 708 例本土确诊病例，2486 例本土无症状感染者，当地防疫情况如何？](https://www.zhihu.com/question/570324023)
+1. [如果存在一个使用九进制的文明，那么它们会在何时有奇数和偶数的概念？](https://www.zhihu.com/question/568789213)
 1. [你是否可以接受自己的平庸？](https://www.zhihu.com/question/570310339)
+1. [G7 敲定俄油价格上限，欧盟委员会主席表示俄罗斯收入将受严重打击，何为价格上限机制？俄罗斯该如何应对？](https://www.zhihu.com/question/570284892)
+1. [12 月 3 日北京新增 708 例本土确诊病例，2486 例本土无症状感染者，当地防疫情况如何？](https://www.zhihu.com/question/570324023)
 
 ## 历史归档
 
