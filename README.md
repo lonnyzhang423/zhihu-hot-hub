@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2022-12-06 04:08:55 +0800`
+`更新时间：2022-12-06 05:07:41 +0800`
 
 ## 热门搜索
 
@@ -21,7 +21,7 @@
 1. [加满一箱油少花 17.5 元](https://www.zhihu.com/search?q=%E5%8A%A0%E6%BB%A1%E4%B8%80%E7%AE%B1%E6%B2%B9%E5%B0%91%E8%8A%B1%2017.5%20%E5%85%83)
 1. [保定市民称周边疑较多阳性 当地回应](https://www.zhihu.com/search?q=%E4%BF%9D%E5%AE%9A%E5%B8%82%E6%B0%91%E7%A7%B0%E5%91%A8%E8%BE%B9%E7%96%91%E8%BE%83%E5%A4%9A%E9%98%B3%E6%80%A7%20%E5%BD%93%E5%9C%B0%E5%9B%9E%E5%BA%94)
 1. [原神新角色 PV](https://www.zhihu.com/search?q=%E5%8E%9F%E7%A5%9E%E6%96%B0%E8%A7%92%E8%89%B2%20PV)
-1. [巴西 vs 韩国](https://www.zhihu.com/search?q=%E5%B7%B4%E8%A5%BF%20vs%20%E9%9F%A9%E5%9B%BD)
+1. [巴西 4:1 轻取韩国](https://www.zhihu.com/search?q=%E5%B7%B4%E8%A5%BF%204%3A1%20%E8%BD%BB%E5%8F%96%E9%9F%A9%E5%9B%BD)
 1. [克罗地亚点球大战淘汰日本](https://www.zhihu.com/search?q=%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A%E7%82%B9%E7%90%83%E5%A4%A7%E6%88%98%E6%B7%98%E6%B1%B0%E6%97%A5%E6%9C%AC)
 
 ## 热门话题
@@ -40,17 +40,17 @@
 1. [如何看待多地宣布「歌可唱、舞可跳，部分只查绿码」？对市民生活会产生什么影响？](https://www.zhihu.com/question/570180795)
 1. [2022 年卡塔尔世界杯 1/8 决赛日本点球大战不敌克罗地亚，无缘 8 强，如何评价本场比赛？](https://www.zhihu.com/question/570591123)
 1. [再度止步十六强，如何评价卡塔尔世界杯上日本队的表现？](https://www.zhihu.com/question/570611075)
-1. [从整个宇宙来看，人类有无可能已经点错了科技树？](https://www.zhihu.com/question/36247563)
 1. [报道称加拿大欲向台海派更多军舰，外交部称「反对任何国家以航行自由为名威胁中国主权」，如何看待加方意图？](https://www.zhihu.com/question/570538614)
 1. [日本的茶道真的是从中国传去的吗？](https://www.zhihu.com/question/570371530)
 1. [你有什么自己悟出来的道理吗？](https://www.zhihu.com/question/557600391)
+1. [乌克兰的平均气温降到零度以下，会对战事发生什么样影响?](https://www.zhihu.com/question/570398017)
 1. [周一 A 股三大指数高开，沪指站上 3200 点，央企改革概念再爆发，如何看待 12 月 5 日股市？](https://www.zhihu.com/question/570433040)
 1. [2023 年整个汽车行业预计会发生哪些变化？](https://www.zhihu.com/question/568629776)
-1. [乌克兰的平均气温降到零度以下，会对战事发生什么样影响?](https://www.zhihu.com/question/570398017)
 1. [想给孩子换个环境更好的幼儿园，但是小孩子不想换，我该尊重小朋友的选择吗?](https://www.zhihu.com/question/568957565)
 1. [从小到大，能让你感到最幸福的食物是什么？](https://www.zhihu.com/question/570132469)
-1. [专家提出松动的疫情防控政策必然会带来持续增长的感染者，我们如何与新冠病毒相处？感染新冠怎么办？](https://www.zhihu.com/question/570506792)
 1. [你珍藏了哪些绝版的或市面上已经难以买到的书？](https://www.zhihu.com/question/19560612)
+1. [专家提出松动的疫情防控政策必然会带来持续增长的感染者，我们如何与新冠病毒相处？感染新冠怎么办？](https://www.zhihu.com/question/570506792)
+1. [从整个宇宙来看，人类有无可能已经点错了科技树？](https://www.zhihu.com/question/36247563)
 1. [12 月 5 日 24 时国内成品油价格「两连跌」，加满一箱油少花约 17.5 元，哪些信息值得关注？](https://www.zhihu.com/question/570418129)
 1. [英官员称「如重要机构人员罢工，或调动军队维持公共服务」，释放了哪些信息？](https://www.zhihu.com/question/570463423)
 1. [多地疫情防控措施放宽，普通人应该以何种心态去面对这件事，同时应该做哪些准备？](https://www.zhihu.com/question/570415379)
@@ -64,18 +64,18 @@
 1. [2022 年卡塔尔世界杯小组赛 1/8 决赛巴西迎战韩国，本场比赛有哪些看点？](https://www.zhihu.com/question/570412040)
 1. [马克龙称「拜登和他同意『解决』美国《通胀削减法案》引发的问题」，其中哪些信息值得关注？](https://www.zhihu.com/question/570568368)
 1. [3000 余只银行理财产品「破净」引发赎回潮，打破刚兑会有哪些影响？银行理财产品保本一去不复返了吗？](https://www.zhihu.com/question/570349480)
+1. [怎么当一个好老师?](https://www.zhihu.com/question/570314175)
 1. [你旅途中曾记录过哪些「让人印象深刻」的巨型建筑？](https://www.zhihu.com/question/569811957)
 1. [如何做到《当下的力量》一书中提到的临在?](https://www.zhihu.com/question/39388521)
-1. [怎么当一个好老师?](https://www.zhihu.com/question/570314175)
 1. [你上次看日出是什么时候，有哪些有意思的回忆？](https://www.zhihu.com/question/568620878)
 1. [12 月 5 日起南京地铁、公交等不再查验核酸和健康码，这一举措意味着什么？有哪些信息值得关注？](https://www.zhihu.com/question/570502567)
 1. [带鱼怎么炸好吃？](https://www.zhihu.com/question/454628398)
 1. [如何看待「训练不是增肌的先决条件，拉伸不能帮助恢复，不训练吃蛋白质也会增肌」的观点？](https://www.zhihu.com/question/570333492)
-1. [为什么长时间不洗脸皮肤会变好？](https://www.zhihu.com/question/566923347)
 1. [你所在的城市有哪些有趣的市集值得一逛？](https://www.zhihu.com/question/568620944)
-1. [如何看待欧盟高官呼吁在世贸组织起诉美国「不再相信谈判可解决美欧经贸冲突」，这会带来哪些影响？](https://www.zhihu.com/question/570415496)
-1. [冬天吃什么食物会觉得幸福感飙升？](https://www.zhihu.com/question/569613386)
-1. [你见过哪些「水墨画风格」的自然、人文景观？](https://www.zhihu.com/question/569811951)
+1. [国内有哪些可以吃到少数民族特色美食的城市？](https://www.zhihu.com/question/568620895)
+1. [如何评价 Neural Corpus Indexer 在 Camera Ready 阶段大幅修改实验数据？](https://www.zhihu.com/question/570223822)
+1. [吉鲁破门，超过亨利成为法国队史射手王，如何评价吉鲁职业生涯在法国队的表现？](https://www.zhihu.com/question/570407778)
+1. [旅途中你曾拍下过哪些有意思的地铁、公交、火车站？](https://www.zhihu.com/question/569811965)
 
 ## 热门视频
 
@@ -93,17 +93,17 @@
 1. [如何看待多地宣布「歌可唱、舞可跳，部分只查绿码」？对市民生活会产生什么影响？](https://www.zhihu.com/question/570180795)
 1. [2022 年卡塔尔世界杯 1/8 决赛日本点球大战不敌克罗地亚，无缘 8 强，如何评价本场比赛？](https://www.zhihu.com/question/570591123)
 1. [再度止步十六强，如何评价卡塔尔世界杯上日本队的表现？](https://www.zhihu.com/question/570611075)
-1. [从整个宇宙来看，人类有无可能已经点错了科技树？](https://www.zhihu.com/question/36247563)
 1. [报道称加拿大欲向台海派更多军舰，外交部称「反对任何国家以航行自由为名威胁中国主权」，如何看待加方意图？](https://www.zhihu.com/question/570538614)
 1. [日本的茶道真的是从中国传去的吗？](https://www.zhihu.com/question/570371530)
 1. [你有什么自己悟出来的道理吗？](https://www.zhihu.com/question/557600391)
+1. [乌克兰的平均气温降到零度以下，会对战事发生什么样影响?](https://www.zhihu.com/question/570398017)
 1. [周一 A 股三大指数高开，沪指站上 3200 点，央企改革概念再爆发，如何看待 12 月 5 日股市？](https://www.zhihu.com/question/570433040)
 1. [2023 年整个汽车行业预计会发生哪些变化？](https://www.zhihu.com/question/568629776)
-1. [乌克兰的平均气温降到零度以下，会对战事发生什么样影响?](https://www.zhihu.com/question/570398017)
 1. [想给孩子换个环境更好的幼儿园，但是小孩子不想换，我该尊重小朋友的选择吗?](https://www.zhihu.com/question/568957565)
 1. [从小到大，能让你感到最幸福的食物是什么？](https://www.zhihu.com/question/570132469)
-1. [专家提出松动的疫情防控政策必然会带来持续增长的感染者，我们如何与新冠病毒相处？感染新冠怎么办？](https://www.zhihu.com/question/570506792)
 1. [你珍藏了哪些绝版的或市面上已经难以买到的书？](https://www.zhihu.com/question/19560612)
+1. [专家提出松动的疫情防控政策必然会带来持续增长的感染者，我们如何与新冠病毒相处？感染新冠怎么办？](https://www.zhihu.com/question/570506792)
+1. [从整个宇宙来看，人类有无可能已经点错了科技树？](https://www.zhihu.com/question/36247563)
 1. [12 月 5 日 24 时国内成品油价格「两连跌」，加满一箱油少花约 17.5 元，哪些信息值得关注？](https://www.zhihu.com/question/570418129)
 1. [英官员称「如重要机构人员罢工，或调动军队维持公共服务」，释放了哪些信息？](https://www.zhihu.com/question/570463423)
 1. [多地疫情防控措施放宽，普通人应该以何种心态去面对这件事，同时应该做哪些准备？](https://www.zhihu.com/question/570415379)
@@ -117,18 +117,18 @@
 1. [2022 年卡塔尔世界杯小组赛 1/8 决赛巴西迎战韩国，本场比赛有哪些看点？](https://www.zhihu.com/question/570412040)
 1. [马克龙称「拜登和他同意『解决』美国《通胀削减法案》引发的问题」，其中哪些信息值得关注？](https://www.zhihu.com/question/570568368)
 1. [3000 余只银行理财产品「破净」引发赎回潮，打破刚兑会有哪些影响？银行理财产品保本一去不复返了吗？](https://www.zhihu.com/question/570349480)
+1. [怎么当一个好老师?](https://www.zhihu.com/question/570314175)
 1. [你旅途中曾记录过哪些「让人印象深刻」的巨型建筑？](https://www.zhihu.com/question/569811957)
 1. [如何做到《当下的力量》一书中提到的临在?](https://www.zhihu.com/question/39388521)
-1. [怎么当一个好老师?](https://www.zhihu.com/question/570314175)
 1. [你上次看日出是什么时候，有哪些有意思的回忆？](https://www.zhihu.com/question/568620878)
 1. [12 月 5 日起南京地铁、公交等不再查验核酸和健康码，这一举措意味着什么？有哪些信息值得关注？](https://www.zhihu.com/question/570502567)
 1. [带鱼怎么炸好吃？](https://www.zhihu.com/question/454628398)
 1. [如何看待「训练不是增肌的先决条件，拉伸不能帮助恢复，不训练吃蛋白质也会增肌」的观点？](https://www.zhihu.com/question/570333492)
-1. [为什么长时间不洗脸皮肤会变好？](https://www.zhihu.com/question/566923347)
 1. [你所在的城市有哪些有趣的市集值得一逛？](https://www.zhihu.com/question/568620944)
-1. [如何看待欧盟高官呼吁在世贸组织起诉美国「不再相信谈判可解决美欧经贸冲突」，这会带来哪些影响？](https://www.zhihu.com/question/570415496)
-1. [冬天吃什么食物会觉得幸福感飙升？](https://www.zhihu.com/question/569613386)
-1. [你见过哪些「水墨画风格」的自然、人文景观？](https://www.zhihu.com/question/569811951)
+1. [国内有哪些可以吃到少数民族特色美食的城市？](https://www.zhihu.com/question/568620895)
+1. [如何评价 Neural Corpus Indexer 在 Camera Ready 阶段大幅修改实验数据？](https://www.zhihu.com/question/570223822)
+1. [吉鲁破门，超过亨利成为法国队史射手王，如何评价吉鲁职业生涯在法国队的表现？](https://www.zhihu.com/question/570407778)
+1. [旅途中你曾拍下过哪些有意思的地铁、公交、火车站？](https://www.zhihu.com/question/569811965)
 
 ## 历史归档
 
