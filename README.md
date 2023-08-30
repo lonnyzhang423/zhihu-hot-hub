@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2023-08-31 04:08:16 +0800`
+`更新时间：2023-08-31 05:08:03 +0800`
 
 ## 热门搜索
 
@@ -59,18 +59,18 @@
 1. [为什么一定要和「不扫兴人格」的人谈恋爱？](https://www.zhihu.com/question/619705749)
 1. [普里戈任在俄罗斯圣彼得堡下葬，葬礼细节曝光，欧盟称「不确定他是否死亡」，哪些信息值得关注？](https://www.zhihu.com/question/619808129)
 1. [《封神第一部》中，为什么妲己爬出来后第一句话是「我的簪子呢」？](https://www.zhihu.com/question/614224898)
+1. [在旅行中，你遇到过最令人难忘的文化冲突经历是什么？](https://www.zhihu.com/question/618657901)
 1. [狼、驼鹿进入同一孤岛：69 年后 狼竟然灭绝了。大自然中真实的狼性文化如此脆弱吗？](https://www.zhihu.com/question/619432371)
 1. [如何看待 2023 男篮世界杯对阵波多黎各时，王哲林的表现？](https://www.zhihu.com/question/619887885)
 1. [2023 年男篮世界杯中国 89-107 波多黎各，三战全败小组垫底，赵睿 16 分，如何评价本场比赛？](https://www.zhihu.com/question/619871720)
-1. [如何看待华为 Mate60 Pro 没开发布会直接上架官网开卖？](https://www.zhihu.com/question/619670151)
 1. [4000-5000 的轻薄本，办公用有没有好的推荐？](https://www.zhihu.com/question/613875460)
 1. [职场中你最怀念的瞬间是哪一刻？](https://www.zhihu.com/question/619833638)
+1. [如何看待华为 Mate60 Pro 没开发布会直接上架官网开卖？](https://www.zhihu.com/question/619670151)
 1. [不提雨，怎么形容雨很大？](https://www.zhihu.com/question/614688799)
 1. [小米回应 48 亿印度资金状况，称仅为冻结并非没收，仍然在通过法律诉讼解决，此事会有转机吗？](https://www.zhihu.com/question/619705823)
 1. [广州落地「认房不认贷」，专家称「率先调整，信号意义非常强」，为何是广州打响「第一枪」？北上深会跟进吗？](https://www.zhihu.com/question/619816081)
 1. [《披荆斩棘》第三季初舞台过后，你最期待接下来哪位哥哥的表演？](https://www.zhihu.com/question/619250328)
 1. [面试的时候看长相吗？](https://www.zhihu.com/question/30997091)
-1. [哪件事在深圳绝对不能做?](https://www.zhihu.com/question/578482584)
 1. [《孤注一掷》里最终是谁解救了大家？](https://www.zhihu.com/question/618435189)
 1. [工作中，听到什么话会让你觉得「毛骨悚然」？](https://www.zhihu.com/question/618137688)
 1. [在观看诺兰新片《奥本海默》前，了解哪些信息可以更好地理解这部真实事件改编的传记片？](https://www.zhihu.com/question/613701247)
@@ -79,7 +79,7 @@
 1. [有一个不扫兴的朋友是什么样体验？这类朋友有什么样的性格或者特性呢?](https://www.zhihu.com/question/612687222)
 1. [如何评价由克里斯托弗·诺兰自编自导、基里安·墨菲主演的电影《奥本海默》？](https://www.zhihu.com/question/612994100)
 1. [每逢开学季，各地都会营造「开学仪式感」，你能接受吗？如何看待这一现象？](https://www.zhihu.com/question/619503827)
-1. [选购电视时，大家靠什么判断电视画质的好坏？](https://www.zhihu.com/question/619490248)
+1. [哪件事在深圳绝对不能做?](https://www.zhihu.com/question/578482584)
 1. [机器学习中的「可解释性」该作何解释？](https://www.zhihu.com/question/505153525)
 1. [「凭什么考驾照要花钱挨骂」引热议，网友称驾校教练骂人屡见不鲜，如何看待此事？驾校应如何给予学员尊重？](https://www.zhihu.com/question/619650466)
 1. [8 月 30 日沪指缩量震荡微涨，半导体、数据要素等涨幅居前，券商股集体调整，如何看待今日行情？](https://www.zhihu.com/question/619807137)
@@ -87,11 +87,11 @@
 1. [如何看待部分月厨声称《崩坏：星穹铁道》中的角色镜流必杀技分镜「碰瓷」《月姬 R》中的艾尔奎特？](https://www.zhihu.com/question/619775178)
 1. [面试官问「你接受加班吗」，该怎么回答？](https://www.zhihu.com/question/619447617)
 1. [哪些护肤好物能让经常加班的熬夜党，快速恢复第二天工作的好状态？](https://www.zhihu.com/question/617215580)
-1. [集成灶和油烟机哪个好？做开放式厨房怎么选？](https://www.zhihu.com/question/358384158)
-1. [给医生写感谢信，医生会看吗?](https://www.zhihu.com/question/461215612)
 1. [为什么有些人越忙越胖，过劳肥真实存在吗？打工人如何摆脱「过劳肥」？](https://www.zhihu.com/question/619844603)
-1. [武侠小说中有哪些情节，被众人认为的垃圾武功，被主角练成了神功？](https://www.zhihu.com/question/301531416)
+1. [选购电视时，大家靠什么判断电视画质的好坏？](https://www.zhihu.com/question/619490248)
+1. [《三体》算硬科幻吗？](https://www.zhihu.com/question/269698588)
 1. [中国情景喜剧中的「厨子」：鼎香楼杨保禄，同福客栈李大嘴，炊事班胖洪，谁的厨艺好？](https://www.zhihu.com/question/601963150)
+1. [大妈们的衣着打扮为何偏爱艳色？](https://www.zhihu.com/question/618928908)
 
 ## 热门视频
 
@@ -112,18 +112,18 @@
 1. [为什么一定要和「不扫兴人格」的人谈恋爱？](https://www.zhihu.com/question/619705749)
 1. [普里戈任在俄罗斯圣彼得堡下葬，葬礼细节曝光，欧盟称「不确定他是否死亡」，哪些信息值得关注？](https://www.zhihu.com/question/619808129)
 1. [《封神第一部》中，为什么妲己爬出来后第一句话是「我的簪子呢」？](https://www.zhihu.com/question/614224898)
+1. [在旅行中，你遇到过最令人难忘的文化冲突经历是什么？](https://www.zhihu.com/question/618657901)
 1. [狼、驼鹿进入同一孤岛：69 年后 狼竟然灭绝了。大自然中真实的狼性文化如此脆弱吗？](https://www.zhihu.com/question/619432371)
 1. [如何看待 2023 男篮世界杯对阵波多黎各时，王哲林的表现？](https://www.zhihu.com/question/619887885)
 1. [2023 年男篮世界杯中国 89-107 波多黎各，三战全败小组垫底，赵睿 16 分，如何评价本场比赛？](https://www.zhihu.com/question/619871720)
-1. [如何看待华为 Mate60 Pro 没开发布会直接上架官网开卖？](https://www.zhihu.com/question/619670151)
 1. [4000-5000 的轻薄本，办公用有没有好的推荐？](https://www.zhihu.com/question/613875460)
 1. [职场中你最怀念的瞬间是哪一刻？](https://www.zhihu.com/question/619833638)
+1. [如何看待华为 Mate60 Pro 没开发布会直接上架官网开卖？](https://www.zhihu.com/question/619670151)
 1. [不提雨，怎么形容雨很大？](https://www.zhihu.com/question/614688799)
 1. [小米回应 48 亿印度资金状况，称仅为冻结并非没收，仍然在通过法律诉讼解决，此事会有转机吗？](https://www.zhihu.com/question/619705823)
 1. [广州落地「认房不认贷」，专家称「率先调整，信号意义非常强」，为何是广州打响「第一枪」？北上深会跟进吗？](https://www.zhihu.com/question/619816081)
 1. [《披荆斩棘》第三季初舞台过后，你最期待接下来哪位哥哥的表演？](https://www.zhihu.com/question/619250328)
 1. [面试的时候看长相吗？](https://www.zhihu.com/question/30997091)
-1. [哪件事在深圳绝对不能做?](https://www.zhihu.com/question/578482584)
 1. [《孤注一掷》里最终是谁解救了大家？](https://www.zhihu.com/question/618435189)
 1. [工作中，听到什么话会让你觉得「毛骨悚然」？](https://www.zhihu.com/question/618137688)
 1. [在观看诺兰新片《奥本海默》前，了解哪些信息可以更好地理解这部真实事件改编的传记片？](https://www.zhihu.com/question/613701247)
@@ -132,7 +132,7 @@
 1. [有一个不扫兴的朋友是什么样体验？这类朋友有什么样的性格或者特性呢?](https://www.zhihu.com/question/612687222)
 1. [如何评价由克里斯托弗·诺兰自编自导、基里安·墨菲主演的电影《奥本海默》？](https://www.zhihu.com/question/612994100)
 1. [每逢开学季，各地都会营造「开学仪式感」，你能接受吗？如何看待这一现象？](https://www.zhihu.com/question/619503827)
-1. [选购电视时，大家靠什么判断电视画质的好坏？](https://www.zhihu.com/question/619490248)
+1. [哪件事在深圳绝对不能做?](https://www.zhihu.com/question/578482584)
 1. [机器学习中的「可解释性」该作何解释？](https://www.zhihu.com/question/505153525)
 1. [「凭什么考驾照要花钱挨骂」引热议，网友称驾校教练骂人屡见不鲜，如何看待此事？驾校应如何给予学员尊重？](https://www.zhihu.com/question/619650466)
 1. [8 月 30 日沪指缩量震荡微涨，半导体、数据要素等涨幅居前，券商股集体调整，如何看待今日行情？](https://www.zhihu.com/question/619807137)
@@ -140,11 +140,11 @@
 1. [如何看待部分月厨声称《崩坏：星穹铁道》中的角色镜流必杀技分镜「碰瓷」《月姬 R》中的艾尔奎特？](https://www.zhihu.com/question/619775178)
 1. [面试官问「你接受加班吗」，该怎么回答？](https://www.zhihu.com/question/619447617)
 1. [哪些护肤好物能让经常加班的熬夜党，快速恢复第二天工作的好状态？](https://www.zhihu.com/question/617215580)
-1. [集成灶和油烟机哪个好？做开放式厨房怎么选？](https://www.zhihu.com/question/358384158)
-1. [给医生写感谢信，医生会看吗?](https://www.zhihu.com/question/461215612)
 1. [为什么有些人越忙越胖，过劳肥真实存在吗？打工人如何摆脱「过劳肥」？](https://www.zhihu.com/question/619844603)
-1. [武侠小说中有哪些情节，被众人认为的垃圾武功，被主角练成了神功？](https://www.zhihu.com/question/301531416)
+1. [选购电视时，大家靠什么判断电视画质的好坏？](https://www.zhihu.com/question/619490248)
+1. [《三体》算硬科幻吗？](https://www.zhihu.com/question/269698588)
 1. [中国情景喜剧中的「厨子」：鼎香楼杨保禄，同福客栈李大嘴，炊事班胖洪，谁的厨艺好？](https://www.zhihu.com/question/601963150)
+1. [大妈们的衣着打扮为何偏爱艳色？](https://www.zhihu.com/question/618928908)
 
 ## 历史归档
 
