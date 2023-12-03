@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2023-12-04 01:06:35 +0800`
+`更新时间：2023-12-04 02:09:07 +0800`
 
 ## 热门搜索
 
@@ -47,8 +47,8 @@
 
 ## 热门话题
 
-1. [知名餐饮品牌正新鸡排超 1 万家门店关闭，门店一度是肯德基中国 3 倍，哪些原因导致的？](https://www.zhihu.com/question/633100779)
 1. [官方回应五月天假唱风波称「将了解」，若假唱属实，主办方将受到哪些处罚？如何看待演唱会假唱？](https://www.zhihu.com/question/633116674)
+1. [知名餐饮品牌正新鸡排超 1 万家门店关闭，门店一度是肯德基中国 3 倍，哪些原因导致的？](https://www.zhihu.com/question/633100779)
 1. [过境至深圳的香港民众持续增加，媒体报道港人「爆买」深圳各大超市，如何看待这一现象？](https://www.zhihu.com/question/632097505)
 1. [美副总统哈里斯承认「太多无辜巴勒斯坦人被杀害」，释放了哪些信号？若失去美方支持，巴以局势将如何发展？](https://www.zhihu.com/question/633118015)
 1. [曹操生性多疑，连他的儿子曹丕见他都要事先报备，为什么典韦却不用，甚至可以披甲带刀面见？](https://www.zhihu.com/question/632775346)
@@ -57,17 +57,19 @@
 1. [以军称哈马斯违反临时停火协议，已恢复军事打击行动，巴以冲突还将如何发展？](https://www.zhihu.com/question/632790367)
 1. [为什么《原神》芙宁娜的天赋素材是骗骗花花蜜而不是枫丹特产呢？](https://www.zhihu.com/question/630835778)
 1. [发现自己真的很不擅长人际交往怎么办？](https://www.zhihu.com/question/632022060)
+1. [C 罗遭到多位虚拟货币投资者的集体诉讼，被索赔超 10 亿美元，哪些信息值得关注？](https://www.zhihu.com/question/633120735)
 1. [有哪些食物适合当下酒菜？](https://www.zhihu.com/question/619447732)
 1. [造成碳酸锂期货续创新低的原因是什么？](https://www.zhihu.com/question/631400082)
+1. [未来什么时候手机的性能可以取代电脑？](https://www.zhihu.com/question/627567122)
+1. [大地磁暴预警发布，北京等多地出现极光，导航可能会不那么「灵」，哪些信息值得关注？](https://www.zhihu.com/question/632936847)
 1. [梅西称大概率不参加 2026 年世界杯，39 岁不适合参加世界杯，很后悔此前挑衅范加尔，如何看待此事？](https://www.zhihu.com/question/632951261)
 1. [中国的姓氏 南宫 东郭 西门 ，那么北 __？](https://www.zhihu.com/question/49103234)
-1. [大地磁暴预警发布，北京等多地出现极光，导航可能会不那么「灵」，哪些信息值得关注？](https://www.zhihu.com/question/632936847)
-1. [美剧中的外国人一顿饭只吃了个三明治就行了，他们饭量真的那么小吗？](https://www.zhihu.com/question/27162329)
-1. [faker 是否稳坐《英雄联盟》第一人?](https://www.zhihu.com/question/353748344)
 1. [卫健委称目前流行的急性呼吸道疾病均由已知病原体引起，未发现新发传染病，有哪些注意事项？](https://www.zhihu.com/question/632971578)
 1. [2024 欧洲杯分组：西班牙、意大利、克罗地亚落位 B 组造死亡之组，你认为哪两支球队出线几率大？](https://www.zhihu.com/question/633075086)
 1. [与消费疲软呼应的是人们更爱攒钱了，2023 年的「攒钱」行为有什么新的趋势？](https://www.zhihu.com/question/630156525)
 1. [美国发布电动汽车税收减免拟议新规则，限制中国企业，如何解读美方意图？将对相关产业带来哪些影响？](https://www.zhihu.com/question/633001250)
+1. [美剧中的外国人一顿饭只吃了个三明治就行了，他们饭量真的那么小吗？](https://www.zhihu.com/question/27162329)
+1. [faker 是否稳坐《英雄联盟》第一人?](https://www.zhihu.com/question/353748344)
 1. [消息称国新或将在接下来一周里持续每天增持，释放了什么信号？](https://www.zhihu.com/question/633115214)
 1. [能分享一张你的相册里的天空吗？](https://www.zhihu.com/question/632952689)
 1. [2023 年，企业在招聘上更注重什么？高薪招聘人才的情况还存在吗？](https://www.zhihu.com/question/632472699)
@@ -95,13 +97,11 @@
 1. [最近你突然明白了什么道理吗？](https://www.zhihu.com/question/627838832)
 1. [相比《原神》枫丹版本的成功，须弥版本有哪些不足的地方？](https://www.zhihu.com/question/631989606)
 1. [有没有这样一种行星，其上面所有地方都是全天白昼？](https://www.zhihu.com/question/632562475)
-1. [如何评价《一人之下》漫画 650（689）话？](https://www.zhihu.com/question/632734795)
-1. [2023 年你的数学研究或学习有什么收获和感悟？](https://www.zhihu.com/question/629305334)
 
 ## 热门视频
 
-1. [知名餐饮品牌正新鸡排超 1 万家门店关闭，门店一度是肯德基中国 3 倍，哪些原因导致的？](https://www.zhihu.com/question/633100779)
 1. [官方回应五月天假唱风波称「将了解」，若假唱属实，主办方将受到哪些处罚？如何看待演唱会假唱？](https://www.zhihu.com/question/633116674)
+1. [知名餐饮品牌正新鸡排超 1 万家门店关闭，门店一度是肯德基中国 3 倍，哪些原因导致的？](https://www.zhihu.com/question/633100779)
 1. [过境至深圳的香港民众持续增加，媒体报道港人「爆买」深圳各大超市，如何看待这一现象？](https://www.zhihu.com/question/632097505)
 1. [美副总统哈里斯承认「太多无辜巴勒斯坦人被杀害」，释放了哪些信号？若失去美方支持，巴以局势将如何发展？](https://www.zhihu.com/question/633118015)
 1. [曹操生性多疑，连他的儿子曹丕见他都要事先报备，为什么典韦却不用，甚至可以披甲带刀面见？](https://www.zhihu.com/question/632775346)
@@ -110,17 +110,19 @@
 1. [以军称哈马斯违反临时停火协议，已恢复军事打击行动，巴以冲突还将如何发展？](https://www.zhihu.com/question/632790367)
 1. [为什么《原神》芙宁娜的天赋素材是骗骗花花蜜而不是枫丹特产呢？](https://www.zhihu.com/question/630835778)
 1. [发现自己真的很不擅长人际交往怎么办？](https://www.zhihu.com/question/632022060)
+1. [C 罗遭到多位虚拟货币投资者的集体诉讼，被索赔超 10 亿美元，哪些信息值得关注？](https://www.zhihu.com/question/633120735)
 1. [有哪些食物适合当下酒菜？](https://www.zhihu.com/question/619447732)
 1. [造成碳酸锂期货续创新低的原因是什么？](https://www.zhihu.com/question/631400082)
+1. [未来什么时候手机的性能可以取代电脑？](https://www.zhihu.com/question/627567122)
+1. [大地磁暴预警发布，北京等多地出现极光，导航可能会不那么「灵」，哪些信息值得关注？](https://www.zhihu.com/question/632936847)
 1. [梅西称大概率不参加 2026 年世界杯，39 岁不适合参加世界杯，很后悔此前挑衅范加尔，如何看待此事？](https://www.zhihu.com/question/632951261)
 1. [中国的姓氏 南宫 东郭 西门 ，那么北 __？](https://www.zhihu.com/question/49103234)
-1. [大地磁暴预警发布，北京等多地出现极光，导航可能会不那么「灵」，哪些信息值得关注？](https://www.zhihu.com/question/632936847)
-1. [美剧中的外国人一顿饭只吃了个三明治就行了，他们饭量真的那么小吗？](https://www.zhihu.com/question/27162329)
-1. [faker 是否稳坐《英雄联盟》第一人?](https://www.zhihu.com/question/353748344)
 1. [卫健委称目前流行的急性呼吸道疾病均由已知病原体引起，未发现新发传染病，有哪些注意事项？](https://www.zhihu.com/question/632971578)
 1. [2024 欧洲杯分组：西班牙、意大利、克罗地亚落位 B 组造死亡之组，你认为哪两支球队出线几率大？](https://www.zhihu.com/question/633075086)
 1. [与消费疲软呼应的是人们更爱攒钱了，2023 年的「攒钱」行为有什么新的趋势？](https://www.zhihu.com/question/630156525)
 1. [美国发布电动汽车税收减免拟议新规则，限制中国企业，如何解读美方意图？将对相关产业带来哪些影响？](https://www.zhihu.com/question/633001250)
+1. [美剧中的外国人一顿饭只吃了个三明治就行了，他们饭量真的那么小吗？](https://www.zhihu.com/question/27162329)
+1. [faker 是否稳坐《英雄联盟》第一人?](https://www.zhihu.com/question/353748344)
 1. [消息称国新或将在接下来一周里持续每天增持，释放了什么信号？](https://www.zhihu.com/question/633115214)
 1. [能分享一张你的相册里的天空吗？](https://www.zhihu.com/question/632952689)
 1. [2023 年，企业在招聘上更注重什么？高薪招聘人才的情况还存在吗？](https://www.zhihu.com/question/632472699)
@@ -148,8 +150,6 @@
 1. [最近你突然明白了什么道理吗？](https://www.zhihu.com/question/627838832)
 1. [相比《原神》枫丹版本的成功，须弥版本有哪些不足的地方？](https://www.zhihu.com/question/631989606)
 1. [有没有这样一种行星，其上面所有地方都是全天白昼？](https://www.zhihu.com/question/632562475)
-1. [如何评价《一人之下》漫画 650（689）话？](https://www.zhihu.com/question/632734795)
-1. [2023 年你的数学研究或学习有什么收获和感悟？](https://www.zhihu.com/question/629305334)
 
 ## 历史归档
 
