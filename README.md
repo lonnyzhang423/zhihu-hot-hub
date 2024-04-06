@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2024-04-07 05:07:19 +0800`
+`更新时间：2024-04-07 06:06:56 +0800`
 
 ## 热门搜索
 
@@ -64,8 +64,8 @@
 1. [2024 LPL 春季赛 BLG 3:1 NIP，如何评价这场比赛？](https://www.zhihu.com/question/651938557)
 1. [仅 3 个多月，今年 10 家老牌百货已「阵亡」，百货零售面临哪些困难？该如何解决？](https://www.zhihu.com/question/651876029)
 1. [中国海警就菲律宾侵闯鲎藤礁发声「正告菲方，任何侵权伎俩都是徒劳」，哪些信息值得关注？](https://www.zhihu.com/question/651941145)
-1. [金饰价格突破 700 元！大批量黄金原料回购成「重头戏」，「囤金大户」纷纷抛售，如何看待当前金价走势？](https://www.zhihu.com/question/651962373)
 1. [如何评价韩剧《寄生兽：灰色部队》？](https://www.zhihu.com/question/651525088)
+1. [金饰价格突破 700 元！大批量黄金原料回购成「重头戏」，「囤金大户」纷纷抛售，如何看待当前金价走势？](https://www.zhihu.com/question/651962373)
 1. [为什么大学生早八比高中轻松，却这么多人抱怨？](https://www.zhihu.com/question/651278366)
 1. [多方回应「骑手出事故后情绪崩溃」，平台管理机制是否存在问题？有哪些信息值得关注？](https://www.zhihu.com/question/651883147)
 1. [如何评价说唱歌手诺米?](https://www.zhihu.com/question/651438001)
@@ -78,26 +78,26 @@
 1. [电影《草木人间》中有哪些细思恐极的细节？](https://www.zhihu.com/question/651356303)
 1. [可以分享一下你相册里美丽的花朵照吗？](https://www.zhihu.com/question/651921620)
 1. [上班的时候，同事身上的香味特别浓，怎么说才合适呢？](https://www.zhihu.com/question/651941192)
-1. [现在绝大多数词人已不识音律，为何还要依律作词？](https://www.zhihu.com/question/651599330)
 1. [跑步和骑车哪个更健康？](https://www.zhihu.com/question/651962996)
 1. [有哪些道理是你在长期坚持运动之后总结到的？](https://www.zhihu.com/question/651340131)
+1. [现在绝大多数词人已不识音律，为何还要依律作词？](https://www.zhihu.com/question/651599330)
+1. [狼王加内特当年仅第 5 顺位被选中，他前面的 4 人都是谁？都有什么成就？](https://www.zhihu.com/question/639670030)
 1. [坐标成都，现在还能买房吗？](https://www.zhihu.com/question/650252391)
 1. [为什么 Rust 的热度超过 Zig？](https://www.zhihu.com/question/651507851)
 1. [在古代，高门贵女能决定自己的命运吗？](https://www.zhihu.com/question/650871103)
 1. [为什么说孤独是交易员的宿命？](https://www.zhihu.com/question/651333227)
 1. [单论外形方面，祝延平与丁海峰哪个更符合原著武松?](https://www.zhihu.com/question/602045053)
-1. [狼王加内特当年仅第 5 顺位被选中，他前面的 4 人都是谁？都有什么成就？](https://www.zhihu.com/question/639670030)
 1. [清明假期国内 1.19 亿人次出游，游客花费共 539.5 亿元，哪些信息值得关注？这个假期你去哪了？](https://www.zhihu.com/question/651966720)
 1. [你最近有什么烦心事吗？可以把这里当树洞说出来，可以吗？](https://www.zhihu.com/question/642846834)
-1. [高速堵车偶遇小米 SU7 运输车，现场秒变车展，引得路人围观，有哪些信息值得关注？](https://www.zhihu.com/question/651926013)
 1. [卡尔马龙能否顶住现在的锡安？](https://www.zhihu.com/question/645288842)
 1. [有哪些你以为很干净，实际很脏的东西？](https://www.zhihu.com/question/617131433)
+1. [乒乓球为什么越来越小众化了?](https://www.zhihu.com/question/457179364)
 1. [墨西哥总统通过社交媒体发表声明称「墨西哥与厄瓜多尔政府断绝外交关系」，发生了什么？有哪些信息值得关注？](https://www.zhihu.com/question/651910177)
 1. [终止造车计划后，美国苹果公司裁员 600 多人，为疫情以来苹果首次大规模裁员，哪些信息值得关注？](https://www.zhihu.com/question/651918106)
 1. [芙莉莲喜欢辛美尔吗？](https://www.zhihu.com/question/636854397)
+1. [高速堵车偶遇小米 SU7 运输车，现场秒变车展，引得路人围观，有哪些信息值得关注？](https://www.zhihu.com/question/651926013)
 1. [如何评价《星穹铁道》里的角色砂金？](https://www.zhihu.com/question/641111858)
-1. [小孩子之间交换了不等价的玩具，但是两个孩子都很满意，作为家长怎么处理好呢？](https://www.zhihu.com/question/321277654)
-1. [《甄嬛传》中纯元作为高门嫡女，为什么要学当时用来取悦人的歌舞？](https://www.zhihu.com/question/435422600)
+1. [真正爱读书的人是怎么看书的？](https://www.zhihu.com/question/502804915)
 
 ## 热门视频
 
@@ -117,8 +117,8 @@
 1. [2024 LPL 春季赛 BLG 3:1 NIP，如何评价这场比赛？](https://www.zhihu.com/question/651938557)
 1. [仅 3 个多月，今年 10 家老牌百货已「阵亡」，百货零售面临哪些困难？该如何解决？](https://www.zhihu.com/question/651876029)
 1. [中国海警就菲律宾侵闯鲎藤礁发声「正告菲方，任何侵权伎俩都是徒劳」，哪些信息值得关注？](https://www.zhihu.com/question/651941145)
-1. [金饰价格突破 700 元！大批量黄金原料回购成「重头戏」，「囤金大户」纷纷抛售，如何看待当前金价走势？](https://www.zhihu.com/question/651962373)
 1. [如何评价韩剧《寄生兽：灰色部队》？](https://www.zhihu.com/question/651525088)
+1. [金饰价格突破 700 元！大批量黄金原料回购成「重头戏」，「囤金大户」纷纷抛售，如何看待当前金价走势？](https://www.zhihu.com/question/651962373)
 1. [为什么大学生早八比高中轻松，却这么多人抱怨？](https://www.zhihu.com/question/651278366)
 1. [多方回应「骑手出事故后情绪崩溃」，平台管理机制是否存在问题？有哪些信息值得关注？](https://www.zhihu.com/question/651883147)
 1. [如何评价说唱歌手诺米?](https://www.zhihu.com/question/651438001)
@@ -131,26 +131,26 @@
 1. [电影《草木人间》中有哪些细思恐极的细节？](https://www.zhihu.com/question/651356303)
 1. [可以分享一下你相册里美丽的花朵照吗？](https://www.zhihu.com/question/651921620)
 1. [上班的时候，同事身上的香味特别浓，怎么说才合适呢？](https://www.zhihu.com/question/651941192)
-1. [现在绝大多数词人已不识音律，为何还要依律作词？](https://www.zhihu.com/question/651599330)
 1. [跑步和骑车哪个更健康？](https://www.zhihu.com/question/651962996)
 1. [有哪些道理是你在长期坚持运动之后总结到的？](https://www.zhihu.com/question/651340131)
+1. [现在绝大多数词人已不识音律，为何还要依律作词？](https://www.zhihu.com/question/651599330)
+1. [狼王加内特当年仅第 5 顺位被选中，他前面的 4 人都是谁？都有什么成就？](https://www.zhihu.com/question/639670030)
 1. [坐标成都，现在还能买房吗？](https://www.zhihu.com/question/650252391)
 1. [为什么 Rust 的热度超过 Zig？](https://www.zhihu.com/question/651507851)
 1. [在古代，高门贵女能决定自己的命运吗？](https://www.zhihu.com/question/650871103)
 1. [为什么说孤独是交易员的宿命？](https://www.zhihu.com/question/651333227)
 1. [单论外形方面，祝延平与丁海峰哪个更符合原著武松?](https://www.zhihu.com/question/602045053)
-1. [狼王加内特当年仅第 5 顺位被选中，他前面的 4 人都是谁？都有什么成就？](https://www.zhihu.com/question/639670030)
 1. [清明假期国内 1.19 亿人次出游，游客花费共 539.5 亿元，哪些信息值得关注？这个假期你去哪了？](https://www.zhihu.com/question/651966720)
 1. [你最近有什么烦心事吗？可以把这里当树洞说出来，可以吗？](https://www.zhihu.com/question/642846834)
-1. [高速堵车偶遇小米 SU7 运输车，现场秒变车展，引得路人围观，有哪些信息值得关注？](https://www.zhihu.com/question/651926013)
 1. [卡尔马龙能否顶住现在的锡安？](https://www.zhihu.com/question/645288842)
 1. [有哪些你以为很干净，实际很脏的东西？](https://www.zhihu.com/question/617131433)
+1. [乒乓球为什么越来越小众化了?](https://www.zhihu.com/question/457179364)
 1. [墨西哥总统通过社交媒体发表声明称「墨西哥与厄瓜多尔政府断绝外交关系」，发生了什么？有哪些信息值得关注？](https://www.zhihu.com/question/651910177)
 1. [终止造车计划后，美国苹果公司裁员 600 多人，为疫情以来苹果首次大规模裁员，哪些信息值得关注？](https://www.zhihu.com/question/651918106)
 1. [芙莉莲喜欢辛美尔吗？](https://www.zhihu.com/question/636854397)
+1. [高速堵车偶遇小米 SU7 运输车，现场秒变车展，引得路人围观，有哪些信息值得关注？](https://www.zhihu.com/question/651926013)
 1. [如何评价《星穹铁道》里的角色砂金？](https://www.zhihu.com/question/641111858)
-1. [小孩子之间交换了不等价的玩具，但是两个孩子都很满意，作为家长怎么处理好呢？](https://www.zhihu.com/question/321277654)
-1. [《甄嬛传》中纯元作为高门嫡女，为什么要学当时用来取悦人的歌舞？](https://www.zhihu.com/question/435422600)
+1. [真正爱读书的人是怎么看书的？](https://www.zhihu.com/question/502804915)
 
 ## 历史归档
 
