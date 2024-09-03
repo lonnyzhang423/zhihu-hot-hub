@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2024-09-04 02:28:14 +0800`
+`更新时间：2024-09-04 03:17:18 +0800`
 
 ## 热门搜索
 
@@ -61,20 +61,20 @@
 1. [常联系是不是客套话？](https://www.zhihu.com/question/529621108)
 1. [发现我爸天天往手机游戏里充钱该怎么办？](https://www.zhihu.com/question/665977246)
 1. [研究生想对研 0 说什么？](https://www.zhihu.com/question/657175710)
-1. [孩子在国有行做客户经理，准备给他存 1000 万，会让他在单位过得舒服一些吗？](https://www.zhihu.com/question/647964235)
 1. [为什么技术落后的铅酸电池还生产这么多，都产能过剩了？](https://www.zhihu.com/question/659123218)
-1. [湖南一大桥上飞虫像下雪， 当地回应「是蜉蝣，至少 10 亿只」，蜉蝣为何会大量聚集？](https://www.zhihu.com/question/665980635)
+1. [孩子在国有行做客户经理，准备给他存 1000 万，会让他在单位过得舒服一些吗？](https://www.zhihu.com/question/647964235)
 1. [独立开发者都使用了哪些技术栈？](https://www.zhihu.com/question/582771512)
+1. [湖南一大桥上飞虫像下雪， 当地回应「是蜉蝣，至少 10 亿只」，蜉蝣为何会大量聚集？](https://www.zhihu.com/question/665980635)
 1. [为什么《黑神话：悟空》大家定身术都喜欢用轻击，而不是等闪避存棍势定住直接重击呢？](https://www.zhihu.com/question/665335639)
 1. [分手两个月了，每天都会梦到前任，时不时会早醒失眠，怎么办？](https://www.zhihu.com/question/665966421)
 1. [计算机是最难的工科吗？](https://www.zhihu.com/question/593585695)
 1. [老员工面对比自己年轻的领导，将如何相处？](https://www.zhihu.com/question/665766483)
-1. [郭麒麟的老本行毕竟是相声，为何如今他专心拍戏，不怎么说相声?](https://www.zhihu.com/question/665919604)
+1. [如何看待星穹铁道千星纪游 PV：「飞镝追星」没有英配？](https://www.zhihu.com/question/666078885)
 1. [放不下又和好不了怎么办?](https://www.zhihu.com/question/662263184)
 1. [宁波城隍庙商场升级改造成「开明坊」，你有哪些期待？](https://www.zhihu.com/question/666081400)
 1. [奥黛丽·赫本是不是被过分推崇了？](https://www.zhihu.com/question/30167453)
+1. [郭麒麟的老本行毕竟是相声，为何如今他专心拍戏，不怎么说相声?](https://www.zhihu.com/question/665919604)
 1. [2024 巴黎奥运乒乓男单金牌对于樊振东而言意味着什么？](https://www.zhihu.com/question/663450262)
-1. [《英雄联盟》现在的无限火力全是心之钢，输出怎么出装能破局？](https://www.zhihu.com/question/665978521)
 
 ## 热门视频
 
@@ -94,20 +94,20 @@
 1. [常联系是不是客套话？](https://www.zhihu.com/question/529621108)
 1. [发现我爸天天往手机游戏里充钱该怎么办？](https://www.zhihu.com/question/665977246)
 1. [研究生想对研 0 说什么？](https://www.zhihu.com/question/657175710)
-1. [孩子在国有行做客户经理，准备给他存 1000 万，会让他在单位过得舒服一些吗？](https://www.zhihu.com/question/647964235)
 1. [为什么技术落后的铅酸电池还生产这么多，都产能过剩了？](https://www.zhihu.com/question/659123218)
-1. [湖南一大桥上飞虫像下雪， 当地回应「是蜉蝣，至少 10 亿只」，蜉蝣为何会大量聚集？](https://www.zhihu.com/question/665980635)
+1. [孩子在国有行做客户经理，准备给他存 1000 万，会让他在单位过得舒服一些吗？](https://www.zhihu.com/question/647964235)
 1. [独立开发者都使用了哪些技术栈？](https://www.zhihu.com/question/582771512)
+1. [湖南一大桥上飞虫像下雪， 当地回应「是蜉蝣，至少 10 亿只」，蜉蝣为何会大量聚集？](https://www.zhihu.com/question/665980635)
 1. [为什么《黑神话：悟空》大家定身术都喜欢用轻击，而不是等闪避存棍势定住直接重击呢？](https://www.zhihu.com/question/665335639)
 1. [分手两个月了，每天都会梦到前任，时不时会早醒失眠，怎么办？](https://www.zhihu.com/question/665966421)
 1. [计算机是最难的工科吗？](https://www.zhihu.com/question/593585695)
 1. [老员工面对比自己年轻的领导，将如何相处？](https://www.zhihu.com/question/665766483)
-1. [郭麒麟的老本行毕竟是相声，为何如今他专心拍戏，不怎么说相声?](https://www.zhihu.com/question/665919604)
+1. [如何看待星穹铁道千星纪游 PV：「飞镝追星」没有英配？](https://www.zhihu.com/question/666078885)
 1. [放不下又和好不了怎么办?](https://www.zhihu.com/question/662263184)
 1. [宁波城隍庙商场升级改造成「开明坊」，你有哪些期待？](https://www.zhihu.com/question/666081400)
 1. [奥黛丽·赫本是不是被过分推崇了？](https://www.zhihu.com/question/30167453)
+1. [郭麒麟的老本行毕竟是相声，为何如今他专心拍戏，不怎么说相声?](https://www.zhihu.com/question/665919604)
 1. [2024 巴黎奥运乒乓男单金牌对于樊振东而言意味着什么？](https://www.zhihu.com/question/663450262)
-1. [《英雄联盟》现在的无限火力全是心之钢，输出怎么出装能破局？](https://www.zhihu.com/question/665978521)
 
 ## 历史归档
 
