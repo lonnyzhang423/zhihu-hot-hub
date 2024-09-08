@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2024-09-09 05:18:46 +0800`
+`更新时间：2024-09-09 06:19:47 +0800`
 
 ## 热门搜索
 
@@ -42,18 +42,19 @@
 
 1. [三部门发布通知「拟允许在北京、上海、广州等地设立外商独资医院」，外商独资医院有什么不同？会有哪些影响？](https://www.zhihu.com/question/666541635)
 1. [上海一老人将孙女告上法庭，要其每月支付 1.5 万元生活费，该如何通过法律途径妥善解决家庭赡养纠纷？](https://www.zhihu.com/question/666194008)
-1. [《黑神话：悟空》后期天命人有大圣几成实力了？](https://www.zhihu.com/question/665527919)
 1. [孩子把外公外婆叫爷爷奶奶，老公一直接受不了，各位能帮忙支支招吗?](https://www.zhihu.com/question/666306002)
 1. [为啥乌克兰用无人机喷洒铝热剂，而不是凝固汽油，或者柴油？](https://www.zhihu.com/question/666220111)
-1. [为什么感觉樊振东和对手打，总是过程有点吃力最后却都能赢？](https://www.zhihu.com/question/663800538)
+1. [为什么小米 su7 这么火？](https://www.zhihu.com/question/650840534)
 1. [演员邓莎为儿子长高操碎心，偷偷往饭里加增高药，这种药真的靠谱吗？促进长高还有哪些科学方法？](https://www.zhihu.com/question/666466456)
 1. [周星驰《食神》重映翻车，翻车的原因是什么？有哪些是电影制作和发行方面可以改进的？](https://www.zhihu.com/question/665971073)
 1. [开发者为什么不使用网页扫码支付绕过苹果抽成 30？](https://www.zhihu.com/question/666444486)
-1. [泽连斯基「必须在今秋末结束冲突 」，乌方已没有足够的资金来支付士兵工资，战争对乌方经济造成了哪些影响？](https://www.zhihu.com/question/666539453)
-1. [《战锤 40K：星际战士 2》游戏 9 月 9 日发行，其 2024-2025 更新路线图已公布，你对它有何期待？](https://www.zhihu.com/question/666075800)
 1. [全红婵跳水水花为什么那么小？年龄小体重轻有可能是主因吗？](https://www.zhihu.com/question/477828599)
-1. [美国波音「星际客机」飞船返回地球，宇航员出差 8 天变被困 8 个月，如何评价这次任务？项目前景如何？](https://www.zhihu.com/question/666495920)
+1. [泽连斯基「必须在今秋末结束冲突 」，乌方已没有足够的资金来支付士兵工资，战争对乌方经济造成了哪些影响？](https://www.zhihu.com/question/666539453)
+1. [为什么感觉樊振东和对手打，总是过程有点吃力最后却都能赢？](https://www.zhihu.com/question/663800538)
+1. [《黑神话：悟空》后期天命人有大圣几成实力了？](https://www.zhihu.com/question/665527919)
+1. [《战锤 40K：星际战士 2》游戏 9 月 9 日发行，其 2024-2025 更新路线图已公布，你对它有何期待？](https://www.zhihu.com/question/666075800)
 1. [同事一家四口人约我一个人一起自驾游，但要我出一半油费和过路过桥费，想问一下是这样算的吗？](https://www.zhihu.com/question/614610228)
+1. [美国波音「星际客机」飞船返回地球，宇航员出差 8 天变被困 8 个月，如何评价这次任务？项目前景如何？](https://www.zhihu.com/question/666495920)
 1. [iPhone 17 Pro Max 才能用上 12GB 内存，你认为苹果是否在内存上「挤牙膏」？](https://www.zhihu.com/question/665647831)
 1. [《知否》里明兰和顾廷烨婚姻幸福的秘诀是什么？](https://www.zhihu.com/question/665718196)
 1. [如何丰富自己的精神世界，让自己在「不合群的宿舍里」也能够泰然处之？](https://www.zhihu.com/question/666258684)
@@ -63,30 +64,30 @@
 1. [如果中国足球不搞职业联赛，回到以前省体工大队模式会不会成绩好一点?](https://www.zhihu.com/question/666410195)
 1. [马斯克将自己的脸合成到黑神话悟空上，如何看待马斯克这一举动？](https://www.zhihu.com/question/666446049)
 1. [大学想要新书，但是班里很多都买二手书，怎么办啊？](https://www.zhihu.com/question/665505011)
-1. [报道称铝热剂惊现俄乌战场，乌军无人机或投放铝热剂烧林，钢铁也能被铝热剂熔化，对局势有何影响？](https://www.zhihu.com/question/666449230)
 1. [自由泳到底要怎么学会？](https://www.zhihu.com/question/548918709)
 1. [当代年轻人万物皆需「仪式感」，你会准备哪些充满「仪式感」的方式入秋？](https://www.zhihu.com/question/666496366)
+1. [报道称铝热剂惊现俄乌战场，乌军无人机或投放铝热剂烧林，钢铁也能被铝热剂熔化，对局势有何影响？](https://www.zhihu.com/question/666449230)
 1. [先有烂剧本，才有烂导演和烂演员，还是先有烂导演才有烂剧本和烂演员？](https://www.zhihu.com/question/666126559)
 1. [有哪些知名电影里拍摄难度很高的镜头，却最终少有人注意到的？](https://www.zhihu.com/question/33476132)
-1. [如何评价 2024 年 CCPC 网络预选赛？](https://www.zhihu.com/question/666375462)
 1. [2024 LCK 夏季赛总决赛 HLE 3:2 击败 GEN 夺冠，如何评价这场比赛？](https://www.zhihu.com/question/666553597)
 
 ## 热门视频
 
 1. [三部门发布通知「拟允许在北京、上海、广州等地设立外商独资医院」，外商独资医院有什么不同？会有哪些影响？](https://www.zhihu.com/question/666541635)
 1. [上海一老人将孙女告上法庭，要其每月支付 1.5 万元生活费，该如何通过法律途径妥善解决家庭赡养纠纷？](https://www.zhihu.com/question/666194008)
-1. [《黑神话：悟空》后期天命人有大圣几成实力了？](https://www.zhihu.com/question/665527919)
 1. [孩子把外公外婆叫爷爷奶奶，老公一直接受不了，各位能帮忙支支招吗?](https://www.zhihu.com/question/666306002)
 1. [为啥乌克兰用无人机喷洒铝热剂，而不是凝固汽油，或者柴油？](https://www.zhihu.com/question/666220111)
-1. [为什么感觉樊振东和对手打，总是过程有点吃力最后却都能赢？](https://www.zhihu.com/question/663800538)
+1. [为什么小米 su7 这么火？](https://www.zhihu.com/question/650840534)
 1. [演员邓莎为儿子长高操碎心，偷偷往饭里加增高药，这种药真的靠谱吗？促进长高还有哪些科学方法？](https://www.zhihu.com/question/666466456)
 1. [周星驰《食神》重映翻车，翻车的原因是什么？有哪些是电影制作和发行方面可以改进的？](https://www.zhihu.com/question/665971073)
 1. [开发者为什么不使用网页扫码支付绕过苹果抽成 30？](https://www.zhihu.com/question/666444486)
-1. [泽连斯基「必须在今秋末结束冲突 」，乌方已没有足够的资金来支付士兵工资，战争对乌方经济造成了哪些影响？](https://www.zhihu.com/question/666539453)
-1. [《战锤 40K：星际战士 2》游戏 9 月 9 日发行，其 2024-2025 更新路线图已公布，你对它有何期待？](https://www.zhihu.com/question/666075800)
 1. [全红婵跳水水花为什么那么小？年龄小体重轻有可能是主因吗？](https://www.zhihu.com/question/477828599)
-1. [美国波音「星际客机」飞船返回地球，宇航员出差 8 天变被困 8 个月，如何评价这次任务？项目前景如何？](https://www.zhihu.com/question/666495920)
+1. [泽连斯基「必须在今秋末结束冲突 」，乌方已没有足够的资金来支付士兵工资，战争对乌方经济造成了哪些影响？](https://www.zhihu.com/question/666539453)
+1. [为什么感觉樊振东和对手打，总是过程有点吃力最后却都能赢？](https://www.zhihu.com/question/663800538)
+1. [《黑神话：悟空》后期天命人有大圣几成实力了？](https://www.zhihu.com/question/665527919)
+1. [《战锤 40K：星际战士 2》游戏 9 月 9 日发行，其 2024-2025 更新路线图已公布，你对它有何期待？](https://www.zhihu.com/question/666075800)
 1. [同事一家四口人约我一个人一起自驾游，但要我出一半油费和过路过桥费，想问一下是这样算的吗？](https://www.zhihu.com/question/614610228)
+1. [美国波音「星际客机」飞船返回地球，宇航员出差 8 天变被困 8 个月，如何评价这次任务？项目前景如何？](https://www.zhihu.com/question/666495920)
 1. [iPhone 17 Pro Max 才能用上 12GB 内存，你认为苹果是否在内存上「挤牙膏」？](https://www.zhihu.com/question/665647831)
 1. [《知否》里明兰和顾廷烨婚姻幸福的秘诀是什么？](https://www.zhihu.com/question/665718196)
 1. [如何丰富自己的精神世界，让自己在「不合群的宿舍里」也能够泰然处之？](https://www.zhihu.com/question/666258684)
@@ -96,12 +97,11 @@
 1. [如果中国足球不搞职业联赛，回到以前省体工大队模式会不会成绩好一点?](https://www.zhihu.com/question/666410195)
 1. [马斯克将自己的脸合成到黑神话悟空上，如何看待马斯克这一举动？](https://www.zhihu.com/question/666446049)
 1. [大学想要新书，但是班里很多都买二手书，怎么办啊？](https://www.zhihu.com/question/665505011)
-1. [报道称铝热剂惊现俄乌战场，乌军无人机或投放铝热剂烧林，钢铁也能被铝热剂熔化，对局势有何影响？](https://www.zhihu.com/question/666449230)
 1. [自由泳到底要怎么学会？](https://www.zhihu.com/question/548918709)
 1. [当代年轻人万物皆需「仪式感」，你会准备哪些充满「仪式感」的方式入秋？](https://www.zhihu.com/question/666496366)
+1. [报道称铝热剂惊现俄乌战场，乌军无人机或投放铝热剂烧林，钢铁也能被铝热剂熔化，对局势有何影响？](https://www.zhihu.com/question/666449230)
 1. [先有烂剧本，才有烂导演和烂演员，还是先有烂导演才有烂剧本和烂演员？](https://www.zhihu.com/question/666126559)
 1. [有哪些知名电影里拍摄难度很高的镜头，却最终少有人注意到的？](https://www.zhihu.com/question/33476132)
-1. [如何评价 2024 年 CCPC 网络预选赛？](https://www.zhihu.com/question/666375462)
 1. [2024 LCK 夏季赛总决赛 HLE 3:2 击败 GEN 夺冠，如何评价这场比赛？](https://www.zhihu.com/question/666553597)
 
 ## 历史归档
