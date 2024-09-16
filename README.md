@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2024-09-16 18:24:28 +0800`
+`更新时间：2024-09-16 19:18:52 +0800`
 
 ## 热门搜索
 
@@ -38,6 +38,7 @@
 1. [家长做局拍教师收五粮液](https://www.zhihu.com/search?q=%E5%AE%B6%E9%95%BF%E5%81%9A%E5%B1%80%E6%8B%8D%E6%95%99%E5%B8%88%E6%94%B6%E4%BA%94%E7%B2%AE%E6%B6%B2)
 1. [丰田固态电池生产计划获批](https://www.zhihu.com/search?q=%E4%B8%B0%E7%94%B0%E5%9B%BA%E6%80%81%E7%94%B5%E6%B1%A0%E7%94%9F%E4%BA%A7%E8%AE%A1%E5%88%92%E8%8E%B7%E6%89%B9)
 1. [王鹤棣否认与陈小纭恋情](https://www.zhihu.com/search?q=%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%90%A6%E8%AE%A4%E4%B8%8E%E9%99%88%E5%B0%8F%E7%BA%AD%E6%81%8B%E6%83%85)
+1. [openai正洽谈1500亿美元筹集资金](https://www.zhihu.com/search?q=openai%E6%AD%A3%E6%B4%BD%E8%B0%881500%E4%BA%BF%E7%BE%8E%E5%85%83%E7%AD%B9%E9%9B%86%E8%B5%84%E9%87%91)
 
 ## 热门话题
 
@@ -46,31 +47,31 @@
 1. [生产商回应小杨哥带货的「香港月饼」广东产，「并无法律规定香港品牌不能在内地生产」，这是否涉嫌虚假宣传？](https://www.zhihu.com/question/667297522)
 1. [5 个大学生因质疑微信提现手续费过高联合将其告上法庭，这个提现手续费合理吗？他们的主张会被法院支持吗？](https://www.zhihu.com/question/667033409)
 1. [《星鸣特攻》开发商 Firewalk 或面临解散，对此你有什么想说的？](https://www.zhihu.com/question/666739415)
-1. [香港武打明星徐少强患「食道癌」去世，这是种什么病？为什么这么严重？](https://www.zhihu.com/question/667251204)
 1. [如何评价《原神》5.0 的深境螺旋?](https://www.zhihu.com/question/666074060)
 1. [在国内想要做理论物理有多难？](https://www.zhihu.com/question/667146047)
 1. [《凡人歌》中，你会选择安逸的沈磊，还是奋斗的那隽？](https://www.zhihu.com/question/666855043)
-1. [中秋佳节将至，单位发散装月饼你能接受吗？](https://www.zhihu.com/question/667051616)
 1. [2024 赛季 F1 阿塞拜疆大奖赛，皮亚斯特里夺冠，勒克莱尔第二，拉塞尔第三，如何评价这场比赛？](https://www.zhihu.com/question/667258745)
 1. [明末战争中火枪、火炮已经大规模使用了吗？](https://www.zhihu.com/question/60440223)
-1. [为什么美国 GDP 增长那么大，用电量反而下降？](https://www.zhihu.com/question/648801148)
 1. [米哈游会在以后新游戏里塑造一个高位格充满神性的主角吗？](https://www.zhihu.com/question/666978468)
 1. [高二女儿抑郁症休学在家，想买条温顺的狗伴着她，有推荐的品种吗?](https://www.zhihu.com/question/658086083)
+1. [中秋佳节将至，单位发散装月饼你能接受吗？](https://www.zhihu.com/question/667051616)
+1. [为什么美国 GDP 增长那么大，用电量反而下降？](https://www.zhihu.com/question/648801148)
+1. [香港武打明星徐少强患「食道癌」去世，这是种什么病？为什么这么严重？](https://www.zhihu.com/question/667251204)
 1. [你家小朋友每天晚上作业都写到几点钟？](https://www.zhihu.com/question/667193198)
 1. [在国乒现任球员中为什么孙颖莎的人气最高？](https://www.zhihu.com/question/569756533)
-1. [如果你感觉最近不开心你会怎么办？](https://www.zhihu.com/question/663197388)
 1. [《风云》第一部的第一邪皇和无名谁厉害?](https://www.zhihu.com/question/595724184)
+1. [如果你感觉最近不开心你会怎么办？](https://www.zhihu.com/question/663197388)
 1. [有驾照但是不会开车，你们是怎么掌握开车的熟练技术的？](https://www.zhihu.com/question/637181148)
 1. [灵活就业人员是自己交社保划算，还是把钱存起来划算？](https://www.zhihu.com/question/666787953)
 1. [文科生读什么专业能探寻社科方面的相对真理?](https://www.zhihu.com/question/667086747)
 1. [如何看待孙颖莎拿到 2024WTT 女单冠军？](https://www.zhihu.com/question/667260078)
 1. [你经历过哪些逼员工离职的操作？](https://www.zhihu.com/question/666271015)
-1. [小孩喊饿，但又不吃做的饭，我应该怎么教育?](https://www.zhihu.com/question/662807669)
 1. [《英雄联盟》中哪个英雄最克制中单小鱼人?](https://www.zhihu.com/question/327281197)
-1. [莫斯科大学数学系这么牛，为什么如今的数学专业世界排名连前 20 都进不去？](https://www.zhihu.com/question/347839195)
+1. [小孩喊饿，但又不吃做的饭，我应该怎么教育?](https://www.zhihu.com/question/662807669)
 1. [山西为何没能跑出一个全国面食品牌？](https://www.zhihu.com/question/620721789)
-1. [为什么上了大学总是想高中呢？](https://www.zhihu.com/question/667260496)
-1. [女子在超市捞鱼被刺致八级伤残，向超市索赔 22 万元，被鱼刺伤后该如何处理伤口？超市有责任吗？](https://www.zhihu.com/question/667078593)
+1. [莫斯科大学数学系这么牛，为什么如今的数学专业世界排名连前 20 都进不去？](https://www.zhihu.com/question/347839195)
+1. [XG 止步六强创 CN 军团 TI 历史最差成绩，CNDOTA 还有未来吗？](https://www.zhihu.com/question/667175988)
+1. [结婚从来都不是最终目的，幸福才是对嘛?](https://www.zhihu.com/question/667034706)
 
 ## 热门视频
 
@@ -79,31 +80,31 @@
 1. [生产商回应小杨哥带货的「香港月饼」广东产，「并无法律规定香港品牌不能在内地生产」，这是否涉嫌虚假宣传？](https://www.zhihu.com/question/667297522)
 1. [5 个大学生因质疑微信提现手续费过高联合将其告上法庭，这个提现手续费合理吗？他们的主张会被法院支持吗？](https://www.zhihu.com/question/667033409)
 1. [《星鸣特攻》开发商 Firewalk 或面临解散，对此你有什么想说的？](https://www.zhihu.com/question/666739415)
-1. [香港武打明星徐少强患「食道癌」去世，这是种什么病？为什么这么严重？](https://www.zhihu.com/question/667251204)
 1. [如何评价《原神》5.0 的深境螺旋?](https://www.zhihu.com/question/666074060)
 1. [在国内想要做理论物理有多难？](https://www.zhihu.com/question/667146047)
 1. [《凡人歌》中，你会选择安逸的沈磊，还是奋斗的那隽？](https://www.zhihu.com/question/666855043)
-1. [中秋佳节将至，单位发散装月饼你能接受吗？](https://www.zhihu.com/question/667051616)
 1. [2024 赛季 F1 阿塞拜疆大奖赛，皮亚斯特里夺冠，勒克莱尔第二，拉塞尔第三，如何评价这场比赛？](https://www.zhihu.com/question/667258745)
 1. [明末战争中火枪、火炮已经大规模使用了吗？](https://www.zhihu.com/question/60440223)
-1. [为什么美国 GDP 增长那么大，用电量反而下降？](https://www.zhihu.com/question/648801148)
 1. [米哈游会在以后新游戏里塑造一个高位格充满神性的主角吗？](https://www.zhihu.com/question/666978468)
 1. [高二女儿抑郁症休学在家，想买条温顺的狗伴着她，有推荐的品种吗?](https://www.zhihu.com/question/658086083)
+1. [中秋佳节将至，单位发散装月饼你能接受吗？](https://www.zhihu.com/question/667051616)
+1. [为什么美国 GDP 增长那么大，用电量反而下降？](https://www.zhihu.com/question/648801148)
+1. [香港武打明星徐少强患「食道癌」去世，这是种什么病？为什么这么严重？](https://www.zhihu.com/question/667251204)
 1. [你家小朋友每天晚上作业都写到几点钟？](https://www.zhihu.com/question/667193198)
 1. [在国乒现任球员中为什么孙颖莎的人气最高？](https://www.zhihu.com/question/569756533)
-1. [如果你感觉最近不开心你会怎么办？](https://www.zhihu.com/question/663197388)
 1. [《风云》第一部的第一邪皇和无名谁厉害?](https://www.zhihu.com/question/595724184)
+1. [如果你感觉最近不开心你会怎么办？](https://www.zhihu.com/question/663197388)
 1. [有驾照但是不会开车，你们是怎么掌握开车的熟练技术的？](https://www.zhihu.com/question/637181148)
 1. [灵活就业人员是自己交社保划算，还是把钱存起来划算？](https://www.zhihu.com/question/666787953)
 1. [文科生读什么专业能探寻社科方面的相对真理?](https://www.zhihu.com/question/667086747)
 1. [如何看待孙颖莎拿到 2024WTT 女单冠军？](https://www.zhihu.com/question/667260078)
 1. [你经历过哪些逼员工离职的操作？](https://www.zhihu.com/question/666271015)
-1. [小孩喊饿，但又不吃做的饭，我应该怎么教育?](https://www.zhihu.com/question/662807669)
 1. [《英雄联盟》中哪个英雄最克制中单小鱼人?](https://www.zhihu.com/question/327281197)
-1. [莫斯科大学数学系这么牛，为什么如今的数学专业世界排名连前 20 都进不去？](https://www.zhihu.com/question/347839195)
+1. [小孩喊饿，但又不吃做的饭，我应该怎么教育?](https://www.zhihu.com/question/662807669)
 1. [山西为何没能跑出一个全国面食品牌？](https://www.zhihu.com/question/620721789)
-1. [为什么上了大学总是想高中呢？](https://www.zhihu.com/question/667260496)
-1. [女子在超市捞鱼被刺致八级伤残，向超市索赔 22 万元，被鱼刺伤后该如何处理伤口？超市有责任吗？](https://www.zhihu.com/question/667078593)
+1. [莫斯科大学数学系这么牛，为什么如今的数学专业世界排名连前 20 都进不去？](https://www.zhihu.com/question/347839195)
+1. [XG 止步六强创 CN 军团 TI 历史最差成绩，CNDOTA 还有未来吗？](https://www.zhihu.com/question/667175988)
+1. [结婚从来都不是最终目的，幸福才是对嘛?](https://www.zhihu.com/question/667034706)
 
 ## 历史归档
 
