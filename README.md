@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2024-10-15 02:30:00 +0800`
+`更新时间：2024-10-15 03:17:19 +0800`
 
 ## 热门搜索
 
@@ -47,10 +47,10 @@
 1. [怎么看待 9 月小米 su7 销量位列纯电轿车第二?](https://www.zhihu.com/question/847858318)
 1. [北京二环内还有这么多破胡同平房，为什么就不再拆迁了呢？](https://www.zhihu.com/question/792415578)
 1. [游戏中的「王道叙事」在 2024 年是否已经过时了？](https://www.zhihu.com/question/832115282)
-1. [三体人到底有没有折磨过云天明？](https://www.zhihu.com/question/459076670)
 1. [《黑神话：悟空》的制作人冯骥为什么在腾讯时作品一般，离职后就能实现国产单机 3A 从 0 到 1 的突破？](https://www.zhihu.com/question/805176390)
 1. [公司不提供电脑，员工自带电脑，每月补助 200，是更节约成本吗？](https://www.zhihu.com/question/397229660)
 1. [S14 八强淘汰赛 LNG vs WBG，你觉得谁能赢下来？](https://www.zhihu.com/question/878137632)
+1. [三体人到底有没有折磨过云天明？](https://www.zhihu.com/question/459076670)
 1. [好失败大会｜你做过最抽象的「丑东西」手工艺品是什么样的？](https://www.zhihu.com/question/808201753)
 1. [叫一声佛祖，如果如来答应了，紫金葫芦能不能把他拿了？](https://www.zhihu.com/question/666822997)
 1. [S14 八强淘汰赛 TES vs T1，你觉得谁能赢下来？](https://www.zhihu.com/question/888923832)
@@ -63,14 +63,14 @@
 1. [如何评价《明日方舟》SideStory「追迹日落以西」 剧情？](https://www.zhihu.com/question/832159968)
 1. [如何评价董路与周海滨关于青训理念的争论?](https://www.zhihu.com/question/853633137)
 1. [如何评价《崩坏：星穹铁道》10.14 更新的混沌回忆《鳞渊潮动》？](https://www.zhihu.com/question/869618048)
-1. [对你影响最深的一位历史人物是谁？](https://www.zhihu.com/question/801045546)
 1. [好失败大会｜能否看看你手机里那张「丑到不忍删除」的照片？](https://www.zhihu.com/question/808201768)
-1. [为什么说 vivo X200 Pro「大杯装灭霸」，2 亿长焦能否算是最适合摄影小白的出片神器？](https://www.zhihu.com/question/886388005)
 1. [孩子才上一年级就遇到严厉的老师，是好事还是坏事呢？](https://www.zhihu.com/question/669761049)
-1. [互联网流行的「养育内在小孩」的观点有道理吗？从心理学角度看「养育内在小孩」的本质是什么？](https://www.zhihu.com/question/671400773)
-1. [人为什么到白天就困，晚上就睡不着呢？](https://www.zhihu.com/question/853633133)
+1. [为什么说 vivo X200 Pro「大杯装灭霸」，2 亿长焦能否算是最适合摄影小白的出片神器？](https://www.zhihu.com/question/886388005)
 1. [什么样的空调更省电？](https://www.zhihu.com/question/879142263)
+1. [人为什么到白天就困，晚上就睡不着呢？](https://www.zhihu.com/question/853633133)
 1. [为什么人越长大越喜欢回忆从前呢？](https://www.zhihu.com/question/858423622)
+1. [短期的工作经历要不要写进简历？](https://www.zhihu.com/question/660376489)
+1. [对你影响最深的一位历史人物是谁？](https://www.zhihu.com/question/801045546)
 1. [2024 年诺贝尔经济学奖授予制度对经济繁荣的影响研究，如何理解这项研究？](https://www.zhihu.com/question/869536726)
 
 ## 热门视频
@@ -80,10 +80,10 @@
 1. [怎么看待 9 月小米 su7 销量位列纯电轿车第二?](https://www.zhihu.com/question/847858318)
 1. [北京二环内还有这么多破胡同平房，为什么就不再拆迁了呢？](https://www.zhihu.com/question/792415578)
 1. [游戏中的「王道叙事」在 2024 年是否已经过时了？](https://www.zhihu.com/question/832115282)
-1. [三体人到底有没有折磨过云天明？](https://www.zhihu.com/question/459076670)
 1. [《黑神话：悟空》的制作人冯骥为什么在腾讯时作品一般，离职后就能实现国产单机 3A 从 0 到 1 的突破？](https://www.zhihu.com/question/805176390)
 1. [公司不提供电脑，员工自带电脑，每月补助 200，是更节约成本吗？](https://www.zhihu.com/question/397229660)
 1. [S14 八强淘汰赛 LNG vs WBG，你觉得谁能赢下来？](https://www.zhihu.com/question/878137632)
+1. [三体人到底有没有折磨过云天明？](https://www.zhihu.com/question/459076670)
 1. [好失败大会｜你做过最抽象的「丑东西」手工艺品是什么样的？](https://www.zhihu.com/question/808201753)
 1. [叫一声佛祖，如果如来答应了，紫金葫芦能不能把他拿了？](https://www.zhihu.com/question/666822997)
 1. [S14 八强淘汰赛 TES vs T1，你觉得谁能赢下来？](https://www.zhihu.com/question/888923832)
@@ -96,14 +96,14 @@
 1. [如何评价《明日方舟》SideStory「追迹日落以西」 剧情？](https://www.zhihu.com/question/832159968)
 1. [如何评价董路与周海滨关于青训理念的争论?](https://www.zhihu.com/question/853633137)
 1. [如何评价《崩坏：星穹铁道》10.14 更新的混沌回忆《鳞渊潮动》？](https://www.zhihu.com/question/869618048)
-1. [对你影响最深的一位历史人物是谁？](https://www.zhihu.com/question/801045546)
 1. [好失败大会｜能否看看你手机里那张「丑到不忍删除」的照片？](https://www.zhihu.com/question/808201768)
-1. [为什么说 vivo X200 Pro「大杯装灭霸」，2 亿长焦能否算是最适合摄影小白的出片神器？](https://www.zhihu.com/question/886388005)
 1. [孩子才上一年级就遇到严厉的老师，是好事还是坏事呢？](https://www.zhihu.com/question/669761049)
-1. [互联网流行的「养育内在小孩」的观点有道理吗？从心理学角度看「养育内在小孩」的本质是什么？](https://www.zhihu.com/question/671400773)
-1. [人为什么到白天就困，晚上就睡不着呢？](https://www.zhihu.com/question/853633133)
+1. [为什么说 vivo X200 Pro「大杯装灭霸」，2 亿长焦能否算是最适合摄影小白的出片神器？](https://www.zhihu.com/question/886388005)
 1. [什么样的空调更省电？](https://www.zhihu.com/question/879142263)
+1. [人为什么到白天就困，晚上就睡不着呢？](https://www.zhihu.com/question/853633133)
 1. [为什么人越长大越喜欢回忆从前呢？](https://www.zhihu.com/question/858423622)
+1. [短期的工作经历要不要写进简历？](https://www.zhihu.com/question/660376489)
+1. [对你影响最深的一位历史人物是谁？](https://www.zhihu.com/question/801045546)
 1. [2024 年诺贝尔经济学奖授予制度对经济繁荣的影响研究，如何理解这项研究？](https://www.zhihu.com/question/869536726)
 
 ## 历史归档
