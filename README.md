@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2024-10-26 16:12:32 +0800`
+`更新时间：2024-10-26 17:10:01 +0800`
 
 ## 热门搜索
 
@@ -40,20 +40,22 @@
 1. [起猛了，看到「真」的测评了](https://www.zhihu.com/search?q=%E8%B5%B7%E7%8C%9B%E4%BA%86%EF%BC%8C%E7%9C%8B%E5%88%B0%E3%80%8C%E7%9C%9F%E3%80%8D%E7%9A%84%E6%B5%8B%E8%AF%84%E4%BA%86)
 1. [当代年轻人录音笔购买需求增加](https://www.zhihu.com/search?q=%E5%BD%93%E4%BB%A3%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%BD%95%E9%9F%B3%E7%AC%94%E8%B4%AD%E4%B9%B0%E9%9C%80%E6%B1%82%E5%A2%9E%E5%8A%A0)
 1. [录音笔成为打工人上班保命神器](https://www.zhihu.com/search?q=%E5%BD%95%E9%9F%B3%E7%AC%94%E6%88%90%E4%B8%BA%E6%89%93%E5%B7%A5%E4%BA%BA%E4%B8%8A%E7%8F%AD%E4%BF%9D%E5%91%BD%E7%A5%9E%E5%99%A8)
+1. [打工人为什么需要录音笔](https://www.zhihu.com/search?q=%E6%89%93%E5%B7%A5%E4%BA%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9C%80%E8%A6%81%E5%BD%95%E9%9F%B3%E7%AC%94)
 
 ## 热门话题
 
-1. [以色列称已对伊朗发动袭击，伊朗首都德黑兰连续传出多次爆炸声，具体情况如何？中东局势是否会再度升级？](https://www.zhihu.com/question/2109427028)
 1. [保时捷售价跌破 40 万，有经销商给出 35.8 万元 Macan 裸车价，此次降价能挽救销量危机吗？](https://www.zhihu.com/question/2015098778)
-1. [同样是患难夫妻，为什么刘邦对吕雉的态度和朱元璋对马皇后的态度截然不同？](https://www.zhihu.com/question/575052609)
 1. [全球通用自动驾驶第一股，文远知行正式在纳斯达克挂牌上市，自动驾驶赛道的曙光要来了吗？](https://www.zhihu.com/question/2075499254)
-1. [你身边有没有人给你肯定和鼓励？](https://www.zhihu.com/question/2071816750)
+1. [如何评价《尤利西斯》这部小说？](https://www.zhihu.com/question/27776859)
+1. [以色列称已对伊朗发动袭击，伊朗首都德黑兰连续传出多次爆炸声，具体情况如何？中东局势是否会再度升级？](https://www.zhihu.com/question/2109427028)
 1. [为什么要发明「筷子夹火箭」？直接在地面上建造一个回收平台，不是比「筷子夹火箭」更安全吗？](https://www.zhihu.com/question/1656288733)
 1. [中国王朝统治过的四至点，即最东、最南、最西、最北，分别是哪四个点？](https://www.zhihu.com/question/586347272)
 1. [脱口秀演员付航获得《喜剧之王单口季》年度总冠军，引起了很大社会反响，付航夺冠为何触动人心？](https://www.zhihu.com/question/1671786614)
+1. [你身边有没有人给你肯定和鼓励？](https://www.zhihu.com/question/2071816750)
+1. [同样是患难夫妻，为什么刘邦对吕雉的态度和朱元璋对马皇后的态度截然不同？](https://www.zhihu.com/question/575052609)
 1. [沉迷「AI 恋人」，美国 14 岁少年自杀，成全球首例 AI 致死案，有哪些警示作用？AI 应背锅吗？](https://www.zhihu.com/question/1949372483)
-1. [《再见爱人 4》哪对夫妻问题最大？](https://www.zhihu.com/question/1772713303)
 1. [写网文时，你们会改稿子改到崩溃吗？](https://www.zhihu.com/question/1855482183)
+1. [《再见爱人 4》哪对夫妻问题最大？](https://www.zhihu.com/question/1772713303)
 1. [如何评价 2024 年 10 月米哈游《崩坏星穹铁道》2.6《模拟宇宙 不可知域》？](https://www.zhihu.com/question/1734141781)
 1. [「沙特与伊朗计划举行联合军演」传递出什么信号？将对中东局势带来哪些影响？](https://www.zhihu.com/question/1913411767)
 1. [一人一句，支撑你上班不离职的原因是啥？](https://www.zhihu.com/question/2037540586)
@@ -68,25 +70,25 @@
 1. [全面战争系列里的兵种放到现实历史背景都是什么强度呢?](https://www.zhihu.com/question/1624983033)
 1. [但丁是摄政王册封的暗面摄政，莱昂则没有任何名分，狮王面见但丁需要行大礼吗？](https://www.zhihu.com/question/1928100515)
 1. [你怎么看「孩子不吃饭，饿一顿就好了」的做法？](https://www.zhihu.com/question/626611666)
-1. [你的老师有过哪些令人窒息的操作？](https://www.zhihu.com/question/272500951)
+1. [如何看待最近网络上对于黄磊做菜何炅「邪恶栀子花」计划的舆论？](https://www.zhihu.com/question/1630705181)
+1. [李行亮麦麦夫妇《再见爱人 4》暴露的核心问题是什么？他们的情感模式如何逐渐消耗了婚姻的活力？](https://www.zhihu.com/question/1564633248)
 1. [空闲的时间能干什么？](https://www.zhihu.com/question/1913020900)
-1. [贾樟柯执导、赵涛主演的时代爱情片《风流一代》定档 11 月 22 日，对此你有哪些期待？](https://www.zhihu.com/question/2027487502)
 1. [男子重罪改轻罪，超期羁押 933 天，申请国家赔偿遭驳回，有哪些法律依据？国家赔偿的适用条件有哪些？](https://www.zhihu.com/question/1992953451)
-1. [你知道大量的 SCP 知识，但你要被送进 SCP 世界，如何保命?](https://www.zhihu.com/question/701076007)
 
 ## 热门视频
 
-1. [以色列称已对伊朗发动袭击，伊朗首都德黑兰连续传出多次爆炸声，具体情况如何？中东局势是否会再度升级？](https://www.zhihu.com/question/2109427028)
 1. [保时捷售价跌破 40 万，有经销商给出 35.8 万元 Macan 裸车价，此次降价能挽救销量危机吗？](https://www.zhihu.com/question/2015098778)
-1. [同样是患难夫妻，为什么刘邦对吕雉的态度和朱元璋对马皇后的态度截然不同？](https://www.zhihu.com/question/575052609)
 1. [全球通用自动驾驶第一股，文远知行正式在纳斯达克挂牌上市，自动驾驶赛道的曙光要来了吗？](https://www.zhihu.com/question/2075499254)
-1. [你身边有没有人给你肯定和鼓励？](https://www.zhihu.com/question/2071816750)
+1. [如何评价《尤利西斯》这部小说？](https://www.zhihu.com/question/27776859)
+1. [以色列称已对伊朗发动袭击，伊朗首都德黑兰连续传出多次爆炸声，具体情况如何？中东局势是否会再度升级？](https://www.zhihu.com/question/2109427028)
 1. [为什么要发明「筷子夹火箭」？直接在地面上建造一个回收平台，不是比「筷子夹火箭」更安全吗？](https://www.zhihu.com/question/1656288733)
 1. [中国王朝统治过的四至点，即最东、最南、最西、最北，分别是哪四个点？](https://www.zhihu.com/question/586347272)
 1. [脱口秀演员付航获得《喜剧之王单口季》年度总冠军，引起了很大社会反响，付航夺冠为何触动人心？](https://www.zhihu.com/question/1671786614)
+1. [你身边有没有人给你肯定和鼓励？](https://www.zhihu.com/question/2071816750)
+1. [同样是患难夫妻，为什么刘邦对吕雉的态度和朱元璋对马皇后的态度截然不同？](https://www.zhihu.com/question/575052609)
 1. [沉迷「AI 恋人」，美国 14 岁少年自杀，成全球首例 AI 致死案，有哪些警示作用？AI 应背锅吗？](https://www.zhihu.com/question/1949372483)
-1. [《再见爱人 4》哪对夫妻问题最大？](https://www.zhihu.com/question/1772713303)
 1. [写网文时，你们会改稿子改到崩溃吗？](https://www.zhihu.com/question/1855482183)
+1. [《再见爱人 4》哪对夫妻问题最大？](https://www.zhihu.com/question/1772713303)
 1. [如何评价 2024 年 10 月米哈游《崩坏星穹铁道》2.6《模拟宇宙 不可知域》？](https://www.zhihu.com/question/1734141781)
 1. [「沙特与伊朗计划举行联合军演」传递出什么信号？将对中东局势带来哪些影响？](https://www.zhihu.com/question/1913411767)
 1. [一人一句，支撑你上班不离职的原因是啥？](https://www.zhihu.com/question/2037540586)
@@ -101,11 +103,10 @@
 1. [全面战争系列里的兵种放到现实历史背景都是什么强度呢?](https://www.zhihu.com/question/1624983033)
 1. [但丁是摄政王册封的暗面摄政，莱昂则没有任何名分，狮王面见但丁需要行大礼吗？](https://www.zhihu.com/question/1928100515)
 1. [你怎么看「孩子不吃饭，饿一顿就好了」的做法？](https://www.zhihu.com/question/626611666)
-1. [你的老师有过哪些令人窒息的操作？](https://www.zhihu.com/question/272500951)
+1. [如何看待最近网络上对于黄磊做菜何炅「邪恶栀子花」计划的舆论？](https://www.zhihu.com/question/1630705181)
+1. [李行亮麦麦夫妇《再见爱人 4》暴露的核心问题是什么？他们的情感模式如何逐渐消耗了婚姻的活力？](https://www.zhihu.com/question/1564633248)
 1. [空闲的时间能干什么？](https://www.zhihu.com/question/1913020900)
-1. [贾樟柯执导、赵涛主演的时代爱情片《风流一代》定档 11 月 22 日，对此你有哪些期待？](https://www.zhihu.com/question/2027487502)
 1. [男子重罪改轻罪，超期羁押 933 天，申请国家赔偿遭驳回，有哪些法律依据？国家赔偿的适用条件有哪些？](https://www.zhihu.com/question/1992953451)
-1. [你知道大量的 SCP 知识，但你要被送进 SCP 世界，如何保命?](https://www.zhihu.com/question/701076007)
 
 ## 历史归档
 
