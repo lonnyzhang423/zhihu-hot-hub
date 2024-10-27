@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2024-10-28 02:12:39 +0800`
+`更新时间：2024-10-28 03:08:29 +0800`
 
 ## 热门搜索
 
@@ -47,19 +47,21 @@
 
 ## 热门话题
 
-1. [美国宾州一县发现约 2500 份选民登记表疑似存在选举欺诈，具体情况如何？可能对美国大选造成哪些影响？](https://www.zhihu.com/question/2177773793)
-1. [汉语是牺牲了什么，才成为世界最紧凑、最高效的语言？](https://www.zhihu.com/question/309064079)
 1. [S14 半决赛 T1 3:1 淘汰 GEN 连续三年晋级全球总决赛最终决战，如何评价这场比赛？](https://www.zhihu.com/question/2264444876)
+1. [汉语是牺牲了什么，才成为世界最紧凑、最高效的语言？](https://www.zhihu.com/question/309064079)
+1. [美国宾州一县发现约 2500 份选民登记表疑似存在选举欺诈，具体情况如何？可能对美国大选造成哪些影响？](https://www.zhihu.com/question/2177773793)
 1. [中国首批太空旅游船票到手价 100 万一张，上架即售罄，太空旅行包含哪些内容？安全性有保障吗？](https://www.zhihu.com/question/1920008513)
 1. [S14 全球总决赛最终决战 BLG vs T1，你觉得谁能赢下来？](https://www.zhihu.com/question/2282996347)
 1. [《英雄联盟》2024 全球总决赛 BLG 对战 T1，哪个队伍最有可能获得今年总冠军？](https://www.zhihu.com/question/2283040668)
-1. [U17 亚洲杯预选赛中国 2:2 战平韩国，大家如何评价本场比赛？](https://www.zhihu.com/question/2270886547)
 1. [S14 半决赛 GEN 爆冷 1:3 不敌 T1 遭淘汰，他们到底输在哪？](https://www.zhihu.com/question/2282956495)
-1. [2024wtt 蒙彼利埃冠军赛女单半决赛，钱天一 2：4 负于张本美和，日乒包揽冠亚军，怎么评价这场比赛？](https://www.zhihu.com/question/2265081443)
-1. [金砖货币能否真正挑战美元霸权？](https://www.zhihu.com/question/2083431911)
+1. [你从《大宅门》中懂得了什么道理？](https://www.zhihu.com/question/1751854310)
+1. [苏联人偷到了 F-111 之后为什么不直接测绘仿制它的气动外形，而是要重新设计一个苏 24 呢?](https://www.zhihu.com/question/1617848863)
 1. [交易中那么多技术分析方法，学习哪一种比较好？](https://www.zhihu.com/question/662838007)
-1. [如何评价《战双帕弥什》联动《鬼泣 5》?](https://www.zhihu.com/question/2242278688)
+1. [2024wtt 蒙彼利埃冠军赛女单半决赛，钱天一 2：4 负于张本美和，日乒包揽冠亚军，怎么评价这场比赛？](https://www.zhihu.com/question/2265081443)
 1. [英语突然能听懂是一种什么样的体验？](https://www.zhihu.com/question/302832697)
+1. [金砖货币能否真正挑战美元霸权？](https://www.zhihu.com/question/2083431911)
+1. [U17 亚洲杯预选赛中国 2:2 战平韩国，大家如何评价本场比赛？](https://www.zhihu.com/question/2270886547)
+1. [如何评价《战双帕弥什》联动《鬼泣 5》?](https://www.zhihu.com/question/2242278688)
 1. [2024wtt 蒙彼利埃冠军赛男单半决赛，林诗栋 0：4 负于勒布伦，外协包揽冠亚军，怎么评价这一场比赛？](https://www.zhihu.com/question/2272889629)
 1. [为什么神雕电视剧的黄蓉选角都不太漂亮呢？](https://www.zhihu.com/question/944961972)
 1. [樊振东会参加洛杉矶奥运会么？](https://www.zhihu.com/question/895068454)
@@ -75,24 +77,24 @@
 1. [白桦树汁是智商税吗?](https://www.zhihu.com/question/654509491)
 1. [《如懿传》为什么说打工人都要避开大如这种领导？](https://www.zhihu.com/question/666510797)
 1. [中产家庭适不适合美国留学读 cs 硕士?](https://www.zhihu.com/question/667854141)
-1. [如何评价 2024 ICPC 成都站?](https://www.zhihu.com/question/1698291104)
-1. [乒乓冠军赛国乒 4 大主力出局，梁靖崑 0-3 惨败，国乒怎么了？当前面临哪些方面的挑战？](https://www.zhihu.com/question/2176614082)
 
 ## 热门视频
 
-1. [美国宾州一县发现约 2500 份选民登记表疑似存在选举欺诈，具体情况如何？可能对美国大选造成哪些影响？](https://www.zhihu.com/question/2177773793)
-1. [汉语是牺牲了什么，才成为世界最紧凑、最高效的语言？](https://www.zhihu.com/question/309064079)
 1. [S14 半决赛 T1 3:1 淘汰 GEN 连续三年晋级全球总决赛最终决战，如何评价这场比赛？](https://www.zhihu.com/question/2264444876)
+1. [汉语是牺牲了什么，才成为世界最紧凑、最高效的语言？](https://www.zhihu.com/question/309064079)
+1. [美国宾州一县发现约 2500 份选民登记表疑似存在选举欺诈，具体情况如何？可能对美国大选造成哪些影响？](https://www.zhihu.com/question/2177773793)
 1. [中国首批太空旅游船票到手价 100 万一张，上架即售罄，太空旅行包含哪些内容？安全性有保障吗？](https://www.zhihu.com/question/1920008513)
 1. [S14 全球总决赛最终决战 BLG vs T1，你觉得谁能赢下来？](https://www.zhihu.com/question/2282996347)
 1. [《英雄联盟》2024 全球总决赛 BLG 对战 T1，哪个队伍最有可能获得今年总冠军？](https://www.zhihu.com/question/2283040668)
-1. [U17 亚洲杯预选赛中国 2:2 战平韩国，大家如何评价本场比赛？](https://www.zhihu.com/question/2270886547)
 1. [S14 半决赛 GEN 爆冷 1:3 不敌 T1 遭淘汰，他们到底输在哪？](https://www.zhihu.com/question/2282956495)
-1. [2024wtt 蒙彼利埃冠军赛女单半决赛，钱天一 2：4 负于张本美和，日乒包揽冠亚军，怎么评价这场比赛？](https://www.zhihu.com/question/2265081443)
-1. [金砖货币能否真正挑战美元霸权？](https://www.zhihu.com/question/2083431911)
+1. [你从《大宅门》中懂得了什么道理？](https://www.zhihu.com/question/1751854310)
+1. [苏联人偷到了 F-111 之后为什么不直接测绘仿制它的气动外形，而是要重新设计一个苏 24 呢?](https://www.zhihu.com/question/1617848863)
 1. [交易中那么多技术分析方法，学习哪一种比较好？](https://www.zhihu.com/question/662838007)
-1. [如何评价《战双帕弥什》联动《鬼泣 5》?](https://www.zhihu.com/question/2242278688)
+1. [2024wtt 蒙彼利埃冠军赛女单半决赛，钱天一 2：4 负于张本美和，日乒包揽冠亚军，怎么评价这场比赛？](https://www.zhihu.com/question/2265081443)
 1. [英语突然能听懂是一种什么样的体验？](https://www.zhihu.com/question/302832697)
+1. [金砖货币能否真正挑战美元霸权？](https://www.zhihu.com/question/2083431911)
+1. [U17 亚洲杯预选赛中国 2:2 战平韩国，大家如何评价本场比赛？](https://www.zhihu.com/question/2270886547)
+1. [如何评价《战双帕弥什》联动《鬼泣 5》?](https://www.zhihu.com/question/2242278688)
 1. [2024wtt 蒙彼利埃冠军赛男单半决赛，林诗栋 0：4 负于勒布伦，外协包揽冠亚军，怎么评价这一场比赛？](https://www.zhihu.com/question/2272889629)
 1. [为什么神雕电视剧的黄蓉选角都不太漂亮呢？](https://www.zhihu.com/question/944961972)
 1. [樊振东会参加洛杉矶奥运会么？](https://www.zhihu.com/question/895068454)
@@ -108,8 +110,6 @@
 1. [白桦树汁是智商税吗?](https://www.zhihu.com/question/654509491)
 1. [《如懿传》为什么说打工人都要避开大如这种领导？](https://www.zhihu.com/question/666510797)
 1. [中产家庭适不适合美国留学读 cs 硕士?](https://www.zhihu.com/question/667854141)
-1. [如何评价 2024 ICPC 成都站?](https://www.zhihu.com/question/1698291104)
-1. [乒乓冠军赛国乒 4 大主力出局，梁靖崑 0-3 惨败，国乒怎么了？当前面临哪些方面的挑战？](https://www.zhihu.com/question/2176614082)
 
 ## 历史归档
 
