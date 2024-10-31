@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2024-11-01 03:07:42 +0800`
+`更新时间：2024-11-01 04:11:16 +0800`
 
 ## 热门搜索
 
@@ -56,6 +56,7 @@
 1. [总觉得「自己有需求是可耻的，向他人寻求帮助是对他人的叨扰」，想要求助又恐惧和回避，怎么改善？](https://www.zhihu.com/question/2569496886)
 1. [目前大环境下，去读博是否是个比较好的选择呢？](https://www.zhihu.com/question/667027286)
 1. [动画为什么 2D 比 3D 看着舒服，国内为啥都在做 3D？](https://www.zhihu.com/question/637635938)
+1. [你心目中的排名第一的饮料是哪一款？](https://www.zhihu.com/question/1773049633)
 1. [如何评价迪丽热巴在综艺《花儿与少年·丝路季》中的表现？](https://www.zhihu.com/question/628790278)
 1. [10 月 30 日 AMD 股价暴跌 11%，暴跌的原因是什么？x86-64 还有希望吗？](https://www.zhihu.com/question/2651210086)
 1. [有关「乔任梁死因」流言四起，其父母发声辟谣，传播流言的人是否应负责任？平台又该承担哪些责任？](https://www.zhihu.com/question/2684373977)
@@ -69,13 +70,12 @@
 1. [主流互联网大厂的笔试题目，真能准确筛选出岗位所需人才吗？](https://www.zhihu.com/question/668869091)
 1. [如何看待 10 月 31 号游戏《少女前线》官方宣布将于今年年末关服？](https://www.zhihu.com/question/2662233611)
 1. [你会干涉孩子交朋友么？还是充分尊重孩子的决定，让他在这个过程中自己来分辨什么是真正的朋友？](https://www.zhihu.com/question/2314619027)
-1. [小米 SU7 Ultra 10 分钟小订量突破 3680 台，这说明什么？是谁在买？后续交付能力如何？](https://www.zhihu.com/question/2557145993)
 1. [日常生活中你期待手机 AI 能带来哪些便利或创新？新发布的荣耀 Magic7 在这方面的表现如何？](https://www.zhihu.com/question/2657871681)
 1. [有没有像香蕉一样吃起来很方便的水果？](https://www.zhihu.com/question/415945540)
+1. [如果星、荧、琪亚娜、铃组一个乐队，那么这个乐队应该是怎么样的？](https://www.zhihu.com/question/2241201468)
 1. [减肥时晚上饿了做什么事转移注意力？](https://www.zhihu.com/question/1747946540)
 1. [火药是道教炼出来的，为何现在修仙文不出现火药？](https://www.zhihu.com/question/667516856)
 1. [什么样的灵魂才叫有趣的灵魂？](https://www.zhihu.com/question/40606427)
-1. [有什么三国野史么？](https://www.zhihu.com/question/667710793)
 
 ## 热门视频
 
@@ -89,6 +89,7 @@
 1. [总觉得「自己有需求是可耻的，向他人寻求帮助是对他人的叨扰」，想要求助又恐惧和回避，怎么改善？](https://www.zhihu.com/question/2569496886)
 1. [目前大环境下，去读博是否是个比较好的选择呢？](https://www.zhihu.com/question/667027286)
 1. [动画为什么 2D 比 3D 看着舒服，国内为啥都在做 3D？](https://www.zhihu.com/question/637635938)
+1. [你心目中的排名第一的饮料是哪一款？](https://www.zhihu.com/question/1773049633)
 1. [如何评价迪丽热巴在综艺《花儿与少年·丝路季》中的表现？](https://www.zhihu.com/question/628790278)
 1. [10 月 30 日 AMD 股价暴跌 11%，暴跌的原因是什么？x86-64 还有希望吗？](https://www.zhihu.com/question/2651210086)
 1. [有关「乔任梁死因」流言四起，其父母发声辟谣，传播流言的人是否应负责任？平台又该承担哪些责任？](https://www.zhihu.com/question/2684373977)
@@ -102,13 +103,12 @@
 1. [主流互联网大厂的笔试题目，真能准确筛选出岗位所需人才吗？](https://www.zhihu.com/question/668869091)
 1. [如何看待 10 月 31 号游戏《少女前线》官方宣布将于今年年末关服？](https://www.zhihu.com/question/2662233611)
 1. [你会干涉孩子交朋友么？还是充分尊重孩子的决定，让他在这个过程中自己来分辨什么是真正的朋友？](https://www.zhihu.com/question/2314619027)
-1. [小米 SU7 Ultra 10 分钟小订量突破 3680 台，这说明什么？是谁在买？后续交付能力如何？](https://www.zhihu.com/question/2557145993)
 1. [日常生活中你期待手机 AI 能带来哪些便利或创新？新发布的荣耀 Magic7 在这方面的表现如何？](https://www.zhihu.com/question/2657871681)
 1. [有没有像香蕉一样吃起来很方便的水果？](https://www.zhihu.com/question/415945540)
+1. [如果星、荧、琪亚娜、铃组一个乐队，那么这个乐队应该是怎么样的？](https://www.zhihu.com/question/2241201468)
 1. [减肥时晚上饿了做什么事转移注意力？](https://www.zhihu.com/question/1747946540)
 1. [火药是道教炼出来的，为何现在修仙文不出现火药？](https://www.zhihu.com/question/667516856)
 1. [什么样的灵魂才叫有趣的灵魂？](https://www.zhihu.com/question/40606427)
-1. [有什么三国野史么？](https://www.zhihu.com/question/667710793)
 
 ## 历史归档
 
