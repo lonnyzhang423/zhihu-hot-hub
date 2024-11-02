@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2024-11-03 04:22:53 +0800`
+`更新时间：2024-11-03 05:19:45 +0800`
 
 ## 热门搜索
 
@@ -48,14 +48,14 @@
 ## 热门话题
 
 1. [S14 总决赛 T1 3:2 击败 BLG 夺得队史第五座冠军并蝉联全球总冠军，如何评价这场比赛？](https://www.zhihu.com/question/2931053715)
-1. [S14 冠亚军决赛宣传片发布，Faker 要将第五座奖杯送给粉丝，看完你有什么感触？](https://www.zhihu.com/question/2903953452)
 1. [Faker 获得 S14 决赛 FMVP，对此你有什么想说的？](https://www.zhihu.com/question/2946350216)
 1. [为什么羊没能成为人类的宠物？](https://www.zhihu.com/question/275449005)
+1. [S14 冠亚军决赛宣传片发布，Faker 要将第五座奖杯送给粉丝，看完你有什么感触？](https://www.zhihu.com/question/2903953452)
 1. [假如周杰伦的专辑发布时间倒置一下，结果会如何？](https://www.zhihu.com/question/705790836)
-1. [有哪些人们认为是常识的历史知识，实际上在史学界依然存在争议？](https://www.zhihu.com/question/660981529)
-1. [我是一名选科化学的高中毕业生，我想更系统地学习化学，我该怎么做？](https://www.zhihu.com/question/658474076)
 1. [河南一男子组织多名十三四岁少女从事有偿陪侍，被判处有期徒刑六个月，如何从法律角度解读这一判决结果？](https://www.zhihu.com/question/2597169531)
+1. [有哪些人们认为是常识的历史知识，实际上在史学界依然存在争议？](https://www.zhihu.com/question/660981529)
 1. [怎么提高自己的写作水平？总是想写心里也有想法但是说不出来？](https://www.zhihu.com/question/2730255037)
+1. [我是一名选科化学的高中毕业生，我想更系统地学习化学，我该怎么做？](https://www.zhihu.com/question/658474076)
 1. [小米 15 定价 4499 元起，如何评价这一定价策略？你看好小米 15 系列的市场表现吗？](https://www.zhihu.com/question/2500101560)
 1. [今年前三季度结婚登记 474.7 万对，比去年大幅下降，第三季度登记数创下单季度新低，如何看待此数据？](https://www.zhihu.com/question/2827501571)
 1. [如何评价比亚迪 2024 年前三季度研发投入高达 333.2 亿元？](https://www.zhihu.com/question/2800162301)
@@ -68,27 +68,27 @@
 1. [乡下的土鸡真的值 100 块钱吗？](https://www.zhihu.com/question/291030601)
 1. [二战德国坦克先进还是苏联坦克先进？](https://www.zhihu.com/question/60654698)
 1. [我总是无法集中注意力该怎么改善？](https://www.zhihu.com/question/2399661947)
-1. [2024 WTT 常规挑战赛马斯喀特站女单第三轮，何卓佳 1：3 负于大藤沙月，怎么评价这场的表现？](https://www.zhihu.com/question/2812699465)
 1. [你会因为认识的朋友、同学、同事、邻居家的孩子都上了课外辅导班而焦虑，也给自己家孩子报辅导班么？](https://www.zhihu.com/question/2191432357)
-1. [地铁为什么不大力建设高架线？成本不是要比地下线低很多吗？](https://www.zhihu.com/question/37876577)
 1. [动漫《死神》中的最强天才到底是谁？](https://www.zhihu.com/question/550357135)
+1. [2024 WTT 常规挑战赛马斯喀特站女单第三轮，何卓佳 1：3 负于大藤沙月，怎么评价这场的表现？](https://www.zhihu.com/question/2812699465)
 1. [《资本论》太难了，感觉看不懂啊，怎么办？](https://www.zhihu.com/question/1784529860)
-1. [为什么这么多人觉得灭霸是对的?](https://www.zhihu.com/question/446877300)
 1. [美国 10 月非农就业人数增加 1.2 万人，大幅低于预期，这一数据说明了什么？](https://www.zhihu.com/question/2881110372)
-1. [现在大模型最火，还有人坚持 robotics 吗？](https://www.zhihu.com/question/635205609)
+1. [为什么这么多人觉得灭霸是对的?](https://www.zhihu.com/question/446877300)
+1. [地铁为什么不大力建设高架线？成本不是要比地下线低很多吗？](https://www.zhihu.com/question/37876577)
 1. [如何评价卡普生命卡惊现霸王色？](https://www.zhihu.com/question/2793388886)
+1. [为什么五台山敢收留鲁智深这样一个杀人逃犯？](https://www.zhihu.com/question/2768861420)
 
 ## 热门视频
 
 1. [S14 总决赛 T1 3:2 击败 BLG 夺得队史第五座冠军并蝉联全球总冠军，如何评价这场比赛？](https://www.zhihu.com/question/2931053715)
-1. [S14 冠亚军决赛宣传片发布，Faker 要将第五座奖杯送给粉丝，看完你有什么感触？](https://www.zhihu.com/question/2903953452)
 1. [Faker 获得 S14 决赛 FMVP，对此你有什么想说的？](https://www.zhihu.com/question/2946350216)
 1. [为什么羊没能成为人类的宠物？](https://www.zhihu.com/question/275449005)
+1. [S14 冠亚军决赛宣传片发布，Faker 要将第五座奖杯送给粉丝，看完你有什么感触？](https://www.zhihu.com/question/2903953452)
 1. [假如周杰伦的专辑发布时间倒置一下，结果会如何？](https://www.zhihu.com/question/705790836)
-1. [有哪些人们认为是常识的历史知识，实际上在史学界依然存在争议？](https://www.zhihu.com/question/660981529)
-1. [我是一名选科化学的高中毕业生，我想更系统地学习化学，我该怎么做？](https://www.zhihu.com/question/658474076)
 1. [河南一男子组织多名十三四岁少女从事有偿陪侍，被判处有期徒刑六个月，如何从法律角度解读这一判决结果？](https://www.zhihu.com/question/2597169531)
+1. [有哪些人们认为是常识的历史知识，实际上在史学界依然存在争议？](https://www.zhihu.com/question/660981529)
 1. [怎么提高自己的写作水平？总是想写心里也有想法但是说不出来？](https://www.zhihu.com/question/2730255037)
+1. [我是一名选科化学的高中毕业生，我想更系统地学习化学，我该怎么做？](https://www.zhihu.com/question/658474076)
 1. [小米 15 定价 4499 元起，如何评价这一定价策略？你看好小米 15 系列的市场表现吗？](https://www.zhihu.com/question/2500101560)
 1. [今年前三季度结婚登记 474.7 万对，比去年大幅下降，第三季度登记数创下单季度新低，如何看待此数据？](https://www.zhihu.com/question/2827501571)
 1. [如何评价比亚迪 2024 年前三季度研发投入高达 333.2 亿元？](https://www.zhihu.com/question/2800162301)
@@ -101,15 +101,15 @@
 1. [乡下的土鸡真的值 100 块钱吗？](https://www.zhihu.com/question/291030601)
 1. [二战德国坦克先进还是苏联坦克先进？](https://www.zhihu.com/question/60654698)
 1. [我总是无法集中注意力该怎么改善？](https://www.zhihu.com/question/2399661947)
-1. [2024 WTT 常规挑战赛马斯喀特站女单第三轮，何卓佳 1：3 负于大藤沙月，怎么评价这场的表现？](https://www.zhihu.com/question/2812699465)
 1. [你会因为认识的朋友、同学、同事、邻居家的孩子都上了课外辅导班而焦虑，也给自己家孩子报辅导班么？](https://www.zhihu.com/question/2191432357)
-1. [地铁为什么不大力建设高架线？成本不是要比地下线低很多吗？](https://www.zhihu.com/question/37876577)
 1. [动漫《死神》中的最强天才到底是谁？](https://www.zhihu.com/question/550357135)
+1. [2024 WTT 常规挑战赛马斯喀特站女单第三轮，何卓佳 1：3 负于大藤沙月，怎么评价这场的表现？](https://www.zhihu.com/question/2812699465)
 1. [《资本论》太难了，感觉看不懂啊，怎么办？](https://www.zhihu.com/question/1784529860)
-1. [为什么这么多人觉得灭霸是对的?](https://www.zhihu.com/question/446877300)
 1. [美国 10 月非农就业人数增加 1.2 万人，大幅低于预期，这一数据说明了什么？](https://www.zhihu.com/question/2881110372)
-1. [现在大模型最火，还有人坚持 robotics 吗？](https://www.zhihu.com/question/635205609)
+1. [为什么这么多人觉得灭霸是对的?](https://www.zhihu.com/question/446877300)
+1. [地铁为什么不大力建设高架线？成本不是要比地下线低很多吗？](https://www.zhihu.com/question/37876577)
 1. [如何评价卡普生命卡惊现霸王色？](https://www.zhihu.com/question/2793388886)
+1. [为什么五台山敢收留鲁智深这样一个杀人逃犯？](https://www.zhihu.com/question/2768861420)
 
 ## 历史归档
 
