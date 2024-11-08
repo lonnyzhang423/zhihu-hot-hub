@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2024-11-09 02:29:17 +0800`
+`更新时间：2024-11-09 03:16:43 +0800`
 
 ## 热门搜索
 
@@ -52,20 +52,23 @@
 1. [山东一男子 8 天累计加班 41 小时，在劳务派遣公司工作期间猝死，这种情况该由哪方赔偿？](https://www.zhihu.com/question/3462348690)
 1. [WTA 年终总决赛半决赛，郑钦文 2-0 淘汰克雷吉茨科娃，晋级总决赛，你如何看待这场比赛？](https://www.zhihu.com/question/3539796339)
 1. [西安一女生应聘总助被要求陪睡，BOSS 直聘回应「会有专门人员跟进处理」，此事暴露出哪些问题？](https://www.zhihu.com/question/3470567712)
-1. [如果余则成没有拿到天津的城防图，天津能否解放？](https://www.zhihu.com/question/585391722)
 1. [如何评价《英雄联盟》的新地图进步之桥?](https://www.zhihu.com/question/3489415813)
-1. [三年级功课不好，要不要停掉兴趣班?](https://www.zhihu.com/question/3489056291)
-1. [媒体曝台积电向中国大陆 AI/GPU 客户暂停 7nm 及以下芯片供应，将会产生什么影响？](https://www.zhihu.com/question/3530073623)
+1. [滑铁卢会战如果普军不来支援，法国是不是就赢得这场会战的胜利了？](https://www.zhihu.com/question/615007577)
 1. [郑钦文总决赛能夺冠吗？](https://www.zhihu.com/question/2547855204)
+1. [媒体曝台积电向中国大陆 AI/GPU 客户暂停 7nm 及以下芯片供应，将会产生什么影响？](https://www.zhihu.com/question/3530073623)
+1. [蜜蜂为什么会心甘情愿地在人造的蜂箱中筑巢？蜂箱的形状和蜜蜂圆形的窝一点不一样啊?](https://www.zhihu.com/question/388194938)
 1. [特朗普宣布其竞选团队首席顾问苏珊将出任白宫办公厅主任，这一任命可能出于什么考虑？](https://www.zhihu.com/question/3519242718)
+1. [社交障碍很严重，害怕与陌生人当面交流怎么办？](https://www.zhihu.com/question/3043406184)
 1. [成年人如何集中注意力?](https://www.zhihu.com/question/3370049222)
+1. [三年级功课不好，要不要停掉兴趣班?](https://www.zhihu.com/question/3489056291)
+1. [如果余则成没有拿到天津的城防图，天津能否解放？](https://www.zhihu.com/question/585391722)
 1. [如何熬过领导打压期呢？](https://www.zhihu.com/question/667908480)
+1. [女子漏接市监所电话被辱骂，济南通报，2 人被停职，所长调离岗位，责令向消费者赔礼道歉，如何看待此事？](https://www.zhihu.com/question/3426193020)
 1. [为何 NBA 球员都认为总冠军是最好荣誉？](https://www.zhihu.com/question/459816879)
 1. [如果细胞分裂速度突然加快 100 倍，生物体的寿命是更长还是更短了？](https://www.zhihu.com/question/951843198)
 1. [一部电影会失传吗？](https://www.zhihu.com/question/21381181)
-1. [女子漏接市监所电话被辱骂，济南通报，2 人被停职，所长调离岗位，责令向消费者赔礼道歉，如何看待此事？](https://www.zhihu.com/question/3426193020)
-1. [有没有类似大富翁的桌游推荐？](https://www.zhihu.com/question/666769398)
 1. [为何老小区加装电梯虎头蛇尾了？](https://www.zhihu.com/question/759589179)
+1. [有没有类似大富翁的桌游推荐？](https://www.zhihu.com/question/666769398)
 1. [如何评价《原神》2024 年 11 月 8 日的 5.2 前瞻直播？](https://www.zhihu.com/question/3584088166)
 1. [24-25 赛季欧联，曼联 2-0 塞萨洛尼基，阿马德 - 迪亚洛双响，如何评价这场比赛？](https://www.zhihu.com/question/3508257577)
 1. [《三国志》游戏中，一个势力开局只有一个将但是强将，和一个势力开局有十个将但都是弱将比，哪个更强？](https://www.zhihu.com/question/2614881639)
@@ -74,9 +77,6 @@
 1. [零基础自学编程有什么建议？](https://www.zhihu.com/question/3253247536)
 1. [明朝造船技术已经很发达了，嘉靖年间倭寇犯边，当时朝廷为何不造船训练海军，直插岛国，从根源解决问题呢？](https://www.zhihu.com/question/3104098505)
 1. [在最近发布的旗舰手机中，哪款手机的配置更有诚意，最值得双十一入手？](https://www.zhihu.com/question/3449177183)
-1. [有什么廉价但是技术含量很高的东西？](https://www.zhihu.com/question/55556079)
-1. [4499 元起的荣耀 Magic7 系列实际使用体验怎么样，值得入手吗？](https://www.zhihu.com/question/3445457363)
-1. [为什么撕胶带时用笔迅速戳一带就会裂开，但慢慢戳一个洞就没效果呢？](https://www.zhihu.com/question/2925453548)
 
 ## 热门视频
 
@@ -85,20 +85,23 @@
 1. [山东一男子 8 天累计加班 41 小时，在劳务派遣公司工作期间猝死，这种情况该由哪方赔偿？](https://www.zhihu.com/question/3462348690)
 1. [WTA 年终总决赛半决赛，郑钦文 2-0 淘汰克雷吉茨科娃，晋级总决赛，你如何看待这场比赛？](https://www.zhihu.com/question/3539796339)
 1. [西安一女生应聘总助被要求陪睡，BOSS 直聘回应「会有专门人员跟进处理」，此事暴露出哪些问题？](https://www.zhihu.com/question/3470567712)
-1. [如果余则成没有拿到天津的城防图，天津能否解放？](https://www.zhihu.com/question/585391722)
 1. [如何评价《英雄联盟》的新地图进步之桥?](https://www.zhihu.com/question/3489415813)
-1. [三年级功课不好，要不要停掉兴趣班?](https://www.zhihu.com/question/3489056291)
-1. [媒体曝台积电向中国大陆 AI/GPU 客户暂停 7nm 及以下芯片供应，将会产生什么影响？](https://www.zhihu.com/question/3530073623)
+1. [滑铁卢会战如果普军不来支援，法国是不是就赢得这场会战的胜利了？](https://www.zhihu.com/question/615007577)
 1. [郑钦文总决赛能夺冠吗？](https://www.zhihu.com/question/2547855204)
+1. [媒体曝台积电向中国大陆 AI/GPU 客户暂停 7nm 及以下芯片供应，将会产生什么影响？](https://www.zhihu.com/question/3530073623)
+1. [蜜蜂为什么会心甘情愿地在人造的蜂箱中筑巢？蜂箱的形状和蜜蜂圆形的窝一点不一样啊?](https://www.zhihu.com/question/388194938)
 1. [特朗普宣布其竞选团队首席顾问苏珊将出任白宫办公厅主任，这一任命可能出于什么考虑？](https://www.zhihu.com/question/3519242718)
+1. [社交障碍很严重，害怕与陌生人当面交流怎么办？](https://www.zhihu.com/question/3043406184)
 1. [成年人如何集中注意力?](https://www.zhihu.com/question/3370049222)
+1. [三年级功课不好，要不要停掉兴趣班?](https://www.zhihu.com/question/3489056291)
+1. [如果余则成没有拿到天津的城防图，天津能否解放？](https://www.zhihu.com/question/585391722)
 1. [如何熬过领导打压期呢？](https://www.zhihu.com/question/667908480)
+1. [女子漏接市监所电话被辱骂，济南通报，2 人被停职，所长调离岗位，责令向消费者赔礼道歉，如何看待此事？](https://www.zhihu.com/question/3426193020)
 1. [为何 NBA 球员都认为总冠军是最好荣誉？](https://www.zhihu.com/question/459816879)
 1. [如果细胞分裂速度突然加快 100 倍，生物体的寿命是更长还是更短了？](https://www.zhihu.com/question/951843198)
 1. [一部电影会失传吗？](https://www.zhihu.com/question/21381181)
-1. [女子漏接市监所电话被辱骂，济南通报，2 人被停职，所长调离岗位，责令向消费者赔礼道歉，如何看待此事？](https://www.zhihu.com/question/3426193020)
-1. [有没有类似大富翁的桌游推荐？](https://www.zhihu.com/question/666769398)
 1. [为何老小区加装电梯虎头蛇尾了？](https://www.zhihu.com/question/759589179)
+1. [有没有类似大富翁的桌游推荐？](https://www.zhihu.com/question/666769398)
 1. [如何评价《原神》2024 年 11 月 8 日的 5.2 前瞻直播？](https://www.zhihu.com/question/3584088166)
 1. [24-25 赛季欧联，曼联 2-0 塞萨洛尼基，阿马德 - 迪亚洛双响，如何评价这场比赛？](https://www.zhihu.com/question/3508257577)
 1. [《三国志》游戏中，一个势力开局只有一个将但是强将，和一个势力开局有十个将但都是弱将比，哪个更强？](https://www.zhihu.com/question/2614881639)
@@ -107,9 +110,6 @@
 1. [零基础自学编程有什么建议？](https://www.zhihu.com/question/3253247536)
 1. [明朝造船技术已经很发达了，嘉靖年间倭寇犯边，当时朝廷为何不造船训练海军，直插岛国，从根源解决问题呢？](https://www.zhihu.com/question/3104098505)
 1. [在最近发布的旗舰手机中，哪款手机的配置更有诚意，最值得双十一入手？](https://www.zhihu.com/question/3449177183)
-1. [有什么廉价但是技术含量很高的东西？](https://www.zhihu.com/question/55556079)
-1. [4499 元起的荣耀 Magic7 系列实际使用体验怎么样，值得入手吗？](https://www.zhihu.com/question/3445457363)
-1. [为什么撕胶带时用笔迅速戳一带就会裂开，但慢慢戳一个洞就没效果呢？](https://www.zhihu.com/question/2925453548)
 
 ## 历史归档
 
