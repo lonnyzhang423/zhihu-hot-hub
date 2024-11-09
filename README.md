@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2024-11-10 05:20:14 +0800`
+`更新时间：2024-11-10 06:19:06 +0800`
 
 ## 热门搜索
 
@@ -49,15 +49,15 @@
 
 1. [家长吐槽新版教材「防自学」，是合理质疑还是教育内卷下的焦虑？教材设计如何才能更好地服务于课堂教学？](https://www.zhihu.com/question/3563017799)
 1. [财政部将在沙特利雅得发行美元主权债券，此举有何目的？](https://www.zhihu.com/question/3206522854)
-1. [如何看待 2024 年 WTA 总决赛，郑钦文与高芙的比赛？](https://www.zhihu.com/question/3696704396)
 1. [炒股网红「爱在深秋」被封号，仅存活 9 天，此前网红博主大蓝账号被封，大 V 荐股有多坑？对投资者有哪些危害？](https://www.zhihu.com/question/3587124426)
 1. [如何评价霍思燕？](https://www.zhihu.com/question/268510494)
+1. [如何看待 2024 年 WTA 总决赛，郑钦文与高芙的比赛？](https://www.zhihu.com/question/3696704396)
 1. [24-25 赛季 NBA 常规赛湖人 114:131 灰熊，如何评价这场比赛？](https://www.zhihu.com/question/3408222878)
 1. [日媒预测日本今年新生儿跌破 70 万，越来越多日本人选择不婚或晚婚，反映了什么？](https://www.zhihu.com/question/3332001682)
 1. [24-25 赛季 NBA 常规赛太阳 114:113 独行侠，如何评价这场比赛？](https://www.zhihu.com/question/3622693060)
-1. [如何评价《绝区零》1.3 新玩法拟真鏖战？](https://www.zhihu.com/question/3322422471)
 1. [如何看待小米 SU7 10 月销量 20726 辆，新势力轿车排名第一？](https://www.zhihu.com/question/3588944812)
 1. [如何看待丰田汽车净利润暴跌 55%，宣布大幅下调全球销量预期？汽车行业面临哪些挑战与变革？](https://www.zhihu.com/question/3359576640)
+1. [如何评价《绝区零》1.3 新玩法拟真鏖战？](https://www.zhihu.com/question/3322422471)
 1. [美国 43 只猴子从实验室逃脱，警方喊话民众「别靠近」，具体情况怎么样？有哪些风险？](https://www.zhihu.com/question/3587899033)
 1. [如何评价改编自 Twentine 同名小说的电影《那个不为人知的故事》？](https://www.zhihu.com/question/3541333386)
 1. [如何评价《绝区零》1.3 独家视界剧情「虚拟杀机」?](https://www.zhihu.com/question/3375201989)
@@ -82,15 +82,15 @@
 
 1. [家长吐槽新版教材「防自学」，是合理质疑还是教育内卷下的焦虑？教材设计如何才能更好地服务于课堂教学？](https://www.zhihu.com/question/3563017799)
 1. [财政部将在沙特利雅得发行美元主权债券，此举有何目的？](https://www.zhihu.com/question/3206522854)
-1. [如何看待 2024 年 WTA 总决赛，郑钦文与高芙的比赛？](https://www.zhihu.com/question/3696704396)
 1. [炒股网红「爱在深秋」被封号，仅存活 9 天，此前网红博主大蓝账号被封，大 V 荐股有多坑？对投资者有哪些危害？](https://www.zhihu.com/question/3587124426)
 1. [如何评价霍思燕？](https://www.zhihu.com/question/268510494)
+1. [如何看待 2024 年 WTA 总决赛，郑钦文与高芙的比赛？](https://www.zhihu.com/question/3696704396)
 1. [24-25 赛季 NBA 常规赛湖人 114:131 灰熊，如何评价这场比赛？](https://www.zhihu.com/question/3408222878)
 1. [日媒预测日本今年新生儿跌破 70 万，越来越多日本人选择不婚或晚婚，反映了什么？](https://www.zhihu.com/question/3332001682)
 1. [24-25 赛季 NBA 常规赛太阳 114:113 独行侠，如何评价这场比赛？](https://www.zhihu.com/question/3622693060)
-1. [如何评价《绝区零》1.3 新玩法拟真鏖战？](https://www.zhihu.com/question/3322422471)
 1. [如何看待小米 SU7 10 月销量 20726 辆，新势力轿车排名第一？](https://www.zhihu.com/question/3588944812)
 1. [如何看待丰田汽车净利润暴跌 55%，宣布大幅下调全球销量预期？汽车行业面临哪些挑战与变革？](https://www.zhihu.com/question/3359576640)
+1. [如何评价《绝区零》1.3 新玩法拟真鏖战？](https://www.zhihu.com/question/3322422471)
 1. [美国 43 只猴子从实验室逃脱，警方喊话民众「别靠近」，具体情况怎么样？有哪些风险？](https://www.zhihu.com/question/3587899033)
 1. [如何评价改编自 Twentine 同名小说的电影《那个不为人知的故事》？](https://www.zhihu.com/question/3541333386)
 1. [如何评价《绝区零》1.3 独家视界剧情「虚拟杀机」?](https://www.zhihu.com/question/3375201989)
