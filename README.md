@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2024-11-17 02:28:26 +0800`
+`更新时间：2024-11-17 03:17:44 +0800`
 
 ## 热门搜索
 
@@ -43,17 +43,21 @@
 1. [学生上台指责学校「有钱建草堂没钱修宿舍」，官方回应已成立调查组，如何看待此事？](https://www.zhihu.com/question/4300883306)
 1. [中铁七局再发声明对记者致歉，项目分部经理等 5 人就地免职，事件暴露出哪些问题？](https://www.zhihu.com/question/4294984654)
 1. [如何看待横店群演时薪由 15 元降到 13.5 元？这个收入属于什么水平？](https://www.zhihu.com/question/4238081281)
-1. [如何看待李庚希凭借《我们一起摇太阳》获得第 37 届金鸡奖最佳女主角，成为首位 00 后金鸡影后？](https://www.zhihu.com/question/4347033071)
 1. [常州规定献血 100 次可免费吃自助，血站称有 80 多人符合条件，这个献血频率会影响健康吗？](https://www.zhihu.com/question/4318705057)
-1. [怎样看王皓回应马龙樊振东退出 wtt 总决赛？](https://www.zhihu.com/question/4347841165)
+1. [印尼为何让东帝汶独立了？](https://www.zhihu.com/question/748713113)
 1. [Faker 五冠王意味着什么?](https://www.zhihu.com/question/3146336205)
-1. [乒乓球商业赛事的含金量和三大赛的含金量一样吗？](https://www.zhihu.com/question/664776716)
+1. [复旦版《2023 年度中国医院排行榜》发布，首次采取分级制，哪些信息值得关注？](https://www.zhihu.com/question/4320637431)
+1. [《再见爱人 4》中为什么麦琳的风评会由好转差呢？](https://www.zhihu.com/question/2221253556)
 1. [如何评价综艺《花儿与少年》第六季？](https://www.zhihu.com/question/665511632)
 1. [没有冰箱的时候，居住在热带的人是不是从来没见过冰？](https://www.zhihu.com/question/39562985)
 1. [成龙呼吁大家到电影院看电影，认为在家会降低观影质量，你认同他的观点吗？为什么？](https://www.zhihu.com/question/4297655841)
 1. [如果高考把物理升格为主科，英语降成副科，是否更有利于选拔人才？](https://www.zhihu.com/question/4125737892)
-1. [你知道哪些很有意思的历史冷知识？](https://www.zhihu.com/question/636695546)
+1. [乒乓球商业赛事的含金量和三大赛的含金量一样吗？](https://www.zhihu.com/question/664776716)
+1. [如何看待李庚希凭借《我们一起摇太阳》获得第 37 届金鸡奖最佳女主角，成为首位 00 后金鸡影后？](https://www.zhihu.com/question/4347033071)
 1. [外卖员建议不要点黄焖鸡，个别商家用冷冻肉和僵尸肉配菜不洗，什么是僵尸肉？对健康危害有多多大？](https://www.zhihu.com/question/4259949210)
+1. [为什么没有公司去做 3A 级别的二次元单机大作？](https://www.zhihu.com/question/654684675)
+1. [怎样看王皓回应马龙樊振东退出 wtt 总决赛？](https://www.zhihu.com/question/4347841165)
+1. [你知道哪些很有意思的历史冷知识？](https://www.zhihu.com/question/636695546)
 1. [58 岁泰森复出败给 27 岁「网红拳手」杰克保罗，如何评价他的表现？](https://www.zhihu.com/question/4215866683)
 1. [反诈老陈说当年辞职皆因「冲动没看透自己」，最看不起现在的自己，怎么看待他的「看透」和「看不起」？](https://www.zhihu.com/question/4233800446)
 1. [国足 1：0 巴林后，是不是有望冲击世界杯？](https://www.zhihu.com/question/4205894053)
@@ -66,27 +70,27 @@
 1. [「撒一个谎要用无数的谎来圆」如此麻烦，那撒谎的动机是什么？从心理学角度看有「善意的谎言」一说吗？](https://www.zhihu.com/question/4119631742)
 1. [新西兰议会表决争议性法案，多名毛利议员现场跳起战舞以示强烈抗议，事件后续可能会如何处理？](https://www.zhihu.com/question/4241140022)
 1. [172 的河村勇辉比 191 的郭艾伦强在哪里？](https://www.zhihu.com/question/4227314147)
-1. [迈巴赫漏水解决方案公布，赠送车主 3 年整车延保及保养套餐，为啥不能换新车？品牌口碑会因此挽回吗？](https://www.zhihu.com/question/4222111628)
-1. [《魔兽世界》中，最让你感动的一个任务是什么？](https://www.zhihu.com/question/356009525)
-1. [假如现代非洲的版图是这样，能发展得比现在好吗？](https://www.zhihu.com/question/2568854986)
-1. [国足 1:0 绝杀巴林后两连胜了，应该怎么夸他们？](https://www.zhihu.com/question/4192358887)
 
 ## 热门视频
 
 1. [学生上台指责学校「有钱建草堂没钱修宿舍」，官方回应已成立调查组，如何看待此事？](https://www.zhihu.com/question/4300883306)
 1. [中铁七局再发声明对记者致歉，项目分部经理等 5 人就地免职，事件暴露出哪些问题？](https://www.zhihu.com/question/4294984654)
 1. [如何看待横店群演时薪由 15 元降到 13.5 元？这个收入属于什么水平？](https://www.zhihu.com/question/4238081281)
-1. [如何看待李庚希凭借《我们一起摇太阳》获得第 37 届金鸡奖最佳女主角，成为首位 00 后金鸡影后？](https://www.zhihu.com/question/4347033071)
 1. [常州规定献血 100 次可免费吃自助，血站称有 80 多人符合条件，这个献血频率会影响健康吗？](https://www.zhihu.com/question/4318705057)
-1. [怎样看王皓回应马龙樊振东退出 wtt 总决赛？](https://www.zhihu.com/question/4347841165)
+1. [印尼为何让东帝汶独立了？](https://www.zhihu.com/question/748713113)
 1. [Faker 五冠王意味着什么?](https://www.zhihu.com/question/3146336205)
-1. [乒乓球商业赛事的含金量和三大赛的含金量一样吗？](https://www.zhihu.com/question/664776716)
+1. [复旦版《2023 年度中国医院排行榜》发布，首次采取分级制，哪些信息值得关注？](https://www.zhihu.com/question/4320637431)
+1. [《再见爱人 4》中为什么麦琳的风评会由好转差呢？](https://www.zhihu.com/question/2221253556)
 1. [如何评价综艺《花儿与少年》第六季？](https://www.zhihu.com/question/665511632)
 1. [没有冰箱的时候，居住在热带的人是不是从来没见过冰？](https://www.zhihu.com/question/39562985)
 1. [成龙呼吁大家到电影院看电影，认为在家会降低观影质量，你认同他的观点吗？为什么？](https://www.zhihu.com/question/4297655841)
 1. [如果高考把物理升格为主科，英语降成副科，是否更有利于选拔人才？](https://www.zhihu.com/question/4125737892)
-1. [你知道哪些很有意思的历史冷知识？](https://www.zhihu.com/question/636695546)
+1. [乒乓球商业赛事的含金量和三大赛的含金量一样吗？](https://www.zhihu.com/question/664776716)
+1. [如何看待李庚希凭借《我们一起摇太阳》获得第 37 届金鸡奖最佳女主角，成为首位 00 后金鸡影后？](https://www.zhihu.com/question/4347033071)
 1. [外卖员建议不要点黄焖鸡，个别商家用冷冻肉和僵尸肉配菜不洗，什么是僵尸肉？对健康危害有多多大？](https://www.zhihu.com/question/4259949210)
+1. [为什么没有公司去做 3A 级别的二次元单机大作？](https://www.zhihu.com/question/654684675)
+1. [怎样看王皓回应马龙樊振东退出 wtt 总决赛？](https://www.zhihu.com/question/4347841165)
+1. [你知道哪些很有意思的历史冷知识？](https://www.zhihu.com/question/636695546)
 1. [58 岁泰森复出败给 27 岁「网红拳手」杰克保罗，如何评价他的表现？](https://www.zhihu.com/question/4215866683)
 1. [反诈老陈说当年辞职皆因「冲动没看透自己」，最看不起现在的自己，怎么看待他的「看透」和「看不起」？](https://www.zhihu.com/question/4233800446)
 1. [国足 1：0 巴林后，是不是有望冲击世界杯？](https://www.zhihu.com/question/4205894053)
@@ -99,10 +103,6 @@
 1. [「撒一个谎要用无数的谎来圆」如此麻烦，那撒谎的动机是什么？从心理学角度看有「善意的谎言」一说吗？](https://www.zhihu.com/question/4119631742)
 1. [新西兰议会表决争议性法案，多名毛利议员现场跳起战舞以示强烈抗议，事件后续可能会如何处理？](https://www.zhihu.com/question/4241140022)
 1. [172 的河村勇辉比 191 的郭艾伦强在哪里？](https://www.zhihu.com/question/4227314147)
-1. [迈巴赫漏水解决方案公布，赠送车主 3 年整车延保及保养套餐，为啥不能换新车？品牌口碑会因此挽回吗？](https://www.zhihu.com/question/4222111628)
-1. [《魔兽世界》中，最让你感动的一个任务是什么？](https://www.zhihu.com/question/356009525)
-1. [假如现代非洲的版图是这样，能发展得比现在好吗？](https://www.zhihu.com/question/2568854986)
-1. [国足 1:0 绝杀巴林后两连胜了，应该怎么夸他们？](https://www.zhihu.com/question/4192358887)
 
 ## 历史归档
 
