@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2024-11-19 03:18:11 +0800`
+`更新时间：2024-11-19 04:23:46 +0800`
 
 ## 热门搜索
 
@@ -40,17 +40,19 @@
 
 1. [网传「挖呀挖」女幼师走红后抑郁，出现自残倾向，普通人面对这种爆发的流量以及爆发后的落差应该怎么应对？](https://www.zhihu.com/question/4371925646)
 1. [珠海航展 2 万 1 套的半真枪被抢光，什么是半真枪？这款枪有哪些吸引人的地方？](https://www.zhihu.com/question/4455716431)
-1. [为什么作者孙武没什么经典的战绩，大家却认为《孙子兵法》是第一兵书呢?](https://www.zhihu.com/question/466818904)
-1. [太平天国的人结局怎样？](https://www.zhihu.com/question/23569080)
 1. [如何看待《绝区零》提名 TGA 年度最佳移动游戏？](https://www.zhihu.com/question/4527098647)
+1. [NASA 报告称国际空间站因老化问题陷严重危机，正准备紧急撤离，国际空间站怎么了？它能「安全退役」吗？](https://www.zhihu.com/question/4472012058)
+1. [太平天国的人结局怎样？](https://www.zhihu.com/question/23569080)
 1. [马斯克为什么不救回滞留太空站的两位宇航员呢？](https://www.zhihu.com/question/4281302757)
 1. [如何看待《黑神话：悟空》提名 tga 年度最佳游戏？](https://www.zhihu.com/question/4526873973)
 1. [如何评价综艺《心动的信号》第七季？](https://www.zhihu.com/question/665591245)
+1. [如何看待《黑神话：悟空》获得 2024TGA 四项提名？](https://www.zhihu.com/question/4527126077)
 1. [《英雄联盟》S14 决赛第四把的塞拉斯开团和 S13 的沙皇神之一推，哪个更具有挑战性？](https://www.zhihu.com/question/2946641462)
-1. [政治学家福山致信马斯克「管理政府不是经营公司，裁员废部并非总是有效」，如何看待这一观点？](https://www.zhihu.com/question/4210967154)
 1. [黑龙江勃利县有老虎咬伤村民，警方正在村内搜捕，伤者家属称有两只老虎，老虎从哪来？老虎伤人会怎么处理？](https://www.zhihu.com/question/4469635212)
 1. [如何评价李行亮在《再见爱人 4》把葛夕叫出去单聊的事情？](https://www.zhihu.com/question/4409413501)
 1. [如何看待中南大学、湖南大学、湖南师范大学三所高校学分互认？有何影响？](https://www.zhihu.com/question/4182189776)
+1. [政治学家福山致信马斯克「管理政府不是经营公司，裁员废部并非总是有效」，如何看待这一观点？](https://www.zhihu.com/question/4210967154)
+1. [为什么作者孙武没什么经典的战绩，大家却认为《孙子兵法》是第一兵书呢?](https://www.zhihu.com/question/466818904)
 1. [如何看待林丹将于 11 月 29 日召开发布会发起天王杯国际羽毛球公开赛，邀请世界前二十男单球员参赛?](https://www.zhihu.com/question/4382124340)
 1. [为什么游戏厂商不做个玩家反馈问题排行榜，根据榜单来解决游戏内的问题呢？](https://www.zhihu.com/question/4208221087)
 1. [为啥四川的饮食习惯这么重油重辣？](https://www.zhihu.com/question/627415943)
@@ -66,24 +68,24 @@
 1. [陪伴你最久的事物是什么？](https://www.zhihu.com/question/4431424111)
 1. [你对 2024 WTT 福冈年终总决赛有哪些期待？](https://www.zhihu.com/question/666084457)
 1. [LoL 官推宣布「取消 LPL 官方英文流直播，只保留纯净流和二路」，观众对此有何反应？](https://www.zhihu.com/question/4314602639)
-1. [兔为什么有两个子宫 ？](https://www.zhihu.com/question/828371231)
-1. [看完《观鹤笔记》你有什么感受？](https://www.zhihu.com/question/541218483)
 
 ## 热门视频
 
 1. [网传「挖呀挖」女幼师走红后抑郁，出现自残倾向，普通人面对这种爆发的流量以及爆发后的落差应该怎么应对？](https://www.zhihu.com/question/4371925646)
 1. [珠海航展 2 万 1 套的半真枪被抢光，什么是半真枪？这款枪有哪些吸引人的地方？](https://www.zhihu.com/question/4455716431)
-1. [为什么作者孙武没什么经典的战绩，大家却认为《孙子兵法》是第一兵书呢?](https://www.zhihu.com/question/466818904)
-1. [太平天国的人结局怎样？](https://www.zhihu.com/question/23569080)
 1. [如何看待《绝区零》提名 TGA 年度最佳移动游戏？](https://www.zhihu.com/question/4527098647)
+1. [NASA 报告称国际空间站因老化问题陷严重危机，正准备紧急撤离，国际空间站怎么了？它能「安全退役」吗？](https://www.zhihu.com/question/4472012058)
+1. [太平天国的人结局怎样？](https://www.zhihu.com/question/23569080)
 1. [马斯克为什么不救回滞留太空站的两位宇航员呢？](https://www.zhihu.com/question/4281302757)
 1. [如何看待《黑神话：悟空》提名 tga 年度最佳游戏？](https://www.zhihu.com/question/4526873973)
 1. [如何评价综艺《心动的信号》第七季？](https://www.zhihu.com/question/665591245)
+1. [如何看待《黑神话：悟空》获得 2024TGA 四项提名？](https://www.zhihu.com/question/4527126077)
 1. [《英雄联盟》S14 决赛第四把的塞拉斯开团和 S13 的沙皇神之一推，哪个更具有挑战性？](https://www.zhihu.com/question/2946641462)
-1. [政治学家福山致信马斯克「管理政府不是经营公司，裁员废部并非总是有效」，如何看待这一观点？](https://www.zhihu.com/question/4210967154)
 1. [黑龙江勃利县有老虎咬伤村民，警方正在村内搜捕，伤者家属称有两只老虎，老虎从哪来？老虎伤人会怎么处理？](https://www.zhihu.com/question/4469635212)
 1. [如何评价李行亮在《再见爱人 4》把葛夕叫出去单聊的事情？](https://www.zhihu.com/question/4409413501)
 1. [如何看待中南大学、湖南大学、湖南师范大学三所高校学分互认？有何影响？](https://www.zhihu.com/question/4182189776)
+1. [政治学家福山致信马斯克「管理政府不是经营公司，裁员废部并非总是有效」，如何看待这一观点？](https://www.zhihu.com/question/4210967154)
+1. [为什么作者孙武没什么经典的战绩，大家却认为《孙子兵法》是第一兵书呢?](https://www.zhihu.com/question/466818904)
 1. [如何看待林丹将于 11 月 29 日召开发布会发起天王杯国际羽毛球公开赛，邀请世界前二十男单球员参赛?](https://www.zhihu.com/question/4382124340)
 1. [为什么游戏厂商不做个玩家反馈问题排行榜，根据榜单来解决游戏内的问题呢？](https://www.zhihu.com/question/4208221087)
 1. [为啥四川的饮食习惯这么重油重辣？](https://www.zhihu.com/question/627415943)
@@ -99,8 +101,6 @@
 1. [陪伴你最久的事物是什么？](https://www.zhihu.com/question/4431424111)
 1. [你对 2024 WTT 福冈年终总决赛有哪些期待？](https://www.zhihu.com/question/666084457)
 1. [LoL 官推宣布「取消 LPL 官方英文流直播，只保留纯净流和二路」，观众对此有何反应？](https://www.zhihu.com/question/4314602639)
-1. [兔为什么有两个子宫 ？](https://www.zhihu.com/question/828371231)
-1. [看完《观鹤笔记》你有什么感受？](https://www.zhihu.com/question/541218483)
 
 ## 历史归档
 
