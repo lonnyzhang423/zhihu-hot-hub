@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2024-11-23 02:32:03 +0800`
+`更新时间：2024-11-23 03:18:17 +0800`
 
 ## 热门搜索
 
@@ -21,6 +21,7 @@
 1. [早期的的网红后来怎么样了](https://www.zhihu.com/search?q=%E6%97%A9%E6%9C%9F%E7%9A%84%E7%9A%84%E7%BD%91%E7%BA%A2%E5%90%8E%E6%9D%A5%E6%80%8E%E4%B9%88%E6%A0%B7%E4%BA%86)
 1. [乌克兰多地遭导弹袭击](https://www.zhihu.com/search?q=%E4%B9%8C%E5%85%8B%E5%85%B0%E5%A4%9A%E5%9C%B0%E9%81%AD%E5%AF%BC%E5%BC%B9%E8%A2%AD%E5%87%BB)
 1. [为什么只有中国饮食没有被西化](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%AA%E6%9C%89%E4%B8%AD%E5%9B%BD%E9%A5%AE%E9%A3%9F%E6%B2%A1%E6%9C%89%E8%A2%AB%E8%A5%BF%E5%8C%96)
+1. [国足进球了](https://www.zhihu.com/search?q=%E5%9B%BD%E8%B6%B3%E8%BF%9B%E7%90%83%E4%BA%86)
 1. [如何看待国企的末尾淘汰制度](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%9B%BD%E4%BC%81%E7%9A%84%E6%9C%AB%E5%B0%BE%E6%B7%98%E6%B1%B0%E5%88%B6%E5%BA%A6)
 1. [CPU 温度是越低越好吗](https://www.zhihu.com/search?q=CPU%20%E6%B8%A9%E5%BA%A6%E6%98%AF%E8%B6%8A%E4%BD%8E%E8%B6%8A%E5%A5%BD%E5%90%97)
 1. [阿根廷 10 月单月通胀率 2.7%](https://www.zhihu.com/search?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%2010%20%E6%9C%88%E5%8D%95%E6%9C%88%E9%80%9A%E8%83%80%E7%8E%87%202.7%25)
@@ -39,7 +40,7 @@
 1. [官方通报良品铺子被举报事件不成立](https://www.zhihu.com/search?q=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E8%89%AF%E5%93%81%E9%93%BA%E5%AD%90%E8%A2%AB%E4%B8%BE%E6%8A%A5%E4%BA%8B%E4%BB%B6%E4%B8%8D%E6%88%90%E7%AB%8B)
 1. [国际空间站漏气日益严峻](https://www.zhihu.com/search?q=%E5%9B%BD%E9%99%85%E7%A9%BA%E9%97%B4%E7%AB%99%E6%BC%8F%E6%B0%94%E6%97%A5%E7%9B%8A%E4%B8%A5%E5%B3%BB)
 1. [怎么评价今年国足表现](https://www.zhihu.com/search?q=%E6%80%8E%E4%B9%88%E8%AF%84%E4%BB%B7%E4%BB%8A%E5%B9%B4%E5%9B%BD%E8%B6%B3%E8%A1%A8%E7%8E%B0)
-1. [何同学回应盗用开源项目争议](https://www.zhihu.com/search?q=%E4%BD%95%E5%90%8C%E5%AD%A6%E5%9B%9E%E5%BA%94%E7%9B%97%E7%94%A8%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%E4%BA%89%E8%AE%AE)
+1. [国足 1-3 不敌日本男足](https://www.zhihu.com/search?q=%E5%9B%BD%E8%B6%B3%201-3%20%E4%B8%8D%E6%95%8C%E6%97%A5%E6%9C%AC%E7%94%B7%E8%B6%B3)
 
 ## 热门话题
 
@@ -47,20 +48,22 @@
 1. [11 月 22 日沪指失守 3300 点，超 4900 股下跌，股市大跌原因有哪些？如何看待今日行情？](https://www.zhihu.com/question/4801165541)
 1. [中方决定扩大免签国家范围，对日本等多国持普通护照人员试行免签政策，如何看待这一调整？有何影响？](https://www.zhihu.com/question/4835230298)
 1. [湖南发现超 40 条金矿脉，储量超 1000 吨，价值达 6000 亿元，意味着什么？对经济有何影响？](https://www.zhihu.com/question/4762172524)
-1. [为什么外企愿意向中国转让高铁技术？](https://www.zhihu.com/question/28540125)
 1. [如何看待《再见爱人 4》第 7 期抢鲜版葛夕好友吐槽留几手？](https://www.zhihu.com/question/4822821829)
-1. [ABC 创始人鞠躬致歉，回应卫生巾争议「产品将实现国标零负差」，怎样看待这一表态？对行业有哪些影响？](https://www.zhihu.com/question/4828690531)
 1. [如何看待拳头官宣 S14 总决赛全球「观众峰值达到 5000 万」，除中国大陆地区外「观众峰值仅为 670 万」？](https://www.zhihu.com/question/4712311257)
-1. [突然感觉修真小说三观不正了，为什么？](https://www.zhihu.com/question/650785249)
+1. [如何评价《原神》5.2 版本恰斯卡部落纪闻「花之归尘，羽之将坠」？](https://www.zhihu.com/question/4803598595)
+1. [感觉自己明明阅读量在增加，表达能力反而愈来愈差了，这是为什么？](https://www.zhihu.com/question/4763478149)
 1. [11 月 21 日，中国男篮亚预赛 101-53 轻取关岛男篮，如何看待这场比赛？](https://www.zhihu.com/question/4752337399)
 1. [为什么公文要用「仿宋 _GB2312」字体？](https://www.zhihu.com/question/25563003)
-1. [波场创始人孙宇晨花 624 万美元拍下一根香蕉，这根香蕉有何艺术价值？](https://www.zhihu.com/question/4748697710)
 1. [国足两位门将王大雷和颜骏凌各有哪些优势，为什么今年世预赛用王大雷担任首发效果更好？](https://www.zhihu.com/question/664602860)
+1. [波场创始人孙宇晨花 624 万美元拍下一根香蕉，这根香蕉有何艺术价值？](https://www.zhihu.com/question/4748697710)
+1. [ABC 创始人鞠躬致歉，回应卫生巾争议「产品将实现国标零负差」，怎样看待这一表态？对行业有哪些影响？](https://www.zhihu.com/question/4828690531)
+1. [突然感觉修真小说三观不正了，为什么？](https://www.zhihu.com/question/650785249)
+1. [为什么外企愿意向中国转让高铁技术？](https://www.zhihu.com/question/28540125)
 1. [你认为谁是单届世界杯表现最好的球星？](https://www.zhihu.com/question/4715218054)
 1. [如何评价 2024 年 11 月米哈游《崩坏星穹铁道》2.7 前瞻直播《在第八日启程》？](https://www.zhihu.com/question/4856580504)
+1. [蒋凡此前精力集中在海外业务，他出任后电商事业群 CEO 之后，阿里会在跨境电商持续发力吗？](https://www.zhihu.com/question/4757153416)
 1. [普京称「俄军在对乌实战测试了新型中程高超音速导弹，无法被拦截」，该导弹威力如何？对俄乌局势有哪些影响？](https://www.zhihu.com/question/4797843395)
 1. [市民反映武汉地铁票价太贵，每月通勤费用超过 300 元，武汉地铁票价属于什么水平？你每月通勤花费多少？](https://www.zhihu.com/question/4813238830)
-1. [蒋凡此前精力集中在海外业务，他出任后电商事业群 CEO 之后，阿里会在跨境电商持续发力吗？](https://www.zhihu.com/question/4757153416)
 1. [如何看待网传 JieJie，GALA 将加盟 IG 和 The shy，Rookie 组建「全神班」？](https://www.zhihu.com/question/4813938782)
 1. [国产影视剧里有哪些演员表演用力过猛的例子？](https://www.zhihu.com/question/572029909)
 1. [如何在平静的生活里找到意义并接受自己的平庸？](https://www.zhihu.com/question/954333034)
@@ -70,8 +73,6 @@
 1. [当你看见有怀孕女士一个人单独出门的时候是什么感觉？](https://www.zhihu.com/question/351175902)
 1. [工科生和理科生有什么区别？](https://www.zhihu.com/question/295693331)
 1. [为什诸葛亮以一州之力屡次北伐拥有九州的曹魏，明知不可为而为之？](https://www.zhihu.com/question/620809787)
-1. [如何评价《崩坏：星穹铁道》黄金史实 pv：「翁法罗斯英雄纪」和「黄金裔」之谕？](https://www.zhihu.com/question/4857971726)
-1. [如何评价《再见爱人 4》第六期（下）？](https://www.zhihu.com/question/4815029773)
 1. [国内有什么独具特色, 有意思的 City walk 路线？](https://www.zhihu.com/question/54655566)
 
 ## 热门视频
@@ -80,20 +81,22 @@
 1. [11 月 22 日沪指失守 3300 点，超 4900 股下跌，股市大跌原因有哪些？如何看待今日行情？](https://www.zhihu.com/question/4801165541)
 1. [中方决定扩大免签国家范围，对日本等多国持普通护照人员试行免签政策，如何看待这一调整？有何影响？](https://www.zhihu.com/question/4835230298)
 1. [湖南发现超 40 条金矿脉，储量超 1000 吨，价值达 6000 亿元，意味着什么？对经济有何影响？](https://www.zhihu.com/question/4762172524)
-1. [为什么外企愿意向中国转让高铁技术？](https://www.zhihu.com/question/28540125)
 1. [如何看待《再见爱人 4》第 7 期抢鲜版葛夕好友吐槽留几手？](https://www.zhihu.com/question/4822821829)
-1. [ABC 创始人鞠躬致歉，回应卫生巾争议「产品将实现国标零负差」，怎样看待这一表态？对行业有哪些影响？](https://www.zhihu.com/question/4828690531)
 1. [如何看待拳头官宣 S14 总决赛全球「观众峰值达到 5000 万」，除中国大陆地区外「观众峰值仅为 670 万」？](https://www.zhihu.com/question/4712311257)
-1. [突然感觉修真小说三观不正了，为什么？](https://www.zhihu.com/question/650785249)
+1. [如何评价《原神》5.2 版本恰斯卡部落纪闻「花之归尘，羽之将坠」？](https://www.zhihu.com/question/4803598595)
+1. [感觉自己明明阅读量在增加，表达能力反而愈来愈差了，这是为什么？](https://www.zhihu.com/question/4763478149)
 1. [11 月 21 日，中国男篮亚预赛 101-53 轻取关岛男篮，如何看待这场比赛？](https://www.zhihu.com/question/4752337399)
 1. [为什么公文要用「仿宋 _GB2312」字体？](https://www.zhihu.com/question/25563003)
-1. [波场创始人孙宇晨花 624 万美元拍下一根香蕉，这根香蕉有何艺术价值？](https://www.zhihu.com/question/4748697710)
 1. [国足两位门将王大雷和颜骏凌各有哪些优势，为什么今年世预赛用王大雷担任首发效果更好？](https://www.zhihu.com/question/664602860)
+1. [波场创始人孙宇晨花 624 万美元拍下一根香蕉，这根香蕉有何艺术价值？](https://www.zhihu.com/question/4748697710)
+1. [ABC 创始人鞠躬致歉，回应卫生巾争议「产品将实现国标零负差」，怎样看待这一表态？对行业有哪些影响？](https://www.zhihu.com/question/4828690531)
+1. [突然感觉修真小说三观不正了，为什么？](https://www.zhihu.com/question/650785249)
+1. [为什么外企愿意向中国转让高铁技术？](https://www.zhihu.com/question/28540125)
 1. [你认为谁是单届世界杯表现最好的球星？](https://www.zhihu.com/question/4715218054)
 1. [如何评价 2024 年 11 月米哈游《崩坏星穹铁道》2.7 前瞻直播《在第八日启程》？](https://www.zhihu.com/question/4856580504)
+1. [蒋凡此前精力集中在海外业务，他出任后电商事业群 CEO 之后，阿里会在跨境电商持续发力吗？](https://www.zhihu.com/question/4757153416)
 1. [普京称「俄军在对乌实战测试了新型中程高超音速导弹，无法被拦截」，该导弹威力如何？对俄乌局势有哪些影响？](https://www.zhihu.com/question/4797843395)
 1. [市民反映武汉地铁票价太贵，每月通勤费用超过 300 元，武汉地铁票价属于什么水平？你每月通勤花费多少？](https://www.zhihu.com/question/4813238830)
-1. [蒋凡此前精力集中在海外业务，他出任后电商事业群 CEO 之后，阿里会在跨境电商持续发力吗？](https://www.zhihu.com/question/4757153416)
 1. [如何看待网传 JieJie，GALA 将加盟 IG 和 The shy，Rookie 组建「全神班」？](https://www.zhihu.com/question/4813938782)
 1. [国产影视剧里有哪些演员表演用力过猛的例子？](https://www.zhihu.com/question/572029909)
 1. [如何在平静的生活里找到意义并接受自己的平庸？](https://www.zhihu.com/question/954333034)
@@ -103,8 +106,6 @@
 1. [当你看见有怀孕女士一个人单独出门的时候是什么感觉？](https://www.zhihu.com/question/351175902)
 1. [工科生和理科生有什么区别？](https://www.zhihu.com/question/295693331)
 1. [为什诸葛亮以一州之力屡次北伐拥有九州的曹魏，明知不可为而为之？](https://www.zhihu.com/question/620809787)
-1. [如何评价《崩坏：星穹铁道》黄金史实 pv：「翁法罗斯英雄纪」和「黄金裔」之谕？](https://www.zhihu.com/question/4857971726)
-1. [如何评价《再见爱人 4》第六期（下）？](https://www.zhihu.com/question/4815029773)
 1. [国内有什么独具特色, 有意思的 City walk 路线？](https://www.zhihu.com/question/54655566)
 
 ## 历史归档
