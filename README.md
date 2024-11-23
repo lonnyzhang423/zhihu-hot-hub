@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2024-11-23 21:26:44 +0800`
+`更新时间：2024-11-23 22:20:42 +0800`
 
 ## 热门搜索
 
@@ -24,7 +24,6 @@
 1. [如何看待国企的末尾淘汰制度](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%9B%BD%E4%BC%81%E7%9A%84%E6%9C%AB%E5%B0%BE%E6%B7%98%E6%B1%B0%E5%88%B6%E5%BA%A6)
 1. [CPU 温度是越低越好吗](https://www.zhihu.com/search?q=CPU%20%E6%B8%A9%E5%BA%A6%E6%98%AF%E8%B6%8A%E4%BD%8E%E8%B6%8A%E5%A5%BD%E5%90%97)
 1. [甄嬛传播出13周年](https://www.zhihu.com/search?q=%E7%94%84%E5%AC%9B%E4%BC%A0%E6%92%AD%E5%87%BA13%E5%91%A8%E5%B9%B4)
-1. [NASA 准备紧急撤离国际空间站](https://www.zhihu.com/search?q=NASA%20%E5%87%86%E5%A4%87%E7%B4%A7%E6%80%A5%E6%92%A4%E7%A6%BB%E5%9B%BD%E9%99%85%E7%A9%BA%E9%97%B4%E7%AB%99)
 1. [小蜜蜂事件被质疑是剧本](https://www.zhihu.com/search?q=%E5%B0%8F%E8%9C%9C%E8%9C%82%E4%BA%8B%E4%BB%B6%E8%A2%AB%E8%B4%A8%E7%96%91%E6%98%AF%E5%89%A7%E6%9C%AC)
 1. [强生中国被曝裁员 20%](https://www.zhihu.com/search?q=%E5%BC%BA%E7%94%9F%E4%B8%AD%E5%9B%BD%E8%A2%AB%E6%9B%9D%E8%A3%81%E5%91%98%2020%25)
 1. [比亚迪第1000万辆新能源汽车下线](https://www.zhihu.com/search?q=%E6%AF%94%E4%BA%9A%E8%BF%AA%E7%AC%AC1000%E4%B8%87%E8%BE%86%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E4%B8%8B%E7%BA%BF)
@@ -37,6 +36,7 @@
 1. [百雀羚禁用原料是什么](https://www.zhihu.com/search?q=%E7%99%BE%E9%9B%80%E7%BE%9A%E7%A6%81%E7%94%A8%E5%8E%9F%E6%96%99%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [广州将在全市收购90平以下存量房](https://www.zhihu.com/search?q=%E5%B9%BF%E5%B7%9E%E5%B0%86%E5%9C%A8%E5%85%A8%E5%B8%82%E6%94%B6%E8%B4%AD90%E5%B9%B3%E4%BB%A5%E4%B8%8B%E5%AD%98%E9%87%8F%E6%88%BF)
 1. [深圳取消普通住房和非普通住房标准](https://www.zhihu.com/search?q=%E6%B7%B1%E5%9C%B3%E5%8F%96%E6%B6%88%E6%99%AE%E9%80%9A%E4%BD%8F%E6%88%BF%E5%92%8C%E9%9D%9E%E6%99%AE%E9%80%9A%E4%BD%8F%E6%88%BF%E6%A0%87%E5%87%86)
+1. [打假博主称将再送检良品铺子](https://www.zhihu.com/search?q=%E6%89%93%E5%81%87%E5%8D%9A%E4%B8%BB%E7%A7%B0%E5%B0%86%E5%86%8D%E9%80%81%E6%A3%80%E8%89%AF%E5%93%81%E9%93%BA%E5%AD%90)
 
 ## 热门话题
 
@@ -44,20 +44,24 @@
 1. [浙大回应「受资助学生晒国内外旅游照」，取消其受资助资格，如何看待此事？](https://www.zhihu.com/question/4918993474)
 1. [《八角笼中》制片人晒王宝强转账记录，指责俱乐部贪得无厌，这中间有何漏洞？孰是孰非？](https://www.zhihu.com/question/4809632412)
 1. [不搞关系，不跟领导来往，不讨好同事，但工作能力强，能提拔重用吗？](https://www.zhihu.com/question/4444625609)
-1. [美元指数一度升破 108，创两年来新高，哪些因素在背后推动？如何影响全球市场？](https://www.zhihu.com/question/4845210462)
-1. [马斯克这么有钱，为什么要趟美国大选这个浑水？对他有哪些好处？](https://www.zhihu.com/question/1673091215)
-1. [WTT 福冈总决赛男单半决赛，王楚钦 4-1 击败达科，将与张本智和争冠，如何评价这场比赛？](https://www.zhihu.com/question/4932609847)
-1. [如何评价刺客伍六七第五季第十集大结局？](https://www.zhihu.com/question/4652908783)
-1. [谷歌聊天机器人让人类去死， 是技术缺陷还是算法设计？AI「失控」是因为产生自主意识了吗？](https://www.zhihu.com/question/4573321746)
+1. [如何评价米哈游《原神》5.2 新地图奥奇卡纳塔？](https://www.zhihu.com/question/4649092001)
+1. [11 月 23 日中国足协杯决赛，上海海港 3-1 击败山东泰山，如何看待这场比赛？](https://www.zhihu.com/question/4912140608)
 1. [如何评价《原神》5.2 版本魔神任务幕间「万火归一」？](https://www.zhihu.com/question/4651761264)
+1. [请问十年之内河南有可能会变成亚热带气候吗？](https://www.zhihu.com/question/664683973)
+1. [如何评价《原神》恰斯卡流水成绩？](https://www.zhihu.com/question/4667049292)
 1. [胖东来创始人谈电商和车企企业家，称其「都像奴隶一样，整天就比卖了多少」，如何从商业角度解读？](https://www.zhihu.com/question/4856892873)
-1. [如何评价动画《英雄联盟: 双城之战》第二季 7 - 9 集大结局？](https://www.zhihu.com/question/4916680987)
+1. [谷歌聊天机器人让人类去死， 是技术缺陷还是算法设计？AI「失控」是因为产生自主意识了吗？](https://www.zhihu.com/question/4573321746)
+1. [WTT 福冈总决赛男单半决赛，王楚钦 4-1 击败达科，将与张本智和争冠，如何评价这场比赛？](https://www.zhihu.com/question/4932609847)
 1. [特朗普提名亿万富翁斯科特·贝森特担任财政部长，如何看待其背后的考量？斯科特将如何影响美国财政政策走向？](https://www.zhihu.com/question/4900324175)
+1. [如何评价刺客伍六七第五季第十集大结局？](https://www.zhihu.com/question/4652908783)
+1. [美元指数一度升破 108，创两年来新高，哪些因素在背后推动？如何影响全球市场？](https://www.zhihu.com/question/4845210462)
+1. [《地下交通站》里的人为啥都说现大洋，而不是直接说大洋？](https://www.zhihu.com/question/404023940)
+1. [如何评价动画《英雄联盟: 双城之战》第二季 7 - 9 集大结局？](https://www.zhihu.com/question/4916680987)
 1. [如何评价 deepseek 预发布的 deepseek-R1？](https://www.zhihu.com/question/4689435060)
-1. [WTT 福冈总决赛男单半决赛，林诗栋 3-4 负张本智和，如何评价这场比赛？](https://www.zhihu.com/question/4911139457)
-1. [WTT 年终总决赛女单半决赛王曼昱 4-3 斯佐科斯，晋级决赛，中国队锁定冠亚军，如何评价本场比赛？](https://www.zhihu.com/question/4921641358)
 1. [美检察官拒绝特朗普撤销其「封口费」案刑事定罪的请求，意味着什么？对特朗普会有什么影响？](https://www.zhihu.com/question/4628774027)
 1. [《千与千寻》里有哪些细思极恐的情节？](https://www.zhihu.com/question/48548372)
+1. [WTT 福冈总决赛男单半决赛，林诗栋 3-4 负张本智和，如何评价这场比赛？](https://www.zhihu.com/question/4911139457)
+1. [WTT 年终总决赛女单半决赛王曼昱 4-3 斯佐科斯，晋级决赛，中国队锁定冠亚军，如何评价本场比赛？](https://www.zhihu.com/question/4921641358)
 1. [《三国演义》里吕布怎么说可以防止被曹操杀死?](https://www.zhihu.com/question/3827905562)
 1. [如何看待现在大学生的无纸化学习?](https://www.zhihu.com/question/426777523)
 1. [WTT 福冈年终总决赛，钱天一 / 陈幸同 0-3 不敌桥本帆乃 / 香佐藤瞳，无缘女双冠军，如何评价这场比赛？](https://www.zhihu.com/question/4854294176)
@@ -66,10 +70,6 @@
 1. [如何评价浙江大学传媒与国际文化学院、控制学院、医学院等多个学院接连有学生申请助学金后高消费被曝光？](https://www.zhihu.com/question/4609244322)
 1. [如何评价《鸣潮》【黎那汐塔】版本多个新卫星角色立绘？](https://www.zhihu.com/question/4829248467)
 1. [双十一女装退货率创新高，卖 2000 单退 1500 单，到底是产品问题还是消费者太挑剔？有何解法？](https://www.zhihu.com/question/4852076018)
-1. [为什么很多英语教学者都坚持「不要试图理解每一个单词，遇到生词跳过去」这种英语教学指导思想？](https://www.zhihu.com/question/3586322749)
-1. [如何看待《再见爱人 4》第 7 期抢鲜版葛夕好友吐槽留几手？](https://www.zhihu.com/question/4822821829)
-1. [如果专门训练 AI 谈恋爱，AI 会变成恋爱高手吗？](https://www.zhihu.com/question/3582337109)
-1. [为什诸葛亮以一州之力屡次北伐拥有九州的曹魏，明知不可为而为之？](https://www.zhihu.com/question/620809787)
 
 ## 热门视频
 
@@ -77,20 +77,24 @@
 1. [浙大回应「受资助学生晒国内外旅游照」，取消其受资助资格，如何看待此事？](https://www.zhihu.com/question/4918993474)
 1. [《八角笼中》制片人晒王宝强转账记录，指责俱乐部贪得无厌，这中间有何漏洞？孰是孰非？](https://www.zhihu.com/question/4809632412)
 1. [不搞关系，不跟领导来往，不讨好同事，但工作能力强，能提拔重用吗？](https://www.zhihu.com/question/4444625609)
-1. [美元指数一度升破 108，创两年来新高，哪些因素在背后推动？如何影响全球市场？](https://www.zhihu.com/question/4845210462)
-1. [马斯克这么有钱，为什么要趟美国大选这个浑水？对他有哪些好处？](https://www.zhihu.com/question/1673091215)
-1. [WTT 福冈总决赛男单半决赛，王楚钦 4-1 击败达科，将与张本智和争冠，如何评价这场比赛？](https://www.zhihu.com/question/4932609847)
-1. [如何评价刺客伍六七第五季第十集大结局？](https://www.zhihu.com/question/4652908783)
-1. [谷歌聊天机器人让人类去死， 是技术缺陷还是算法设计？AI「失控」是因为产生自主意识了吗？](https://www.zhihu.com/question/4573321746)
+1. [如何评价米哈游《原神》5.2 新地图奥奇卡纳塔？](https://www.zhihu.com/question/4649092001)
+1. [11 月 23 日中国足协杯决赛，上海海港 3-1 击败山东泰山，如何看待这场比赛？](https://www.zhihu.com/question/4912140608)
 1. [如何评价《原神》5.2 版本魔神任务幕间「万火归一」？](https://www.zhihu.com/question/4651761264)
+1. [请问十年之内河南有可能会变成亚热带气候吗？](https://www.zhihu.com/question/664683973)
+1. [如何评价《原神》恰斯卡流水成绩？](https://www.zhihu.com/question/4667049292)
 1. [胖东来创始人谈电商和车企企业家，称其「都像奴隶一样，整天就比卖了多少」，如何从商业角度解读？](https://www.zhihu.com/question/4856892873)
-1. [如何评价动画《英雄联盟: 双城之战》第二季 7 - 9 集大结局？](https://www.zhihu.com/question/4916680987)
+1. [谷歌聊天机器人让人类去死， 是技术缺陷还是算法设计？AI「失控」是因为产生自主意识了吗？](https://www.zhihu.com/question/4573321746)
+1. [WTT 福冈总决赛男单半决赛，王楚钦 4-1 击败达科，将与张本智和争冠，如何评价这场比赛？](https://www.zhihu.com/question/4932609847)
 1. [特朗普提名亿万富翁斯科特·贝森特担任财政部长，如何看待其背后的考量？斯科特将如何影响美国财政政策走向？](https://www.zhihu.com/question/4900324175)
+1. [如何评价刺客伍六七第五季第十集大结局？](https://www.zhihu.com/question/4652908783)
+1. [美元指数一度升破 108，创两年来新高，哪些因素在背后推动？如何影响全球市场？](https://www.zhihu.com/question/4845210462)
+1. [《地下交通站》里的人为啥都说现大洋，而不是直接说大洋？](https://www.zhihu.com/question/404023940)
+1. [如何评价动画《英雄联盟: 双城之战》第二季 7 - 9 集大结局？](https://www.zhihu.com/question/4916680987)
 1. [如何评价 deepseek 预发布的 deepseek-R1？](https://www.zhihu.com/question/4689435060)
-1. [WTT 福冈总决赛男单半决赛，林诗栋 3-4 负张本智和，如何评价这场比赛？](https://www.zhihu.com/question/4911139457)
-1. [WTT 年终总决赛女单半决赛王曼昱 4-3 斯佐科斯，晋级决赛，中国队锁定冠亚军，如何评价本场比赛？](https://www.zhihu.com/question/4921641358)
 1. [美检察官拒绝特朗普撤销其「封口费」案刑事定罪的请求，意味着什么？对特朗普会有什么影响？](https://www.zhihu.com/question/4628774027)
 1. [《千与千寻》里有哪些细思极恐的情节？](https://www.zhihu.com/question/48548372)
+1. [WTT 福冈总决赛男单半决赛，林诗栋 3-4 负张本智和，如何评价这场比赛？](https://www.zhihu.com/question/4911139457)
+1. [WTT 年终总决赛女单半决赛王曼昱 4-3 斯佐科斯，晋级决赛，中国队锁定冠亚军，如何评价本场比赛？](https://www.zhihu.com/question/4921641358)
 1. [《三国演义》里吕布怎么说可以防止被曹操杀死?](https://www.zhihu.com/question/3827905562)
 1. [如何看待现在大学生的无纸化学习?](https://www.zhihu.com/question/426777523)
 1. [WTT 福冈年终总决赛，钱天一 / 陈幸同 0-3 不敌桥本帆乃 / 香佐藤瞳，无缘女双冠军，如何评价这场比赛？](https://www.zhihu.com/question/4854294176)
@@ -99,10 +103,6 @@
 1. [如何评价浙江大学传媒与国际文化学院、控制学院、医学院等多个学院接连有学生申请助学金后高消费被曝光？](https://www.zhihu.com/question/4609244322)
 1. [如何评价《鸣潮》【黎那汐塔】版本多个新卫星角色立绘？](https://www.zhihu.com/question/4829248467)
 1. [双十一女装退货率创新高，卖 2000 单退 1500 单，到底是产品问题还是消费者太挑剔？有何解法？](https://www.zhihu.com/question/4852076018)
-1. [为什么很多英语教学者都坚持「不要试图理解每一个单词，遇到生词跳过去」这种英语教学指导思想？](https://www.zhihu.com/question/3586322749)
-1. [如何看待《再见爱人 4》第 7 期抢鲜版葛夕好友吐槽留几手？](https://www.zhihu.com/question/4822821829)
-1. [如果专门训练 AI 谈恋爱，AI 会变成恋爱高手吗？](https://www.zhihu.com/question/3582337109)
-1. [为什诸葛亮以一州之力屡次北伐拥有九州的曹魏，明知不可为而为之？](https://www.zhihu.com/question/620809787)
 
 ## 历史归档
 
