@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2024-12-02 04:11:16 +0800`
+`更新时间：2024-12-02 05:09:20 +0800`
 
 ## 热门搜索
 
@@ -49,6 +49,7 @@
 1. [如何看待 17 岁中专生被六七家企业高薪疯抢，释放了什么信号？未来技能会比学历更抢手吗？](https://www.zhihu.com/question/5657827303)
 1. [一个月内两次上调，杭州首套房贷利率涨至 3.1%，全国多城房贷利率已上涨，反映了什么？](https://www.zhihu.com/question/5646321105)
 1. [如何看待周冠宇在 2024F1 卡塔尔大奖赛正赛获得第八和最佳车手?](https://www.zhihu.com/question/5681621523)
+1. [24-25 赛季英超英超第 13 轮利物浦 2:0 曼城，如何评价这场比赛？](https://www.zhihu.com/question/5679418018)
 1. [各类存款产品利率继续下行，「揽储利器」大额存单利率也进入 1 字头，未来走势如何？投资者该如何布局？](https://www.zhihu.com/question/5352741574)
 1. [詹姆斯季后赛 + 常规赛出场次数升至历史第一，有什么让你印象深刻的场面?](https://www.zhihu.com/question/5561493592)
 1. [自卑者，如何释怀?](https://www.zhihu.com/question/5465529936)
@@ -67,13 +68,12 @@
 1. [官方证实 OPPO 杭州全球总部停工，具体情况如何？停工原因是什么？](https://www.zhihu.com/question/5448234842)
 1. [如何看待广汽集团与华为签约打造全新高端智能汽车品牌，会是第五界吗？](https://www.zhihu.com/question/5577772271)
 1. [看完《再见爱人》第四季，李行亮应该怎么做才是最优解？](https://www.zhihu.com/question/4832159559)
-1. [为什么很多人在《三国杀》中选黄盖出场就把自己苦肉的剩一滴血？](https://www.zhihu.com/question/488604417)
 1. [日本首相石破茂在鸟取市遭遇轻微车祸，具体情况如何？国家首脑的车队通常有哪些安保措施？](https://www.zhihu.com/question/5627246419)
+1. [为什么很多人在《三国杀》中选黄盖出场就把自己苦肉的剩一滴血？](https://www.zhihu.com/question/488604417)
 1. [《魔兽争霸 3》的任意 3 个顶级英雄打的过 100 人口顶级兵吗？](https://www.zhihu.com/question/372732879)
 1. [如何评价 Jessie J , 她为何不能成为一线？](https://www.zhihu.com/question/285674330)
 1. [如何看待远坂凛与间桐樱的姐妹情谊？](https://www.zhihu.com/question/66823887)
 1. [孩子即将进入青春期，面对孩子对「权威」的反抗和挑战，应该怎么办？](https://www.zhihu.com/question/5298498052)
-1. [打工人看电视剧《不讨好的勇气》是种什么感受？](https://www.zhihu.com/question/5000093845)
 
 ## 热门视频
 
@@ -82,6 +82,7 @@
 1. [如何看待 17 岁中专生被六七家企业高薪疯抢，释放了什么信号？未来技能会比学历更抢手吗？](https://www.zhihu.com/question/5657827303)
 1. [一个月内两次上调，杭州首套房贷利率涨至 3.1%，全国多城房贷利率已上涨，反映了什么？](https://www.zhihu.com/question/5646321105)
 1. [如何看待周冠宇在 2024F1 卡塔尔大奖赛正赛获得第八和最佳车手?](https://www.zhihu.com/question/5681621523)
+1. [24-25 赛季英超英超第 13 轮利物浦 2:0 曼城，如何评价这场比赛？](https://www.zhihu.com/question/5679418018)
 1. [各类存款产品利率继续下行，「揽储利器」大额存单利率也进入 1 字头，未来走势如何？投资者该如何布局？](https://www.zhihu.com/question/5352741574)
 1. [詹姆斯季后赛 + 常规赛出场次数升至历史第一，有什么让你印象深刻的场面?](https://www.zhihu.com/question/5561493592)
 1. [自卑者，如何释怀?](https://www.zhihu.com/question/5465529936)
@@ -100,13 +101,12 @@
 1. [官方证实 OPPO 杭州全球总部停工，具体情况如何？停工原因是什么？](https://www.zhihu.com/question/5448234842)
 1. [如何看待广汽集团与华为签约打造全新高端智能汽车品牌，会是第五界吗？](https://www.zhihu.com/question/5577772271)
 1. [看完《再见爱人》第四季，李行亮应该怎么做才是最优解？](https://www.zhihu.com/question/4832159559)
-1. [为什么很多人在《三国杀》中选黄盖出场就把自己苦肉的剩一滴血？](https://www.zhihu.com/question/488604417)
 1. [日本首相石破茂在鸟取市遭遇轻微车祸，具体情况如何？国家首脑的车队通常有哪些安保措施？](https://www.zhihu.com/question/5627246419)
+1. [为什么很多人在《三国杀》中选黄盖出场就把自己苦肉的剩一滴血？](https://www.zhihu.com/question/488604417)
 1. [《魔兽争霸 3》的任意 3 个顶级英雄打的过 100 人口顶级兵吗？](https://www.zhihu.com/question/372732879)
 1. [如何评价 Jessie J , 她为何不能成为一线？](https://www.zhihu.com/question/285674330)
 1. [如何看待远坂凛与间桐樱的姐妹情谊？](https://www.zhihu.com/question/66823887)
 1. [孩子即将进入青春期，面对孩子对「权威」的反抗和挑战，应该怎么办？](https://www.zhihu.com/question/5298498052)
-1. [打工人看电视剧《不讨好的勇气》是种什么感受？](https://www.zhihu.com/question/5000093845)
 
 ## 历史归档
 
