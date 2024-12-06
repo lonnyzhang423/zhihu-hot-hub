@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2024-12-07 03:08:49 +0800`
+`更新时间：2024-12-07 04:12:36 +0800`
 
 ## 热门搜索
 
@@ -63,10 +63,10 @@
 1. [怎么看三代火影让猿飞一族从小卡拉米变成木叶第二豪族?](https://www.zhihu.com/question/1943345698)
 1. [你吃过什么小吃最难忘？](https://www.zhihu.com/question/5631179932)
 1. [小米 15 系列销量已达 130 万，这个数字在智能手机行业中处于什么水平？](https://www.zhihu.com/question/5913633568)
-1. [广州电动车上牌量近 560 万，将适时实行总量控制，可能会产生哪些影响？是否适合其他城市借鉴？](https://www.zhihu.com/question/6045519601)
 1. [健身的朋友们你们是怎么开始健身的第一步的？](https://www.zhihu.com/question/5553831694)
-1. [为什么感觉韩国每次都是空输部队?](https://www.zhihu.com/question/5902267133)
 1. [为什么最后高城原谅了成才？](https://www.zhihu.com/question/276826350)
+1. [为什么感觉韩国每次都是空输部队?](https://www.zhihu.com/question/5902267133)
+1. [如何看待《黑神话：悟空》《原神》《绝区零》《鸣潮》等国产游戏入选「TGA 玩家之声」次轮？](https://www.zhihu.com/question/6106731135)
 1. [华为的星闪技术可以完全替代蓝牙 Wifi 和 NFC 吗？](https://www.zhihu.com/question/521552602)
 
 ## 热门视频
@@ -96,10 +96,10 @@
 1. [怎么看三代火影让猿飞一族从小卡拉米变成木叶第二豪族?](https://www.zhihu.com/question/1943345698)
 1. [你吃过什么小吃最难忘？](https://www.zhihu.com/question/5631179932)
 1. [小米 15 系列销量已达 130 万，这个数字在智能手机行业中处于什么水平？](https://www.zhihu.com/question/5913633568)
-1. [广州电动车上牌量近 560 万，将适时实行总量控制，可能会产生哪些影响？是否适合其他城市借鉴？](https://www.zhihu.com/question/6045519601)
 1. [健身的朋友们你们是怎么开始健身的第一步的？](https://www.zhihu.com/question/5553831694)
-1. [为什么感觉韩国每次都是空输部队?](https://www.zhihu.com/question/5902267133)
 1. [为什么最后高城原谅了成才？](https://www.zhihu.com/question/276826350)
+1. [为什么感觉韩国每次都是空输部队?](https://www.zhihu.com/question/5902267133)
+1. [如何看待《黑神话：悟空》《原神》《绝区零》《鸣潮》等国产游戏入选「TGA 玩家之声」次轮？](https://www.zhihu.com/question/6106731135)
 1. [华为的星闪技术可以完全替代蓝牙 Wifi 和 NFC 吗？](https://www.zhihu.com/question/521552602)
 
 ## 历史归档
