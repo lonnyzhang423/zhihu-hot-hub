@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2024-12-07 03:19:03 +0800`
+`更新时间：2024-12-07 04:26:06 +0800`
 
 ## 热门搜索
 
@@ -44,10 +44,10 @@
 1. [哥伦比亚一机库被曝发现约 2 万具身份不明尸体，当地回应「没有发现尸体痕迹」，真实情况如何？](https://www.zhihu.com/question/6096751996)
 1. [当年苏联挖地球为什么挖到 12262 米就停止了？](https://www.zhihu.com/question/1583625596)
 1. [韩国国会被全面管制，国会议员一律禁止出入，这是什么情况？韩国总统弹劾案会被通过吗？](https://www.zhihu.com/question/6122724103)
-1. [如何看待《绝区零》1.4 登录即可领取新五星浅羽悠真?](https://www.zhihu.com/question/6149901740)
 1. [如何看待 2024 年 12 月 5 日《绝区零》流水再度飞榜？](https://www.zhihu.com/question/6133159182)
 1. [自己亲手引发运维事故是一种什么样的体验？](https://www.zhihu.com/question/43860483)
 1. [日本为什么没有采用中国的科举制度呢？](https://www.zhihu.com/question/6016296642)
+1. [如何看待《绝区零》1.4 登录即可领取新五星浅羽悠真?](https://www.zhihu.com/question/6149901740)
 1. [美国重返月球计划再度推迟，出现了哪些技术性问题？NASA 仍较劲「要比中国早一步登月」，能实现吗？](https://www.zhihu.com/question/6119786714)
 1. [特朗普提名戴维·珀杜为美国新任驻华大使，他有哪些背景？出任会有什么影响？](https://www.zhihu.com/question/6109583777)
 1. [你的孩子上次考试考了 17 分，这次考试考了 18 分，你会怎么办？](https://www.zhihu.com/question/657588079)
@@ -64,9 +64,9 @@
 1. [你吃过什么小吃最难忘？](https://www.zhihu.com/question/5631179932)
 1. [小米 15 系列销量已达 130 万，这个数字在智能手机行业中处于什么水平？](https://www.zhihu.com/question/5913633568)
 1. [健身的朋友们你们是怎么开始健身的第一步的？](https://www.zhihu.com/question/5553831694)
-1. [为什么感觉韩国每次都是空输部队?](https://www.zhihu.com/question/5902267133)
-1. [广州电动车上牌量近 560 万，将适时实行总量控制，可能会产生哪些影响？是否适合其他城市借鉴？](https://www.zhihu.com/question/6045519601)
 1. [为什么最后高城原谅了成才？](https://www.zhihu.com/question/276826350)
+1. [为什么感觉韩国每次都是空输部队?](https://www.zhihu.com/question/5902267133)
+1. [如何看待《黑神话：悟空》《原神》《绝区零》《鸣潮》等国产游戏入选「TGA 玩家之声」次轮？](https://www.zhihu.com/question/6106731135)
 1. [华为的星闪技术可以完全替代蓝牙 Wifi 和 NFC 吗？](https://www.zhihu.com/question/521552602)
 
 ## 热门视频
@@ -77,10 +77,10 @@
 1. [哥伦比亚一机库被曝发现约 2 万具身份不明尸体，当地回应「没有发现尸体痕迹」，真实情况如何？](https://www.zhihu.com/question/6096751996)
 1. [当年苏联挖地球为什么挖到 12262 米就停止了？](https://www.zhihu.com/question/1583625596)
 1. [韩国国会被全面管制，国会议员一律禁止出入，这是什么情况？韩国总统弹劾案会被通过吗？](https://www.zhihu.com/question/6122724103)
-1. [如何看待《绝区零》1.4 登录即可领取新五星浅羽悠真?](https://www.zhihu.com/question/6149901740)
 1. [如何看待 2024 年 12 月 5 日《绝区零》流水再度飞榜？](https://www.zhihu.com/question/6133159182)
 1. [自己亲手引发运维事故是一种什么样的体验？](https://www.zhihu.com/question/43860483)
 1. [日本为什么没有采用中国的科举制度呢？](https://www.zhihu.com/question/6016296642)
+1. [如何看待《绝区零》1.4 登录即可领取新五星浅羽悠真?](https://www.zhihu.com/question/6149901740)
 1. [美国重返月球计划再度推迟，出现了哪些技术性问题？NASA 仍较劲「要比中国早一步登月」，能实现吗？](https://www.zhihu.com/question/6119786714)
 1. [特朗普提名戴维·珀杜为美国新任驻华大使，他有哪些背景？出任会有什么影响？](https://www.zhihu.com/question/6109583777)
 1. [你的孩子上次考试考了 17 分，这次考试考了 18 分，你会怎么办？](https://www.zhihu.com/question/657588079)
@@ -97,9 +97,9 @@
 1. [你吃过什么小吃最难忘？](https://www.zhihu.com/question/5631179932)
 1. [小米 15 系列销量已达 130 万，这个数字在智能手机行业中处于什么水平？](https://www.zhihu.com/question/5913633568)
 1. [健身的朋友们你们是怎么开始健身的第一步的？](https://www.zhihu.com/question/5553831694)
-1. [为什么感觉韩国每次都是空输部队?](https://www.zhihu.com/question/5902267133)
-1. [广州电动车上牌量近 560 万，将适时实行总量控制，可能会产生哪些影响？是否适合其他城市借鉴？](https://www.zhihu.com/question/6045519601)
 1. [为什么最后高城原谅了成才？](https://www.zhihu.com/question/276826350)
+1. [为什么感觉韩国每次都是空输部队?](https://www.zhihu.com/question/5902267133)
+1. [如何看待《黑神话：悟空》《原神》《绝区零》《鸣潮》等国产游戏入选「TGA 玩家之声」次轮？](https://www.zhihu.com/question/6106731135)
 1. [华为的星闪技术可以完全替代蓝牙 Wifi 和 NFC 吗？](https://www.zhihu.com/question/521552602)
 
 ## 历史归档
