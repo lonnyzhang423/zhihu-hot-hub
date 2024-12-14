@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2024-12-14 20:42:51 +0800`
+`更新时间：2024-12-14 21:27:00 +0800`
 
 ## 热门搜索
 
@@ -41,21 +41,25 @@
 ## 热门话题
 
 1. [切尔诺贝利附近的狗已变异，美科学家称它们对辐射、重金属和污染免疫，这是真的吗？具体情况如何？](https://www.zhihu.com/question/6822025649)
-1. [61 岁男子吃未焯水菠菜后肾衰竭，需终身血透，为什么会这样？](https://www.zhihu.com/question/6754673581)
-1. [如何评价《明日方舟：终末地》再次测试？](https://www.zhihu.com/question/6831366730)
+1. [如何评价 2024 乒超联赛樊振东 3 比 1 林诗栋这场比赛?](https://www.zhihu.com/question/6862272988)
 1. [如何看待崔永熙被诊断为前交叉韧带损伤，确认赛季报销？](https://www.zhihu.com/question/6765668466)
+1. [冯骥长文回应 TGA「有失落，有遗憾，更多也是放下幻想」，对此你有什么看法？](https://www.zhihu.com/question/6860647946)
 1. [如何评价甄子丹主演的律政动作片《误判》？](https://www.zhihu.com/question/6269574858)
 1. [韩国国会通过尹锡悦总统弹劾案，尹锡悦将被暂停总统职务，将带来哪些影响？](https://www.zhihu.com/question/6846572001)
+1. [什么情况下你觉得被公司拿捏的死死的，但又无可奈何？](https://www.zhihu.com/question/6682604183)
+1. [星露谷物语这种简单游戏, 为何没有出现大量竞品?](https://www.zhihu.com/question/6485226582)
+1. [看书，要怎么理解书中的意思？](https://www.zhihu.com/question/6583052613)
+1. [如何看待游民星空新视频《〈宇宙机器人〉玩法对比任天堂游戏》？](https://www.zhihu.com/question/6849594167)
 1. [你错过了哪些足以改写人生的机会？](https://www.zhihu.com/question/502471022)
 1. [如何评价在各种 ACG 作品中出现的「重力系」角色？](https://www.zhihu.com/question/6602135813)
-1. [什么情况下你觉得被公司拿捏的死死的，但又无可奈何？](https://www.zhihu.com/question/6682604183)
-1. [如何看待游民星空新视频《〈宇宙机器人〉玩法对比任天堂游戏》？](https://www.zhihu.com/question/6849594167)
 1. [如何看待欧盟多国发表的《柏林宣言》?](https://www.zhihu.com/question/6777946366)
 1. [为什么在感情中面对一个真心对自己好的人舍得去骗钱谈恋爱呢？](https://www.zhihu.com/question/6102797860)
 1. [成都一小区拆除水塔时吊车吊臂连塔顶突然倒下，这起事故的具体原因是什么？目前调查进展如何？](https://www.zhihu.com/question/6672436067)
-1. [2024 年为什么「一边吐槽一边上头」的竖屏短剧会爆火？切中了当下人们的哪些情绪和需求？](https://www.zhihu.com/question/6659223002)
-1. [如何评价中国钢铁行业取得爆炸性突破的「闪速炼铁（钢）」科研成果?](https://www.zhihu.com/question/6361428298)
 1. [如何看待菜鸟裹裹因为 TGA 年度游戏是《宇宙机器人》而被误伤刷差评?](https://www.zhihu.com/question/6773398804)
+1. [如何评价中国钢铁行业取得爆炸性突破的「闪速炼铁（钢）」科研成果?](https://www.zhihu.com/question/6361428298)
+1. [如何评价《明日方舟：终末地》再次测试？](https://www.zhihu.com/question/6831366730)
+1. [2024 年为什么「一边吐槽一边上头」的竖屏短剧会爆火？切中了当下人们的哪些情绪和需求？](https://www.zhihu.com/question/6659223002)
+1. [深度学习的多个 loss 如何平衡？](https://www.zhihu.com/question/375794498)
 1. [如何看待定向选调生的发展？](https://www.zhihu.com/question/264640468)
 1. [为何白天只睡一小会就能恢复疲劳，这和太阳辐射有关系吗？](https://www.zhihu.com/question/6160269824)
 1. [《笑傲江湖》如果以林平之为男主，该怎么写结局比较妥当？](https://www.zhihu.com/question/5472195782)
@@ -64,31 +68,31 @@
 1. [「自我保护机制」过头，情感麻木怎么办？](https://www.zhihu.com/question/5975351230)
 1. [2024 年有哪些影视作品你最初非常期待，但最后很失望？](https://www.zhihu.com/question/5975558003)
 1. [唐朝长安城到底是什么样，坊到底是什么样的？](https://www.zhihu.com/question/27549539)
-1. [如何能快速学会一门语言，比如英语？](https://www.zhihu.com/question/2180887123)
 1. [2024 乒超最新一轮，樊振东 vs 林诗栋，你觉得胜负如何，比分如何？](https://www.zhihu.com/question/6829780313)
-1. [为什么现在工厂没什么年轻人？](https://www.zhihu.com/question/652723946)
-1. [《红楼梦》中贾元春是不是特别讨厌林黛玉？你对此怎么看？](https://www.zhihu.com/question/505974680)
-1. [如何评价香港电影《破·地狱》？是否超乎你的预期和想象？](https://www.zhihu.com/question/6508671945)
-1. [如何看待谷歌推出的 Willow 量子芯片，号称解决了量子计算三十多年来的难题?](https://www.zhihu.com/question/6448259220)
+1. [狸花猫聪明吗？](https://www.zhihu.com/question/26481926)
 
 ## 热门视频
 
 1. [切尔诺贝利附近的狗已变异，美科学家称它们对辐射、重金属和污染免疫，这是真的吗？具体情况如何？](https://www.zhihu.com/question/6822025649)
-1. [61 岁男子吃未焯水菠菜后肾衰竭，需终身血透，为什么会这样？](https://www.zhihu.com/question/6754673581)
-1. [如何评价《明日方舟：终末地》再次测试？](https://www.zhihu.com/question/6831366730)
+1. [如何评价 2024 乒超联赛樊振东 3 比 1 林诗栋这场比赛?](https://www.zhihu.com/question/6862272988)
 1. [如何看待崔永熙被诊断为前交叉韧带损伤，确认赛季报销？](https://www.zhihu.com/question/6765668466)
+1. [冯骥长文回应 TGA「有失落，有遗憾，更多也是放下幻想」，对此你有什么看法？](https://www.zhihu.com/question/6860647946)
 1. [如何评价甄子丹主演的律政动作片《误判》？](https://www.zhihu.com/question/6269574858)
 1. [韩国国会通过尹锡悦总统弹劾案，尹锡悦将被暂停总统职务，将带来哪些影响？](https://www.zhihu.com/question/6846572001)
+1. [什么情况下你觉得被公司拿捏的死死的，但又无可奈何？](https://www.zhihu.com/question/6682604183)
+1. [星露谷物语这种简单游戏, 为何没有出现大量竞品?](https://www.zhihu.com/question/6485226582)
+1. [看书，要怎么理解书中的意思？](https://www.zhihu.com/question/6583052613)
+1. [如何看待游民星空新视频《〈宇宙机器人〉玩法对比任天堂游戏》？](https://www.zhihu.com/question/6849594167)
 1. [你错过了哪些足以改写人生的机会？](https://www.zhihu.com/question/502471022)
 1. [如何评价在各种 ACG 作品中出现的「重力系」角色？](https://www.zhihu.com/question/6602135813)
-1. [什么情况下你觉得被公司拿捏的死死的，但又无可奈何？](https://www.zhihu.com/question/6682604183)
-1. [如何看待游民星空新视频《〈宇宙机器人〉玩法对比任天堂游戏》？](https://www.zhihu.com/question/6849594167)
 1. [如何看待欧盟多国发表的《柏林宣言》?](https://www.zhihu.com/question/6777946366)
 1. [为什么在感情中面对一个真心对自己好的人舍得去骗钱谈恋爱呢？](https://www.zhihu.com/question/6102797860)
 1. [成都一小区拆除水塔时吊车吊臂连塔顶突然倒下，这起事故的具体原因是什么？目前调查进展如何？](https://www.zhihu.com/question/6672436067)
-1. [2024 年为什么「一边吐槽一边上头」的竖屏短剧会爆火？切中了当下人们的哪些情绪和需求？](https://www.zhihu.com/question/6659223002)
-1. [如何评价中国钢铁行业取得爆炸性突破的「闪速炼铁（钢）」科研成果?](https://www.zhihu.com/question/6361428298)
 1. [如何看待菜鸟裹裹因为 TGA 年度游戏是《宇宙机器人》而被误伤刷差评?](https://www.zhihu.com/question/6773398804)
+1. [如何评价中国钢铁行业取得爆炸性突破的「闪速炼铁（钢）」科研成果?](https://www.zhihu.com/question/6361428298)
+1. [如何评价《明日方舟：终末地》再次测试？](https://www.zhihu.com/question/6831366730)
+1. [2024 年为什么「一边吐槽一边上头」的竖屏短剧会爆火？切中了当下人们的哪些情绪和需求？](https://www.zhihu.com/question/6659223002)
+1. [深度学习的多个 loss 如何平衡？](https://www.zhihu.com/question/375794498)
 1. [如何看待定向选调生的发展？](https://www.zhihu.com/question/264640468)
 1. [为何白天只睡一小会就能恢复疲劳，这和太阳辐射有关系吗？](https://www.zhihu.com/question/6160269824)
 1. [《笑傲江湖》如果以林平之为男主，该怎么写结局比较妥当？](https://www.zhihu.com/question/5472195782)
@@ -97,12 +101,8 @@
 1. [「自我保护机制」过头，情感麻木怎么办？](https://www.zhihu.com/question/5975351230)
 1. [2024 年有哪些影视作品你最初非常期待，但最后很失望？](https://www.zhihu.com/question/5975558003)
 1. [唐朝长安城到底是什么样，坊到底是什么样的？](https://www.zhihu.com/question/27549539)
-1. [如何能快速学会一门语言，比如英语？](https://www.zhihu.com/question/2180887123)
 1. [2024 乒超最新一轮，樊振东 vs 林诗栋，你觉得胜负如何，比分如何？](https://www.zhihu.com/question/6829780313)
-1. [为什么现在工厂没什么年轻人？](https://www.zhihu.com/question/652723946)
-1. [《红楼梦》中贾元春是不是特别讨厌林黛玉？你对此怎么看？](https://www.zhihu.com/question/505974680)
-1. [如何评价香港电影《破·地狱》？是否超乎你的预期和想象？](https://www.zhihu.com/question/6508671945)
-1. [如何看待谷歌推出的 Willow 量子芯片，号称解决了量子计算三十多年来的难题?](https://www.zhihu.com/question/6448259220)
+1. [狸花猫聪明吗？](https://www.zhihu.com/question/26481926)
 
 ## 历史归档
 
