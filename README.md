@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2024-12-15 04:11:27 +0800`
+`更新时间：2024-12-15 05:09:25 +0800`
 
 ## 热门搜索
 
@@ -45,15 +45,15 @@
 1. [如何评价中国钢铁行业取得爆炸性突破的「闪速炼铁（钢）」科研成果?](https://www.zhihu.com/question/6361428298)
 1. [乌媒称俄高级导弹科学家在莫斯科郊外被枪杀，或系乌国防情报局所为，具体情况如何？对俄乌局势有何影响？](https://www.zhihu.com/question/6820069813)
 1. [如何看待欧盟多国发表的《柏林宣言》?](https://www.zhihu.com/question/6777946366)
-1. [成都一小区拆除水塔时吊车吊臂连塔顶突然倒下，这起事故的具体原因是什么？目前调查进展如何？](https://www.zhihu.com/question/6672436067)
-1. [为什么那么多人喜欢旅游?](https://www.zhihu.com/question/6766736920)
 1. [为什么同为渐冻症，霍金活到 76 岁，而蔡磊却已呼吸衰竭？](https://www.zhihu.com/question/641422453)
+1. [为什么那么多人喜欢旅游?](https://www.zhihu.com/question/6766736920)
 1. [是不是所有老师都不喜欢《教材全解》？为什么？](https://www.zhihu.com/question/268312931)
 1. [如何评价 2024 年 12 月六级考试，难度怎么样？](https://www.zhihu.com/question/6852410266)
+1. [成都一小区拆除水塔时吊车吊臂连塔顶突然倒下，这起事故的具体原因是什么？目前调查进展如何？](https://www.zhihu.com/question/6672436067)
 1. [尹锡悦为何不惊慌?](https://www.zhihu.com/question/6636567721)
 1. [为什么罗马帝国无法阻止基督教的传播？](https://www.zhihu.com/question/6727419731)
-1. [韩国国会通过尹锡悦总统弹劾案，尹锡悦将被暂停总统职务，将带来哪些影响？](https://www.zhihu.com/question/6846572001)
 1. [星露谷物语这种简单游戏, 为何没有出现大量竞品?](https://www.zhihu.com/question/6485226582)
+1. [韩国国会通过尹锡悦总统弹劾案，尹锡悦将被暂停总统职务，将带来哪些影响？](https://www.zhihu.com/question/6846572001)
 1. [如何评价演员李昀锐？](https://www.zhihu.com/question/264225394)
 1. [巅峰皮蓬有多强?](https://www.zhihu.com/question/362221072)
 1. [如何评价 2024 乒超联赛林诗栋 3-2 许昕这场比赛?](https://www.zhihu.com/question/6867604809)
@@ -78,15 +78,15 @@
 1. [如何评价中国钢铁行业取得爆炸性突破的「闪速炼铁（钢）」科研成果?](https://www.zhihu.com/question/6361428298)
 1. [乌媒称俄高级导弹科学家在莫斯科郊外被枪杀，或系乌国防情报局所为，具体情况如何？对俄乌局势有何影响？](https://www.zhihu.com/question/6820069813)
 1. [如何看待欧盟多国发表的《柏林宣言》?](https://www.zhihu.com/question/6777946366)
-1. [成都一小区拆除水塔时吊车吊臂连塔顶突然倒下，这起事故的具体原因是什么？目前调查进展如何？](https://www.zhihu.com/question/6672436067)
-1. [为什么那么多人喜欢旅游?](https://www.zhihu.com/question/6766736920)
 1. [为什么同为渐冻症，霍金活到 76 岁，而蔡磊却已呼吸衰竭？](https://www.zhihu.com/question/641422453)
+1. [为什么那么多人喜欢旅游?](https://www.zhihu.com/question/6766736920)
 1. [是不是所有老师都不喜欢《教材全解》？为什么？](https://www.zhihu.com/question/268312931)
 1. [如何评价 2024 年 12 月六级考试，难度怎么样？](https://www.zhihu.com/question/6852410266)
+1. [成都一小区拆除水塔时吊车吊臂连塔顶突然倒下，这起事故的具体原因是什么？目前调查进展如何？](https://www.zhihu.com/question/6672436067)
 1. [尹锡悦为何不惊慌?](https://www.zhihu.com/question/6636567721)
 1. [为什么罗马帝国无法阻止基督教的传播？](https://www.zhihu.com/question/6727419731)
-1. [韩国国会通过尹锡悦总统弹劾案，尹锡悦将被暂停总统职务，将带来哪些影响？](https://www.zhihu.com/question/6846572001)
 1. [星露谷物语这种简单游戏, 为何没有出现大量竞品?](https://www.zhihu.com/question/6485226582)
+1. [韩国国会通过尹锡悦总统弹劾案，尹锡悦将被暂停总统职务，将带来哪些影响？](https://www.zhihu.com/question/6846572001)
 1. [如何评价演员李昀锐？](https://www.zhihu.com/question/264225394)
 1. [巅峰皮蓬有多强?](https://www.zhihu.com/question/362221072)
 1. [如何评价 2024 乒超联赛林诗栋 3-2 许昕这场比赛?](https://www.zhihu.com/question/6867604809)
