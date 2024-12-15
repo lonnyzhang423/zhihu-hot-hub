@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2024-12-16 04:11:29 +0800`
+`更新时间：2024-12-16 05:09:40 +0800`
 
 ## 热门搜索
 
@@ -53,23 +53,23 @@
 1. [如何评价小米自研系统 Vela 全面开源？](https://www.zhihu.com/question/6594058263)
 1. [最好的爱，是不放弃呢？还是不打扰呢？](https://www.zhihu.com/question/6869580917)
 1. [OpenAI 吹哨人 Suchir Balaji 被发现死于旧金山的公寓中，有哪些细节值得关注？](https://www.zhihu.com/question/6841313956)
-1. [为什么同为渐冻症，霍金活到 76 岁，而蔡磊却已呼吸衰竭？](https://www.zhihu.com/question/641422453)
 1. [如果善良得不到尊重你会怎么办？](https://www.zhihu.com/question/864483578)
+1. [为什么同为渐冻症，霍金活到 76 岁，而蔡磊却已呼吸衰竭？](https://www.zhihu.com/question/641422453)
 1. [美股与 A 股的主要区别是什么？](https://www.zhihu.com/question/754587486)
 1. [是不是所有老师都不喜欢《教材全解》？为什么？](https://www.zhihu.com/question/268312931)
 1. [如何看待樊振东凌晨发视频恳请球迷理解尊重他的个人空间？](https://www.zhihu.com/question/6905593143)
 1. [苹果设计「电池健康」的目的是什么？](https://www.zhihu.com/question/640885758)
 1. [从什么时候起，新能源安全成为很「日常」的话题？](https://www.zhihu.com/question/6832021272)
+1. [人生有遗憾，该怎么面对?](https://www.zhihu.com/question/6837259045)
+1. [如何评价 TV 动画《BanG Dream! Ave Mujica》的 OP？](https://www.zhihu.com/question/6913571146)
+1. [如何评价《明日方舟：终末地》二测实机 PV？](https://www.zhihu.com/question/6911645819)
+1. [你如何评价日剧《半泽直树》？](https://www.zhihu.com/question/21355533)
 1. [如何看待「不表达愤怒反而会降低关系满意度」这样的说法？你认为怎样才能「正确地表达愤怒」？](https://www.zhihu.com/question/6684029781)
 1. [去猫咖撸猫和在自己家撸猫有什么区别吗？](https://www.zhihu.com/question/606708750)
-1. [如何评价 TV 动画《BanG Dream! Ave Mujica》的 OP？](https://www.zhihu.com/question/6913571146)
 1. [魔兽的故事中，为什么高等精灵 / 血精灵总是对人类情有独钟？](https://www.zhihu.com/question/41313428)
-1. [朱丹吃了 40 多年鸡蛋才发现过敏，已导致严重心悸，多处结节，哪些食物过敏不易察觉？过敏后能自愈吗？](https://www.zhihu.com/question/6819911918)
-1. [人生有遗憾，该怎么面对?](https://www.zhihu.com/question/6837259045)
 1. [以色列一直不退出戈兰高地的历史原因是什么？](https://www.zhihu.com/question/31636807)
+1. [朱丹吃了 40 多年鸡蛋才发现过敏，已导致严重心悸，多处结节，哪些食物过敏不易察觉？过敏后能自愈吗？](https://www.zhihu.com/question/6819911918)
 1. [东北的雪绵豆沙和三不沾好吃吗？](https://www.zhihu.com/question/6759553763)
-1. [你会介意你的猫不是品种猫吗？](https://www.zhihu.com/question/413441565)
-1. [如何评价《明日方舟：终末地》二测实机 PV？](https://www.zhihu.com/question/6911645819)
 
 ## 热门视频
 
@@ -86,23 +86,23 @@
 1. [如何评价小米自研系统 Vela 全面开源？](https://www.zhihu.com/question/6594058263)
 1. [最好的爱，是不放弃呢？还是不打扰呢？](https://www.zhihu.com/question/6869580917)
 1. [OpenAI 吹哨人 Suchir Balaji 被发现死于旧金山的公寓中，有哪些细节值得关注？](https://www.zhihu.com/question/6841313956)
-1. [为什么同为渐冻症，霍金活到 76 岁，而蔡磊却已呼吸衰竭？](https://www.zhihu.com/question/641422453)
 1. [如果善良得不到尊重你会怎么办？](https://www.zhihu.com/question/864483578)
+1. [为什么同为渐冻症，霍金活到 76 岁，而蔡磊却已呼吸衰竭？](https://www.zhihu.com/question/641422453)
 1. [美股与 A 股的主要区别是什么？](https://www.zhihu.com/question/754587486)
 1. [是不是所有老师都不喜欢《教材全解》？为什么？](https://www.zhihu.com/question/268312931)
 1. [如何看待樊振东凌晨发视频恳请球迷理解尊重他的个人空间？](https://www.zhihu.com/question/6905593143)
 1. [苹果设计「电池健康」的目的是什么？](https://www.zhihu.com/question/640885758)
 1. [从什么时候起，新能源安全成为很「日常」的话题？](https://www.zhihu.com/question/6832021272)
+1. [人生有遗憾，该怎么面对?](https://www.zhihu.com/question/6837259045)
+1. [如何评价 TV 动画《BanG Dream! Ave Mujica》的 OP？](https://www.zhihu.com/question/6913571146)
+1. [如何评价《明日方舟：终末地》二测实机 PV？](https://www.zhihu.com/question/6911645819)
+1. [你如何评价日剧《半泽直树》？](https://www.zhihu.com/question/21355533)
 1. [如何看待「不表达愤怒反而会降低关系满意度」这样的说法？你认为怎样才能「正确地表达愤怒」？](https://www.zhihu.com/question/6684029781)
 1. [去猫咖撸猫和在自己家撸猫有什么区别吗？](https://www.zhihu.com/question/606708750)
-1. [如何评价 TV 动画《BanG Dream! Ave Mujica》的 OP？](https://www.zhihu.com/question/6913571146)
 1. [魔兽的故事中，为什么高等精灵 / 血精灵总是对人类情有独钟？](https://www.zhihu.com/question/41313428)
-1. [朱丹吃了 40 多年鸡蛋才发现过敏，已导致严重心悸，多处结节，哪些食物过敏不易察觉？过敏后能自愈吗？](https://www.zhihu.com/question/6819911918)
-1. [人生有遗憾，该怎么面对?](https://www.zhihu.com/question/6837259045)
 1. [以色列一直不退出戈兰高地的历史原因是什么？](https://www.zhihu.com/question/31636807)
+1. [朱丹吃了 40 多年鸡蛋才发现过敏，已导致严重心悸，多处结节，哪些食物过敏不易察觉？过敏后能自愈吗？](https://www.zhihu.com/question/6819911918)
 1. [东北的雪绵豆沙和三不沾好吃吗？](https://www.zhihu.com/question/6759553763)
-1. [你会介意你的猫不是品种猫吗？](https://www.zhihu.com/question/413441565)
-1. [如何评价《明日方舟：终末地》二测实机 PV？](https://www.zhihu.com/question/6911645819)
 
 ## 历史归档
 
