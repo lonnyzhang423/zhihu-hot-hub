@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-01-05 02:28:23 +0800`
+`更新时间：2025-01-05 03:17:09 +0800`
 
 ## 热门搜索
 
@@ -50,13 +50,13 @@
 1. [田亮回应「女儿森碟下巴后缩」，称正在矫正，哪些因素会导致下巴后缩？若不矫正会带来哪些问题？](https://www.zhihu.com/question/8599667762)
 1. [上海挤满了来跨年的韩国人，如何看待这一现象？2025 年，免签政策还能带来哪些利好？](https://www.zhihu.com/question/8621244886)
 1. [一块吧唧被炒到 7 万多，「谷子」为什么令无数年轻人疯狂？冲出二次元的「谷子」2025 年将会走向何方？](https://www.zhihu.com/question/6466616419)
-1. [2025 年，你给自己设立了哪些「身心健康小目标」？](https://www.zhihu.com/question/6751902942)
 1. [德国电价跌至 0 以下，为什么会出现这种现象？负电价说明什么？](https://www.zhihu.com/question/8616317738)
-1. [国家发改委称，将实施手机等数码产品购新补贴，具体将如何补贴？对个人有何影响？](https://www.zhihu.com/question/8590224314)
 1. [在生活中的哪个时刻，你觉得父母真的老了？](https://www.zhihu.com/question/8630623809)
+1. [国家发改委称，将实施手机等数码产品购新补贴，具体将如何补贴？对个人有何影响？](https://www.zhihu.com/question/8590224314)
 1. [如何看待俄罗斯拟立法保护俄语，公共场所严格限制使用英语和外来词？此举将带来哪些影响？](https://www.zhihu.com/question/8608074410)
-1. [怎样才能让自己时刻保持清醒的头脑？](https://www.zhihu.com/question/419333427)
+1. [2025 年，你给自己设立了哪些「身心健康小目标」？](https://www.zhihu.com/question/6751902942)
 1. [可以分享一下你 2025 年的书单吗？](https://www.zhihu.com/question/2541006359)
+1. [怎样才能让自己时刻保持清醒的头脑？](https://www.zhihu.com/question/419333427)
 1. [中小学教师招聘要清北不要师范生、全球文科倒闭潮，在此背景下，什么才是 25 年高考志愿填报的最优解？](https://www.zhihu.com/question/8536938767)
 1. [拜登否决日本制铁公司 149 亿美元收购美国钢铁公司，日本制铁决定起诉美国政府，如何看待此事？](https://www.zhihu.com/question/8431527853)
 1. [苹果官网推出「叱咤福利」新年促销活动，最高优惠 800 元，具体情况如何，哪些产品值得购买？](https://www.zhihu.com/question/8511800242)
@@ -71,11 +71,11 @@
 1. [curl 宣布终止对 Rust 编写的 HTTP 后端 hyper 的支持，如何看待？](https://www.zhihu.com/question/7830636579)
 1. [什么样的人才能被称为公民？](https://www.zhihu.com/question/20008404)
 1. [电影《误杀 3》片尾那一枪打中的是父亲，还是女儿？](https://www.zhihu.com/question/8130742953)
-1. [如何看待陈思诚《误杀 3》映后回应「没有借鉴《因果报应》，我们是非常坦诚的创作者」？](https://www.zhihu.com/question/8597837094)
 1. [作为特斯拉车主的你，可以分享一下真实使用感受吗?](https://www.zhihu.com/question/616358869)
 1. [现在的新车紧急刹车还需要点刹吗？](https://www.zhihu.com/question/447717535)
 1. [中国药监局离 FDA 的效率还差多远？](https://www.zhihu.com/question/659310232)
 1. [冰勃朗企业回应奶茶测评事件，称产品与植脂末原料不同，冰勃朗和植脂末最大的区别是什么？植脂末有哪些危害？](https://www.zhihu.com/question/8630449196)
+1. [《鸣潮》2.0 版本「致缄默以欢歌」已于 1 月 2 日开启，体验如何？](https://www.zhihu.com/question/8509568201)
 
 ## 热门视频
 
@@ -83,13 +83,13 @@
 1. [田亮回应「女儿森碟下巴后缩」，称正在矫正，哪些因素会导致下巴后缩？若不矫正会带来哪些问题？](https://www.zhihu.com/question/8599667762)
 1. [上海挤满了来跨年的韩国人，如何看待这一现象？2025 年，免签政策还能带来哪些利好？](https://www.zhihu.com/question/8621244886)
 1. [一块吧唧被炒到 7 万多，「谷子」为什么令无数年轻人疯狂？冲出二次元的「谷子」2025 年将会走向何方？](https://www.zhihu.com/question/6466616419)
-1. [2025 年，你给自己设立了哪些「身心健康小目标」？](https://www.zhihu.com/question/6751902942)
 1. [德国电价跌至 0 以下，为什么会出现这种现象？负电价说明什么？](https://www.zhihu.com/question/8616317738)
-1. [国家发改委称，将实施手机等数码产品购新补贴，具体将如何补贴？对个人有何影响？](https://www.zhihu.com/question/8590224314)
 1. [在生活中的哪个时刻，你觉得父母真的老了？](https://www.zhihu.com/question/8630623809)
+1. [国家发改委称，将实施手机等数码产品购新补贴，具体将如何补贴？对个人有何影响？](https://www.zhihu.com/question/8590224314)
 1. [如何看待俄罗斯拟立法保护俄语，公共场所严格限制使用英语和外来词？此举将带来哪些影响？](https://www.zhihu.com/question/8608074410)
-1. [怎样才能让自己时刻保持清醒的头脑？](https://www.zhihu.com/question/419333427)
+1. [2025 年，你给自己设立了哪些「身心健康小目标」？](https://www.zhihu.com/question/6751902942)
 1. [可以分享一下你 2025 年的书单吗？](https://www.zhihu.com/question/2541006359)
+1. [怎样才能让自己时刻保持清醒的头脑？](https://www.zhihu.com/question/419333427)
 1. [中小学教师招聘要清北不要师范生、全球文科倒闭潮，在此背景下，什么才是 25 年高考志愿填报的最优解？](https://www.zhihu.com/question/8536938767)
 1. [拜登否决日本制铁公司 149 亿美元收购美国钢铁公司，日本制铁决定起诉美国政府，如何看待此事？](https://www.zhihu.com/question/8431527853)
 1. [苹果官网推出「叱咤福利」新年促销活动，最高优惠 800 元，具体情况如何，哪些产品值得购买？](https://www.zhihu.com/question/8511800242)
@@ -104,11 +104,11 @@
 1. [curl 宣布终止对 Rust 编写的 HTTP 后端 hyper 的支持，如何看待？](https://www.zhihu.com/question/7830636579)
 1. [什么样的人才能被称为公民？](https://www.zhihu.com/question/20008404)
 1. [电影《误杀 3》片尾那一枪打中的是父亲，还是女儿？](https://www.zhihu.com/question/8130742953)
-1. [如何看待陈思诚《误杀 3》映后回应「没有借鉴《因果报应》，我们是非常坦诚的创作者」？](https://www.zhihu.com/question/8597837094)
 1. [作为特斯拉车主的你，可以分享一下真实使用感受吗?](https://www.zhihu.com/question/616358869)
 1. [现在的新车紧急刹车还需要点刹吗？](https://www.zhihu.com/question/447717535)
 1. [中国药监局离 FDA 的效率还差多远？](https://www.zhihu.com/question/659310232)
 1. [冰勃朗企业回应奶茶测评事件，称产品与植脂末原料不同，冰勃朗和植脂末最大的区别是什么？植脂末有哪些危害？](https://www.zhihu.com/question/8630449196)
+1. [《鸣潮》2.0 版本「致缄默以欢歌」已于 1 月 2 日开启，体验如何？](https://www.zhihu.com/question/8509568201)
 
 ## 历史归档
 
