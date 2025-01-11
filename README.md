@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-01-12 05:19:11 +0800`
+`更新时间：2025-01-12 06:19:46 +0800`
 
 ## 热门搜索
 
@@ -47,10 +47,10 @@
 
 1. [韩国济州空难失事客机撞混凝土设施前最后 4 分钟，两个「黑匣子」均停录，为何出现这样的情况？](https://www.zhihu.com/question/9317799685)
 1. [2025 山东省考招法学岗位无人报考导致核减，法学作为就业红牌专业，这些岗位为什么没人报考？](https://www.zhihu.com/question/9123800811)
-1. [宁德时代的巧克力换电站对蔚来的冲击有多大？](https://www.zhihu.com/question/8672152563)
 1. [广东为什么没有出现像京圈、沪圈一样的影视繁荣现象？](https://www.zhihu.com/question/8879007919)
 1. [加州消防局部署了约 4700 名消防员，其中约 800 名是当地囚犯充当的消防员，对此你有哪些评价？](https://www.zhihu.com/question/9309852715)
 1. [未来十年，中国零售业将在哪些因素驱动下发生根本性变化？又将如何改写行业上下游的利益分配格局？](https://www.zhihu.com/question/8932851277)
+1. [宁德时代的巧克力换电站对蔚来的冲击有多大？](https://www.zhihu.com/question/8672152563)
 1. [为什么不用游戏产业进行文化输出？](https://www.zhihu.com/question/413243739)
 1. [公司倒闭前有什么征兆？](https://www.zhihu.com/question/6236315980)
 1. [小时候花五毛钱你会买什么零食呢？](https://www.zhihu.com/question/9224567600)
@@ -80,10 +80,10 @@
 
 1. [韩国济州空难失事客机撞混凝土设施前最后 4 分钟，两个「黑匣子」均停录，为何出现这样的情况？](https://www.zhihu.com/question/9317799685)
 1. [2025 山东省考招法学岗位无人报考导致核减，法学作为就业红牌专业，这些岗位为什么没人报考？](https://www.zhihu.com/question/9123800811)
-1. [宁德时代的巧克力换电站对蔚来的冲击有多大？](https://www.zhihu.com/question/8672152563)
 1. [广东为什么没有出现像京圈、沪圈一样的影视繁荣现象？](https://www.zhihu.com/question/8879007919)
 1. [加州消防局部署了约 4700 名消防员，其中约 800 名是当地囚犯充当的消防员，对此你有哪些评价？](https://www.zhihu.com/question/9309852715)
 1. [未来十年，中国零售业将在哪些因素驱动下发生根本性变化？又将如何改写行业上下游的利益分配格局？](https://www.zhihu.com/question/8932851277)
+1. [宁德时代的巧克力换电站对蔚来的冲击有多大？](https://www.zhihu.com/question/8672152563)
 1. [为什么不用游戏产业进行文化输出？](https://www.zhihu.com/question/413243739)
 1. [公司倒闭前有什么征兆？](https://www.zhihu.com/question/6236315980)
 1. [小时候花五毛钱你会买什么零食呢？](https://www.zhihu.com/question/9224567600)
