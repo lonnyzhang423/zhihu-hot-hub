@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-01-28 03:16:59 +0800`
+`更新时间：2025-01-28 04:23:22 +0800`
 
 ## 热门搜索
 
@@ -56,22 +56,22 @@
 1. [DeepSeek 冲击全球算力，A 股寒武纪一度跌近 10%，英伟达、博通杀跌，哪些信息值得关注？](https://www.zhihu.com/question/10679070766)
 1. [韩国围棋教练称「死子」规则因中国棋手长期不尊重韩国规则而制定，暴露出哪些问题？围棋为何没有通用规则？](https://www.zhihu.com/question/10694360662)
 1. [DeepSeek 预测 2025 春节档票房冠军将是《哪吒 2》，结果可信度有多高？推理逻辑是否合理？](https://www.zhihu.com/question/10685003200)
-1. [女孩偷拿妈妈百万珠宝卖了 60 元，只为换零花钱，购买者涉嫌违法吗？家长教育出现了哪些问题？](https://www.zhihu.com/question/10512557516)
+1. [怎么看待 deepseek 刚刚发布的多模态 AI 大模型 Janus-Pro-7B？](https://www.zhihu.com/question/10723192745)
+1. [孩子问「摔炮里面都是小石子为什么会响」该怎么回答？](https://www.zhihu.com/question/10381552153)
 1. [疑似一汽南京裁员手册流出，你怎么看?](https://www.zhihu.com/question/10333647735)
-1. [杭州女生高考 602 分去职业技术大学，称被该校 98% 的就业率给吸引了，如何看待这一选择？](https://www.zhihu.com/question/662342256)
 1. [大多数人到了 30 岁是不是都会意识到自己比较笨？](https://www.zhihu.com/question/9428411658)
 1. [《雄狮少年 2》是不是摆明了亏钱还是要上映？](https://www.zhihu.com/question/6943151190)
-1. [如何评价 50 系显卡?](https://www.zhihu.com/question/9155824275)
 1. [飞机上医生救治病人后被要求出示执业证书，这合理吗？会不会导致公共场合帮忙急救的好心人变少？](https://www.zhihu.com/question/10683598634)
-1. [2025 年了，为什么现在主流笔记本电脑的屏幕还不是 4K 分辨率呢？](https://www.zhihu.com/question/9929400255)
+1. [如何评价 50 系显卡?](https://www.zhihu.com/question/9155824275)
+1. [杭州女生高考 602 分去职业技术大学，称被该校 98% 的就业率给吸引了，如何看待这一选择？](https://www.zhihu.com/question/662342256)
 1. [春节期间如果遇到孩子们来你家走亲戚，你会给 TA 展示你正在玩的哪款游戏呢？](https://www.zhihu.com/question/10702588242)
+1. [2025 年了，为什么现在主流笔记本电脑的屏幕还不是 4K 分辨率呢？](https://www.zhihu.com/question/9929400255)
 1. [马上要过年了，你们对过年还会有期待吗？](https://www.zhihu.com/question/8588071276)
+1. [为什么佛山广州 - 东莞深圳都市圈难以像东京圈一样一体化？](https://www.zhihu.com/question/626067308)
 1. [为什么三体第二舰队不派几艘战舰去彻底灭绝人类文明？](https://www.zhihu.com/question/8342504670)
 1. [如何评价肖央、佟丽娅主演的悬疑电影《误杀 3》？](https://www.zhihu.com/question/8022975790)
 1. [2025 年还能等得到 LCD 屏的旗舰机吗？](https://www.zhihu.com/question/9431408601)
-1. [在中国古代记载中，最厉害或最恐怖的蛇是哪一条呢？](https://www.zhihu.com/question/9977591017)
-1. [你在做什么时，觉得最快乐？](https://www.zhihu.com/question/660922011)
-1. [有哪些适合过年期间宅在家里看的影视作品？](https://www.zhihu.com/question/10603716565)
+1. [女孩偷拿妈妈百万珠宝卖了 60 元，只为换零花钱，购买者涉嫌违法吗？家长教育出现了哪些问题？](https://www.zhihu.com/question/10512557516)
 
 ## 热门视频
 
@@ -89,22 +89,22 @@
 1. [DeepSeek 冲击全球算力，A 股寒武纪一度跌近 10%，英伟达、博通杀跌，哪些信息值得关注？](https://www.zhihu.com/question/10679070766)
 1. [韩国围棋教练称「死子」规则因中国棋手长期不尊重韩国规则而制定，暴露出哪些问题？围棋为何没有通用规则？](https://www.zhihu.com/question/10694360662)
 1. [DeepSeek 预测 2025 春节档票房冠军将是《哪吒 2》，结果可信度有多高？推理逻辑是否合理？](https://www.zhihu.com/question/10685003200)
-1. [女孩偷拿妈妈百万珠宝卖了 60 元，只为换零花钱，购买者涉嫌违法吗？家长教育出现了哪些问题？](https://www.zhihu.com/question/10512557516)
+1. [怎么看待 deepseek 刚刚发布的多模态 AI 大模型 Janus-Pro-7B？](https://www.zhihu.com/question/10723192745)
+1. [孩子问「摔炮里面都是小石子为什么会响」该怎么回答？](https://www.zhihu.com/question/10381552153)
 1. [疑似一汽南京裁员手册流出，你怎么看?](https://www.zhihu.com/question/10333647735)
-1. [杭州女生高考 602 分去职业技术大学，称被该校 98% 的就业率给吸引了，如何看待这一选择？](https://www.zhihu.com/question/662342256)
 1. [大多数人到了 30 岁是不是都会意识到自己比较笨？](https://www.zhihu.com/question/9428411658)
 1. [《雄狮少年 2》是不是摆明了亏钱还是要上映？](https://www.zhihu.com/question/6943151190)
-1. [如何评价 50 系显卡?](https://www.zhihu.com/question/9155824275)
 1. [飞机上医生救治病人后被要求出示执业证书，这合理吗？会不会导致公共场合帮忙急救的好心人变少？](https://www.zhihu.com/question/10683598634)
-1. [2025 年了，为什么现在主流笔记本电脑的屏幕还不是 4K 分辨率呢？](https://www.zhihu.com/question/9929400255)
+1. [如何评价 50 系显卡?](https://www.zhihu.com/question/9155824275)
+1. [杭州女生高考 602 分去职业技术大学，称被该校 98% 的就业率给吸引了，如何看待这一选择？](https://www.zhihu.com/question/662342256)
 1. [春节期间如果遇到孩子们来你家走亲戚，你会给 TA 展示你正在玩的哪款游戏呢？](https://www.zhihu.com/question/10702588242)
+1. [2025 年了，为什么现在主流笔记本电脑的屏幕还不是 4K 分辨率呢？](https://www.zhihu.com/question/9929400255)
 1. [马上要过年了，你们对过年还会有期待吗？](https://www.zhihu.com/question/8588071276)
+1. [为什么佛山广州 - 东莞深圳都市圈难以像东京圈一样一体化？](https://www.zhihu.com/question/626067308)
 1. [为什么三体第二舰队不派几艘战舰去彻底灭绝人类文明？](https://www.zhihu.com/question/8342504670)
 1. [如何评价肖央、佟丽娅主演的悬疑电影《误杀 3》？](https://www.zhihu.com/question/8022975790)
 1. [2025 年还能等得到 LCD 屏的旗舰机吗？](https://www.zhihu.com/question/9431408601)
-1. [在中国古代记载中，最厉害或最恐怖的蛇是哪一条呢？](https://www.zhihu.com/question/9977591017)
-1. [你在做什么时，觉得最快乐？](https://www.zhihu.com/question/660922011)
-1. [有哪些适合过年期间宅在家里看的影视作品？](https://www.zhihu.com/question/10603716565)
+1. [女孩偷拿妈妈百万珠宝卖了 60 元，只为换零花钱，购买者涉嫌违法吗？家长教育出现了哪些问题？](https://www.zhihu.com/question/10512557516)
 
 ## 历史归档
 
