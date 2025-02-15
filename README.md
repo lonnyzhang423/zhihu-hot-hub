@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-02-16 05:09:02 +0800`
+`更新时间：2025-02-16 06:08:52 +0800`
 
 ## 热门搜索
 
@@ -44,8 +44,8 @@
 
 ## 热门话题
 
-1. [如何评价百亿票房电影里，只有《哪吒 2》的本土票房占比高达 99.97%，其它没有一部超过 50%？](https://www.zhihu.com/question/12261493929)
 1. [如何看待尹肖反驳吴敬平，否认「逼退樊振东陈梦」和「后备力量断档」，称新老交替都会有个过程?](https://www.zhihu.com/question/12340553632)
+1. [如何评价百亿票房电影里，只有《哪吒 2》的本土票房占比高达 99.97%，其它没有一部超过 50%？](https://www.zhihu.com/question/12261493929)
 1. [《哪吒 2》累计票房超 110 亿，超《复仇者联盟》成首部进全球票房榜前 11 亚洲电影，还会涨多少？](https://www.zhihu.com/question/12313666892)
 1. [财政部拟将所持四大 AMC 公司股权全部无偿划转至中央汇金，如何看待这个操作？划转原因可能是什么？](https://www.zhihu.com/question/12245614575)
 1. [胖东来通报红内裤事件，奖励顾客 500 元，再追责不低于 100 万元，如何看待这一做法？](https://www.zhihu.com/question/12245528998)
@@ -58,27 +58,27 @@
 1. [如何评价华为于 2025 年 2 月 14 日发售的 AX1 路由器？](https://www.zhihu.com/question/12292005486)
 1. [为什么最终接过美队盾牌的是猎鹰？](https://www.zhihu.com/question/11811598622)
 1. [就目前来看，《唐探 1900》是成功了，还是失败了?](https://www.zhihu.com/question/12037985431)
-1. [我一直想不明白，日系车为什么就走下坡路了呢？](https://www.zhihu.com/question/11984385154)
 1. [《赛博朋克 2077》中，为什么「义体化」被渲染成一种堕落，而不是人类进化的必然？](https://www.zhihu.com/question/12188418655)
+1. [我一直想不明白，日系车为什么就走下坡路了呢？](https://www.zhihu.com/question/11984385154)
 1. [如何评价《唐探 1900》里岳云鹏饰演的费洋古？](https://www.zhihu.com/question/11043445775)
-1. [高中是主要靠努力还是靠天赋？](https://www.zhihu.com/question/658568595)
 1. [五年以后，中国的车企会剩下哪几家？](https://www.zhihu.com/question/5799543381)
 1. [如果个人突然间拥有了一大批黄金，但是无法证明其合法来源，该如何变现使用？](https://www.zhihu.com/question/507736529)
-1. [如果我在解放了一半帝国暗面，然后要求和基里曼共治帝国，会同意吗？](https://www.zhihu.com/question/757001493)
 1. [今年安卓发生了啥，电池怎么质的飞跃了?](https://www.zhihu.com/question/2121086623)
+1. [如果我在解放了一半帝国暗面，然后要求和基里曼共治帝国，会同意吗？](https://www.zhihu.com/question/757001493)
+1. [《Ave mujica》第 7 集中日观众评价差异大吗?](https://www.zhihu.com/question/12296354430)
 1. [U20 亚洲杯中国 5:2 大胜吉尔吉斯斯坦，提前小组出线，如何评价本场比赛中国队的表现？](https://www.zhihu.com/question/12342124610)
 1. [官方通报「重庆燃气集团燃气收费异常」，存在抄表周期混乱、违规估抄、错抄等问题，怎样从法律角度解读？](https://www.zhihu.com/question/12236096085)
-1. [《Ave mujica》第 7 集中日观众评价差异大吗?](https://www.zhihu.com/question/12296354430)
-1. [周深因身体原因世巡伦敦站取消，目前他的身体情况如何？是否对后续事业有所影响？](https://www.zhihu.com/question/12287143009)
-1. [为什么孔圣人不被今天百姓尊重，戏称「孔老二」? 而默圣人却被阿拉伯世界的百姓敬仰？](https://www.zhihu.com/question/10849401132)
 1. [清朝的税赋是历代最低的吗？](https://www.zhihu.com/question/667472277)
-1. [如何看待千万粉丝网红账号「潘宏爱玩狗」多个平台账号内容清空，下架所有视频？](https://www.zhihu.com/question/12239248031)
-1. [复旦新成果登上《自然》，通过为锂电池电解液补充锂离子延长其使用寿命，这一研究有哪些重要意义？](https://www.zhihu.com/question/12085211388)
+1. [高中是主要靠努力还是靠天赋？](https://www.zhihu.com/question/658568595)
+1. [电影《花样年华》好在哪？](https://www.zhihu.com/question/22882010)
+1. [周深因身体原因世巡伦敦站取消，目前他的身体情况如何？是否对后续事业有所影响？](https://www.zhihu.com/question/12287143009)
+1. [因为哪些习惯，你家一直都很干净？](https://www.zhihu.com/question/657778195)
+1. [为什么孔圣人不被今天百姓尊重，戏称「孔老二」? 而默圣人却被阿拉伯世界的百姓敬仰？](https://www.zhihu.com/question/10849401132)
 
 ## 热门视频
 
-1. [如何评价百亿票房电影里，只有《哪吒 2》的本土票房占比高达 99.97%，其它没有一部超过 50%？](https://www.zhihu.com/question/12261493929)
 1. [如何看待尹肖反驳吴敬平，否认「逼退樊振东陈梦」和「后备力量断档」，称新老交替都会有个过程?](https://www.zhihu.com/question/12340553632)
+1. [如何评价百亿票房电影里，只有《哪吒 2》的本土票房占比高达 99.97%，其它没有一部超过 50%？](https://www.zhihu.com/question/12261493929)
 1. [《哪吒 2》累计票房超 110 亿，超《复仇者联盟》成首部进全球票房榜前 11 亚洲电影，还会涨多少？](https://www.zhihu.com/question/12313666892)
 1. [财政部拟将所持四大 AMC 公司股权全部无偿划转至中央汇金，如何看待这个操作？划转原因可能是什么？](https://www.zhihu.com/question/12245614575)
 1. [胖东来通报红内裤事件，奖励顾客 500 元，再追责不低于 100 万元，如何看待这一做法？](https://www.zhihu.com/question/12245528998)
@@ -91,22 +91,22 @@
 1. [如何评价华为于 2025 年 2 月 14 日发售的 AX1 路由器？](https://www.zhihu.com/question/12292005486)
 1. [为什么最终接过美队盾牌的是猎鹰？](https://www.zhihu.com/question/11811598622)
 1. [就目前来看，《唐探 1900》是成功了，还是失败了?](https://www.zhihu.com/question/12037985431)
-1. [我一直想不明白，日系车为什么就走下坡路了呢？](https://www.zhihu.com/question/11984385154)
 1. [《赛博朋克 2077》中，为什么「义体化」被渲染成一种堕落，而不是人类进化的必然？](https://www.zhihu.com/question/12188418655)
+1. [我一直想不明白，日系车为什么就走下坡路了呢？](https://www.zhihu.com/question/11984385154)
 1. [如何评价《唐探 1900》里岳云鹏饰演的费洋古？](https://www.zhihu.com/question/11043445775)
-1. [高中是主要靠努力还是靠天赋？](https://www.zhihu.com/question/658568595)
 1. [五年以后，中国的车企会剩下哪几家？](https://www.zhihu.com/question/5799543381)
 1. [如果个人突然间拥有了一大批黄金，但是无法证明其合法来源，该如何变现使用？](https://www.zhihu.com/question/507736529)
-1. [如果我在解放了一半帝国暗面，然后要求和基里曼共治帝国，会同意吗？](https://www.zhihu.com/question/757001493)
 1. [今年安卓发生了啥，电池怎么质的飞跃了?](https://www.zhihu.com/question/2121086623)
+1. [如果我在解放了一半帝国暗面，然后要求和基里曼共治帝国，会同意吗？](https://www.zhihu.com/question/757001493)
+1. [《Ave mujica》第 7 集中日观众评价差异大吗?](https://www.zhihu.com/question/12296354430)
 1. [U20 亚洲杯中国 5:2 大胜吉尔吉斯斯坦，提前小组出线，如何评价本场比赛中国队的表现？](https://www.zhihu.com/question/12342124610)
 1. [官方通报「重庆燃气集团燃气收费异常」，存在抄表周期混乱、违规估抄、错抄等问题，怎样从法律角度解读？](https://www.zhihu.com/question/12236096085)
-1. [《Ave mujica》第 7 集中日观众评价差异大吗?](https://www.zhihu.com/question/12296354430)
-1. [周深因身体原因世巡伦敦站取消，目前他的身体情况如何？是否对后续事业有所影响？](https://www.zhihu.com/question/12287143009)
-1. [为什么孔圣人不被今天百姓尊重，戏称「孔老二」? 而默圣人却被阿拉伯世界的百姓敬仰？](https://www.zhihu.com/question/10849401132)
 1. [清朝的税赋是历代最低的吗？](https://www.zhihu.com/question/667472277)
-1. [如何看待千万粉丝网红账号「潘宏爱玩狗」多个平台账号内容清空，下架所有视频？](https://www.zhihu.com/question/12239248031)
-1. [复旦新成果登上《自然》，通过为锂电池电解液补充锂离子延长其使用寿命，这一研究有哪些重要意义？](https://www.zhihu.com/question/12085211388)
+1. [高中是主要靠努力还是靠天赋？](https://www.zhihu.com/question/658568595)
+1. [电影《花样年华》好在哪？](https://www.zhihu.com/question/22882010)
+1. [周深因身体原因世巡伦敦站取消，目前他的身体情况如何？是否对后续事业有所影响？](https://www.zhihu.com/question/12287143009)
+1. [因为哪些习惯，你家一直都很干净？](https://www.zhihu.com/question/657778195)
+1. [为什么孔圣人不被今天百姓尊重，戏称「孔老二」? 而默圣人却被阿拉伯世界的百姓敬仰？](https://www.zhihu.com/question/10849401132)
 
 ## 历史归档
 
