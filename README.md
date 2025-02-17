@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-02-18 05:09:43 +0800`
+`更新时间：2025-02-18 06:09:56 +0800`
 
 ## 热门搜索
 
@@ -47,8 +47,8 @@
 ## 热门话题
 
 1. [中央时隔 6 年 3 个月再度召开民营企业座谈会，任正非、马云、王兴兴等企业家参会，释放了什么信号？](https://www.zhihu.com/question/12490430520)
-1. [北京卫视重播《甄嬛传》，余答应戏份已删除，这种「连坐」处理方式真的合适吗？这一情况有无更好处理办法？](https://www.zhihu.com/question/12340177867)
 1. [如何看待江苏华设一中层员工在群里发言「无颜面对工资 2490 的员工」？](https://www.zhihu.com/question/12448178795)
+1. [北京卫视重播《甄嬛传》，余答应戏份已删除，这种「连坐」处理方式真的合适吗？这一情况有无更好处理办法？](https://www.zhihu.com/question/12340177867)
 1. [《哪吒 2》全球票房突破 121.20 亿，超越《侏罗纪世界》，成全球影史票房第九名，它还能冲多高？](https://www.zhihu.com/question/12522898416)
 1. [瓶装矿泉水在零下 5 度的车里一天也没结冰，为啥呢?](https://www.zhihu.com/question/12048347056)
 1. [《哪吒 2》北美首周票房达 720 万美元，创国产电影北美最高首周末成绩，这一数据能说明什么？](https://www.zhihu.com/question/12500758772)
@@ -61,9 +61,9 @@
 1. [Ave Mujica 最后会怎么包饺子？](https://www.zhihu.com/question/9778983886)
 1. [如何评价作家李娟对打螺丝这一工作的感受？](https://www.zhihu.com/question/12270739293)
 1. [服饰产业链外迁成为趋势，对出海企业而言需要关注哪些问题？](https://www.zhihu.com/question/12404955796)
-1. [雷军近期表示「去健身房健身是运动效率最高的方式」，如何评价这个观点？](https://www.zhihu.com/question/12348032715)
 1. [我国为什么放弃了 5.8mm 手枪弹？](https://www.zhihu.com/question/11665887611)
 1. [让建筑历久弥新的「保鲜秘籍」，你知道哪些？](https://www.zhihu.com/question/9397665933)
+1. [雷军近期表示「去健身房健身是运动效率最高的方式」，如何评价这个观点？](https://www.zhihu.com/question/12348032715)
 1. [体制内想混下去，混得好，是靠关系还是能力？](https://www.zhihu.com/question/11693281488)
 1. [北京发布中小学「体育八条」，三大球至少一项纳入必修，杜绝「不出汗」的体育课，有何重要意义？](https://www.zhihu.com/question/12466174791)
 1. [给你一碗白米饭，只能配一个菜，你会配什么？](https://www.zhihu.com/question/622742015)
@@ -72,16 +72,16 @@
 1. [你们家常吃的菜是什么?](https://www.zhihu.com/question/622428208)
 1. [新能源车的智能驾驶目前发展到什么程度了？你有哪些记忆深刻的智驾体验？](https://www.zhihu.com/question/8289466792)
 1. [腾讯回应微信接入 DeepSeek「灰度测试中」，将带来哪些影响？](https://www.zhihu.com/question/12417568933)
-1. [面试的时候被面试官问「看了你的学历是普通本科，想问下对比 985 的面试者，你强在哪里？」该如何回复？](https://www.zhihu.com/question/12099889316)
-1. [你博士期间发表了几篇 sci？](https://www.zhihu.com/question/609584104)
 1. [本人想买一套国产功放＋一对国产音箱，大神有推荐吗？](https://www.zhihu.com/question/614765306)
 1. [为什么想远离原生家庭，有时候却感到难过?](https://www.zhihu.com/question/660963910)
+1. [如何看 BLG 的教练 Maokai 复盘 Bin 在看手机？](https://www.zhihu.com/question/12408744361)
+1. [《三国志》里的甘宁是一个什么样的存在？](https://www.zhihu.com/question/29056948)
 
 ## 热门视频
 
 1. [中央时隔 6 年 3 个月再度召开民营企业座谈会，任正非、马云、王兴兴等企业家参会，释放了什么信号？](https://www.zhihu.com/question/12490430520)
-1. [北京卫视重播《甄嬛传》，余答应戏份已删除，这种「连坐」处理方式真的合适吗？这一情况有无更好处理办法？](https://www.zhihu.com/question/12340177867)
 1. [如何看待江苏华设一中层员工在群里发言「无颜面对工资 2490 的员工」？](https://www.zhihu.com/question/12448178795)
+1. [北京卫视重播《甄嬛传》，余答应戏份已删除，这种「连坐」处理方式真的合适吗？这一情况有无更好处理办法？](https://www.zhihu.com/question/12340177867)
 1. [《哪吒 2》全球票房突破 121.20 亿，超越《侏罗纪世界》，成全球影史票房第九名，它还能冲多高？](https://www.zhihu.com/question/12522898416)
 1. [瓶装矿泉水在零下 5 度的车里一天也没结冰，为啥呢?](https://www.zhihu.com/question/12048347056)
 1. [《哪吒 2》北美首周票房达 720 万美元，创国产电影北美最高首周末成绩，这一数据能说明什么？](https://www.zhihu.com/question/12500758772)
@@ -94,9 +94,9 @@
 1. [Ave Mujica 最后会怎么包饺子？](https://www.zhihu.com/question/9778983886)
 1. [如何评价作家李娟对打螺丝这一工作的感受？](https://www.zhihu.com/question/12270739293)
 1. [服饰产业链外迁成为趋势，对出海企业而言需要关注哪些问题？](https://www.zhihu.com/question/12404955796)
-1. [雷军近期表示「去健身房健身是运动效率最高的方式」，如何评价这个观点？](https://www.zhihu.com/question/12348032715)
 1. [我国为什么放弃了 5.8mm 手枪弹？](https://www.zhihu.com/question/11665887611)
 1. [让建筑历久弥新的「保鲜秘籍」，你知道哪些？](https://www.zhihu.com/question/9397665933)
+1. [雷军近期表示「去健身房健身是运动效率最高的方式」，如何评价这个观点？](https://www.zhihu.com/question/12348032715)
 1. [体制内想混下去，混得好，是靠关系还是能力？](https://www.zhihu.com/question/11693281488)
 1. [北京发布中小学「体育八条」，三大球至少一项纳入必修，杜绝「不出汗」的体育课，有何重要意义？](https://www.zhihu.com/question/12466174791)
 1. [给你一碗白米饭，只能配一个菜，你会配什么？](https://www.zhihu.com/question/622742015)
@@ -105,10 +105,10 @@
 1. [你们家常吃的菜是什么?](https://www.zhihu.com/question/622428208)
 1. [新能源车的智能驾驶目前发展到什么程度了？你有哪些记忆深刻的智驾体验？](https://www.zhihu.com/question/8289466792)
 1. [腾讯回应微信接入 DeepSeek「灰度测试中」，将带来哪些影响？](https://www.zhihu.com/question/12417568933)
-1. [面试的时候被面试官问「看了你的学历是普通本科，想问下对比 985 的面试者，你强在哪里？」该如何回复？](https://www.zhihu.com/question/12099889316)
-1. [你博士期间发表了几篇 sci？](https://www.zhihu.com/question/609584104)
 1. [本人想买一套国产功放＋一对国产音箱，大神有推荐吗？](https://www.zhihu.com/question/614765306)
 1. [为什么想远离原生家庭，有时候却感到难过?](https://www.zhihu.com/question/660963910)
+1. [如何看 BLG 的教练 Maokai 复盘 Bin 在看手机？](https://www.zhihu.com/question/12408744361)
+1. [《三国志》里的甘宁是一个什么样的存在？](https://www.zhihu.com/question/29056948)
 
 ## 历史归档
 
