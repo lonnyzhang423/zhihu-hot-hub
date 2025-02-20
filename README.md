@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-02-21 03:18:03 +0800`
+`更新时间：2025-02-21 04:24:28 +0800`
 
 ## 热门搜索
 
@@ -41,13 +41,13 @@
 1. [山东大学金融工程、世界史、土木工程等 27 个专业暂停招生，传递了哪些信号？](https://www.zhihu.com/question/12782828062)
 1. [陕西一名阿尔茨海默病患者接受手术后恢复认知，这种治疗方法的科学原理是什么？医学界怎么看？](https://www.zhihu.com/question/12698087017)
 1. [全球首款拓扑架构量子芯片问世，这一芯片有哪些技术突破？会带来哪些实际变化？](https://www.zhihu.com/question/12784048864)
-1. [《我是哪吒 2》 被批诈骗，曾被影迷误当作《哪吒 1》续篇，这是蹭热度骗票房吗？IP 创作边界在哪？](https://www.zhihu.com/question/12417920639)
 1. [美国耕地面积比中国大，而且美国粮食单产远高于中国，可为什么粮食总产量不及中国？](https://www.zhihu.com/question/12625269676)
-1. [胡歌称 40 岁已经进入人生倒计时，怎样看待他的观点？你认为 40 岁在你人生中是一个什么样的阶段？](https://www.zhihu.com/question/12739162665)
 1. [中国首口万米深井成功钻至 10910 米，获 5.4 亿年前岩芯，这一进展意味着什么？有哪些重大发现？](https://www.zhihu.com/question/12816004551)
-1. [支付宝为什么无法成为世界性的支付工具？](https://www.zhihu.com/question/9355858332)
 1. [亚洲杯预选赛，中国男篮 100-58 狂胜日本男篮 42 分，你对本场比赛怎么看？](https://www.zhihu.com/question/12837216546)
+1. [支付宝为什么无法成为世界性的支付工具？](https://www.zhihu.com/question/9355858332)
 1. [在《哪吒》中如果让申公豹去完成培养灵珠的任务，他能做的比太乙真人好吗？](https://www.zhihu.com/question/12662918849)
+1. [《我是哪吒 2》 被批诈骗，曾被影迷误当作《哪吒 1》续篇，这是蹭热度骗票房吗？IP 创作边界在哪？](https://www.zhihu.com/question/12417920639)
+1. [胡歌称 40 岁已经进入人生倒计时，怎样看待他的观点？你认为 40 岁在你人生中是一个什么样的阶段？](https://www.zhihu.com/question/12739162665)
 1. [为什么刘彻一个在深宫中长大的皇帝这么懂军事?](https://www.zhihu.com/question/12420683881)
 1. [京东、美团等公司此时为外卖骑手缴纳社保，背后有哪些商业考量？能为抢占市场带来多大的筹码？](https://www.zhihu.com/question/12817920479)
 1. [《英雄联盟》发布铁男圣堂级皮肤「萨恩·乌祖尔」如何评价该皮肤的制作水准及官方售价？](https://www.zhihu.com/question/12785943096)
@@ -59,28 +59,28 @@
 1. [如何评价《颂乐人偶》第八集？](https://www.zhihu.com/question/12800358765)
 1. [如何评价 ave mujica 第 8 话?](https://www.zhihu.com/question/12165395390)
 1. [如何看待博主举报《哪吒 2》宣扬暴力不适合带孩子观看？家长应怎样引导孩子正确看待电影中的情节？](https://www.zhihu.com/question/12799527197)
-1. [《哪吒 2》无量仙尊知道哪吒是魔丸为什么还给他玉露琼浆呢？](https://www.zhihu.com/question/11765635238)
-1. [《2025 年稳外资行动方案》发布，扩大电信、医疗领域开放试点，推动生物医药领域有序开放，如何解读？](https://www.zhihu.com/question/12722212358)
-1. [iPhone 16e 取消 64GB 改为 128GB 起步，128GB 存储是否足够应对日常使用需求？](https://www.zhihu.com/question/12794221826)
 1. [如何评价《BanG Dream! Ave Mujica》第八集？](https://www.zhihu.com/question/11336676200)
+1. [《2025 年稳外资行动方案》发布，扩大电信、医疗领域开放试点，推动生物医药领域有序开放，如何解读？](https://www.zhihu.com/question/12722212358)
 1. [想要在寝室配台式机，如何解决宿舍电压不稳和夜间断电的问题？](https://www.zhihu.com/question/12085994998)
-1. [典型的自毁型人格如何自救？](https://www.zhihu.com/question/10379163223)
 1. [如何评价湖南卫视《少年说》？](https://www.zhihu.com/question/281035236)
+1. [典型的自毁型人格如何自救？](https://www.zhihu.com/question/10379163223)
 1. [若 2025U20 亚洲杯中国队止步八强，队中是否仍会有一两名球员被五大联赛看中，从而成功留洋？](https://www.zhihu.com/question/12666226304)
 1. [跑步对你来说的意义是放松解压，还是挑战极限？](https://www.zhihu.com/question/12025012313)
+1. [为什么有时候明明是父母故意骂你激怒你，还要反过来说你情绪不稳定?](https://www.zhihu.com/question/7953999475)
+1. [2 月 LPR 报价出炉，5 年期和 1 年期利率均维持不变，如何解读？LPR 后续走势如何？](https://www.zhihu.com/question/12778786639)
 
 ## 热门视频
 
 1. [山东大学金融工程、世界史、土木工程等 27 个专业暂停招生，传递了哪些信号？](https://www.zhihu.com/question/12782828062)
 1. [陕西一名阿尔茨海默病患者接受手术后恢复认知，这种治疗方法的科学原理是什么？医学界怎么看？](https://www.zhihu.com/question/12698087017)
 1. [全球首款拓扑架构量子芯片问世，这一芯片有哪些技术突破？会带来哪些实际变化？](https://www.zhihu.com/question/12784048864)
-1. [《我是哪吒 2》 被批诈骗，曾被影迷误当作《哪吒 1》续篇，这是蹭热度骗票房吗？IP 创作边界在哪？](https://www.zhihu.com/question/12417920639)
 1. [美国耕地面积比中国大，而且美国粮食单产远高于中国，可为什么粮食总产量不及中国？](https://www.zhihu.com/question/12625269676)
-1. [胡歌称 40 岁已经进入人生倒计时，怎样看待他的观点？你认为 40 岁在你人生中是一个什么样的阶段？](https://www.zhihu.com/question/12739162665)
 1. [中国首口万米深井成功钻至 10910 米，获 5.4 亿年前岩芯，这一进展意味着什么？有哪些重大发现？](https://www.zhihu.com/question/12816004551)
-1. [支付宝为什么无法成为世界性的支付工具？](https://www.zhihu.com/question/9355858332)
 1. [亚洲杯预选赛，中国男篮 100-58 狂胜日本男篮 42 分，你对本场比赛怎么看？](https://www.zhihu.com/question/12837216546)
+1. [支付宝为什么无法成为世界性的支付工具？](https://www.zhihu.com/question/9355858332)
 1. [在《哪吒》中如果让申公豹去完成培养灵珠的任务，他能做的比太乙真人好吗？](https://www.zhihu.com/question/12662918849)
+1. [《我是哪吒 2》 被批诈骗，曾被影迷误当作《哪吒 1》续篇，这是蹭热度骗票房吗？IP 创作边界在哪？](https://www.zhihu.com/question/12417920639)
+1. [胡歌称 40 岁已经进入人生倒计时，怎样看待他的观点？你认为 40 岁在你人生中是一个什么样的阶段？](https://www.zhihu.com/question/12739162665)
 1. [为什么刘彻一个在深宫中长大的皇帝这么懂军事?](https://www.zhihu.com/question/12420683881)
 1. [京东、美团等公司此时为外卖骑手缴纳社保，背后有哪些商业考量？能为抢占市场带来多大的筹码？](https://www.zhihu.com/question/12817920479)
 1. [《英雄联盟》发布铁男圣堂级皮肤「萨恩·乌祖尔」如何评价该皮肤的制作水准及官方售价？](https://www.zhihu.com/question/12785943096)
@@ -92,15 +92,15 @@
 1. [如何评价《颂乐人偶》第八集？](https://www.zhihu.com/question/12800358765)
 1. [如何评价 ave mujica 第 8 话?](https://www.zhihu.com/question/12165395390)
 1. [如何看待博主举报《哪吒 2》宣扬暴力不适合带孩子观看？家长应怎样引导孩子正确看待电影中的情节？](https://www.zhihu.com/question/12799527197)
-1. [《哪吒 2》无量仙尊知道哪吒是魔丸为什么还给他玉露琼浆呢？](https://www.zhihu.com/question/11765635238)
-1. [《2025 年稳外资行动方案》发布，扩大电信、医疗领域开放试点，推动生物医药领域有序开放，如何解读？](https://www.zhihu.com/question/12722212358)
-1. [iPhone 16e 取消 64GB 改为 128GB 起步，128GB 存储是否足够应对日常使用需求？](https://www.zhihu.com/question/12794221826)
 1. [如何评价《BanG Dream! Ave Mujica》第八集？](https://www.zhihu.com/question/11336676200)
+1. [《2025 年稳外资行动方案》发布，扩大电信、医疗领域开放试点，推动生物医药领域有序开放，如何解读？](https://www.zhihu.com/question/12722212358)
 1. [想要在寝室配台式机，如何解决宿舍电压不稳和夜间断电的问题？](https://www.zhihu.com/question/12085994998)
-1. [典型的自毁型人格如何自救？](https://www.zhihu.com/question/10379163223)
 1. [如何评价湖南卫视《少年说》？](https://www.zhihu.com/question/281035236)
+1. [典型的自毁型人格如何自救？](https://www.zhihu.com/question/10379163223)
 1. [若 2025U20 亚洲杯中国队止步八强，队中是否仍会有一两名球员被五大联赛看中，从而成功留洋？](https://www.zhihu.com/question/12666226304)
 1. [跑步对你来说的意义是放松解压，还是挑战极限？](https://www.zhihu.com/question/12025012313)
+1. [为什么有时候明明是父母故意骂你激怒你，还要反过来说你情绪不稳定?](https://www.zhihu.com/question/7953999475)
+1. [2 月 LPR 报价出炉，5 年期和 1 年期利率均维持不变，如何解读？LPR 后续走势如何？](https://www.zhihu.com/question/12778786639)
 
 ## 历史归档
 
