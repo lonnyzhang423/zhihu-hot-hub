@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-03-05 00:29:47 +0800`
+`更新时间：2025-03-05 01:20:45 +0800`
 
 ## 热门搜索
 
@@ -60,21 +60,21 @@
 1. [苹果发布 iPad 11，搭载 A16 芯片起售价 2999 元，哪些升级值得关注？](https://www.zhihu.com/question/14070686016)
 1. [身体莫名淤青是怎么回事？是否意味着身体可能出现了问题？](https://www.zhihu.com/question/13427820865)
 1. [苹果推出搭载 M3 芯片的 2025 款 iPad Air，起售价 4799 元，哪些亮点值得关注？](https://www.zhihu.com/question/14068872895)
-1. [美国政府暂停对乌克兰军事援助，这意味着什么？对俄乌局势会带来哪些影响？](https://www.zhihu.com/question/13993053637)
 1. [《潜伏》里的李涯都干成天津站的劳模了，为什么还是比不上余则成在站长心目中的地位？](https://www.zhihu.com/question/2416589498)
+1. [美国政府暂停对乌克兰军事援助，这意味着什么？对俄乌局势会带来哪些影响？](https://www.zhihu.com/question/13993053637)
 1. [如果你的工作环境都是「自保自私」的人，没人为了「集体」牺牲自我，那这个「集体」会不会垮掉？](https://www.zhihu.com/question/12205519723)
 1. [国产汽车底盘生锈问题很普遍，为什么没有引起国产汽车品牌大厂的重视呢？](https://www.zhihu.com/question/1411270721)
-1. [TES 连续战胜 LPL 五支强队，后续先锋赛能打赢 HLE 吗？](https://www.zhihu.com/question/13846177107)
-1. [苏州马拉松多名跑者在实验中学校门处小便，官方通报强烈谴责，启动调查，如何避免此类情况？](https://www.zhihu.com/question/13929810179)
 1. [饺子导演曾解释申公豹是因为「郁郁不得志、缺乏自信，被逼成『结巴』」，日常生活中这样真的会导致结巴吗？](https://www.zhihu.com/question/12098893724)
+1. [苏州马拉松多名跑者在实验中学校门处小便，官方通报强烈谴责，启动调查，如何避免此类情况？](https://www.zhihu.com/question/13929810179)
 1. [有哪些好书败给了糟糕的翻译？](https://www.zhihu.com/question/36278156)
 1. [威力最大的炸药是什么？是 cl-20 吗?](https://www.zhihu.com/question/647476732)
-1. [「先就业再择业」在 2025 年还适用吗？职业规划应该「务实求生」还是「坚持热爱」？](https://www.zhihu.com/question/13658285176)
 1. [穿越古代，选 10*10*10 立方金属：金、银、铝、铜、铁、铂、钯、铑、钌、铱、锇中选两个，你会怎么选?](https://www.zhihu.com/question/13620268281)
-1. [如何评价《明日方舟》新干员「死芒」？](https://www.zhihu.com/question/13909780761)
+1. [「先就业再择业」在 2025 年还适用吗？职业规划应该「务实求生」还是「坚持热爱」？](https://www.zhihu.com/question/13658285176)
+1. [有什么解压的方式吗？](https://www.zhihu.com/question/9383037344)
+1. [初中孩子，周末早上如果没事，你会 8 点前按时叫他起床吃早餐，还是让他睡到自然醒？](https://www.zhihu.com/question/13640952691)
 1. [哪些植物常常被用作天然染料？可以染成哪些颜色？](https://www.zhihu.com/question/13545331982)
 1. [水至清则无鱼的物理意义是什么？](https://www.zhihu.com/question/12893394441)
-1. [有什么解压的方式吗？](https://www.zhihu.com/question/9383037344)
+1. [为什么大学教的经济学成了统计学？](https://www.zhihu.com/question/13874001016)
 
 ## 热门视频
 
@@ -93,21 +93,21 @@
 1. [苹果发布 iPad 11，搭载 A16 芯片起售价 2999 元，哪些升级值得关注？](https://www.zhihu.com/question/14070686016)
 1. [身体莫名淤青是怎么回事？是否意味着身体可能出现了问题？](https://www.zhihu.com/question/13427820865)
 1. [苹果推出搭载 M3 芯片的 2025 款 iPad Air，起售价 4799 元，哪些亮点值得关注？](https://www.zhihu.com/question/14068872895)
-1. [美国政府暂停对乌克兰军事援助，这意味着什么？对俄乌局势会带来哪些影响？](https://www.zhihu.com/question/13993053637)
 1. [《潜伏》里的李涯都干成天津站的劳模了，为什么还是比不上余则成在站长心目中的地位？](https://www.zhihu.com/question/2416589498)
+1. [美国政府暂停对乌克兰军事援助，这意味着什么？对俄乌局势会带来哪些影响？](https://www.zhihu.com/question/13993053637)
 1. [如果你的工作环境都是「自保自私」的人，没人为了「集体」牺牲自我，那这个「集体」会不会垮掉？](https://www.zhihu.com/question/12205519723)
 1. [国产汽车底盘生锈问题很普遍，为什么没有引起国产汽车品牌大厂的重视呢？](https://www.zhihu.com/question/1411270721)
-1. [TES 连续战胜 LPL 五支强队，后续先锋赛能打赢 HLE 吗？](https://www.zhihu.com/question/13846177107)
-1. [苏州马拉松多名跑者在实验中学校门处小便，官方通报强烈谴责，启动调查，如何避免此类情况？](https://www.zhihu.com/question/13929810179)
 1. [饺子导演曾解释申公豹是因为「郁郁不得志、缺乏自信，被逼成『结巴』」，日常生活中这样真的会导致结巴吗？](https://www.zhihu.com/question/12098893724)
+1. [苏州马拉松多名跑者在实验中学校门处小便，官方通报强烈谴责，启动调查，如何避免此类情况？](https://www.zhihu.com/question/13929810179)
 1. [有哪些好书败给了糟糕的翻译？](https://www.zhihu.com/question/36278156)
 1. [威力最大的炸药是什么？是 cl-20 吗?](https://www.zhihu.com/question/647476732)
-1. [「先就业再择业」在 2025 年还适用吗？职业规划应该「务实求生」还是「坚持热爱」？](https://www.zhihu.com/question/13658285176)
 1. [穿越古代，选 10*10*10 立方金属：金、银、铝、铜、铁、铂、钯、铑、钌、铱、锇中选两个，你会怎么选?](https://www.zhihu.com/question/13620268281)
-1. [如何评价《明日方舟》新干员「死芒」？](https://www.zhihu.com/question/13909780761)
+1. [「先就业再择业」在 2025 年还适用吗？职业规划应该「务实求生」还是「坚持热爱」？](https://www.zhihu.com/question/13658285176)
+1. [有什么解压的方式吗？](https://www.zhihu.com/question/9383037344)
+1. [初中孩子，周末早上如果没事，你会 8 点前按时叫他起床吃早餐，还是让他睡到自然醒？](https://www.zhihu.com/question/13640952691)
 1. [哪些植物常常被用作天然染料？可以染成哪些颜色？](https://www.zhihu.com/question/13545331982)
 1. [水至清则无鱼的物理意义是什么？](https://www.zhihu.com/question/12893394441)
-1. [有什么解压的方式吗？](https://www.zhihu.com/question/9383037344)
+1. [为什么大学教的经济学成了统计学？](https://www.zhihu.com/question/13874001016)
 
 ## 历史归档
 
