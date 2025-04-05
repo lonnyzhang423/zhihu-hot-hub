@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-04-06 06:09:54 +0800`
+`更新时间：2025-04-06 07:10:30 +0800`
 
 ## 热门搜索
 
@@ -58,20 +58,20 @@
 1. [中国联通上线 iPhone eSIM 网站，我们离普及 esim 还有多远？目前存在哪些难点？](https://www.zhihu.com/question/1890353242971530961)
 1. [20 岁中国女生留学第 9 天跳楼身亡，遭恐吓深陷骗局不堪压力，留学生在海外要提高哪些防骗意识？](https://www.zhihu.com/question/1889986059170963534)
 1. [久未联系的前同事，发来信息「兄弟，在吗？」，该如何回复？](https://www.zhihu.com/question/637992366)
-1. [黄霄雲方称通过合法途径获得华晨宇《烟火里的尘埃》的词曲著作权授权，音乐版权的合法授权途径有哪些？](https://www.zhihu.com/question/1890373988326299353)
-1. [美国影视剧中出现过充满魅力的男性华人、华裔形象吗？](https://www.zhihu.com/question/486092829)
-1. [听说月球在以每年四厘米的距离离开地球，这是不是真的？](https://www.zhihu.com/question/299894978)
 1. [为什么商业健身房不给裸露上半身健身?](https://www.zhihu.com/question/10222870876)
-1. [为什么抑郁症患者会「变懒」，如不想洗澡、不愿出门？是意志力问题吗？](https://www.zhihu.com/question/1890035484564112474)
-1. [一个人城府很深有什么样的表现?](https://www.zhihu.com/question/30478446)
 1. [前奥运冠军、著名田径运动员王军霞退役后首次参赛半马跑出 1 小时  35 分，你对该成绩有哪些评价？](https://www.zhihu.com/question/1890112503347912883)
-1. [如何评价《一帘幽梦》中的紫菱？](https://www.zhihu.com/question/65600465)
-1. [如何评价古装剧《雁回时》大结局？](https://www.zhihu.com/question/1890444747027477658)
-1. [你认为《哈利·波特》为什么会火遍全球？](https://www.zhihu.com/question/368599900)
-1. [如何评价周润发的为人？](https://www.zhihu.com/question/298560630)
-1. [每次辅导孩子数学最后都变成吵架，明明错题很简单，为什么孩子就是听不进去？是我的态度问题还是方法错了？](https://www.zhihu.com/question/1890338750531368075)
-1. [亚少赛中国 U17 男足 1-2 不敌沙特，门将滑倒送礼，魏祥鑫补时破门，如何评价这场比赛？](https://www.zhihu.com/question/1891445874887979664)
-1. [如何评价韩剧《苦尽柑来遇见你》大结局？](https://www.zhihu.com/question/1889062257268331342)
+1. [如何评价姚晨、贾静雯主演的医美题材电视剧《以美之名》？](https://www.zhihu.com/question/1889412923639718478)
+1. [北宋为什么宁愿向辽国输岁币，也不愿继续交战？](https://www.zhihu.com/question/11599426285)
+1. [如果有人指责你写的文字是 AI 生成，你该如何进行有效自证？](https://www.zhihu.com/question/14969462056)
+1. [有什么建议给在读研究生？](https://www.zhihu.com/question/1888523625902089665)
+1. [学习《新概念英语》管用吗？](https://www.zhihu.com/question/321632002)
+1. [你的父母有哪些行为让你觉得不能理解？](https://www.zhihu.com/question/67102913)
+1. [美国对等关税落地后，美国国内会面临更高的通胀吗？](https://www.zhihu.com/question/1891042899120054294)
+1. [外交部回应美方加征对等关税，称「保护主义没有出路」，你怎么看？美国坚持贸易保护主义最终损失的会是谁？](https://www.zhihu.com/question/1891157257821053733)
+1. [我为什么没法理解智驾的逻辑？](https://www.zhihu.com/question/1890708698667651381)
+1. [杜邦中国涉嫌违反反垄断法被市场监管总局立案调查，具体情况如何？](https://www.zhihu.com/question/1891582094909600764)
+1. [为什么很多网文大神强调‘前三章定生死’？读者耐心真的只剩 3 章了吗？](https://www.zhihu.com/question/1887561347849490706)
+1. [《天国王朝》伊贝林男爵才 100 户，真有这么少的男爵领吗？](https://www.zhihu.com/question/501886908)
 
 ## 热门视频
 
@@ -91,20 +91,20 @@
 1. [中国联通上线 iPhone eSIM 网站，我们离普及 esim 还有多远？目前存在哪些难点？](https://www.zhihu.com/question/1890353242971530961)
 1. [20 岁中国女生留学第 9 天跳楼身亡，遭恐吓深陷骗局不堪压力，留学生在海外要提高哪些防骗意识？](https://www.zhihu.com/question/1889986059170963534)
 1. [久未联系的前同事，发来信息「兄弟，在吗？」，该如何回复？](https://www.zhihu.com/question/637992366)
-1. [黄霄雲方称通过合法途径获得华晨宇《烟火里的尘埃》的词曲著作权授权，音乐版权的合法授权途径有哪些？](https://www.zhihu.com/question/1890373988326299353)
-1. [美国影视剧中出现过充满魅力的男性华人、华裔形象吗？](https://www.zhihu.com/question/486092829)
-1. [听说月球在以每年四厘米的距离离开地球，这是不是真的？](https://www.zhihu.com/question/299894978)
 1. [为什么商业健身房不给裸露上半身健身?](https://www.zhihu.com/question/10222870876)
-1. [为什么抑郁症患者会「变懒」，如不想洗澡、不愿出门？是意志力问题吗？](https://www.zhihu.com/question/1890035484564112474)
-1. [一个人城府很深有什么样的表现?](https://www.zhihu.com/question/30478446)
 1. [前奥运冠军、著名田径运动员王军霞退役后首次参赛半马跑出 1 小时  35 分，你对该成绩有哪些评价？](https://www.zhihu.com/question/1890112503347912883)
-1. [如何评价《一帘幽梦》中的紫菱？](https://www.zhihu.com/question/65600465)
-1. [如何评价古装剧《雁回时》大结局？](https://www.zhihu.com/question/1890444747027477658)
-1. [你认为《哈利·波特》为什么会火遍全球？](https://www.zhihu.com/question/368599900)
-1. [如何评价周润发的为人？](https://www.zhihu.com/question/298560630)
-1. [每次辅导孩子数学最后都变成吵架，明明错题很简单，为什么孩子就是听不进去？是我的态度问题还是方法错了？](https://www.zhihu.com/question/1890338750531368075)
-1. [亚少赛中国 U17 男足 1-2 不敌沙特，门将滑倒送礼，魏祥鑫补时破门，如何评价这场比赛？](https://www.zhihu.com/question/1891445874887979664)
-1. [如何评价韩剧《苦尽柑来遇见你》大结局？](https://www.zhihu.com/question/1889062257268331342)
+1. [如何评价姚晨、贾静雯主演的医美题材电视剧《以美之名》？](https://www.zhihu.com/question/1889412923639718478)
+1. [北宋为什么宁愿向辽国输岁币，也不愿继续交战？](https://www.zhihu.com/question/11599426285)
+1. [如果有人指责你写的文字是 AI 生成，你该如何进行有效自证？](https://www.zhihu.com/question/14969462056)
+1. [有什么建议给在读研究生？](https://www.zhihu.com/question/1888523625902089665)
+1. [学习《新概念英语》管用吗？](https://www.zhihu.com/question/321632002)
+1. [你的父母有哪些行为让你觉得不能理解？](https://www.zhihu.com/question/67102913)
+1. [美国对等关税落地后，美国国内会面临更高的通胀吗？](https://www.zhihu.com/question/1891042899120054294)
+1. [外交部回应美方加征对等关税，称「保护主义没有出路」，你怎么看？美国坚持贸易保护主义最终损失的会是谁？](https://www.zhihu.com/question/1891157257821053733)
+1. [我为什么没法理解智驾的逻辑？](https://www.zhihu.com/question/1890708698667651381)
+1. [杜邦中国涉嫌违反反垄断法被市场监管总局立案调查，具体情况如何？](https://www.zhihu.com/question/1891582094909600764)
+1. [为什么很多网文大神强调‘前三章定生死’？读者耐心真的只剩 3 章了吗？](https://www.zhihu.com/question/1887561347849490706)
+1. [《天国王朝》伊贝林男爵才 100 户，真有这么少的男爵领吗？](https://www.zhihu.com/question/501886908)
 
 ## 历史归档
 
