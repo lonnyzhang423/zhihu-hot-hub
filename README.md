@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-04-17 00:14:32 +0800`
+`更新时间：2025-04-17 01:10:26 +0800`
 
 ## 热门搜索
 
@@ -25,8 +25,6 @@
 1. [12306崩了](https://www.zhihu.com/search?q=12306%E5%B4%A9%E4%BA%86)
 1. [为什么日本出不了 DeepSeek](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%97%A5%E6%9C%AC%E5%87%BA%E4%B8%8D%E4%BA%86%20DeepSeek)
 1. [体制内需不需要藏锋露拙](https://www.zhihu.com/search?q=%E4%BD%93%E5%88%B6%E5%86%85%E9%9C%80%E4%B8%8D%E9%9C%80%E8%A6%81%E8%97%8F%E9%94%8B%E9%9C%B2%E6%8B%99)
-1. [刘强东回应王莆中](https://www.zhihu.com/search?q=%E5%88%98%E5%BC%BA%E4%B8%9C%E5%9B%9E%E5%BA%94%E7%8E%8B%E8%8E%86%E4%B8%AD)
-1. [刘强东回应美团高管言论：不打口水仗](https://www.zhihu.com/search?q=%E5%88%98%E5%BC%BA%E4%B8%9C%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%9B%A2%E9%AB%98%E7%AE%A1%E8%A8%80%E8%AE%BA%EF%BC%9A%E4%B8%8D%E6%89%93%E5%8F%A3%E6%B0%B4%E4%BB%97)
 1. [临近退休遭解聘老师退休前工资2000](https://www.zhihu.com/search?q=%E4%B8%B4%E8%BF%91%E9%80%80%E4%BC%91%E9%81%AD%E8%A7%A3%E8%81%98%E8%80%81%E5%B8%88%E9%80%80%E4%BC%91%E5%89%8D%E5%B7%A5%E8%B5%842000)
 1. [任教31年教师临近退休遭解聘](https://www.zhihu.com/search?q=%E4%BB%BB%E6%95%9931%E5%B9%B4%E6%95%99%E5%B8%88%E4%B8%B4%E8%BF%91%E9%80%80%E4%BC%91%E9%81%AD%E8%A7%A3%E8%81%98)
 1. [姚晨吐槽演员为电影宣传唱歌跳舞](https://www.zhihu.com/search?q=%E5%A7%9A%E6%99%A8%E5%90%90%E6%A7%BD%E6%BC%94%E5%91%98%E4%B8%BA%E7%94%B5%E5%BD%B1%E5%AE%A3%E4%BC%A0%E5%94%B1%E6%AD%8C%E8%B7%B3%E8%88%9E)
@@ -39,6 +37,7 @@
 1. [白宫拟大砍 NASA 科学经费](https://www.zhihu.com/search?q=%E7%99%BD%E5%AE%AB%E6%8B%9F%E5%A4%A7%E7%A0%8D%20NASA%20%E7%A7%91%E5%AD%A6%E7%BB%8F%E8%B4%B9)
 1. [为什么刘强东开饭店会被坑](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%88%98%E5%BC%BA%E4%B8%9C%E5%BC%80%E9%A5%AD%E5%BA%97%E4%BC%9A%E8%A2%AB%E5%9D%91)
 1. [为什么有些侧面描写比直接抒情更虐心](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E4%BA%9B%E4%BE%A7%E9%9D%A2%E6%8F%8F%E5%86%99%E6%AF%94%E7%9B%B4%E6%8E%A5%E6%8A%92%E6%83%85%E6%9B%B4%E8%99%90%E5%BF%83)
+1. [医院开设拒绝上学门诊反映了哪些问题](https://www.zhihu.com/search?q=%E5%8C%BB%E9%99%A2%E5%BC%80%E8%AE%BE%E6%8B%92%E7%BB%9D%E4%B8%8A%E5%AD%A6%E9%97%A8%E8%AF%8A%E5%8F%8D%E6%98%A0%E4%BA%86%E5%93%AA%E4%BA%9B%E9%97%AE%E9%A2%98)
 
 ## 热门话题
 
@@ -49,29 +48,29 @@
 1. [如何看待网友「蟹不肉」在妻子病亡后殉情离世？面对亲人离世该怎样走出悲痛？](https://www.zhihu.com/question/1894688625788163796)
 1. [飞机能否在一个巨大的跑步机上降落？以减少跑道长度，比如安装在航母上?](https://www.zhihu.com/question/1895266599809831347)
 1. [2024 年新能源车险承保亏损 57 亿元，超过 100% 赔付率的车系有 137 个，新能源车险前景如何？](https://www.zhihu.com/question/1895436271557505096)
-1. [网友建议西安市学校取消用电子屏上课，回归黑板，这合理吗？使用电子屏会对学生视力造成影响吗？](https://www.zhihu.com/question/1895772694135403587)
-1. [多位跑友称江阴半马实际距离超标，中国田协初步认定属实，这反映出哪些问题？是哪个环节出了差错？](https://www.zhihu.com/question/1895518255554209420)
 1. [京东本季度将招收不低于五万名全职外卖员，全额足额缴纳五险一金，如何看待京东此举？会有外卖员转换平台吗？](https://www.zhihu.com/question/1895533580416970892)
 1. [月收入一万的人配买十八万左右的车吗？](https://www.zhihu.com/question/664294712)
-1. [2025 年澳门世界杯，国乒老将林高远小组总局分 5：6 不敌户上隼辅止步男单小组赛，怎么评价这一场比赛？](https://www.zhihu.com/question/1895917578532157327)
+1. [多位跑友称江阴半马实际距离超标，中国田协初步认定属实，这反映出哪些问题？是哪个环节出了差错？](https://www.zhihu.com/question/1895518255554209420)
+1. [网友建议西安市学校取消用电子屏上课，回归黑板，这合理吗？使用电子屏会对学生视力造成影响吗？](https://www.zhihu.com/question/1895772694135403587)
 1. [东方不败已是内定教主，为什么还要提前篡位？](https://www.zhihu.com/question/26609759)
 1. [诗仙李白的一生很辉煌，他有什么遗憾吗？](https://www.zhihu.com/question/1895256364604974042)
+1. [2025 年澳门世界杯，国乒老将林高远小组总局分 5：6 不敌户上隼辅止步男单小组赛，怎么评价这一场比赛？](https://www.zhihu.com/question/1895917578532157327)
 1. [2025 年澳门乒乓球世界杯女单小组赛，王艺迪 1：3 不敌袁嘉楠，怎么评价这一场比赛？](https://www.zhihu.com/question/1895562079584355265)
-1. [一家三口适合住大房子还是小房子？](https://www.zhihu.com/question/1894274984572064008)
+1. [为什么中国古代没有演变出来四轮马车？](https://www.zhihu.com/question/20361708)
 1. [智人出非洲后灭掉了其他大陆绝大多数大型动物，为什么非洲还留了大象、河马和长颈鹿没灭？](https://www.zhihu.com/question/1890531637936247394)
+1. [《流浪地球 3》正式发布自主研发的专属 AI 问答应用 WEi，对国产科幻电影发展将有哪些影响？](https://www.zhihu.com/question/1895478531301008725)
+1. [一家三口适合住大房子还是小房子？](https://www.zhihu.com/question/1894274984572064008)
+1. [NBA 现在是否存在巨星断层，为什么？](https://www.zhihu.com/question/25258761)
 1. [什么叫代马输卒？纯人力配置下，步兵旅 / 团应该编制什么样的火炮？](https://www.zhihu.com/question/10757783760)
-1. [如果家里没人帮带孩子，你的工作又很好，你会为了孩子放弃工作吗？](https://www.zhihu.com/question/1894113089466656288)
 1. [眼镜没发明出来之前，眼镜蛇叫什么？](https://www.zhihu.com/question/1888387205346616117)
+1. [如果家里没人帮带孩子，你的工作又很好，你会为了孩子放弃工作吗？](https://www.zhihu.com/question/1894113089466656288)
+1. [为什么很多玩《英雄联盟》的男生都喜欢卡莎这名英雄？](https://www.zhihu.com/question/365875475)
 1. [你的城市在春天有哪些漂亮的花分享？](https://www.zhihu.com/question/13512164456)
-1. [诺贝尔文学奖得主略萨去世，享年 89 岁，如何评价这位作家？你对他的哪些作品印象深刻？](https://www.zhihu.com/question/1895071501746673165)
+1. [既然水里面含有氧气，为什么人类不能长出腮来像鱼儿一样在水里呼吸？](https://www.zhihu.com/question/662361734)
 1. [2025 软科中国大学排名公布，中国大学排名格局有何变化？有哪些大学的名次出乎意料？](https://www.zhihu.com/question/1895448004594460471)
-1. [都是些重复劳动，上班的意义是什么？](https://www.zhihu.com/question/1891406532127733000)
+1. [诺贝尔文学奖得主略萨去世，享年 89 岁，如何评价这位作家？你对他的哪些作品印象深刻？](https://www.zhihu.com/question/1895071501746673165)
 1. [如何看待 iPhone 16 和 iPhone 16 Plus 依然采用 60Hz 刷新率的屏幕？](https://www.zhihu.com/question/665832611)
-1. [人际关系中的界限有没有一个简单并有效的标准呢？](https://www.zhihu.com/question/1891118740223009512)
 1. [刘强东为何要强势进入外卖行业，难道仅仅是为了与王兴扳手腕吗？这背后还有哪些商业考量？](https://www.zhihu.com/question/12898372957)
-1. [如果让你从 NBA 历史夺冠队伍中挑选 5 个二当家首发，你会怎么搭配？球队能夺冠吗？](https://www.zhihu.com/question/1894490126849122803)
-1. [林冲为何要帮助李小二，并出钱让他可以在沧州谋生？这反映了什么？](https://www.zhihu.com/question/624366477)
-1. [为什么人类需要睡觉？](https://www.zhihu.com/question/418342231)
 
 ## 热门视频
 
@@ -82,29 +81,29 @@
 1. [如何看待网友「蟹不肉」在妻子病亡后殉情离世？面对亲人离世该怎样走出悲痛？](https://www.zhihu.com/question/1894688625788163796)
 1. [飞机能否在一个巨大的跑步机上降落？以减少跑道长度，比如安装在航母上?](https://www.zhihu.com/question/1895266599809831347)
 1. [2024 年新能源车险承保亏损 57 亿元，超过 100% 赔付率的车系有 137 个，新能源车险前景如何？](https://www.zhihu.com/question/1895436271557505096)
-1. [网友建议西安市学校取消用电子屏上课，回归黑板，这合理吗？使用电子屏会对学生视力造成影响吗？](https://www.zhihu.com/question/1895772694135403587)
-1. [多位跑友称江阴半马实际距离超标，中国田协初步认定属实，这反映出哪些问题？是哪个环节出了差错？](https://www.zhihu.com/question/1895518255554209420)
 1. [京东本季度将招收不低于五万名全职外卖员，全额足额缴纳五险一金，如何看待京东此举？会有外卖员转换平台吗？](https://www.zhihu.com/question/1895533580416970892)
 1. [月收入一万的人配买十八万左右的车吗？](https://www.zhihu.com/question/664294712)
-1. [2025 年澳门世界杯，国乒老将林高远小组总局分 5：6 不敌户上隼辅止步男单小组赛，怎么评价这一场比赛？](https://www.zhihu.com/question/1895917578532157327)
+1. [多位跑友称江阴半马实际距离超标，中国田协初步认定属实，这反映出哪些问题？是哪个环节出了差错？](https://www.zhihu.com/question/1895518255554209420)
+1. [网友建议西安市学校取消用电子屏上课，回归黑板，这合理吗？使用电子屏会对学生视力造成影响吗？](https://www.zhihu.com/question/1895772694135403587)
 1. [东方不败已是内定教主，为什么还要提前篡位？](https://www.zhihu.com/question/26609759)
 1. [诗仙李白的一生很辉煌，他有什么遗憾吗？](https://www.zhihu.com/question/1895256364604974042)
+1. [2025 年澳门世界杯，国乒老将林高远小组总局分 5：6 不敌户上隼辅止步男单小组赛，怎么评价这一场比赛？](https://www.zhihu.com/question/1895917578532157327)
 1. [2025 年澳门乒乓球世界杯女单小组赛，王艺迪 1：3 不敌袁嘉楠，怎么评价这一场比赛？](https://www.zhihu.com/question/1895562079584355265)
-1. [一家三口适合住大房子还是小房子？](https://www.zhihu.com/question/1894274984572064008)
+1. [为什么中国古代没有演变出来四轮马车？](https://www.zhihu.com/question/20361708)
 1. [智人出非洲后灭掉了其他大陆绝大多数大型动物，为什么非洲还留了大象、河马和长颈鹿没灭？](https://www.zhihu.com/question/1890531637936247394)
+1. [《流浪地球 3》正式发布自主研发的专属 AI 问答应用 WEi，对国产科幻电影发展将有哪些影响？](https://www.zhihu.com/question/1895478531301008725)
+1. [一家三口适合住大房子还是小房子？](https://www.zhihu.com/question/1894274984572064008)
+1. [NBA 现在是否存在巨星断层，为什么？](https://www.zhihu.com/question/25258761)
 1. [什么叫代马输卒？纯人力配置下，步兵旅 / 团应该编制什么样的火炮？](https://www.zhihu.com/question/10757783760)
-1. [如果家里没人帮带孩子，你的工作又很好，你会为了孩子放弃工作吗？](https://www.zhihu.com/question/1894113089466656288)
 1. [眼镜没发明出来之前，眼镜蛇叫什么？](https://www.zhihu.com/question/1888387205346616117)
+1. [如果家里没人帮带孩子，你的工作又很好，你会为了孩子放弃工作吗？](https://www.zhihu.com/question/1894113089466656288)
+1. [为什么很多玩《英雄联盟》的男生都喜欢卡莎这名英雄？](https://www.zhihu.com/question/365875475)
 1. [你的城市在春天有哪些漂亮的花分享？](https://www.zhihu.com/question/13512164456)
-1. [诺贝尔文学奖得主略萨去世，享年 89 岁，如何评价这位作家？你对他的哪些作品印象深刻？](https://www.zhihu.com/question/1895071501746673165)
+1. [既然水里面含有氧气，为什么人类不能长出腮来像鱼儿一样在水里呼吸？](https://www.zhihu.com/question/662361734)
 1. [2025 软科中国大学排名公布，中国大学排名格局有何变化？有哪些大学的名次出乎意料？](https://www.zhihu.com/question/1895448004594460471)
-1. [都是些重复劳动，上班的意义是什么？](https://www.zhihu.com/question/1891406532127733000)
+1. [诺贝尔文学奖得主略萨去世，享年 89 岁，如何评价这位作家？你对他的哪些作品印象深刻？](https://www.zhihu.com/question/1895071501746673165)
 1. [如何看待 iPhone 16 和 iPhone 16 Plus 依然采用 60Hz 刷新率的屏幕？](https://www.zhihu.com/question/665832611)
-1. [人际关系中的界限有没有一个简单并有效的标准呢？](https://www.zhihu.com/question/1891118740223009512)
 1. [刘强东为何要强势进入外卖行业，难道仅仅是为了与王兴扳手腕吗？这背后还有哪些商业考量？](https://www.zhihu.com/question/12898372957)
-1. [如果让你从 NBA 历史夺冠队伍中挑选 5 个二当家首发，你会怎么搭配？球队能夺冠吗？](https://www.zhihu.com/question/1894490126849122803)
-1. [林冲为何要帮助李小二，并出钱让他可以在沧州谋生？这反映了什么？](https://www.zhihu.com/question/624366477)
-1. [为什么人类需要睡觉？](https://www.zhihu.com/question/418342231)
 
 ## 历史归档
 
