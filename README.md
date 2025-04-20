@@ -11,19 +11,94 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-04-20 12:27:21 +0800`
+`更新时间：2025-04-20 13:23:44 +0800`
 
 ## 热门搜索
 
-暂无数据
+1. [多家银行下调存款利率](https://www.zhihu.com/search?q=%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E4%B8%8B%E8%B0%83%E5%AD%98%E6%AC%BE%E5%88%A9%E7%8E%87)
+1. [王楚钦vs雨果](https://www.zhihu.com/search?q=%E7%8E%8B%E6%A5%9A%E9%92%A6vs%E9%9B%A8%E6%9E%9C)
+1. [孙颖莎vs陈幸同](https://www.zhihu.com/search?q=%E5%AD%99%E9%A2%96%E8%8E%8Evs%E9%99%88%E5%B9%B8%E5%90%8C)
+1. [王楚钦晋级八强](https://www.zhihu.com/search?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%99%8B%E7%BA%A7%E5%85%AB%E5%BC%BA)
+1. [湖人vs森林狼](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BAvs%E6%A3%AE%E6%9E%97%E7%8B%BC)
+1. [被惊艳到是一种什么体验](https://www.zhihu.com/search?q=%E8%A2%AB%E6%83%8A%E8%89%B3%E5%88%B0%E6%98%AF%E4%B8%80%E7%A7%8D%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C)
+1. [中国市场对英伟达有多重要](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA%E5%AF%B9%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%9C%89%E5%A4%9A%E9%87%8D%E8%A6%81)
+1. [王者荣耀联动哪吒](https://www.zhihu.com/search?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E8%81%94%E5%8A%A8%E5%93%AA%E5%90%92)
+1. [玉珠峰南坡3名登山者已确认死亡](https://www.zhihu.com/search?q=%E7%8E%89%E7%8F%A0%E5%B3%B0%E5%8D%97%E5%9D%A13%E5%90%8D%E7%99%BB%E5%B1%B1%E8%80%85%E5%B7%B2%E7%A1%AE%E8%AE%A4%E6%AD%BB%E4%BA%A1)
+1. [湖南一医院误把内部用人需求备注公开发布](https://www.zhihu.com/search?q=%E6%B9%96%E5%8D%97%E4%B8%80%E5%8C%BB%E9%99%A2%E8%AF%AF%E6%8A%8A%E5%86%85%E9%83%A8%E7%94%A8%E4%BA%BA%E9%9C%80%E6%B1%82%E5%A4%87%E6%B3%A8%E5%85%AC%E5%BC%80%E5%8F%91%E5%B8%83)
+1. [三星李在镕痛失韩国首富](https://www.zhihu.com/search?q=%E4%B8%89%E6%98%9F%E6%9D%8E%E5%9C%A8%E9%95%95%E7%97%9B%E5%A4%B1%E9%9F%A9%E5%9B%BD%E9%A6%96%E5%AF%8C)
+1. [62岁叶童遭疯狂粉丝拽下车](https://www.zhihu.com/search?q=62%E5%B2%81%E5%8F%B6%E7%AB%A5%E9%81%AD%E7%96%AF%E7%8B%82%E7%B2%89%E4%B8%9D%E6%8B%BD%E4%B8%8B%E8%BD%A6)
+1. [哈佛大学拒绝整改](https://www.zhihu.com/search?q=%E5%93%88%E4%BD%9B%E5%A4%A7%E5%AD%A6%E6%8B%92%E7%BB%9D%E6%95%B4%E6%94%B9)
+1. [传字节整合ai探索团队](https://www.zhihu.com/search?q=%E4%BC%A0%E5%AD%97%E8%8A%82%E6%95%B4%E5%90%88ai%E6%8E%A2%E7%B4%A2%E5%9B%A2%E9%98%9F)
+1. [湖南一300年银杏遭校外人员盗砍](https://www.zhihu.com/search?q=%E6%B9%96%E5%8D%97%E4%B8%80300%E5%B9%B4%E9%93%B6%E6%9D%8F%E9%81%AD%E6%A0%A1%E5%A4%96%E4%BA%BA%E5%91%98%E7%9B%97%E7%A0%8D)
+1. [认养一头牛广告被指嘲讽打工人](https://www.zhihu.com/search?q=%E8%AE%A4%E5%85%BB%E4%B8%80%E5%A4%B4%E7%89%9B%E5%B9%BF%E5%91%8A%E8%A2%AB%E6%8C%87%E5%98%B2%E8%AE%BD%E6%89%93%E5%B7%A5%E4%BA%BA)
+1. [为何刘强东要强势进入外卖行业](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BD%95%E5%88%98%E5%BC%BA%E4%B8%9C%E8%A6%81%E5%BC%BA%E5%8A%BF%E8%BF%9B%E5%85%A5%E5%A4%96%E5%8D%96%E8%A1%8C%E4%B8%9A)
+1. [如何看待男子在妻子病亡后殉情离世](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E7%94%B7%E5%AD%90%E5%9C%A8%E5%A6%BB%E5%AD%90%E7%97%85%E4%BA%A1%E5%90%8E%E6%AE%89%E6%83%85%E7%A6%BB%E4%B8%96)
 
 ## 热门话题
 
-暂无数据
+1. [国产 AI 芯片龙头寒武纪，一季度营收大涨 4230%，净利扭亏为盈，如何解读这一财务转折？](https://www.zhihu.com/question/1896927865347502587)
+1. [如果我打架时可以向前方 3 米范围内每秒喷射 30 公斤零下 268 度的液氦，我能打过巅峰张伟丽吗？](https://www.zhihu.com/question/1893318608395936163)
+1. [年轻人抛弃外卖，按小时请阿姨上门做饭解决一日三餐，如何看待这一新型生活方式？「阿姨的饭」为何吸引人？](https://www.zhihu.com/question/1896530518339719449)
+1. [认养一头牛广告被质疑讽刺打工人，公司回应是致敬 BOSS 直聘，如何评价此事？](https://www.zhihu.com/question/1896165436770469495)
+1. [为什么很多欧洲的面包又干又硬还没有味道，中国做出来的面包相对松软？这种饮食文化是如何形成的？](https://www.zhihu.com/question/1895488918331319781)
+1. [网传《封神 2》票房失利亏损额超 8 亿元，出品方北京文化回应「不实信息」，你还看好第三部的前景吗？](https://www.zhihu.com/question/1896977091288850938)
+1. [深圳一女子伸腿强行阻止高铁关门，被深圳铁路警方行政拘留，阻挡列车关门有哪些隐患？女子将面临哪些处罚？](https://www.zhihu.com/question/1896981980962353227)
+1. [如果评价 24-25 赛季，NBA 季后赛西部首轮湖人 VS 森林狼这场比赛？](https://www.zhihu.com/question/1897075938107316005)
+1. [汽车博主称小米 SU7 订单「延期」后被作废，小米高管回应「自身原因未提车，已构成违约」，这种条款合理吗？](https://www.zhihu.com/question/1896285158291780054)
+1. [为什么保罗·马尔蒂尼被公认为历史第一左后卫？](https://www.zhihu.com/question/445369653)
+1. [蔚来萤火虫上市，这次 11.98 万起售能爆单了么？还会有人吐槽萤火虫丑吗？](https://www.zhihu.com/question/1897034381404635674)
+1. [目前为止判断一个数是否为素数的最快方法是什么？](https://www.zhihu.com/question/512360756)
+1. [普京宣布临时停火 30 小时，将对俄乌局势有哪些影响？是否有利于双方和谈？](https://www.zhihu.com/question/1897050910733070664)
+1. [董宇辉获得人民文学奖的传播贡献奖，他对文学传播做出了哪些贡献？](https://www.zhihu.com/question/1896941503760277510)
+1. [头部喜剧演员为什么会断层？](https://www.zhihu.com/question/1895576313286324877)
+1. [4 月 19 日孙颖莎 4-1 战胜陈幸同，晋级世界杯决赛，如何评价本场比赛？](https://www.zhihu.com/question/1897012416061076168)
+1. [50 年超长期特别国债又来了，为何要发超长期？降准降息何时落地?](https://www.zhihu.com/question/1896846135957644613)
+1. [24-25 赛季 NBA 季后赛快船 110:112 掘金，如何评价这场比赛？](https://www.zhihu.com/question/1897134902698283771)
+1. [为什么感觉每当提到古代的天才，脑海中关于我国的就都是文学天才，而关于西方的却是数学天才？](https://www.zhihu.com/question/656011336)
+1. [高中生上课的时候是应该听课还是刷题？](https://www.zhihu.com/question/421932523)
+1. [阿维塔 06 纳米水离子空调是否为营销噱头？](https://www.zhihu.com/question/1896578791700153514)
+1. [开拓者怎样才能掳走大黑塔？](https://www.zhihu.com/question/1894094297533486914)
+1. [代码写得像诗一样优雅，是什么感觉？](https://www.zhihu.com/question/12593935758)
+1. [哲学入门者应该先读原典还是先读解读本？哪种方式更容易入门？](https://www.zhihu.com/question/1894017392042013747)
+1. [如何评价电影《名侦探柯南：独眼的残像》（M28）？](https://www.zhihu.com/question/1895857491901927551)
+1. [研究生和博士算校友吗？](https://www.zhihu.com/question/287340031)
+1. [如何评价谷歌的 Gemini flash 2.5 模型？](https://www.zhihu.com/question/1894500578907903958)
+1. [关于 80 年代，你有哪些美好回忆？](https://www.zhihu.com/question/1895181019327465264)
+1. [从一个人的手机锁屏、主题与壁纸就能看出一个人的性格吗？](https://www.zhihu.com/question/302679098)
+1. [勇士队的库里、巴特勒、格林今年就想冲击总冠军，会不会太着急了？](https://www.zhihu.com/question/1895839562317660504)
 
 ## 热门视频
 
-暂无数据
+1. [国产 AI 芯片龙头寒武纪，一季度营收大涨 4230%，净利扭亏为盈，如何解读这一财务转折？](https://www.zhihu.com/question/1896927865347502587)
+1. [如果我打架时可以向前方 3 米范围内每秒喷射 30 公斤零下 268 度的液氦，我能打过巅峰张伟丽吗？](https://www.zhihu.com/question/1893318608395936163)
+1. [年轻人抛弃外卖，按小时请阿姨上门做饭解决一日三餐，如何看待这一新型生活方式？「阿姨的饭」为何吸引人？](https://www.zhihu.com/question/1896530518339719449)
+1. [认养一头牛广告被质疑讽刺打工人，公司回应是致敬 BOSS 直聘，如何评价此事？](https://www.zhihu.com/question/1896165436770469495)
+1. [为什么很多欧洲的面包又干又硬还没有味道，中国做出来的面包相对松软？这种饮食文化是如何形成的？](https://www.zhihu.com/question/1895488918331319781)
+1. [网传《封神 2》票房失利亏损额超 8 亿元，出品方北京文化回应「不实信息」，你还看好第三部的前景吗？](https://www.zhihu.com/question/1896977091288850938)
+1. [深圳一女子伸腿强行阻止高铁关门，被深圳铁路警方行政拘留，阻挡列车关门有哪些隐患？女子将面临哪些处罚？](https://www.zhihu.com/question/1896981980962353227)
+1. [如果评价 24-25 赛季，NBA 季后赛西部首轮湖人 VS 森林狼这场比赛？](https://www.zhihu.com/question/1897075938107316005)
+1. [汽车博主称小米 SU7 订单「延期」后被作废，小米高管回应「自身原因未提车，已构成违约」，这种条款合理吗？](https://www.zhihu.com/question/1896285158291780054)
+1. [为什么保罗·马尔蒂尼被公认为历史第一左后卫？](https://www.zhihu.com/question/445369653)
+1. [蔚来萤火虫上市，这次 11.98 万起售能爆单了么？还会有人吐槽萤火虫丑吗？](https://www.zhihu.com/question/1897034381404635674)
+1. [目前为止判断一个数是否为素数的最快方法是什么？](https://www.zhihu.com/question/512360756)
+1. [普京宣布临时停火 30 小时，将对俄乌局势有哪些影响？是否有利于双方和谈？](https://www.zhihu.com/question/1897050910733070664)
+1. [董宇辉获得人民文学奖的传播贡献奖，他对文学传播做出了哪些贡献？](https://www.zhihu.com/question/1896941503760277510)
+1. [头部喜剧演员为什么会断层？](https://www.zhihu.com/question/1895576313286324877)
+1. [4 月 19 日孙颖莎 4-1 战胜陈幸同，晋级世界杯决赛，如何评价本场比赛？](https://www.zhihu.com/question/1897012416061076168)
+1. [50 年超长期特别国债又来了，为何要发超长期？降准降息何时落地?](https://www.zhihu.com/question/1896846135957644613)
+1. [24-25 赛季 NBA 季后赛快船 110:112 掘金，如何评价这场比赛？](https://www.zhihu.com/question/1897134902698283771)
+1. [为什么感觉每当提到古代的天才，脑海中关于我国的就都是文学天才，而关于西方的却是数学天才？](https://www.zhihu.com/question/656011336)
+1. [高中生上课的时候是应该听课还是刷题？](https://www.zhihu.com/question/421932523)
+1. [阿维塔 06 纳米水离子空调是否为营销噱头？](https://www.zhihu.com/question/1896578791700153514)
+1. [开拓者怎样才能掳走大黑塔？](https://www.zhihu.com/question/1894094297533486914)
+1. [代码写得像诗一样优雅，是什么感觉？](https://www.zhihu.com/question/12593935758)
+1. [哲学入门者应该先读原典还是先读解读本？哪种方式更容易入门？](https://www.zhihu.com/question/1894017392042013747)
+1. [如何评价电影《名侦探柯南：独眼的残像》（M28）？](https://www.zhihu.com/question/1895857491901927551)
+1. [研究生和博士算校友吗？](https://www.zhihu.com/question/287340031)
+1. [如何评价谷歌的 Gemini flash 2.5 模型？](https://www.zhihu.com/question/1894500578907903958)
+1. [关于 80 年代，你有哪些美好回忆？](https://www.zhihu.com/question/1895181019327465264)
+1. [从一个人的手机锁屏、主题与壁纸就能看出一个人的性格吗？](https://www.zhihu.com/question/302679098)
+1. [勇士队的库里、巴特勒、格林今年就想冲击总冠军，会不会太着急了？](https://www.zhihu.com/question/1895839562317660504)
 
 ## 历史归档
 
