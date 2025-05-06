@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-05-07 00:14:17 +0800`
+`更新时间：2025-05-07 01:11:09 +0800`
 
 ## 热门搜索
 
-1. [胖东来玉石检查结果公布](https://www.zhihu.com/search?q=%E8%83%96%E4%B8%9C%E6%9D%A5%E7%8E%89%E7%9F%B3%E6%A3%80%E6%9F%A5%E7%BB%93%E6%9E%9C%E5%85%AC%E5%B8%83)
-1. [五一假期数据出炉](https://www.zhihu.com/search?q=%E4%BA%94%E4%B8%80%E5%81%87%E6%9C%9F%E6%95%B0%E6%8D%AE%E5%87%BA%E7%82%89)
+1. [巴菲特股东大会](https://www.zhihu.com/search?q=%E5%B7%B4%E8%8F%B2%E7%89%B9%E8%82%A1%E4%B8%9C%E5%A4%A7%E4%BC%9A)
+1. [为什么中国要用五孔插座](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%AD%E5%9B%BD%E8%A6%81%E7%94%A8%E4%BA%94%E5%AD%94%E6%8F%92%E5%BA%A7)
 1. [人的大脑会不会出现「过拟合」病](https://www.zhihu.com/search?q=%E4%BA%BA%E7%9A%84%E5%A4%A7%E8%84%91%E4%BC%9A%E4%B8%8D%E4%BC%9A%E5%87%BA%E7%8E%B0%E3%80%8C%E8%BF%87%E6%8B%9F%E5%90%88%E3%80%8D%E7%97%85)
 1. [知乎旧物节](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%E6%97%A7%E7%89%A9%E8%8A%82)
 1. [寻找穿越时光的旧物](https://www.zhihu.com/search?q=%E5%AF%BB%E6%89%BE%E7%A9%BF%E8%B6%8A%E6%97%B6%E5%85%89%E7%9A%84%E6%97%A7%E7%89%A9)
@@ -31,10 +31,9 @@
 1. [视障人士携带导盲犬入住全季被拒](https://www.zhihu.com/search?q=%E8%A7%86%E9%9A%9C%E4%BA%BA%E5%A3%AB%E6%90%BA%E5%B8%A6%E5%AF%BC%E7%9B%B2%E7%8A%AC%E5%85%A5%E4%BD%8F%E5%85%A8%E5%AD%A3%E8%A2%AB%E6%8B%92)
 1. [国羽苏杯四连冠](https://www.zhihu.com/search?q=%E5%9B%BD%E7%BE%BD%E8%8B%8F%E6%9D%AF%E5%9B%9B%E8%BF%9E%E5%86%A0)
 1. [国羽苏迪曼杯夺冠 ](https://www.zhihu.com/search?q=%E5%9B%BD%E7%BE%BD%E8%8B%8F%E8%BF%AA%E6%9B%BC%E6%9D%AF%E5%A4%BA%E5%86%A0%20)
-1. [消息称欧盟2027年底前禁止进口俄天然气](https://www.zhihu.com/search?q=%E6%B6%88%E6%81%AF%E7%A7%B0%E6%AC%A7%E7%9B%9F2027%E5%B9%B4%E5%BA%95%E5%89%8D%E7%A6%81%E6%AD%A2%E8%BF%9B%E5%8F%A3%E4%BF%84%E5%A4%A9%E7%84%B6%E6%B0%94)
+1. [贵州游船侧翻事故致 70 人落水](https://www.zhihu.com/search?q=%E8%B4%B5%E5%B7%9E%E6%B8%B8%E8%88%B9%E4%BE%A7%E7%BF%BB%E4%BA%8B%E6%95%85%E8%87%B4%2070%20%E4%BA%BA%E8%90%BD%E6%B0%B4)
 1. [杭州灵隐寺小卖部年租金 260 万](https://www.zhihu.com/search?q=%E6%9D%AD%E5%B7%9E%E7%81%B5%E9%9A%90%E5%AF%BA%E5%B0%8F%E5%8D%96%E9%83%A8%E5%B9%B4%E7%A7%9F%E9%87%91%20260%20%E4%B8%87)
-1. [斯凯奇宣布退市](https://www.zhihu.com/search?q=%E6%96%AF%E5%87%AF%E5%A5%87%E5%AE%A3%E5%B8%83%E9%80%80%E5%B8%82)
-1. [央视曝光兼职注册 APP 账号猫腻](https://www.zhihu.com/search?q=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E5%85%BC%E8%81%8C%E6%B3%A8%E5%86%8C%20APP%20%E8%B4%A6%E5%8F%B7%E7%8C%AB%E8%85%BB)
+1. [清镇市交通局称对船舶有日常检查](https://www.zhihu.com/search?q=%E6%B8%85%E9%95%87%E5%B8%82%E4%BA%A4%E9%80%9A%E5%B1%80%E7%A7%B0%E5%AF%B9%E8%88%B9%E8%88%B6%E6%9C%89%E6%97%A5%E5%B8%B8%E6%A3%80%E6%9F%A5)
 1. [朱婷卫冕女排欧冠](https://www.zhihu.com/search?q=%E6%9C%B1%E5%A9%B7%E5%8D%AB%E5%86%95%E5%A5%B3%E6%8E%92%E6%AC%A7%E5%86%A0)
 
 ## 热门话题
