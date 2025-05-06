@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-05-06 22:12:37 +0800`
+`更新时间：2025-05-06 23:15:20 +0800`
 
 ## 热门搜索
 
@@ -27,7 +27,6 @@
 1. [董袭莹不符合协和4+4招生要求](https://www.zhihu.com/search?q=%E8%91%A3%E8%A2%AD%E8%8E%B9%E4%B8%8D%E7%AC%A6%E5%90%88%E5%8D%8F%E5%92%8C4%2B4%E6%8B%9B%E7%94%9F%E8%A6%81%E6%B1%82)
 1. [协和4+4](https://www.zhihu.com/search?q=%E5%8D%8F%E5%92%8C4%2B4)
 1. [董某莹1年拿规培证威胁患者安全](https://www.zhihu.com/search?q=%E8%91%A3%E6%9F%90%E8%8E%B91%E5%B9%B4%E6%8B%BF%E8%A7%84%E5%9F%B9%E8%AF%81%E5%A8%81%E8%83%81%E6%82%A3%E8%80%85%E5%AE%89%E5%85%A8)
-1. [GTA6跳票](https://www.zhihu.com/search?q=GTA6%E8%B7%B3%E7%A5%A8)
 1. [巴菲特谈日本投资](https://www.zhihu.com/search?q=%E5%B7%B4%E8%8F%B2%E7%89%B9%E8%B0%88%E6%97%A5%E6%9C%AC%E6%8A%95%E8%B5%84)
 1. [于东来与网红互怼怒称要退圈](https://www.zhihu.com/search?q=%E4%BA%8E%E4%B8%9C%E6%9D%A5%E4%B8%8E%E7%BD%91%E7%BA%A2%E4%BA%92%E6%80%BC%E6%80%92%E7%A7%B0%E8%A6%81%E9%80%80%E5%9C%88)
 1. [西安雷雨夜空现条状不明物](https://www.zhihu.com/search?q=%E8%A5%BF%E5%AE%89%E9%9B%B7%E9%9B%A8%E5%A4%9C%E7%A9%BA%E7%8E%B0%E6%9D%A1%E7%8A%B6%E4%B8%8D%E6%98%8E%E7%89%A9)
@@ -38,7 +37,6 @@
 1. [国羽苏迪曼杯夺冠 ](https://www.zhihu.com/search?q=%E5%9B%BD%E7%BE%BD%E8%8B%8F%E8%BF%AA%E6%9B%BC%E6%9D%AF%E5%A4%BA%E5%86%A0%20)
 1. [贵州游船侧翻事故致 70 人落水](https://www.zhihu.com/search?q=%E8%B4%B5%E5%B7%9E%E6%B8%B8%E8%88%B9%E4%BE%A7%E7%BF%BB%E4%BA%8B%E6%95%85%E8%87%B4%2070%20%E4%BA%BA%E8%90%BD%E6%B0%B4)
 1. [杭州灵隐寺小卖部年租金 260 万](https://www.zhihu.com/search?q=%E6%9D%AD%E5%B7%9E%E7%81%B5%E9%9A%90%E5%AF%BA%E5%B0%8F%E5%8D%96%E9%83%A8%E5%B9%B4%E7%A7%9F%E9%87%91%20260%20%E4%B8%87)
-1. [赵心童11比6领先威廉姆斯](https://www.zhihu.com/search?q=%E8%B5%B5%E5%BF%83%E7%AB%A511%E6%AF%946%E9%A2%86%E5%85%88%E5%A8%81%E5%BB%89%E5%A7%86%E6%96%AF)
 
 ## 热门话题
 
