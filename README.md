@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-05-07 18:27:50 +0800`
+`更新时间：2025-05-07 19:21:38 +0800`
 
 ## 热门搜索
 
-1. [为何放假待在家会产生「假期被荒废」的心理](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BD%95%E6%94%BE%E5%81%87%E5%BE%85%E5%9C%A8%E5%AE%B6%E4%BC%9A%E4%BA%A7%E7%94%9F%E3%80%8C%E5%81%87%E6%9C%9F%E8%A2%AB%E8%8D%92%E5%BA%9F%E3%80%8D%E7%9A%84%E5%BF%83%E7%90%86)
+1. [巴菲特股东大会](https://www.zhihu.com/search?q=%E5%B7%B4%E8%8F%B2%E7%89%B9%E8%82%A1%E4%B8%9C%E5%A4%A7%E4%BC%9A)
+1. [海军究竟能有多烧钱](https://www.zhihu.com/search?q=%E6%B5%B7%E5%86%9B%E7%A9%B6%E7%AB%9F%E8%83%BD%E6%9C%89%E5%A4%9A%E7%83%A7%E9%92%B1)
 1. [为什么中国要用五孔插座](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%AD%E5%9B%BD%E8%A6%81%E7%94%A8%E4%BA%94%E5%AD%94%E6%8F%92%E5%BA%A7)
 1. [人的大脑会不会出现「过拟合」病](https://www.zhihu.com/search?q=%E4%BA%BA%E7%9A%84%E5%A4%A7%E8%84%91%E4%BC%9A%E4%B8%8D%E4%BC%9A%E5%87%BA%E7%8E%B0%E3%80%8C%E8%BF%87%E6%8B%9F%E5%90%88%E3%80%8D%E7%97%85)
 1. [知乎旧物节](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%E6%97%A7%E7%89%A9%E8%8A%82)
