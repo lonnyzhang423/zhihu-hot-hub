@@ -11,18 +11,20 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-05-07 13:25:35 +0800`
+`更新时间：2025-05-07 14:35:33 +0800`
 
 ## 热门搜索
 
+1. [「鲁宾逊漂流记」有哪些不符合常识的地方](https://www.zhihu.com/search?q=%E3%80%8C%E9%B2%81%E5%AE%BE%E9%80%8A%E6%BC%82%E6%B5%81%E8%AE%B0%E3%80%8D%E6%9C%89%E5%93%AA%E4%BA%9B%E4%B8%8D%E7%AC%A6%E5%90%88%E5%B8%B8%E8%AF%86%E7%9A%84%E5%9C%B0%E6%96%B9)
+1. [贵州载人游船倾覆事故已致 10 人死亡](https://www.zhihu.com/search?q=%E8%B4%B5%E5%B7%9E%E8%BD%BD%E4%BA%BA%E6%B8%B8%E8%88%B9%E5%80%BE%E8%A6%86%E4%BA%8B%E6%95%85%E5%B7%B2%E8%87%B4%2010%20%E4%BA%BA%E6%AD%BB%E4%BA%A1)
+1. [为什么中国要用五孔插座](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%AD%E5%9B%BD%E8%A6%81%E7%94%A8%E4%BA%94%E5%AD%94%E6%8F%92%E5%BA%A7)
 1. [人的大脑会不会出现「过拟合」病](https://www.zhihu.com/search?q=%E4%BA%BA%E7%9A%84%E5%A4%A7%E8%84%91%E4%BC%9A%E4%B8%8D%E4%BC%9A%E5%87%BA%E7%8E%B0%E3%80%8C%E8%BF%87%E6%8B%9F%E5%90%88%E3%80%8D%E7%97%85)
 1. [知乎旧物节](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%E6%97%A7%E7%89%A9%E8%8A%82)
 1. [寻找穿越时光的旧物](https://www.zhihu.com/search?q=%E5%AF%BB%E6%89%BE%E7%A9%BF%E8%B6%8A%E6%97%B6%E5%85%89%E7%9A%84%E6%97%A7%E7%89%A9)
 1. [哪件旧物是你一直保留着的](https://www.zhihu.com/search?q=%E5%93%AA%E4%BB%B6%E6%97%A7%E7%89%A9%E6%98%AF%E4%BD%A0%E4%B8%80%E7%9B%B4%E4%BF%9D%E7%95%99%E7%9D%80%E7%9A%84)
 1. [穿越时光的旧物](https://www.zhihu.com/search?q=%E7%A9%BF%E8%B6%8A%E6%97%B6%E5%85%89%E7%9A%84%E6%97%A7%E7%89%A9)
-1. [风阻系数对汽车意味着什么](https://www.zhihu.com/search?q=%E9%A3%8E%E9%98%BB%E7%B3%BB%E6%95%B0%E5%AF%B9%E6%B1%BD%E8%BD%A6%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88)
 1. [巴菲特谈日本投资](https://www.zhihu.com/search?q=%E5%B7%B4%E8%8F%B2%E7%89%B9%E8%B0%88%E6%97%A5%E6%9C%AC%E6%8A%95%E8%B5%84)
-1. [2025 五一档票房突破 6 亿](https://www.zhihu.com/search?q=2025%20%E4%BA%94%E4%B8%80%E6%A1%A3%E7%A5%A8%E6%88%BF%E7%AA%81%E7%A0%B4%206%20%E4%BA%BF)
+1. [若原子不断循环我们是否有古人用过的原子](https://www.zhihu.com/search?q=%E8%8B%A5%E5%8E%9F%E5%AD%90%E4%B8%8D%E6%96%AD%E5%BE%AA%E7%8E%AF%E6%88%91%E4%BB%AC%E6%98%AF%E5%90%A6%E6%9C%89%E5%8F%A4%E4%BA%BA%E7%94%A8%E8%BF%87%E7%9A%84%E5%8E%9F%E5%AD%90)
 1. [苏迪曼杯决赛](https://www.zhihu.com/search?q=%E8%8B%8F%E8%BF%AA%E6%9B%BC%E6%9D%AF%E5%86%B3%E8%B5%9B)
 1. [视障人士携带导盲犬入住全季被拒](https://www.zhihu.com/search?q=%E8%A7%86%E9%9A%9C%E4%BA%BA%E5%A3%AB%E6%90%BA%E5%B8%A6%E5%AF%BC%E7%9B%B2%E7%8A%AC%E5%85%A5%E4%BD%8F%E5%85%A8%E5%AD%A3%E8%A2%AB%E6%8B%92)
 1. [国羽苏杯四连冠](https://www.zhihu.com/search?q=%E5%9B%BD%E7%BE%BD%E8%8B%8F%E6%9D%AF%E5%9B%9B%E8%BF%9E%E5%86%A0)
