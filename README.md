@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-05-08 07:11:56 +0800`
+`更新时间：2025-05-08 08:58:11 +0800`
 
 ## 热门搜索
 
@@ -27,18 +27,19 @@
 1. [国羽苏迪曼杯夺冠 ](https://www.zhihu.com/search?q=%E5%9B%BD%E7%BE%BD%E8%8B%8F%E8%BF%AA%E6%9B%BC%E6%9D%AF%E5%A4%BA%E5%86%A0%20)
 1. [朱婷卫冕女排欧冠](https://www.zhihu.com/search?q=%E6%9C%B1%E5%A9%B7%E5%8D%AB%E5%86%95%E5%A5%B3%E6%8E%92%E6%AC%A7%E5%86%A0)
 1. [美国恶魔岛监狱将重新启用](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E6%81%B6%E9%AD%94%E5%B2%9B%E7%9B%91%E7%8B%B1%E5%B0%86%E9%87%8D%E6%96%B0%E5%90%AF%E7%94%A8)
-1. [护士发论文称男性确诊子宫肌瘤](https://www.zhihu.com/search?q=%E6%8A%A4%E5%A3%AB%E5%8F%91%E8%AE%BA%E6%96%87%E7%A7%B0%E7%94%B7%E6%80%A7%E7%A1%AE%E8%AF%8A%E5%AD%90%E5%AE%AB%E8%82%8C%E7%98%A4)
-1. [齐鲁医院护士霍某某受处分](https://www.zhihu.com/search?q=%E9%BD%90%E9%B2%81%E5%8C%BB%E9%99%A2%E6%8A%A4%E5%A3%AB%E9%9C%8D%E6%9F%90%E6%9F%90%E5%8F%97%E5%A4%84%E5%88%86)
-1. [多家医院 30 余篇论文称男性患子宫肌瘤](https://www.zhihu.com/search?q=%E5%A4%9A%E5%AE%B6%E5%8C%BB%E9%99%A2%2030%20%E4%BD%99%E7%AF%87%E8%AE%BA%E6%96%87%E7%A7%B0%E7%94%B7%E6%80%A7%E6%82%A3%E5%AD%90%E5%AE%AB%E8%82%8C%E7%98%A4)
 1. [考研名师周思成直播查雅思成绩](https://www.zhihu.com/search?q=%E8%80%83%E7%A0%94%E5%90%8D%E5%B8%88%E5%91%A8%E6%80%9D%E6%88%90%E7%9B%B4%E6%92%AD%E6%9F%A5%E9%9B%85%E6%80%9D%E6%88%90%E7%BB%A9)
 1. [考研名师周思成雅思成绩8.5分 ](https://www.zhihu.com/search?q=%E8%80%83%E7%A0%94%E5%90%8D%E5%B8%88%E5%91%A8%E6%80%9D%E6%88%90%E9%9B%85%E6%80%9D%E6%88%90%E7%BB%A98.5%E5%88%86%20)
 1. [山东滕州一车辆撞向公交站台多人倒地](https://www.zhihu.com/search?q=%E5%B1%B1%E4%B8%9C%E6%BB%95%E5%B7%9E%E4%B8%80%E8%BD%A6%E8%BE%86%E6%92%9E%E5%90%91%E5%85%AC%E4%BA%A4%E7%AB%99%E5%8F%B0%E5%A4%9A%E4%BA%BA%E5%80%92%E5%9C%B0)
 1. [IU陪跑三次了](https://www.zhihu.com/search?q=IU%E9%99%AA%E8%B7%91%E4%B8%89%E6%AC%A1%E4%BA%86)
-1. [多篇妇产科论文出现男性患者](https://www.zhihu.com/search?q=%E5%A4%9A%E7%AF%87%E5%A6%87%E4%BA%A7%E7%A7%91%E8%AE%BA%E6%96%87%E5%87%BA%E7%8E%B0%E7%94%B7%E6%80%A7%E6%82%A3%E8%80%85)
 1. [五一假期数据出炉](https://www.zhihu.com/search?q=%E4%BA%94%E4%B8%80%E5%81%87%E6%9C%9F%E6%95%B0%E6%8D%AE%E5%87%BA%E7%82%89)
 1. [五一假期假期国内出游 3.14 亿人次](https://www.zhihu.com/search?q=%E4%BA%94%E4%B8%80%E5%81%87%E6%9C%9F%E5%81%87%E6%9C%9F%E5%9B%BD%E5%86%85%E5%87%BA%E6%B8%B8%203.14%20%E4%BA%BF%E4%BA%BA%E6%AC%A1)
 1. [95后在海底捞办婚礼 餐费仅花2万多](https://www.zhihu.com/search?q=95%E5%90%8E%E5%9C%A8%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%8A%9E%E5%A9%9A%E7%A4%BC%20%E9%A4%90%E8%B4%B9%E4%BB%85%E8%8A%B12%E4%B8%87%E5%A4%9A)
 1. [阿维塔再回应「风阻系数造假」](https://www.zhihu.com/search?q=%E9%98%BF%E7%BB%B4%E5%A1%94%E5%86%8D%E5%9B%9E%E5%BA%94%E3%80%8C%E9%A3%8E%E9%98%BB%E7%B3%BB%E6%95%B0%E9%80%A0%E5%81%87%E3%80%8D)
+1. [美国取消对中国小额包裹免税政策正式生效](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E5%8F%96%E6%B6%88%E5%AF%B9%E4%B8%AD%E5%9B%BD%E5%B0%8F%E9%A2%9D%E5%8C%85%E8%A3%B9%E5%85%8D%E7%A8%8E%E6%94%BF%E7%AD%96%E6%AD%A3%E5%BC%8F%E7%94%9F%E6%95%88)
+1. [多家品牌金饰克价涨回 1000 元](https://www.zhihu.com/search?q=%E5%A4%9A%E5%AE%B6%E5%93%81%E7%89%8C%E9%87%91%E9%A5%B0%E5%85%8B%E4%BB%B7%E6%B6%A8%E5%9B%9E%201000%20%E5%85%83)
+1. [五一假期全国消费市场数据来了](https://www.zhihu.com/search?q=%E4%BA%94%E4%B8%80%E5%81%87%E6%9C%9F%E5%85%A8%E5%9B%BD%E6%B6%88%E8%B4%B9%E5%B8%82%E5%9C%BA%E6%95%B0%E6%8D%AE%E6%9D%A5%E4%BA%86)
+1. [五一日均217.9万人次出境](https://www.zhihu.com/search?q=%E4%BA%94%E4%B8%80%E6%97%A5%E5%9D%87217.9%E4%B8%87%E4%BA%BA%E6%AC%A1%E5%87%BA%E5%A2%83)
+1. [胖东来柴怼怼为何会在玉石这事上撕破脸](https://www.zhihu.com/search?q=%E8%83%96%E4%B8%9C%E6%9D%A5%E6%9F%B4%E6%80%BC%E6%80%BC%E4%B8%BA%E4%BD%95%E4%BC%9A%E5%9C%A8%E7%8E%89%E7%9F%B3%E8%BF%99%E4%BA%8B%E4%B8%8A%E6%92%95%E7%A0%B4%E8%84%B8)
 
 ## 热门话题
 
