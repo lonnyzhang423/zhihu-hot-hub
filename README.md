@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-05-08 18:27:56 +0800`
+`更新时间：2025-05-08 19:21:21 +0800`
 
 ## 热门搜索
 
-1. [为什么「大风杀」五一档票房几乎垫底](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E3%80%8C%E5%A4%A7%E9%A3%8E%E6%9D%80%E3%80%8D%E4%BA%94%E4%B8%80%E6%A1%A3%E7%A5%A8%E6%88%BF%E5%87%A0%E4%B9%8E%E5%9E%AB%E5%BA%95)
-1. [茅台回应首位代言人张艺兴](https://www.zhihu.com/search?q=%E8%8C%85%E5%8F%B0%E5%9B%9E%E5%BA%94%E9%A6%96%E4%BD%8D%E4%BB%A3%E8%A8%80%E4%BA%BA%E5%BC%A0%E8%89%BA%E5%85%B4)
+1. [央行下调个人住房公积金贷款利率有何影响](https://www.zhihu.com/search?q=%E5%A4%AE%E8%A1%8C%E4%B8%8B%E8%B0%83%E4%B8%AA%E4%BA%BA%E4%BD%8F%E6%88%BF%E5%85%AC%E7%A7%AF%E9%87%91%E8%B4%B7%E6%AC%BE%E5%88%A9%E7%8E%87%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D)
+1. [100万房贷月供少还132元](https://www.zhihu.com/search?q=100%E4%B8%87%E6%88%BF%E8%B4%B7%E6%9C%88%E4%BE%9B%E5%B0%91%E8%BF%98132%E5%85%83)
 1. [为什么在中国邮箱不流行](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%9C%A8%E4%B8%AD%E5%9B%BD%E9%82%AE%E7%AE%B1%E4%B8%8D%E6%B5%81%E8%A1%8C)
 1. [为什么中国要用五孔插座](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%AD%E5%9B%BD%E8%A6%81%E7%94%A8%E4%BA%94%E5%AD%94%E6%8F%92%E5%BA%A7)
 1. [勇士vs森林狼](https://www.zhihu.com/search?q=%E5%8B%87%E5%A3%ABvs%E6%A3%AE%E6%9E%97%E7%8B%BC)
