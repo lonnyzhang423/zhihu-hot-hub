@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-05-09 22:11:56 +0800`
+`更新时间：2025-05-09 23:12:19 +0800`
 
 ## 热门搜索
 
-1. [海军究竟能有多烧钱](https://www.zhihu.com/search?q=%E6%B5%B7%E5%86%9B%E7%A9%B6%E7%AB%9F%E8%83%BD%E6%9C%89%E5%A4%9A%E7%83%A7%E9%92%B1)
-1. [美联储宣布维持基准利率不变](https://www.zhihu.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8%E5%AE%A3%E5%B8%83%E7%BB%B4%E6%8C%81%E5%9F%BA%E5%87%86%E5%88%A9%E7%8E%87%E4%B8%8D%E5%8F%98)
+1. [合肥野生动物园一猴子丑出圈](https://www.zhihu.com/search?q=%E5%90%88%E8%82%A5%E9%87%8E%E7%94%9F%E5%8A%A8%E7%89%A9%E5%9B%AD%E4%B8%80%E7%8C%B4%E5%AD%90%E4%B8%91%E5%87%BA%E5%9C%88)
+1. [印巴局势升级](https://www.zhihu.com/search?q=%E5%8D%B0%E5%B7%B4%E5%B1%80%E5%8A%BF%E5%8D%87%E7%BA%A7)
 1. [勇士vs森林狼](https://www.zhihu.com/search?q=%E5%8B%87%E5%A3%ABvs%E6%A3%AE%E6%9E%97%E7%8B%BC)
 1. [体制内你见到最狠的是什么样](https://www.zhihu.com/search?q=%E4%BD%93%E5%88%B6%E5%86%85%E4%BD%A0%E8%A7%81%E5%88%B0%E6%9C%80%E7%8B%A0%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7)
 1. [知乎旧物节](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%E6%97%A7%E7%89%A9%E8%8A%82)
