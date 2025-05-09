@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-05-09 14:18:01 +0800`
+`更新时间：2025-05-09 15:12:17 +0800`
 
 ## 热门搜索
 
@@ -29,7 +29,6 @@
 1. [斯凯奇宣布退市](https://www.zhihu.com/search?q=%E6%96%AF%E5%87%AF%E5%A5%87%E5%AE%A3%E5%B8%83%E9%80%80%E5%B8%82)
 1. [一夜之间印巴大打出手](https://www.zhihu.com/search?q=%E4%B8%80%E5%A4%9C%E4%B9%8B%E9%97%B4%E5%8D%B0%E5%B7%B4%E5%A4%A7%E6%89%93%E5%87%BA%E6%89%8B)
 1. [巴方称印军发动 24 起袭击](https://www.zhihu.com/search?q=%E5%B7%B4%E6%96%B9%E7%A7%B0%E5%8D%B0%E5%86%9B%E5%8F%91%E5%8A%A8%2024%20%E8%B5%B7%E8%A2%AD%E5%87%BB)
-1. [中国女游客为捞相机命丧87米海底](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%B8%B8%E5%AE%A2%E4%B8%BA%E6%8D%9E%E7%9B%B8%E6%9C%BA%E5%91%BD%E4%B8%A787%E7%B1%B3%E6%B5%B7%E5%BA%95)
 1. [印巴冲突](https://www.zhihu.com/search?q=%E5%8D%B0%E5%B7%B4%E5%86%B2%E7%AA%81)
 1. [公积金贷款利率降 0.25 个百分点](https://www.zhihu.com/search?q=%E5%85%AC%E7%A7%AF%E9%87%91%E8%B4%B7%E6%AC%BE%E5%88%A9%E7%8E%87%E9%99%8D%200.25%20%E4%B8%AA%E7%99%BE%E5%88%86%E7%82%B9)
 1. [央行宣布降准降息](https://www.zhihu.com/search?q=%E5%A4%AE%E8%A1%8C%E5%AE%A3%E5%B8%83%E9%99%8D%E5%87%86%E9%99%8D%E6%81%AF)
