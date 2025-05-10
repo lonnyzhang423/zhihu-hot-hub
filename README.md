@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-05-10 21:29:09 +0800`
+`更新时间：2025-05-10 22:21:01 +0800`
 
 ## 热门搜索
 
@@ -33,9 +33,9 @@
 1. [金融监管总局将推出 8 项增量政策](https://www.zhihu.com/search?q=%E9%87%91%E8%9E%8D%E7%9B%91%E7%AE%A1%E6%80%BB%E5%B1%80%E5%B0%86%E6%8E%A8%E5%87%BA%208%20%E9%A1%B9%E5%A2%9E%E9%87%8F%E6%94%BF%E7%AD%96)
 1. [大模型公司纷纷布局 AI Coding](https://www.zhihu.com/search?q=%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%85%AC%E5%8F%B8%E7%BA%B7%E7%BA%B7%E5%B8%83%E5%B1%80%20AI%20Coding)
 1. [武大副教授被举报抄袭学生论文](https://www.zhihu.com/search?q=%E6%AD%A6%E5%A4%A7%E5%89%AF%E6%95%99%E6%8E%88%E8%A2%AB%E4%B8%BE%E6%8A%A5%E6%8A%84%E8%A2%AD%E5%AD%A6%E7%94%9F%E8%AE%BA%E6%96%87)
-1. [胖南来、胖西来、胖北来等商标遭抢注](https://www.zhihu.com/search?q=%E8%83%96%E5%8D%97%E6%9D%A5%E3%80%81%E8%83%96%E8%A5%BF%E6%9D%A5%E3%80%81%E8%83%96%E5%8C%97%E6%9D%A5%E7%AD%89%E5%95%86%E6%A0%87%E9%81%AD%E6%8A%A2%E6%B3%A8)
 1. [美联储连续 3 次维持利率不变](https://www.zhihu.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8%E8%BF%9E%E7%BB%AD%203%20%E6%AC%A1%E7%BB%B4%E6%8C%81%E5%88%A9%E7%8E%87%E4%B8%8D%E5%8F%98)
 1. [三德子赵亮卖土鸡土是商标名](https://www.zhihu.com/search?q=%E4%B8%89%E5%BE%B7%E5%AD%90%E8%B5%B5%E4%BA%AE%E5%8D%96%E5%9C%9F%E9%B8%A1%E5%9C%9F%E6%98%AF%E5%95%86%E6%A0%87%E5%90%8D)
+1. [泡泡玛特股份被创始股东高位清仓](https://www.zhihu.com/search?q=%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%E8%82%A1%E4%BB%BD%E8%A2%AB%E5%88%9B%E5%A7%8B%E8%82%A1%E4%B8%9C%E9%AB%98%E4%BD%8D%E6%B8%85%E4%BB%93)
 
 ## 热门话题
 
