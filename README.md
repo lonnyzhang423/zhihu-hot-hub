@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-05-10 10:24:24 +0800`
+`更新时间：2025-05-10 11:32:11 +0800`
 
 ## 热门搜索
 
@@ -34,8 +34,8 @@
 1. [公积金贷款利率降 0.25 个百分点](https://www.zhihu.com/search?q=%E5%85%AC%E7%A7%AF%E9%87%91%E8%B4%B7%E6%AC%BE%E5%88%A9%E7%8E%87%E9%99%8D%200.25%20%E4%B8%AA%E7%99%BE%E5%88%86%E7%82%B9)
 1. [央行宣布降准降息](https://www.zhihu.com/search?q=%E5%A4%AE%E8%A1%8C%E5%AE%A3%E5%B8%83%E9%99%8D%E5%87%86%E9%99%8D%E6%81%AF)
 1. [金融监管总局将推出 8 项增量政策](https://www.zhihu.com/search?q=%E9%87%91%E8%9E%8D%E7%9B%91%E7%AE%A1%E6%80%BB%E5%B1%80%E5%B0%86%E6%8E%A8%E5%87%BA%208%20%E9%A1%B9%E5%A2%9E%E9%87%8F%E6%94%BF%E7%AD%96)
+1. [大模型公司纷纷布局 AI Coding](https://www.zhihu.com/search?q=%E5%A4%A7%E6%A8%A1%E5%9E%8B%E5%85%AC%E5%8F%B8%E7%BA%B7%E7%BA%B7%E5%B8%83%E5%B1%80%20AI%20Coding)
 1. [赵心童夺得斯诺克世锦赛冠军](https://www.zhihu.com/search?q=%E8%B5%B5%E5%BF%83%E7%AB%A5%E5%A4%BA%E5%BE%97%E6%96%AF%E8%AF%BA%E5%85%8B%E4%B8%96%E9%94%A6%E8%B5%9B%E5%86%A0%E5%86%9B)
-1. [周思成直播雅思查分最高 8.5 分](https://www.zhihu.com/search?q=%E5%91%A8%E6%80%9D%E6%88%90%E7%9B%B4%E6%92%AD%E9%9B%85%E6%80%9D%E6%9F%A5%E5%88%86%E6%9C%80%E9%AB%98%208.5%20%E5%88%86)
 
 ## 热门话题
 
