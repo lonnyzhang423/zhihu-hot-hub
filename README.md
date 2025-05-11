@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-05-11 19:09:10 +0800`
+`更新时间：2025-05-11 20:20:29 +0800`
 
 ## 热门搜索
 
@@ -22,7 +22,6 @@
 1. [哪件旧物是你一直保留着的](https://www.zhihu.com/search?q=%E5%93%AA%E4%BB%B6%E6%97%A7%E7%89%A9%E6%98%AF%E4%BD%A0%E4%B8%80%E7%9B%B4%E4%BF%9D%E7%95%99%E7%9D%80%E7%9A%84)
 1. [穿越时光的旧物](https://www.zhihu.com/search?q=%E7%A9%BF%E8%B6%8A%E6%97%B6%E5%85%89%E7%9A%84%E6%97%A7%E7%89%A9)
 1. [西安雷雨夜空现条状不明物](https://www.zhihu.com/search?q=%E8%A5%BF%E5%AE%89%E9%9B%B7%E9%9B%A8%E5%A4%9C%E7%A9%BA%E7%8E%B0%E6%9D%A1%E7%8A%B6%E4%B8%8D%E6%98%8E%E7%89%A9)
-1. [斯凯奇宣布退市](https://www.zhihu.com/search?q=%E6%96%AF%E5%87%AF%E5%A5%87%E5%AE%A3%E5%B8%83%E9%80%80%E5%B8%82)
 1. [一夜之间印巴大打出手](https://www.zhihu.com/search?q=%E4%B8%80%E5%A4%9C%E4%B9%8B%E9%97%B4%E5%8D%B0%E5%B7%B4%E5%A4%A7%E6%89%93%E5%87%BA%E6%89%8B)
 1. [巴方称印军发动 24 起袭击](https://www.zhihu.com/search?q=%E5%B7%B4%E6%96%B9%E7%A7%B0%E5%8D%B0%E5%86%9B%E5%8F%91%E5%8A%A8%2024%20%E8%B5%B7%E8%A2%AD%E5%87%BB)
 1. [印巴冲突](https://www.zhihu.com/search?q=%E5%8D%B0%E5%B7%B4%E5%86%B2%E7%AA%81)
@@ -36,6 +35,7 @@
 1. [胖西来胖南来胖北来商标遭抢注](https://www.zhihu.com/search?q=%E8%83%96%E8%A5%BF%E6%9D%A5%E8%83%96%E5%8D%97%E6%9D%A5%E8%83%96%E5%8C%97%E6%9D%A5%E5%95%86%E6%A0%87%E9%81%AD%E6%8A%A2%E6%B3%A8)
 1. [茅台文旅代言人张艺兴](https://www.zhihu.com/search?q=%E8%8C%85%E5%8F%B0%E6%96%87%E6%97%85%E4%BB%A3%E8%A8%80%E4%BA%BA%E5%BC%A0%E8%89%BA%E5%85%B4)
 1. [茅台回应首位代言人张艺兴](https://www.zhihu.com/search?q=%E8%8C%85%E5%8F%B0%E5%9B%9E%E5%BA%94%E9%A6%96%E4%BD%8D%E4%BB%A3%E8%A8%80%E4%BA%BA%E5%BC%A0%E8%89%BA%E5%85%B4)
+1. [央行3类10项措施](https://www.zhihu.com/search?q=%E5%A4%AE%E8%A1%8C3%E7%B1%BB10%E9%A1%B9%E6%8E%AA%E6%96%BD)
 
 ## 热门话题
 
