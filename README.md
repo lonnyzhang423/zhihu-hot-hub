@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-05-11 11:09:57 +0800`
+`更新时间：2025-05-11 12:15:19 +0800`
 
 ## 热门搜索
 
@@ -34,8 +34,8 @@
 1. [华为首款鸿蒙电脑正式亮相](https://www.zhihu.com/search?q=%E5%8D%8E%E4%B8%BA%E9%A6%96%E6%AC%BE%E9%B8%BF%E8%92%99%E7%94%B5%E8%84%91%E6%AD%A3%E5%BC%8F%E4%BA%AE%E7%9B%B8)
 1. [美对进口电影加征税款遭质疑](https://www.zhihu.com/search?q=%E7%BE%8E%E5%AF%B9%E8%BF%9B%E5%8F%A3%E7%94%B5%E5%BD%B1%E5%8A%A0%E5%BE%81%E7%A8%8E%E6%AC%BE%E9%81%AD%E8%B4%A8%E7%96%91)
 1. [美国与胡塞武装达成停火协议](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E4%B8%8E%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%85%E8%BE%BE%E6%88%90%E5%81%9C%E7%81%AB%E5%8D%8F%E8%AE%AE)
+1. [丰田4月销量大涨](https://www.zhihu.com/search?q=%E4%B8%B0%E7%94%B04%E6%9C%88%E9%94%80%E9%87%8F%E5%A4%A7%E6%B6%A8)
 1. [苹果考虑添加ai搜索](https://www.zhihu.com/search?q=%E8%8B%B9%E6%9E%9C%E8%80%83%E8%99%91%E6%B7%BB%E5%8A%A0ai%E6%90%9C%E7%B4%A2)
-1. [员工未赴指定医院就医遭解雇](https://www.zhihu.com/search?q=%E5%91%98%E5%B7%A5%E6%9C%AA%E8%B5%B4%E6%8C%87%E5%AE%9A%E5%8C%BB%E9%99%A2%E5%B0%B1%E5%8C%BB%E9%81%AD%E8%A7%A3%E9%9B%87)
 
 ## 热门话题
 
