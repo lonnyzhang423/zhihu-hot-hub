@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-05-11 14:15:51 +0800`
+`更新时间：2025-05-11 15:11:32 +0800`
 
 ## 热门搜索
 
@@ -35,6 +35,7 @@
 1. [丰田4月销量大涨](https://www.zhihu.com/search?q=%E4%B8%B0%E7%94%B04%E6%9C%88%E9%94%80%E9%87%8F%E5%A4%A7%E6%B6%A8)
 1. [员工未赴指定医院就医遭解雇](https://www.zhihu.com/search?q=%E5%91%98%E5%B7%A5%E6%9C%AA%E8%B5%B4%E6%8C%87%E5%AE%9A%E5%8C%BB%E9%99%A2%E5%B0%B1%E5%8C%BB%E9%81%AD%E8%A7%A3%E9%9B%87)
 1. [胖西来胖南来胖北来商标遭抢注](https://www.zhihu.com/search?q=%E8%83%96%E8%A5%BF%E6%9D%A5%E8%83%96%E5%8D%97%E6%9D%A5%E8%83%96%E5%8C%97%E6%9D%A5%E5%95%86%E6%A0%87%E9%81%AD%E6%8A%A2%E6%B3%A8)
+1. [茅台文旅代言人张艺兴](https://www.zhihu.com/search?q=%E8%8C%85%E5%8F%B0%E6%96%87%E6%97%85%E4%BB%A3%E8%A8%80%E4%BA%BA%E5%BC%A0%E8%89%BA%E5%85%B4)
 
 ## 热门话题
 
