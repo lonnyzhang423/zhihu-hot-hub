@@ -11,12 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-05-12 12:30:45 +0800`
+`更新时间：2025-05-12 13:26:09 +0800`
 
 ## 热门搜索
 
-1. [美联储宣布维持基准利率不变](https://www.zhihu.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8%E5%AE%A3%E5%B8%83%E7%BB%B4%E6%8C%81%E5%9F%BA%E5%87%86%E5%88%A9%E7%8E%87%E4%B8%8D%E5%8F%98)
-1. [勇士vs森林狼](https://www.zhihu.com/search?q=%E5%8B%87%E5%A3%ABvs%E6%A3%AE%E6%9E%97%E7%8B%BC)
+1. [男子连坐2次过山车致颅内出血](https://www.zhihu.com/search?q=%E7%94%B7%E5%AD%90%E8%BF%9E%E5%9D%902%E6%AC%A1%E8%BF%87%E5%B1%B1%E8%BD%A6%E8%87%B4%E9%A2%85%E5%86%85%E5%87%BA%E8%A1%80)
 1. [知乎旧物节](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%E6%97%A7%E7%89%A9%E8%8A%82)
 1. [寻找穿越时光的旧物](https://www.zhihu.com/search?q=%E5%AF%BB%E6%89%BE%E7%A9%BF%E8%B6%8A%E6%97%B6%E5%85%89%E7%9A%84%E6%97%A7%E7%89%A9)
 1. [哪件旧物是你一直保留着的](https://www.zhihu.com/search?q=%E5%93%AA%E4%BB%B6%E6%97%A7%E7%89%A9%E6%98%AF%E4%BD%A0%E4%B8%80%E7%9B%B4%E4%BF%9D%E7%95%99%E7%9D%80%E7%9A%84)
