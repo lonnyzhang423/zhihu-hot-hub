@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-05-13 06:11:51 +0800`
+`更新时间：2025-05-13 07:11:33 +0800`
 
 ## 热门搜索
 
@@ -33,7 +33,6 @@
 1. [存款利率全面迈向「1 时代」](https://www.zhihu.com/search?q=%E5%AD%98%E6%AC%BE%E5%88%A9%E7%8E%87%E5%85%A8%E9%9D%A2%E8%BF%88%E5%90%91%E3%80%8C1%20%E6%97%B6%E4%BB%A3%E3%80%8D)
 1. [汽车制造企业资产负债率均值超 60%](https://www.zhihu.com/search?q=%E6%B1%BD%E8%BD%A6%E5%88%B6%E9%80%A0%E4%BC%81%E4%B8%9A%E8%B5%84%E4%BA%A7%E8%B4%9F%E5%80%BA%E7%8E%87%E5%9D%87%E5%80%BC%E8%B6%85%2060%25)
 1. [卤鹅哥将其与甲亢哥名字合并注册商标](https://www.zhihu.com/search?q=%E5%8D%A4%E9%B9%85%E5%93%A5%E5%B0%86%E5%85%B6%E4%B8%8E%E7%94%B2%E4%BA%A2%E5%93%A5%E5%90%8D%E5%AD%97%E5%90%88%E5%B9%B6%E6%B3%A8%E5%86%8C%E5%95%86%E6%A0%87)
-1. [父母把孩子送进矫治机构「特训」](https://www.zhihu.com/search?q=%E7%88%B6%E6%AF%8D%E6%8A%8A%E5%AD%A9%E5%AD%90%E9%80%81%E8%BF%9B%E7%9F%AB%E6%B2%BB%E6%9C%BA%E6%9E%84%E3%80%8C%E7%89%B9%E8%AE%AD%E3%80%8D)
 1. [环球小姐伪造学历入读港大获刑 240 天](https://www.zhihu.com/search?q=%E7%8E%AF%E7%90%83%E5%B0%8F%E5%A7%90%E4%BC%AA%E9%80%A0%E5%AD%A6%E5%8E%86%E5%85%A5%E8%AF%BB%E6%B8%AF%E5%A4%A7%E8%8E%B7%E5%88%91%20240%20%E5%A4%A9)
 1. [阿维塔风洞测试结果](https://www.zhihu.com/search?q=%E9%98%BF%E7%BB%B4%E5%A1%94%E9%A3%8E%E6%B4%9E%E6%B5%8B%E8%AF%95%E7%BB%93%E6%9E%9C)
 1. [王健林再被冻结约 3 亿股权](https://www.zhihu.com/search?q=%E7%8E%8B%E5%81%A5%E6%9E%97%E5%86%8D%E8%A2%AB%E5%86%BB%E7%BB%93%E7%BA%A6%203%20%E4%BA%BF%E8%82%A1%E6%9D%83)
@@ -41,6 +40,7 @@
 1. [4岁女童被蜜蜂蛰伤致死](https://www.zhihu.com/search?q=4%E5%B2%81%E5%A5%B3%E7%AB%A5%E8%A2%AB%E8%9C%9C%E8%9C%82%E8%9B%B0%E4%BC%A4%E8%87%B4%E6%AD%BB)
 1. [日本松下未来三年将裁员约 1 万人](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E6%9D%BE%E4%B8%8B%E6%9C%AA%E6%9D%A5%E4%B8%89%E5%B9%B4%E5%B0%86%E8%A3%81%E5%91%98%E7%BA%A6%201%20%E4%B8%87%E4%BA%BA)
 1. [2025 年普利策奖](https://www.zhihu.com/search?q=2025%20%E5%B9%B4%E6%99%AE%E5%88%A9%E7%AD%96%E5%A5%96)
+1. [苹果渠道官方调价](https://www.zhihu.com/search?q=%E8%8B%B9%E6%9E%9C%E6%B8%A0%E9%81%93%E5%AE%98%E6%96%B9%E8%B0%83%E4%BB%B7)
 
 ## 热门话题
 
