@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-05-12 10:45:54 +0800`
+`更新时间：2025-05-12 11:39:41 +0800`
 
 ## 热门搜索
 
@@ -27,7 +27,6 @@
 1. [团队曝异瞳少年治沙为摆拍](https://www.zhihu.com/search?q=%E5%9B%A2%E9%98%9F%E6%9B%9D%E5%BC%82%E7%9E%B3%E5%B0%91%E5%B9%B4%E6%B2%BB%E6%B2%99%E4%B8%BA%E6%91%86%E6%8B%8D)
 1. [美对进口电影加征税款遭质疑](https://www.zhihu.com/search?q=%E7%BE%8E%E5%AF%B9%E8%BF%9B%E5%8F%A3%E7%94%B5%E5%BD%B1%E5%8A%A0%E5%BE%81%E7%A8%8E%E6%AC%BE%E9%81%AD%E8%B4%A8%E7%96%91)
 1. [美国与胡塞武装达成停火协议](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E4%B8%8E%E8%83%A1%E5%A1%9E%E6%AD%A6%E8%A3%85%E8%BE%BE%E6%88%90%E5%81%9C%E7%81%AB%E5%8D%8F%E8%AE%AE)
-1. [丰田4月销量大涨](https://www.zhihu.com/search?q=%E4%B8%B0%E7%94%B04%E6%9C%88%E9%94%80%E9%87%8F%E5%A4%A7%E6%B6%A8)
 1. [首批145％关税中国货船抵达美国](https://www.zhihu.com/search?q=%E9%A6%96%E6%89%B9145%EF%BC%85%E5%85%B3%E7%A8%8E%E4%B8%AD%E5%9B%BD%E8%B4%A7%E8%88%B9%E6%8A%B5%E8%BE%BE%E7%BE%8E%E5%9B%BD)
 1. [胖西来胖南来胖北来商标遭抢注](https://www.zhihu.com/search?q=%E8%83%96%E8%A5%BF%E6%9D%A5%E8%83%96%E5%8D%97%E6%9D%A5%E8%83%96%E5%8C%97%E6%9D%A5%E5%95%86%E6%A0%87%E9%81%AD%E6%8A%A2%E6%B3%A8)
 1. [茅台文旅代言人张艺兴](https://www.zhihu.com/search?q=%E8%8C%85%E5%8F%B0%E6%96%87%E6%97%85%E4%BB%A3%E8%A8%80%E4%BA%BA%E5%BC%A0%E8%89%BA%E5%85%B4)
@@ -40,6 +39,7 @@
 1. [央行连续第六个月增持黄金](https://www.zhihu.com/search?q=%E5%A4%AE%E8%A1%8C%E8%BF%9E%E7%BB%AD%E7%AC%AC%E5%85%AD%E4%B8%AA%E6%9C%88%E5%A2%9E%E6%8C%81%E9%BB%84%E9%87%91)
 1. [gta6第二支预告](https://www.zhihu.com/search?q=gta6%E7%AC%AC%E4%BA%8C%E6%94%AF%E9%A2%84%E5%91%8A)
 1. [「春山学」博主不致歉被法院公告](https://www.zhihu.com/search?q=%E3%80%8C%E6%98%A5%E5%B1%B1%E5%AD%A6%E3%80%8D%E5%8D%9A%E4%B8%BB%E4%B8%8D%E8%87%B4%E6%AD%89%E8%A2%AB%E6%B3%95%E9%99%A2%E5%85%AC%E5%91%8A)
+1. [降准降息对普通人有何影响](https://www.zhihu.com/search?q=%E9%99%8D%E5%87%86%E9%99%8D%E6%81%AF%E5%AF%B9%E6%99%AE%E9%80%9A%E4%BA%BA%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D)
 
 ## 热门话题
 
