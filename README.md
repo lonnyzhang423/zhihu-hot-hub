@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-05-13 07:11:33 +0800`
+`更新时间：2025-05-13 08:58:29 +0800`
 
 ## 热门搜索
 
@@ -37,10 +37,10 @@
 1. [阿维塔风洞测试结果](https://www.zhihu.com/search?q=%E9%98%BF%E7%BB%B4%E5%A1%94%E9%A3%8E%E6%B4%9E%E6%B5%8B%E8%AF%95%E7%BB%93%E6%9E%9C)
 1. [王健林再被冻结约 3 亿股权](https://www.zhihu.com/search?q=%E7%8E%8B%E5%81%A5%E6%9E%97%E5%86%8D%E8%A2%AB%E5%86%BB%E7%BB%93%E7%BA%A6%203%20%E4%BA%BF%E8%82%A1%E6%9D%83)
 1. [南京一大学被曝献血免晨跑和体育课](https://www.zhihu.com/search?q=%E5%8D%97%E4%BA%AC%E4%B8%80%E5%A4%A7%E5%AD%A6%E8%A2%AB%E6%9B%9D%E7%8C%AE%E8%A1%80%E5%85%8D%E6%99%A8%E8%B7%91%E5%92%8C%E4%BD%93%E8%82%B2%E8%AF%BE)
-1. [4岁女童被蜜蜂蛰伤致死](https://www.zhihu.com/search?q=4%E5%B2%81%E5%A5%B3%E7%AB%A5%E8%A2%AB%E8%9C%9C%E8%9C%82%E8%9B%B0%E4%BC%A4%E8%87%B4%E6%AD%BB)
 1. [日本松下未来三年将裁员约 1 万人](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E6%9D%BE%E4%B8%8B%E6%9C%AA%E6%9D%A5%E4%B8%89%E5%B9%B4%E5%B0%86%E8%A3%81%E5%91%98%E7%BA%A6%201%20%E4%B8%87%E4%BA%BA)
 1. [2025 年普利策奖](https://www.zhihu.com/search?q=2025%20%E5%B9%B4%E6%99%AE%E5%88%A9%E7%AD%96%E5%A5%96)
 1. [苹果渠道官方调价](https://www.zhihu.com/search?q=%E8%8B%B9%E6%9E%9C%E6%B8%A0%E9%81%93%E5%AE%98%E6%96%B9%E8%B0%83%E4%BB%B7)
+1. [玛氏、费列罗等多个巧克力品牌将涨价](https://www.zhihu.com/search?q=%E7%8E%9B%E6%B0%8F%E3%80%81%E8%B4%B9%E5%88%97%E7%BD%97%E7%AD%89%E5%A4%9A%E4%B8%AA%E5%B7%A7%E5%85%8B%E5%8A%9B%E5%93%81%E7%89%8C%E5%B0%86%E6%B6%A8%E4%BB%B7)
 
 ## 热门话题
 
