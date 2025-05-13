@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-05-13 10:02:18 +0800`
+`更新时间：2025-05-13 11:45:07 +0800`
 
 ## 热门搜索
 
@@ -26,7 +26,6 @@
 1. [胖东来柴怼怼为何会在玉石这事上撕破脸](https://www.zhihu.com/search?q=%E8%83%96%E4%B8%9C%E6%9D%A5%E6%9F%B4%E6%80%BC%E6%80%BC%E4%B8%BA%E4%BD%95%E4%BC%9A%E5%9C%A8%E7%8E%89%E7%9F%B3%E8%BF%99%E4%BA%8B%E4%B8%8A%E6%92%95%E7%A0%B4%E8%84%B8)
 1. [奈雪的茶再换 logo 改成奈雪](https://www.zhihu.com/search?q=%E5%A5%88%E9%9B%AA%E7%9A%84%E8%8C%B6%E5%86%8D%E6%8D%A2%20logo%20%E6%94%B9%E6%88%90%E5%A5%88%E9%9B%AA)
 1. [华为首款鸿蒙电脑正式亮相](https://www.zhihu.com/search?q=%E5%8D%8E%E4%B8%BA%E9%A6%96%E6%AC%BE%E9%B8%BF%E8%92%99%E7%94%B5%E8%84%91%E6%AD%A3%E5%BC%8F%E4%BA%AE%E7%9B%B8)
-1. [首批145％关税中国货船抵达美国](https://www.zhihu.com/search?q=%E9%A6%96%E6%89%B9145%EF%BC%85%E5%85%B3%E7%A8%8E%E4%B8%AD%E5%9B%BD%E8%B4%A7%E8%88%B9%E6%8A%B5%E8%BE%BE%E7%BE%8E%E5%9B%BD)
 1. [清北强基计划金银牌竞赛生增加校测环节](https://www.zhihu.com/search?q=%E6%B8%85%E5%8C%97%E5%BC%BA%E5%9F%BA%E8%AE%A1%E5%88%92%E9%87%91%E9%93%B6%E7%89%8C%E7%AB%9E%E8%B5%9B%E7%94%9F%E5%A2%9E%E5%8A%A0%E6%A0%A1%E6%B5%8B%E7%8E%AF%E8%8A%82)
 1. [上海一区优秀「博主」购房最高可获200万补贴](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%E4%B8%80%E5%8C%BA%E4%BC%98%E7%A7%80%E3%80%8C%E5%8D%9A%E4%B8%BB%E3%80%8D%E8%B4%AD%E6%88%BF%E6%9C%80%E9%AB%98%E5%8F%AF%E8%8E%B7200%E4%B8%87%E8%A1%A5%E8%B4%B4)
 1. [存款利率全面迈向「1 时代」](https://www.zhihu.com/search?q=%E5%AD%98%E6%AC%BE%E5%88%A9%E7%8E%87%E5%85%A8%E9%9D%A2%E8%BF%88%E5%90%91%E3%80%8C1%20%E6%97%B6%E4%BB%A3%E3%80%8D)
