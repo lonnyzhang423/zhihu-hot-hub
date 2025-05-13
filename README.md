@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-05-13 17:13:33 +0800`
+`更新时间：2025-05-13 18:13:39 +0800`
 
 ## 热门搜索
 
@@ -36,10 +36,10 @@
 1. [玛氏、费列罗等多个巧克力品牌将涨价](https://www.zhihu.com/search?q=%E7%8E%9B%E6%B0%8F%E3%80%81%E8%B4%B9%E5%88%97%E7%BD%97%E7%AD%89%E5%A4%9A%E4%B8%AA%E5%B7%A7%E5%85%8B%E5%8A%9B%E5%93%81%E7%89%8C%E5%B0%86%E6%B6%A8%E4%BB%B7)
 1. [女子金手镯剪开流出液体疑遇注水黄金](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E9%87%91%E6%89%8B%E9%95%AF%E5%89%AA%E5%BC%80%E6%B5%81%E5%87%BA%E6%B6%B2%E4%BD%93%E7%96%91%E9%81%87%E6%B3%A8%E6%B0%B4%E9%BB%84%E9%87%91)
 1. [联想新平板疑搭载自研 5nm 芯片](https://www.zhihu.com/search?q=%E8%81%94%E6%83%B3%E6%96%B0%E5%B9%B3%E6%9D%BF%E7%96%91%E6%90%AD%E8%BD%BD%E8%87%AA%E7%A0%94%205nm%20%E8%8A%AF%E7%89%87)
-1. [高端水果为啥越卖越便宜](https://www.zhihu.com/search?q=%E9%AB%98%E7%AB%AF%E6%B0%B4%E6%9E%9C%E4%B8%BA%E5%95%A5%E8%B6%8A%E5%8D%96%E8%B6%8A%E4%BE%BF%E5%AE%9C)
 1. [神曲刚买的飞机被打了](https://www.zhihu.com/search?q=%E7%A5%9E%E6%9B%B2%E5%88%9A%E4%B9%B0%E7%9A%84%E9%A3%9E%E6%9C%BA%E8%A2%AB%E6%89%93%E4%BA%86)
 1. [雷霆西部半决赛1-2落后](https://www.zhihu.com/search?q=%E9%9B%B7%E9%9C%86%E8%A5%BF%E9%83%A8%E5%8D%8A%E5%86%B3%E8%B5%9B1-2%E8%90%BD%E5%90%8E)
 1. [中国品牌日](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E5%93%81%E7%89%8C%E6%97%A5)
+1. [库里最早g6复出](https://www.zhihu.com/search?q=%E5%BA%93%E9%87%8C%E6%9C%80%E6%97%A9g6%E5%A4%8D%E5%87%BA)
 
 ## 热门话题
 
