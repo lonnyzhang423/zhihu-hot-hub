@@ -11,12 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-05-13 21:27:18 +0800`
+`更新时间：2025-05-13 22:12:25 +0800`
 
 ## 热门搜索
 
-1. [勇士不敌森林狼](https://www.zhihu.com/search?q=%E5%8B%87%E5%A3%AB%E4%B8%8D%E6%95%8C%E6%A3%AE%E6%9E%97%E7%8B%BC)
-1. [金价跳水](https://www.zhihu.com/search?q=%E9%87%91%E4%BB%B7%E8%B7%B3%E6%B0%B4)
+1. [如何评价淮水竹亭的大结局](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E6%B7%AE%E6%B0%B4%E7%AB%B9%E4%BA%AD%E7%9A%84%E5%A4%A7%E7%BB%93%E5%B1%80)
 1. [你吃过的最难忘的饺子是什么馅儿](https://www.zhihu.com/search?q=%E4%BD%A0%E5%90%83%E8%BF%87%E7%9A%84%E6%9C%80%E9%9A%BE%E5%BF%98%E7%9A%84%E9%A5%BA%E5%AD%90%E6%98%AF%E4%BB%80%E4%B9%88%E9%A6%85%E5%84%BF)
 1. [中国人到底有多能吃](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E8%83%BD%E5%90%83)
 1. [知乎旧物节](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%E6%97%A7%E7%89%A9%E8%8A%82)
