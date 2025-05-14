@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-05-14 08:57:55 +0800`
+`更新时间：2025-05-14 10:39:22 +0800`
 
 ## 热门搜索
 
-1. [北京启动网络辟谣宣传月活动](https://www.zhihu.com/search?q=%E5%8C%97%E4%BA%AC%E5%90%AF%E5%8A%A8%E7%BD%91%E7%BB%9C%E8%BE%9F%E8%B0%A3%E5%AE%A3%E4%BC%A0%E6%9C%88%E6%B4%BB%E5%8A%A8)
-1. [印度空军回应战损](https://www.zhihu.com/search?q=%E5%8D%B0%E5%BA%A6%E7%A9%BA%E5%86%9B%E5%9B%9E%E5%BA%94%E6%88%98%E6%8D%9F)
+1. [金价跳水](https://www.zhihu.com/search?q=%E9%87%91%E4%BB%B7%E8%B7%B3%E6%B0%B4)
+1. [你吃过的最难忘的饺子是什么馅儿](https://www.zhihu.com/search?q=%E4%BD%A0%E5%90%83%E8%BF%87%E7%9A%84%E6%9C%80%E9%9A%BE%E5%BF%98%E7%9A%84%E9%A5%BA%E5%AD%90%E6%98%AF%E4%BB%80%E4%B9%88%E9%A6%85%E5%84%BF)
 1. [中国人到底有多能吃](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E8%83%BD%E5%90%83)
 1. [知乎旧物节](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%E6%97%A7%E7%89%A9%E8%8A%82)
 1. [寻找穿越时光的旧物](https://www.zhihu.com/search?q=%E5%AF%BB%E6%89%BE%E7%A9%BF%E8%B6%8A%E6%97%B6%E5%85%89%E7%9A%84%E6%97%A7%E7%89%A9)
@@ -27,7 +27,6 @@
 1. [奈雪的茶再换 logo 改成奈雪](https://www.zhihu.com/search?q=%E5%A5%88%E9%9B%AA%E7%9A%84%E8%8C%B6%E5%86%8D%E6%8D%A2%20logo%20%E6%94%B9%E6%88%90%E5%A5%88%E9%9B%AA)
 1. [多地再发风险提示慎入网约车行业](https://www.zhihu.com/search?q=%E5%A4%9A%E5%9C%B0%E5%86%8D%E5%8F%91%E9%A3%8E%E9%99%A9%E6%8F%90%E7%A4%BA%E6%85%8E%E5%85%A5%E7%BD%91%E7%BA%A6%E8%BD%A6%E8%A1%8C%E4%B8%9A)
 1. [女子金手镯剪开流出液体疑遇注水黄金](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E9%87%91%E6%89%8B%E9%95%AF%E5%89%AA%E5%BC%80%E6%B5%81%E5%87%BA%E6%B6%B2%E4%BD%93%E7%96%91%E9%81%87%E6%B3%A8%E6%B0%B4%E9%BB%84%E9%87%91)
-1. [联想新平板疑搭载自研 5nm 芯片](https://www.zhihu.com/search?q=%E8%81%94%E6%83%B3%E6%96%B0%E5%B9%B3%E6%9D%BF%E7%96%91%E6%90%AD%E8%BD%BD%E8%87%AA%E7%A0%94%205nm%20%E8%8A%AF%E7%89%87)
 1. [神曲刚买的飞机被打了](https://www.zhihu.com/search?q=%E7%A5%9E%E6%9B%B2%E5%88%9A%E4%B9%B0%E7%9A%84%E9%A3%9E%E6%9C%BA%E8%A2%AB%E6%89%93%E4%BA%86)
 1. [雷霆西部半决赛1-2落后](https://www.zhihu.com/search?q=%E9%9B%B7%E9%9C%86%E8%A5%BF%E9%83%A8%E5%8D%8A%E5%86%B3%E8%B5%9B1-2%E8%90%BD%E5%90%8E)
 1. [库里最早g6复出](https://www.zhihu.com/search?q=%E5%BA%93%E9%87%8C%E6%9C%80%E6%97%A9g6%E5%A4%8D%E5%87%BA)
