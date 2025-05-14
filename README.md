@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-05-14 22:26:13 +0800`
+`更新时间：2025-05-14 23:27:26 +0800`
 
 ## 热门搜索
 
-1. [森林狼vs勇士](https://www.zhihu.com/search?q=%E6%A3%AE%E6%9E%97%E7%8B%BCvs%E5%8B%87%E5%A3%AB)
-1. [勇士不敌森林狼](https://www.zhihu.com/search?q=%E5%8B%87%E5%A3%AB%E4%B8%8D%E6%95%8C%E6%A3%AE%E6%9E%97%E7%8B%BC)
+1. [此次印巴冲突印度损失有多大](https://www.zhihu.com/search?q=%E6%AD%A4%E6%AC%A1%E5%8D%B0%E5%B7%B4%E5%86%B2%E7%AA%81%E5%8D%B0%E5%BA%A6%E6%8D%9F%E5%A4%B1%E6%9C%89%E5%A4%9A%E5%A4%A7)
+1. [年轻人开始流行养「宠物酵母」](https://www.zhihu.com/search?q=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%BC%80%E5%A7%8B%E6%B5%81%E8%A1%8C%E5%85%BB%E3%80%8C%E5%AE%A0%E7%89%A9%E9%85%B5%E6%AF%8D%E3%80%8D)
 1. [戛纳](https://www.zhihu.com/search?q=%E6%88%9B%E7%BA%B3)
 1. [人民币大涨](https://www.zhihu.com/search?q=%E4%BA%BA%E6%B0%91%E5%B8%81%E5%A4%A7%E6%B6%A8)
 1. [金价跳水](https://www.zhihu.com/search?q=%E9%87%91%E4%BB%B7%E8%B7%B3%E6%B0%B4)
