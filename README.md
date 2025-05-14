@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-05-14 19:21:11 +0800`
+`更新时间：2025-05-14 20:52:06 +0800`
 
 ## 热门搜索
 
@@ -29,7 +29,7 @@
 1. [美国这几年为何衰落的如此之快](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E8%BF%99%E5%87%A0%E5%B9%B4%E4%B8%BA%E4%BD%95%E8%A1%B0%E8%90%BD%E7%9A%84%E5%A6%82%E6%AD%A4%E4%B9%8B%E5%BF%AB)
 1. [歌手2025定档](https://www.zhihu.com/search?q=%E6%AD%8C%E6%89%8B2025%E5%AE%9A%E6%A1%A3)
 1. [胖东来柴怼怼为何会在玉石这事上撕破脸](https://www.zhihu.com/search?q=%E8%83%96%E4%B8%9C%E6%9D%A5%E6%9F%B4%E6%80%BC%E6%80%BC%E4%B8%BA%E4%BD%95%E4%BC%9A%E5%9C%A8%E7%8E%89%E7%9F%B3%E8%BF%99%E4%BA%8B%E4%B8%8A%E6%92%95%E7%A0%B4%E8%84%B8)
-1. [奈雪的茶再换 logo 改成奈雪](https://www.zhihu.com/search?q=%E5%A5%88%E9%9B%AA%E7%9A%84%E8%8C%B6%E5%86%8D%E6%8D%A2%20logo%20%E6%94%B9%E6%88%90%E5%A5%88%E9%9B%AA)
+1. [Labubu已经成了当代人的新佛牌](https://www.zhihu.com/search?q=Labubu%E5%B7%B2%E7%BB%8F%E6%88%90%E4%BA%86%E5%BD%93%E4%BB%A3%E4%BA%BA%E7%9A%84%E6%96%B0%E4%BD%9B%E7%89%8C)
 1. [四姑娘山一游客疑因高反身亡](https://www.zhihu.com/search?q=%E5%9B%9B%E5%A7%91%E5%A8%98%E5%B1%B1%E4%B8%80%E6%B8%B8%E5%AE%A2%E7%96%91%E5%9B%A0%E9%AB%98%E5%8F%8D%E8%BA%AB%E4%BA%A1)
 1. [中美双方将发布联合声明](https://www.zhihu.com/search?q=%E4%B8%AD%E7%BE%8E%E5%8F%8C%E6%96%B9%E5%B0%86%E5%8F%91%E5%B8%83%E8%81%94%E5%90%88%E5%A3%B0%E6%98%8E)
 1. [京东外卖推出全民推荐或举报有奖活动](https://www.zhihu.com/search?q=%E4%BA%AC%E4%B8%9C%E5%A4%96%E5%8D%96%E6%8E%A8%E5%87%BA%E5%85%A8%E6%B0%91%E6%8E%A8%E8%8D%90%E6%88%96%E4%B8%BE%E6%8A%A5%E6%9C%89%E5%A5%96%E6%B4%BB%E5%8A%A8)
