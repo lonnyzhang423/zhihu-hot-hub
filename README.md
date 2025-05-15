@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-05-15 20:52:02 +0800`
+`更新时间：2025-05-15 21:34:49 +0800`
 
 ## 热门搜索
 
@@ -41,6 +41,7 @@
 1. [波兰关闭俄罗斯领事馆](https://www.zhihu.com/search?q=%E6%B3%A2%E5%85%B0%E5%85%B3%E9%97%AD%E4%BF%84%E7%BD%97%E6%96%AF%E9%A2%86%E4%BA%8B%E9%A6%86)
 1. [西北大学副校长范代娣成陕西首富](https://www.zhihu.com/search?q=%E8%A5%BF%E5%8C%97%E5%A4%A7%E5%AD%A6%E5%89%AF%E6%A0%A1%E9%95%BF%E8%8C%83%E4%BB%A3%E5%A8%A3%E6%88%90%E9%99%95%E8%A5%BF%E9%A6%96%E5%AF%8C)
 1. [国产 AI 智能体平台 Manus 开放注册](https://www.zhihu.com/search?q=%E5%9B%BD%E4%BA%A7%20AI%20%E6%99%BA%E8%83%BD%E4%BD%93%E5%B9%B3%E5%8F%B0%20Manus%20%E5%BC%80%E6%94%BE%E6%B3%A8%E5%86%8C)
+1. [中国实现1.36公里外毫米级成像技术](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E5%AE%9E%E7%8E%B01.36%E5%85%AC%E9%87%8C%E5%A4%96%E6%AF%AB%E7%B1%B3%E7%BA%A7%E6%88%90%E5%83%8F%E6%8A%80%E6%9C%AF)
 
 ## 热门话题
 
