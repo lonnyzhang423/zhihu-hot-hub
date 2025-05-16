@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-05-17 01:09:50 +0800`
+`更新时间：2025-05-17 02:16:23 +0800`
 
 ## 热门搜索
 
@@ -23,7 +23,6 @@
 1. [哪件旧物是你一直保留着的](https://www.zhihu.com/search?q=%E5%93%AA%E4%BB%B6%E6%97%A7%E7%89%A9%E6%98%AF%E4%BD%A0%E4%B8%80%E7%9B%B4%E4%BF%9D%E7%95%99%E7%9D%80%E7%9A%84)
 1. [穿越时光的旧物](https://www.zhihu.com/search?q=%E7%A9%BF%E8%B6%8A%E6%97%B6%E5%85%89%E7%9A%84%E6%97%A7%E7%89%A9)
 1. [什么时候你意识到自己不年轻了呢](https://www.zhihu.com/search?q=%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E4%BD%A0%E6%84%8F%E8%AF%86%E5%88%B0%E8%87%AA%E5%B7%B1%E4%B8%8D%E5%B9%B4%E8%BD%BB%E4%BA%86%E5%91%A2)
-1. [日产汽车拟全球裁员2万人](https://www.zhihu.com/search?q=%E6%97%A5%E4%BA%A7%E6%B1%BD%E8%BD%A6%E6%8B%9F%E5%85%A8%E7%90%83%E8%A3%81%E5%91%982%E4%B8%87%E4%BA%BA)
 1. [印度拟对美国部分输印商品征收关税](https://www.zhihu.com/search?q=%E5%8D%B0%E5%BA%A6%E6%8B%9F%E5%AF%B9%E7%BE%8E%E5%9B%BD%E9%83%A8%E5%88%86%E8%BE%93%E5%8D%B0%E5%95%86%E5%93%81%E5%BE%81%E6%94%B6%E5%85%B3%E7%A8%8E)
 1. [教育部禁止学生直接复制AI答案](https://www.zhihu.com/search?q=%E6%95%99%E8%82%B2%E9%83%A8%E7%A6%81%E6%AD%A2%E5%AD%A6%E7%94%9F%E7%9B%B4%E6%8E%A5%E5%A4%8D%E5%88%B6AI%E7%AD%94%E6%A1%88)
 1. [多位车主反映小米汽车大灯上面翘边](https://www.zhihu.com/search?q=%E5%A4%9A%E4%BD%8D%E8%BD%A6%E4%B8%BB%E5%8F%8D%E6%98%A0%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E5%A4%A7%E7%81%AF%E4%B8%8A%E9%9D%A2%E7%BF%98%E8%BE%B9)
@@ -32,10 +31,10 @@
 1. [如何看待武汉坐地铁公交可以抵扣房贷](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E6%AD%A6%E6%B1%89%E5%9D%90%E5%9C%B0%E9%93%81%E5%85%AC%E4%BA%A4%E5%8F%AF%E4%BB%A5%E6%8A%B5%E6%89%A3%E6%88%BF%E8%B4%B7)
 1. [加沙47万人面临灾难性饥饿](https://www.zhihu.com/search?q=%E5%8A%A0%E6%B2%9947%E4%B8%87%E4%BA%BA%E9%9D%A2%E4%B8%B4%E7%81%BE%E9%9A%BE%E6%80%A7%E9%A5%A5%E9%A5%BF)
 1. [心理学部学生不得擅自开展心理咨询](https://www.zhihu.com/search?q=%E5%BF%83%E7%90%86%E5%AD%A6%E9%83%A8%E5%AD%A6%E7%94%9F%E4%B8%8D%E5%BE%97%E6%93%85%E8%87%AA%E5%BC%80%E5%B1%95%E5%BF%83%E7%90%86%E5%92%A8%E8%AF%A2)
-1. [微软全球裁员 6000 人](https://www.zhihu.com/search?q=%E5%BE%AE%E8%BD%AF%E5%85%A8%E7%90%83%E8%A3%81%E5%91%98%206000%20%E4%BA%BA)
 1. [年轻人开始流行养「宠物酵母」](https://www.zhihu.com/search?q=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%BC%80%E5%A7%8B%E6%B5%81%E8%A1%8C%E5%85%BB%E3%80%8C%E5%AE%A0%E7%89%A9%E9%85%B5%E6%AF%8D%E3%80%8D)
 1. [为什么现在很难买到心仪的衣服了](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E5%BE%88%E9%9A%BE%E4%B9%B0%E5%88%B0%E5%BF%83%E4%BB%AA%E7%9A%84%E8%A1%A3%E6%9C%8D%E4%BA%86)
 1. [日本释放加息信号](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E9%87%8A%E6%94%BE%E5%8A%A0%E6%81%AF%E4%BF%A1%E5%8F%B7)
+1. [如何看待外企开始大规模裁员](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%A4%96%E4%BC%81%E5%BC%80%E5%A7%8B%E5%A4%A7%E8%A7%84%E6%A8%A1%E8%A3%81%E5%91%98)
 
 ## 热门话题
 
