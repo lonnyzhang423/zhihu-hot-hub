@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-05-17 12:14:20 +0800`
+`更新时间：2025-05-17 13:11:44 +0800`
 
 ## 热门搜索
 
@@ -24,7 +24,6 @@
 1. [穿越时光的旧物](https://www.zhihu.com/search?q=%E7%A9%BF%E8%B6%8A%E6%97%B6%E5%85%89%E7%9A%84%E6%97%A7%E7%89%A9)
 1. [什么时候你意识到自己不年轻了呢](https://www.zhihu.com/search?q=%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E4%BD%A0%E6%84%8F%E8%AF%86%E5%88%B0%E8%87%AA%E5%B7%B1%E4%B8%8D%E5%B9%B4%E8%BD%BB%E4%BA%86%E5%91%A2)
 1. [印度拟对美国部分输印商品征收关税](https://www.zhihu.com/search?q=%E5%8D%B0%E5%BA%A6%E6%8B%9F%E5%AF%B9%E7%BE%8E%E5%9B%BD%E9%83%A8%E5%88%86%E8%BE%93%E5%8D%B0%E5%95%86%E5%93%81%E5%BE%81%E6%94%B6%E5%85%B3%E7%A8%8E)
-1. [教育部禁止学生直接复制AI答案](https://www.zhihu.com/search?q=%E6%95%99%E8%82%B2%E9%83%A8%E7%A6%81%E6%AD%A2%E5%AD%A6%E7%94%9F%E7%9B%B4%E6%8E%A5%E5%A4%8D%E5%88%B6AI%E7%AD%94%E6%A1%88)
 1. [多位车主反映小米汽车大灯上面翘边](https://www.zhihu.com/search?q=%E5%A4%9A%E4%BD%8D%E8%BD%A6%E4%B8%BB%E5%8F%8D%E6%98%A0%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E5%A4%A7%E7%81%AF%E4%B8%8A%E9%9D%A2%E7%BF%98%E8%BE%B9)
 1. [眼球缺失盲人办卡被要求「睁眼刷脸」认证](https://www.zhihu.com/search?q=%E7%9C%BC%E7%90%83%E7%BC%BA%E5%A4%B1%E7%9B%B2%E4%BA%BA%E5%8A%9E%E5%8D%A1%E8%A2%AB%E8%A6%81%E6%B1%82%E3%80%8C%E7%9D%81%E7%9C%BC%E5%88%B7%E8%84%B8%E3%80%8D%E8%AE%A4%E8%AF%81)
 1. [如何看待武汉坐地铁公交可以抵扣房贷](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E6%AD%A6%E6%B1%89%E5%9D%90%E5%9C%B0%E9%93%81%E5%85%AC%E4%BA%A4%E5%8F%AF%E4%BB%A5%E6%8A%B5%E6%89%A3%E6%88%BF%E8%B4%B7)
@@ -34,6 +33,7 @@
 1. [如何看待外企开始大规模裁员](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%A4%96%E4%BC%81%E5%BC%80%E5%A7%8B%E5%A4%A7%E8%A7%84%E6%A8%A1%E8%A3%81%E5%91%98)
 1. [京东外卖推出举报有奖活动](https://www.zhihu.com/search?q=%E4%BA%AC%E4%B8%9C%E5%A4%96%E5%8D%96%E6%8E%A8%E5%87%BA%E4%B8%BE%E6%8A%A5%E6%9C%89%E5%A5%96%E6%B4%BB%E5%8A%A8)
 1. [「铅元素转变成金」有何研究意义](https://www.zhihu.com/search?q=%E3%80%8C%E9%93%85%E5%85%83%E7%B4%A0%E8%BD%AC%E5%8F%98%E6%88%90%E9%87%91%E3%80%8D%E6%9C%89%E4%BD%95%E7%A0%94%E7%A9%B6%E6%84%8F%E4%B9%89)
+1. [此次印巴冲突印度损失有多大](https://www.zhihu.com/search?q=%E6%AD%A4%E6%AC%A1%E5%8D%B0%E5%B7%B4%E5%86%B2%E7%AA%81%E5%8D%B0%E5%BA%A6%E6%8D%9F%E5%A4%B1%E6%9C%89%E5%A4%9A%E5%A4%A7)
 
 ## 热门话题
 
