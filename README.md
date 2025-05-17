@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-05-17 21:19:43 +0800`
+`更新时间：2025-05-17 22:10:09 +0800`
 
 ## 热门搜索
 
@@ -24,7 +24,6 @@
 1. [穿越时光的旧物](https://www.zhihu.com/search?q=%E7%A9%BF%E8%B6%8A%E6%97%B6%E5%85%89%E7%9A%84%E6%97%A7%E7%89%A9)
 1. [什么时候你意识到自己不年轻了呢](https://www.zhihu.com/search?q=%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E4%BD%A0%E6%84%8F%E8%AF%86%E5%88%B0%E8%87%AA%E5%B7%B1%E4%B8%8D%E5%B9%B4%E8%BD%BB%E4%BA%86%E5%91%A2)
 1. [印度拟对美国部分输印商品征收关税](https://www.zhihu.com/search?q=%E5%8D%B0%E5%BA%A6%E6%8B%9F%E5%AF%B9%E7%BE%8E%E5%9B%BD%E9%83%A8%E5%88%86%E8%BE%93%E5%8D%B0%E5%95%86%E5%93%81%E5%BE%81%E6%94%B6%E5%85%B3%E7%A8%8E)
-1. [为什么现在很难买到心仪的衣服了](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E5%BE%88%E9%9A%BE%E4%B9%B0%E5%88%B0%E5%BF%83%E4%BB%AA%E7%9A%84%E8%A1%A3%E6%9C%8D%E4%BA%86)
 1. [巴萨4比3皇马](https://www.zhihu.com/search?q=%E5%B7%B4%E8%90%A84%E6%AF%943%E7%9A%87%E9%A9%AC)
 1. [哪咤汽车被申请破产](https://www.zhihu.com/search?q=%E5%93%AA%E5%92%A4%E6%B1%BD%E8%BD%A6%E8%A2%AB%E7%94%B3%E8%AF%B7%E7%A0%B4%E4%BA%A7)
 1. [美媒称微软宣布将裁员3%](https://www.zhihu.com/search?q=%E7%BE%8E%E5%AA%92%E7%A7%B0%E5%BE%AE%E8%BD%AF%E5%AE%A3%E5%B8%83%E5%B0%86%E8%A3%81%E5%91%983%25)
@@ -37,6 +36,7 @@
 1. [如何评价「歌手 2025」首发阵容](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E3%80%8C%E6%AD%8C%E6%89%8B%202025%E3%80%8D%E9%A6%96%E5%8F%91%E9%98%B5%E5%AE%B9)
 1. [如何看待煤炭可通过击杀凋灵骷髅获得的说法](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E7%85%A4%E7%82%AD%E5%8F%AF%E9%80%9A%E8%BF%87%E5%87%BB%E6%9D%80%E5%87%8B%E7%81%B5%E9%AA%B7%E9%AB%85%E8%8E%B7%E5%BE%97%E7%9A%84%E8%AF%B4%E6%B3%95)
 1. [美国禁止全球使用华为昇腾芯片](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E7%A6%81%E6%AD%A2%E5%85%A8%E7%90%83%E4%BD%BF%E7%94%A8%E5%8D%8E%E4%B8%BA%E6%98%87%E8%85%BE%E8%8A%AF%E7%89%87)
+1. [造成小米汽车大灯上面翘边的原因是什么](https://www.zhihu.com/search?q=%E9%80%A0%E6%88%90%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E5%A4%A7%E7%81%AF%E4%B8%8A%E9%9D%A2%E7%BF%98%E8%BE%B9%E7%9A%84%E5%8E%9F%E5%9B%A0%E6%98%AF%E4%BB%80%E4%B9%88)
 
 ## 热门话题
 
