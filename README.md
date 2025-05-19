@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-05-19 09:01:17 +0800`
+`更新时间：2025-05-19 11:13:16 +0800`
 
 ## 热门搜索
 
@@ -23,6 +23,7 @@
 1. [穿越时光的旧物](https://www.zhihu.com/search?q=%E7%A9%BF%E8%B6%8A%E6%97%B6%E5%85%89%E7%9A%84%E6%97%A7%E7%89%A9)
 1. [电视剧《藏海传》定档 5 月 18 日](https://www.zhihu.com/search?q=%E7%94%B5%E8%A7%86%E5%89%A7%E3%80%8A%E8%97%8F%E6%B5%B7%E4%BC%A0%E3%80%8B%E5%AE%9A%E6%A1%A3%205%20%E6%9C%88%2018%20%E6%97%A5)
 1. [印度拟对美国部分输印商品征收关税](https://www.zhihu.com/search?q=%E5%8D%B0%E5%BA%A6%E6%8B%9F%E5%AF%B9%E7%BE%8E%E5%9B%BD%E9%83%A8%E5%88%86%E8%BE%93%E5%8D%B0%E5%95%86%E5%93%81%E5%BE%81%E6%94%B6%E5%85%B3%E7%A8%8E)
+1. [教育部禁止学生直接复制AI答案](https://www.zhihu.com/search?q=%E6%95%99%E8%82%B2%E9%83%A8%E7%A6%81%E6%AD%A2%E5%AD%A6%E7%94%9F%E7%9B%B4%E6%8E%A5%E5%A4%8D%E5%88%B6AI%E7%AD%94%E6%A1%88)
 1. [Qwen3 技术报告](https://www.zhihu.com/search?q=Qwen3%20%E6%8A%80%E6%9C%AF%E6%8A%A5%E5%91%8A)
 1. [巴萨4比3皇马](https://www.zhihu.com/search?q=%E5%B7%B4%E8%90%A84%E6%AF%943%E7%9A%87%E9%A9%AC)
 1. [哪咤汽车被申请破产](https://www.zhihu.com/search?q=%E5%93%AA%E5%92%A4%E6%B1%BD%E8%BD%A6%E8%A2%AB%E7%94%B3%E8%AF%B7%E7%A0%B4%E4%BA%A7)
