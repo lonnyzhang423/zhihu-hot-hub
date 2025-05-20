@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-05-20 15:12:39 +0800`
+`更新时间：2025-05-20 16:17:22 +0800`
 
 ## 热门搜索
 
@@ -22,7 +22,6 @@
 1. [穿越时光的旧物](https://www.zhihu.com/search?q=%E7%A9%BF%E8%B6%8A%E6%97%B6%E5%85%89%E7%9A%84%E6%97%A7%E7%89%A9)
 1. [Qwen3 技术报告](https://www.zhihu.com/search?q=Qwen3%20%E6%8A%80%E6%9C%AF%E6%8A%A5%E5%91%8A)
 1. [花 4000 元报冥想班是智商税吗](https://www.zhihu.com/search?q=%E8%8A%B1%204000%20%E5%85%83%E6%8A%A5%E5%86%A5%E6%83%B3%E7%8F%AD%E6%98%AF%E6%99%BA%E5%95%86%E7%A8%8E%E5%90%97)
-1. [黄杨钿甜戴 230 万耳环被质疑](https://www.zhihu.com/search?q=%E9%BB%84%E6%9D%A8%E9%92%BF%E7%94%9C%E6%88%B4%20230%20%E4%B8%87%E8%80%B3%E7%8E%AF%E8%A2%AB%E8%B4%A8%E7%96%91)
 1. [单依纯歌手首期唱珠玉](https://www.zhihu.com/search?q=%E5%8D%95%E4%BE%9D%E7%BA%AF%E6%AD%8C%E6%89%8B%E9%A6%96%E6%9C%9F%E5%94%B1%E7%8F%A0%E7%8E%89)
 1. [英伟达计划在上海设立研究中心](https://www.zhihu.com/search?q=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%AE%A1%E5%88%92%E5%9C%A8%E4%B8%8A%E6%B5%B7%E8%AE%BE%E7%AB%8B%E7%A0%94%E7%A9%B6%E4%B8%AD%E5%BF%83)
 1. [《歌手 2025》第一期](https://www.zhihu.com/search?q=%E3%80%8A%E6%AD%8C%E6%89%8B%202025%E3%80%8B%E7%AC%AC%E4%B8%80%E6%9C%9F)
