@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-05-20 16:34:34 +0800`
+`更新时间：2025-05-20 17:27:55 +0800`
 
 ## 热门搜索
 
@@ -20,7 +20,6 @@
 1. [寻找穿越时光的旧物](https://www.zhihu.com/search?q=%E5%AF%BB%E6%89%BE%E7%A9%BF%E8%B6%8A%E6%97%B6%E5%85%89%E7%9A%84%E6%97%A7%E7%89%A9)
 1. [哪件旧物是你一直保留着的](https://www.zhihu.com/search?q=%E5%93%AA%E4%BB%B6%E6%97%A7%E7%89%A9%E6%98%AF%E4%BD%A0%E4%B8%80%E7%9B%B4%E4%BF%9D%E7%95%99%E7%9D%80%E7%9A%84)
 1. [穿越时光的旧物](https://www.zhihu.com/search?q=%E7%A9%BF%E8%B6%8A%E6%97%B6%E5%85%89%E7%9A%84%E6%97%A7%E7%89%A9)
-1. [Qwen3 技术报告](https://www.zhihu.com/search?q=Qwen3%20%E6%8A%80%E6%9C%AF%E6%8A%A5%E5%91%8A)
 1. [花 4000 元报冥想班是智商税吗](https://www.zhihu.com/search?q=%E8%8A%B1%204000%20%E5%85%83%E6%8A%A5%E5%86%A5%E6%83%B3%E7%8F%AD%E6%98%AF%E6%99%BA%E5%95%86%E7%A8%8E%E5%90%97)
 1. [单依纯歌手首期唱珠玉](https://www.zhihu.com/search?q=%E5%8D%95%E4%BE%9D%E7%BA%AF%E6%AD%8C%E6%89%8B%E9%A6%96%E6%9C%9F%E5%94%B1%E7%8F%A0%E7%8E%89)
 1. [英伟达计划在上海设立研究中心](https://www.zhihu.com/search?q=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%AE%A1%E5%88%92%E5%9C%A8%E4%B8%8A%E6%B5%B7%E8%AE%BE%E7%AB%8B%E7%A0%94%E7%A9%B6%E4%B8%AD%E5%BF%83)
@@ -40,6 +39,7 @@
 1. [极氪科技发布Q1财报](https://www.zhihu.com/search?q=%E6%9E%81%E6%B0%AA%E7%A7%91%E6%8A%80%E5%8F%91%E5%B8%83Q1%E8%B4%A2%E6%8A%A5)
 1. [司美格鲁肽副作用](https://www.zhihu.com/search?q=%E5%8F%B8%E7%BE%8E%E6%A0%BC%E9%B2%81%E8%82%BD%E5%89%AF%E4%BD%9C%E7%94%A8)
 1. [北斗系统进入标准体系](https://www.zhihu.com/search?q=%E5%8C%97%E6%96%97%E7%B3%BB%E7%BB%9F%E8%BF%9B%E5%85%A5%E6%A0%87%E5%87%86%E4%BD%93%E7%B3%BB)
+1. [藏海传观后感](https://www.zhihu.com/search?q=%E8%97%8F%E6%B5%B7%E4%BC%A0%E8%A7%82%E5%90%8E%E6%84%9F)
 
 ## 热门话题
 
