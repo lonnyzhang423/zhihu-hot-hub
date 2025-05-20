@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-05-21 05:23:21 +0800`
+`更新时间：2025-05-21 06:24:06 +0800`
 
 ## 热门搜索
 
@@ -27,13 +27,13 @@
 1. [医生提醒女性勿过度防晒](https://www.zhihu.com/search?q=%E5%8C%BB%E7%94%9F%E6%8F%90%E9%86%92%E5%A5%B3%E6%80%A7%E5%8B%BF%E8%BF%87%E5%BA%A6%E9%98%B2%E6%99%92)
 1. [特厨隋卞MCN敦促隋坡停止侵权](https://www.zhihu.com/search?q=%E7%89%B9%E5%8E%A8%E9%9A%8B%E5%8D%9EMCN%E6%95%A6%E4%BF%83%E9%9A%8B%E5%9D%A1%E5%81%9C%E6%AD%A2%E4%BE%B5%E6%9D%83)
 1. [穆迪下调美国信用评级](https://www.zhihu.com/search?q=%E7%A9%86%E8%BF%AA%E4%B8%8B%E8%B0%83%E7%BE%8E%E5%9B%BD%E4%BF%A1%E7%94%A8%E8%AF%84%E7%BA%A7)
-1. [美国著名数学家彼得·拉克斯去世](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E8%91%97%E5%90%8D%E6%95%B0%E5%AD%A6%E5%AE%B6%E5%BD%BC%E5%BE%97%C2%B7%E6%8B%89%E5%85%8B%E6%96%AF%E5%8E%BB%E4%B8%96)
 1. [司美格鲁肽副作用](https://www.zhihu.com/search?q=%E5%8F%B8%E7%BE%8E%E6%A0%BC%E9%B2%81%E8%82%BD%E5%89%AF%E4%BD%9C%E7%94%A8)
 1. [北斗系统进入标准体系](https://www.zhihu.com/search?q=%E5%8C%97%E6%96%97%E7%B3%BB%E7%BB%9F%E8%BF%9B%E5%85%A5%E6%A0%87%E5%87%86%E4%BD%93%E7%B3%BB)
 1. [藏海传观后感](https://www.zhihu.com/search?q=%E8%97%8F%E6%B5%B7%E4%BC%A0%E8%A7%82%E5%90%8E%E6%84%9F)
 1. [叶晓粤说陈奕迅去世是假新闻](https://www.zhihu.com/search?q=%E5%8F%B6%E6%99%93%E7%B2%A4%E8%AF%B4%E9%99%88%E5%A5%95%E8%BF%85%E5%8E%BB%E4%B8%96%E6%98%AF%E5%81%87%E6%96%B0%E9%97%BB)
 1. [女子应聘被回复太丑](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E5%BA%94%E8%81%98%E8%A2%AB%E5%9B%9E%E5%A4%8D%E5%A4%AA%E4%B8%91)
 1. [沃尔玛准备以关税为由涨价](https://www.zhihu.com/search?q=%E6%B2%83%E5%B0%94%E7%8E%9B%E5%87%86%E5%A4%87%E4%BB%A5%E5%85%B3%E7%A8%8E%E4%B8%BA%E7%94%B1%E6%B6%A8%E4%BB%B7)
+1. [孙俪邓超打假AI虚假广告](https://www.zhihu.com/search?q=%E5%AD%99%E4%BF%AA%E9%82%93%E8%B6%85%E6%89%93%E5%81%87AI%E8%99%9A%E5%81%87%E5%B9%BF%E5%91%8A)
 
 ## 热门话题
 
