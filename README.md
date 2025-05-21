@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-05-21 12:16:28 +0800`
+`更新时间：2025-05-21 13:12:58 +0800`
 
 ## 热门搜索
 
 1. [为什么鹰等猛禽不吃喜鹊](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E9%B9%B0%E7%AD%89%E7%8C%9B%E7%A6%BD%E4%B8%8D%E5%90%83%E5%96%9C%E9%B9%8A)
+1. [为何都说人生的容错率大到无法想象](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BD%95%E9%83%BD%E8%AF%B4%E4%BA%BA%E7%94%9F%E7%9A%84%E5%AE%B9%E9%94%99%E7%8E%87%E5%A4%A7%E5%88%B0%E6%97%A0%E6%B3%95%E6%83%B3%E8%B1%A1)
 1. [知乎旧物节](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%E6%97%A7%E7%89%A9%E8%8A%82)
 1. [寻找穿越时光的旧物](https://www.zhihu.com/search?q=%E5%AF%BB%E6%89%BE%E7%A9%BF%E8%B6%8A%E6%97%B6%E5%85%89%E7%9A%84%E6%97%A7%E7%89%A9)
 1. [哪件旧物是你一直保留着的](https://www.zhihu.com/search?q=%E5%93%AA%E4%BB%B6%E6%97%A7%E7%89%A9%E6%98%AF%E4%BD%A0%E4%B8%80%E7%9B%B4%E4%BF%9D%E7%95%99%E7%9D%80%E7%9A%84)
@@ -33,7 +34,6 @@
 1. [孙俪邓超打假AI虚假广告](https://www.zhihu.com/search?q=%E5%AD%99%E4%BF%AA%E9%82%93%E8%B6%85%E6%89%93%E5%81%87AI%E8%99%9A%E5%81%87%E5%B9%BF%E5%91%8A)
 1. [余依婷女子100米蝶泳夺冠](https://www.zhihu.com/search?q=%E4%BD%99%E4%BE%9D%E5%A9%B7%E5%A5%B3%E5%AD%90100%E7%B1%B3%E8%9D%B6%E6%B3%B3%E5%A4%BA%E5%86%A0)
 1. [雷军：小米玄戒O1芯片采用第二代3nm工艺制程](https://www.zhihu.com/search?q=%E9%9B%B7%E5%86%9B%EF%BC%9A%E5%B0%8F%E7%B1%B3%E7%8E%84%E6%88%92O1%E8%8A%AF%E7%89%87%E9%87%87%E7%94%A8%E7%AC%AC%E4%BA%8C%E4%BB%A33nm%E5%B7%A5%E8%89%BA%E5%88%B6%E7%A8%8B)
-1. [字节跳动严控餐食外带及禁止午休关灯](https://www.zhihu.com/search?q=%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E4%B8%A5%E6%8E%A7%E9%A4%90%E9%A3%9F%E5%A4%96%E5%B8%A6%E5%8F%8A%E7%A6%81%E6%AD%A2%E5%8D%88%E4%BC%91%E5%85%B3%E7%81%AF)
 
 ## 热门话题
 
