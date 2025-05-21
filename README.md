@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-05-21 07:11:22 +0800`
+`更新时间：2025-05-21 08:58:56 +0800`
 
 ## 热门搜索
 
@@ -31,9 +31,9 @@
 1. [北斗系统进入标准体系](https://www.zhihu.com/search?q=%E5%8C%97%E6%96%97%E7%B3%BB%E7%BB%9F%E8%BF%9B%E5%85%A5%E6%A0%87%E5%87%86%E4%BD%93%E7%B3%BB)
 1. [藏海传观后感](https://www.zhihu.com/search?q=%E8%97%8F%E6%B5%B7%E4%BC%A0%E8%A7%82%E5%90%8E%E6%84%9F)
 1. [叶晓粤说陈奕迅去世是假新闻](https://www.zhihu.com/search?q=%E5%8F%B6%E6%99%93%E7%B2%A4%E8%AF%B4%E9%99%88%E5%A5%95%E8%BF%85%E5%8E%BB%E4%B8%96%E6%98%AF%E5%81%87%E6%96%B0%E9%97%BB)
-1. [女子应聘被回复太丑](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E5%BA%94%E8%81%98%E8%A2%AB%E5%9B%9E%E5%A4%8D%E5%A4%AA%E4%B8%91)
 1. [沃尔玛准备以关税为由涨价](https://www.zhihu.com/search?q=%E6%B2%83%E5%B0%94%E7%8E%9B%E5%87%86%E5%A4%87%E4%BB%A5%E5%85%B3%E7%A8%8E%E4%B8%BA%E7%94%B1%E6%B6%A8%E4%BB%B7)
 1. [孙俪邓超打假AI虚假广告](https://www.zhihu.com/search?q=%E5%AD%99%E4%BF%AA%E9%82%93%E8%B6%85%E6%89%93%E5%81%87AI%E8%99%9A%E5%81%87%E5%B9%BF%E5%91%8A)
+1. [福耀科技大学校长王树国三问中国教育](https://www.zhihu.com/search?q=%E7%A6%8F%E8%80%80%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E6%A0%A1%E9%95%BF%E7%8E%8B%E6%A0%91%E5%9B%BD%E4%B8%89%E9%97%AE%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B2)
 
 ## 热门话题
 
