@@ -11,10 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-05-21 15:12:28 +0800`
+`更新时间：2025-05-21 16:16:46 +0800`
 
 ## 热门搜索
 
+1. [多家银行下调存款利率](https://www.zhihu.com/search?q=%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E4%B8%8B%E8%B0%83%E5%AD%98%E6%AC%BE%E5%88%A9%E7%8E%87)
+1. [BLG战胜TES](https://www.zhihu.com/search?q=BLG%E6%88%98%E8%83%9CTES)
 1. [为什么鹰等猛禽不吃喜鹊](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E9%B9%B0%E7%AD%89%E7%8C%9B%E7%A6%BD%E4%B8%8D%E5%90%83%E5%96%9C%E9%B9%8A)
 1. [为何都说人生的容错率大到无法想象](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BD%95%E9%83%BD%E8%AF%B4%E4%BA%BA%E7%94%9F%E7%9A%84%E5%AE%B9%E9%94%99%E7%8E%87%E5%A4%A7%E5%88%B0%E6%97%A0%E6%B3%95%E6%83%B3%E8%B1%A1)
 1. [知乎旧物节](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%E6%97%A7%E7%89%A9%E8%8A%82)
@@ -26,7 +28,6 @@
 1. [单依纯歌手首期唱珠玉](https://www.zhihu.com/search?q=%E5%8D%95%E4%BE%9D%E7%BA%AF%E6%AD%8C%E6%89%8B%E9%A6%96%E6%9C%9F%E5%94%B1%E7%8F%A0%E7%8E%89)
 1. [上市公司重大资产重组新规落地](https://www.zhihu.com/search?q=%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8%E9%87%8D%E5%A4%A7%E8%B5%84%E4%BA%A7%E9%87%8D%E7%BB%84%E6%96%B0%E8%A7%84%E8%90%BD%E5%9C%B0)
 1. [医生提醒女性勿过度防晒](https://www.zhihu.com/search?q=%E5%8C%BB%E7%94%9F%E6%8F%90%E9%86%92%E5%A5%B3%E6%80%A7%E5%8B%BF%E8%BF%87%E5%BA%A6%E9%98%B2%E6%99%92)
-1. [特厨隋卞MCN敦促隋坡停止侵权](https://www.zhihu.com/search?q=%E7%89%B9%E5%8E%A8%E9%9A%8B%E5%8D%9EMCN%E6%95%A6%E4%BF%83%E9%9A%8B%E5%9D%A1%E5%81%9C%E6%AD%A2%E4%BE%B5%E6%9D%83)
 1. [司美格鲁肽副作用](https://www.zhihu.com/search?q=%E5%8F%B8%E7%BE%8E%E6%A0%BC%E9%B2%81%E8%82%BD%E5%89%AF%E4%BD%9C%E7%94%A8)
 1. [北斗系统进入标准体系](https://www.zhihu.com/search?q=%E5%8C%97%E6%96%97%E7%B3%BB%E7%BB%9F%E8%BF%9B%E5%85%A5%E6%A0%87%E5%87%86%E4%BD%93%E7%B3%BB)
 1. [藏海传观后感](https://www.zhihu.com/search?q=%E8%97%8F%E6%B5%B7%E4%BC%A0%E8%A7%82%E5%90%8E%E6%84%9F)
