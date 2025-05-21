@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-05-21 12:30:53 +0800`
+`更新时间：2025-05-21 13:25:44 +0800`
 
 ## 热门搜索
 
@@ -33,7 +33,7 @@
 1. [沃尔玛准备以关税为由涨价](https://www.zhihu.com/search?q=%E6%B2%83%E5%B0%94%E7%8E%9B%E5%87%86%E5%A4%87%E4%BB%A5%E5%85%B3%E7%A8%8E%E4%B8%BA%E7%94%B1%E6%B6%A8%E4%BB%B7)
 1. [孙俪邓超打假AI虚假广告](https://www.zhihu.com/search?q=%E5%AD%99%E4%BF%AA%E9%82%93%E8%B6%85%E6%89%93%E5%81%87AI%E8%99%9A%E5%81%87%E5%B9%BF%E5%91%8A)
 1. [余依婷女子100米蝶泳夺冠](https://www.zhihu.com/search?q=%E4%BD%99%E4%BE%9D%E5%A9%B7%E5%A5%B3%E5%AD%90100%E7%B1%B3%E8%9D%B6%E6%B3%B3%E5%A4%BA%E5%86%A0)
-1. [雷军：小米玄戒O1芯片采用第二代3nm工艺制程](https://www.zhihu.com/search?q=%E9%9B%B7%E5%86%9B%EF%BC%9A%E5%B0%8F%E7%B1%B3%E7%8E%84%E6%88%92O1%E8%8A%AF%E7%89%87%E9%87%87%E7%94%A8%E7%AC%AC%E4%BA%8C%E4%BB%A33nm%E5%B7%A5%E8%89%BA%E5%88%B6%E7%A8%8B)
+1. [字节跳动严控餐食外带及禁止午休关灯](https://www.zhihu.com/search?q=%E5%AD%97%E8%8A%82%E8%B7%B3%E5%8A%A8%E4%B8%A5%E6%8E%A7%E9%A4%90%E9%A3%9F%E5%A4%96%E5%B8%A6%E5%8F%8A%E7%A6%81%E6%AD%A2%E5%8D%88%E4%BC%91%E5%85%B3%E7%81%AF)
 
 ## 热门话题
 
