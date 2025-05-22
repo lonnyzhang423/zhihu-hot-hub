@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-05-22 18:27:50 +0800`
+`更新时间：2025-05-22 19:21:35 +0800`
 
 ## 热门搜索
 
-1. [福特烈马被曝用纸填充车顶](https://www.zhihu.com/search?q=%E7%A6%8F%E7%89%B9%E7%83%88%E9%A9%AC%E8%A2%AB%E6%9B%9D%E7%94%A8%E7%BA%B8%E5%A1%AB%E5%85%85%E8%BD%A6%E9%A1%B6)
-1. [麦当劳恢复手工裹粉麦辣产品](https://www.zhihu.com/search?q=%E9%BA%A6%E5%BD%93%E5%8A%B3%E6%81%A2%E5%A4%8D%E6%89%8B%E5%B7%A5%E8%A3%B9%E7%B2%89%E9%BA%A6%E8%BE%A3%E4%BA%A7%E5%93%81)
+1. [武汉暴雨](https://www.zhihu.com/search?q=%E6%AD%A6%E6%B1%89%E6%9A%B4%E9%9B%A8)
+1. [湖北暴雨](https://www.zhihu.com/search?q=%E6%B9%96%E5%8C%97%E6%9A%B4%E9%9B%A8)
 1. [为什么鹰等猛禽不吃喜鹊](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E9%B9%B0%E7%AD%89%E7%8C%9B%E7%A6%BD%E4%B8%8D%E5%90%83%E5%96%9C%E9%B9%8A)
 1. [为何都说人生的容错率大到无法想象](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BD%95%E9%83%BD%E8%AF%B4%E4%BA%BA%E7%94%9F%E7%9A%84%E5%AE%B9%E9%94%99%E7%8E%87%E5%A4%A7%E5%88%B0%E6%97%A0%E6%B3%95%E6%83%B3%E8%B1%A1)
 1. [知乎旧物节](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%E6%97%A7%E7%89%A9%E8%8A%82)
