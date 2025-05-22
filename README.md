@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-05-23 00:15:17 +0800`
+`更新时间：2025-05-23 01:10:53 +0800`
 
 ## 热门搜索
 
@@ -39,7 +39,6 @@
 1. [克罗恩病能治愈吗](https://www.zhihu.com/search?q=%E5%85%8B%E7%BD%97%E6%81%A9%E7%97%85%E8%83%BD%E6%B2%BB%E6%84%88%E5%90%97)
 1. [中国看海最好的城市是哪里](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E7%9C%8B%E6%B5%B7%E6%9C%80%E5%A5%BD%E7%9A%84%E5%9F%8E%E5%B8%82%E6%98%AF%E5%93%AA%E9%87%8C)
 1. [林志炫「悟空」遭差评是什么原因](https://www.zhihu.com/search?q=%E6%9E%97%E5%BF%97%E7%82%AB%E3%80%8C%E6%82%9F%E7%A9%BA%E3%80%8D%E9%81%AD%E5%B7%AE%E8%AF%84%E6%98%AF%E4%BB%80%E4%B9%88%E5%8E%9F%E5%9B%A0)
-1. [有什么地狱级的笑话](https://www.zhihu.com/search?q=%E6%9C%89%E4%BB%80%E4%B9%88%E5%9C%B0%E7%8B%B1%E7%BA%A7%E7%9A%84%E7%AC%91%E8%AF%9D)
 
 ## 热门话题
 
