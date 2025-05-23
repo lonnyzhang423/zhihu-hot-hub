@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-05-23 15:24:50 +0800`
+`更新时间：2025-05-23 16:33:40 +0800`
 
 ## 热门搜索
 
@@ -34,7 +34,6 @@
 1. [瑞士法郎是避风港](https://www.zhihu.com/search?q=%E7%91%9E%E5%A3%AB%E6%B3%95%E9%83%8E%E6%98%AF%E9%81%BF%E9%A3%8E%E6%B8%AF)
 1. [23999元的鸿蒙电脑值得买吗](https://www.zhihu.com/search?q=23999%E5%85%83%E7%9A%84%E9%B8%BF%E8%92%99%E7%94%B5%E8%84%91%E5%80%BC%E5%BE%97%E4%B9%B0%E5%90%97)
 1. [中国操作系统市场规模](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%B8%82%E5%9C%BA%E8%A7%84%E6%A8%A1)
-1. [英特尔考虑剥离其网络与边缘业务](https://www.zhihu.com/search?q=%E8%8B%B1%E7%89%B9%E5%B0%94%E8%80%83%E8%99%91%E5%89%A5%E7%A6%BB%E5%85%B6%E7%BD%91%E7%BB%9C%E4%B8%8E%E8%BE%B9%E7%BC%98%E4%B8%9A%E5%8A%A1)
 
 ## 热门话题
 
