@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-05-23 11:44:19 +0800`
+`更新时间：2025-05-23 12:30:11 +0800`
 
 ## 热门搜索
 
-1. [宁静朱丹蔡文静李嘉琦四代浪姐同框](https://www.zhihu.com/search?q=%E5%AE%81%E9%9D%99%E6%9C%B1%E4%B8%B9%E8%94%A1%E6%96%87%E9%9D%99%E6%9D%8E%E5%98%89%E7%90%A6%E5%9B%9B%E4%BB%A3%E6%B5%AA%E5%A7%90%E5%90%8C%E6%A1%86)
+1. [武汉暴雨](https://www.zhihu.com/search?q=%E6%AD%A6%E6%B1%89%E6%9A%B4%E9%9B%A8)
+1. [湖北暴雨](https://www.zhihu.com/search?q=%E6%B9%96%E5%8C%97%E6%9A%B4%E9%9B%A8)
 1. [为何都说人生的容错率大到无法想象](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BD%95%E9%83%BD%E8%AF%B4%E4%BA%BA%E7%94%9F%E7%9A%84%E5%AE%B9%E9%94%99%E7%8E%87%E5%A4%A7%E5%88%B0%E6%97%A0%E6%B3%95%E6%83%B3%E8%B1%A1)
 1. [网红儿童成父母「摇钱树」](https://www.zhihu.com/search?q=%E7%BD%91%E7%BA%A2%E5%84%BF%E7%AB%A5%E6%88%90%E7%88%B6%E6%AF%8D%E3%80%8C%E6%91%87%E9%92%B1%E6%A0%91%E3%80%8D)
 1. [花 4000 元报冥想班是智商税吗](https://www.zhihu.com/search?q=%E8%8A%B1%204000%20%E5%85%83%E6%8A%A5%E5%86%A5%E6%83%B3%E7%8F%AD%E6%98%AF%E6%99%BA%E5%95%86%E7%A8%8E%E5%90%97)
@@ -24,7 +25,7 @@
 1. [多家大行下调存款利率1年期下破1%](https://www.zhihu.com/search?q=%E5%A4%9A%E5%AE%B6%E5%A4%A7%E8%A1%8C%E4%B8%8B%E8%B0%83%E5%AD%98%E6%AC%BE%E5%88%A9%E7%8E%871%E5%B9%B4%E6%9C%9F%E4%B8%8B%E7%A0%B41%25)
 1. [uzi入选英雄联盟名人堂](https://www.zhihu.com/search?q=uzi%E5%85%A5%E9%80%89%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E5%90%8D%E4%BA%BA%E5%A0%82)
 1. [520](https://www.zhihu.com/search?q=520)
-1. [武汉暴雨](https://www.zhihu.com/search?q=%E6%AD%A6%E6%B1%89%E6%9A%B4%E9%9B%A8)
+1. [广告该如何平衡不同人群的接受度](https://www.zhihu.com/search?q=%E5%B9%BF%E5%91%8A%E8%AF%A5%E5%A6%82%E4%BD%95%E5%B9%B3%E8%A1%A1%E4%B8%8D%E5%90%8C%E4%BA%BA%E7%BE%A4%E7%9A%84%E6%8E%A5%E5%8F%97%E5%BA%A6)
 1. [特厨隋卞发布视频「一个手艺人的违约史」](https://www.zhihu.com/search?q=%E7%89%B9%E5%8E%A8%E9%9A%8B%E5%8D%9E%E5%8F%91%E5%B8%83%E8%A7%86%E9%A2%91%E3%80%8C%E4%B8%80%E4%B8%AA%E6%89%8B%E8%89%BA%E4%BA%BA%E7%9A%84%E8%BF%9D%E7%BA%A6%E5%8F%B2%E3%80%8D)
 1. [造谣陈奕迅去世者需承担哪些法律责任](https://www.zhihu.com/search?q=%E9%80%A0%E8%B0%A3%E9%99%88%E5%A5%95%E8%BF%85%E5%8E%BB%E4%B8%96%E8%80%85%E9%9C%80%E6%89%BF%E6%8B%85%E5%93%AA%E4%BA%9B%E6%B3%95%E5%BE%8B%E8%B4%A3%E4%BB%BB)
 1. [MCN 分成只给「特厨隋卞」500 元](https://www.zhihu.com/search?q=MCN%20%E5%88%86%E6%88%90%E5%8F%AA%E7%BB%99%E3%80%8C%E7%89%B9%E5%8E%A8%E9%9A%8B%E5%8D%9E%E3%80%8D500%20%E5%85%83)
@@ -38,7 +39,6 @@
 1. [中国看海最好的城市是哪里](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E7%9C%8B%E6%B5%B7%E6%9C%80%E5%A5%BD%E7%9A%84%E5%9F%8E%E5%B8%82%E6%98%AF%E5%93%AA%E9%87%8C)
 1. [林志炫「悟空」遭差评是什么原因](https://www.zhihu.com/search?q=%E6%9E%97%E5%BF%97%E7%82%AB%E3%80%8C%E6%82%9F%E7%A9%BA%E3%80%8D%E9%81%AD%E5%B7%AE%E8%AF%84%E6%98%AF%E4%BB%80%E4%B9%88%E5%8E%9F%E5%9B%A0)
 1. [有什么地狱级的笑话](https://www.zhihu.com/search?q=%E6%9C%89%E4%BB%80%E4%B9%88%E5%9C%B0%E7%8B%B1%E7%BA%A7%E7%9A%84%E7%AC%91%E8%AF%9D)
-1. [学校让家长参与护学岗的安排是否合理](https://www.zhihu.com/search?q=%E5%AD%A6%E6%A0%A1%E8%AE%A9%E5%AE%B6%E9%95%BF%E5%8F%82%E4%B8%8E%E6%8A%A4%E5%AD%A6%E5%B2%97%E7%9A%84%E5%AE%89%E6%8E%92%E6%98%AF%E5%90%A6%E5%90%88%E7%90%86)
 
 ## 热门话题
 
