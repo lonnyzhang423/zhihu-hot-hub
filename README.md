@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-05-23 22:12:04 +0800`
+`更新时间：2025-05-23 23:12:31 +0800`
 
 ## 热门搜索
 
@@ -36,6 +36,7 @@
 1. [小米 SoC 芯片投入超 135 亿](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3%20SoC%20%E8%8A%AF%E7%89%87%E6%8A%95%E5%85%A5%E8%B6%85%20135%20%E4%BA%BF)
 1. [怎样防晒才刚刚好](https://www.zhihu.com/search?q=%E6%80%8E%E6%A0%B7%E9%98%B2%E6%99%92%E6%89%8D%E5%88%9A%E5%88%9A%E5%A5%BD)
 1. [体操全锦赛北京队小将临场忘动作](https://www.zhihu.com/search?q=%E4%BD%93%E6%93%8D%E5%85%A8%E9%94%A6%E8%B5%9B%E5%8C%97%E4%BA%AC%E9%98%9F%E5%B0%8F%E5%B0%86%E4%B8%B4%E5%9C%BA%E5%BF%98%E5%8A%A8%E4%BD%9C)
+1. [为何凤阳鼓楼顶部瓦片会大面积脱落](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BD%95%E5%87%A4%E9%98%B3%E9%BC%93%E6%A5%BC%E9%A1%B6%E9%83%A8%E7%93%A6%E7%89%87%E4%BC%9A%E5%A4%A7%E9%9D%A2%E7%A7%AF%E8%84%B1%E8%90%BD)
 
 ## 热门话题
 
