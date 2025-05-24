@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-05-24 16:14:10 +0800`
+`更新时间：2025-05-24 17:11:25 +0800`
 
 ## 热门搜索
 
@@ -20,9 +20,7 @@
 1. [武汉暴雨](https://www.zhihu.com/search?q=%E6%AD%A6%E6%B1%89%E6%9A%B4%E9%9B%A8)
 1. [国乒男双无缘四强](https://www.zhihu.com/search?q=%E5%9B%BD%E4%B9%92%E7%94%B7%E5%8F%8C%E6%97%A0%E7%BC%98%E5%9B%9B%E5%BC%BA)
 1. [为何都说人生的容错率大到无法想象](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BD%95%E9%83%BD%E8%AF%B4%E4%BA%BA%E7%94%9F%E7%9A%84%E5%AE%B9%E9%94%99%E7%8E%87%E5%A4%A7%E5%88%B0%E6%97%A0%E6%B3%95%E6%83%B3%E8%B1%A1)
-1. [鸿蒙电脑正式发布](https://www.zhihu.com/search?q=%E9%B8%BF%E8%92%99%E7%94%B5%E8%84%91%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83)
 1. [23999元的鸿蒙电脑值得买吗](https://www.zhihu.com/search?q=23999%E5%85%83%E7%9A%84%E9%B8%BF%E8%92%99%E7%94%B5%E8%84%91%E5%80%BC%E5%BE%97%E4%B9%B0%E5%90%97)
-1. [「特厨隋卞」发布视频《回应一下网友的质疑》](https://www.zhihu.com/search?q=%E3%80%8C%E7%89%B9%E5%8E%A8%E9%9A%8B%E5%8D%9E%E3%80%8D%E5%8F%91%E5%B8%83%E8%A7%86%E9%A2%91%E3%80%8A%E5%9B%9E%E5%BA%94%E4%B8%80%E4%B8%8B%E7%BD%91%E5%8F%8B%E7%9A%84%E8%B4%A8%E7%96%91%E3%80%8B)
 1. [图灵奖得主质问为何布置可AI完成的作业](https://www.zhihu.com/search?q=%E5%9B%BE%E7%81%B5%E5%A5%96%E5%BE%97%E4%B8%BB%E8%B4%A8%E9%97%AE%E4%B8%BA%E4%BD%95%E5%B8%83%E7%BD%AE%E5%8F%AFAI%E5%AE%8C%E6%88%90%E7%9A%84%E4%BD%9C%E4%B8%9A)
 1. [我国法律对起名和改名的相关规定是怎样的](https://www.zhihu.com/search?q=%E6%88%91%E5%9B%BD%E6%B3%95%E5%BE%8B%E5%AF%B9%E8%B5%B7%E5%90%8D%E5%92%8C%E6%94%B9%E5%90%8D%E7%9A%84%E7%9B%B8%E5%85%B3%E8%A7%84%E5%AE%9A%E6%98%AF%E6%80%8E%E6%A0%B7%E7%9A%84)
 1. [简自豪入选英雄联盟名人堂第二位成员](https://www.zhihu.com/search?q=%E7%AE%80%E8%87%AA%E8%B1%AA%E5%85%A5%E9%80%89%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F%E5%90%8D%E4%BA%BA%E5%A0%82%E7%AC%AC%E4%BA%8C%E4%BD%8D%E6%88%90%E5%91%98)
@@ -36,6 +34,7 @@
 1. [找不到夏朝的文物是为什么](https://www.zhihu.com/search?q=%E6%89%BE%E4%B8%8D%E5%88%B0%E5%A4%8F%E6%9C%9D%E7%9A%84%E6%96%87%E7%89%A9%E6%98%AF%E4%B8%BA%E4%BB%80%E4%B9%88)
 1. [若全民都领到 1 元是否等于没发](https://www.zhihu.com/search?q=%E8%8B%A5%E5%85%A8%E6%B0%91%E9%83%BD%E9%A2%86%E5%88%B0%201%20%E5%85%83%E6%98%AF%E5%90%A6%E7%AD%89%E4%BA%8E%E6%B2%A1%E5%8F%91)
 1. [为何游戏充值金额要设计零碎数值](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BD%95%E6%B8%B8%E6%88%8F%E5%85%85%E5%80%BC%E9%87%91%E9%A2%9D%E8%A6%81%E8%AE%BE%E8%AE%A1%E9%9B%B6%E7%A2%8E%E6%95%B0%E5%80%BC)
+1. [为什么程勇出狱时牧师和思慧没有来](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%A8%8B%E5%8B%87%E5%87%BA%E7%8B%B1%E6%97%B6%E7%89%A7%E5%B8%88%E5%92%8C%E6%80%9D%E6%85%A7%E6%B2%A1%E6%9C%89%E6%9D%A5)
 
 ## 热门话题
 
