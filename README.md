@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-05-25 21:20:18 +0800`
+`更新时间：2025-05-25 22:10:16 +0800`
 
 ## 热门搜索
 
@@ -31,10 +31,11 @@
 1. [阿里大文娱更名为虎鲸文娱](https://www.zhihu.com/search?q=%E9%98%BF%E9%87%8C%E5%A4%A7%E6%96%87%E5%A8%B1%E6%9B%B4%E5%90%8D%E4%B8%BA%E8%99%8E%E9%B2%B8%E6%96%87%E5%A8%B1)
 1. [为什么感觉大学老师全年无休](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%84%9F%E8%A7%89%E5%A4%A7%E5%AD%A6%E8%80%81%E5%B8%88%E5%85%A8%E5%B9%B4%E6%97%A0%E4%BC%91)
 1. [比特币升破11万美元](https://www.zhihu.com/search?q=%E6%AF%94%E7%89%B9%E5%B8%81%E5%8D%87%E7%A0%B411%E4%B8%87%E7%BE%8E%E5%85%83)
-1. [黄杨钿甜](https://www.zhihu.com/search?q=%E9%BB%84%E6%9D%A8%E9%92%BF%E7%94%9C)
 1. [海口警方通报网传司机驾车拖行虐猫](https://www.zhihu.com/search?q=%E6%B5%B7%E5%8F%A3%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%BD%91%E4%BC%A0%E5%8F%B8%E6%9C%BA%E9%A9%BE%E8%BD%A6%E6%8B%96%E8%A1%8C%E8%99%90%E7%8C%AB)
 1. [游客坐悬崖石拍照未给孩子系安全绳](https://www.zhihu.com/search?q=%E6%B8%B8%E5%AE%A2%E5%9D%90%E6%82%AC%E5%B4%96%E7%9F%B3%E6%8B%8D%E7%85%A7%E6%9C%AA%E7%BB%99%E5%AD%A9%E5%AD%90%E7%B3%BB%E5%AE%89%E5%85%A8%E7%BB%B3)
 1. [现货黄金向上触及3250美元每盎司](https://www.zhihu.com/search?q=%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E5%90%91%E4%B8%8A%E8%A7%A6%E5%8F%8A3250%E7%BE%8E%E5%85%83%E6%AF%8F%E7%9B%8E%E5%8F%B8)
+1. [当孩子拿起手机我们在担心什么](https://www.zhihu.com/search?q=%E5%BD%93%E5%AD%A9%E5%AD%90%E6%8B%BF%E8%B5%B7%E6%89%8B%E6%9C%BA%E6%88%91%E4%BB%AC%E5%9C%A8%E6%8B%85%E5%BF%83%E4%BB%80%E4%B9%88)
+1. [天价耳环事件真是公众集体仇富吗](https://www.zhihu.com/search?q=%E5%A4%A9%E4%BB%B7%E8%80%B3%E7%8E%AF%E4%BA%8B%E4%BB%B6%E7%9C%9F%E6%98%AF%E5%85%AC%E4%BC%97%E9%9B%86%E4%BD%93%E4%BB%87%E5%AF%8C%E5%90%97)
 
 ## 热门话题
 
