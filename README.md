@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-05-25 19:09:25 +0800`
+`更新时间：2025-05-25 20:20:50 +0800`
 
 ## 热门搜索
 
@@ -19,10 +19,7 @@
 1. [鹿晗新歌](https://www.zhihu.com/search?q=%E9%B9%BF%E6%99%97%E6%96%B0%E6%AD%8C)
 1. [武汉暴雨](https://www.zhihu.com/search?q=%E6%AD%A6%E6%B1%89%E6%9A%B4%E9%9B%A8)
 1. [国乒男双无缘四强](https://www.zhihu.com/search?q=%E5%9B%BD%E4%B9%92%E7%94%B7%E5%8F%8C%E6%97%A0%E7%BC%98%E5%9B%9B%E5%BC%BA)
-1. [孙颖莎vs王曼昱](https://www.zhihu.com/search?q=%E5%AD%99%E9%A2%96%E8%8E%8Evs%E7%8E%8B%E6%9B%BC%E6%98%B1)
 1. [23999元的鸿蒙电脑值得买吗](https://www.zhihu.com/search?q=23999%E5%85%83%E7%9A%84%E9%B8%BF%E8%92%99%E7%94%B5%E8%84%91%E5%80%BC%E5%BE%97%E4%B9%B0%E5%90%97)
-1. [小米YU7全新配色「宝石绿」亮相](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3YU7%E5%85%A8%E6%96%B0%E9%85%8D%E8%89%B2%E3%80%8C%E5%AE%9D%E7%9F%B3%E7%BB%BF%E3%80%8D%E4%BA%AE%E7%9B%B8)
-1. [小米天际屏全景显示亮相](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3%E5%A4%A9%E9%99%85%E5%B1%8F%E5%85%A8%E6%99%AF%E6%98%BE%E7%A4%BA%E4%BA%AE%E7%9B%B8)
 1. [哪吒2延长上映至6月30日](https://www.zhihu.com/search?q=%E5%93%AA%E5%90%922%E5%BB%B6%E9%95%BF%E4%B8%8A%E6%98%A0%E8%87%B36%E6%9C%8830%E6%97%A5)
 1. [李凯馨前助理道歉](https://www.zhihu.com/search?q=%E6%9D%8E%E5%87%AF%E9%A6%A8%E5%89%8D%E5%8A%A9%E7%90%86%E9%81%93%E6%AD%89)
 1. [欧盟对俄发起第 17 轮制裁](https://www.zhihu.com/search?q=%E6%AC%A7%E7%9B%9F%E5%AF%B9%E4%BF%84%E5%8F%91%E8%B5%B7%E7%AC%AC%2017%20%E8%BD%AE%E5%88%B6%E8%A3%81)
@@ -34,7 +31,10 @@
 1. [阿里大文娱更名为虎鲸文娱](https://www.zhihu.com/search?q=%E9%98%BF%E9%87%8C%E5%A4%A7%E6%96%87%E5%A8%B1%E6%9B%B4%E5%90%8D%E4%B8%BA%E8%99%8E%E9%B2%B8%E6%96%87%E5%A8%B1)
 1. [为什么感觉大学老师全年无休](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%84%9F%E8%A7%89%E5%A4%A7%E5%AD%A6%E8%80%81%E5%B8%88%E5%85%A8%E5%B9%B4%E6%97%A0%E4%BC%91)
 1. [比特币升破11万美元](https://www.zhihu.com/search?q=%E6%AF%94%E7%89%B9%E5%B8%81%E5%8D%87%E7%A0%B411%E4%B8%87%E7%BE%8E%E5%85%83)
-1. [黄杨钿甜同款耳环义乌已量产](https://www.zhihu.com/search?q=%E9%BB%84%E6%9D%A8%E9%92%BF%E7%94%9C%E5%90%8C%E6%AC%BE%E8%80%B3%E7%8E%AF%E4%B9%89%E4%B9%8C%E5%B7%B2%E9%87%8F%E4%BA%A7)
+1. [黄杨钿甜](https://www.zhihu.com/search?q=%E9%BB%84%E6%9D%A8%E9%92%BF%E7%94%9C)
+1. [海口警方通报网传司机驾车拖行虐猫](https://www.zhihu.com/search?q=%E6%B5%B7%E5%8F%A3%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%BD%91%E4%BC%A0%E5%8F%B8%E6%9C%BA%E9%A9%BE%E8%BD%A6%E6%8B%96%E8%A1%8C%E8%99%90%E7%8C%AB)
+1. [游客坐悬崖石拍照未给孩子系安全绳](https://www.zhihu.com/search?q=%E6%B8%B8%E5%AE%A2%E5%9D%90%E6%82%AC%E5%B4%96%E7%9F%B3%E6%8B%8D%E7%85%A7%E6%9C%AA%E7%BB%99%E5%AD%A9%E5%AD%90%E7%B3%BB%E5%AE%89%E5%85%A8%E7%BB%B3)
+1. [现货黄金向上触及3250美元每盎司](https://www.zhihu.com/search?q=%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E5%90%91%E4%B8%8A%E8%A7%A6%E5%8F%8A3250%E7%BE%8E%E5%85%83%E6%AF%8F%E7%9B%8E%E5%8F%B8)
 
 ## 热门话题
 
