@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-05-25 11:15:05 +0800`
+`更新时间：2025-05-25 12:19:23 +0800`
 
 ## 热门搜索
 
@@ -26,9 +26,7 @@
 1. [哪吒2延长上映至6月30日](https://www.zhihu.com/search?q=%E5%93%AA%E5%90%922%E5%BB%B6%E9%95%BF%E4%B8%8A%E6%98%A0%E8%87%B36%E6%9C%8830%E6%97%A5)
 1. [李凯馨前助理道歉](https://www.zhihu.com/search?q=%E6%9D%8E%E5%87%AF%E9%A6%A8%E5%89%8D%E5%8A%A9%E7%90%86%E9%81%93%E6%AD%89)
 1. [欧盟对俄发起第 17 轮制裁](https://www.zhihu.com/search?q=%E6%AC%A7%E7%9B%9F%E5%AF%B9%E4%BF%84%E5%8F%91%E8%B5%B7%E7%AC%AC%2017%20%E8%BD%AE%E5%88%B6%E8%A3%81)
-1. [日本40年期国债利率破 3.59%](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC40%E5%B9%B4%E6%9C%9F%E5%9B%BD%E5%80%BA%E5%88%A9%E7%8E%87%E7%A0%B4%203.59%25)
 1. [国足大名单出炉武磊回归](https://www.zhihu.com/search?q=%E5%9B%BD%E8%B6%B3%E5%A4%A7%E5%90%8D%E5%8D%95%E5%87%BA%E7%82%89%E6%AD%A6%E7%A3%8A%E5%9B%9E%E5%BD%92)
-1. [飞书发布ai功能知识问答](https://www.zhihu.com/search?q=%E9%A3%9E%E4%B9%A6%E5%8F%91%E5%B8%83ai%E5%8A%9F%E8%83%BD%E7%9F%A5%E8%AF%86%E9%97%AE%E7%AD%94)
 1. [福特烈马被曝用纸填充车顶](https://www.zhihu.com/search?q=%E7%A6%8F%E7%89%B9%E7%83%88%E9%A9%AC%E8%A2%AB%E6%9B%9D%E7%94%A8%E7%BA%B8%E5%A1%AB%E5%85%85%E8%BD%A6%E9%A1%B6)
 1. [深圳警方通报男子地铁口附近打人](https://www.zhihu.com/search?q=%E6%B7%B1%E5%9C%B3%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5%E7%94%B7%E5%AD%90%E5%9C%B0%E9%93%81%E5%8F%A3%E9%99%84%E8%BF%91%E6%89%93%E4%BA%BA)
 1. [如何看待孟羽童董明珠时隔两年的互动](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%AD%9F%E7%BE%BD%E7%AB%A5%E8%91%A3%E6%98%8E%E7%8F%A0%E6%97%B6%E9%9A%94%E4%B8%A4%E5%B9%B4%E7%9A%84%E4%BA%92%E5%8A%A8)
@@ -38,6 +36,8 @@
 1. [为什么如今晒娃变成了「啃娃」](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A6%82%E4%BB%8A%E6%99%92%E5%A8%83%E5%8F%98%E6%88%90%E4%BA%86%E3%80%8C%E5%95%83%E5%A8%83%E3%80%8D)
 1. [乘扶梯不要「左行右立」背后有哪些考量](https://www.zhihu.com/search?q=%E4%B9%98%E6%89%B6%E6%A2%AF%E4%B8%8D%E8%A6%81%E3%80%8C%E5%B7%A6%E8%A1%8C%E5%8F%B3%E7%AB%8B%E3%80%8D%E8%83%8C%E5%90%8E%E6%9C%89%E5%93%AA%E4%BA%9B%E8%80%83%E9%87%8F)
 1. [黄杨钿甜耳环事件还有哪些问题需澄清](https://www.zhihu.com/search?q=%E9%BB%84%E6%9D%A8%E9%92%BF%E7%94%9C%E8%80%B3%E7%8E%AF%E4%BA%8B%E4%BB%B6%E8%BF%98%E6%9C%89%E5%93%AA%E4%BA%9B%E9%97%AE%E9%A2%98%E9%9C%80%E6%BE%84%E6%B8%85)
+1. [演员朱媛媛患癌去世](https://www.zhihu.com/search?q=%E6%BC%94%E5%91%98%E6%9C%B1%E5%AA%9B%E5%AA%9B%E6%82%A3%E7%99%8C%E5%8E%BB%E4%B8%96)
+1. [有哪些食物不能放进微波炉](https://www.zhihu.com/search?q=%E6%9C%89%E5%93%AA%E4%BA%9B%E9%A3%9F%E7%89%A9%E4%B8%8D%E8%83%BD%E6%94%BE%E8%BF%9B%E5%BE%AE%E6%B3%A2%E7%82%89)
 
 ## 热门话题
 
