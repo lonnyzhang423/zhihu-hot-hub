@@ -11,20 +11,18 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-05-26 14:18:47 +0800`
+`更新时间：2025-05-26 17:39:28 +0800`
 
 ## 热门搜索
 
-1. [蔡徐坤新歌](https://www.zhihu.com/search?q=%E8%94%A1%E5%BE%90%E5%9D%A4%E6%96%B0%E6%AD%8C)
-1. [哪一刻让你终于意识到了这就是命](https://www.zhihu.com/search?q=%E5%93%AA%E4%B8%80%E5%88%BB%E8%AE%A9%E4%BD%A0%E7%BB%88%E4%BA%8E%E6%84%8F%E8%AF%86%E5%88%B0%E4%BA%86%E8%BF%99%E5%B0%B1%E6%98%AF%E5%91%BD)
+1. [郑钦文vs帕芙柳琴科娃](https://www.zhihu.com/search?q=%E9%83%91%E9%92%A6%E6%96%87vs%E5%B8%95%E8%8A%99%E6%9F%B3%E7%90%B4%E7%A7%91%E5%A8%83)
+1. [超人确认引进](https://www.zhihu.com/search?q=%E8%B6%85%E4%BA%BA%E7%A1%AE%E8%AE%A4%E5%BC%95%E8%BF%9B)
 1. [人为什么要睡觉](https://www.zhihu.com/search?q=%E4%BA%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E7%9D%A1%E8%A7%89)
 1. [国乒男双无缘四强](https://www.zhihu.com/search?q=%E5%9B%BD%E4%B9%92%E7%94%B7%E5%8F%8C%E6%97%A0%E7%BC%98%E5%9B%9B%E5%BC%BA)
 1. [毕赣狂野时代](https://www.zhihu.com/search?q=%E6%AF%95%E8%B5%A3%E7%8B%82%E9%87%8E%E6%97%B6%E4%BB%A3)
 1. [印度这次为何要急着发动战争](https://www.zhihu.com/search?q=%E5%8D%B0%E5%BA%A6%E8%BF%99%E6%AC%A1%E4%B8%BA%E4%BD%95%E8%A6%81%E6%80%A5%E7%9D%80%E5%8F%91%E5%8A%A8%E6%88%98%E4%BA%89)
 1. [华熙生物和巨子生物干仗](https://www.zhihu.com/search?q=%E5%8D%8E%E7%86%99%E7%94%9F%E7%89%A9%E5%92%8C%E5%B7%A8%E5%AD%90%E7%94%9F%E7%89%A9%E5%B9%B2%E4%BB%97)
 1. [为什么说抗癌5年是个坎儿](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%AF%B4%E6%8A%97%E7%99%8C5%E5%B9%B4%E6%98%AF%E4%B8%AA%E5%9D%8E%E5%84%BF)
-1. [比亚迪欧洲纯电车销量首次击败特斯拉](https://www.zhihu.com/search?q=%E6%AF%94%E4%BA%9A%E8%BF%AA%E6%AC%A7%E6%B4%B2%E7%BA%AF%E7%94%B5%E8%BD%A6%E9%94%80%E9%87%8F%E9%A6%96%E6%AC%A1%E5%87%BB%E8%B4%A5%E7%89%B9%E6%96%AF%E6%8B%89)
-1. [美国政府暂停哈佛大学招收国际学生](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E6%9A%82%E5%81%9C%E5%93%88%E4%BD%9B%E5%A4%A7%E5%AD%A6%E6%8B%9B%E6%94%B6%E5%9B%BD%E9%99%85%E5%AD%A6%E7%94%9F)
 1. [莫德里奇宣布离开皇马](https://www.zhihu.com/search?q=%E8%8E%AB%E5%BE%B7%E9%87%8C%E5%A5%87%E5%AE%A3%E5%B8%83%E7%A6%BB%E5%BC%80%E7%9A%87%E9%A9%AC)
 1. [中国科学家发现罕见掩食脉冲星](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%AE%B6%E5%8F%91%E7%8E%B0%E7%BD%95%E8%A7%81%E6%8E%A9%E9%A3%9F%E8%84%89%E5%86%B2%E6%98%9F)
 1. [618 洗衣机推荐](https://www.zhihu.com/search?q=618%20%E6%B4%97%E8%A1%A3%E6%9C%BA%E6%8E%A8%E8%8D%90)
@@ -38,6 +36,8 @@
 1. [适合懒人入手的做饭好物](https://www.zhihu.com/search?q=%E9%80%82%E5%90%88%E6%87%92%E4%BA%BA%E5%85%A5%E6%89%8B%E7%9A%84%E5%81%9A%E9%A5%AD%E5%A5%BD%E7%89%A9)
 1. [增加幸福感的家用电器](https://www.zhihu.com/search?q=%E5%A2%9E%E5%8A%A0%E5%B9%B8%E7%A6%8F%E6%84%9F%E7%9A%84%E5%AE%B6%E7%94%A8%E7%94%B5%E5%99%A8)
 1. [618 护眼灯如何选](https://www.zhihu.com/search?q=618%20%E6%8A%A4%E7%9C%BC%E7%81%AF%E5%A6%82%E4%BD%95%E9%80%89)
+1. [蔡徐坤新歌](https://www.zhihu.com/search?q=%E8%94%A1%E5%BE%90%E5%9D%A4%E6%96%B0%E6%AD%8C)
+1. [跟面包绝配的酱料](https://www.zhihu.com/search?q=%E8%B7%9F%E9%9D%A2%E5%8C%85%E7%BB%9D%E9%85%8D%E7%9A%84%E9%85%B1%E6%96%99)
 
 ## 热门话题
 
