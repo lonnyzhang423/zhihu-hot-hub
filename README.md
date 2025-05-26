@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-05-26 17:39:28 +0800`
+`更新时间：2025-05-26 18:17:02 +0800`
 
 ## 热门搜索
 
-1. [郑钦文vs帕芙柳琴科娃](https://www.zhihu.com/search?q=%E9%83%91%E9%92%A6%E6%96%87vs%E5%B8%95%E8%8A%99%E6%9F%B3%E7%90%B4%E7%A7%91%E5%A8%83)
-1. [超人确认引进](https://www.zhihu.com/search?q=%E8%B6%85%E4%BA%BA%E7%A1%AE%E8%AE%A4%E5%BC%95%E8%BF%9B)
+1. [蔡徐坤新歌](https://www.zhihu.com/search?q=%E8%94%A1%E5%BE%90%E5%9D%A4%E6%96%B0%E6%AD%8C)
+1. [哪一刻让你终于意识到了这就是命](https://www.zhihu.com/search?q=%E5%93%AA%E4%B8%80%E5%88%BB%E8%AE%A9%E4%BD%A0%E7%BB%88%E4%BA%8E%E6%84%8F%E8%AF%86%E5%88%B0%E4%BA%86%E8%BF%99%E5%B0%B1%E6%98%AF%E5%91%BD)
 1. [人为什么要睡觉](https://www.zhihu.com/search?q=%E4%BA%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E7%9D%A1%E8%A7%89)
 1. [国乒男双无缘四强](https://www.zhihu.com/search?q=%E5%9B%BD%E4%B9%92%E7%94%B7%E5%8F%8C%E6%97%A0%E7%BC%98%E5%9B%9B%E5%BC%BA)
 1. [毕赣狂野时代](https://www.zhihu.com/search?q=%E6%AF%95%E8%B5%A3%E7%8B%82%E9%87%8E%E6%97%B6%E4%BB%A3)
@@ -36,7 +36,6 @@
 1. [适合懒人入手的做饭好物](https://www.zhihu.com/search?q=%E9%80%82%E5%90%88%E6%87%92%E4%BA%BA%E5%85%A5%E6%89%8B%E7%9A%84%E5%81%9A%E9%A5%AD%E5%A5%BD%E7%89%A9)
 1. [增加幸福感的家用电器](https://www.zhihu.com/search?q=%E5%A2%9E%E5%8A%A0%E5%B9%B8%E7%A6%8F%E6%84%9F%E7%9A%84%E5%AE%B6%E7%94%A8%E7%94%B5%E5%99%A8)
 1. [618 护眼灯如何选](https://www.zhihu.com/search?q=618%20%E6%8A%A4%E7%9C%BC%E7%81%AF%E5%A6%82%E4%BD%95%E9%80%89)
-1. [蔡徐坤新歌](https://www.zhihu.com/search?q=%E8%94%A1%E5%BE%90%E5%9D%A4%E6%96%B0%E6%AD%8C)
 1. [跟面包绝配的酱料](https://www.zhihu.com/search?q=%E8%B7%9F%E9%9D%A2%E5%8C%85%E7%BB%9D%E9%85%8D%E7%9A%84%E9%85%B1%E6%96%99)
 
 ## 热门话题
