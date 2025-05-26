@@ -11,19 +11,20 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-05-26 21:23:42 +0800`
+`更新时间：2025-05-26 22:12:35 +0800`
 
 ## 热门搜索
 
+1. [哪一刻让你终于意识到了这就是命](https://www.zhihu.com/search?q=%E5%93%AA%E4%B8%80%E5%88%BB%E8%AE%A9%E4%BD%A0%E7%BB%88%E4%BA%8E%E6%84%8F%E8%AF%86%E5%88%B0%E4%BA%86%E8%BF%99%E5%B0%B1%E6%98%AF%E5%91%BD)
+1. [人为什么要睡觉](https://www.zhihu.com/search?q=%E4%BA%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E7%9D%A1%E8%A7%89)
 1. [毕赣狂野时代](https://www.zhihu.com/search?q=%E6%AF%95%E8%B5%A3%E7%8B%82%E9%87%8E%E6%97%B6%E4%BB%A3)
-1. [五线谱是屎山代码吗](https://www.zhihu.com/search?q=%E4%BA%94%E7%BA%BF%E8%B0%B1%E6%98%AF%E5%B1%8E%E5%B1%B1%E4%BB%A3%E7%A0%81%E5%90%97)
 1. [印度这次为何要急着发动战争](https://www.zhihu.com/search?q=%E5%8D%B0%E5%BA%A6%E8%BF%99%E6%AC%A1%E4%B8%BA%E4%BD%95%E8%A6%81%E6%80%A5%E7%9D%80%E5%8F%91%E5%8A%A8%E6%88%98%E4%BA%89)
 1. [华熙生物和巨子生物干仗](https://www.zhihu.com/search?q=%E5%8D%8E%E7%86%99%E7%94%9F%E7%89%A9%E5%92%8C%E5%B7%A8%E5%AD%90%E7%94%9F%E7%89%A9%E5%B9%B2%E4%BB%97)
 1. [Claude 4 正式发布](https://www.zhihu.com/search?q=Claude%204%20%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83)
 1. [Claude 4连续编程7小时](https://www.zhihu.com/search?q=Claude%204%E8%BF%9E%E7%BB%AD%E7%BC%96%E7%A8%8B7%E5%B0%8F%E6%97%B6)
 1. [Claude Opus 4 惊现试图逃逸、勒索工程师等行为](https://www.zhihu.com/search?q=Claude%20Opus%204%20%E6%83%8A%E7%8E%B0%E8%AF%95%E5%9B%BE%E9%80%83%E9%80%B8%E3%80%81%E5%8B%92%E7%B4%A2%E5%B7%A5%E7%A8%8B%E5%B8%88%E7%AD%89%E8%A1%8C%E4%B8%BA)
 1. [莫德里奇宣布离开皇马](https://www.zhihu.com/search?q=%E8%8E%AB%E5%BE%B7%E9%87%8C%E5%A5%87%E5%AE%A3%E5%B8%83%E7%A6%BB%E5%BC%80%E7%9A%87%E9%A9%AC)
-1. [怎样评价三国蜀汉名将张飞的死](https://www.zhihu.com/search?q=%E6%80%8E%E6%A0%B7%E8%AF%84%E4%BB%B7%E4%B8%89%E5%9B%BD%E8%9C%80%E6%B1%89%E5%90%8D%E5%B0%86%E5%BC%A0%E9%A3%9E%E7%9A%84%E6%AD%BB)
+1. [618 洗衣机推荐](https://www.zhihu.com/search?q=618%20%E6%B4%97%E8%A1%A3%E6%9C%BA%E6%8E%A8%E8%8D%90)
 1. [618 家电推荐](https://www.zhihu.com/search?q=618%20%E5%AE%B6%E7%94%B5%E6%8E%A8%E8%8D%90)
 1. [618 价格暴降家电](https://www.zhihu.com/search?q=618%20%E4%BB%B7%E6%A0%BC%E6%9A%B4%E9%99%8D%E5%AE%B6%E7%94%B5)
 1. [618 护眼灯选购](https://www.zhihu.com/search?q=618%20%E6%8A%A4%E7%9C%BC%E7%81%AF%E9%80%89%E8%B4%AD)
