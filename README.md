@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-05-27 15:25:29 +0800`
+`更新时间：2025-05-27 16:33:40 +0800`
 
 ## 热门搜索
 
@@ -25,7 +25,6 @@
 1. [Claude 4连续编程7小时](https://www.zhihu.com/search?q=Claude%204%E8%BF%9E%E7%BB%AD%E7%BC%96%E7%A8%8B7%E5%B0%8F%E6%97%B6)
 1. [Claude Opus 4 惊现试图逃逸、勒索工程师等行为](https://www.zhihu.com/search?q=Claude%20Opus%204%20%E6%83%8A%E7%8E%B0%E8%AF%95%E5%9B%BE%E9%80%83%E9%80%B8%E3%80%81%E5%8B%92%E7%B4%A2%E5%B7%A5%E7%A8%8B%E5%B8%88%E7%AD%89%E8%A1%8C%E4%B8%BA)
 1. [51 岁曹颖自曝患胃癌](https://www.zhihu.com/search?q=51%20%E5%B2%81%E6%9B%B9%E9%A2%96%E8%87%AA%E6%9B%9D%E6%82%A3%E8%83%83%E7%99%8C)
-1. [莫德里奇宣布离开皇马](https://www.zhihu.com/search?q=%E8%8E%AB%E5%BE%B7%E9%87%8C%E5%A5%87%E5%AE%A3%E5%B8%83%E7%A6%BB%E5%BC%80%E7%9A%87%E9%A9%AC)
 1. [618 洗衣机推荐](https://www.zhihu.com/search?q=618%20%E6%B4%97%E8%A1%A3%E6%9C%BA%E6%8E%A8%E8%8D%90)
 1. [618 家电推荐](https://www.zhihu.com/search?q=618%20%E5%AE%B6%E7%94%B5%E6%8E%A8%E8%8D%90)
 1. [618 价格暴降家电](https://www.zhihu.com/search?q=618%20%E4%BB%B7%E6%A0%BC%E6%9A%B4%E9%99%8D%E5%AE%B6%E7%94%B5)
@@ -41,6 +40,7 @@
 1. [咖啡配什么酒好喝](https://www.zhihu.com/search?q=%E5%92%96%E5%95%A1%E9%85%8D%E4%BB%80%E4%B9%88%E9%85%92%E5%A5%BD%E5%96%9D)
 1. [懒人早餐搭配推荐](https://www.zhihu.com/search?q=%E6%87%92%E4%BA%BA%E6%97%A9%E9%A4%90%E6%90%AD%E9%85%8D%E6%8E%A8%E8%8D%90)
 1. [「一秒入夏」的香水推荐](https://www.zhihu.com/search?q=%E3%80%8C%E4%B8%80%E7%A7%92%E5%85%A5%E5%A4%8F%E3%80%8D%E7%9A%84%E9%A6%99%E6%B0%B4%E6%8E%A8%E8%8D%90)
+1. [618 个护囤货指南](https://www.zhihu.com/search?q=618%20%E4%B8%AA%E6%8A%A4%E5%9B%A4%E8%B4%A7%E6%8C%87%E5%8D%97)
 
 ## 热门话题
 
