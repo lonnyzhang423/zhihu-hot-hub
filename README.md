@@ -11,13 +11,14 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-05-28 18:28:46 +0800`
+`更新时间：2025-05-28 19:22:11 +0800`
 
 ## 热门搜索
 
 1. [哪一刻让你终于意识到了这就是命](https://www.zhihu.com/search?q=%E5%93%AA%E4%B8%80%E5%88%BB%E8%AE%A9%E4%BD%A0%E7%BB%88%E4%BA%8E%E6%84%8F%E8%AF%86%E5%88%B0%E4%BA%86%E8%BF%99%E5%B0%B1%E6%98%AF%E5%91%BD)
 1. [最尴尬能有多尴尬](https://www.zhihu.com/search?q=%E6%9C%80%E5%B0%B4%E5%B0%AC%E8%83%BD%E6%9C%89%E5%A4%9A%E5%B0%B4%E5%B0%AC)
 1. [人为什么要睡觉](https://www.zhihu.com/search?q=%E4%BA%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E7%9D%A1%E8%A7%89)
+1. [高考倒计时10天](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E5%80%92%E8%AE%A1%E6%97%B610%E5%A4%A9)
 1. [跑步真的会越跑越年轻吗](https://www.zhihu.com/search?q=%E8%B7%91%E6%AD%A5%E7%9C%9F%E7%9A%84%E4%BC%9A%E8%B6%8A%E8%B7%91%E8%B6%8A%E5%B9%B4%E8%BD%BB%E5%90%97)
 1. [印度这次为何要急着发动战争](https://www.zhihu.com/search?q=%E5%8D%B0%E5%BA%A6%E8%BF%99%E6%AC%A1%E4%B8%BA%E4%BD%95%E8%A6%81%E6%80%A5%E7%9D%80%E5%8F%91%E5%8A%A8%E6%88%98%E4%BA%89)
 1. [小米玄戒 O1 芯片正式发布](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3%E7%8E%84%E6%88%92%20O1%20%E8%8A%AF%E7%89%87%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83)
@@ -39,7 +40,6 @@
 1. [618 个护囤货指南](https://www.zhihu.com/search?q=618%20%E4%B8%AA%E6%8A%A4%E5%9B%A4%E8%B4%A7%E6%8C%87%E5%8D%97)
 1. [618 成分党囤了什么护肤品](https://www.zhihu.com/search?q=618%20%E6%88%90%E5%88%86%E5%85%9A%E5%9B%A4%E4%BA%86%E4%BB%80%E4%B9%88%E6%8A%A4%E8%82%A4%E5%93%81)
 1. [夏日「不脱妆」底妆推荐](https://www.zhihu.com/search?q=%E5%A4%8F%E6%97%A5%E3%80%8C%E4%B8%8D%E8%84%B1%E5%A6%86%E3%80%8D%E5%BA%95%E5%A6%86%E6%8E%A8%E8%8D%90)
-1. [敏感肌面膜囤货指南](https://www.zhihu.com/search?q=%E6%95%8F%E6%84%9F%E8%82%8C%E9%9D%A2%E8%86%9C%E5%9B%A4%E8%B4%A7%E6%8C%87%E5%8D%97)
 
 ## 热门话题
 
