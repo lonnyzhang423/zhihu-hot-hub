@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-05-28 15:25:08 +0800`
+`更新时间：2025-05-28 16:33:57 +0800`
 
 ## 热门搜索
 
-1. [亳州上百人吃网红提拉米苏后进医院](https://www.zhihu.com/search?q=%E4%BA%B3%E5%B7%9E%E4%B8%8A%E7%99%BE%E4%BA%BA%E5%90%83%E7%BD%91%E7%BA%A2%E6%8F%90%E6%8B%89%E7%B1%B3%E8%8B%8F%E5%90%8E%E8%BF%9B%E5%8C%BB%E9%99%A2)
-1. [520 消费暴跌反应了什么](https://www.zhihu.com/search?q=520%20%E6%B6%88%E8%B4%B9%E6%9A%B4%E8%B7%8C%E5%8F%8D%E5%BA%94%E4%BA%86%E4%BB%80%E4%B9%88)
+1. [刘若英演唱会两姐妹点歌](https://www.zhihu.com/search?q=%E5%88%98%E8%8B%A5%E8%8B%B1%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%A4%E5%A7%90%E5%A6%B9%E7%82%B9%E6%AD%8C)
+1. [高校教师迟到1分钟被认定教学事故](https://www.zhihu.com/search?q=%E9%AB%98%E6%A0%A1%E6%95%99%E5%B8%88%E8%BF%9F%E5%88%B01%E5%88%86%E9%92%9F%E8%A2%AB%E8%AE%A4%E5%AE%9A%E6%95%99%E5%AD%A6%E4%BA%8B%E6%95%85)
 1. [跑步真的会越跑越年轻吗](https://www.zhihu.com/search?q=%E8%B7%91%E6%AD%A5%E7%9C%9F%E7%9A%84%E4%BC%9A%E8%B6%8A%E8%B7%91%E8%B6%8A%E5%B9%B4%E8%BD%BB%E5%90%97)
 1. [印度这次为何要急着发动战争](https://www.zhihu.com/search?q=%E5%8D%B0%E5%BA%A6%E8%BF%99%E6%AC%A1%E4%B8%BA%E4%BD%95%E8%A6%81%E6%80%A5%E7%9D%80%E5%8F%91%E5%8A%A8%E6%88%98%E4%BA%89)
 1. [小米玄戒 O1 芯片正式发布](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3%E7%8E%84%E6%88%92%20O1%20%E8%8A%AF%E7%89%87%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83)
