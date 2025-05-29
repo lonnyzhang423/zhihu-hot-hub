@@ -11,12 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-05-29 18:13:42 +0800`
+`更新时间：2025-05-29 19:10:53 +0800`
 
 ## 热门搜索
 
 1. [最尴尬能有多尴尬](https://www.zhihu.com/search?q=%E6%9C%80%E5%B0%B4%E5%B0%AC%E8%83%BD%E6%9C%89%E5%A4%9A%E5%B0%B4%E5%B0%AC)
-1. [高考倒计时10天](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E5%80%92%E8%AE%A1%E6%97%B610%E5%A4%A9)
 1. [燃油附加费下调](https://www.zhihu.com/search?q=%E7%87%83%E6%B2%B9%E9%99%84%E5%8A%A0%E8%B4%B9%E4%B8%8B%E8%B0%83)
 1. [网络树洞倾听者年赚 3 万多](https://www.zhihu.com/search?q=%E7%BD%91%E7%BB%9C%E6%A0%91%E6%B4%9E%E5%80%BE%E5%90%AC%E8%80%85%E5%B9%B4%E8%B5%9A%203%20%E4%B8%87%E5%A4%9A)
 1. [618 洗衣机推荐](https://www.zhihu.com/search?q=618%20%E6%B4%97%E8%A1%A3%E6%9C%BA%E6%8E%A8%E8%8D%90)
@@ -42,6 +41,7 @@
 1. [新手买相机推荐](https://www.zhihu.com/search?q=%E6%96%B0%E6%89%8B%E4%B9%B0%E7%9B%B8%E6%9C%BA%E6%8E%A8%E8%8D%90)
 1. [618 给一岁宝宝囤点玩具](https://www.zhihu.com/search?q=618%20%E7%BB%99%E4%B8%80%E5%B2%81%E5%AE%9D%E5%AE%9D%E5%9B%A4%E7%82%B9%E7%8E%A9%E5%85%B7)
 1. [运动黑科技产品推荐](https://www.zhihu.com/search?q=%E8%BF%90%E5%8A%A8%E9%BB%91%E7%A7%91%E6%8A%80%E4%BA%A7%E5%93%81%E6%8E%A8%E8%8D%90)
+1. [618 主打科技力的跑鞋](https://www.zhihu.com/search?q=618%20%E4%B8%BB%E6%89%93%E7%A7%91%E6%8A%80%E5%8A%9B%E7%9A%84%E8%B7%91%E9%9E%8B)
 
 ## 热门话题
 
