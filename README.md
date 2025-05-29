@@ -11,13 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-05-29 14:18:02 +0800`
+`更新时间：2025-05-29 15:12:36 +0800`
 
 ## 热门搜索
 
 1. [最尴尬能有多尴尬](https://www.zhihu.com/search?q=%E6%9C%80%E5%B0%B4%E5%B0%AC%E8%83%BD%E6%9C%89%E5%A4%9A%E5%B0%B4%E5%B0%AC)
 1. [高考倒计时10天](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E5%80%92%E8%AE%A1%E6%97%B610%E5%A4%A9)
-1. [小米玄戒 O1 芯片正式发布](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3%E7%8E%84%E6%88%92%20O1%20%E8%8A%AF%E7%89%87%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83)
 1. [618 洗衣机推荐](https://www.zhihu.com/search?q=618%20%E6%B4%97%E8%A1%A3%E6%9C%BA%E6%8E%A8%E8%8D%90)
 1. [618 家电推荐](https://www.zhihu.com/search?q=618%20%E5%AE%B6%E7%94%B5%E6%8E%A8%E8%8D%90)
 1. [618 价格暴降家电](https://www.zhihu.com/search?q=618%20%E4%BB%B7%E6%A0%BC%E6%9A%B4%E9%99%8D%E5%AE%B6%E7%94%B5)
