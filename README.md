@@ -11,16 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-05-29 13:13:21 +0800`
+`更新时间：2025-05-29 14:18:02 +0800`
 
 ## 热门搜索
 
-1. [吴京发布翻车视频](https://www.zhihu.com/search?q=%E5%90%B4%E4%BA%AC%E5%8F%91%E5%B8%83%E7%BF%BB%E8%BD%A6%E8%A7%86%E9%A2%91)
-1. [台积电发强硬声明](https://www.zhihu.com/search?q=%E5%8F%B0%E7%A7%AF%E7%94%B5%E5%8F%91%E5%BC%BA%E7%A1%AC%E5%A3%B0%E6%98%8E)
-1. [人为什么要睡觉](https://www.zhihu.com/search?q=%E4%BA%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E7%9D%A1%E8%A7%89)
+1. [最尴尬能有多尴尬](https://www.zhihu.com/search?q=%E6%9C%80%E5%B0%B4%E5%B0%AC%E8%83%BD%E6%9C%89%E5%A4%9A%E5%B0%B4%E5%B0%AC)
 1. [高考倒计时10天](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E5%80%92%E8%AE%A1%E6%97%B610%E5%A4%A9)
-1. [跑步真的会越跑越年轻吗](https://www.zhihu.com/search?q=%E8%B7%91%E6%AD%A5%E7%9C%9F%E7%9A%84%E4%BC%9A%E8%B6%8A%E8%B7%91%E8%B6%8A%E5%B9%B4%E8%BD%BB%E5%90%97)
-1. [印度这次为何要急着发动战争](https://www.zhihu.com/search?q=%E5%8D%B0%E5%BA%A6%E8%BF%99%E6%AC%A1%E4%B8%BA%E4%BD%95%E8%A6%81%E6%80%A5%E7%9D%80%E5%8F%91%E5%8A%A8%E6%88%98%E4%BA%89)
 1. [小米玄戒 O1 芯片正式发布](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3%E7%8E%84%E6%88%92%20O1%20%E8%8A%AF%E7%89%87%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83)
 1. [618 洗衣机推荐](https://www.zhihu.com/search?q=618%20%E6%B4%97%E8%A1%A3%E6%9C%BA%E6%8E%A8%E8%8D%90)
 1. [618 家电推荐](https://www.zhihu.com/search?q=618%20%E5%AE%B6%E7%94%B5%E6%8E%A8%E8%8D%90)
@@ -40,6 +36,12 @@
 1. [618 个护囤货指南](https://www.zhihu.com/search?q=618%20%E4%B8%AA%E6%8A%A4%E5%9B%A4%E8%B4%A7%E6%8C%87%E5%8D%97)
 1. [618 成分党囤了什么护肤品](https://www.zhihu.com/search?q=618%20%E6%88%90%E5%88%86%E5%85%9A%E5%9B%A4%E4%BA%86%E4%BB%80%E4%B9%88%E6%8A%A4%E8%82%A4%E5%93%81)
 1. [夏日「不脱妆」底妆推荐](https://www.zhihu.com/search?q=%E5%A4%8F%E6%97%A5%E3%80%8C%E4%B8%8D%E8%84%B1%E5%A6%86%E3%80%8D%E5%BA%95%E5%A6%86%E6%8E%A8%E8%8D%90)
+1. [敏感肌面膜囤货指南](https://www.zhihu.com/search?q=%E6%95%8F%E6%84%9F%E8%82%8C%E9%9D%A2%E8%86%9C%E5%9B%A4%E8%B4%A7%E6%8C%87%E5%8D%97)
+1. [500 元以内蓝牙耳机推荐](https://www.zhihu.com/search?q=500%20%E5%85%83%E4%BB%A5%E5%86%85%E8%93%9D%E7%89%99%E8%80%B3%E6%9C%BA%E6%8E%A8%E8%8D%90)
+1. [新手买相机推荐](https://www.zhihu.com/search?q=%E6%96%B0%E6%89%8B%E4%B9%B0%E7%9B%B8%E6%9C%BA%E6%8E%A8%E8%8D%90)
+1. [618 给一岁宝宝囤点玩具](https://www.zhihu.com/search?q=618%20%E7%BB%99%E4%B8%80%E5%B2%81%E5%AE%9D%E5%AE%9D%E5%9B%A4%E7%82%B9%E7%8E%A9%E5%85%B7)
+1. [运动黑科技产品推荐](https://www.zhihu.com/search?q=%E8%BF%90%E5%8A%A8%E9%BB%91%E7%A7%91%E6%8A%80%E4%BA%A7%E5%93%81%E6%8E%A8%E8%8D%90)
+1. [618 主打科技力的跑鞋](https://www.zhihu.com/search?q=618%20%E4%B8%BB%E6%89%93%E7%A7%91%E6%8A%80%E5%8A%9B%E7%9A%84%E8%B7%91%E9%9E%8B)
 
 ## 热门话题
 
