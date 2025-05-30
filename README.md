@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-05-30 07:23:14 +0800`
+`更新时间：2025-05-30 10:00:42 +0800`
 
 ## 热门搜索
 
-1. [最尴尬能有多尴尬](https://www.zhihu.com/search?q=%E6%9C%80%E5%B0%B4%E5%B0%AC%E8%83%BD%E6%9C%89%E5%A4%9A%E5%B0%B4%E5%B0%AC)
-1. [燃油附加费下调](https://www.zhihu.com/search?q=%E7%87%83%E6%B2%B9%E9%99%84%E5%8A%A0%E8%B4%B9%E4%B8%8B%E8%B0%83)
+1. [那些非升即走后走了的青年教师如何了](https://www.zhihu.com/search?q=%E9%82%A3%E4%BA%9B%E9%9D%9E%E5%8D%87%E5%8D%B3%E8%B5%B0%E5%90%8E%E8%B5%B0%E4%BA%86%E7%9A%84%E9%9D%92%E5%B9%B4%E6%95%99%E5%B8%88%E5%A6%82%E4%BD%95%E4%BA%86)
+1. [广东茂名疑现火流星](https://www.zhihu.com/search?q=%E5%B9%BF%E4%B8%9C%E8%8C%82%E5%90%8D%E7%96%91%E7%8E%B0%E7%81%AB%E6%B5%81%E6%98%9F)
 1. [华熙生物和巨子生物干仗](https://www.zhihu.com/search?q=%E5%8D%8E%E7%86%99%E7%94%9F%E7%89%A9%E5%92%8C%E5%B7%A8%E5%AD%90%E7%94%9F%E7%89%A9%E5%B9%B2%E4%BB%97)
 1. [网络树洞倾听者年赚 3 万多](https://www.zhihu.com/search?q=%E7%BD%91%E7%BB%9C%E6%A0%91%E6%B4%9E%E5%80%BE%E5%90%AC%E8%80%85%E5%B9%B4%E8%B5%9A%203%20%E4%B8%87%E5%A4%9A)
 1. [618 洗衣机推荐](https://www.zhihu.com/search?q=618%20%E6%B4%97%E8%A1%A3%E6%9C%BA%E6%8E%A8%E8%8D%90)
