@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-05-30 07:11:37 +0800`
+`更新时间：2025-05-30 08:58:30 +0800`
 
 ## 热门搜索
 
-1. [最尴尬能有多尴尬](https://www.zhihu.com/search?q=%E6%9C%80%E5%B0%B4%E5%B0%AC%E8%83%BD%E6%9C%89%E5%A4%9A%E5%B0%B4%E5%B0%AC)
-1. [燃油附加费下调](https://www.zhihu.com/search?q=%E7%87%83%E6%B2%B9%E9%99%84%E5%8A%A0%E8%B4%B9%E4%B8%8B%E8%B0%83)
+1. [为何中国不采用德式键盘以方便 ü 的输入](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BD%95%E4%B8%AD%E5%9B%BD%E4%B8%8D%E9%87%87%E7%94%A8%E5%BE%B7%E5%BC%8F%E9%94%AE%E7%9B%98%E4%BB%A5%E6%96%B9%E4%BE%BF%20%C3%BC%20%E7%9A%84%E8%BE%93%E5%85%A5)
+1. [去年剩的防晒霜今年还能用吗](https://www.zhihu.com/search?q=%E5%8E%BB%E5%B9%B4%E5%89%A9%E7%9A%84%E9%98%B2%E6%99%92%E9%9C%9C%E4%BB%8A%E5%B9%B4%E8%BF%98%E8%83%BD%E7%94%A8%E5%90%97)
 1. [华熙生物和巨子生物干仗](https://www.zhihu.com/search?q=%E5%8D%8E%E7%86%99%E7%94%9F%E7%89%A9%E5%92%8C%E5%B7%A8%E5%AD%90%E7%94%9F%E7%89%A9%E5%B9%B2%E4%BB%97)
 1. [网络树洞倾听者年赚 3 万多](https://www.zhihu.com/search?q=%E7%BD%91%E7%BB%9C%E6%A0%91%E6%B4%9E%E5%80%BE%E5%90%AC%E8%80%85%E5%B9%B4%E8%B5%9A%203%20%E4%B8%87%E5%A4%9A)
 1. [618 洗衣机推荐](https://www.zhihu.com/search?q=618%20%E6%B4%97%E8%A1%A3%E6%9C%BA%E6%8E%A8%E8%8D%90)
