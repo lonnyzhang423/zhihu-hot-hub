@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-06-01 00:29:16 +0800`
+`更新时间：2025-06-01 01:20:34 +0800`
 
 ## 热门搜索
 
@@ -41,7 +41,7 @@
 1. [618 给一岁宝宝囤点玩具](https://www.zhihu.com/search?q=618%20%E7%BB%99%E4%B8%80%E5%B2%81%E5%AE%9D%E5%AE%9D%E5%9B%A4%E7%82%B9%E7%8E%A9%E5%85%B7)
 1. [运动黑科技产品推荐](https://www.zhihu.com/search?q=%E8%BF%90%E5%8A%A8%E9%BB%91%E7%A7%91%E6%8A%80%E4%BA%A7%E5%93%81%E6%8E%A8%E8%8D%90)
 1. [618 主打科技力的跑鞋](https://www.zhihu.com/search?q=618%20%E4%B8%BB%E6%89%93%E7%A7%91%E6%8A%80%E5%8A%9B%E7%9A%84%E8%B7%91%E9%9E%8B)
-1. [山东一化工车间发生爆炸](https://www.zhihu.com/search?q=%E5%B1%B1%E4%B8%9C%E4%B8%80%E5%8C%96%E5%B7%A5%E8%BD%A6%E9%97%B4%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8)
+1. [叶童终止新白娘子传奇演唱会](https://www.zhihu.com/search?q=%E5%8F%B6%E7%AB%A5%E7%BB%88%E6%AD%A2%E6%96%B0%E7%99%BD%E5%A8%98%E5%AD%90%E4%BC%A0%E5%A5%87%E6%BC%94%E5%94%B1%E4%BC%9A)
 
 ## 热门话题
 
