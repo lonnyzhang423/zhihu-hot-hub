@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-05-31 20:21:03 +0800`
+`更新时间：2025-05-31 21:22:05 +0800`
 
 ## 热门搜索
 
@@ -41,6 +41,7 @@
 1. [运动黑科技产品推荐](https://www.zhihu.com/search?q=%E8%BF%90%E5%8A%A8%E9%BB%91%E7%A7%91%E6%8A%80%E4%BA%A7%E5%93%81%E6%8E%A8%E8%8D%90)
 1. [618 主打科技力的跑鞋](https://www.zhihu.com/search?q=618%20%E4%B8%BB%E6%89%93%E7%A7%91%E6%8A%80%E5%8A%9B%E7%9A%84%E8%B7%91%E9%9E%8B)
 1. [山东一化工车间发生爆炸](https://www.zhihu.com/search?q=%E5%B1%B1%E4%B8%9C%E4%B8%80%E5%8C%96%E5%B7%A5%E8%BD%A6%E9%97%B4%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8)
+1. [高校教师迟到1分钟被认定教学事故](https://www.zhihu.com/search?q=%E9%AB%98%E6%A0%A1%E6%95%99%E5%B8%88%E8%BF%9F%E5%88%B01%E5%88%86%E9%92%9F%E8%A2%AB%E8%AE%A4%E5%AE%9A%E6%95%99%E5%AD%A6%E4%BA%8B%E6%95%85)
 
 ## 热门话题
 
