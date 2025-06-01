@@ -11,14 +11,14 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-06-01 11:26:39 +0800`
+`更新时间：2025-06-01 12:29:03 +0800`
 
 ## 热门搜索
 
-1. [世界无烟日](https://www.zhihu.com/search?q=%E4%B8%96%E7%95%8C%E6%97%A0%E7%83%9F%E6%97%A5)
-1. [燃油附加费下调](https://www.zhihu.com/search?q=%E7%87%83%E6%B2%B9%E9%99%84%E5%8A%A0%E8%B4%B9%E4%B8%8B%E8%B0%83)
+1. [比亚迪降价对汽车产业有何影响](https://www.zhihu.com/search?q=%E6%AF%94%E4%BA%9A%E8%BF%AA%E9%99%8D%E4%BB%B7%E5%AF%B9%E6%B1%BD%E8%BD%A6%E4%BA%A7%E4%B8%9A%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D)
+1. [胖东来红内裤事件案宣判](https://www.zhihu.com/search?q=%E8%83%96%E4%B8%9C%E6%9D%A5%E7%BA%A2%E5%86%85%E8%A3%A4%E4%BA%8B%E4%BB%B6%E6%A1%88%E5%AE%A3%E5%88%A4)
 1. [618 洗衣机推荐](https://www.zhihu.com/search?q=618%20%E6%B4%97%E8%A1%A3%E6%9C%BA%E6%8E%A8%E8%8D%90)
-1. [618 家电推荐](https://www.zhihu.com/search?q=618%20%E5%AE%B6%E7%94%B5%E6%8E%A8%E8%8D%90)
+1. [为什么现在流行自嘲式幽默](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E6%B5%81%E8%A1%8C%E8%87%AA%E5%98%B2%E5%BC%8F%E5%B9%BD%E9%BB%98)
 1. [618 价格暴降家电](https://www.zhihu.com/search?q=618%20%E4%BB%B7%E6%A0%BC%E6%9A%B4%E9%99%8D%E5%AE%B6%E7%94%B5)
 1. [618 护眼灯选购](https://www.zhihu.com/search?q=618%20%E6%8A%A4%E7%9C%BC%E7%81%AF%E9%80%89%E8%B4%AD)
 1. [618 洗烘套装推荐](https://www.zhihu.com/search?q=618%20%E6%B4%97%E7%83%98%E5%A5%97%E8%A3%85%E6%8E%A8%E8%8D%90)
@@ -26,7 +26,7 @@
 1. [让家充满艺术气息的好物](https://www.zhihu.com/search?q=%E8%AE%A9%E5%AE%B6%E5%85%85%E6%BB%A1%E8%89%BA%E6%9C%AF%E6%B0%94%E6%81%AF%E7%9A%84%E5%A5%BD%E7%89%A9)
 1. [618 好看的家具推荐](https://www.zhihu.com/search?q=618%20%E5%A5%BD%E7%9C%8B%E7%9A%84%E5%AE%B6%E5%85%B7%E6%8E%A8%E8%8D%90)
 1. [适合懒人入手的做饭好物](https://www.zhihu.com/search?q=%E9%80%82%E5%90%88%E6%87%92%E4%BA%BA%E5%85%A5%E6%89%8B%E7%9A%84%E5%81%9A%E9%A5%AD%E5%A5%BD%E7%89%A9)
-1. [增加幸福感的家用电器](https://www.zhihu.com/search?q=%E5%A2%9E%E5%8A%A0%E5%B9%B8%E7%A6%8F%E6%84%9F%E7%9A%84%E5%AE%B6%E7%94%A8%E7%94%B5%E5%99%A8)
+1. [世界无烟日](https://www.zhihu.com/search?q=%E4%B8%96%E7%95%8C%E6%97%A0%E7%83%9F%E6%97%A5)
 1. [618 护眼灯如何选](https://www.zhihu.com/search?q=618%20%E6%8A%A4%E7%9C%BC%E7%81%AF%E5%A6%82%E4%BD%95%E9%80%89)
 1. [跟面包绝配的酱料](https://www.zhihu.com/search?q=%E8%B7%9F%E9%9D%A2%E5%8C%85%E7%BB%9D%E9%85%8D%E7%9A%84%E9%85%B1%E6%96%99)
 1. [咖啡配什么酒好喝](https://www.zhihu.com/search?q=%E5%92%96%E5%95%A1%E9%85%8D%E4%BB%80%E4%B9%88%E9%85%92%E5%A5%BD%E5%96%9D)
