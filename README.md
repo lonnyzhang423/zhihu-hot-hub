@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-06-01 07:23:55 +0800`
+`更新时间：2025-06-01 10:27:37 +0800`
 
 ## 热门搜索
 
-1. [世界无烟日](https://www.zhihu.com/search?q=%E4%B8%96%E7%95%8C%E6%97%A0%E7%83%9F%E6%97%A5)
-1. [燃油附加费下调](https://www.zhihu.com/search?q=%E7%87%83%E6%B2%B9%E9%99%84%E5%8A%A0%E8%B4%B9%E4%B8%8B%E8%B0%83)
+1. [旋转水杯后茶叶为何会向中心聚集](https://www.zhihu.com/search?q=%E6%97%8B%E8%BD%AC%E6%B0%B4%E6%9D%AF%E5%90%8E%E8%8C%B6%E5%8F%B6%E4%B8%BA%E4%BD%95%E4%BC%9A%E5%90%91%E4%B8%AD%E5%BF%83%E8%81%9A%E9%9B%86)
+1. [如何看待中国人的中庸之道](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E4%B8%AD%E5%BA%B8%E4%B9%8B%E9%81%93)
 1. [618 洗衣机推荐](https://www.zhihu.com/search?q=618%20%E6%B4%97%E8%A1%A3%E6%9C%BA%E6%8E%A8%E8%8D%90)
 1. [618 家电推荐](https://www.zhihu.com/search?q=618%20%E5%AE%B6%E7%94%B5%E6%8E%A8%E8%8D%90)
 1. [618 价格暴降家电](https://www.zhihu.com/search?q=618%20%E4%BB%B7%E6%A0%BC%E6%9A%B4%E9%99%8D%E5%AE%B6%E7%94%B5)
