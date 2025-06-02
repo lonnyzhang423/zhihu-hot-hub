@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-06-02 15:26:09 +0800`
+`更新时间：2025-06-02 16:35:06 +0800`
 
 ## 热门搜索
 
@@ -41,8 +41,8 @@
 1. [运动黑科技产品推荐](https://www.zhihu.com/search?q=%E8%BF%90%E5%8A%A8%E9%BB%91%E7%A7%91%E6%8A%80%E4%BA%A7%E5%93%81%E6%8E%A8%E8%8D%90)
 1. [618 主打科技力的跑鞋](https://www.zhihu.com/search?q=618%20%E4%B8%BB%E6%89%93%E7%A7%91%E6%8A%80%E5%8A%9B%E7%9A%84%E8%B7%91%E9%9E%8B)
 1. [知网一论文下载95万次0次引用](https://www.zhihu.com/search?q=%E7%9F%A5%E7%BD%91%E4%B8%80%E8%AE%BA%E6%96%87%E4%B8%8B%E8%BD%BD95%E4%B8%87%E6%AC%A10%E6%AC%A1%E5%BC%95%E7%94%A8)
-1. [苹果 iPhone 17 Pro Max 机模曝光](https://www.zhihu.com/search?q=%E8%8B%B9%E6%9E%9C%20iPhone%2017%20Pro%20Max%20%E6%9C%BA%E6%A8%A1%E6%9B%9D%E5%85%89)
-1. [《绝地潜兵2》超级上海保卫战](https://www.zhihu.com/search?q=%E3%80%8A%E7%BB%9D%E5%9C%B0%E6%BD%9C%E5%85%B52%E3%80%8B%E8%B6%85%E7%BA%A7%E4%B8%8A%E6%B5%B7%E4%BF%9D%E5%8D%AB%E6%88%98)
+1. [榴莲价格暴跌 50%](https://www.zhihu.com/search?q=%E6%A6%B4%E8%8E%B2%E4%BB%B7%E6%A0%BC%E6%9A%B4%E8%B7%8C%2050%25)
+1. [理想汽车第一季度净利润下降 20％](https://www.zhihu.com/search?q=%E7%90%86%E6%83%B3%E6%B1%BD%E8%BD%A6%E7%AC%AC%E4%B8%80%E5%AD%A3%E5%BA%A6%E5%87%80%E5%88%A9%E6%B6%A6%E4%B8%8B%E9%99%8D%2020%EF%BC%85)
 
 ## 热门话题
 
