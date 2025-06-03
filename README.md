@@ -11,11 +11,10 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-06-03 22:13:38 +0800`
+`更新时间：2025-06-03 23:14:24 +0800`
 
 ## 热门搜索
 
-1. [世界无烟日](https://www.zhihu.com/search?q=%E4%B8%96%E7%95%8C%E6%97%A0%E7%83%9F%E6%97%A5)
 1. [李在明](https://www.zhihu.com/search?q=%E6%9D%8E%E5%9C%A8%E6%98%8E)
 1. [小沈阳演唱会](https://www.zhihu.com/search?q=%E5%B0%8F%E6%B2%88%E9%98%B3%E6%BC%94%E5%94%B1%E4%BC%9A)
 1. [郑钦文vs萨巴伦卡](https://www.zhihu.com/search?q=%E9%83%91%E9%92%A6%E6%96%87vs%E8%90%A8%E5%B7%B4%E4%BC%A6%E5%8D%A1)
@@ -43,6 +42,7 @@
 1. [新手买相机推荐](https://www.zhihu.com/search?q=%E6%96%B0%E6%89%8B%E4%B9%B0%E7%9B%B8%E6%9C%BA%E6%8E%A8%E8%8D%90)
 1. [618 给一岁宝宝囤点玩具](https://www.zhihu.com/search?q=618%20%E7%BB%99%E4%B8%80%E5%B2%81%E5%AE%9D%E5%AE%9D%E5%9B%A4%E7%82%B9%E7%8E%A9%E5%85%B7)
 1. [运动黑科技产品推荐](https://www.zhihu.com/search?q=%E8%BF%90%E5%8A%A8%E9%BB%91%E7%A7%91%E6%8A%80%E4%BA%A7%E5%93%81%E6%8E%A8%E8%8D%90)
+1. [618 主打科技力的跑鞋](https://www.zhihu.com/search?q=618%20%E4%B8%BB%E6%89%93%E7%A7%91%E6%8A%80%E5%8A%9B%E7%9A%84%E8%B7%91%E9%9E%8B)
 
 ## 热门话题
 
