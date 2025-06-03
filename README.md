@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-06-03 18:29:13 +0800`
+`更新时间：2025-06-03 19:22:24 +0800`
 
 ## 热门搜索
 
-1. [有网售儿童凉鞋增塑剂最高超标509倍](https://www.zhihu.com/search?q=%E6%9C%89%E7%BD%91%E5%94%AE%E5%84%BF%E7%AB%A5%E5%87%89%E9%9E%8B%E5%A2%9E%E5%A1%91%E5%89%82%E6%9C%80%E9%AB%98%E8%B6%85%E6%A0%87509%E5%80%8D)
+1. [世界无烟日](https://www.zhihu.com/search?q=%E4%B8%96%E7%95%8C%E6%97%A0%E7%83%9F%E6%97%A5)
+1. [小沈阳演唱会](https://www.zhihu.com/search?q=%E5%B0%8F%E6%B2%88%E9%98%B3%E6%BC%94%E5%94%B1%E4%BC%9A)
 1. [郑钦文vs萨巴伦卡](https://www.zhihu.com/search?q=%E9%83%91%E9%92%A6%E6%96%87vs%E8%90%A8%E5%B7%B4%E4%BC%A6%E5%8D%A1)
 1. [你见过哪些结婚作死的行为](https://www.zhihu.com/search?q=%E4%BD%A0%E8%A7%81%E8%BF%87%E5%93%AA%E4%BA%9B%E7%BB%93%E5%A9%9A%E4%BD%9C%E6%AD%BB%E7%9A%84%E8%A1%8C%E4%B8%BA)
 1. [618 洗衣机推荐](https://www.zhihu.com/search?q=618%20%E6%B4%97%E8%A1%A3%E6%9C%BA%E6%8E%A8%E8%8D%90)
