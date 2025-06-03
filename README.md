@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-06-03 16:35:25 +0800`
+`更新时间：2025-06-03 17:28:14 +0800`
 
 ## 热门搜索
 
-1. [端午档电影总票房破3亿](https://www.zhihu.com/search?q=%E7%AB%AF%E5%8D%88%E6%A1%A3%E7%94%B5%E5%BD%B1%E6%80%BB%E7%A5%A8%E6%88%BF%E7%A0%B43%E4%BA%BF)
+1. [世界无烟日](https://www.zhihu.com/search?q=%E4%B8%96%E7%95%8C%E6%97%A0%E7%83%9F%E6%97%A5)
+1. [小沈阳演唱会](https://www.zhihu.com/search?q=%E5%B0%8F%E6%B2%88%E9%98%B3%E6%BC%94%E5%94%B1%E4%BC%9A)
 1. [你见过哪些结婚作死的行为](https://www.zhihu.com/search?q=%E4%BD%A0%E8%A7%81%E8%BF%87%E5%93%AA%E4%BA%9B%E7%BB%93%E5%A9%9A%E4%BD%9C%E6%AD%BB%E7%9A%84%E8%A1%8C%E4%B8%BA)
 1. [618 洗衣机推荐](https://www.zhihu.com/search?q=618%20%E6%B4%97%E8%A1%A3%E6%9C%BA%E6%8E%A8%E8%8D%90)
 1. [618 家电推荐](https://www.zhihu.com/search?q=618%20%E5%AE%B6%E7%94%B5%E6%8E%A8%E8%8D%90)
