@@ -11,12 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-06-05 16:34:02 +0800`
+`更新时间：2025-06-05 17:27:56 +0800`
 
 ## 热门搜索
 
 1. [今日芒种](https://www.zhihu.com/search?q=%E4%BB%8A%E6%97%A5%E8%8A%92%E7%A7%8D)
-1. [李在明](https://www.zhihu.com/search?q=%E6%9D%8E%E5%9C%A8%E6%98%8E)
 1. [国内油价上调](https://www.zhihu.com/search?q=%E5%9B%BD%E5%86%85%E6%B2%B9%E4%BB%B7%E4%B8%8A%E8%B0%83)
 1. [有哪句影视台词是你至今难忘的](https://www.zhihu.com/search?q=%E6%9C%89%E5%93%AA%E5%8F%A5%E5%BD%B1%E8%A7%86%E5%8F%B0%E8%AF%8D%E6%98%AF%E4%BD%A0%E8%87%B3%E4%BB%8A%E9%9A%BE%E5%BF%98%E7%9A%84)
 1. [你见过哪些结婚作死的行为](https://www.zhihu.com/search?q=%E4%BD%A0%E8%A7%81%E8%BF%87%E5%93%AA%E4%BA%9B%E7%BB%93%E5%A9%9A%E4%BD%9C%E6%AD%BB%E7%9A%84%E8%A1%8C%E4%B8%BA)
@@ -43,6 +42,7 @@
 1. [500 元以内蓝牙耳机推荐](https://www.zhihu.com/search?q=500%20%E5%85%83%E4%BB%A5%E5%86%85%E8%93%9D%E7%89%99%E8%80%B3%E6%9C%BA%E6%8E%A8%E8%8D%90)
 1. [新手买相机推荐](https://www.zhihu.com/search?q=%E6%96%B0%E6%89%8B%E4%B9%B0%E7%9B%B8%E6%9C%BA%E6%8E%A8%E8%8D%90)
 1. [618 给一岁宝宝囤点玩具](https://www.zhihu.com/search?q=618%20%E7%BB%99%E4%B8%80%E5%B2%81%E5%AE%9D%E5%AE%9D%E5%9B%A4%E7%82%B9%E7%8E%A9%E5%85%B7)
+1. [运动黑科技产品推荐](https://www.zhihu.com/search?q=%E8%BF%90%E5%8A%A8%E9%BB%91%E7%A7%91%E6%8A%80%E4%BA%A7%E5%93%81%E6%8E%A8%E8%8D%90)
 
 ## 热门话题
 
