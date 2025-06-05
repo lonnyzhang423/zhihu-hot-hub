@@ -11,19 +11,17 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-06-05 13:26:50 +0800`
+`更新时间：2025-06-05 14:37:59 +0800`
 
 ## 热门搜索
 
-1. [李在明](https://www.zhihu.com/search?q=%E6%9D%8E%E5%9C%A8%E6%98%8E)
 1. [国内油价上调](https://www.zhihu.com/search?q=%E5%9B%BD%E5%86%85%E6%B2%B9%E4%BB%B7%E4%B8%8A%E8%B0%83)
-1. [郑钦文vs萨巴伦卡](https://www.zhihu.com/search?q=%E9%83%91%E9%92%A6%E6%96%87vs%E8%90%A8%E5%B7%B4%E4%BC%A6%E5%8D%A1)
 1. [有哪句影视台词是你至今难忘的](https://www.zhihu.com/search?q=%E6%9C%89%E5%93%AA%E5%8F%A5%E5%BD%B1%E8%A7%86%E5%8F%B0%E8%AF%8D%E6%98%AF%E4%BD%A0%E8%87%B3%E4%BB%8A%E9%9A%BE%E5%BF%98%E7%9A%84)
 1. [你见过哪些结婚作死的行为](https://www.zhihu.com/search?q=%E4%BD%A0%E8%A7%81%E8%BF%87%E5%93%AA%E4%BA%9B%E7%BB%93%E5%A9%9A%E4%BD%9C%E6%AD%BB%E7%9A%84%E8%A1%8C%E4%B8%BA)
-1. [iG战胜FPX](https://www.zhihu.com/search?q=iG%E6%88%98%E8%83%9CFPX)
+1. [IG战胜FPX](https://www.zhihu.com/search?q=IG%E6%88%98%E8%83%9CFPX)
 1. [618 洗衣机推荐](https://www.zhihu.com/search?q=618%20%E6%B4%97%E8%A1%A3%E6%9C%BA%E6%8E%A8%E8%8D%90)
 1. [618 家电推荐](https://www.zhihu.com/search?q=618%20%E5%AE%B6%E7%94%B5%E6%8E%A8%E8%8D%90)
-1. [618 价格暴降家电](https://www.zhihu.com/search?q=618%20%E4%BB%B7%E6%A0%BC%E6%9A%B4%E9%99%8D%E5%AE%B6%E7%94%B5)
+1. [99岁老人上树摘枇杷被困](https://www.zhihu.com/search?q=99%E5%B2%81%E8%80%81%E4%BA%BA%E4%B8%8A%E6%A0%91%E6%91%98%E6%9E%87%E6%9D%B7%E8%A2%AB%E5%9B%B0)
 1. [618 护眼灯选购](https://www.zhihu.com/search?q=618%20%E6%8A%A4%E7%9C%BC%E7%81%AF%E9%80%89%E8%B4%AD)
 1. [618 洗烘套装推荐](https://www.zhihu.com/search?q=618%20%E6%B4%97%E7%83%98%E5%A5%97%E8%A3%85%E6%8E%A8%E8%8D%90)
 1. [能提升幸福感的家居好物](https://www.zhihu.com/search?q=%E8%83%BD%E6%8F%90%E5%8D%87%E5%B9%B8%E7%A6%8F%E6%84%9F%E7%9A%84%E5%AE%B6%E5%B1%85%E5%A5%BD%E7%89%A9)
