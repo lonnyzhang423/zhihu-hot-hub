@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-06-05 20:53:19 +0800`
+`更新时间：2025-06-05 21:37:27 +0800`
 
 ## 热门搜索
 
-1. [如何看待巴黎世家平角短裤造型裙子](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%B7%B4%E9%BB%8E%E4%B8%96%E5%AE%B6%E5%B9%B3%E8%A7%92%E7%9F%AD%E8%A3%A4%E9%80%A0%E5%9E%8B%E8%A3%99%E5%AD%90)
-1. [端午出游1.19亿人次](https://www.zhihu.com/search?q=%E7%AB%AF%E5%8D%88%E5%87%BA%E6%B8%B81.19%E4%BA%BF%E4%BA%BA%E6%AC%A1)
+1. [今日芒种](https://www.zhihu.com/search?q=%E4%BB%8A%E6%97%A5%E8%8A%92%E7%A7%8D)
+1. [国内油价上调](https://www.zhihu.com/search?q=%E5%9B%BD%E5%86%85%E6%B2%B9%E4%BB%B7%E4%B8%8A%E8%B0%83)
 1. [《歌手》第四期歌单](https://www.zhihu.com/search?q=%E3%80%8A%E6%AD%8C%E6%89%8B%E3%80%8B%E7%AC%AC%E5%9B%9B%E6%9C%9F%E6%AD%8C%E5%8D%95)
 1. [歌手歌单](https://www.zhihu.com/search?q=%E6%AD%8C%E6%89%8B%E6%AD%8C%E5%8D%95)
 1. [有哪句影视台词是你至今难忘的](https://www.zhihu.com/search?q=%E6%9C%89%E5%93%AA%E5%8F%A5%E5%BD%B1%E8%A7%86%E5%8F%B0%E8%AF%8D%E6%98%AF%E4%BD%A0%E8%87%B3%E4%BB%8A%E9%9A%BE%E5%BF%98%E7%9A%84)
