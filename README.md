@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-06-05 15:25:09 +0800`
+`更新时间：2025-06-05 16:34:02 +0800`
 
 ## 热门搜索
 
-1. [姚晨儿子过瘦遭质疑](https://www.zhihu.com/search?q=%E5%A7%9A%E6%99%A8%E5%84%BF%E5%AD%90%E8%BF%87%E7%98%A6%E9%81%AD%E8%B4%A8%E7%96%91)
-1. [距高考只有3天](https://www.zhihu.com/search?q=%E8%B7%9D%E9%AB%98%E8%80%83%E5%8F%AA%E6%9C%893%E5%A4%A9)
+1. [今日芒种](https://www.zhihu.com/search?q=%E4%BB%8A%E6%97%A5%E8%8A%92%E7%A7%8D)
+1. [李在明](https://www.zhihu.com/search?q=%E6%9D%8E%E5%9C%A8%E6%98%8E)
 1. [国内油价上调](https://www.zhihu.com/search?q=%E5%9B%BD%E5%86%85%E6%B2%B9%E4%BB%B7%E4%B8%8A%E8%B0%83)
 1. [有哪句影视台词是你至今难忘的](https://www.zhihu.com/search?q=%E6%9C%89%E5%93%AA%E5%8F%A5%E5%BD%B1%E8%A7%86%E5%8F%B0%E8%AF%8D%E6%98%AF%E4%BD%A0%E8%87%B3%E4%BB%8A%E9%9A%BE%E5%BF%98%E7%9A%84)
 1. [你见过哪些结婚作死的行为](https://www.zhihu.com/search?q=%E4%BD%A0%E8%A7%81%E8%BF%87%E5%93%AA%E4%BA%9B%E7%BB%93%E5%A9%9A%E4%BD%9C%E6%AD%BB%E7%9A%84%E8%A1%8C%E4%B8%BA)
