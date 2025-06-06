@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-06-06 19:11:15 +0800`
+`更新时间：2025-06-06 20:23:11 +0800`
 
 ## 热门搜索
 
@@ -21,7 +21,6 @@
 1. [有哪句影视台词是你至今难忘的](https://www.zhihu.com/search?q=%E6%9C%89%E5%93%AA%E5%8F%A5%E5%BD%B1%E8%A7%86%E5%8F%B0%E8%AF%8D%E6%98%AF%E4%BD%A0%E8%87%B3%E4%BB%8A%E9%9A%BE%E5%BF%98%E7%9A%84)
 1. [如何看待美国识字率只有 79％](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E7%BE%8E%E5%9B%BD%E8%AF%86%E5%AD%97%E7%8E%87%E5%8F%AA%E6%9C%89%2079%EF%BC%85)
 1. [我国成功发射卫星互联网低轨卫星](https://www.zhihu.com/search?q=%E6%88%91%E5%9B%BD%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84%E5%8D%AB%E6%98%9F%E4%BA%92%E8%81%94%E7%BD%91%E4%BD%8E%E8%BD%A8%E5%8D%AB%E6%98%9F)
-1. [你见过哪些结婚作死的行为](https://www.zhihu.com/search?q=%E4%BD%A0%E8%A7%81%E8%BF%87%E5%93%AA%E4%BA%9B%E7%BB%93%E5%A9%9A%E4%BD%9C%E6%AD%BB%E7%9A%84%E8%A1%8C%E4%B8%BA)
 1. [「妈妈岗」在全国各地兴起](https://www.zhihu.com/search?q=%E3%80%8C%E5%A6%88%E5%A6%88%E5%B2%97%E3%80%8D%E5%9C%A8%E5%85%A8%E5%9B%BD%E5%90%84%E5%9C%B0%E5%85%B4%E8%B5%B7)
 1. [618 洗衣机推荐](https://www.zhihu.com/search?q=618%20%E6%B4%97%E8%A1%A3%E6%9C%BA%E6%8E%A8%E8%8D%90)
 1. [618 家电推荐](https://www.zhihu.com/search?q=618%20%E5%AE%B6%E7%94%B5%E6%8E%A8%E8%8D%90)
@@ -41,6 +40,7 @@
 1. [618 个护囤货指南](https://www.zhihu.com/search?q=618%20%E4%B8%AA%E6%8A%A4%E5%9B%A4%E8%B4%A7%E6%8C%87%E5%8D%97)
 1. [618 成分党囤了什么护肤品](https://www.zhihu.com/search?q=618%20%E6%88%90%E5%88%86%E5%85%9A%E5%9B%A4%E4%BA%86%E4%BB%80%E4%B9%88%E6%8A%A4%E8%82%A4%E5%93%81)
 1. [夏日「不脱妆」底妆推荐](https://www.zhihu.com/search?q=%E5%A4%8F%E6%97%A5%E3%80%8C%E4%B8%8D%E8%84%B1%E5%A6%86%E3%80%8D%E5%BA%95%E5%A6%86%E6%8E%A8%E8%8D%90)
+1. [敏感肌面膜囤货指南](https://www.zhihu.com/search?q=%E6%95%8F%E6%84%9F%E8%82%8C%E9%9D%A2%E8%86%9C%E5%9B%A4%E8%B4%A7%E6%8C%87%E5%8D%97)
 
 ## 热门话题
 
