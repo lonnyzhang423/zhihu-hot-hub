@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-06-06 17:13:23 +0800`
+`更新时间：2025-06-06 18:13:46 +0800`
 
 ## 热门搜索
 
-1. [国足首发](https://www.zhihu.com/search?q=%E5%9B%BD%E8%B6%B3%E9%A6%96%E5%8F%91)
+1. [被咬身亡女子家属回应为何不尸检](https://www.zhihu.com/search?q=%E8%A2%AB%E5%92%AC%E8%BA%AB%E4%BA%A1%E5%A5%B3%E5%AD%90%E5%AE%B6%E5%B1%9E%E5%9B%9E%E5%BA%94%E4%B8%BA%E4%BD%95%E4%B8%8D%E5%B0%B8%E6%A3%80)
+1. [预制菜产业凉了吗](https://www.zhihu.com/search?q=%E9%A2%84%E5%88%B6%E8%8F%9C%E4%BA%A7%E4%B8%9A%E5%87%89%E4%BA%86%E5%90%97)
 1. [国内油价上调](https://www.zhihu.com/search?q=%E5%9B%BD%E5%86%85%E6%B2%B9%E4%BB%B7%E4%B8%8A%E8%B0%83)
 1. [《歌手》第四期歌单](https://www.zhihu.com/search?q=%E3%80%8A%E6%AD%8C%E6%89%8B%E3%80%8B%E7%AC%AC%E5%9B%9B%E6%9C%9F%E6%AD%8C%E5%8D%95)
 1. [明天高考](https://www.zhihu.com/search?q=%E6%98%8E%E5%A4%A9%E9%AB%98%E8%80%83)
@@ -31,7 +32,7 @@
 1. [618 价格暴降家电](https://www.zhihu.com/search?q=618%20%E4%BB%B7%E6%A0%BC%E6%9A%B4%E9%99%8D%E5%AE%B6%E7%94%B5)
 1. [618 护眼灯选购](https://www.zhihu.com/search?q=618%20%E6%8A%A4%E7%9C%BC%E7%81%AF%E9%80%89%E8%B4%AD)
 1. [618 洗烘套装推荐](https://www.zhihu.com/search?q=618%20%E6%B4%97%E7%83%98%E5%A5%97%E8%A3%85%E6%8E%A8%E8%8D%90)
-1. [能提升幸福感的家居好物](https://www.zhihu.com/search?q=%E8%83%BD%E6%8F%90%E5%8D%87%E5%B9%B8%E7%A6%8F%E6%84%9F%E7%9A%84%E5%AE%B6%E5%B1%85%E5%A5%BD%E7%89%A9)
+1. [国足首发](https://www.zhihu.com/search?q=%E5%9B%BD%E8%B6%B3%E9%A6%96%E5%8F%91)
 1. [让家充满艺术气息的好物](https://www.zhihu.com/search?q=%E8%AE%A9%E5%AE%B6%E5%85%85%E6%BB%A1%E8%89%BA%E6%9C%AF%E6%B0%94%E6%81%AF%E7%9A%84%E5%A5%BD%E7%89%A9)
 1. [618 好看的家具推荐](https://www.zhihu.com/search?q=618%20%E5%A5%BD%E7%9C%8B%E7%9A%84%E5%AE%B6%E5%85%B7%E6%8E%A8%E8%8D%90)
 1. [适合懒人入手的做饭好物](https://www.zhihu.com/search?q=%E9%80%82%E5%90%88%E6%87%92%E4%BA%BA%E5%85%A5%E6%89%8B%E7%9A%84%E5%81%9A%E9%A5%AD%E5%A5%BD%E7%89%A9)
