@@ -11,11 +11,10 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-06-06 13:13:10 +0800`
+`更新时间：2025-06-06 14:18:27 +0800`
 
 ## 热门搜索
 
-1. [今日芒种](https://www.zhihu.com/search?q=%E4%BB%8A%E6%97%A5%E8%8A%92%E7%A7%8D)
 1. [国内油价上调](https://www.zhihu.com/search?q=%E5%9B%BD%E5%86%85%E6%B2%B9%E4%BB%B7%E4%B8%8A%E8%B0%83)
 1. [《歌手》第四期歌单](https://www.zhihu.com/search?q=%E3%80%8A%E6%AD%8C%E6%89%8B%E3%80%8B%E7%AC%AC%E5%9B%9B%E6%9C%9F%E6%AD%8C%E5%8D%95)
 1. [歌手歌单](https://www.zhihu.com/search?q=%E6%AD%8C%E6%89%8B%E6%AD%8C%E5%8D%95)
@@ -23,7 +22,6 @@
 1. [国足vs印尼](https://www.zhihu.com/search?q=%E5%9B%BD%E8%B6%B3vs%E5%8D%B0%E5%B0%BC)
 1. [我国成功发射卫星互联网低轨卫星](https://www.zhihu.com/search?q=%E6%88%91%E5%9B%BD%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84%E5%8D%AB%E6%98%9F%E4%BA%92%E8%81%94%E7%BD%91%E4%BD%8E%E8%BD%A8%E5%8D%AB%E6%98%9F)
 1. [你见过哪些结婚作死的行为](https://www.zhihu.com/search?q=%E4%BD%A0%E8%A7%81%E8%BF%87%E5%93%AA%E4%BA%9B%E7%BB%93%E5%A9%9A%E4%BD%9C%E6%AD%BB%E7%9A%84%E8%A1%8C%E4%B8%BA)
-1. [IG战胜FPX](https://www.zhihu.com/search?q=IG%E6%88%98%E8%83%9CFPX)
 1. [618 洗衣机推荐](https://www.zhihu.com/search?q=618%20%E6%B4%97%E8%A1%A3%E6%9C%BA%E6%8E%A8%E8%8D%90)
 1. [618 家电推荐](https://www.zhihu.com/search?q=618%20%E5%AE%B6%E7%94%B5%E6%8E%A8%E8%8D%90)
 1. [618 价格暴降家电](https://www.zhihu.com/search?q=618%20%E4%BB%B7%E6%A0%BC%E6%9A%B4%E9%99%8D%E5%AE%B6%E7%94%B5)
@@ -42,6 +40,8 @@
 1. [618 个护囤货指南](https://www.zhihu.com/search?q=618%20%E4%B8%AA%E6%8A%A4%E5%9B%A4%E8%B4%A7%E6%8C%87%E5%8D%97)
 1. [618 成分党囤了什么护肤品](https://www.zhihu.com/search?q=618%20%E6%88%90%E5%88%86%E5%85%9A%E5%9B%A4%E4%BA%86%E4%BB%80%E4%B9%88%E6%8A%A4%E8%82%A4%E5%93%81)
 1. [夏日「不脱妆」底妆推荐](https://www.zhihu.com/search?q=%E5%A4%8F%E6%97%A5%E3%80%8C%E4%B8%8D%E8%84%B1%E5%A6%86%E3%80%8D%E5%BA%95%E5%A6%86%E6%8E%A8%E8%8D%90)
+1. [敏感肌面膜囤货指南](https://www.zhihu.com/search?q=%E6%95%8F%E6%84%9F%E8%82%8C%E9%9D%A2%E8%86%9C%E5%9B%A4%E8%B4%A7%E6%8C%87%E5%8D%97)
+1. [500 元以内蓝牙耳机推荐](https://www.zhihu.com/search?q=500%20%E5%85%83%E4%BB%A5%E5%86%85%E8%93%9D%E7%89%99%E8%80%B3%E6%9C%BA%E6%8E%A8%E8%8D%90)
 
 ## 热门话题
 
