@@ -11,10 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-06-07 11:46:50 +0800`
+`更新时间：2025-06-07 12:30:25 +0800`
 
 ## 热门搜索
 
+1. [北京高考作文](https://www.zhihu.com/search?q=%E5%8C%97%E4%BA%AC%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87)
 1. [国足首发](https://www.zhihu.com/search?q=%E5%9B%BD%E8%B6%B3%E9%A6%96%E5%8F%91)
 1. [国内油价上调](https://www.zhihu.com/search?q=%E5%9B%BD%E5%86%85%E6%B2%B9%E4%BB%B7%E4%B8%8A%E8%B0%83)
 1. [高考第一天](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E7%AC%AC%E4%B8%80%E5%A4%A9)
@@ -40,7 +41,6 @@
 1. [618 个护囤货指南](https://www.zhihu.com/search?q=618%20%E4%B8%AA%E6%8A%A4%E5%9B%A4%E8%B4%A7%E6%8C%87%E5%8D%97)
 1. [618 成分党囤了什么护肤品](https://www.zhihu.com/search?q=618%20%E6%88%90%E5%88%86%E5%85%9A%E5%9B%A4%E4%BA%86%E4%BB%80%E4%B9%88%E6%8A%A4%E8%82%A4%E5%93%81)
 1. [夏日「不脱妆」底妆推荐](https://www.zhihu.com/search?q=%E5%A4%8F%E6%97%A5%E3%80%8C%E4%B8%8D%E8%84%B1%E5%A6%86%E3%80%8D%E5%BA%95%E5%A6%86%E6%8E%A8%E8%8D%90)
-1. [敏感肌面膜囤货指南](https://www.zhihu.com/search?q=%E6%95%8F%E6%84%9F%E8%82%8C%E9%9D%A2%E8%86%9C%E5%9B%A4%E8%B4%A7%E6%8C%87%E5%8D%97)
 
 ## 热门话题
 
