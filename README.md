@@ -11,12 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-06-09 01:10:04 +0800`
+`更新时间：2025-06-09 02:14:55 +0800`
 
 ## 热门搜索
 
 1. [高考英语](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E8%8B%B1%E8%AF%AD)
-1. [北京高考作文](https://www.zhihu.com/search?q=%E5%8C%97%E4%BA%AC%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87)
 1. [国足首发](https://www.zhihu.com/search?q=%E5%9B%BD%E8%B6%B3%E9%A6%96%E5%8F%91)
 1. [长沙暴雨](https://www.zhihu.com/search?q=%E9%95%BF%E6%B2%99%E6%9A%B4%E9%9B%A8)
 1. [如何看待美国识字率只有 79％](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E7%BE%8E%E5%9B%BD%E8%AF%86%E5%AD%97%E7%8E%87%E5%8F%AA%E6%9C%89%2079%EF%BC%85)
@@ -42,6 +41,7 @@
 1. [夏日「不脱妆」底妆推荐](https://www.zhihu.com/search?q=%E5%A4%8F%E6%97%A5%E3%80%8C%E4%B8%8D%E8%84%B1%E5%A6%86%E3%80%8D%E5%BA%95%E5%A6%86%E6%8E%A8%E8%8D%90)
 1. [敏感肌面膜囤货指南](https://www.zhihu.com/search?q=%E6%95%8F%E6%84%9F%E8%82%8C%E9%9D%A2%E8%86%9C%E5%9B%A4%E8%B4%A7%E6%8C%87%E5%8D%97)
 1. [500 元以内蓝牙耳机推荐](https://www.zhihu.com/search?q=500%20%E5%85%83%E4%BB%A5%E5%86%85%E8%93%9D%E7%89%99%E8%80%B3%E6%9C%BA%E6%8E%A8%E8%8D%90)
+1. [新手买相机推荐](https://www.zhihu.com/search?q=%E6%96%B0%E6%89%8B%E4%B9%B0%E7%9B%B8%E6%9C%BA%E6%8E%A8%E8%8D%90)
 
 ## 热门话题
 
