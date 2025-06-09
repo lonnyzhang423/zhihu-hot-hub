@@ -11,11 +11,10 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-06-10 01:11:23 +0800`
+`更新时间：2025-06-10 02:17:43 +0800`
 
 ## 热门搜索
 
-1. [高考英语](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E8%8B%B1%E8%AF%AD)
 1. [金庸小说最匪夷所思的是哪一片段](https://www.zhihu.com/search?q=%E9%87%91%E5%BA%B8%E5%B0%8F%E8%AF%B4%E6%9C%80%E5%8C%AA%E5%A4%B7%E6%89%80%E6%80%9D%E7%9A%84%E6%98%AF%E5%93%AA%E4%B8%80%E7%89%87%E6%AE%B5)
 1. [春运](https://www.zhihu.com/search?q=%E6%98%A5%E8%BF%90)
 1. [如何评价大冰](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E5%A4%A7%E5%86%B0)
@@ -43,6 +42,7 @@
 1. [新手买相机推荐](https://www.zhihu.com/search?q=%E6%96%B0%E6%89%8B%E4%B9%B0%E7%9B%B8%E6%9C%BA%E6%8E%A8%E8%8D%90)
 1. [618 给一岁宝宝囤点玩具](https://www.zhihu.com/search?q=618%20%E7%BB%99%E4%B8%80%E5%B2%81%E5%AE%9D%E5%AE%9D%E5%9B%A4%E7%82%B9%E7%8E%A9%E5%85%B7)
 1. [运动黑科技产品推荐](https://www.zhihu.com/search?q=%E8%BF%90%E5%8A%A8%E9%BB%91%E7%A7%91%E6%8A%80%E4%BA%A7%E5%93%81%E6%8E%A8%E8%8D%90)
+1. [618 主打科技力的跑鞋](https://www.zhihu.com/search?q=618%20%E4%B8%BB%E6%89%93%E7%A7%91%E6%8A%80%E5%8A%9B%E7%9A%84%E8%B7%91%E9%9E%8B)
 
 ## 热门话题
 
