@@ -11,11 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-06-09 14:38:40 +0800`
+`更新时间：2025-06-09 15:26:19 +0800`
 
 ## 热门搜索
 
-1. [电台主持人替听众维权遭政府工作人员嬉笑回怼](https://www.zhihu.com/search?q=%E7%94%B5%E5%8F%B0%E4%B8%BB%E6%8C%81%E4%BA%BA%E6%9B%BF%E5%90%AC%E4%BC%97%E7%BB%B4%E6%9D%83%E9%81%AD%E6%94%BF%E5%BA%9C%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E5%AC%89%E7%AC%91%E5%9B%9E%E6%80%BC)
+1. [波音重启对华飞机交付](https://www.zhihu.com/search?q=%E6%B3%A2%E9%9F%B3%E9%87%8D%E5%90%AF%E5%AF%B9%E5%8D%8E%E9%A3%9E%E6%9C%BA%E4%BA%A4%E4%BB%98)
 1. [「妈妈岗」在全国各地兴起](https://www.zhihu.com/search?q=%E3%80%8C%E5%A6%88%E5%A6%88%E5%B2%97%E3%80%8D%E5%9C%A8%E5%85%A8%E5%9B%BD%E5%90%84%E5%9C%B0%E5%85%B4%E8%B5%B7)
 1. [618 洗衣机推荐](https://www.zhihu.com/search?q=618%20%E6%B4%97%E8%A1%A3%E6%9C%BA%E6%8E%A8%E8%8D%90)
 1. [618 家电推荐](https://www.zhihu.com/search?q=618%20%E5%AE%B6%E7%94%B5%E6%8E%A8%E8%8D%90)
@@ -39,6 +39,7 @@
 1. [500 元以内蓝牙耳机推荐](https://www.zhihu.com/search?q=500%20%E5%85%83%E4%BB%A5%E5%86%85%E8%93%9D%E7%89%99%E8%80%B3%E6%9C%BA%E6%8E%A8%E8%8D%90)
 1. [新手买相机推荐](https://www.zhihu.com/search?q=%E6%96%B0%E6%89%8B%E4%B9%B0%E7%9B%B8%E6%9C%BA%E6%8E%A8%E8%8D%90)
 1. [618 给一岁宝宝囤点玩具](https://www.zhihu.com/search?q=618%20%E7%BB%99%E4%B8%80%E5%B2%81%E5%AE%9D%E5%AE%9D%E5%9B%A4%E7%82%B9%E7%8E%A9%E5%85%B7)
+1. [运动黑科技产品推荐](https://www.zhihu.com/search?q=%E8%BF%90%E5%8A%A8%E9%BB%91%E7%A7%91%E6%8A%80%E4%BA%A7%E5%93%81%E6%8E%A8%E8%8D%90)
 1. [618 主打科技力的跑鞋](https://www.zhihu.com/search?q=618%20%E4%B8%BB%E6%89%93%E7%A7%91%E6%8A%80%E5%8A%9B%E7%9A%84%E8%B7%91%E9%9E%8B)
 1. [ Switch 2 全球同步发售](https://www.zhihu.com/search?q=%20Switch%202%20%E5%85%A8%E7%90%83%E5%90%8C%E6%AD%A5%E5%8F%91%E5%94%AE)
 
