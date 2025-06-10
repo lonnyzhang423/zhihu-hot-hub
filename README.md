@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-06-10 20:24:37 +0800`
+`更新时间：2025-06-10 21:28:22 +0800`
 
 ## 热门搜索
 
-1. [计科专业爆冷是短期波动还是长期趋势](https://www.zhihu.com/search?q=%E8%AE%A1%E7%A7%91%E4%B8%93%E4%B8%9A%E7%88%86%E5%86%B7%E6%98%AF%E7%9F%AD%E6%9C%9F%E6%B3%A2%E5%8A%A8%E8%BF%98%E6%98%AF%E9%95%BF%E6%9C%9F%E8%B6%8B%E5%8A%BF)
+1. [为何 Labubu 这么赚钱](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BD%95%20Labubu%20%E8%BF%99%E4%B9%88%E8%B5%9A%E9%92%B1)
+1. [为何周公旦被侄儿原谅多尔衮却不行](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BD%95%E5%91%A8%E5%85%AC%E6%97%A6%E8%A2%AB%E4%BE%84%E5%84%BF%E5%8E%9F%E8%B0%85%E5%A4%9A%E5%B0%94%E8%A1%AE%E5%8D%B4%E4%B8%8D%E8%A1%8C)
 1. [国足vs巴林](https://www.zhihu.com/search?q=%E5%9B%BD%E8%B6%B3vs%E5%B7%B4%E6%9E%97)
 1. [体制内着装最忌讳的是什么](https://www.zhihu.com/search?q=%E4%BD%93%E5%88%B6%E5%86%85%E7%9D%80%E8%A3%85%E6%9C%80%E5%BF%8C%E8%AE%B3%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [AL战胜BLG](https://www.zhihu.com/search?q=AL%E6%88%98%E8%83%9CBLG)
