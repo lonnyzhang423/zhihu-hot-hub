@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-06-10 22:26:22 +0800`
+`更新时间：2025-06-10 23:27:21 +0800`
 
 ## 热门搜索
 
-1. [「国补」暂停了吗](https://www.zhihu.com/search?q=%E3%80%8C%E5%9B%BD%E8%A1%A5%E3%80%8D%E6%9A%82%E5%81%9C%E4%BA%86%E5%90%97)
-1. [「韦神」账号评论区成高考许愿池](https://www.zhihu.com/search?q=%E3%80%8C%E9%9F%A6%E7%A5%9E%E3%80%8D%E8%B4%A6%E5%8F%B7%E8%AF%84%E8%AE%BA%E5%8C%BA%E6%88%90%E9%AB%98%E8%80%83%E8%AE%B8%E6%84%BF%E6%B1%A0)
+1. [高考结束](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E7%BB%93%E6%9D%9F)
+1. [如何评价大冰](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E5%A4%A7%E5%86%B0)
 1. [国足vs巴林](https://www.zhihu.com/search?q=%E5%9B%BD%E8%B6%B3vs%E5%B7%B4%E6%9E%97)
 1. [体制内着装最忌讳的是什么](https://www.zhihu.com/search?q=%E4%BD%93%E5%88%B6%E5%86%85%E7%9D%80%E8%A3%85%E6%9C%80%E5%BF%8C%E8%AE%B3%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [AL战胜BLG](https://www.zhihu.com/search?q=AL%E6%88%98%E8%83%9CBLG)
