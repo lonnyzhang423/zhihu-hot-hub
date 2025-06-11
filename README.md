@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-06-11 08:59:58 +0800`
+`更新时间：2025-06-11 10:47:47 +0800`
 
 ## 热门搜索
 
-1. [保时捷要跌落神坛了吗](https://www.zhihu.com/search?q=%E4%BF%9D%E6%97%B6%E6%8D%B7%E8%A6%81%E8%B7%8C%E8%90%BD%E7%A5%9E%E5%9D%9B%E4%BA%86%E5%90%97)
-1. [主持人替听众维权被工作人员嬉笑回怼](https://www.zhihu.com/search?q=%E4%B8%BB%E6%8C%81%E4%BA%BA%E6%9B%BF%E5%90%AC%E4%BC%97%E7%BB%B4%E6%9D%83%E8%A2%AB%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E5%AC%89%E7%AC%91%E5%9B%9E%E6%80%BC)
+1. [为什么比亚迪会大规模降价](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%AF%94%E4%BA%9A%E8%BF%AA%E4%BC%9A%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%99%8D%E4%BB%B7)
+1. [胖东来称员工被骂最高赔10万](https://www.zhihu.com/search?q=%E8%83%96%E4%B8%9C%E6%9D%A5%E7%A7%B0%E5%91%98%E5%B7%A5%E8%A2%AB%E9%AA%82%E6%9C%80%E9%AB%98%E8%B5%9410%E4%B8%87)
 1. [国足vs巴林](https://www.zhihu.com/search?q=%E5%9B%BD%E8%B6%B3vs%E5%B7%B4%E6%9E%97)
 1. [体制内着装最忌讳的是什么](https://www.zhihu.com/search?q=%E4%BD%93%E5%88%B6%E5%86%85%E7%9D%80%E8%A3%85%E6%9C%80%E5%BF%8C%E8%AE%B3%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [AL战胜BLG](https://www.zhihu.com/search?q=AL%E6%88%98%E8%83%9CBLG)
