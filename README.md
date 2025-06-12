@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-06-12 21:37:46 +0800`
+`更新时间：2025-06-12 22:26:33 +0800`
 
 ## 热门搜索
 
-1. [夸克发布首个高考志愿大模型](https://www.zhihu.com/search?q=%E5%A4%B8%E5%85%8B%E5%8F%91%E5%B8%83%E9%A6%96%E4%B8%AA%E9%AB%98%E8%80%83%E5%BF%97%E6%84%BF%E5%A4%A7%E6%A8%A1%E5%9E%8B)
-1. [高考结束孩子秒变「弃子」](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E7%BB%93%E6%9D%9F%E5%AD%A9%E5%AD%90%E7%A7%92%E5%8F%98%E3%80%8C%E5%BC%83%E5%AD%90%E3%80%8D)
+1. [女超联赛出现惊天误判](https://www.zhihu.com/search?q=%E5%A5%B3%E8%B6%85%E8%81%94%E8%B5%9B%E5%87%BA%E7%8E%B0%E6%83%8A%E5%A4%A9%E8%AF%AF%E5%88%A4)
+1. [银行客户经理因吃客户一碗面被罚](https://www.zhihu.com/search?q=%E9%93%B6%E8%A1%8C%E5%AE%A2%E6%88%B7%E7%BB%8F%E7%90%86%E5%9B%A0%E5%90%83%E5%AE%A2%E6%88%B7%E4%B8%80%E7%A2%97%E9%9D%A2%E8%A2%AB%E7%BD%9A)
 1. [歌手第五期歌单](https://www.zhihu.com/search?q=%E6%AD%8C%E6%89%8B%E7%AC%AC%E4%BA%94%E6%9C%9F%E6%AD%8C%E5%8D%95)
 1. [体制内着装最忌讳的是什么](https://www.zhihu.com/search?q=%E4%BD%93%E5%88%B6%E5%86%85%E7%9D%80%E8%A3%85%E6%9C%80%E5%BF%8C%E8%AE%B3%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [618 洗衣机推荐](https://www.zhihu.com/search?q=618%20%E6%B4%97%E8%A1%A3%E6%9C%BA%E6%8E%A8%E8%8D%90)
