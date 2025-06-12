@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-06-12 11:42:50 +0800`
+`更新时间：2025-06-12 12:19:56 +0800`
 
 ## 热门搜索
 
-1. [山东地理](https://www.zhihu.com/search?q=%E5%B1%B1%E4%B8%9C%E5%9C%B0%E7%90%86)
-1. [45岁张柏芝近照曝光变化好大](https://www.zhihu.com/search?q=45%E5%B2%81%E5%BC%A0%E6%9F%8F%E8%8A%9D%E8%BF%91%E7%85%A7%E6%9B%9D%E5%85%89%E5%8F%98%E5%8C%96%E5%A5%BD%E5%A4%A7)
+1. [广东启动防风ⅳ级应急响应](https://www.zhihu.com/search?q=%E5%B9%BF%E4%B8%9C%E5%90%AF%E5%8A%A8%E9%98%B2%E9%A3%8E%E2%85%B3%E7%BA%A7%E5%BA%94%E6%80%A5%E5%93%8D%E5%BA%94)
+1. [今年第1号台风已生成](https://www.zhihu.com/search?q=%E4%BB%8A%E5%B9%B4%E7%AC%AC1%E5%8F%B7%E5%8F%B0%E9%A3%8E%E5%B7%B2%E7%94%9F%E6%88%90)
 1. [如何评价大冰](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E5%A4%A7%E5%86%B0)
 1. [国足vs巴林](https://www.zhihu.com/search?q=%E5%9B%BD%E8%B6%B3vs%E5%B7%B4%E6%9E%97)
 1. [体制内着装最忌讳的是什么](https://www.zhihu.com/search?q=%E4%BD%93%E5%88%B6%E5%86%85%E7%9D%80%E8%A3%85%E6%9C%80%E5%BF%8C%E8%AE%B3%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88)
