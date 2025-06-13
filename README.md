@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-06-13 14:37:32 +0800`
+`更新时间：2025-06-13 15:24:42 +0800`
 
 ## 热门搜索
 
-1. [中俄印有未来一起合作的可能吗](https://www.zhihu.com/search?q=%E4%B8%AD%E4%BF%84%E5%8D%B0%E6%9C%89%E6%9C%AA%E6%9D%A5%E4%B8%80%E8%B5%B7%E5%90%88%E4%BD%9C%E7%9A%84%E5%8F%AF%E8%83%BD%E5%90%97)
+1. [B 站崩了](https://www.zhihu.com/search?q=B%20%E7%AB%99%E5%B4%A9%E4%BA%86)
+1. [广东启动防风ⅳ级应急响应](https://www.zhihu.com/search?q=%E5%B9%BF%E4%B8%9C%E5%90%AF%E5%8A%A8%E9%98%B2%E9%A3%8E%E2%85%B3%E7%BA%A7%E5%BA%94%E6%80%A5%E5%93%8D%E5%BA%94)
 1. [SEVENTEEN新歌mv](https://www.zhihu.com/search?q=SEVENTEEN%E6%96%B0%E6%AD%8Cmv)
 1. [歌手第五期歌单](https://www.zhihu.com/search?q=%E6%AD%8C%E6%89%8B%E7%AC%AC%E4%BA%94%E6%9C%9F%E6%AD%8C%E5%8D%95)
 1. [618 洗衣机推荐](https://www.zhihu.com/search?q=618%20%E6%B4%97%E8%A1%A3%E6%9C%BA%E6%8E%A8%E8%8D%90)
