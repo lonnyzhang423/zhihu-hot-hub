@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-06-13 16:33:59 +0800`
+`更新时间：2025-06-13 17:27:53 +0800`
 
 ## 热门搜索
 
-1. [B 站崩了](https://www.zhihu.com/search?q=B%20%E7%AB%99%E5%B4%A9%E4%BA%86)
-1. [广东启动防风ⅳ级应急响应](https://www.zhihu.com/search?q=%E5%B9%BF%E4%B8%9C%E5%90%AF%E5%8A%A8%E9%98%B2%E9%A3%8E%E2%85%B3%E7%BA%A7%E5%BA%94%E6%80%A5%E5%93%8D%E5%BA%94)
+1. [小鹏汽车自研AI图灵芯片被盗](https://www.zhihu.com/search?q=%E5%B0%8F%E9%B9%8F%E6%B1%BD%E8%BD%A6%E8%87%AA%E7%A0%94AI%E5%9B%BE%E7%81%B5%E8%8A%AF%E7%89%87%E8%A2%AB%E7%9B%97)
+1. [蒯曼3比0王艺迪](https://www.zhihu.com/search?q=%E8%92%AF%E6%9B%BC3%E6%AF%940%E7%8E%8B%E8%89%BA%E8%BF%AA)
 1. [SEVENTEEN新歌mv](https://www.zhihu.com/search?q=SEVENTEEN%E6%96%B0%E6%AD%8Cmv)
 1. [歌手第五期歌单](https://www.zhihu.com/search?q=%E6%AD%8C%E6%89%8B%E7%AC%AC%E4%BA%94%E6%9C%9F%E6%AD%8C%E5%8D%95)
 1. [618 洗衣机推荐](https://www.zhihu.com/search?q=618%20%E6%B4%97%E8%A1%A3%E6%9C%BA%E6%8E%A8%E8%8D%90)
