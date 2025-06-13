@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-06-13 20:52:46 +0800`
+`更新时间：2025-06-13 21:36:31 +0800`
 
 ## 热门搜索
 
-1. [微软宣布Xbox将逐步停止销售实体光盘](https://www.zhihu.com/search?q=%E5%BE%AE%E8%BD%AF%E5%AE%A3%E5%B8%83Xbox%E5%B0%86%E9%80%90%E6%AD%A5%E5%81%9C%E6%AD%A2%E9%94%80%E5%94%AE%E5%AE%9E%E4%BD%93%E5%85%89%E7%9B%98)
+1. [为什么小沈阳女儿选择韩国出道](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%B0%8F%E6%B2%88%E9%98%B3%E5%A5%B3%E5%84%BF%E9%80%89%E6%8B%A9%E9%9F%A9%E5%9B%BD%E5%87%BA%E9%81%93)
+1. [海底捞上线自助午餐](https://www.zhihu.com/search?q=%E6%B5%B7%E5%BA%95%E6%8D%9E%E4%B8%8A%E7%BA%BF%E8%87%AA%E5%8A%A9%E5%8D%88%E9%A4%90)
 1. [618 洗衣机推荐](https://www.zhihu.com/search?q=618%20%E6%B4%97%E8%A1%A3%E6%9C%BA%E6%8E%A8%E8%8D%90)
 1. [618 家电推荐](https://www.zhihu.com/search?q=618%20%E5%AE%B6%E7%94%B5%E6%8E%A8%E8%8D%90)
 1. [618 价格暴降家电](https://www.zhihu.com/search?q=618%20%E4%BB%B7%E6%A0%BC%E6%9A%B4%E9%99%8D%E5%AE%B6%E7%94%B5)
