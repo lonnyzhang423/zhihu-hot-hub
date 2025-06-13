@@ -11,12 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-06-13 19:22:35 +0800`
+`更新时间：2025-06-13 20:52:46 +0800`
 
 ## 热门搜索
 
-1. [Labubu从潮玩变成金融衍生品](https://www.zhihu.com/search?q=Labubu%E4%BB%8E%E6%BD%AE%E7%8E%A9%E5%8F%98%E6%88%90%E9%87%91%E8%9E%8D%E8%A1%8D%E7%94%9F%E5%93%81)
-1. [为什么人与人长相不同动物却都长得一样](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BA%BA%E4%B8%8E%E4%BA%BA%E9%95%BF%E7%9B%B8%E4%B8%8D%E5%90%8C%E5%8A%A8%E7%89%A9%E5%8D%B4%E9%83%BD%E9%95%BF%E5%BE%97%E4%B8%80%E6%A0%B7)
+1. [微软宣布Xbox将逐步停止销售实体光盘](https://www.zhihu.com/search?q=%E5%BE%AE%E8%BD%AF%E5%AE%A3%E5%B8%83Xbox%E5%B0%86%E9%80%90%E6%AD%A5%E5%81%9C%E6%AD%A2%E9%94%80%E5%94%AE%E5%AE%9E%E4%BD%93%E5%85%89%E7%9B%98)
 1. [618 洗衣机推荐](https://www.zhihu.com/search?q=618%20%E6%B4%97%E8%A1%A3%E6%9C%BA%E6%8E%A8%E8%8D%90)
 1. [618 家电推荐](https://www.zhihu.com/search?q=618%20%E5%AE%B6%E7%94%B5%E6%8E%A8%E8%8D%90)
 1. [618 价格暴降家电](https://www.zhihu.com/search?q=618%20%E4%BB%B7%E6%A0%BC%E6%9A%B4%E9%99%8D%E5%AE%B6%E7%94%B5)
