@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-06-15 10:21:04 +0800`
+`更新时间：2025-06-15 11:54:32 +0800`
 
 ## 热门搜索
 
@@ -42,6 +42,7 @@
 1. [运动黑科技产品推荐](https://www.zhihu.com/search?q=%E8%BF%90%E5%8A%A8%E9%BB%91%E7%A7%91%E6%8A%80%E4%BA%A7%E5%93%81%E6%8E%A8%E8%8D%90)
 1. [618 主打科技力的跑鞋](https://www.zhihu.com/search?q=618%20%E4%B8%BB%E6%89%93%E7%A7%91%E6%8A%80%E5%8A%9B%E7%9A%84%E8%B7%91%E9%9E%8B)
 1. [任达华回山东老家收麦子](https://www.zhihu.com/search?q=%E4%BB%BB%E8%BE%BE%E5%8D%8E%E5%9B%9E%E5%B1%B1%E4%B8%9C%E8%80%81%E5%AE%B6%E6%94%B6%E9%BA%A6%E5%AD%90)
+1. [川美爆火毕业作品祷已售出](https://www.zhihu.com/search?q=%E5%B7%9D%E7%BE%8E%E7%88%86%E7%81%AB%E6%AF%95%E4%B8%9A%E4%BD%9C%E5%93%81%E7%A5%B7%E5%B7%B2%E5%94%AE%E5%87%BA)
 
 ## 热门话题
 
