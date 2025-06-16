@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-06-16 20:24:47 +0800`
+`更新时间：2025-06-16 21:28:40 +0800`
 
 ## 热门搜索
 
-1. [扁担女孩刘燕郑重声明](https://www.zhihu.com/search?q=%E6%89%81%E6%8B%85%E5%A5%B3%E5%AD%A9%E5%88%98%E7%87%95%E9%83%91%E9%87%8D%E5%A3%B0%E6%98%8E)
-1. [瑞金教师要求学生跪地写检讨](https://www.zhihu.com/search?q=%E7%91%9E%E9%87%91%E6%95%99%E5%B8%88%E8%A6%81%E6%B1%82%E5%AD%A6%E7%94%9F%E8%B7%AA%E5%9C%B0%E5%86%99%E6%A3%80%E8%AE%A8)
+1. [HLE对战T1](https://www.zhihu.com/search?q=HLE%E5%AF%B9%E6%88%98T1)
+1. [男人最无声的炫耀是什么](https://www.zhihu.com/search?q=%E7%94%B7%E4%BA%BA%E6%9C%80%E6%97%A0%E5%A3%B0%E7%9A%84%E7%82%AB%E8%80%80%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [云南蘑菇能不能让盲人看到小人](https://www.zhihu.com/search?q=%E4%BA%91%E5%8D%97%E8%98%91%E8%8F%87%E8%83%BD%E4%B8%8D%E8%83%BD%E8%AE%A9%E7%9B%B2%E4%BA%BA%E7%9C%8B%E5%88%B0%E5%B0%8F%E4%BA%BA)
 1. [618 洗衣机推荐](https://www.zhihu.com/search?q=618%20%E6%B4%97%E8%A1%A3%E6%9C%BA%E6%8E%A8%E8%8D%90)
 1. [618 家电推荐](https://www.zhihu.com/search?q=618%20%E5%AE%B6%E7%94%B5%E6%8E%A8%E8%8D%90)
