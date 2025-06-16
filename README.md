@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-06-16 12:37:26 +0800`
+`更新时间：2025-06-16 13:28:02 +0800`
 
 ## 热门搜索
 
-1. [B站崩了](https://www.zhihu.com/search?q=B%E7%AB%99%E5%B4%A9%E4%BA%86)
-1. [618 洗衣机推荐](https://www.zhihu.com/search?q=618%20%E6%B4%97%E8%A1%A3%E6%9C%BA%E6%8E%A8%E8%8D%90)
+1. [车企齐声承诺账期60天](https://www.zhihu.com/search?q=%E8%BD%A6%E4%BC%81%E9%BD%90%E5%A3%B0%E6%89%BF%E8%AF%BA%E8%B4%A6%E6%9C%9F60%E5%A4%A9)
+1. [河北永辉超市羊肉检出抗生素超标](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8C%97%E6%B0%B8%E8%BE%89%E8%B6%85%E5%B8%82%E7%BE%8A%E8%82%89%E6%A3%80%E5%87%BA%E6%8A%97%E7%94%9F%E7%B4%A0%E8%B6%85%E6%A0%87)
 1. [618 家电推荐](https://www.zhihu.com/search?q=618%20%E5%AE%B6%E7%94%B5%E6%8E%A8%E8%8D%90)
 1. [618 价格暴降家电](https://www.zhihu.com/search?q=618%20%E4%BB%B7%E6%A0%BC%E6%9A%B4%E9%99%8D%E5%AE%B6%E7%94%B5)
 1. [618 护眼灯选购](https://www.zhihu.com/search?q=618%20%E6%8A%A4%E7%9C%BC%E7%81%AF%E9%80%89%E8%B4%AD)
