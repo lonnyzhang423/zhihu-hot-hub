@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-06-16 21:38:57 +0800`
+`更新时间：2025-06-16 22:27:16 +0800`
 
 ## 热门搜索
 
-1. [登陆少年披荆斩棘上半场第一](https://www.zhihu.com/search?q=%E7%99%BB%E9%99%86%E5%B0%91%E5%B9%B4%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E4%B8%8A%E5%8D%8A%E5%9C%BA%E7%AC%AC%E4%B8%80)
-1. [苏超球员怎么备战的](https://www.zhihu.com/search?q=%E8%8B%8F%E8%B6%85%E7%90%83%E5%91%98%E6%80%8E%E4%B9%88%E5%A4%87%E6%88%98%E7%9A%84)
+1. [HLE对战T1](https://www.zhihu.com/search?q=HLE%E5%AF%B9%E6%88%98T1)
+1. [男人最无声的炫耀是什么](https://www.zhihu.com/search?q=%E7%94%B7%E4%BA%BA%E6%9C%80%E6%97%A0%E5%A3%B0%E7%9A%84%E7%82%AB%E8%80%80%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [云南蘑菇能不能让盲人看到小人](https://www.zhihu.com/search?q=%E4%BA%91%E5%8D%97%E8%98%91%E8%8F%87%E8%83%BD%E4%B8%8D%E8%83%BD%E8%AE%A9%E7%9B%B2%E4%BA%BA%E7%9C%8B%E5%88%B0%E5%B0%8F%E4%BA%BA)
 1. [618 洗衣机推荐](https://www.zhihu.com/search?q=618%20%E6%B4%97%E8%A1%A3%E6%9C%BA%E6%8E%A8%E8%8D%90)
 1. [618 家电推荐](https://www.zhihu.com/search?q=618%20%E5%AE%B6%E7%94%B5%E6%8E%A8%E8%8D%90)
@@ -30,7 +30,7 @@
 1. [增加幸福感的家用电器](https://www.zhihu.com/search?q=%E5%A2%9E%E5%8A%A0%E5%B9%B8%E7%A6%8F%E6%84%9F%E7%9A%84%E5%AE%B6%E7%94%A8%E7%94%B5%E5%99%A8)
 1. [618 护眼灯如何选](https://www.zhihu.com/search?q=618%20%E6%8A%A4%E7%9C%BC%E7%81%AF%E5%A6%82%E4%BD%95%E9%80%89)
 1. [跟面包绝配的酱料](https://www.zhihu.com/search?q=%E8%B7%9F%E9%9D%A2%E5%8C%85%E7%BB%9D%E9%85%8D%E7%9A%84%E9%85%B1%E6%96%99)
-1. [孙燕姿鸟巢演唱会](https://www.zhihu.com/search?q=%E5%AD%99%E7%87%95%E5%A7%BF%E9%B8%9F%E5%B7%A2%E6%BC%94%E5%94%B1%E4%BC%9A)
+1. [咖啡配什么酒好喝](https://www.zhihu.com/search?q=%E5%92%96%E5%95%A1%E9%85%8D%E4%BB%80%E4%B9%88%E9%85%92%E5%A5%BD%E5%96%9D)
 1. [懒人早餐搭配推荐](https://www.zhihu.com/search?q=%E6%87%92%E4%BA%BA%E6%97%A9%E9%A4%90%E6%90%AD%E9%85%8D%E6%8E%A8%E8%8D%90)
 1. [「一秒入夏」的香水推荐](https://www.zhihu.com/search?q=%E3%80%8C%E4%B8%80%E7%A7%92%E5%85%A5%E5%A4%8F%E3%80%8D%E7%9A%84%E9%A6%99%E6%B0%B4%E6%8E%A8%E8%8D%90)
 1. [618 个护囤货指南](https://www.zhihu.com/search?q=618%20%E4%B8%AA%E6%8A%A4%E5%9B%A4%E8%B4%A7%E6%8C%87%E5%8D%97)
