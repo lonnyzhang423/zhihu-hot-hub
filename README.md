@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-06-16 14:19:43 +0800`
+`更新时间：2025-06-16 15:14:46 +0800`
 
 ## 热门搜索
 
-1. [B站崩了](https://www.zhihu.com/search?q=B%E7%AB%99%E5%B4%A9%E4%BA%86)
-1. [男人最无声的炫耀是什么](https://www.zhihu.com/search?q=%E7%94%B7%E4%BA%BA%E6%9C%80%E6%97%A0%E5%A3%B0%E7%9A%84%E7%82%AB%E8%80%80%E6%98%AF%E4%BB%80%E4%B9%88)
+1. [小米汽车副总裁回应青岛起火事故](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E5%89%AF%E6%80%BB%E8%A3%81%E5%9B%9E%E5%BA%94%E9%9D%92%E5%B2%9B%E8%B5%B7%E7%81%AB%E4%BA%8B%E6%95%85)
+1. [今年第1号台风蝴蝶来了](https://www.zhihu.com/search?q=%E4%BB%8A%E5%B9%B4%E7%AC%AC1%E5%8F%B7%E5%8F%B0%E9%A3%8E%E8%9D%B4%E8%9D%B6%E6%9D%A5%E4%BA%86)
 1. [云南蘑菇能不能让盲人看到小人](https://www.zhihu.com/search?q=%E4%BA%91%E5%8D%97%E8%98%91%E8%8F%87%E8%83%BD%E4%B8%8D%E8%83%BD%E8%AE%A9%E7%9B%B2%E4%BA%BA%E7%9C%8B%E5%88%B0%E5%B0%8F%E4%BA%BA)
 1. [618 洗衣机推荐](https://www.zhihu.com/search?q=618%20%E6%B4%97%E8%A1%A3%E6%9C%BA%E6%8E%A8%E8%8D%90)
 1. [618 家电推荐](https://www.zhihu.com/search?q=618%20%E5%AE%B6%E7%94%B5%E6%8E%A8%E8%8D%90)
