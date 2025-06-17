@@ -11,12 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-06-17 14:18:35 +0800`
+`更新时间：2025-06-17 15:12:46 +0800`
 
 ## 热门搜索
 
-1. [HLE对战T1](https://www.zhihu.com/search?q=HLE%E5%AF%B9%E6%88%98T1)
-1. [男人最无声的炫耀是什么](https://www.zhihu.com/search?q=%E7%94%B7%E4%BA%BA%E6%9C%80%E6%97%A0%E5%A3%B0%E7%9A%84%E7%82%AB%E8%80%80%E6%98%AF%E4%BB%80%E4%B9%88)
+1. [曾毅公开佩戴含有不雅元素的手表](https://www.zhihu.com/search?q=%E6%9B%BE%E6%AF%85%E5%85%AC%E5%BC%80%E4%BD%A9%E6%88%B4%E5%90%AB%E6%9C%89%E4%B8%8D%E9%9B%85%E5%85%83%E7%B4%A0%E7%9A%84%E6%89%8B%E8%A1%A8)
 1. [云南蘑菇能不能让盲人看到小人](https://www.zhihu.com/search?q=%E4%BA%91%E5%8D%97%E8%98%91%E8%8F%87%E8%83%BD%E4%B8%8D%E8%83%BD%E8%AE%A9%E7%9B%B2%E4%BA%BA%E7%9C%8B%E5%88%B0%E5%B0%8F%E4%BA%BA)
 1. [618 洗衣机推荐](https://www.zhihu.com/search?q=618%20%E6%B4%97%E8%A1%A3%E6%9C%BA%E6%8E%A8%E8%8D%90)
 1. [618 家电推荐](https://www.zhihu.com/search?q=618%20%E5%AE%B6%E7%94%B5%E6%8E%A8%E8%8D%90)
