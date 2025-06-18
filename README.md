@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-06-18 18:28:20 +0800`
+`更新时间：2025-06-18 19:22:36 +0800`
 
 ## 热门搜索
 
@@ -19,6 +19,7 @@
 1. [你干过最牛的一件事是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E5%B9%B2%E8%BF%87%E6%9C%80%E7%89%9B%E7%9A%84%E4%B8%80%E4%BB%B6%E4%BA%8B%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [男人最无声的炫耀是什么](https://www.zhihu.com/search?q=%E7%94%B7%E4%BA%BA%E6%9C%80%E6%97%A0%E5%A3%B0%E7%9A%84%E7%82%AB%E8%80%80%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [发明魔芋的前辈是经历了什么](https://www.zhihu.com/search?q=%E5%8F%91%E6%98%8E%E9%AD%94%E8%8A%8B%E7%9A%84%E5%89%8D%E8%BE%88%E6%98%AF%E7%BB%8F%E5%8E%86%E4%BA%86%E4%BB%80%E4%B9%88)
+1. [健身为什么比较花钱呢](https://www.zhihu.com/search?q=%E5%81%A5%E8%BA%AB%E4%B8%BA%E4%BB%80%E4%B9%88%E6%AF%94%E8%BE%83%E8%8A%B1%E9%92%B1%E5%91%A2)
 1. [中年夫妻有多少是生活和谐的](https://www.zhihu.com/search?q=%E4%B8%AD%E5%B9%B4%E5%A4%AB%E5%A6%BB%E6%9C%89%E5%A4%9A%E5%B0%91%E6%98%AF%E7%94%9F%E6%B4%BB%E5%92%8C%E8%B0%90%E7%9A%84)
 1. [云南蘑菇能不能让盲人看到小人](https://www.zhihu.com/search?q=%E4%BA%91%E5%8D%97%E8%98%91%E8%8F%87%E8%83%BD%E4%B8%8D%E8%83%BD%E8%AE%A9%E7%9B%B2%E4%BA%BA%E7%9C%8B%E5%88%B0%E5%B0%8F%E4%BA%BA)
 1. [618 洗衣机推荐](https://www.zhihu.com/search?q=618%20%E6%B4%97%E8%A1%A3%E6%9C%BA%E6%8E%A8%E8%8D%90)
@@ -42,7 +43,6 @@
 1. [敏感肌面膜囤货指南](https://www.zhihu.com/search?q=%E6%95%8F%E6%84%9F%E8%82%8C%E9%9D%A2%E8%86%9C%E5%9B%A4%E8%B4%A7%E6%8C%87%E5%8D%97)
 1. [500 元以内蓝牙耳机推荐](https://www.zhihu.com/search?q=500%20%E5%85%83%E4%BB%A5%E5%86%85%E8%93%9D%E7%89%99%E8%80%B3%E6%9C%BA%E6%8E%A8%E8%8D%90)
 1. [新手买相机推荐](https://www.zhihu.com/search?q=%E6%96%B0%E6%89%8B%E4%B9%B0%E7%9B%B8%E6%9C%BA%E6%8E%A8%E8%8D%90)
-1. [618 给一岁宝宝囤点玩具](https://www.zhihu.com/search?q=618%20%E7%BB%99%E4%B8%80%E5%B2%81%E5%AE%9D%E5%AE%9D%E5%9B%A4%E7%82%B9%E7%8E%A9%E5%85%B7)
 
 ## 热门话题
 
