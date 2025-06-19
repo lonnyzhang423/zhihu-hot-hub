@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-06-19 14:18:39 +0800`
+`更新时间：2025-06-19 15:12:54 +0800`
 
 ## 热门搜索
 
@@ -25,7 +25,7 @@
 1. [湘雅二医院两年间给罗帅宇转账40多万](https://www.zhihu.com/search?q=%E6%B9%98%E9%9B%85%E4%BA%8C%E5%8C%BB%E9%99%A2%E4%B8%A4%E5%B9%B4%E9%97%B4%E7%BB%99%E7%BD%97%E5%B8%85%E5%AE%87%E8%BD%AC%E8%B4%A640%E5%A4%9A%E4%B8%87)
 1. [罗帅宇爸爸:有人想用1500万封口](https://www.zhihu.com/search?q=%E7%BD%97%E5%B8%85%E5%AE%87%E7%88%B8%E7%88%B8%3A%E6%9C%89%E4%BA%BA%E6%83%B3%E7%94%A81500%E4%B8%87%E5%B0%81%E5%8F%A3)
 1. [官方通报湘雅二院罗某宇坠楼事件](https://www.zhihu.com/search?q=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E6%B9%98%E9%9B%85%E4%BA%8C%E9%99%A2%E7%BD%97%E6%9F%90%E5%AE%87%E5%9D%A0%E6%A5%BC%E4%BA%8B%E4%BB%B6)
-1. [T1 3-0战胜HLE](https://www.zhihu.com/search?q=T1%203-0%E6%88%98%E8%83%9CHLE)
+1. [罗马仕曾召回充电宝](https://www.zhihu.com/search?q=%E7%BD%97%E9%A9%AC%E4%BB%95%E6%9B%BE%E5%8F%AC%E5%9B%9E%E5%85%85%E7%94%B5%E5%AE%9D)
 1. [黄渤称电影市场现在的困难远没有 20 年前大](https://www.zhihu.com/search?q=%E9%BB%84%E6%B8%A4%E7%A7%B0%E7%94%B5%E5%BD%B1%E5%B8%82%E5%9C%BA%E7%8E%B0%E5%9C%A8%E7%9A%84%E5%9B%B0%E9%9A%BE%E8%BF%9C%E6%B2%A1%E6%9C%89%2020%20%E5%B9%B4%E5%89%8D%E5%A4%A7)
 1. [诗人郑愁予去世](https://www.zhihu.com/search?q=%E8%AF%97%E4%BA%BA%E9%83%91%E6%84%81%E4%BA%88%E5%8E%BB%E4%B8%96)
 1. [幼儿园一年关掉2万所](https://www.zhihu.com/search?q=%E5%B9%BC%E5%84%BF%E5%9B%AD%E4%B8%80%E5%B9%B4%E5%85%B3%E6%8E%892%E4%B8%87%E6%89%80)
