@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-06-19 15:12:54 +0800`
+`更新时间：2025-06-19 16:17:05 +0800`
 
 ## 热门搜索
 
@@ -36,13 +36,13 @@
 1. [奔驰车高速失控竟是前车主远程劫车](https://www.zhihu.com/search?q=%E5%A5%94%E9%A9%B0%E8%BD%A6%E9%AB%98%E9%80%9F%E5%A4%B1%E6%8E%A7%E7%AB%9F%E6%98%AF%E5%89%8D%E8%BD%A6%E4%B8%BB%E8%BF%9C%E7%A8%8B%E5%8A%AB%E8%BD%A6)
 1. [日本平价寿司北上广爆火](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E5%B9%B3%E4%BB%B7%E5%AF%BF%E5%8F%B8%E5%8C%97%E4%B8%8A%E5%B9%BF%E7%88%86%E7%81%AB)
 1. [俄罗斯从伊朗撤侨](https://www.zhihu.com/search?q=%E4%BF%84%E7%BD%97%E6%96%AF%E4%BB%8E%E4%BC%8A%E6%9C%97%E6%92%A4%E4%BE%A8)
-1. [波尔正式退役](https://www.zhihu.com/search?q=%E6%B3%A2%E5%B0%94%E6%AD%A3%E5%BC%8F%E9%80%80%E5%BD%B9)
-1. [演员代旭辟谷7天瘦8斤](https://www.zhihu.com/search?q=%E6%BC%94%E5%91%98%E4%BB%A3%E6%97%AD%E8%BE%9F%E8%B0%B77%E5%A4%A9%E7%98%A68%E6%96%A4)
 1. [长安的荔枝改编争议](https://www.zhihu.com/search?q=%E9%95%BF%E5%AE%89%E7%9A%84%E8%8D%94%E6%9E%9D%E6%94%B9%E7%BC%96%E4%BA%89%E8%AE%AE)
 1. [自助火锅店现老鼠自助](https://www.zhihu.com/search?q=%E8%87%AA%E5%8A%A9%E7%81%AB%E9%94%85%E5%BA%97%E7%8E%B0%E8%80%81%E9%BC%A0%E8%87%AA%E5%8A%A9)
 1. [拜仁vs奥克兰城](https://www.zhihu.com/search?q=%E6%8B%9C%E4%BB%81vs%E5%A5%A5%E5%85%8B%E5%85%B0%E5%9F%8E)
 1. [临江仙破万](https://www.zhihu.com/search?q=%E4%B8%B4%E6%B1%9F%E4%BB%99%E7%A0%B4%E4%B8%87)
 1. [雷军称小米yu7将于6月底发布](https://www.zhihu.com/search?q=%E9%9B%B7%E5%86%9B%E7%A7%B0%E5%B0%8F%E7%B1%B3yu7%E5%B0%86%E4%BA%8E6%E6%9C%88%E5%BA%95%E5%8F%91%E5%B8%83)
+1. [优衣库镜子](https://www.zhihu.com/search?q=%E4%BC%98%E8%A1%A3%E5%BA%93%E9%95%9C%E5%AD%90)
+1. [湖南烟花厂爆炸已致2失联9伤](https://www.zhihu.com/search?q=%E6%B9%96%E5%8D%97%E7%83%9F%E8%8A%B1%E5%8E%82%E7%88%86%E7%82%B8%E5%B7%B2%E8%87%B42%E5%A4%B1%E8%81%949%E4%BC%A4)
 
 ## 热门话题
 
