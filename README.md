@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-06-19 22:25:47 +0800`
+`更新时间：2025-06-19 23:27:25 +0800`
 
 ## 热门搜索
 
@@ -23,6 +23,7 @@
 1. [罗帅宇举报材料或涉及多名医生](https://www.zhihu.com/search?q=%E7%BD%97%E5%B8%85%E5%AE%87%E4%B8%BE%E6%8A%A5%E6%9D%90%E6%96%99%E6%88%96%E6%B6%89%E5%8F%8A%E5%A4%9A%E5%90%8D%E5%8C%BB%E7%94%9F)
 1. [罗帅宇坠楼前曾发两条短信](https://www.zhihu.com/search?q=%E7%BD%97%E5%B8%85%E5%AE%87%E5%9D%A0%E6%A5%BC%E5%89%8D%E6%9B%BE%E5%8F%91%E4%B8%A4%E6%9D%A1%E7%9F%AD%E4%BF%A1)
 1. [湘雅二医院两年间给罗帅宇转账40多万](https://www.zhihu.com/search?q=%E6%B9%98%E9%9B%85%E4%BA%8C%E5%8C%BB%E9%99%A2%E4%B8%A4%E5%B9%B4%E9%97%B4%E7%BB%99%E7%BD%97%E5%B8%85%E5%AE%87%E8%BD%AC%E8%B4%A640%E5%A4%9A%E4%B8%87)
+1. [英伟达计划在欧洲建超20座AI工厂](https://www.zhihu.com/search?q=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%AE%A1%E5%88%92%E5%9C%A8%E6%AC%A7%E6%B4%B2%E5%BB%BA%E8%B6%8520%E5%BA%A7AI%E5%B7%A5%E5%8E%82)
 1. [罗帅宇爸爸:有人想用1500万封口](https://www.zhihu.com/search?q=%E7%BD%97%E5%B8%85%E5%AE%87%E7%88%B8%E7%88%B8%3A%E6%9C%89%E4%BA%BA%E6%83%B3%E7%94%A81500%E4%B8%87%E5%B0%81%E5%8F%A3)
 1. [官方通报湘雅二院罗某宇坠楼事件](https://www.zhihu.com/search?q=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E6%B9%98%E9%9B%85%E4%BA%8C%E9%99%A2%E7%BD%97%E6%9F%90%E5%AE%87%E5%9D%A0%E6%A5%BC%E4%BA%8B%E4%BB%B6)
 1. [罗马仕曾召回充电宝](https://www.zhihu.com/search?q=%E7%BD%97%E9%A9%AC%E4%BB%95%E6%9B%BE%E5%8F%AC%E5%9B%9E%E5%85%85%E7%94%B5%E5%AE%9D)
@@ -41,7 +42,6 @@
 1. [苏超爆燃瞬间](https://www.zhihu.com/search?q=%E8%8B%8F%E8%B6%85%E7%88%86%E7%87%83%E7%9E%AC%E9%97%B4)
 1. [哪吒2制片人称分账不公平](https://www.zhihu.com/search?q=%E5%93%AA%E5%90%922%E5%88%B6%E7%89%87%E4%BA%BA%E7%A7%B0%E5%88%86%E8%B4%A6%E4%B8%8D%E5%85%AC%E5%B9%B3)
 1. [热播剧男演员接戏困难兼职泰山陪爬](https://www.zhihu.com/search?q=%E7%83%AD%E6%92%AD%E5%89%A7%E7%94%B7%E6%BC%94%E5%91%98%E6%8E%A5%E6%88%8F%E5%9B%B0%E9%9A%BE%E5%85%BC%E8%81%8C%E6%B3%B0%E5%B1%B1%E9%99%AA%E7%88%AC)
-1. [印度亿万富翁误吞蜜蜂身亡](https://www.zhihu.com/search?q=%E5%8D%B0%E5%BA%A6%E4%BA%BF%E4%B8%87%E5%AF%8C%E7%BF%81%E8%AF%AF%E5%90%9E%E8%9C%9C%E8%9C%82%E8%BA%AB%E4%BA%A1)
 
 ## 热门话题
 
