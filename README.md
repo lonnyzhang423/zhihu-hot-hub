@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-06-19 16:34:35 +0800`
+`更新时间：2025-06-19 17:28:18 +0800`
 
 ## 热门搜索
 
-1. [你的学校发生过最扯的事是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9A%84%E5%AD%A6%E6%A0%A1%E5%8F%91%E7%94%9F%E8%BF%87%E6%9C%80%E6%89%AF%E7%9A%84%E4%BA%8B%E6%98%AF%E4%BB%80%E4%B9%88)
-1. [你干过最牛的一件事是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E5%B9%B2%E8%BF%87%E6%9C%80%E7%89%9B%E7%9A%84%E4%B8%80%E4%BB%B6%E4%BA%8B%E6%98%AF%E4%BB%80%E4%B9%88)
+1. [tvb女演员转行做月嫂](https://www.zhihu.com/search?q=tvb%E5%A5%B3%E6%BC%94%E5%91%98%E8%BD%AC%E8%A1%8C%E5%81%9A%E6%9C%88%E5%AB%82)
+1. [广东暴雨多地宣布停课](https://www.zhihu.com/search?q=%E5%B9%BF%E4%B8%9C%E6%9A%B4%E9%9B%A8%E5%A4%9A%E5%9C%B0%E5%AE%A3%E5%B8%83%E5%81%9C%E8%AF%BE)
 1. [发明魔芋的前辈是经历了什么](https://www.zhihu.com/search?q=%E5%8F%91%E6%98%8E%E9%AD%94%E8%8A%8B%E7%9A%84%E5%89%8D%E8%BE%88%E6%98%AF%E7%BB%8F%E5%8E%86%E4%BA%86%E4%BB%80%E4%B9%88)
 1. [健身为什么比较花钱呢](https://www.zhihu.com/search?q=%E5%81%A5%E8%BA%AB%E4%B8%BA%E4%BB%80%E4%B9%88%E6%AF%94%E8%BE%83%E8%8A%B1%E9%92%B1%E5%91%A2)
 1. [中年夫妻有多少是生活和谐的](https://www.zhihu.com/search?q=%E4%B8%AD%E5%B9%B4%E5%A4%AB%E5%A6%BB%E6%9C%89%E5%A4%9A%E5%B0%91%E6%98%AF%E7%94%9F%E6%B4%BB%E5%92%8C%E8%B0%90%E7%9A%84)
