@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-06-20 10:47:04 +0800`
+`更新时间：2025-06-20 11:42:58 +0800`
 
 ## 热门搜索
 
@@ -34,11 +34,10 @@
 1. [雷军称小米yu7将于6月底发布](https://www.zhihu.com/search?q=%E9%9B%B7%E5%86%9B%E7%A7%B0%E5%B0%8F%E7%B1%B3yu7%E5%B0%86%E4%BA%8E6%E6%9C%88%E5%BA%95%E5%8F%91%E5%B8%83)
 1. [林依晨二胎得子](https://www.zhihu.com/search?q=%E6%9E%97%E4%BE%9D%E6%99%A8%E4%BA%8C%E8%83%8E%E5%BE%97%E5%AD%90)
 1. [伊朗和以色列谁能熬到最后](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%92%8C%E4%BB%A5%E8%89%B2%E5%88%97%E8%B0%81%E8%83%BD%E7%86%AC%E5%88%B0%E6%9C%80%E5%90%8E)
-1. [苏超球员怎么备战的](https://www.zhihu.com/search?q=%E8%8B%8F%E8%B6%85%E7%90%83%E5%91%98%E6%80%8E%E4%B9%88%E5%A4%87%E6%88%98%E7%9A%84)
-1. [苏超爆燃瞬间](https://www.zhihu.com/search?q=%E8%8B%8F%E8%B6%85%E7%88%86%E7%87%83%E7%9E%AC%E9%97%B4)
 1. [哪吒2制片人称分账不公平](https://www.zhihu.com/search?q=%E5%93%AA%E5%90%922%E5%88%B6%E7%89%87%E4%BA%BA%E7%A7%B0%E5%88%86%E8%B4%A6%E4%B8%8D%E5%85%AC%E5%B9%B3)
 1. [热播剧男演员接戏困难兼职泰山陪爬](https://www.zhihu.com/search?q=%E7%83%AD%E6%92%AD%E5%89%A7%E7%94%B7%E6%BC%94%E5%91%98%E6%8E%A5%E6%88%8F%E5%9B%B0%E9%9A%BE%E5%85%BC%E8%81%8C%E6%B3%B0%E5%B1%B1%E9%99%AA%E7%88%AC)
 1. [印度亿万富翁误吞蜜蜂身亡](https://www.zhihu.com/search?q=%E5%8D%B0%E5%BA%A6%E4%BA%BF%E4%B8%87%E5%AF%8C%E7%BF%81%E8%AF%AF%E5%90%9E%E8%9C%9C%E8%9C%82%E8%BA%AB%E4%BA%A1)
+1. [韩国掀起打「增高针」风潮](https://www.zhihu.com/search?q=%E9%9F%A9%E5%9B%BD%E6%8E%80%E8%B5%B7%E6%89%93%E3%80%8C%E5%A2%9E%E9%AB%98%E9%92%88%E3%80%8D%E9%A3%8E%E6%BD%AE)
 
 ## 热门话题
 
