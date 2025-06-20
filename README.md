@@ -11,12 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-06-20 13:26:27 +0800`
+`更新时间：2025-06-20 14:37:14 +0800`
 
 ## 热门搜索
 
-1. [你的学校发生过最扯的事是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9A%84%E5%AD%A6%E6%A0%A1%E5%8F%91%E7%94%9F%E8%BF%87%E6%9C%80%E6%89%AF%E7%9A%84%E4%BA%8B%E6%98%AF%E4%BB%80%E4%B9%88)
-1. [你干过最牛的一件事是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E5%B9%B2%E8%BF%87%E6%9C%80%E7%89%9B%E7%9A%84%E4%B8%80%E4%BB%B6%E4%BA%8B%E6%98%AF%E4%BB%80%E4%B9%88)
+1. [女孩醉驾致3死借车车主一同被诉](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%A9%E9%86%89%E9%A9%BE%E8%87%B43%E6%AD%BB%E5%80%9F%E8%BD%A6%E8%BD%A6%E4%B8%BB%E4%B8%80%E5%90%8C%E8%A2%AB%E8%AF%89)
 1. [美联储继续维持利率不变](https://www.zhihu.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8%E7%BB%A7%E7%BB%AD%E7%BB%B4%E6%8C%81%E5%88%A9%E7%8E%87%E4%B8%8D%E5%8F%98)
 1. [发明魔芋的前辈是经历了什么](https://www.zhihu.com/search?q=%E5%8F%91%E6%98%8E%E9%AD%94%E8%8A%8B%E7%9A%84%E5%89%8D%E8%BE%88%E6%98%AF%E7%BB%8F%E5%8E%86%E4%BA%86%E4%BB%80%E4%B9%88)
 1. [中年夫妻有多少是生活和谐的](https://www.zhihu.com/search?q=%E4%B8%AD%E5%B9%B4%E5%A4%AB%E5%A6%BB%E6%9C%89%E5%A4%9A%E5%B0%91%E6%98%AF%E7%94%9F%E6%B4%BB%E5%92%8C%E8%B0%90%E7%9A%84)
@@ -34,13 +33,13 @@
 1. [雷军称小米yu7将于6月底发布](https://www.zhihu.com/search?q=%E9%9B%B7%E5%86%9B%E7%A7%B0%E5%B0%8F%E7%B1%B3yu7%E5%B0%86%E4%BA%8E6%E6%9C%88%E5%BA%95%E5%8F%91%E5%B8%83)
 1. [林依晨二胎得子](https://www.zhihu.com/search?q=%E6%9E%97%E4%BE%9D%E6%99%A8%E4%BA%8C%E8%83%8E%E5%BE%97%E5%AD%90)
 1. [伊朗和以色列谁能熬到最后](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%92%8C%E4%BB%A5%E8%89%B2%E5%88%97%E8%B0%81%E8%83%BD%E7%86%AC%E5%88%B0%E6%9C%80%E5%90%8E)
-1. [哪吒2制片人称分账不公平](https://www.zhihu.com/search?q=%E5%93%AA%E5%90%922%E5%88%B6%E7%89%87%E4%BA%BA%E7%A7%B0%E5%88%86%E8%B4%A6%E4%B8%8D%E5%85%AC%E5%B9%B3)
 1. [热播剧男演员接戏困难兼职泰山陪爬](https://www.zhihu.com/search?q=%E7%83%AD%E6%92%AD%E5%89%A7%E7%94%B7%E6%BC%94%E5%91%98%E6%8E%A5%E6%88%8F%E5%9B%B0%E9%9A%BE%E5%85%BC%E8%81%8C%E6%B3%B0%E5%B1%B1%E9%99%AA%E7%88%AC)
 1. [印度亿万富翁误吞蜜蜂身亡](https://www.zhihu.com/search?q=%E5%8D%B0%E5%BA%A6%E4%BA%BF%E4%B8%87%E5%AF%8C%E7%BF%81%E8%AF%AF%E5%90%9E%E8%9C%9C%E8%9C%82%E8%BA%AB%E4%BA%A1)
 1. [韩国掀起打「增高针」风潮](https://www.zhihu.com/search?q=%E9%9F%A9%E5%9B%BD%E6%8E%80%E8%B5%B7%E6%89%93%E3%80%8C%E5%A2%9E%E9%AB%98%E9%92%88%E3%80%8D%E9%A3%8E%E6%BD%AE)
 1. [伊朗以色列将会怎样发展](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E4%BB%A5%E8%89%B2%E5%88%97%E5%B0%86%E4%BC%9A%E6%80%8E%E6%A0%B7%E5%8F%91%E5%B1%95)
 1. [巴黎航展有哪些亮点值得关注](https://www.zhihu.com/search?q=%E5%B7%B4%E9%BB%8E%E8%88%AA%E5%B1%95%E6%9C%89%E5%93%AA%E4%BA%9B%E4%BA%AE%E7%82%B9%E5%80%BC%E5%BE%97%E5%85%B3%E6%B3%A8)
 1. [为何北京多所高校禁用罗马仕充电宝](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BD%95%E5%8C%97%E4%BA%AC%E5%A4%9A%E6%89%80%E9%AB%98%E6%A0%A1%E7%A6%81%E7%94%A8%E7%BD%97%E9%A9%AC%E4%BB%95%E5%85%85%E7%94%B5%E5%AE%9D)
+1. [若离职时必须教会接替者你会教吗](https://www.zhihu.com/search?q=%E8%8B%A5%E7%A6%BB%E8%81%8C%E6%97%B6%E5%BF%85%E9%A1%BB%E6%95%99%E4%BC%9A%E6%8E%A5%E6%9B%BF%E8%80%85%E4%BD%A0%E4%BC%9A%E6%95%99%E5%90%97)
 
 ## 热门话题
 
