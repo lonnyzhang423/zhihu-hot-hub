@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-06-20 17:27:31 +0800`
+`更新时间：2025-06-20 18:27:53 +0800`
 
 ## 热门搜索
 
-1. [你的学校发生过最扯的事是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9A%84%E5%AD%A6%E6%A0%A1%E5%8F%91%E7%94%9F%E8%BF%87%E6%9C%80%E6%89%AF%E7%9A%84%E4%BA%8B%E6%98%AF%E4%BB%80%E4%B9%88)
-1. [胖真的是一件很丢人的事吗](https://www.zhihu.com/search?q=%E8%83%96%E7%9C%9F%E7%9A%84%E6%98%AF%E4%B8%80%E4%BB%B6%E5%BE%88%E4%B8%A2%E4%BA%BA%E7%9A%84%E4%BA%8B%E5%90%97)
+1. [2025 年暑期档电影总票房破 10 亿](https://www.zhihu.com/search?q=2025%20%E5%B9%B4%E6%9A%91%E6%9C%9F%E6%A1%A3%E7%94%B5%E5%BD%B1%E6%80%BB%E7%A5%A8%E6%88%BF%E7%A0%B4%2010%20%E4%BA%BF)
+1. [视源股份向港交所提交上市申请](https://www.zhihu.com/search?q=%E8%A7%86%E6%BA%90%E8%82%A1%E4%BB%BD%E5%90%91%E6%B8%AF%E4%BA%A4%E6%89%80%E6%8F%90%E4%BA%A4%E4%B8%8A%E5%B8%82%E7%94%B3%E8%AF%B7)
 1. [你干过最牛的一件事是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E5%B9%B2%E8%BF%87%E6%9C%80%E7%89%9B%E7%9A%84%E4%B8%80%E4%BB%B6%E4%BA%8B%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [美联储继续维持利率不变](https://www.zhihu.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8%E7%BB%A7%E7%BB%AD%E7%BB%B4%E6%8C%81%E5%88%A9%E7%8E%87%E4%B8%8D%E5%8F%98)
 1. [发明魔芋的前辈是经历了什么](https://www.zhihu.com/search?q=%E5%8F%91%E6%98%8E%E9%AD%94%E8%8A%8B%E7%9A%84%E5%89%8D%E8%BE%88%E6%98%AF%E7%BB%8F%E5%8E%86%E4%BA%86%E4%BB%80%E4%B9%88)
@@ -31,6 +31,7 @@
 1. [伊朗和以色列谁能熬到最后](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%92%8C%E4%BB%A5%E8%89%B2%E5%88%97%E8%B0%81%E8%83%BD%E7%86%AC%E5%88%B0%E6%9C%80%E5%90%8E)
 1. [热播剧男演员接戏困难兼职泰山陪爬](https://www.zhihu.com/search?q=%E7%83%AD%E6%92%AD%E5%89%A7%E7%94%B7%E6%BC%94%E5%91%98%E6%8E%A5%E6%88%8F%E5%9B%B0%E9%9A%BE%E5%85%BC%E8%81%8C%E6%B3%B0%E5%B1%B1%E9%99%AA%E7%88%AC)
 1. [印度亿万富翁误吞蜜蜂身亡](https://www.zhihu.com/search?q=%E5%8D%B0%E5%BA%A6%E4%BA%BF%E4%B8%87%E5%AF%8C%E7%BF%81%E8%AF%AF%E5%90%9E%E8%9C%9C%E8%9C%82%E8%BA%AB%E4%BA%A1)
+1. [韩国掀起打「增高针」风潮](https://www.zhihu.com/search?q=%E9%9F%A9%E5%9B%BD%E6%8E%80%E8%B5%B7%E6%89%93%E3%80%8C%E5%A2%9E%E9%AB%98%E9%92%88%E3%80%8D%E9%A3%8E%E6%BD%AE)
 1. [伊朗以色列将会怎样发展](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E4%BB%A5%E8%89%B2%E5%88%97%E5%B0%86%E4%BC%9A%E6%80%8E%E6%A0%B7%E5%8F%91%E5%B1%95)
 1. [巴黎航展有哪些亮点值得关注](https://www.zhihu.com/search?q=%E5%B7%B4%E9%BB%8E%E8%88%AA%E5%B1%95%E6%9C%89%E5%93%AA%E4%BA%9B%E4%BA%AE%E7%82%B9%E5%80%BC%E5%BE%97%E5%85%B3%E6%B3%A8)
 1. [为何北京多所高校禁用罗马仕充电宝](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BD%95%E5%8C%97%E4%BA%AC%E5%A4%9A%E6%89%80%E9%AB%98%E6%A0%A1%E7%A6%81%E7%94%A8%E7%BD%97%E9%A9%AC%E4%BB%95%E5%85%85%E7%94%B5%E5%AE%9D)
@@ -41,7 +42,6 @@
 1. [减肥瘦身怎样吃才健康](https://www.zhihu.com/search?q=%E5%87%8F%E8%82%A5%E7%98%A6%E8%BA%AB%E6%80%8E%E6%A0%B7%E5%90%83%E6%89%8D%E5%81%A5%E5%BA%B7)
 1. [为什么老师不能理解学生](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%80%81%E5%B8%88%E4%B8%8D%E8%83%BD%E7%90%86%E8%A7%A3%E5%AD%A6%E7%94%9F)
 1. [为什么玉兔二号可以工作这么久](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%89%E5%85%94%E4%BA%8C%E5%8F%B7%E5%8F%AF%E4%BB%A5%E5%B7%A5%E4%BD%9C%E8%BF%99%E4%B9%88%E4%B9%85)
-1. [你认为历来哪道高考数学题最简单](https://www.zhihu.com/search?q=%E4%BD%A0%E8%AE%A4%E4%B8%BA%E5%8E%86%E6%9D%A5%E5%93%AA%E9%81%93%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E9%A2%98%E6%9C%80%E7%AE%80%E5%8D%95)
 
 ## 热门话题
 
