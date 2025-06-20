@@ -11,10 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-06-20 21:35:52 +0800`
+`更新时间：2025-06-20 22:25:21 +0800`
 
 ## 热门搜索
 
+1. [美国在以伊冲突中扮演何种角色](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E5%9C%A8%E4%BB%A5%E4%BC%8A%E5%86%B2%E7%AA%81%E4%B8%AD%E6%89%AE%E6%BC%94%E4%BD%95%E7%A7%8D%E8%A7%92%E8%89%B2)
 1. [大连天空现“窟窿云”](https://www.zhihu.com/search?q=%E5%A4%A7%E8%BF%9E%E5%A4%A9%E7%A9%BA%E7%8E%B0%E2%80%9C%E7%AA%9F%E7%AA%BF%E4%BA%91%E2%80%9D)
 1. [英国央行维持利率不变](https://www.zhihu.com/search?q=%E8%8B%B1%E5%9B%BD%E5%A4%AE%E8%A1%8C%E7%BB%B4%E6%8C%81%E5%88%A9%E7%8E%87%E4%B8%8D%E5%8F%98)
 1. [发明魔芋的前辈是经历了什么](https://www.zhihu.com/search?q=%E5%8F%91%E6%98%8E%E9%AD%94%E8%8A%8B%E7%9A%84%E5%89%8D%E8%BE%88%E6%98%AF%E7%BB%8F%E5%8E%86%E4%BA%86%E4%BB%80%E4%B9%88)
