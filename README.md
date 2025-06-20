@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-06-20 11:50:18 +0800`
+`更新时间：2025-06-20 12:33:32 +0800`
 
 ## 热门搜索
 
-1. [你的学校发生过最扯的事是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9A%84%E5%AD%A6%E6%A0%A1%E5%8F%91%E7%94%9F%E8%BF%87%E6%9C%80%E6%89%AF%E7%9A%84%E4%BA%8B%E6%98%AF%E4%BB%80%E4%B9%88)
-1. [你干过最牛的一件事是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E5%B9%B2%E8%BF%87%E6%9C%80%E7%89%9B%E7%9A%84%E4%B8%80%E4%BB%B6%E4%BA%8B%E6%98%AF%E4%BB%80%E4%B9%88)
+1. [为什么蚂蚁会被带电的充电接口吸引聚集](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%9A%82%E8%9A%81%E4%BC%9A%E8%A2%AB%E5%B8%A6%E7%94%B5%E7%9A%84%E5%85%85%E7%94%B5%E6%8E%A5%E5%8F%A3%E5%90%B8%E5%BC%95%E8%81%9A%E9%9B%86)
+1. [我国氮化镓激光芯片重要突破](https://www.zhihu.com/search?q=%E6%88%91%E5%9B%BD%E6%B0%AE%E5%8C%96%E9%95%93%E6%BF%80%E5%85%89%E8%8A%AF%E7%89%87%E9%87%8D%E8%A6%81%E7%AA%81%E7%A0%B4)
 1. [美联储继续维持利率不变](https://www.zhihu.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8%E7%BB%A7%E7%BB%AD%E7%BB%B4%E6%8C%81%E5%88%A9%E7%8E%87%E4%B8%8D%E5%8F%98)
 1. [发明魔芋的前辈是经历了什么](https://www.zhihu.com/search?q=%E5%8F%91%E6%98%8E%E9%AD%94%E8%8A%8B%E7%9A%84%E5%89%8D%E8%BE%88%E6%98%AF%E7%BB%8F%E5%8E%86%E4%BA%86%E4%BB%80%E4%B9%88)
 1. [中年夫妻有多少是生活和谐的](https://www.zhihu.com/search?q=%E4%B8%AD%E5%B9%B4%E5%A4%AB%E5%A6%BB%E6%9C%89%E5%A4%9A%E5%B0%91%E6%98%AF%E7%94%9F%E6%B4%BB%E5%92%8C%E8%B0%90%E7%9A%84)
