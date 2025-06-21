@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-06-21 14:34:36 +0800`
+`更新时间：2025-06-21 15:23:29 +0800`
 
 ## 热门搜索
 
@@ -20,7 +20,6 @@
 1. [英国央行维持利率不变](https://www.zhihu.com/search?q=%E8%8B%B1%E5%9B%BD%E5%A4%AE%E8%A1%8C%E7%BB%B4%E6%8C%81%E5%88%A9%E7%8E%87%E4%B8%8D%E5%8F%98)
 1. [居民楼遭啄木鸟凿墙](https://www.zhihu.com/search?q=%E5%B1%85%E6%B0%91%E6%A5%BC%E9%81%AD%E5%95%84%E6%9C%A8%E9%B8%9F%E5%87%BF%E5%A2%99)
 1. [年轻人不考研去考公了](https://www.zhihu.com/search?q=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%8D%E8%80%83%E7%A0%94%E5%8E%BB%E8%80%83%E5%85%AC%E4%BA%86)
-1. [印度亿万富翁误吞蜜蜂身亡](https://www.zhihu.com/search?q=%E5%8D%B0%E5%BA%A6%E4%BA%BF%E4%B8%87%E5%AF%8C%E7%BF%81%E8%AF%AF%E5%90%9E%E8%9C%9C%E8%9C%82%E8%BA%AB%E4%BA%A1)
 1. [韩国掀起打「增高针」风潮](https://www.zhihu.com/search?q=%E9%9F%A9%E5%9B%BD%E6%8E%80%E8%B5%B7%E6%89%93%E3%80%8C%E5%A2%9E%E9%AB%98%E9%92%88%E3%80%8D%E9%A3%8E%E6%BD%AE)
 1. [人民日报谈单依纯改编歌曲李白](https://www.zhihu.com/search?q=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%B0%88%E5%8D%95%E4%BE%9D%E7%BA%AF%E6%94%B9%E7%BC%96%E6%AD%8C%E6%9B%B2%E6%9D%8E%E7%99%BD)
 1. [以方已摧毁伊朗铀浓缩设施](https://www.zhihu.com/search?q=%E4%BB%A5%E6%96%B9%E5%B7%B2%E6%91%A7%E6%AF%81%E4%BC%8A%E6%9C%97%E9%93%80%E6%B5%93%E7%BC%A9%E8%AE%BE%E6%96%BD)
@@ -41,6 +40,7 @@
 1. [京东正式官宣进军酒旅](https://www.zhihu.com/search?q=%E4%BA%AC%E4%B8%9C%E6%AD%A3%E5%BC%8F%E5%AE%98%E5%AE%A3%E8%BF%9B%E5%86%9B%E9%85%92%E6%97%85)
 1. [李国庆再婚北大校友](https://www.zhihu.com/search?q=%E6%9D%8E%E5%9B%BD%E5%BA%86%E5%86%8D%E5%A9%9A%E5%8C%97%E5%A4%A7%E6%A0%A1%E5%8F%8B)
 1. [邓紫棋拒绝下架重录歌曲](https://www.zhihu.com/search?q=%E9%82%93%E7%B4%AB%E6%A3%8B%E6%8B%92%E7%BB%9D%E4%B8%8B%E6%9E%B6%E9%87%8D%E5%BD%95%E6%AD%8C%E6%9B%B2)
+1. [以色列人不让乌克兰人进入防空洞](https://www.zhihu.com/search?q=%E4%BB%A5%E8%89%B2%E5%88%97%E4%BA%BA%E4%B8%8D%E8%AE%A9%E4%B9%8C%E5%85%8B%E5%85%B0%E4%BA%BA%E8%BF%9B%E5%85%A5%E9%98%B2%E7%A9%BA%E6%B4%9E)
 
 ## 热门话题
 
