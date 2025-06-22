@@ -11,15 +11,13 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-06-22 07:23:41 +0800`
+`更新时间：2025-06-22 10:20:50 +0800`
 
 ## 热门搜索
 
-1. [许健民院士获第70届国际气象组织奖](https://www.zhihu.com/search?q=%E8%AE%B8%E5%81%A5%E6%B0%91%E9%99%A2%E5%A3%AB%E8%8E%B7%E7%AC%AC70%E5%B1%8A%E5%9B%BD%E9%99%85%E6%B0%94%E8%B1%A1%E7%BB%84%E7%BB%87%E5%A5%96)
-1. [酱园弄杨幂角色人设带感](https://www.zhihu.com/search?q=%E9%85%B1%E5%9B%AD%E5%BC%84%E6%9D%A8%E5%B9%82%E8%A7%92%E8%89%B2%E4%BA%BA%E8%AE%BE%E5%B8%A6%E6%84%9F)
+1. [金价跌跌不休](https://www.zhihu.com/search?q=%E9%87%91%E4%BB%B7%E8%B7%8C%E8%B7%8C%E4%B8%8D%E4%BC%91)
+1. [胖真的是一件很丢人的事吗](https://www.zhihu.com/search?q=%E8%83%96%E7%9C%9F%E7%9A%84%E6%98%AF%E4%B8%80%E4%BB%B6%E5%BE%88%E4%B8%A2%E4%BA%BA%E7%9A%84%E4%BA%8B%E5%90%97)
 1. [英国央行维持利率不变](https://www.zhihu.com/search?q=%E8%8B%B1%E5%9B%BD%E5%A4%AE%E8%A1%8C%E7%BB%B4%E6%8C%81%E5%88%A9%E7%8E%87%E4%B8%8D%E5%8F%98)
-1. [居民楼遭啄木鸟凿墙](https://www.zhihu.com/search?q=%E5%B1%85%E6%B0%91%E6%A5%BC%E9%81%AD%E5%95%84%E6%9C%A8%E9%B8%9F%E5%87%BF%E5%A2%99)
-1. [年轻人不考研去考公了](https://www.zhihu.com/search?q=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%8D%E8%80%83%E7%A0%94%E5%8E%BB%E8%80%83%E5%85%AC%E4%BA%86)
 1. [人民日报谈单依纯改编歌曲李白](https://www.zhihu.com/search?q=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%B0%88%E5%8D%95%E4%BE%9D%E7%BA%AF%E6%94%B9%E7%BC%96%E6%AD%8C%E6%9B%B2%E6%9D%8E%E7%99%BD)
 1. [以方已摧毁伊朗铀浓缩设施](https://www.zhihu.com/search?q=%E4%BB%A5%E6%96%B9%E5%B7%B2%E6%91%A7%E6%AF%81%E4%BC%8A%E6%9C%97%E9%93%80%E6%B5%93%E7%BC%A9%E8%AE%BE%E6%96%BD)
 1. [八旬老人诊断胃炎被以癌症切全胃](https://www.zhihu.com/search?q=%E5%85%AB%E6%97%AC%E8%80%81%E4%BA%BA%E8%AF%8A%E6%96%AD%E8%83%83%E7%82%8E%E8%A2%AB%E4%BB%A5%E7%99%8C%E7%97%87%E5%88%87%E5%85%A8%E8%83%83)
@@ -40,6 +38,7 @@
 1. [以色列人不让乌克兰人进入防空洞](https://www.zhihu.com/search?q=%E4%BB%A5%E8%89%B2%E5%88%97%E4%BA%BA%E4%B8%8D%E8%AE%A9%E4%B9%8C%E5%85%8B%E5%85%B0%E4%BA%BA%E8%BF%9B%E5%85%A5%E9%98%B2%E7%A9%BA%E6%B4%9E)
 1. [美联储四度维持利率不变](https://www.zhihu.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8%E5%9B%9B%E5%BA%A6%E7%BB%B4%E6%8C%81%E5%88%A9%E7%8E%87%E4%B8%8D%E5%8F%98)
 1. [中国女篮战胜日本女篮](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E6%88%98%E8%83%9C%E6%97%A5%E6%9C%AC%E5%A5%B3%E7%AF%AE)
+1. [34 岁教授王虹在北京大学开数学讲座](https://www.zhihu.com/search?q=34%20%E5%B2%81%E6%95%99%E6%8E%88%E7%8E%8B%E8%99%B9%E5%9C%A8%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E5%BC%80%E6%95%B0%E5%AD%A6%E8%AE%B2%E5%BA%A7)
 
 ## 热门话题
 
