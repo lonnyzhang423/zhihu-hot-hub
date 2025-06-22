@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-06-22 22:22:48 +0800`
+`更新时间：2025-06-22 23:24:26 +0800`
 
 ## 热门搜索
 
@@ -35,7 +35,6 @@
 1. [美联储四度维持利率不变](https://www.zhihu.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8%E5%9B%9B%E5%BA%A6%E7%BB%B4%E6%8C%81%E5%88%A9%E7%8E%87%E4%B8%8D%E5%8F%98)
 1. [沃尔特收购湖人交易估值100亿美元](https://www.zhihu.com/search?q=%E6%B2%83%E5%B0%94%E7%89%B9%E6%94%B6%E8%B4%AD%E6%B9%96%E4%BA%BA%E4%BA%A4%E6%98%93%E4%BC%B0%E5%80%BC100%E4%BA%BF%E7%BE%8E%E5%85%83)
 1. [中国女篮战胜日本女篮](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E6%88%98%E8%83%9C%E6%97%A5%E6%9C%AC%E5%A5%B3%E7%AF%AE)
-1. [34 岁教授王虹在北京大学开数学讲座](https://www.zhihu.com/search?q=34%20%E5%B2%81%E6%95%99%E6%8E%88%E7%8E%8B%E8%99%B9%E5%9C%A8%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E5%BC%80%E6%95%B0%E5%AD%A6%E8%AE%B2%E5%BA%A7)
 1. [58同城被曝大规模裁员](https://www.zhihu.com/search?q=58%E5%90%8C%E5%9F%8E%E8%A2%AB%E6%9B%9D%E5%A4%A7%E8%A7%84%E6%A8%A1%E8%A3%81%E5%91%98)
 1. [女子22年化妆不卸妆脸红成关公](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%9022%E5%B9%B4%E5%8C%96%E5%A6%86%E4%B8%8D%E5%8D%B8%E5%A6%86%E8%84%B8%E7%BA%A2%E6%88%90%E5%85%B3%E5%85%AC)
 1. [多地查摆年轻干部玩心重混日子等问题](https://www.zhihu.com/search?q=%E5%A4%9A%E5%9C%B0%E6%9F%A5%E6%91%86%E5%B9%B4%E8%BD%BB%E5%B9%B2%E9%83%A8%E7%8E%A9%E5%BF%83%E9%87%8D%E6%B7%B7%E6%97%A5%E5%AD%90%E7%AD%89%E9%97%AE%E9%A2%98)
