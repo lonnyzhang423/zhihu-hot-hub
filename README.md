@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-06-23 14:39:24 +0800`
+`更新时间：2025-06-23 15:27:00 +0800`
 
 ## 热门搜索
 
-1. [LABUBU黄牛报价大幅下跌](https://www.zhihu.com/search?q=LABUBU%E9%BB%84%E7%89%9B%E6%8A%A5%E4%BB%B7%E5%A4%A7%E5%B9%85%E4%B8%8B%E8%B7%8C)
-1. [京东618](https://www.zhihu.com/search?q=%E4%BA%AC%E4%B8%9C618)
+1. [金价跌跌不休](https://www.zhihu.com/search?q=%E9%87%91%E4%BB%B7%E8%B7%8C%E8%B7%8C%E4%B8%8D%E4%BC%91)
+1. [英国央行维持利率不变](https://www.zhihu.com/search?q=%E8%8B%B1%E5%9B%BD%E5%A4%AE%E8%A1%8C%E7%BB%B4%E6%8C%81%E5%88%A9%E7%8E%87%E4%B8%8D%E5%8F%98)
 1. [高考查分](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86)
 1. [人民日报谈单依纯改编歌曲李白](https://www.zhihu.com/search?q=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%B0%88%E5%8D%95%E4%BE%9D%E7%BA%AF%E6%94%B9%E7%BC%96%E6%AD%8C%E6%9B%B2%E6%9D%8E%E7%99%BD)
 1. [八旬老人诊断胃炎被以癌症切全胃](https://www.zhihu.com/search?q=%E5%85%AB%E6%97%AC%E8%80%81%E4%BA%BA%E8%AF%8A%E6%96%AD%E8%83%83%E7%82%8E%E8%A2%AB%E4%BB%A5%E7%99%8C%E7%97%87%E5%88%87%E5%85%A8%E8%83%83)
@@ -24,7 +24,7 @@
 1. [郑钦文退出柏林赛](https://www.zhihu.com/search?q=%E9%83%91%E9%92%A6%E6%96%87%E9%80%80%E5%87%BA%E6%9F%8F%E6%9E%97%E8%B5%9B)
 1. [男子动漫城充值14.8万举报后遭恐吓](https://www.zhihu.com/search?q=%E7%94%B7%E5%AD%90%E5%8A%A8%E6%BC%AB%E5%9F%8E%E5%85%85%E5%80%BC14.8%E4%B8%87%E4%B8%BE%E6%8A%A5%E5%90%8E%E9%81%AD%E6%81%90%E5%90%93)
 1. [美国参议院通过稳定币天才法案](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E5%8F%82%E8%AE%AE%E9%99%A2%E9%80%9A%E8%BF%87%E7%A8%B3%E5%AE%9A%E5%B8%81%E5%A4%A9%E6%89%8D%E6%B3%95%E6%A1%88)
-1. [Labubu黄牛回收价格腰斩](https://www.zhihu.com/search?q=Labubu%E9%BB%84%E7%89%9B%E5%9B%9E%E6%94%B6%E4%BB%B7%E6%A0%BC%E8%85%B0%E6%96%A9)
+1. [京东618](https://www.zhihu.com/search?q=%E4%BA%AC%E4%B8%9C618)
 1. [李雪琴方回应被实名举报](https://www.zhihu.com/search?q=%E6%9D%8E%E9%9B%AA%E7%90%B4%E6%96%B9%E5%9B%9E%E5%BA%94%E8%A2%AB%E5%AE%9E%E5%90%8D%E4%B8%BE%E6%8A%A5)
 1. [李国庆再婚](https://www.zhihu.com/search?q=%E6%9D%8E%E5%9B%BD%E5%BA%86%E5%86%8D%E5%A9%9A)
 1. [京东正式官宣进军酒旅](https://www.zhihu.com/search?q=%E4%BA%AC%E4%B8%9C%E6%AD%A3%E5%BC%8F%E5%AE%98%E5%AE%A3%E8%BF%9B%E5%86%9B%E9%85%92%E6%97%85)
@@ -32,7 +32,6 @@
 1. [邓紫棋拒绝下架重录歌曲](https://www.zhihu.com/search?q=%E9%82%93%E7%B4%AB%E6%A3%8B%E6%8B%92%E7%BB%9D%E4%B8%8B%E6%9E%B6%E9%87%8D%E5%BD%95%E6%AD%8C%E6%9B%B2)
 1. [以色列人不让乌克兰人进入防空洞](https://www.zhihu.com/search?q=%E4%BB%A5%E8%89%B2%E5%88%97%E4%BA%BA%E4%B8%8D%E8%AE%A9%E4%B9%8C%E5%85%8B%E5%85%B0%E4%BA%BA%E8%BF%9B%E5%85%A5%E9%98%B2%E7%A9%BA%E6%B4%9E)
 1. [美联储四度维持利率不变](https://www.zhihu.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8%E5%9B%9B%E5%BA%A6%E7%BB%B4%E6%8C%81%E5%88%A9%E7%8E%87%E4%B8%8D%E5%8F%98)
-1. [沃尔特收购湖人交易估值100亿美元](https://www.zhihu.com/search?q=%E6%B2%83%E5%B0%94%E7%89%B9%E6%94%B6%E8%B4%AD%E6%B9%96%E4%BA%BA%E4%BA%A4%E6%98%93%E4%BC%B0%E5%80%BC100%E4%BA%BF%E7%BE%8E%E5%85%83)
 1. [中国女篮战胜日本女篮](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E6%88%98%E8%83%9C%E6%97%A5%E6%9C%AC%E5%A5%B3%E7%AF%AE)
 1. [58同城被曝大规模裁员](https://www.zhihu.com/search?q=58%E5%90%8C%E5%9F%8E%E8%A2%AB%E6%9B%9D%E5%A4%A7%E8%A7%84%E6%A8%A1%E8%A3%81%E5%91%98)
 1. [女子22年化妆不卸妆脸红成关公](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%9022%E5%B9%B4%E5%8C%96%E5%A6%86%E4%B8%8D%E5%8D%B8%E5%A6%86%E8%84%B8%E7%BA%A2%E6%88%90%E5%85%B3%E5%85%AC)
@@ -40,6 +39,7 @@
 1. [焕羽开播](https://www.zhihu.com/search?q=%E7%84%95%E7%BE%BD%E5%BC%80%E6%92%AD)
 1. [有农户称荔枝价格太低放弃采摘](https://www.zhihu.com/search?q=%E6%9C%89%E5%86%9C%E6%88%B7%E7%A7%B0%E8%8D%94%E6%9E%9D%E4%BB%B7%E6%A0%BC%E5%A4%AA%E4%BD%8E%E6%94%BE%E5%BC%83%E9%87%87%E6%91%98)
 1. [景区回应旅游博主江小隐溺亡](https://www.zhihu.com/search?q=%E6%99%AF%E5%8C%BA%E5%9B%9E%E5%BA%94%E6%97%85%E6%B8%B8%E5%8D%9A%E4%B8%BB%E6%B1%9F%E5%B0%8F%E9%9A%90%E6%BA%BA%E4%BA%A1)
+1. [沈阳一公交车与多车相撞](https://www.zhihu.com/search?q=%E6%B2%88%E9%98%B3%E4%B8%80%E5%85%AC%E4%BA%A4%E8%BD%A6%E4%B8%8E%E5%A4%9A%E8%BD%A6%E7%9B%B8%E6%92%9E)
 
 ## 热门话题
 
