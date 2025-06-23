@@ -11,13 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-06-23 20:55:20 +0800`
+`更新时间：2025-06-23 21:39:49 +0800`
 
 ## 热门搜索
 
-1. [高考查分](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86)
-1. [皇马vs帕丘卡](https://www.zhihu.com/search?q=%E7%9A%87%E9%A9%ACvs%E5%B8%95%E4%B8%98%E5%8D%A1)
-1. [广州震感](https://www.zhihu.com/search?q=%E5%B9%BF%E5%B7%9E%E9%9C%87%E6%84%9F)
+1. [黑救护车一个月最多能赚30万](https://www.zhihu.com/search?q=%E9%BB%91%E6%95%91%E6%8A%A4%E8%BD%A6%E4%B8%80%E4%B8%AA%E6%9C%88%E6%9C%80%E5%A4%9A%E8%83%BD%E8%B5%9A30%E4%B8%87)
+1. [高考查分心情](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86%E5%BF%83%E6%83%85)
 1. [步行者vs雷霆](https://www.zhihu.com/search?q=%E6%AD%A5%E8%A1%8C%E8%80%85vs%E9%9B%B7%E9%9C%86)
 1. [蔡依林新专辑pleasure](https://www.zhihu.com/search?q=%E8%94%A1%E4%BE%9D%E6%9E%97%E6%96%B0%E4%B8%93%E8%BE%91pleasure)
 1. [雷霆vs步行者](https://www.zhihu.com/search?q=%E9%9B%B7%E9%9C%86vs%E6%AD%A5%E8%A1%8C%E8%80%85)
@@ -41,6 +40,7 @@
 1. [美联储决定维持利率不变](https://www.zhihu.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8%E5%86%B3%E5%AE%9A%E7%BB%B4%E6%8C%81%E5%88%A9%E7%8E%87%E4%B8%8D%E5%8F%98)
 1. [医院被指温度计不准延误患者治疗](https://www.zhihu.com/search?q=%E5%8C%BB%E9%99%A2%E8%A2%AB%E6%8C%87%E6%B8%A9%E5%BA%A6%E8%AE%A1%E4%B8%8D%E5%87%86%E5%BB%B6%E8%AF%AF%E6%82%A3%E8%80%85%E6%B2%BB%E7%96%97)
 1. [萨巴伦卡晋级四强](https://www.zhihu.com/search?q=%E8%90%A8%E5%B7%B4%E4%BC%A6%E5%8D%A1%E6%99%8B%E7%BA%A7%E5%9B%9B%E5%BC%BA)
+1. [黄友政1:3罗伯勒斯](https://www.zhihu.com/search?q=%E9%BB%84%E5%8F%8B%E6%94%BF1%3A3%E7%BD%97%E4%BC%AF%E5%8B%92%E6%96%AF)
 
 ## 热门话题
 
