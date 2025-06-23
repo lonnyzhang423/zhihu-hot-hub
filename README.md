@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-06-23 19:23:06 +0800`
+`更新时间：2025-06-23 20:55:20 +0800`
 
 ## 热门搜索
 
@@ -28,7 +28,6 @@
 1. [泡泡玛特成立影视部门](https://www.zhihu.com/search?q=%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%E6%88%90%E7%AB%8B%E5%BD%B1%E8%A7%86%E9%83%A8%E9%97%A8)
 1. [LABUBU将拍动画剧集](https://www.zhihu.com/search?q=LABUBU%E5%B0%86%E6%8B%8D%E5%8A%A8%E7%94%BB%E5%89%A7%E9%9B%86)
 1. [《歌手 2025》第六期](https://www.zhihu.com/search?q=%E3%80%8A%E6%AD%8C%E6%89%8B%202025%E3%80%8B%E7%AC%AC%E5%85%AD%E6%9C%9F)
-1. [金融专业毕业还能拿高薪吗](https://www.zhihu.com/search?q=%E9%87%91%E8%9E%8D%E4%B8%93%E4%B8%9A%E6%AF%95%E4%B8%9A%E8%BF%98%E8%83%BD%E6%8B%BF%E9%AB%98%E8%96%AA%E5%90%97)
 1. [华为开发者大会](https://www.zhihu.com/search?q=%E5%8D%8E%E4%B8%BA%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E4%BC%9A)
 1. [安克召回多款充电宝](https://www.zhihu.com/search?q=%E5%AE%89%E5%85%8B%E5%8F%AC%E5%9B%9E%E5%A4%9A%E6%AC%BE%E5%85%85%E7%94%B5%E5%AE%9D)
 1. [马嘉祺淘汰](https://www.zhihu.com/search?q=%E9%A9%AC%E5%98%89%E7%A5%BA%E6%B7%98%E6%B1%B0)
@@ -41,6 +40,7 @@
 1. [韩国4.5天工作制](https://www.zhihu.com/search?q=%E9%9F%A9%E5%9B%BD4.5%E5%A4%A9%E5%B7%A5%E4%BD%9C%E5%88%B6)
 1. [美联储决定维持利率不变](https://www.zhihu.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8%E5%86%B3%E5%AE%9A%E7%BB%B4%E6%8C%81%E5%88%A9%E7%8E%87%E4%B8%8D%E5%8F%98)
 1. [医院被指温度计不准延误患者治疗](https://www.zhihu.com/search?q=%E5%8C%BB%E9%99%A2%E8%A2%AB%E6%8C%87%E6%B8%A9%E5%BA%A6%E8%AE%A1%E4%B8%8D%E5%87%86%E5%BB%B6%E8%AF%AF%E6%82%A3%E8%80%85%E6%B2%BB%E7%96%97)
+1. [萨巴伦卡晋级四强](https://www.zhihu.com/search?q=%E8%90%A8%E5%B7%B4%E4%BC%A6%E5%8D%A1%E6%99%8B%E7%BA%A7%E5%9B%9B%E5%BC%BA)
 
 ## 热门话题
 
