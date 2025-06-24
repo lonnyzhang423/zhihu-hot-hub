@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-06-24 20:24:25 +0800`
+`更新时间：2025-06-24 21:28:55 +0800`
 
 ## 热门搜索
 
-1. [河南高考出分](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8D%97%E9%AB%98%E8%80%83%E5%87%BA%E5%88%86)
-1. [成都地震](https://www.zhihu.com/search?q=%E6%88%90%E9%83%BD%E5%9C%B0%E9%9C%87)
+1. [青海高考出分](https://www.zhihu.com/search?q=%E9%9D%92%E6%B5%B7%E9%AB%98%E8%80%83%E5%87%BA%E5%88%86)
+1. [警惕银狐病毒来袭](https://www.zhihu.com/search?q=%E8%AD%A6%E6%83%95%E9%93%B6%E7%8B%90%E7%97%85%E6%AF%92%E6%9D%A5%E8%A2%AD)
 1. [高考查分](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86)
 1. [皇马vs帕丘卡](https://www.zhihu.com/search?q=%E7%9A%87%E9%A9%ACvs%E5%B8%95%E4%B8%98%E5%8D%A1)
 1. [虾是海蟑螂吗](https://www.zhihu.com/search?q=%E8%99%BE%E6%98%AF%E6%B5%B7%E8%9F%91%E8%9E%82%E5%90%97)
