@@ -11,12 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-06-24 14:38:29 +0800`
+`更新时间：2025-06-24 15:26:38 +0800`
 
 ## 热门搜索
 
-1. [成都地震](https://www.zhihu.com/search?q=%E6%88%90%E9%83%BD%E5%9C%B0%E9%9C%87)
-1. [高考查分](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86)
+1. [唐僧都开始卖房了](https://www.zhihu.com/search?q=%E5%94%90%E5%83%A7%E9%83%BD%E5%BC%80%E5%A7%8B%E5%8D%96%E6%88%BF%E4%BA%86)
 1. [皇马vs帕丘卡](https://www.zhihu.com/search?q=%E7%9A%87%E9%A9%ACvs%E5%B8%95%E4%B8%98%E5%8D%A1)
 1. [虾是海蟑螂吗](https://www.zhihu.com/search?q=%E8%99%BE%E6%98%AF%E6%B5%B7%E8%9F%91%E8%9E%82%E5%90%97)
 1. [广州震感](https://www.zhihu.com/search?q=%E5%B9%BF%E5%B7%9E%E9%9C%87%E6%84%9F)
@@ -24,9 +23,7 @@
 1. [蔡依林新专辑pleasure](https://www.zhihu.com/search?q=%E8%94%A1%E4%BE%9D%E6%9E%97%E6%96%B0%E4%B8%93%E8%BE%91pleasure)
 1. [雷霆vs步行者](https://www.zhihu.com/search?q=%E9%9B%B7%E9%9C%86vs%E6%AD%A5%E8%A1%8C%E8%80%85)
 1. [哪吒汽车正式被申请破产](https://www.zhihu.com/search?q=%E5%93%AA%E5%90%92%E6%B1%BD%E8%BD%A6%E6%AD%A3%E5%BC%8F%E8%A2%AB%E7%94%B3%E8%AF%B7%E7%A0%B4%E4%BA%A7)
-1. [泡泡玛特成立影视部门](https://www.zhihu.com/search?q=%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%E6%88%90%E7%AB%8B%E5%BD%B1%E8%A7%86%E9%83%A8%E9%97%A8)
-1. [LABUBU将拍动画剧集](https://www.zhihu.com/search?q=LABUBU%E5%B0%86%E6%8B%8D%E5%8A%A8%E7%94%BB%E5%89%A7%E9%9B%86)
-1. [《歌手 2025》第六期](https://www.zhihu.com/search?q=%E3%80%8A%E6%AD%8C%E6%89%8B%202025%E3%80%8B%E7%AC%AC%E5%85%AD%E6%9C%9F)
+1. [成都地震](https://www.zhihu.com/search?q=%E6%88%90%E9%83%BD%E5%9C%B0%E9%9C%87)
 1. [马嘉祺淘汰](https://www.zhihu.com/search?q=%E9%A9%AC%E5%98%89%E7%A5%BA%E6%B7%98%E6%B1%B0)
 1. [陈楚生第一](https://www.zhihu.com/search?q=%E9%99%88%E6%A5%9A%E7%94%9F%E7%AC%AC%E4%B8%80)
 1. [单依纯守榜失败](https://www.zhihu.com/search?q=%E5%8D%95%E4%BE%9D%E7%BA%AF%E5%AE%88%E6%A6%9C%E5%A4%B1%E8%B4%A5)
@@ -40,7 +37,7 @@
 1. [曹保平二封最佳导演](https://www.zhihu.com/search?q=%E6%9B%B9%E4%BF%9D%E5%B9%B3%E4%BA%8C%E5%B0%81%E6%9C%80%E4%BD%B3%E5%AF%BC%E6%BC%94)
 1. [那尔那茜涉嫌高考报名材料造假](https://www.zhihu.com/search?q=%E9%82%A3%E5%B0%94%E9%82%A3%E8%8C%9C%E6%B6%89%E5%AB%8C%E9%AB%98%E8%80%83%E6%8A%A5%E5%90%8D%E6%9D%90%E6%96%99%E9%80%A0%E5%81%87)
 1. [中国女排 3 比 1击败日本女排](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%203%20%E6%AF%94%201%E5%87%BB%E8%B4%A5%E6%97%A5%E6%9C%AC%E5%A5%B3%E6%8E%92)
-1. [63岁马景涛直播时晕倒](https://www.zhihu.com/search?q=63%E5%B2%81%E9%A9%AC%E6%99%AF%E6%B6%9B%E7%9B%B4%E6%92%AD%E6%97%B6%E6%99%95%E5%80%92)
+1. [美军轰炸伊朗福尔多核设施](https://www.zhihu.com/search?q=%E7%BE%8E%E5%86%9B%E8%BD%B0%E7%82%B8%E4%BC%8A%E6%9C%97%E7%A6%8F%E5%B0%94%E5%A4%9A%E6%A0%B8%E8%AE%BE%E6%96%BD)
 
 ## 热门话题
 
