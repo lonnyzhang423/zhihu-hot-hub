@@ -11,12 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-06-25 07:11:50 +0800`
+`更新时间：2025-06-25 09:00:58 +0800`
 
 ## 热门搜索
 
 1. [河南高考出分](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8D%97%E9%AB%98%E8%80%83%E5%87%BA%E5%88%86)
-1. [成都地震](https://www.zhihu.com/search?q=%E6%88%90%E9%83%BD%E5%9C%B0%E9%9C%87)
 1. [高考查分](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86)
 1. [皇马vs帕丘卡](https://www.zhihu.com/search?q=%E7%9A%87%E9%A9%ACvs%E5%B8%95%E4%B8%98%E5%8D%A1)
 1. [虾是海蟑螂吗](https://www.zhihu.com/search?q=%E8%99%BE%E6%98%AF%E6%B5%B7%E8%9F%91%E8%9E%82%E5%90%97)
@@ -36,6 +35,7 @@
 1. [盐城17岁门将贡献多次满分扑救](https://www.zhihu.com/search?q=%E7%9B%90%E5%9F%8E17%E5%B2%81%E9%97%A8%E5%B0%86%E8%B4%A1%E7%8C%AE%E5%A4%9A%E6%AC%A1%E6%BB%A1%E5%88%86%E6%89%91%E6%95%91)
 1. [上海高考出分](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%E9%AB%98%E8%80%83%E5%87%BA%E5%88%86)
 1. [全国高考成绩陆续公布](https://www.zhihu.com/search?q=%E5%85%A8%E5%9B%BD%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9%E9%99%86%E7%BB%AD%E5%85%AC%E5%B8%83)
+1. [雷霆夺NBA总冠军](https://www.zhihu.com/search?q=%E9%9B%B7%E9%9C%86%E5%A4%BANBA%E6%80%BB%E5%86%A0%E5%86%9B)
 
 ## 热门话题
 
