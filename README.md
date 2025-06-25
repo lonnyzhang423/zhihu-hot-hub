@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-06-25 11:14:48 +0800`
+`更新时间：2025-06-25 12:23:27 +0800`
 
 ## 热门搜索
 
@@ -19,7 +19,6 @@
 1. [高考查分](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86)
 1. [皇马vs帕丘卡](https://www.zhihu.com/search?q=%E7%9A%87%E9%A9%ACvs%E5%B8%95%E4%B8%98%E5%8D%A1)
 1. [虾是海蟑螂吗](https://www.zhihu.com/search?q=%E8%99%BE%E6%98%AF%E6%B5%B7%E8%9F%91%E8%9E%82%E5%90%97)
-1. [广州震感](https://www.zhihu.com/search?q=%E5%B9%BF%E5%B7%9E%E9%9C%87%E6%84%9F)
 1. [城市客运站迎「关停潮」](https://www.zhihu.com/search?q=%E5%9F%8E%E5%B8%82%E5%AE%A2%E8%BF%90%E7%AB%99%E8%BF%8E%E3%80%8C%E5%85%B3%E5%81%9C%E6%BD%AE%E3%80%8D)
 1. [以军称做好与伊朗打持久战准备](https://www.zhihu.com/search?q=%E4%BB%A5%E5%86%9B%E7%A7%B0%E5%81%9A%E5%A5%BD%E4%B8%8E%E4%BC%8A%E6%9C%97%E6%89%93%E6%8C%81%E4%B9%85%E6%88%98%E5%87%86%E5%A4%87)
 1. [韩国4.5天工作制](https://www.zhihu.com/search?q=%E9%9F%A9%E5%9B%BD4.5%E5%A4%A9%E5%B7%A5%E4%BD%9C%E5%88%B6)
@@ -36,6 +35,7 @@
 1. [全国高考成绩陆续公布](https://www.zhihu.com/search?q=%E5%85%A8%E5%9B%BD%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9%E9%99%86%E7%BB%AD%E5%85%AC%E5%B8%83)
 1. [雷霆夺NBA总冠军](https://www.zhihu.com/search?q=%E9%9B%B7%E9%9C%86%E5%A4%BANBA%E6%80%BB%E5%86%A0%E5%86%9B)
 1. [官方调查男子开凿「奥特曼石窟」](https://www.zhihu.com/search?q=%E5%AE%98%E6%96%B9%E8%B0%83%E6%9F%A5%E7%94%B7%E5%AD%90%E5%BC%80%E5%87%BF%E3%80%8C%E5%A5%A5%E7%89%B9%E6%9B%BC%E7%9F%B3%E7%AA%9F%E3%80%8D)
+1. [警惕银狐病毒来袭](https://www.zhihu.com/search?q=%E8%AD%A6%E6%83%95%E9%93%B6%E7%8B%90%E7%97%85%E6%AF%92%E6%9D%A5%E8%A2%AD)
 
 ## 热门话题
 
