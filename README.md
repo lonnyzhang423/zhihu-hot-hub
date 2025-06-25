@@ -11,17 +11,17 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-06-25 15:14:00 +0800`
+`更新时间：2025-06-25 16:17:58 +0800`
 
 ## 热门搜索
 
+1. [高考失利怎么办](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E5%A4%B1%E5%88%A9%E6%80%8E%E4%B9%88%E5%8A%9E)
 1. [高考失利](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E5%A4%B1%E5%88%A9)
 1. [河南高考出分](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8D%97%E9%AB%98%E8%80%83%E5%87%BA%E5%88%86)
 1. [高考查分](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86)
 1. [皇马vs帕丘卡](https://www.zhihu.com/search?q=%E7%9A%87%E9%A9%ACvs%E5%B8%95%E4%B8%98%E5%8D%A1)
 1. [虾是海蟑螂吗](https://www.zhihu.com/search?q=%E8%99%BE%E6%98%AF%E6%B5%B7%E8%9F%91%E8%9E%82%E5%90%97)
 1. [城市客运站迎「关停潮」](https://www.zhihu.com/search?q=%E5%9F%8E%E5%B8%82%E5%AE%A2%E8%BF%90%E7%AB%99%E8%BF%8E%E3%80%8C%E5%85%B3%E5%81%9C%E6%BD%AE%E3%80%8D)
-1. [以军称做好与伊朗打持久战准备](https://www.zhihu.com/search?q=%E4%BB%A5%E5%86%9B%E7%A7%B0%E5%81%9A%E5%A5%BD%E4%B8%8E%E4%BC%8A%E6%9C%97%E6%89%93%E6%8C%81%E4%B9%85%E6%88%98%E5%87%86%E5%A4%87)
 1. [韩国4.5天工作制](https://www.zhihu.com/search?q=%E9%9F%A9%E5%9B%BD4.5%E5%A4%A9%E5%B7%A5%E4%BD%9C%E5%88%B6)
 1. [苏超常州vs南京](https://www.zhihu.com/search?q=%E8%8B%8F%E8%B6%85%E5%B8%B8%E5%B7%9Evs%E5%8D%97%E4%BA%AC)
 1. [食堂阿姨毕业赠语听哭台下毕业生](https://www.zhihu.com/search?q=%E9%A3%9F%E5%A0%82%E9%98%BF%E5%A7%A8%E6%AF%95%E4%B8%9A%E8%B5%A0%E8%AF%AD%E5%90%AC%E5%93%AD%E5%8F%B0%E4%B8%8B%E6%AF%95%E4%B8%9A%E7%94%9F)
