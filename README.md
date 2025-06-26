@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-06-26 12:22:21 +0800`
+`更新时间：2025-06-26 13:13:48 +0800`
 
 ## 热门搜索
 
-1. [张庆鹏担任北控男篮主教练](https://www.zhihu.com/search?q=%E5%BC%A0%E5%BA%86%E9%B9%8F%E6%8B%85%E4%BB%BB%E5%8C%97%E6%8E%A7%E7%94%B7%E7%AF%AE%E4%B8%BB%E6%95%99%E7%BB%83)
-1. [谷歌华人工程师杀妻案再开庭](https://www.zhihu.com/search?q=%E8%B0%B7%E6%AD%8C%E5%8D%8E%E4%BA%BA%E5%B7%A5%E7%A8%8B%E5%B8%88%E6%9D%80%E5%A6%BB%E6%A1%88%E5%86%8D%E5%BC%80%E5%BA%AD)
+1. [高考失利怎么办](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E5%A4%B1%E5%88%A9%E6%80%8E%E4%B9%88%E5%8A%9E)
+1. [高考失利](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E5%A4%B1%E5%88%A9)
 1. [广东高考分数线公布](https://www.zhihu.com/search?q=%E5%B9%BF%E4%B8%9C%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E5%85%AC%E5%B8%83)
 1. [四川高考分数线公布](https://www.zhihu.com/search?q=%E5%9B%9B%E5%B7%9D%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E5%85%AC%E5%B8%83)
 1. [陕西高考分数线公布](https://www.zhihu.com/search?q=%E9%99%95%E8%A5%BF%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E5%85%AC%E5%B8%83)
@@ -32,14 +32,14 @@
 1. [全国高考成绩陆续公布](https://www.zhihu.com/search?q=%E5%85%A8%E5%9B%BD%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9%E9%99%86%E7%BB%AD%E5%85%AC%E5%B8%83)
 1. [饿了么、飞猪并入阿里中国电商事业群](https://www.zhihu.com/search?q=%E9%A5%BF%E4%BA%86%E4%B9%88%E3%80%81%E9%A3%9E%E7%8C%AA%E5%B9%B6%E5%85%A5%E9%98%BF%E9%87%8C%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%95%86%E4%BA%8B%E4%B8%9A%E7%BE%A4)
 1. [Labubu 带火改娃师、场景设计师等职业](https://www.zhihu.com/search?q=Labubu%20%E5%B8%A6%E7%81%AB%E6%94%B9%E5%A8%83%E5%B8%88%E3%80%81%E5%9C%BA%E6%99%AF%E8%AE%BE%E8%AE%A1%E5%B8%88%E7%AD%89%E8%81%8C%E4%B8%9A)
-1. [小米严禁诋毁竞品](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3%E4%B8%A5%E7%A6%81%E8%AF%8B%E6%AF%81%E7%AB%9E%E5%93%81)
-1. [日本福冈气象台提醒强震风险](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E7%A6%8F%E5%86%88%E6%B0%94%E8%B1%A1%E5%8F%B0%E6%8F%90%E9%86%92%E5%BC%BA%E9%9C%87%E9%A3%8E%E9%99%A9)
-1. [日本鹿儿岛3天内发生160次有感地震](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E9%B9%BF%E5%84%BF%E5%B2%9B3%E5%A4%A9%E5%86%85%E5%8F%91%E7%94%9F160%E6%AC%A1%E6%9C%89%E6%84%9F%E5%9C%B0%E9%9C%87)
 1. [英伟达与富士康部署人形机器人](https://www.zhihu.com/search?q=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E4%B8%8E%E5%AF%8C%E5%A3%AB%E5%BA%B7%E9%83%A8%E7%BD%B2%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA)
 1. [国乒无缘决赛](https://www.zhihu.com/search?q=%E5%9B%BD%E4%B9%92%E6%97%A0%E7%BC%98%E5%86%B3%E8%B5%9B)
 1. [中国少年击败日本选手夺冠](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E5%B0%91%E5%B9%B4%E5%87%BB%E8%B4%A5%E6%97%A5%E6%9C%AC%E9%80%89%E6%89%8B%E5%A4%BA%E5%86%A0)
 1. [儿童「学步鞋」宣称能减少摔跤、矫正步态](https://www.zhihu.com/search?q=%E5%84%BF%E7%AB%A5%E3%80%8C%E5%AD%A6%E6%AD%A5%E9%9E%8B%E3%80%8D%E5%AE%A3%E7%A7%B0%E8%83%BD%E5%87%8F%E5%B0%91%E6%91%94%E8%B7%A4%E3%80%81%E7%9F%AB%E6%AD%A3%E6%AD%A5%E6%80%81)
 1. [浙江省直公积金可直付首付款](https://www.zhihu.com/search?q=%E6%B5%99%E6%B1%9F%E7%9C%81%E7%9B%B4%E5%85%AC%E7%A7%AF%E9%87%91%E5%8F%AF%E7%9B%B4%E4%BB%98%E9%A6%96%E4%BB%98%E6%AC%BE)
+1. [美对伊朗三处核设施进行打击情况如何](https://www.zhihu.com/search?q=%E7%BE%8E%E5%AF%B9%E4%BC%8A%E6%9C%97%E4%B8%89%E5%A4%84%E6%A0%B8%E8%AE%BE%E6%96%BD%E8%BF%9B%E8%A1%8C%E6%89%93%E5%87%BB%E6%83%85%E5%86%B5%E5%A6%82%E4%BD%95)
+1. [MLXG 败诉将被强制执行 2500 万](https://www.zhihu.com/search?q=MLXG%20%E8%B4%A5%E8%AF%89%E5%B0%86%E8%A2%AB%E5%BC%BA%E5%88%B6%E6%89%A7%E8%A1%8C%202500%20%E4%B8%87)
+1. [用全球的铀 235 会把地球炸成两半吗](https://www.zhihu.com/search?q=%E7%94%A8%E5%85%A8%E7%90%83%E7%9A%84%E9%93%80%20235%20%E4%BC%9A%E6%8A%8A%E5%9C%B0%E7%90%83%E7%82%B8%E6%88%90%E4%B8%A4%E5%8D%8A%E5%90%97)
 
 ## 热门话题
 
