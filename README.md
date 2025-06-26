@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-06-26 22:26:04 +0800`
+`更新时间：2025-06-26 23:27:47 +0800`
 
 ## 热门搜索
 
-1. [海鸥辅助驾驶能安心用吗](https://www.zhihu.com/search?q=%E6%B5%B7%E9%B8%A5%E8%BE%85%E5%8A%A9%E9%A9%BE%E9%A9%B6%E8%83%BD%E5%AE%89%E5%BF%83%E7%94%A8%E5%90%97)
-1. [北极熊的毛发具有什么特点](https://www.zhihu.com/search?q=%E5%8C%97%E6%9E%81%E7%86%8A%E7%9A%84%E6%AF%9B%E5%8F%91%E5%85%B7%E6%9C%89%E4%BB%80%E4%B9%88%E7%89%B9%E7%82%B9)
+1. [如何十日内让贵妃吃上荔枝](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E5%8D%81%E6%97%A5%E5%86%85%E8%AE%A9%E8%B4%B5%E5%A6%83%E5%90%83%E4%B8%8A%E8%8D%94%E6%9E%9D)
+1. [小米市值大涨](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3%E5%B8%82%E5%80%BC%E5%A4%A7%E6%B6%A8)
 1. [为何中国象棋中要设置马脚](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BD%95%E4%B8%AD%E5%9B%BD%E8%B1%A1%E6%A3%8B%E4%B8%AD%E8%A6%81%E8%AE%BE%E7%BD%AE%E9%A9%AC%E8%84%9A)
 1. [高考查分](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86)
 1. [你心目中最伟大的十部小说是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E5%BF%83%E7%9B%AE%E4%B8%AD%E6%9C%80%E4%BC%9F%E5%A4%A7%E7%9A%84%E5%8D%81%E9%83%A8%E5%B0%8F%E8%AF%B4%E6%98%AF%E4%BB%80%E4%B9%88)
