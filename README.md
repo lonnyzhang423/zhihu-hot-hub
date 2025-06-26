@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-06-26 19:22:52 +0800`
+`更新时间：2025-06-26 20:54:46 +0800`
 
 ## 热门搜索
 
-1. [用全球的铀 235 会把地球炸成两半吗](https://www.zhihu.com/search?q=%E7%94%A8%E5%85%A8%E7%90%83%E7%9A%84%E9%93%80%20235%20%E4%BC%9A%E6%8A%8A%E5%9C%B0%E7%90%83%E7%82%B8%E6%88%90%E4%B8%A4%E5%8D%8A%E5%90%97)
+1. [高考失利怎么办](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E5%A4%B1%E5%88%A9%E6%80%8E%E4%B9%88%E5%8A%9E)
+1. [高考失利](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E5%A4%B1%E5%88%A9)
 1. [为何中国象棋中要设置马脚](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BD%95%E4%B8%AD%E5%9B%BD%E8%B1%A1%E6%A3%8B%E4%B8%AD%E8%A6%81%E8%AE%BE%E7%BD%AE%E9%A9%AC%E8%84%9A)
 1. [高考查分](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86)
 1. [你心目中最伟大的十部小说是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E5%BF%83%E7%9B%AE%E4%B8%AD%E6%9C%80%E4%BC%9F%E5%A4%A7%E7%9A%84%E5%8D%81%E9%83%A8%E5%B0%8F%E8%AF%B4%E6%98%AF%E4%BB%80%E4%B9%88)
@@ -26,20 +27,16 @@
 1. [全国高考成绩陆续公布](https://www.zhihu.com/search?q=%E5%85%A8%E5%9B%BD%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9%E9%99%86%E7%BB%AD%E5%85%AC%E5%B8%83)
 1. [饿了么、飞猪并入阿里中国电商事业群](https://www.zhihu.com/search?q=%E9%A5%BF%E4%BA%86%E4%B9%88%E3%80%81%E9%A3%9E%E7%8C%AA%E5%B9%B6%E5%85%A5%E9%98%BF%E9%87%8C%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%95%86%E4%BA%8B%E4%B8%9A%E7%BE%A4)
 1. [儿童「学步鞋」宣称能减少摔跤、矫正步态](https://www.zhihu.com/search?q=%E5%84%BF%E7%AB%A5%E3%80%8C%E5%AD%A6%E6%AD%A5%E9%9E%8B%E3%80%8D%E5%AE%A3%E7%A7%B0%E8%83%BD%E5%87%8F%E5%B0%91%E6%91%94%E8%B7%A4%E3%80%81%E7%9F%AB%E6%AD%A3%E6%AD%A5%E6%80%81)
-1. [美对伊朗三处核设施进行打击情况如何](https://www.zhihu.com/search?q=%E7%BE%8E%E5%AF%B9%E4%BC%8A%E6%9C%97%E4%B8%89%E5%A4%84%E6%A0%B8%E8%AE%BE%E6%96%BD%E8%BF%9B%E8%A1%8C%E6%89%93%E5%87%BB%E6%83%85%E5%86%B5%E5%A6%82%E4%BD%95)
-1. [MLXG 败诉将被强制执行 2500 万](https://www.zhihu.com/search?q=MLXG%20%E8%B4%A5%E8%AF%89%E5%B0%86%E8%A2%AB%E5%BC%BA%E5%88%B6%E6%89%A7%E8%A1%8C%202500%20%E4%B8%87)
-1. [上海高考上六百分人数涨幅 75%](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%E9%AB%98%E8%80%83%E4%B8%8A%E5%85%AD%E7%99%BE%E5%88%86%E4%BA%BA%E6%95%B0%E6%B6%A8%E5%B9%85%2075%25)
-1. [为何延边大学食堂阿姨发言能让同学们落泪](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BD%95%E5%BB%B6%E8%BE%B9%E5%A4%A7%E5%AD%A6%E9%A3%9F%E5%A0%82%E9%98%BF%E5%A7%A8%E5%8F%91%E8%A8%80%E8%83%BD%E8%AE%A9%E5%90%8C%E5%AD%A6%E4%BB%AC%E8%90%BD%E6%B3%AA)
-1. [武磊赴巴塞罗那手术是因华山医院技术差吗](https://www.zhihu.com/search?q=%E6%AD%A6%E7%A3%8A%E8%B5%B4%E5%B7%B4%E5%A1%9E%E7%BD%97%E9%82%A3%E6%89%8B%E6%9C%AF%E6%98%AF%E5%9B%A0%E5%8D%8E%E5%B1%B1%E5%8C%BB%E9%99%A2%E6%8A%80%E6%9C%AF%E5%B7%AE%E5%90%97)
-1. [伊朗称核设施仅地上部分受损且可以修复](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E7%A7%B0%E6%A0%B8%E8%AE%BE%E6%96%BD%E4%BB%85%E5%9C%B0%E4%B8%8A%E9%83%A8%E5%88%86%E5%8F%97%E6%8D%9F%E4%B8%94%E5%8F%AF%E4%BB%A5%E4%BF%AE%E5%A4%8D)
-1. [战国时期打仗几十万人是否有夸大](https://www.zhihu.com/search?q=%E6%88%98%E5%9B%BD%E6%97%B6%E6%9C%9F%E6%89%93%E4%BB%97%E5%87%A0%E5%8D%81%E4%B8%87%E4%BA%BA%E6%98%AF%E5%90%A6%E6%9C%89%E5%A4%B8%E5%A4%A7)
-1. [伊朗可能袭击美在中东哪些目标](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%8F%AF%E8%83%BD%E8%A2%AD%E5%87%BB%E7%BE%8E%E5%9C%A8%E4%B8%AD%E4%B8%9C%E5%93%AA%E4%BA%9B%E7%9B%AE%E6%A0%87)
-1. [想买一个只睡觉的车最低成本要多少](https://www.zhihu.com/search?q=%E6%83%B3%E4%B9%B0%E4%B8%80%E4%B8%AA%E5%8F%AA%E7%9D%A1%E8%A7%89%E7%9A%84%E8%BD%A6%E6%9C%80%E4%BD%8E%E6%88%90%E6%9C%AC%E8%A6%81%E5%A4%9A%E5%B0%91)
-1. [如何看待多人高速飙摩托车被采取强制措施](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%A4%9A%E4%BA%BA%E9%AB%98%E9%80%9F%E9%A3%99%E6%91%A9%E6%89%98%E8%BD%A6%E8%A2%AB%E9%87%87%E5%8F%96%E5%BC%BA%E5%88%B6%E6%8E%AA%E6%96%BD)
-1. [商场大屏播放风扇真能「望扇止暑」吗](https://www.zhihu.com/search?q=%E5%95%86%E5%9C%BA%E5%A4%A7%E5%B1%8F%E6%92%AD%E6%94%BE%E9%A3%8E%E6%89%87%E7%9C%9F%E8%83%BD%E3%80%8C%E6%9C%9B%E6%89%87%E6%AD%A2%E6%9A%91%E3%80%8D%E5%90%97)
-1. [为何林平之对令狐冲恨之入骨](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BD%95%E6%9E%97%E5%B9%B3%E4%B9%8B%E5%AF%B9%E4%BB%A4%E7%8B%90%E5%86%B2%E6%81%A8%E4%B9%8B%E5%85%A5%E9%AA%A8)
-1. [钻地弹有多大杀伤力](https://www.zhihu.com/search?q=%E9%92%BB%E5%9C%B0%E5%BC%B9%E6%9C%89%E5%A4%9A%E5%A4%A7%E6%9D%80%E4%BC%A4%E5%8A%9B)
-1. [以军摧毁伊朗约半数导弹装置对其影响如何](https://www.zhihu.com/search?q=%E4%BB%A5%E5%86%9B%E6%91%A7%E6%AF%81%E4%BC%8A%E6%9C%97%E7%BA%A6%E5%8D%8A%E6%95%B0%E5%AF%BC%E5%BC%B9%E8%A3%85%E7%BD%AE%E5%AF%B9%E5%85%B6%E5%BD%B1%E5%93%8D%E5%A6%82%E4%BD%95)
+1. [上海高考分数线](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF)
+1. [美团全面拓展即时零售](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%A2%E5%85%A8%E9%9D%A2%E6%8B%93%E5%B1%95%E5%8D%B3%E6%97%B6%E9%9B%B6%E5%94%AE)
+1. [于东来称将关闭多家胖东来门店](https://www.zhihu.com/search?q=%E4%BA%8E%E4%B8%9C%E6%9D%A5%E7%A7%B0%E5%B0%86%E5%85%B3%E9%97%AD%E5%A4%9A%E5%AE%B6%E8%83%96%E4%B8%9C%E6%9D%A5%E9%97%A8%E5%BA%97)
+1. [美团优选关闭大部分城市仓库](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%A2%E4%BC%98%E9%80%89%E5%85%B3%E9%97%AD%E5%A4%A7%E9%83%A8%E5%88%86%E5%9F%8E%E5%B8%82%E4%BB%93%E5%BA%93)
+1. [Labubu画作140万成交](https://www.zhihu.com/search?q=Labubu%E7%94%BB%E4%BD%9C140%E4%B8%87%E6%88%90%E4%BA%A4)
+1. [《酱园弄·悬案》开分](https://www.zhihu.com/search?q=%E3%80%8A%E9%85%B1%E5%9B%AD%E5%BC%84%C2%B7%E6%82%AC%E6%A1%88%E3%80%8B%E5%BC%80%E5%88%86)
+1. [是谁在批量制造「厌学小孩」？](https://www.zhihu.com/search?q=%E6%98%AF%E8%B0%81%E5%9C%A8%E6%89%B9%E9%87%8F%E5%88%B6%E9%80%A0%E3%80%8C%E5%8E%8C%E5%AD%A6%E5%B0%8F%E5%AD%A9%E3%80%8D%EF%BC%9F)
+1. [2025辽宁高考分数线](https://www.zhihu.com/search?q=2025%E8%BE%BD%E5%AE%81%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF)
+1. [辽宁高考出分](https://www.zhihu.com/search?q=%E8%BE%BD%E5%AE%81%E9%AB%98%E8%80%83%E5%87%BA%E5%88%86)
+1. [年轻人越来越「疑病」](https://www.zhihu.com/search?q=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%B6%8A%E6%9D%A5%E8%B6%8A%E3%80%8C%E7%96%91%E7%97%85%E3%80%8D)
 
 ## 热门话题
 
