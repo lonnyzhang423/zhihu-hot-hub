@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-06-27 11:14:30 +0800`
+`更新时间：2025-06-27 12:22:00 +0800`
 
 ## 热门搜索
 
@@ -25,14 +25,12 @@
 1. [网传那尔那茜高考定向委培违约](https://www.zhihu.com/search?q=%E7%BD%91%E4%BC%A0%E9%82%A3%E5%B0%94%E9%82%A3%E8%8C%9C%E9%AB%98%E8%80%83%E5%AE%9A%E5%90%91%E5%A7%94%E5%9F%B9%E8%BF%9D%E7%BA%A6)
 1. [上海高考出分](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%E9%AB%98%E8%80%83%E5%87%BA%E5%88%86)
 1. [全国高考成绩陆续公布](https://www.zhihu.com/search?q=%E5%85%A8%E5%9B%BD%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9%E9%99%86%E7%BB%AD%E5%85%AC%E5%B8%83)
-1. [饿了么、飞猪并入阿里中国电商事业群](https://www.zhihu.com/search?q=%E9%A5%BF%E4%BA%86%E4%B9%88%E3%80%81%E9%A3%9E%E7%8C%AA%E5%B9%B6%E5%85%A5%E9%98%BF%E9%87%8C%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%95%86%E4%BA%8B%E4%B8%9A%E7%BE%A4)
 1. [儿童「学步鞋」宣称能减少摔跤、矫正步态](https://www.zhihu.com/search?q=%E5%84%BF%E7%AB%A5%E3%80%8C%E5%AD%A6%E6%AD%A5%E9%9E%8B%E3%80%8D%E5%AE%A3%E7%A7%B0%E8%83%BD%E5%87%8F%E5%B0%91%E6%91%94%E8%B7%A4%E3%80%81%E7%9F%AB%E6%AD%A3%E6%AD%A5%E6%80%81)
 1. [上海高考分数线](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF)
 1. [美团全面拓展即时零售](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%A2%E5%85%A8%E9%9D%A2%E6%8B%93%E5%B1%95%E5%8D%B3%E6%97%B6%E9%9B%B6%E5%94%AE)
 1. [是谁在批量制造「厌学小孩」？](https://www.zhihu.com/search?q=%E6%98%AF%E8%B0%81%E5%9C%A8%E6%89%B9%E9%87%8F%E5%88%B6%E9%80%A0%E3%80%8C%E5%8E%8C%E5%AD%A6%E5%B0%8F%E5%AD%A9%E3%80%8D%EF%BC%9F)
 1. [2025辽宁高考分数线](https://www.zhihu.com/search?q=2025%E8%BE%BD%E5%AE%81%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF)
 1. [辽宁高考出分](https://www.zhihu.com/search?q=%E8%BE%BD%E5%AE%81%E9%AB%98%E8%80%83%E5%87%BA%E5%88%86)
-1. [年轻人越来越「疑病」](https://www.zhihu.com/search?q=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%B6%8A%E6%9D%A5%E8%B6%8A%E3%80%8C%E7%96%91%E7%97%85%E3%80%8D)
 1. [若霍尔木兹海峡关闭将带来哪些影响](https://www.zhihu.com/search?q=%E8%8B%A5%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E5%85%B3%E9%97%AD%E5%B0%86%E5%B8%A6%E6%9D%A5%E5%93%AA%E4%BA%9B%E5%BD%B1%E5%93%8D)
 1. [滴滴打车为何不是就近派车](https://www.zhihu.com/search?q=%E6%BB%B4%E6%BB%B4%E6%89%93%E8%BD%A6%E4%B8%BA%E4%BD%95%E4%B8%8D%E6%98%AF%E5%B0%B1%E8%BF%91%E6%B4%BE%E8%BD%A6)
 1. [网传天津 CATTI 考试现重大事故](https://www.zhihu.com/search?q=%E7%BD%91%E4%BC%A0%E5%A4%A9%E6%B4%A5%20CATTI%20%E8%80%83%E8%AF%95%E7%8E%B0%E9%87%8D%E5%A4%A7%E4%BA%8B%E6%95%85)
