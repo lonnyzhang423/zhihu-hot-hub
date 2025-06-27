@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-06-27 20:23:42 +0800`
+`更新时间：2025-06-27 21:25:56 +0800`
 
 ## 热门搜索
 
-1. [轻松应对夏日爆炒的油烟机](https://www.zhihu.com/search?q=%E8%BD%BB%E6%9D%BE%E5%BA%94%E5%AF%B9%E5%A4%8F%E6%97%A5%E7%88%86%E7%82%92%E7%9A%84%E6%B2%B9%E7%83%9F%E6%9C%BA)
-1. [蜜雪冰城创始人晋升河南新首富](https://www.zhihu.com/search?q=%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E5%88%9B%E5%A7%8B%E4%BA%BA%E6%99%8B%E5%8D%87%E6%B2%B3%E5%8D%97%E6%96%B0%E9%A6%96%E5%AF%8C)
+1. [正是除甲醛好时机](https://www.zhihu.com/search?q=%E6%AD%A3%E6%98%AF%E9%99%A4%E7%94%B2%E9%86%9B%E5%A5%BD%E6%97%B6%E6%9C%BA)
+1. [2025贵州高考分数线](https://www.zhihu.com/search?q=2025%E8%B4%B5%E5%B7%9E%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF)
 1. [阳江地震](https://www.zhihu.com/search?q=%E9%98%B3%E6%B1%9F%E5%9C%B0%E9%9C%87)
 1. [充电宝](https://www.zhihu.com/search?q=%E5%85%85%E7%94%B5%E5%AE%9D)
 1. [为何中国象棋中要设置马脚](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BD%95%E4%B8%AD%E5%9B%BD%E8%B1%A1%E6%A3%8B%E4%B8%AD%E8%A6%81%E8%AE%BE%E7%BD%AE%E9%A9%AC%E8%84%9A)
@@ -28,14 +28,16 @@
 1. [网传那尔那茜高考定向委培违约](https://www.zhihu.com/search?q=%E7%BD%91%E4%BC%A0%E9%82%A3%E5%B0%94%E9%82%A3%E8%8C%9C%E9%AB%98%E8%80%83%E5%AE%9A%E5%90%91%E5%A7%94%E5%9F%B9%E8%BF%9D%E7%BA%A6)
 1. [王欣瑜获得wta500柏林站女单亚军](https://www.zhihu.com/search?q=%E7%8E%8B%E6%AC%A3%E7%91%9C%E8%8E%B7%E5%BE%97wta500%E6%9F%8F%E6%9E%97%E7%AB%99%E5%A5%B3%E5%8D%95%E4%BA%9A%E5%86%9B)
 1. [是谁在批量制造「厌学小孩」？](https://www.zhihu.com/search?q=%E6%98%AF%E8%B0%81%E5%9C%A8%E6%89%B9%E9%87%8F%E5%88%B6%E9%80%A0%E3%80%8C%E5%8E%8C%E5%AD%A6%E5%B0%8F%E5%AD%A9%E3%80%8D%EF%BC%9F)
-1. [2025江苏高考分数线](https://www.zhihu.com/search?q=2025%E6%B1%9F%E8%8B%8F%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF)
-1. [江苏高考出分](https://www.zhihu.com/search?q=%E6%B1%9F%E8%8B%8F%E9%AB%98%E8%80%83%E5%87%BA%E5%88%86)
 1. [2025山西高考分数线](https://www.zhihu.com/search?q=2025%E5%B1%B1%E8%A5%BF%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF)
 1. [山西高考出分](https://www.zhihu.com/search?q=%E5%B1%B1%E8%A5%BF%E9%AB%98%E8%80%83%E5%87%BA%E5%88%86)
 1. [选志愿听张朝阳还是张雪峰](https://www.zhihu.com/search?q=%E9%80%89%E5%BF%97%E6%84%BF%E5%90%AC%E5%BC%A0%E6%9C%9D%E9%98%B3%E8%BF%98%E6%98%AF%E5%BC%A0%E9%9B%AA%E5%B3%B0)
 1. [6部门发布19条举措加强金融支持](https://www.zhihu.com/search?q=6%E9%83%A8%E9%97%A8%E5%8F%91%E5%B8%8319%E6%9D%A1%E4%B8%BE%E6%8E%AA%E5%8A%A0%E5%BC%BA%E9%87%91%E8%9E%8D%E6%94%AF%E6%8C%81)
 1. [威海5岁男童被打死案宣判](https://www.zhihu.com/search?q=%E5%A8%81%E6%B5%B75%E5%B2%81%E7%94%B7%E7%AB%A5%E8%A2%AB%E6%89%93%E6%AD%BB%E6%A1%88%E5%AE%A3%E5%88%A4)
 1. [我国拟立法健全社会救助体系](https://www.zhihu.com/search?q=%E6%88%91%E5%9B%BD%E6%8B%9F%E7%AB%8B%E6%B3%95%E5%81%A5%E5%85%A8%E7%A4%BE%E4%BC%9A%E6%95%91%E5%8A%A9%E4%BD%93%E7%B3%BB)
+1. [谷歌华人工程师杀妻案再开庭](https://www.zhihu.com/search?q=%E8%B0%B7%E6%AD%8C%E5%8D%8E%E4%BA%BA%E5%B7%A5%E7%A8%8B%E5%B8%88%E6%9D%80%E5%A6%BB%E6%A1%88%E5%86%8D%E5%BC%80%E5%BA%AD)
+1. [哈根达斯在中国市场出现关店潮](https://www.zhihu.com/search?q=%E5%93%88%E6%A0%B9%E8%BE%BE%E6%96%AF%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA%E5%87%BA%E7%8E%B0%E5%85%B3%E5%BA%97%E6%BD%AE)
+1. [伊朗宣布取得对以作战胜利](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%AE%A3%E5%B8%83%E5%8F%96%E5%BE%97%E5%AF%B9%E4%BB%A5%E4%BD%9C%E6%88%98%E8%83%9C%E5%88%A9)
+1. [蜜雪冰城创始人晋升河南新首富](https://www.zhihu.com/search?q=%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E5%88%9B%E5%A7%8B%E4%BA%BA%E6%99%8B%E5%8D%87%E6%B2%B3%E5%8D%97%E6%96%B0%E9%A6%96%E5%AF%8C)
 
 ## 热门话题
 
