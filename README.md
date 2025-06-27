@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-06-28 05:22:08 +0800`
+`更新时间：2025-06-28 06:26:36 +0800`
 
 ## 热门搜索
 
@@ -36,6 +36,7 @@
 1. [威海5岁男童被打死案宣判](https://www.zhihu.com/search?q=%E5%A8%81%E6%B5%B75%E5%B2%81%E7%94%B7%E7%AB%A5%E8%A2%AB%E6%89%93%E6%AD%BB%E6%A1%88%E5%AE%A3%E5%88%A4)
 1. [我国拟立法健全社会救助体系](https://www.zhihu.com/search?q=%E6%88%91%E5%9B%BD%E6%8B%9F%E7%AB%8B%E6%B3%95%E5%81%A5%E5%85%A8%E7%A4%BE%E4%BC%9A%E6%95%91%E5%8A%A9%E4%BD%93%E7%B3%BB)
 1. [谷歌华人工程师杀妻案再开庭](https://www.zhihu.com/search?q=%E8%B0%B7%E6%AD%8C%E5%8D%8E%E4%BA%BA%E5%B7%A5%E7%A8%8B%E5%B8%88%E6%9D%80%E5%A6%BB%E6%A1%88%E5%86%8D%E5%BC%80%E5%BA%AD)
+1. [哈根达斯在中国市场出现关店潮](https://www.zhihu.com/search?q=%E5%93%88%E6%A0%B9%E8%BE%BE%E6%96%AF%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA%E5%87%BA%E7%8E%B0%E5%85%B3%E5%BA%97%E6%BD%AE)
 
 ## 热门话题
 
