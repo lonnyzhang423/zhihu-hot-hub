@@ -11,12 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-06-27 12:22:00 +0800`
+`更新时间：2025-06-27 13:14:02 +0800`
 
 ## 热门搜索
 
-1. [高考失利怎么办](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E5%A4%B1%E5%88%A9%E6%80%8E%E4%B9%88%E5%8A%9E)
-1. [高考失利](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E5%A4%B1%E5%88%A9)
+1. [为何凡尔赛文学能戳中现代人的心理痛点](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BD%95%E5%87%A1%E5%B0%94%E8%B5%9B%E6%96%87%E5%AD%A6%E8%83%BD%E6%88%B3%E4%B8%AD%E7%8E%B0%E4%BB%A3%E4%BA%BA%E7%9A%84%E5%BF%83%E7%90%86%E7%97%9B%E7%82%B9)
 1. [为何中国象棋中要设置马脚](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BD%95%E4%B8%AD%E5%9B%BD%E8%B1%A1%E6%A3%8B%E4%B8%AD%E8%A6%81%E8%AE%BE%E7%BD%AE%E9%A9%AC%E8%84%9A)
 1. [高考查分](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86)
 1. [你心目中最伟大的十部小说是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E5%BF%83%E7%9B%AE%E4%B8%AD%E6%9C%80%E4%BC%9F%E5%A4%A7%E7%9A%84%E5%8D%81%E9%83%A8%E5%B0%8F%E8%AF%B4%E6%98%AF%E4%BB%80%E4%B9%88)
