@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-06-28 22:10:54 +0800`
+`更新时间：2025-06-28 23:11:31 +0800`
 
 ## 热门搜索
 
-1. [许嵩济南](https://www.zhihu.com/search?q=%E8%AE%B8%E5%B5%A9%E6%B5%8E%E5%8D%97)
+1. [高考失利怎么办](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E5%A4%B1%E5%88%A9%E6%80%8E%E4%B9%88%E5%8A%9E)
+1. [高考失利](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E5%A4%B1%E5%88%A9)
 1. [阳江地震](https://www.zhihu.com/search?q=%E9%98%B3%E6%B1%9F%E5%9C%B0%E9%9C%87)
 1. [充电宝](https://www.zhihu.com/search?q=%E5%85%85%E7%94%B5%E5%AE%9D)
 1. [为何中国象棋中要设置马脚](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BD%95%E4%B8%AD%E5%9B%BD%E8%B1%A1%E6%A3%8B%E4%B8%AD%E8%A6%81%E8%AE%BE%E7%BD%AE%E9%A9%AC%E8%84%9A)
@@ -33,9 +34,8 @@
 1. [谷歌华人工程师杀妻案再开庭](https://www.zhihu.com/search?q=%E8%B0%B7%E6%AD%8C%E5%8D%8E%E4%BA%BA%E5%B7%A5%E7%A8%8B%E5%B8%88%E6%9D%80%E5%A6%BB%E6%A1%88%E5%86%8D%E5%BC%80%E5%BA%AD)
 1. [奇才鹈鹕交易](https://www.zhihu.com/search?q=%E5%A5%87%E6%89%8D%E9%B9%88%E9%B9%95%E4%BA%A4%E6%98%93)
 1. [一分一段表](https://www.zhihu.com/search?q=%E4%B8%80%E5%88%86%E4%B8%80%E6%AE%B5%E8%A1%A8)
-1. [曹操出行上市首日破发](https://www.zhihu.com/search?q=%E6%9B%B9%E6%93%8D%E5%87%BA%E8%A1%8C%E4%B8%8A%E5%B8%82%E9%A6%96%E6%97%A5%E7%A0%B4%E5%8F%91)
-1. [曹操出行在港上市](https://www.zhihu.com/search?q=%E6%9B%B9%E6%93%8D%E5%87%BA%E8%A1%8C%E5%9C%A8%E6%B8%AF%E4%B8%8A%E5%B8%82)
 1. [医院禁止职工推荐非正规转运车辆](https://www.zhihu.com/search?q=%E5%8C%BB%E9%99%A2%E7%A6%81%E6%AD%A2%E8%81%8C%E5%B7%A5%E6%8E%A8%E8%8D%90%E9%9D%9E%E6%AD%A3%E8%A7%84%E8%BD%AC%E8%BF%90%E8%BD%A6%E8%BE%86)
+1. [安徽2025年高考分数线公布](https://www.zhihu.com/search?q=%E5%AE%89%E5%BE%BD2025%E5%B9%B4%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E5%85%AC%E5%B8%83)
 
 ## 热门话题
 
