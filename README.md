@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-06-28 16:31:16 +0800`
+`更新时间：2025-06-28 17:27:42 +0800`
 
 ## 热门搜索
 
@@ -33,10 +33,10 @@
 1. [威海5岁男童被打死案宣判](https://www.zhihu.com/search?q=%E5%A8%81%E6%B5%B75%E5%B2%81%E7%94%B7%E7%AB%A5%E8%A2%AB%E6%89%93%E6%AD%BB%E6%A1%88%E5%AE%A3%E5%88%A4)
 1. [我国拟立法健全社会救助体系](https://www.zhihu.com/search?q=%E6%88%91%E5%9B%BD%E6%8B%9F%E7%AB%8B%E6%B3%95%E5%81%A5%E5%85%A8%E7%A4%BE%E4%BC%9A%E6%95%91%E5%8A%A9%E4%BD%93%E7%B3%BB)
 1. [谷歌华人工程师杀妻案再开庭](https://www.zhihu.com/search?q=%E8%B0%B7%E6%AD%8C%E5%8D%8E%E4%BA%BA%E5%B7%A5%E7%A8%8B%E5%B8%88%E6%9D%80%E5%A6%BB%E6%A1%88%E5%86%8D%E5%BC%80%E5%BA%AD)
-1. [2025四川高考分数线](https://www.zhihu.com/search?q=2025%E5%9B%9B%E5%B7%9D%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF)
-1. [四川高考出分](https://www.zhihu.com/search?q=%E5%9B%9B%E5%B7%9D%E9%AB%98%E8%80%83%E5%87%BA%E5%88%86)
-1. [千年武则天无字碑加盖亭子](https://www.zhihu.com/search?q=%E5%8D%83%E5%B9%B4%E6%AD%A6%E5%88%99%E5%A4%A9%E6%97%A0%E5%AD%97%E7%A2%91%E5%8A%A0%E7%9B%96%E4%BA%AD%E5%AD%90)
 1. [此次伊朗以色列停火能维持多久](https://www.zhihu.com/search?q=%E6%AD%A4%E6%AC%A1%E4%BC%8A%E6%9C%97%E4%BB%A5%E8%89%B2%E5%88%97%E5%81%9C%E7%81%AB%E8%83%BD%E7%BB%B4%E6%8C%81%E5%A4%9A%E4%B9%85)
+1. [原豆包大模型负责人被辞退](https://www.zhihu.com/search?q=%E5%8E%9F%E8%B1%86%E5%8C%85%E5%A4%A7%E6%A8%A1%E5%9E%8B%E8%B4%9F%E8%B4%A3%E4%BA%BA%E8%A2%AB%E8%BE%9E%E9%80%80)
+1. [如何看待小象超市将覆盖所有一二线城市](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%B0%8F%E8%B1%A1%E8%B6%85%E5%B8%82%E5%B0%86%E8%A6%86%E7%9B%96%E6%89%80%E6%9C%89%E4%B8%80%E4%BA%8C%E7%BA%BF%E5%9F%8E%E5%B8%82)
+1. [雷军称将发布一款新的智能设备](https://www.zhihu.com/search?q=%E9%9B%B7%E5%86%9B%E7%A7%B0%E5%B0%86%E5%8F%91%E5%B8%83%E4%B8%80%E6%AC%BE%E6%96%B0%E7%9A%84%E6%99%BA%E8%83%BD%E8%AE%BE%E5%A4%87)
 
 ## 热门话题
 
