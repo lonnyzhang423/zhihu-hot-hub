@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-06-29 12:44:50 +0800`
+`更新时间：2025-06-29 13:27:34 +0800`
 
 ## 热门搜索
 
 1. [高考失利怎么办](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E5%A4%B1%E5%88%A9%E6%80%8E%E4%B9%88%E5%8A%9E)
+1. [成都暴雨](https://www.zhihu.com/search?q=%E6%88%90%E9%83%BD%E6%9A%B4%E9%9B%A8)
 1. [高考失利](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E5%A4%B1%E5%88%A9)
 1. [阳江地震](https://www.zhihu.com/search?q=%E9%98%B3%E6%B1%9F%E5%9C%B0%E9%9C%87)
 1. [充电宝](https://www.zhihu.com/search?q=%E5%85%85%E7%94%B5%E5%AE%9D)
