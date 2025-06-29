@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-06-29 09:07:07 +0800`
+`更新时间：2025-06-29 11:23:32 +0800`
 
 ## 热门搜索
 
-1. [高考失利怎么办](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E5%A4%B1%E5%88%A9%E6%80%8E%E4%B9%88%E5%8A%9E)
-1. [高考失利](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E5%A4%B1%E5%88%A9)
+1. [邓超去上海看鹿晗演唱会](https://www.zhihu.com/search?q=%E9%82%93%E8%B6%85%E5%8E%BB%E4%B8%8A%E6%B5%B7%E7%9C%8B%E9%B9%BF%E6%99%97%E6%BC%94%E5%94%B1%E4%BC%9A)
+1. [无 3C 标识充电宝有哪些安全隐患](https://www.zhihu.com/search?q=%E6%97%A0%203C%20%E6%A0%87%E8%AF%86%E5%85%85%E7%94%B5%E5%AE%9D%E6%9C%89%E5%93%AA%E4%BA%9B%E5%AE%89%E5%85%A8%E9%9A%90%E6%82%A3)
 1. [阳江地震](https://www.zhihu.com/search?q=%E9%98%B3%E6%B1%9F%E5%9C%B0%E9%9C%87)
 1. [充电宝](https://www.zhihu.com/search?q=%E5%85%85%E7%94%B5%E5%AE%9D)
 1. [为何中国象棋中要设置马脚](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BD%95%E4%B8%AD%E5%9B%BD%E8%B1%A1%E6%A3%8B%E4%B8%AD%E8%A6%81%E8%AE%BE%E7%BD%AE%E9%A9%AC%E8%84%9A)
