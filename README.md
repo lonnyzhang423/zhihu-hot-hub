@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-06-30 12:27:37 +0800`
+`更新时间：2025-06-30 13:15:45 +0800`
 
 ## 热门搜索
 
-1. [美国第一季度gdp下降0.5%](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E7%AC%AC%E4%B8%80%E5%AD%A3%E5%BA%A6gdp%E4%B8%8B%E9%99%8D0.5%25)
+1. [成都暴雨](https://www.zhihu.com/search?q=%E6%88%90%E9%83%BD%E6%9A%B4%E9%9B%A8)
+1. [高考失利](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E5%A4%B1%E5%88%A9)
 1. [阳江地震](https://www.zhihu.com/search?q=%E9%98%B3%E6%B1%9F%E5%9C%B0%E9%9C%87)
 1. [充电宝](https://www.zhihu.com/search?q=%E5%85%85%E7%94%B5%E5%AE%9D)
 1. [尤文图斯vs曼城](https://www.zhihu.com/search?q=%E5%B0%A4%E6%96%87%E5%9B%BE%E6%96%AFvs%E6%9B%BC%E5%9F%8E)
