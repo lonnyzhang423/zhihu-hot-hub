@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-06-30 11:57:17 +0800`
+`更新时间：2025-06-30 12:40:14 +0800`
 
 ## 热门搜索
 
-1. [成都暴雨](https://www.zhihu.com/search?q=%E6%88%90%E9%83%BD%E6%9A%B4%E9%9B%A8)
-1. [高考失利](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E5%A4%B1%E5%88%A9)
+1. [怎么评价新发布的小米YU7](https://www.zhihu.com/search?q=%E6%80%8E%E4%B9%88%E8%AF%84%E4%BB%B7%E6%96%B0%E5%8F%91%E5%B8%83%E7%9A%84%E5%B0%8F%E7%B1%B3YU7)
+1. [“全球第一网红”也想来中国](https://www.zhihu.com/search?q=%E2%80%9C%E5%85%A8%E7%90%83%E7%AC%AC%E4%B8%80%E7%BD%91%E7%BA%A2%E2%80%9D%E4%B9%9F%E6%83%B3%E6%9D%A5%E4%B8%AD%E5%9B%BD)
 1. [阳江地震](https://www.zhihu.com/search?q=%E9%98%B3%E6%B1%9F%E5%9C%B0%E9%9C%87)
 1. [充电宝](https://www.zhihu.com/search?q=%E5%85%85%E7%94%B5%E5%AE%9D)
 1. [尤文图斯vs曼城](https://www.zhihu.com/search?q=%E5%B0%A4%E6%96%87%E5%9B%BE%E6%96%AFvs%E6%9B%BC%E5%9F%8E)
