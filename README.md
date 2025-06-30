@@ -11,12 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-06-30 14:19:26 +0800`
+`更新时间：2025-06-30 15:15:03 +0800`
 
 ## 热门搜索
 
 1. [成都暴雨](https://www.zhihu.com/search?q=%E6%88%90%E9%83%BD%E6%9A%B4%E9%9B%A8)
-1. [高考失利](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E5%A4%B1%E5%88%A9)
 1. [阳江地震](https://www.zhihu.com/search?q=%E9%98%B3%E6%B1%9F%E5%9C%B0%E9%9C%87)
 1. [充电宝](https://www.zhihu.com/search?q=%E5%85%85%E7%94%B5%E5%AE%9D)
 1. [尤文图斯vs曼城](https://www.zhihu.com/search?q=%E5%B0%A4%E6%96%87%E5%9B%BE%E6%96%AFvs%E6%9B%BC%E5%9F%8E)
@@ -35,6 +34,7 @@
 1. [千年武则天无字碑加盖引争议](https://www.zhihu.com/search?q=%E5%8D%83%E5%B9%B4%E6%AD%A6%E5%88%99%E5%A4%A9%E6%97%A0%E5%AD%97%E7%A2%91%E5%8A%A0%E7%9B%96%E5%BC%95%E4%BA%89%E8%AE%AE)
 1. [伊朗首都查获超1万架无人机](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E9%A6%96%E9%83%BD%E6%9F%A5%E8%8E%B7%E8%B6%851%E4%B8%87%E6%9E%B6%E6%97%A0%E4%BA%BA%E6%9C%BA)
 1. [甘肃2025年高考分数线公布](https://www.zhihu.com/search?q=%E7%94%98%E8%82%832025%E5%B9%B4%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E5%85%AC%E5%B8%83)
+1. [山东2025年高考分数线公布](https://www.zhihu.com/search?q=%E5%B1%B1%E4%B8%9C2025%E5%B9%B4%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E5%85%AC%E5%B8%83)
 
 ## 热门话题
 
