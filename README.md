@@ -11,14 +11,13 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-06-30 19:22:43 +0800`
+`更新时间：2025-06-30 20:54:33 +0800`
 
 ## 热门搜索
 
 1. [充电宝](https://www.zhihu.com/search?q=%E5%85%85%E7%94%B5%E5%AE%9D)
 1. [高考查分](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86)
 1. [A 股上半年收官](https://www.zhihu.com/search?q=A%20%E8%82%A1%E4%B8%8A%E5%8D%8A%E5%B9%B4%E6%94%B6%E5%AE%98)
-1. [为什么没有 X 形状的河流走向](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B2%A1%E6%9C%89%20X%20%E5%BD%A2%E7%8A%B6%E7%9A%84%E6%B2%B3%E6%B5%81%E8%B5%B0%E5%90%91)
 1. [全国高考成绩陆续公布](https://www.zhihu.com/search?q=%E5%85%A8%E5%9B%BD%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9%E9%99%86%E7%BB%AD%E5%85%AC%E5%B8%83)
 1. [2025广东高考分数线](https://www.zhihu.com/search?q=2025%E5%B9%BF%E4%B8%9C%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF)
 1. [广东高考出分](https://www.zhihu.com/search?q=%E5%B9%BF%E4%B8%9C%E9%AB%98%E8%80%83%E5%87%BA%E5%88%86)
@@ -39,6 +38,8 @@
 1. [全场景消暑指南](https://www.zhihu.com/search?q=%E5%85%A8%E5%9C%BA%E6%99%AF%E6%B6%88%E6%9A%91%E6%8C%87%E5%8D%97)
 1. [空调选购的捷径是「匹配需求」](https://www.zhihu.com/search?q=%E7%A9%BA%E8%B0%83%E9%80%89%E8%B4%AD%E7%9A%84%E6%8D%B7%E5%BE%84%E6%98%AF%E3%80%8C%E5%8C%B9%E9%85%8D%E9%9C%80%E6%B1%82%E3%80%8D)
 1. [懂行人才知道的空调选购要点](https://www.zhihu.com/search?q=%E6%87%82%E8%A1%8C%E4%BA%BA%E6%89%8D%E7%9F%A5%E9%81%93%E7%9A%84%E7%A9%BA%E8%B0%83%E9%80%89%E8%B4%AD%E8%A6%81%E7%82%B9)
+1. [厨房像桑拿房怎么办？](https://www.zhihu.com/search?q=%E5%8E%A8%E6%88%BF%E5%83%8F%E6%A1%91%E6%8B%BF%E6%88%BF%E6%80%8E%E4%B9%88%E5%8A%9E%EF%BC%9F)
+1. [拯救夏日厨房桑拿房](https://www.zhihu.com/search?q=%E6%8B%AF%E6%95%91%E5%A4%8F%E6%97%A5%E5%8E%A8%E6%88%BF%E6%A1%91%E6%8B%BF%E6%88%BF)
 
 ## 热门话题
 
