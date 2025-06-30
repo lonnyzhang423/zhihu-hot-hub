@@ -11,13 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-06-30 17:30:29 +0800`
+`更新时间：2025-06-30 18:29:28 +0800`
 
 ## 热门搜索
 
-1. [阳江地震](https://www.zhihu.com/search?q=%E9%98%B3%E6%B1%9F%E5%9C%B0%E9%9C%87)
-1. [充电宝](https://www.zhihu.com/search?q=%E5%85%85%E7%94%B5%E5%AE%9D)
-1. [A 股上半年收官](https://www.zhihu.com/search?q=A%20%E8%82%A1%E4%B8%8A%E5%8D%8A%E5%B9%B4%E6%94%B6%E5%AE%98)
+1. [许我耀眼下周定档](https://www.zhihu.com/search?q=%E8%AE%B8%E6%88%91%E8%80%80%E7%9C%BC%E4%B8%8B%E5%91%A8%E5%AE%9A%E6%A1%A3)
 1. [尤文图斯vs曼城](https://www.zhihu.com/search?q=%E5%B0%A4%E6%96%87%E5%9B%BE%E6%96%AFvs%E6%9B%BC%E5%9F%8E)
 1. [皇马vs帕丘卡](https://www.zhihu.com/search?q=%E7%9A%87%E9%A9%ACvs%E5%B8%95%E4%B8%98%E5%8D%A1)
 1. [为什么没有 X 形状的河流走向](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B2%A1%E6%9C%89%20X%20%E5%BD%A2%E7%8A%B6%E7%9A%84%E6%B2%B3%E6%B5%81%E8%B5%B0%E5%90%91)
@@ -26,6 +24,8 @@
 1. [威海5岁男童被打死案宣判](https://www.zhihu.com/search?q=%E5%A8%81%E6%B5%B75%E5%B2%81%E7%94%B7%E7%AB%A5%E8%A2%AB%E6%89%93%E6%AD%BB%E6%A1%88%E5%AE%A3%E5%88%A4)
 1. [我国拟立法健全社会救助体系](https://www.zhihu.com/search?q=%E6%88%91%E5%9B%BD%E6%8B%9F%E7%AB%8B%E6%B3%95%E5%81%A5%E5%85%A8%E7%A4%BE%E4%BC%9A%E6%95%91%E5%8A%A9%E4%BD%93%E7%B3%BB)
 1. [奇才鹈鹕交易](https://www.zhihu.com/search?q=%E5%A5%87%E6%89%8D%E9%B9%88%E9%B9%95%E4%BA%A4%E6%98%93)
+1. [美国一轻型飞机坠毁 6 人死亡](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E4%B8%80%E8%BD%BB%E5%9E%8B%E9%A3%9E%E6%9C%BA%E5%9D%A0%E6%AF%81%206%20%E4%BA%BA%E6%AD%BB%E4%BA%A1)
+1. [17 岁高中生球员创造「苏超」最快进球纪录](https://www.zhihu.com/search?q=17%20%E5%B2%81%E9%AB%98%E4%B8%AD%E7%94%9F%E7%90%83%E5%91%98%E5%88%9B%E9%80%A0%E3%80%8C%E8%8B%8F%E8%B6%85%E3%80%8D%E6%9C%80%E5%BF%AB%E8%BF%9B%E7%90%83%E7%BA%AA%E5%BD%95)
 1. [一分一段表](https://www.zhihu.com/search?q=%E4%B8%80%E5%88%86%E4%B8%80%E6%AE%B5%E8%A1%A8)
 1. [医院禁止职工推荐非正规转运车辆](https://www.zhihu.com/search?q=%E5%8C%BB%E9%99%A2%E7%A6%81%E6%AD%A2%E8%81%8C%E5%B7%A5%E6%8E%A8%E8%8D%90%E9%9D%9E%E6%AD%A3%E8%A7%84%E8%BD%AC%E8%BF%90%E8%BD%A6%E8%BE%86)
 1. [安徽2025年高考分数线公布](https://www.zhihu.com/search?q=%E5%AE%89%E5%BE%BD2025%E5%B9%B4%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E5%85%AC%E5%B8%83)
@@ -34,7 +34,6 @@
 1. [千年武则天无字碑加盖引争议](https://www.zhihu.com/search?q=%E5%8D%83%E5%B9%B4%E6%AD%A6%E5%88%99%E5%A4%A9%E6%97%A0%E5%AD%97%E7%A2%91%E5%8A%A0%E7%9B%96%E5%BC%95%E4%BA%89%E8%AE%AE)
 1. [伊朗首都查获超1万架无人机](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E9%A6%96%E9%83%BD%E6%9F%A5%E8%8E%B7%E8%B6%851%E4%B8%87%E6%9E%B6%E6%97%A0%E4%BA%BA%E6%9C%BA)
 1. [甘肃2025年高考分数线公布](https://www.zhihu.com/search?q=%E7%94%98%E8%82%832025%E5%B9%B4%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E5%85%AC%E5%B8%83)
-1. [山东2025年高考分数线公布](https://www.zhihu.com/search?q=%E5%B1%B1%E4%B8%9C2025%E5%B9%B4%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E5%85%AC%E5%B8%83)
 
 ## 热门话题
 
