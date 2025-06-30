@@ -11,30 +11,34 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-06-30 18:14:16 +0800`
+`更新时间：2025-06-30 19:11:29 +0800`
 
 ## 热门搜索
 
-1. [西气东输四线全线贯通投产](https://www.zhihu.com/search?q=%E8%A5%BF%E6%B0%94%E4%B8%9C%E8%BE%93%E5%9B%9B%E7%BA%BF%E5%85%A8%E7%BA%BF%E8%B4%AF%E9%80%9A%E6%8A%95%E4%BA%A7)
-1. [残疾小伙捐19吨物资 账户剩5毛钱](https://www.zhihu.com/search?q=%E6%AE%8B%E7%96%BE%E5%B0%8F%E4%BC%99%E6%8D%9019%E5%90%A8%E7%89%A9%E8%B5%84%20%E8%B4%A6%E6%88%B7%E5%89%A95%E6%AF%9B%E9%92%B1)
-1. [尤文图斯vs曼城](https://www.zhihu.com/search?q=%E5%B0%A4%E6%96%87%E5%9B%BE%E6%96%AFvs%E6%9B%BC%E5%9F%8E)
-1. [皇马vs帕丘卡](https://www.zhihu.com/search?q=%E7%9A%87%E9%A9%ACvs%E5%B8%95%E4%B8%98%E5%8D%A1)
+1. [充电宝](https://www.zhihu.com/search?q=%E5%85%85%E7%94%B5%E5%AE%9D)
+1. [高考查分](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86)
+1. [A 股上半年收官](https://www.zhihu.com/search?q=A%20%E8%82%A1%E4%B8%8A%E5%8D%8A%E5%B9%B4%E6%94%B6%E5%AE%98)
 1. [为什么没有 X 形状的河流走向](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B2%A1%E6%9C%89%20X%20%E5%BD%A2%E7%8A%B6%E7%9A%84%E6%B2%B3%E6%B5%81%E8%B5%B0%E5%90%91)
-1. [王欣瑜获得wta500柏林站女单亚军](https://www.zhihu.com/search?q=%E7%8E%8B%E6%AC%A3%E7%91%9C%E8%8E%B7%E5%BE%97wta500%E6%9F%8F%E6%9E%97%E7%AB%99%E5%A5%B3%E5%8D%95%E4%BA%9A%E5%86%9B)
-1. [6部门发布19条举措加强金融支持](https://www.zhihu.com/search?q=6%E9%83%A8%E9%97%A8%E5%8F%91%E5%B8%8319%E6%9D%A1%E4%B8%BE%E6%8E%AA%E5%8A%A0%E5%BC%BA%E9%87%91%E8%9E%8D%E6%94%AF%E6%8C%81)
-1. [威海5岁男童被打死案宣判](https://www.zhihu.com/search?q=%E5%A8%81%E6%B5%B75%E5%B2%81%E7%94%B7%E7%AB%A5%E8%A2%AB%E6%89%93%E6%AD%BB%E6%A1%88%E5%AE%A3%E5%88%A4)
-1. [我国拟立法健全社会救助体系](https://www.zhihu.com/search?q=%E6%88%91%E5%9B%BD%E6%8B%9F%E7%AB%8B%E6%B3%95%E5%81%A5%E5%85%A8%E7%A4%BE%E4%BC%9A%E6%95%91%E5%8A%A9%E4%BD%93%E7%B3%BB)
-1. [奇才鹈鹕交易](https://www.zhihu.com/search?q=%E5%A5%87%E6%89%8D%E9%B9%88%E9%B9%95%E4%BA%A4%E6%98%93)
+1. [全国高考成绩陆续公布](https://www.zhihu.com/search?q=%E5%85%A8%E5%9B%BD%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9%E9%99%86%E7%BB%AD%E5%85%AC%E5%B8%83)
+1. [2025广东高考分数线](https://www.zhihu.com/search?q=2025%E5%B9%BF%E4%B8%9C%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF)
+1. [广东高考出分](https://www.zhihu.com/search?q=%E5%B9%BF%E4%B8%9C%E9%AB%98%E8%80%83%E5%87%BA%E5%88%86)
 1. [一分一段表](https://www.zhihu.com/search?q=%E4%B8%80%E5%88%86%E4%B8%80%E6%AE%B5%E8%A1%A8)
-1. [医院禁止职工推荐非正规转运车辆](https://www.zhihu.com/search?q=%E5%8C%BB%E9%99%A2%E7%A6%81%E6%AD%A2%E8%81%8C%E5%B7%A5%E6%8E%A8%E8%8D%90%E9%9D%9E%E6%AD%A3%E8%A7%84%E8%BD%AC%E8%BF%90%E8%BD%A6%E8%BE%86)
-1. [安徽2025年高考分数线公布](https://www.zhihu.com/search?q=%E5%AE%89%E5%BE%BD2025%E5%B9%B4%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E5%85%AC%E5%B8%83)
-1. [全球第一个即将消失的沙漠](https://www.zhihu.com/search?q=%E5%85%A8%E7%90%83%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8D%B3%E5%B0%86%E6%B6%88%E5%A4%B1%E7%9A%84%E6%B2%99%E6%BC%A0)
-1. [江西2025年高考分数线公布](https://www.zhihu.com/search?q=%E6%B1%9F%E8%A5%BF2025%E5%B9%B4%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E5%85%AC%E5%B8%83)
-1. [千年武则天无字碑加盖引争议](https://www.zhihu.com/search?q=%E5%8D%83%E5%B9%B4%E6%AD%A6%E5%88%99%E5%A4%A9%E6%97%A0%E5%AD%97%E7%A2%91%E5%8A%A0%E7%9B%96%E5%BC%95%E4%BA%89%E8%AE%AE)
-1. [伊朗首都查获超1万架无人机](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E9%A6%96%E9%83%BD%E6%9F%A5%E8%8E%B7%E8%B6%851%E4%B8%87%E6%9E%B6%E6%97%A0%E4%BA%BA%E6%9C%BA)
-1. [甘肃2025年高考分数线公布](https://www.zhihu.com/search?q=%E7%94%98%E8%82%832025%E5%B9%B4%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E5%85%AC%E5%B8%83)
-1. [山东2025年高考分数线公布](https://www.zhihu.com/search?q=%E5%B1%B1%E4%B8%9C2025%E5%B9%B4%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E5%85%AC%E5%B8%83)
-1. [姜文新片你行你上定档](https://www.zhihu.com/search?q=%E5%A7%9C%E6%96%87%E6%96%B0%E7%89%87%E4%BD%A0%E8%A1%8C%E4%BD%A0%E4%B8%8A%E5%AE%9A%E6%A1%A3)
+1. [禁止携无 3C 标识及被召回充电宝乘境内航班](https://www.zhihu.com/search?q=%E7%A6%81%E6%AD%A2%E6%90%BA%E6%97%A0%203C%20%E6%A0%87%E8%AF%86%E5%8F%8A%E8%A2%AB%E5%8F%AC%E5%9B%9E%E5%85%85%E7%94%B5%E5%AE%9D%E4%B9%98%E5%A2%83%E5%86%85%E8%88%AA%E7%8F%AD)
+1. [小米YU7价格](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3YU7%E4%BB%B7%E6%A0%BC)
+1. [小米首款 SUV YU7 发布](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3%E9%A6%96%E6%AC%BE%20SUV%20YU7%20%E5%8F%91%E5%B8%83)
+1. [小米YU7标准版定价25.35万](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3YU7%E6%A0%87%E5%87%86%E7%89%88%E5%AE%9A%E4%BB%B725.35%E4%B8%87)
+1. [小米YU7 3分钟大定突破 20万辆](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3YU7%203%E5%88%86%E9%92%9F%E5%A4%A7%E5%AE%9A%E7%AA%81%E7%A0%B4%2020%E4%B8%87%E8%BE%86)
+1. [「京东外卖」小范围测试骑手帮扔垃圾服务](https://www.zhihu.com/search?q=%E3%80%8C%E4%BA%AC%E4%B8%9C%E5%A4%96%E5%8D%96%E3%80%8D%E5%B0%8F%E8%8C%83%E5%9B%B4%E6%B5%8B%E8%AF%95%E9%AA%91%E6%89%8B%E5%B8%AE%E6%89%94%E5%9E%83%E5%9C%BE%E6%9C%8D%E5%8A%A1)
+1. [中国记者遭乌无人机袭击受伤](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E8%AE%B0%E8%80%85%E9%81%AD%E4%B9%8C%E6%97%A0%E4%BA%BA%E6%9C%BA%E8%A2%AD%E5%87%BB%E5%8F%97%E4%BC%A4)
+1. [禁酒令下白酒销售遇困难](https://www.zhihu.com/search?q=%E7%A6%81%E9%85%92%E4%BB%A4%E4%B8%8B%E7%99%BD%E9%85%92%E9%94%80%E5%94%AE%E9%81%87%E5%9B%B0%E9%9A%BE)
+1. [我家这样过夏天](https://www.zhihu.com/search?q=%E6%88%91%E5%AE%B6%E8%BF%99%E6%A0%B7%E8%BF%87%E5%A4%8F%E5%A4%A9)
+1. [2025 清凉智选季](https://www.zhihu.com/search?q=2025%20%E6%B8%85%E5%87%89%E6%99%BA%E9%80%89%E5%AD%A3)
+1. [我的清凉家](https://www.zhihu.com/search?q=%E6%88%91%E7%9A%84%E6%B8%85%E5%87%89%E5%AE%B6)
+1. [消暑家电选购清单](https://www.zhihu.com/search?q=%E6%B6%88%E6%9A%91%E5%AE%B6%E7%94%B5%E9%80%89%E8%B4%AD%E6%B8%85%E5%8D%95)
+1. [不靠心静靠硬实力](https://www.zhihu.com/search?q=%E4%B8%8D%E9%9D%A0%E5%BF%83%E9%9D%99%E9%9D%A0%E7%A1%AC%E5%AE%9E%E5%8A%9B)
+1. [全场景消暑指南](https://www.zhihu.com/search?q=%E5%85%A8%E5%9C%BA%E6%99%AF%E6%B6%88%E6%9A%91%E6%8C%87%E5%8D%97)
+1. [空调选购的捷径是「匹配需求」](https://www.zhihu.com/search?q=%E7%A9%BA%E8%B0%83%E9%80%89%E8%B4%AD%E7%9A%84%E6%8D%B7%E5%BE%84%E6%98%AF%E3%80%8C%E5%8C%B9%E9%85%8D%E9%9C%80%E6%B1%82%E3%80%8D)
+1. [懂行人才知道的空调选购要点](https://www.zhihu.com/search?q=%E6%87%82%E8%A1%8C%E4%BA%BA%E6%89%8D%E7%9F%A5%E9%81%93%E7%9A%84%E7%A9%BA%E8%B0%83%E9%80%89%E8%B4%AD%E8%A6%81%E7%82%B9)
 
 ## 热门话题
 
