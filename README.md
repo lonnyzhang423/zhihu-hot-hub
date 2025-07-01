@@ -11,16 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-07-01 17:29:53 +0800`
+`更新时间：2025-07-01 18:29:26 +0800`
 
 ## 热门搜索
 
 1. [充电宝](https://www.zhihu.com/search?q=%E5%85%85%E7%94%B5%E5%AE%9D)
-1. [高考查分](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86)
 1. [中年夫妻有多少生活和谐的](https://www.zhihu.com/search?q=%E4%B8%AD%E5%B9%B4%E5%A4%AB%E5%A6%BB%E6%9C%89%E5%A4%9A%E5%B0%91%E7%94%9F%E6%B4%BB%E5%92%8C%E8%B0%90%E7%9A%84)
-1. [全国高考成绩陆续公布](https://www.zhihu.com/search?q=%E5%85%A8%E5%9B%BD%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9%E9%99%86%E7%BB%AD%E5%85%AC%E5%B8%83)
-1. [2025广东高考分数线](https://www.zhihu.com/search?q=2025%E5%B9%BF%E4%B8%9C%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF)
-1. [广东高考出分](https://www.zhihu.com/search?q=%E5%B9%BF%E4%B8%9C%E9%AB%98%E8%80%83%E5%87%BA%E5%88%86)
 1. [一分一段表](https://www.zhihu.com/search?q=%E4%B8%80%E5%88%86%E4%B8%80%E6%AE%B5%E8%A1%A8)
 1. [中国记者遭乌无人机袭击受伤](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E8%AE%B0%E8%80%85%E9%81%AD%E4%B9%8C%E6%97%A0%E4%BA%BA%E6%9C%BA%E8%A2%AD%E5%87%BB%E5%8F%97%E4%BC%A4)
 1. [我家这样过夏天](https://www.zhihu.com/search?q=%E6%88%91%E5%AE%B6%E8%BF%99%E6%A0%B7%E8%BF%87%E5%A4%8F%E5%A4%A9)
@@ -42,6 +38,10 @@
 1. [26℃ 体感差异](https://www.zhihu.com/search?q=26%E2%84%83%20%E4%BD%93%E6%84%9F%E5%B7%AE%E5%BC%82)
 1. [夏日高效清洁工具对比](https://www.zhihu.com/search?q=%E5%A4%8F%E6%97%A5%E9%AB%98%E6%95%88%E6%B8%85%E6%B4%81%E5%B7%A5%E5%85%B7%E5%AF%B9%E6%AF%94)
 1. [全屋清灰万金油「吸尘器」推荐](https://www.zhihu.com/search?q=%E5%85%A8%E5%B1%8B%E6%B8%85%E7%81%B0%E4%B8%87%E9%87%91%E6%B2%B9%E3%80%8C%E5%90%B8%E5%B0%98%E5%99%A8%E3%80%8D%E6%8E%A8%E8%8D%90)
+1. [解放双手神器「扫地机」推荐](https://www.zhihu.com/search?q=%E8%A7%A3%E6%94%BE%E5%8F%8C%E6%89%8B%E7%A5%9E%E5%99%A8%E3%80%8C%E6%89%AB%E5%9C%B0%E6%9C%BA%E3%80%8D%E6%8E%A8%E8%8D%90)
+1. [餐饮垃圾的终结者「洗地机」推荐](https://www.zhihu.com/search?q=%E9%A4%90%E9%A5%AE%E5%9E%83%E5%9C%BE%E7%9A%84%E7%BB%88%E7%BB%93%E8%80%85%E3%80%8C%E6%B4%97%E5%9C%B0%E6%9C%BA%E3%80%8D%E6%8E%A8%E8%8D%90)
+1. [梅雨季的空调使用指南](https://www.zhihu.com/search?q=%E6%A2%85%E9%9B%A8%E5%AD%A3%E7%9A%84%E7%A9%BA%E8%B0%83%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97)
+1. [梅雨季救星](https://www.zhihu.com/search?q=%E6%A2%85%E9%9B%A8%E5%AD%A3%E6%95%91%E6%98%9F)
 
 ## 热门话题
 
