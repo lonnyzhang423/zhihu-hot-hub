@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-07-01 09:07:24 +0800`
+`更新时间：2025-07-01 11:25:00 +0800`
 
 ## 热门搜索
 
@@ -22,10 +22,8 @@
 1. [2025广东高考分数线](https://www.zhihu.com/search?q=2025%E5%B9%BF%E4%B8%9C%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF)
 1. [广东高考出分](https://www.zhihu.com/search?q=%E5%B9%BF%E4%B8%9C%E9%AB%98%E8%80%83%E5%87%BA%E5%88%86)
 1. [一分一段表](https://www.zhihu.com/search?q=%E4%B8%80%E5%88%86%E4%B8%80%E6%AE%B5%E8%A1%A8)
-1. [禁止携无 3C 标识及被召回充电宝乘境内航班](https://www.zhihu.com/search?q=%E7%A6%81%E6%AD%A2%E6%90%BA%E6%97%A0%203C%20%E6%A0%87%E8%AF%86%E5%8F%8A%E8%A2%AB%E5%8F%AC%E5%9B%9E%E5%85%85%E7%94%B5%E5%AE%9D%E4%B9%98%E5%A2%83%E5%86%85%E8%88%AA%E7%8F%AD)
 1. [「京东外卖」小范围测试骑手帮扔垃圾服务](https://www.zhihu.com/search?q=%E3%80%8C%E4%BA%AC%E4%B8%9C%E5%A4%96%E5%8D%96%E3%80%8D%E5%B0%8F%E8%8C%83%E5%9B%B4%E6%B5%8B%E8%AF%95%E9%AA%91%E6%89%8B%E5%B8%AE%E6%89%94%E5%9E%83%E5%9C%BE%E6%9C%8D%E5%8A%A1)
 1. [中国记者遭乌无人机袭击受伤](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E8%AE%B0%E8%80%85%E9%81%AD%E4%B9%8C%E6%97%A0%E4%BA%BA%E6%9C%BA%E8%A2%AD%E5%87%BB%E5%8F%97%E4%BC%A4)
-1. [禁酒令下白酒销售遇困难](https://www.zhihu.com/search?q=%E7%A6%81%E9%85%92%E4%BB%A4%E4%B8%8B%E7%99%BD%E9%85%92%E9%94%80%E5%94%AE%E9%81%87%E5%9B%B0%E9%9A%BE)
 1. [我家这样过夏天](https://www.zhihu.com/search?q=%E6%88%91%E5%AE%B6%E8%BF%99%E6%A0%B7%E8%BF%87%E5%A4%8F%E5%A4%A9)
 1. [2025 清凉智选季](https://www.zhihu.com/search?q=2025%20%E6%B8%85%E5%87%89%E6%99%BA%E9%80%89%E5%AD%A3)
 1. [我的清凉家](https://www.zhihu.com/search?q=%E6%88%91%E7%9A%84%E6%B8%85%E5%87%89%E5%AE%B6)
@@ -41,6 +39,8 @@
 1. [三伏天是除甲醛的黄金期](https://www.zhihu.com/search?q=%E4%B8%89%E4%BC%8F%E5%A4%A9%E6%98%AF%E9%99%A4%E7%94%B2%E9%86%9B%E7%9A%84%E9%BB%84%E9%87%91%E6%9C%9F)
 1. [夏季除醛的正确打开方式](https://www.zhihu.com/search?q=%E5%A4%8F%E5%AD%A3%E9%99%A4%E9%86%9B%E7%9A%84%E6%AD%A3%E7%A1%AE%E6%89%93%E5%BC%80%E6%96%B9%E5%BC%8F)
 1. [正是除甲醛好时机](https://www.zhihu.com/search?q=%E6%AD%A3%E6%98%AF%E9%99%A4%E7%94%B2%E9%86%9B%E5%A5%BD%E6%97%B6%E6%9C%BA)
+1. [为什么空调 26℃ 不够舒爽？](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%A9%BA%E8%B0%83%2026%E2%84%83%20%E4%B8%8D%E5%A4%9F%E8%88%92%E7%88%BD%EF%BC%9F)
+1. [26℃ 体感差异](https://www.zhihu.com/search?q=26%E2%84%83%20%E4%BD%93%E6%84%9F%E5%B7%AE%E5%BC%82)
 
 ## 热门话题
 
