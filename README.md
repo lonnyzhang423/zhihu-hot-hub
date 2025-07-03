@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-07-03 13:16:41 +0800`
+`更新时间：2025-07-03 14:19:20 +0800`
 
 ## 热门搜索
 
 1. [特斯拉涨价](https://www.zhihu.com/search?q=%E7%89%B9%E6%96%AF%E6%8B%89%E6%B6%A8%E4%BB%B7)
+1. [工业克苏鲁什么意思](https://www.zhihu.com/search?q=%E5%B7%A5%E4%B8%9A%E5%85%8B%E8%8B%8F%E9%B2%81%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D)
 1. [中年夫妻有多少生活和谐的](https://www.zhihu.com/search?q=%E4%B8%AD%E5%B9%B4%E5%A4%AB%E5%A6%BB%E6%9C%89%E5%A4%9A%E5%B0%91%E7%94%9F%E6%B4%BB%E5%92%8C%E8%B0%90%E7%9A%84)
 1. [今晚油价上调](https://www.zhihu.com/search?q=%E4%BB%8A%E6%99%9A%E6%B2%B9%E4%BB%B7%E4%B8%8A%E8%B0%83)
 1. [一分一段表](https://www.zhihu.com/search?q=%E4%B8%80%E5%88%86%E4%B8%80%E6%AE%B5%E8%A1%A8)
@@ -42,7 +43,6 @@
 1. [解放双手神器「扫地机」推荐](https://www.zhihu.com/search?q=%E8%A7%A3%E6%94%BE%E5%8F%8C%E6%89%8B%E7%A5%9E%E5%99%A8%E3%80%8C%E6%89%AB%E5%9C%B0%E6%9C%BA%E3%80%8D%E6%8E%A8%E8%8D%90)
 1. [餐饮垃圾的终结者「洗地机」推荐](https://www.zhihu.com/search?q=%E9%A4%90%E9%A5%AE%E5%9E%83%E5%9C%BE%E7%9A%84%E7%BB%88%E7%BB%93%E8%80%85%E3%80%8C%E6%B4%97%E5%9C%B0%E6%9C%BA%E3%80%8D%E6%8E%A8%E8%8D%90)
 1. [梅雨季的空调使用指南](https://www.zhihu.com/search?q=%E6%A2%85%E9%9B%A8%E5%AD%A3%E7%9A%84%E7%A9%BA%E8%B0%83%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97)
-1. [梅雨季救星](https://www.zhihu.com/search?q=%E6%A2%85%E9%9B%A8%E5%AD%A3%E6%95%91%E6%98%9F)
 
 ## 热门话题
 
