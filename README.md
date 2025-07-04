@@ -11,11 +11,14 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-07-04 18:13:38 +0800`
+`更新时间：2025-07-04 19:11:32 +0800`
 
 ## 热门搜索
 
-1. [为何大坝越建越多仍解决不了洪灾](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BD%95%E5%A4%A7%E5%9D%9D%E8%B6%8A%E5%BB%BA%E8%B6%8A%E5%A4%9A%E4%BB%8D%E8%A7%A3%E5%86%B3%E4%B8%8D%E4%BA%86%E6%B4%AA%E7%81%BE)
+1. [染崎白石魏莱分手](https://www.zhihu.com/search?q=%E6%9F%93%E5%B4%8E%E7%99%BD%E7%9F%B3%E9%AD%8F%E8%8E%B1%E5%88%86%E6%89%8B)
+1. [你见过胆子最大的人是什么样的](https://www.zhihu.com/search?q=%E4%BD%A0%E8%A7%81%E8%BF%87%E8%83%86%E5%AD%90%E6%9C%80%E5%A4%A7%E7%9A%84%E4%BA%BA%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84)
+1. [自己做饭会省钱吗](https://www.zhihu.com/search?q=%E8%87%AA%E5%B7%B1%E5%81%9A%E9%A5%AD%E4%BC%9A%E7%9C%81%E9%92%B1%E5%90%97)
+1. [英伟达股价再创新高](https://www.zhihu.com/search?q=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%82%A1%E4%BB%B7%E5%86%8D%E5%88%9B%E6%96%B0%E9%AB%98)
 1. [工业克苏鲁什么意思](https://www.zhihu.com/search?q=%E5%B7%A5%E4%B8%9A%E5%85%8B%E8%8B%8F%E9%B2%81%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D)
 1. [中年夫妻有多少生活和谐的](https://www.zhihu.com/search?q=%E4%B8%AD%E5%B9%B4%E5%A4%AB%E5%A6%BB%E6%9C%89%E5%A4%9A%E5%B0%91%E7%94%9F%E6%B4%BB%E5%92%8C%E8%B0%90%E7%9A%84)
 1. [你卡过最厉害的 bug 是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E5%8D%A1%E8%BF%87%E6%9C%80%E5%8E%89%E5%AE%B3%E7%9A%84%20bug%20%E6%98%AF%E4%BB%80%E4%B9%88)
@@ -39,8 +42,6 @@
 1. [正是除甲醛好时机](https://www.zhihu.com/search?q=%E6%AD%A3%E6%98%AF%E9%99%A4%E7%94%B2%E9%86%9B%E5%A5%BD%E6%97%B6%E6%9C%BA)
 1. [为什么空调 26℃ 不够舒爽？](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%A9%BA%E8%B0%83%2026%E2%84%83%20%E4%B8%8D%E5%A4%9F%E8%88%92%E7%88%BD%EF%BC%9F)
 1. [26℃ 体感差异](https://www.zhihu.com/search?q=26%E2%84%83%20%E4%BD%93%E6%84%9F%E5%B7%AE%E5%BC%82)
-1. [夏日高效清洁工具对比](https://www.zhihu.com/search?q=%E5%A4%8F%E6%97%A5%E9%AB%98%E6%95%88%E6%B8%85%E6%B4%81%E5%B7%A5%E5%85%B7%E5%AF%B9%E6%AF%94)
-1. [全屋清灰万金油「吸尘器」推荐](https://www.zhihu.com/search?q=%E5%85%A8%E5%B1%8B%E6%B8%85%E7%81%B0%E4%B8%87%E9%87%91%E6%B2%B9%E3%80%8C%E5%90%B8%E5%B0%98%E5%99%A8%E3%80%8D%E6%8E%A8%E8%8D%90)
 
 ## 热门话题
 
