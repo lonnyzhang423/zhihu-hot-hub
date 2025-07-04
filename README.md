@@ -11,11 +11,10 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-07-05 00:31:50 +0800`
+`更新时间：2025-07-05 01:22:35 +0800`
 
 ## 热门搜索
 
-1. [成都暴雨](https://www.zhihu.com/search?q=%E6%88%90%E9%83%BD%E6%9A%B4%E9%9B%A8)
 1. [王者荣耀新赛季](https://www.zhihu.com/search?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E6%96%B0%E8%B5%9B%E5%AD%A3)
 1. [自己做饭会省钱吗](https://www.zhihu.com/search?q=%E8%87%AA%E5%B7%B1%E5%81%9A%E9%A5%AD%E4%BC%9A%E7%9C%81%E9%92%B1%E5%90%97)
 1. [英伟达股价再创新高](https://www.zhihu.com/search?q=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%82%A1%E4%BB%B7%E5%86%8D%E5%88%9B%E6%96%B0%E9%AB%98)
@@ -42,6 +41,7 @@
 1. [为什么空调 26℃ 不够舒爽？](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%A9%BA%E8%B0%83%2026%E2%84%83%20%E4%B8%8D%E5%A4%9F%E8%88%92%E7%88%BD%EF%BC%9F)
 1. [26℃ 体感差异](https://www.zhihu.com/search?q=26%E2%84%83%20%E4%BD%93%E6%84%9F%E5%B7%AE%E5%BC%82)
 1. [夏日高效清洁工具对比](https://www.zhihu.com/search?q=%E5%A4%8F%E6%97%A5%E9%AB%98%E6%95%88%E6%B8%85%E6%B4%81%E5%B7%A5%E5%85%B7%E5%AF%B9%E6%AF%94)
+1. [全屋清灰万金油「吸尘器」推荐](https://www.zhihu.com/search?q=%E5%85%A8%E5%B1%8B%E6%B8%85%E7%81%B0%E4%B8%87%E9%87%91%E6%B2%B9%E3%80%8C%E5%90%B8%E5%B0%98%E5%99%A8%E3%80%8D%E6%8E%A8%E8%8D%90)
 
 ## 热门话题
 
