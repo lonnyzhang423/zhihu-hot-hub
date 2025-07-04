@@ -11,15 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-07-04 13:28:55 +0800`
+`更新时间：2025-07-04 14:38:45 +0800`
 
 ## 热门搜索
 
-1. [人的体温多少度才能达到冬眠状态](https://www.zhihu.com/search?q=%E4%BA%BA%E7%9A%84%E4%BD%93%E6%B8%A9%E5%A4%9A%E5%B0%91%E5%BA%A6%E6%89%8D%E8%83%BD%E8%BE%BE%E5%88%B0%E5%86%AC%E7%9C%A0%E7%8A%B6%E6%80%81)
-1. [梅雨季救星](https://www.zhihu.com/search?q=%E6%A2%85%E9%9B%A8%E5%AD%A3%E6%95%91%E6%98%9F)
-1. [英伟达股价再创新高](https://www.zhihu.com/search?q=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%82%A1%E4%BB%B7%E5%86%8D%E5%88%9B%E6%96%B0%E9%AB%98)
+1. [为什么现在狂犬病死亡率仍是 100%](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E7%8B%82%E7%8A%AC%E7%97%85%E6%AD%BB%E4%BA%A1%E7%8E%87%E4%BB%8D%E6%98%AF%20100%25)
 1. [工业克苏鲁什么意思](https://www.zhihu.com/search?q=%E5%B7%A5%E4%B8%9A%E5%85%8B%E8%8B%8F%E9%B2%81%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D)
-1. [幼儿园违规使用添加剂致幼儿血铅异常](https://www.zhihu.com/search?q=%E5%B9%BC%E5%84%BF%E5%9B%AD%E8%BF%9D%E8%A7%84%E4%BD%BF%E7%94%A8%E6%B7%BB%E5%8A%A0%E5%89%82%E8%87%B4%E5%B9%BC%E5%84%BF%E8%A1%80%E9%93%85%E5%BC%82%E5%B8%B8)
 1. [中年夫妻有多少生活和谐的](https://www.zhihu.com/search?q=%E4%B8%AD%E5%B9%B4%E5%A4%AB%E5%A6%BB%E6%9C%89%E5%A4%9A%E5%B0%91%E7%94%9F%E6%B4%BB%E5%92%8C%E8%B0%90%E7%9A%84)
 1. [你卡过最厉害的 bug 是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E5%8D%A1%E8%BF%87%E6%9C%80%E5%8E%89%E5%AE%B3%E7%9A%84%20bug%20%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [偷偷藏不住未授权网络微短剧改编权](https://www.zhihu.com/search?q=%E5%81%B7%E5%81%B7%E8%97%8F%E4%B8%8D%E4%BD%8F%E6%9C%AA%E6%8E%88%E6%9D%83%E7%BD%91%E7%BB%9C%E5%BE%AE%E7%9F%AD%E5%89%A7%E6%94%B9%E7%BC%96%E6%9D%83)
@@ -30,7 +27,7 @@
 1. [我的清凉家](https://www.zhihu.com/search?q=%E6%88%91%E7%9A%84%E6%B8%85%E5%87%89%E5%AE%B6)
 1. [消暑家电选购清单](https://www.zhihu.com/search?q=%E6%B6%88%E6%9A%91%E5%AE%B6%E7%94%B5%E9%80%89%E8%B4%AD%E6%B8%85%E5%8D%95)
 1. [不靠心静靠硬实力](https://www.zhihu.com/search?q=%E4%B8%8D%E9%9D%A0%E5%BF%83%E9%9D%99%E9%9D%A0%E7%A1%AC%E5%AE%9E%E5%8A%9B)
-1. [全场景消暑指南](https://www.zhihu.com/search?q=%E5%85%A8%E5%9C%BA%E6%99%AF%E6%B6%88%E6%9A%91%E6%8C%87%E5%8D%97)
+1. [如何看待胖东来上半年业绩表现](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E8%83%96%E4%B8%9C%E6%9D%A5%E4%B8%8A%E5%8D%8A%E5%B9%B4%E4%B8%9A%E7%BB%A9%E8%A1%A8%E7%8E%B0)
 1. [空调选购的捷径是「匹配需求」](https://www.zhihu.com/search?q=%E7%A9%BA%E8%B0%83%E9%80%89%E8%B4%AD%E7%9A%84%E6%8D%B7%E5%BE%84%E6%98%AF%E3%80%8C%E5%8C%B9%E9%85%8D%E9%9C%80%E6%B1%82%E3%80%8D)
 1. [懂行人才知道的空调选购要点](https://www.zhihu.com/search?q=%E6%87%82%E8%A1%8C%E4%BA%BA%E6%89%8D%E7%9F%A5%E9%81%93%E7%9A%84%E7%A9%BA%E8%B0%83%E9%80%89%E8%B4%AD%E8%A6%81%E7%82%B9)
 1. [厨房像桑拿房怎么办？](https://www.zhihu.com/search?q=%E5%8E%A8%E6%88%BF%E5%83%8F%E6%A1%91%E6%8B%BF%E6%88%BF%E6%80%8E%E4%B9%88%E5%8A%9E%EF%BC%9F)
@@ -42,6 +39,8 @@
 1. [正是除甲醛好时机](https://www.zhihu.com/search?q=%E6%AD%A3%E6%98%AF%E9%99%A4%E7%94%B2%E9%86%9B%E5%A5%BD%E6%97%B6%E6%9C%BA)
 1. [为什么空调 26℃ 不够舒爽？](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%A9%BA%E8%B0%83%2026%E2%84%83%20%E4%B8%8D%E5%A4%9F%E8%88%92%E7%88%BD%EF%BC%9F)
 1. [26℃ 体感差异](https://www.zhihu.com/search?q=26%E2%84%83%20%E4%BD%93%E6%84%9F%E5%B7%AE%E5%BC%82)
+1. [夏日高效清洁工具对比](https://www.zhihu.com/search?q=%E5%A4%8F%E6%97%A5%E9%AB%98%E6%95%88%E6%B8%85%E6%B4%81%E5%B7%A5%E5%85%B7%E5%AF%B9%E6%AF%94)
+1. [全屋清灰万金油「吸尘器」推荐](https://www.zhihu.com/search?q=%E5%85%A8%E5%B1%8B%E6%B8%85%E7%81%B0%E4%B8%87%E9%87%91%E6%B2%B9%E3%80%8C%E5%90%B8%E5%B0%98%E5%99%A8%E3%80%8D%E6%8E%A8%E8%8D%90)
 
 ## 热门话题
 
