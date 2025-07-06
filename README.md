@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-07-06 22:10:53 +0800`
+`更新时间：2025-07-06 23:11:30 +0800`
 
 ## 热门搜索
 
-1. [华强北全面禁售无3c认证充电宝](https://www.zhihu.com/search?q=%E5%8D%8E%E5%BC%BA%E5%8C%97%E5%85%A8%E9%9D%A2%E7%A6%81%E5%94%AE%E6%97%A03c%E8%AE%A4%E8%AF%81%E5%85%85%E7%94%B5%E5%AE%9D)
-1. [ios26新增实用功能](https://www.zhihu.com/search?q=ios26%E6%96%B0%E5%A2%9E%E5%AE%9E%E7%94%A8%E5%8A%9F%E8%83%BD)
+1. [王者荣耀新赛季](https://www.zhihu.com/search?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E6%96%B0%E8%B5%9B%E5%AD%A3)
+1. [自己做饭会省钱吗](https://www.zhihu.com/search?q=%E8%87%AA%E5%B7%B1%E5%81%9A%E9%A5%AD%E4%BC%9A%E7%9C%81%E9%92%B1%E5%90%97)
 1. [你卡过最厉害的 bug 是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E5%8D%A1%E8%BF%87%E6%9C%80%E5%8E%89%E5%AE%B3%E7%9A%84%20bug%20%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [偷偷藏不住未授权网络微短剧改编权](https://www.zhihu.com/search?q=%E5%81%B7%E5%81%B7%E8%97%8F%E4%B8%8D%E4%BD%8F%E6%9C%AA%E6%8E%88%E6%9D%83%E7%BD%91%E7%BB%9C%E5%BE%AE%E7%9F%AD%E5%89%A7%E6%94%B9%E7%BC%96%E6%9D%83)
 1. [哇唧唧哇 晋江](https://www.zhihu.com/search?q=%E5%93%87%E5%94%A7%E5%94%A7%E5%93%87%20%E6%99%8B%E6%B1%9F)
