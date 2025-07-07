@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-07-07 17:30:37 +0800`
+`更新时间：2025-07-07 18:29:57 +0800`
 
 ## 热门搜索
 
-1. [电视剧《亮剑》将重播](https://www.zhihu.com/search?q=%E7%94%B5%E8%A7%86%E5%89%A7%E3%80%8A%E4%BA%AE%E5%89%91%E3%80%8B%E5%B0%86%E9%87%8D%E6%92%AD)
+1. [上海交大冲突事件引校门开放之争](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%E4%BA%A4%E5%A4%A7%E5%86%B2%E7%AA%81%E4%BA%8B%E4%BB%B6%E5%BC%95%E6%A0%A1%E9%97%A8%E5%BC%80%E6%94%BE%E4%B9%8B%E4%BA%89)
+1. [医生提醒高温天别舍不得开空调](https://www.zhihu.com/search?q=%E5%8C%BB%E7%94%9F%E6%8F%90%E9%86%92%E9%AB%98%E6%B8%A9%E5%A4%A9%E5%88%AB%E8%88%8D%E4%B8%8D%E5%BE%97%E5%BC%80%E7%A9%BA%E8%B0%83)
 1. [我家这样过夏天](https://www.zhihu.com/search?q=%E6%88%91%E5%AE%B6%E8%BF%99%E6%A0%B7%E8%BF%87%E5%A4%8F%E5%A4%A9)
 1. [2025 清凉智选季](https://www.zhihu.com/search?q=2025%20%E6%B8%85%E5%87%89%E6%99%BA%E9%80%89%E5%AD%A3)
 1. [我的清凉家](https://www.zhihu.com/search?q=%E6%88%91%E7%9A%84%E6%B8%85%E5%87%89%E5%AE%B6)
