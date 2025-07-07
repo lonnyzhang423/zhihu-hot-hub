@@ -11,12 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-07-07 18:14:40 +0800`
+`更新时间：2025-07-07 19:11:24 +0800`
 
 ## 热门搜索
 
-1. [王者荣耀新赛季](https://www.zhihu.com/search?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E6%96%B0%E8%B5%9B%E5%AD%A3)
-1. [自己做饭会省钱吗](https://www.zhihu.com/search?q=%E8%87%AA%E5%B7%B1%E5%81%9A%E9%A5%AD%E4%BC%9A%E7%9C%81%E9%92%B1%E5%90%97)
+1. [国足vs韩国](https://www.zhihu.com/search?q=%E5%9B%BD%E8%B6%B3vs%E9%9F%A9%E5%9B%BD)
 1. [我家这样过夏天](https://www.zhihu.com/search?q=%E6%88%91%E5%AE%B6%E8%BF%99%E6%A0%B7%E8%BF%87%E5%A4%8F%E5%A4%A9)
 1. [2025 清凉智选季](https://www.zhihu.com/search?q=2025%20%E6%B8%85%E5%87%89%E6%99%BA%E9%80%89%E5%AD%A3)
 1. [我的清凉家](https://www.zhihu.com/search?q=%E6%88%91%E7%9A%84%E6%B8%85%E5%87%89%E5%AE%B6)
@@ -41,6 +40,8 @@
 1. [梅雨季的空调使用指南](https://www.zhihu.com/search?q=%E6%A2%85%E9%9B%A8%E5%AD%A3%E7%9A%84%E7%A9%BA%E8%B0%83%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97)
 1. [梅雨季救星](https://www.zhihu.com/search?q=%E6%A2%85%E9%9B%A8%E5%AD%A3%E6%95%91%E6%98%9F)
 1. [当梅雨季遇上除湿机](https://www.zhihu.com/search?q=%E5%BD%93%E6%A2%85%E9%9B%A8%E5%AD%A3%E9%81%87%E4%B8%8A%E9%99%A4%E6%B9%BF%E6%9C%BA)
+1. [如何判断电视的三六九等](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E5%88%A4%E6%96%AD%E7%94%B5%E8%A7%86%E7%9A%84%E4%B8%89%E5%85%AD%E4%B9%9D%E7%AD%89)
+1. [厨房空调的使用体验](https://www.zhihu.com/search?q=%E5%8E%A8%E6%88%BF%E7%A9%BA%E8%B0%83%E7%9A%84%E4%BD%BF%E7%94%A8%E4%BD%93%E9%AA%8C)
 
 ## 热门话题
 
