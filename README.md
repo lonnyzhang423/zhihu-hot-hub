@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-07-07 20:24:24 +0800`
+`更新时间：2025-07-07 21:28:19 +0800`
 
 ## 热门搜索
 
-1. [台风](https://www.zhihu.com/search?q=%E5%8F%B0%E9%A3%8E)
+1. [中国女篮热身赛 63-76 不敌澳大利亚](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E7%83%AD%E8%BA%AB%E8%B5%9B%2063-76%20%E4%B8%8D%E6%95%8C%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A)
+1. [《侏罗纪世界：重生》上映 2 天票房破亿](https://www.zhihu.com/search?q=%E3%80%8A%E4%BE%8F%E7%BD%97%E7%BA%AA%E4%B8%96%E7%95%8C%EF%BC%9A%E9%87%8D%E7%94%9F%E3%80%8B%E4%B8%8A%E6%98%A0%202%20%E5%A4%A9%E7%A5%A8%E6%88%BF%E7%A0%B4%E4%BA%BF)
 1. [青岛大学毕业典礼](https://www.zhihu.com/search?q=%E9%9D%92%E5%B2%9B%E5%A4%A7%E5%AD%A6%E6%AF%95%E4%B8%9A%E5%85%B8%E7%A4%BC)
 1. [我家这样过夏天](https://www.zhihu.com/search?q=%E6%88%91%E5%AE%B6%E8%BF%99%E6%A0%B7%E8%BF%87%E5%A4%8F%E5%A4%A9)
 1. [2025 清凉智选季](https://www.zhihu.com/search?q=2025%20%E6%B8%85%E5%87%89%E6%99%BA%E9%80%89%E5%AD%A3)
