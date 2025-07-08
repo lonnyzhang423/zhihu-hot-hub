@@ -11,12 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-07-08 22:12:45 +0800`
+`更新时间：2025-07-08 23:13:18 +0800`
 
 ## 热门搜索
 
-1. [国足vs韩国](https://www.zhihu.com/search?q=%E5%9B%BD%E8%B6%B3vs%E9%9F%A9%E5%9B%BD)
-1. [美团崩了](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%A2%E5%B4%A9%E4%BA%86)
+1. [梁靖崑止步男单首轮](https://www.zhihu.com/search?q=%E6%A2%81%E9%9D%96%E5%B4%91%E6%AD%A2%E6%AD%A5%E7%94%B7%E5%8D%95%E9%A6%96%E8%BD%AE)
 1. [我家这样过夏天](https://www.zhihu.com/search?q=%E6%88%91%E5%AE%B6%E8%BF%99%E6%A0%B7%E8%BF%87%E5%A4%8F%E5%A4%A9)
 1. [2025 清凉智选季](https://www.zhihu.com/search?q=2025%20%E6%B8%85%E5%87%89%E6%99%BA%E9%80%89%E5%AD%A3)
 1. [我的清凉家](https://www.zhihu.com/search?q=%E6%88%91%E7%9A%84%E6%B8%85%E5%87%89%E5%AE%B6)
