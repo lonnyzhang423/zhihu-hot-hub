@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-07-10 11:16:53 +0800`
+`更新时间：2025-07-10 12:25:52 +0800`
 
 ## 热门搜索
 
-1. [我家这样过夏天](https://www.zhihu.com/search?q=%E6%88%91%E5%AE%B6%E8%BF%99%E6%A0%B7%E8%BF%87%E5%A4%8F%E5%A4%A9)
+1. [中国气象局启动台风三级响应](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E6%B0%94%E8%B1%A1%E5%B1%80%E5%90%AF%E5%8A%A8%E5%8F%B0%E9%A3%8E%E4%B8%89%E7%BA%A7%E5%93%8D%E5%BA%94)
+1. [苹果调整 iOS 26 液态玻璃设计](https://www.zhihu.com/search?q=%E8%8B%B9%E6%9E%9C%E8%B0%83%E6%95%B4%20iOS%2026%20%E6%B6%B2%E6%80%81%E7%8E%BB%E7%92%83%E8%AE%BE%E8%AE%A1)
 1. [2025 清凉智选季](https://www.zhihu.com/search?q=2025%20%E6%B8%85%E5%87%89%E6%99%BA%E9%80%89%E5%AD%A3)
 1. [我的清凉家](https://www.zhihu.com/search?q=%E6%88%91%E7%9A%84%E6%B8%85%E5%87%89%E5%AE%B6)
 1. [消暑家电选购清单](https://www.zhihu.com/search?q=%E6%B6%88%E6%9A%91%E5%AE%B6%E7%94%B5%E9%80%89%E8%B4%AD%E6%B8%85%E5%8D%95)
