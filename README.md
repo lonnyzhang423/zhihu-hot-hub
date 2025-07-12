@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-07-12 22:23:34 +0800`
+`更新时间：2025-07-12 23:26:13 +0800`
 
 ## 热门搜索
 
-1. [胡塞称击沉一艘赴以色列船只](https://www.zhihu.com/search?q=%E8%83%A1%E5%A1%9E%E7%A7%B0%E5%87%BB%E6%B2%89%E4%B8%80%E8%89%98%E8%B5%B4%E4%BB%A5%E8%89%B2%E5%88%97%E8%88%B9%E5%8F%AA)
-1. [陈熠回应战胜孙颖莎](https://www.zhihu.com/search?q=%E9%99%88%E7%86%A0%E5%9B%9E%E5%BA%94%E6%88%98%E8%83%9C%E5%AD%99%E9%A2%96%E8%8E%8E)
+1. [书卷一梦熟悉的配方又回来了](https://www.zhihu.com/search?q=%E4%B9%A6%E5%8D%B7%E4%B8%80%E6%A2%A6%E7%86%9F%E6%82%89%E7%9A%84%E9%85%8D%E6%96%B9%E5%8F%88%E5%9B%9E%E6%9D%A5%E4%BA%86)
+1. [都有哪些生物会发生大规模同类斗争](https://www.zhihu.com/search?q=%E9%83%BD%E6%9C%89%E5%93%AA%E4%BA%9B%E7%94%9F%E7%89%A9%E4%BC%9A%E5%8F%91%E7%94%9F%E5%A4%A7%E8%A7%84%E6%A8%A1%E5%90%8C%E7%B1%BB%E6%96%97%E4%BA%89)
 1. [我家这样过夏天](https://www.zhihu.com/search?q=%E6%88%91%E5%AE%B6%E8%BF%99%E6%A0%B7%E8%BF%87%E5%A4%8F%E5%A4%A9)
 1. [2025 清凉智选季](https://www.zhihu.com/search?q=2025%20%E6%B8%85%E5%87%89%E6%99%BA%E9%80%89%E5%AD%A3)
 1. [我的清凉家](https://www.zhihu.com/search?q=%E6%88%91%E7%9A%84%E6%B8%85%E5%87%89%E5%AE%B6)
