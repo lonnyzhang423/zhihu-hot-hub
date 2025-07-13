@@ -11,12 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-07-13 17:28:31 +0800`
+`更新时间：2025-07-13 18:28:11 +0800`
 
 ## 热门搜索
 
-1. [河北一医院开设「不爱上班」门诊](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8C%97%E4%B8%80%E5%8C%BB%E9%99%A2%E5%BC%80%E8%AE%BE%E3%80%8C%E4%B8%8D%E7%88%B1%E4%B8%8A%E7%8F%AD%E3%80%8D%E9%97%A8%E8%AF%8A)
-1. [马斯克宣布grok4发布](https://www.zhihu.com/search?q=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%AE%A3%E5%B8%83grok4%E5%8F%91%E5%B8%83)
+1. [GEN击败T1](https://www.zhihu.com/search?q=GEN%E5%87%BB%E8%B4%A5T1)
 1. [金箍棒的设定是不是太弱了](https://www.zhihu.com/search?q=%E9%87%91%E7%AE%8D%E6%A3%92%E7%9A%84%E8%AE%BE%E5%AE%9A%E6%98%AF%E4%B8%8D%E6%98%AF%E5%A4%AA%E5%BC%B1%E4%BA%86)
 1. [我家这样过夏天](https://www.zhihu.com/search?q=%E6%88%91%E5%AE%B6%E8%BF%99%E6%A0%B7%E8%BF%87%E5%A4%8F%E5%A4%A9)
 1. [2025 清凉智选季](https://www.zhihu.com/search?q=2025%20%E6%B8%85%E5%87%89%E6%99%BA%E9%80%89%E5%AD%A3)
@@ -38,7 +37,7 @@
 1. [夏日高效清洁工具对比](https://www.zhihu.com/search?q=%E5%A4%8F%E6%97%A5%E9%AB%98%E6%95%88%E6%B8%85%E6%B4%81%E5%B7%A5%E5%85%B7%E5%AF%B9%E6%AF%94)
 1. [全屋清灰万金油「吸尘器」推荐](https://www.zhihu.com/search?q=%E5%85%A8%E5%B1%8B%E6%B8%85%E7%81%B0%E4%B8%87%E9%87%91%E6%B2%B9%E3%80%8C%E5%90%B8%E5%B0%98%E5%99%A8%E3%80%8D%E6%8E%A8%E8%8D%90)
 1. [解放双手神器「扫地机」推荐](https://www.zhihu.com/search?q=%E8%A7%A3%E6%94%BE%E5%8F%8C%E6%89%8B%E7%A5%9E%E5%99%A8%E3%80%8C%E6%89%AB%E5%9C%B0%E6%9C%BA%E3%80%8D%E6%8E%A8%E8%8D%90)
-1. [文泰一被判3年6个月](https://www.zhihu.com/search?q=%E6%96%87%E6%B3%B0%E4%B8%80%E8%A2%AB%E5%88%A43%E5%B9%B46%E4%B8%AA%E6%9C%88)
+1. [餐饮垃圾的终结者「洗地机」推荐](https://www.zhihu.com/search?q=%E9%A4%90%E9%A5%AE%E5%9E%83%E5%9C%BE%E7%9A%84%E7%BB%88%E7%BB%93%E8%80%85%E3%80%8C%E6%B4%97%E5%9C%B0%E6%9C%BA%E3%80%8D%E6%8E%A8%E8%8D%90)
 1. [梅雨季的空调使用指南](https://www.zhihu.com/search?q=%E6%A2%85%E9%9B%A8%E5%AD%A3%E7%9A%84%E7%A9%BA%E8%B0%83%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97)
 1. [梅雨季救星](https://www.zhihu.com/search?q=%E6%A2%85%E9%9B%A8%E5%AD%A3%E6%95%91%E6%98%9F)
 1. [当梅雨季遇上除湿机](https://www.zhihu.com/search?q=%E5%BD%93%E6%A2%85%E9%9B%A8%E5%AD%A3%E9%81%87%E4%B8%8A%E9%99%A4%E6%B9%BF%E6%9C%BA)
