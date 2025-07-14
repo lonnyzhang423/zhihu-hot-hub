@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-07-14 12:34:40 +0800`
+`更新时间：2025-07-14 13:19:26 +0800`
 
 ## 热门搜索
 
-1. [美国洛杉矶一隧道坍塌15人被困](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E6%B4%9B%E6%9D%89%E7%9F%B6%E4%B8%80%E9%9A%A7%E9%81%93%E5%9D%8D%E5%A1%8C15%E4%BA%BA%E8%A2%AB%E5%9B%B0)
-1. [哪吒2全新英文配音版定档](https://www.zhihu.com/search?q=%E5%93%AA%E5%90%922%E5%85%A8%E6%96%B0%E8%8B%B1%E6%96%87%E9%85%8D%E9%9F%B3%E7%89%88%E5%AE%9A%E6%A1%A3)
+1. [GEN击败T1](https://www.zhihu.com/search?q=GEN%E5%87%BB%E8%B4%A5T1)
+1. [王楚钦 vs 张本智和](https://www.zhihu.com/search?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%20vs%20%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C)
 1. [金箍棒的设定是不是太弱了](https://www.zhihu.com/search?q=%E9%87%91%E7%AE%8D%E6%A3%92%E7%9A%84%E8%AE%BE%E5%AE%9A%E6%98%AF%E4%B8%8D%E6%98%AF%E5%A4%AA%E5%BC%B1%E4%BA%86)
 1. [我家这样过夏天](https://www.zhihu.com/search?q=%E6%88%91%E5%AE%B6%E8%BF%99%E6%A0%B7%E8%BF%87%E5%A4%8F%E5%A4%A9)
 1. [2025 清凉智选季](https://www.zhihu.com/search?q=2025%20%E6%B8%85%E5%87%89%E6%99%BA%E9%80%89%E5%AD%A3)
