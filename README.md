@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-07-14 07:26:20 +0800`
+`更新时间：2025-07-14 10:22:00 +0800`
 
 ## 热门搜索
 
-1. [GEN击败T1](https://www.zhihu.com/search?q=GEN%E5%87%BB%E8%B4%A5T1)
-1. [金箍棒的设定是不是太弱了](https://www.zhihu.com/search?q=%E9%87%91%E7%AE%8D%E6%A3%92%E7%9A%84%E8%AE%BE%E5%AE%9A%E6%98%AF%E4%B8%8D%E6%98%AF%E5%A4%AA%E5%BC%B1%E4%BA%86)
+1. [田栩宁ccd](https://www.zhihu.com/search?q=%E7%94%B0%E6%A0%A9%E5%AE%81ccd)
+1. [男子3巴掌扇掉电梯门被判刑](https://www.zhihu.com/search?q=%E7%94%B7%E5%AD%903%E5%B7%B4%E6%8E%8C%E6%89%87%E6%8E%89%E7%94%B5%E6%A2%AF%E9%97%A8%E8%A2%AB%E5%88%A4%E5%88%91)
 1. [我家这样过夏天](https://www.zhihu.com/search?q=%E6%88%91%E5%AE%B6%E8%BF%99%E6%A0%B7%E8%BF%87%E5%A4%8F%E5%A4%A9)
 1. [2025 清凉智选季](https://www.zhihu.com/search?q=2025%20%E6%B8%85%E5%87%89%E6%99%BA%E9%80%89%E5%AD%A3)
 1. [我的清凉家](https://www.zhihu.com/search?q=%E6%88%91%E7%9A%84%E6%B8%85%E5%87%89%E5%AE%B6)
