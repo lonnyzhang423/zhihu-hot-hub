@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-07-14 11:26:32 +0800`
+`更新时间：2025-07-14 12:34:40 +0800`
 
 ## 热门搜索
 
-1. [GEN击败T1](https://www.zhihu.com/search?q=GEN%E5%87%BB%E8%B4%A5T1)
+1. [美国洛杉矶一隧道坍塌15人被困](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E6%B4%9B%E6%9D%89%E7%9F%B6%E4%B8%80%E9%9A%A7%E9%81%93%E5%9D%8D%E5%A1%8C15%E4%BA%BA%E8%A2%AB%E5%9B%B0)
+1. [哪吒2全新英文配音版定档](https://www.zhihu.com/search?q=%E5%93%AA%E5%90%922%E5%85%A8%E6%96%B0%E8%8B%B1%E6%96%87%E9%85%8D%E9%9F%B3%E7%89%88%E5%AE%9A%E6%A1%A3)
 1. [金箍棒的设定是不是太弱了](https://www.zhihu.com/search?q=%E9%87%91%E7%AE%8D%E6%A3%92%E7%9A%84%E8%AE%BE%E5%AE%9A%E6%98%AF%E4%B8%8D%E6%98%AF%E5%A4%AA%E5%BC%B1%E4%BA%86)
 1. [我家这样过夏天](https://www.zhihu.com/search?q=%E6%88%91%E5%AE%B6%E8%BF%99%E6%A0%B7%E8%BF%87%E5%A4%8F%E5%A4%A9)
 1. [2025 清凉智选季](https://www.zhihu.com/search?q=2025%20%E6%B8%85%E5%87%89%E6%99%BA%E9%80%89%E5%AD%A3)
@@ -42,7 +43,6 @@
 1. [梅雨季救星](https://www.zhihu.com/search?q=%E6%A2%85%E9%9B%A8%E5%AD%A3%E6%95%91%E6%98%9F)
 1. [当梅雨季遇上除湿机](https://www.zhihu.com/search?q=%E5%BD%93%E6%A2%85%E9%9B%A8%E5%AD%A3%E9%81%87%E4%B8%8A%E9%99%A4%E6%B9%BF%E6%9C%BA)
 1. [如何判断电视的三六九等](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E5%88%A4%E6%96%AD%E7%94%B5%E8%A7%86%E7%9A%84%E4%B8%89%E5%85%AD%E4%B9%9D%E7%AD%89)
-1. [厨房空调的使用体验](https://www.zhihu.com/search?q=%E5%8E%A8%E6%88%BF%E7%A9%BA%E8%B0%83%E7%9A%84%E4%BD%BF%E7%94%A8%E4%BD%93%E9%AA%8C)
 
 ## 热门话题
 
