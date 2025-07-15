@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-07-15 15:16:18 +0800`
+`更新时间：2025-07-15 16:18:19 +0800`
 
 ## 热门搜索
 
 1. [gen对战t1](https://www.zhihu.com/search?q=gen%E5%AF%B9%E6%88%98t1)
+1. [为什么越来越多年轻人不买房](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%8D%E4%B9%B0%E6%88%BF)
 1. [温网男单决赛](https://www.zhihu.com/search?q=%E6%B8%A9%E7%BD%91%E7%94%B7%E5%8D%95%E5%86%B3%E8%B5%9B)
 1. [王楚钦 vs 张本智和](https://www.zhihu.com/search?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%20vs%20%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C)
 1. [王楚钦vs张本智和](https://www.zhihu.com/search?q=%E7%8E%8B%E6%A5%9A%E9%92%A6vs%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C)
@@ -41,7 +42,6 @@
 1. [解放双手神器「扫地机」推荐](https://www.zhihu.com/search?q=%E8%A7%A3%E6%94%BE%E5%8F%8C%E6%89%8B%E7%A5%9E%E5%99%A8%E3%80%8C%E6%89%AB%E5%9C%B0%E6%9C%BA%E3%80%8D%E6%8E%A8%E8%8D%90)
 1. [餐饮垃圾的终结者「洗地机」推荐](https://www.zhihu.com/search?q=%E9%A4%90%E9%A5%AE%E5%9E%83%E5%9C%BE%E7%9A%84%E7%BB%88%E7%BB%93%E8%80%85%E3%80%8C%E6%B4%97%E5%9C%B0%E6%9C%BA%E3%80%8D%E6%8E%A8%E8%8D%90)
 1. [梅雨季的空调使用指南](https://www.zhihu.com/search?q=%E6%A2%85%E9%9B%A8%E5%AD%A3%E7%9A%84%E7%A9%BA%E8%B0%83%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97)
-1. [梅雨季救星](https://www.zhihu.com/search?q=%E6%A2%85%E9%9B%A8%E5%AD%A3%E6%95%91%E6%98%9F)
 
 ## 热门话题
 
