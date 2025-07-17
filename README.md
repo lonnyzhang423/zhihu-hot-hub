@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-07-17 12:48:15 +0800`
+`更新时间：2025-07-17 13:31:14 +0800`
 
 ## 热门搜索
 
-1. [为什么越来越多年轻人不买房](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%8D%E4%B9%B0%E6%88%BF)
+1. [廉价手机壳真的含铅吗](https://www.zhihu.com/search?q=%E5%BB%89%E4%BB%B7%E6%89%8B%E6%9C%BA%E5%A3%B3%E7%9C%9F%E7%9A%84%E5%90%AB%E9%93%85%E5%90%97)
+1. [车祸事故伤者被要求检查梅毒](https://www.zhihu.com/search?q=%E8%BD%A6%E7%A5%B8%E4%BA%8B%E6%95%85%E4%BC%A4%E8%80%85%E8%A2%AB%E8%A6%81%E6%B1%82%E6%A3%80%E6%9F%A5%E6%A2%85%E6%AF%92)
 1. [开轿车累还是 suv 累](https://www.zhihu.com/search?q=%E5%BC%80%E8%BD%BF%E8%BD%A6%E7%B4%AF%E8%BF%98%E6%98%AF%20suv%20%E7%B4%AF)
 1. [林诗栋vs张本智和](https://www.zhihu.com/search?q=%E6%9E%97%E8%AF%97%E6%A0%8Bvs%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C)
 1. [职场最重要的能力是什么](https://www.zhihu.com/search?q=%E8%81%8C%E5%9C%BA%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E8%83%BD%E5%8A%9B%E6%98%AF%E4%BB%80%E4%B9%88)
