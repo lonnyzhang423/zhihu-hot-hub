@@ -11,10 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-07-17 19:24:57 +0800`
+`更新时间：2025-07-17 20:56:39 +0800`
 
 ## 热门搜索
 
+1. [说说你身边最震惊你的八卦](https://www.zhihu.com/search?q=%E8%AF%B4%E8%AF%B4%E4%BD%A0%E8%BA%AB%E8%BE%B9%E6%9C%80%E9%9C%87%E6%83%8A%E4%BD%A0%E7%9A%84%E5%85%AB%E5%8D%A6)
 1. [为什么越来越多年轻人不买房](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%8D%E4%B9%B0%E6%88%BF)
 1. [开轿车累还是 suv 累](https://www.zhihu.com/search?q=%E5%BC%80%E8%BD%BF%E8%BD%A6%E7%B4%AF%E8%BF%98%E6%98%AF%20suv%20%E7%B4%AF)
 1. [工业克苏鲁什么意思](https://www.zhihu.com/search?q=%E5%B7%A5%E4%B8%9A%E5%85%8B%E8%8B%8F%E9%B2%81%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D)
