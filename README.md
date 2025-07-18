@@ -11,11 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-07-19 06:26:39 +0800`
+`更新时间：2025-07-19 07:26:17 +0800`
 
 ## 热门搜索
 
-1. [罗家英自曝注射女性荷尔蒙](https://www.zhihu.com/search?q=%E7%BD%97%E5%AE%B6%E8%8B%B1%E8%87%AA%E6%9B%9D%E6%B3%A8%E5%B0%84%E5%A5%B3%E6%80%A7%E8%8D%B7%E5%B0%94%E8%92%99)
+1. [薛之谦新歌](https://www.zhihu.com/search?q=%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%96%B0%E6%AD%8C)
 1. [说说你身边最震惊你的八卦](https://www.zhihu.com/search?q=%E8%AF%B4%E8%AF%B4%E4%BD%A0%E8%BA%AB%E8%BE%B9%E6%9C%80%E9%9C%87%E6%83%8A%E4%BD%A0%E7%9A%84%E5%85%AB%E5%8D%A6)
 1. [工业克苏鲁什么意思](https://www.zhihu.com/search?q=%E5%B7%A5%E4%B8%9A%E5%85%8B%E8%8B%8F%E9%B2%81%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D)
 1. [郑钦文退赛](https://www.zhihu.com/search?q=%E9%83%91%E9%92%A6%E6%96%87%E9%80%80%E8%B5%9B)
