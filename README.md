@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-07-19 18:27:56 +0800`
+`更新时间：2025-07-19 19:22:10 +0800`
 
 ## 热门搜索
 
@@ -40,7 +40,6 @@
 1. [正是除甲醛好时机](https://www.zhihu.com/search?q=%E6%AD%A3%E6%98%AF%E9%99%A4%E7%94%B2%E9%86%9B%E5%A5%BD%E6%97%B6%E6%9C%BA)
 1. [为什么空调 26℃ 不够舒爽？](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%A9%BA%E8%B0%83%2026%E2%84%83%20%E4%B8%8D%E5%A4%9F%E8%88%92%E7%88%BD%EF%BC%9F)
 1. [26℃ 体感差异](https://www.zhihu.com/search?q=26%E2%84%83%20%E4%BD%93%E6%84%9F%E5%B7%AE%E5%BC%82)
-1. [夏日高效清洁工具对比](https://www.zhihu.com/search?q=%E5%A4%8F%E6%97%A5%E9%AB%98%E6%95%88%E6%B8%85%E6%B4%81%E5%B7%A5%E5%85%B7%E5%AF%B9%E6%AF%94)
 
 ## 热门话题
 
