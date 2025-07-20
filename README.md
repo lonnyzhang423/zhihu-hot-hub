@@ -11,11 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-07-20 09:09:53 +0800`
+`更新时间：2025-07-20 11:40:32 +0800`
 
 ## 热门搜索
 
-1. [薛之谦新歌](https://www.zhihu.com/search?q=%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%96%B0%E6%AD%8C)
+1. [男子每天喝5杯奶茶进医院](https://www.zhihu.com/search?q=%E7%94%B7%E5%AD%90%E6%AF%8F%E5%A4%A9%E5%96%9D5%E6%9D%AF%E5%A5%B6%E8%8C%B6%E8%BF%9B%E5%8C%BB%E9%99%A2)
 1. [郑钦文退赛](https://www.zhihu.com/search?q=%E9%83%91%E9%92%A6%E6%96%87%E9%80%80%E8%B5%9B)
 1. [你是什么时候发现上班是没有意义的](https://www.zhihu.com/search?q=%E4%BD%A0%E6%98%AF%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E5%8F%91%E7%8E%B0%E4%B8%8A%E7%8F%AD%E6%98%AF%E6%B2%A1%E6%9C%89%E6%84%8F%E4%B9%89%E7%9A%84)
 1. [火箭vs开拓者](https://www.zhihu.com/search?q=%E7%81%AB%E7%AE%ADvs%E5%BC%80%E6%8B%93%E8%80%85)
