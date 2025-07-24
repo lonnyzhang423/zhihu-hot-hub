@@ -11,12 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-07-24 20:57:53 +0800`
+`更新时间：2025-07-24 21:45:16 +0800`
 
 ## 热门搜索
 
-1. [公积金是否能视为收入](https://www.zhihu.com/search?q=%E5%85%AC%E7%A7%AF%E9%87%91%E6%98%AF%E5%90%A6%E8%83%BD%E8%A7%86%E4%B8%BA%E6%94%B6%E5%85%A5)
-1. [男女力量差距真的那么大么](https://www.zhihu.com/search?q=%E7%94%B7%E5%A5%B3%E5%8A%9B%E9%87%8F%E5%B7%AE%E8%B7%9D%E7%9C%9F%E7%9A%84%E9%82%A3%E4%B9%88%E5%A4%A7%E4%B9%88)
+1. [北京化工大学新生用碳纤维录取通知书切西瓜](https://www.zhihu.com/search?q=%E5%8C%97%E4%BA%AC%E5%8C%96%E5%B7%A5%E5%A4%A7%E5%AD%A6%E6%96%B0%E7%94%9F%E7%94%A8%E7%A2%B3%E7%BA%A4%E7%BB%B4%E5%BD%95%E5%8F%96%E9%80%9A%E7%9F%A5%E4%B9%A6%E5%88%87%E8%A5%BF%E7%93%9C)
 1. [天赋到底是什么东西](https://www.zhihu.com/search?q=%E5%A4%A9%E8%B5%8B%E5%88%B0%E5%BA%95%E6%98%AF%E4%BB%80%E4%B9%88%E4%B8%9C%E8%A5%BF)
 1. [不鸡娃的结果是什么](https://www.zhihu.com/search?q=%E4%B8%8D%E9%B8%A1%E5%A8%83%E7%9A%84%E7%BB%93%E6%9E%9C%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [你卡过最厉害的 bug 是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E5%8D%A1%E8%BF%87%E6%9C%80%E5%8E%89%E5%AE%B3%E7%9A%84%20bug%20%E6%98%AF%E4%BB%80%E4%B9%88)
