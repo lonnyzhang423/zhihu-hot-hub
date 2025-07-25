@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-07-25 17:31:34 +0800`
+`更新时间：2025-07-25 18:31:19 +0800`
 
 ## 热门搜索
 
-1. [不鸡娃的结果是什么](https://www.zhihu.com/search?q=%E4%B8%8D%E9%B8%A1%E5%A8%83%E7%9A%84%E7%BB%93%E6%9E%9C%E6%98%AF%E4%BB%80%E4%B9%88)
+1. [减肥连续晒背9天导致肾衰竭](https://www.zhihu.com/search?q=%E5%87%8F%E8%82%A5%E8%BF%9E%E7%BB%AD%E6%99%92%E8%83%8C9%E5%A4%A9%E5%AF%BC%E8%87%B4%E8%82%BE%E8%A1%B0%E7%AB%AD)
+1. [樊振东vs林诗栋](https://www.zhihu.com/search?q=%E6%A8%8A%E6%8C%AF%E4%B8%9Cvs%E6%9E%97%E8%AF%97%E6%A0%8B)
 1. [我家这样过夏天](https://www.zhihu.com/search?q=%E6%88%91%E5%AE%B6%E8%BF%99%E6%A0%B7%E8%BF%87%E5%A4%8F%E5%A4%A9)
 1. [2025 清凉智选季](https://www.zhihu.com/search?q=2025%20%E6%B8%85%E5%87%89%E6%99%BA%E9%80%89%E5%AD%A3)
 1. [我的清凉家](https://www.zhihu.com/search?q=%E6%88%91%E7%9A%84%E6%B8%85%E5%87%89%E5%AE%B6)
@@ -41,7 +42,6 @@
 1. [梅雨季救星](https://www.zhihu.com/search?q=%E6%A2%85%E9%9B%A8%E5%AD%A3%E6%95%91%E6%98%9F)
 1. [当梅雨季遇上除湿机](https://www.zhihu.com/search?q=%E5%BD%93%E6%A2%85%E9%9B%A8%E5%AD%A3%E9%81%87%E4%B8%8A%E9%99%A4%E6%B9%BF%E6%9C%BA)
 1. [如何判断电视的三六九等](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E5%88%A4%E6%96%AD%E7%94%B5%E8%A7%86%E7%9A%84%E4%B8%89%E5%85%AD%E4%B9%9D%E7%AD%89)
-1. [厨房空调的使用体验](https://www.zhihu.com/search?q=%E5%8E%A8%E6%88%BF%E7%A9%BA%E8%B0%83%E7%9A%84%E4%BD%BF%E7%94%A8%E4%BD%93%E9%AA%8C)
 
 ## 热门话题
 
