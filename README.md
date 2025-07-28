@@ -11,12 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-07-28 14:21:58 +0800`
+`更新时间：2025-07-28 15:19:35 +0800`
 
 ## 热门搜索
 
-1. [山东舰5年起降近万架次舰载机](https://www.zhihu.com/search?q=%E5%B1%B1%E4%B8%9C%E8%88%B05%E5%B9%B4%E8%B5%B7%E9%99%8D%E8%BF%91%E4%B8%87%E6%9E%B6%E6%AC%A1%E8%88%B0%E8%BD%BD%E6%9C%BA)
-1. [张碧晨方回应年轮原唱](https://www.zhihu.com/search?q=%E5%BC%A0%E7%A2%A7%E6%99%A8%E6%96%B9%E5%9B%9E%E5%BA%94%E5%B9%B4%E8%BD%AE%E5%8E%9F%E5%94%B1)
+1. [河北阜平强降雨2死2失踪](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8C%97%E9%98%9C%E5%B9%B3%E5%BC%BA%E9%99%8D%E9%9B%A82%E6%AD%BB2%E5%A4%B1%E8%B8%AA)
 1. [BLG战胜AL](https://www.zhihu.com/search?q=BLG%E6%88%98%E8%83%9CAL)
 1. [我家这样过夏天](https://www.zhihu.com/search?q=%E6%88%91%E5%AE%B6%E8%BF%99%E6%A0%B7%E8%BF%87%E5%A4%8F%E5%A4%A9)
 1. [2025 清凉智选季](https://www.zhihu.com/search?q=2025%20%E6%B8%85%E5%87%89%E6%99%BA%E9%80%89%E5%AD%A3)
