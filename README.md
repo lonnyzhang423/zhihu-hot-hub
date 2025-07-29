@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-07-29 09:10:49 +0800`
+`更新时间：2025-07-29 11:43:50 +0800`
 
 ## 热门搜索
 
-1. [北京暴雨](https://www.zhihu.com/search?q=%E5%8C%97%E4%BA%AC%E6%9A%B4%E9%9B%A8)
+1. [江西万载县多名未成年人围殴同学](https://www.zhihu.com/search?q=%E6%B1%9F%E8%A5%BF%E4%B8%87%E8%BD%BD%E5%8E%BF%E5%A4%9A%E5%90%8D%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E5%9B%B4%E6%AE%B4%E5%90%8C%E5%AD%A6)
+1. [李宇春是陈粒演唱会惊喜嘉宾](https://www.zhihu.com/search?q=%E6%9D%8E%E5%AE%87%E6%98%A5%E6%98%AF%E9%99%88%E7%B2%92%E6%BC%94%E5%94%B1%E4%BC%9A%E6%83%8A%E5%96%9C%E5%98%89%E5%AE%BE)
 1. [数学是从什么时候开始反直觉的](https://www.zhihu.com/search?q=%E6%95%B0%E5%AD%A6%E6%98%AF%E4%BB%8E%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E5%BC%80%E5%A7%8B%E5%8F%8D%E7%9B%B4%E8%A7%89%E7%9A%84)
 1. [石宇奇夺冠](https://www.zhihu.com/search?q=%E7%9F%B3%E5%AE%87%E5%A5%87%E5%A4%BA%E5%86%A0)
 1. [我国成功发射卫星互联网低轨卫星](https://www.zhihu.com/search?q=%E6%88%91%E5%9B%BD%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84%E5%8D%AB%E6%98%9F%E4%BA%92%E8%81%94%E7%BD%91%E4%BD%8E%E8%BD%A8%E5%8D%AB%E6%98%9F)
