@@ -11,12 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-07-30 17:20:30 +0800`
+`更新时间：2025-07-30 18:15:16 +0800`
 
 ## 热门搜索
 
-1. [网易云取消张碧晨三首歌原唱](https://www.zhihu.com/search?q=%E7%BD%91%E6%98%93%E4%BA%91%E5%8F%96%E6%B6%88%E5%BC%A0%E7%A2%A7%E6%99%A8%E4%B8%89%E9%A6%96%E6%AD%8C%E5%8E%9F%E5%94%B1)
-1. [12306回应乘客高铁打7小时电话争议](https://www.zhihu.com/search?q=12306%E5%9B%9E%E5%BA%94%E4%B9%98%E5%AE%A2%E9%AB%98%E9%93%81%E6%89%937%E5%B0%8F%E6%97%B6%E7%94%B5%E8%AF%9D%E4%BA%89%E8%AE%AE)
+1. [北京暴雨](https://www.zhihu.com/search?q=%E5%8C%97%E4%BA%AC%E6%9A%B4%E9%9B%A8)
 1. [一个演员的演技能好到什么程度](https://www.zhihu.com/search?q=%E4%B8%80%E4%B8%AA%E6%BC%94%E5%91%98%E7%9A%84%E6%BC%94%E6%8A%80%E8%83%BD%E5%A5%BD%E5%88%B0%E4%BB%80%E4%B9%88%E7%A8%8B%E5%BA%A6)
 1. [数学是从什么时候开始反直觉的](https://www.zhihu.com/search?q=%E6%95%B0%E5%AD%A6%E6%98%AF%E4%BB%8E%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E5%BC%80%E5%A7%8B%E5%8F%8D%E7%9B%B4%E8%A7%89%E7%9A%84)
 1. [石宇奇夺冠](https://www.zhihu.com/search?q=%E7%9F%B3%E5%AE%87%E5%A5%87%E5%A4%BA%E5%86%A0)
@@ -38,7 +37,6 @@
 1. [夏季除醛的正确打开方式](https://www.zhihu.com/search?q=%E5%A4%8F%E5%AD%A3%E9%99%A4%E9%86%9B%E7%9A%84%E6%AD%A3%E7%A1%AE%E6%89%93%E5%BC%80%E6%96%B9%E5%BC%8F)
 1. [正是除甲醛好时机](https://www.zhihu.com/search?q=%E6%AD%A3%E6%98%AF%E9%99%A4%E7%94%B2%E9%86%9B%E5%A5%BD%E6%97%B6%E6%9C%BA)
 1. [为什么空调 26℃ 不够舒爽？](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%A9%BA%E8%B0%83%2026%E2%84%83%20%E4%B8%8D%E5%A4%9F%E8%88%92%E7%88%BD%EF%BC%9F)
-1. [26℃ 体感差异](https://www.zhihu.com/search?q=26%E2%84%83%20%E4%BD%93%E6%84%9F%E5%B7%AE%E5%BC%82)
 
 ## 热门话题
 
