@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-07-30 09:04:48 +0800`
+`更新时间：2025-07-30 11:29:02 +0800`
 
 ## 热门搜索
 
-1. [北京暴雨](https://www.zhihu.com/search?q=%E5%8C%97%E4%BA%AC%E6%9A%B4%E9%9B%A8)
+1. [沈腾平等殴打每位沈精兵](https://www.zhihu.com/search?q=%E6%B2%88%E8%85%BE%E5%B9%B3%E7%AD%89%E6%AE%B4%E6%89%93%E6%AF%8F%E4%BD%8D%E6%B2%88%E7%B2%BE%E5%85%B5)
+1. [厨房空调的使用体验](https://www.zhihu.com/search?q=%E5%8E%A8%E6%88%BF%E7%A9%BA%E8%B0%83%E7%9A%84%E4%BD%BF%E7%94%A8%E4%BD%93%E9%AA%8C)
 1. [数学是从什么时候开始反直觉的](https://www.zhihu.com/search?q=%E6%95%B0%E5%AD%A6%E6%98%AF%E4%BB%8E%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E5%BC%80%E5%A7%8B%E5%8F%8D%E7%9B%B4%E8%A7%89%E7%9A%84)
 1. [石宇奇夺冠](https://www.zhihu.com/search?q=%E7%9F%B3%E5%AE%87%E5%A5%87%E5%A4%BA%E5%86%A0)
 1. [皮亚斯特里夺冠](https://www.zhihu.com/search?q=%E7%9A%AE%E4%BA%9A%E6%96%AF%E7%89%B9%E9%87%8C%E5%A4%BA%E5%86%A0)
@@ -39,6 +40,7 @@
 1. [26℃ 体感差异](https://www.zhihu.com/search?q=26%E2%84%83%20%E4%BD%93%E6%84%9F%E5%B7%AE%E5%BC%82)
 1. [夏日高效清洁工具对比](https://www.zhihu.com/search?q=%E5%A4%8F%E6%97%A5%E9%AB%98%E6%95%88%E6%B8%85%E6%B4%81%E5%B7%A5%E5%85%B7%E5%AF%B9%E6%AF%94)
 1. [全屋清灰万金油「吸尘器」推荐](https://www.zhihu.com/search?q=%E5%85%A8%E5%B1%8B%E6%B8%85%E7%81%B0%E4%B8%87%E9%87%91%E6%B2%B9%E3%80%8C%E5%90%B8%E5%B0%98%E5%99%A8%E3%80%8D%E6%8E%A8%E8%8D%90)
+1. [解放双手神器「扫地机」推荐](https://www.zhihu.com/search?q=%E8%A7%A3%E6%94%BE%E5%8F%8C%E6%89%8B%E7%A5%9E%E5%99%A8%E3%80%8C%E6%89%AB%E5%9C%B0%E6%9C%BA%E3%80%8D%E6%8E%A8%E8%8D%90)
 
 ## 热门话题
 
