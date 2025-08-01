@@ -11,16 +11,16 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-08-01 21:44:50 +0800`
+`更新时间：2025-08-01 22:28:53 +0800`
 
 ## 热门搜索
 
-1. [哪句话让你突然沉默了很久](https://www.zhihu.com/search?q=%E5%93%AA%E5%8F%A5%E8%AF%9D%E8%AE%A9%E4%BD%A0%E7%AA%81%E7%84%B6%E6%B2%89%E9%BB%98%E4%BA%86%E5%BE%88%E4%B9%85)
+1. [江西物理老师自制“等离子炮”走红](https://www.zhihu.com/search?q=%E6%B1%9F%E8%A5%BF%E7%89%A9%E7%90%86%E8%80%81%E5%B8%88%E8%87%AA%E5%88%B6%E2%80%9C%E7%AD%89%E7%A6%BB%E5%AD%90%E7%82%AE%E2%80%9D%E8%B5%B0%E7%BA%A2)
+1. [理想邀请乘龙卡车直播对撞](https://www.zhihu.com/search?q=%E7%90%86%E6%83%B3%E9%82%80%E8%AF%B7%E4%B9%98%E9%BE%99%E5%8D%A1%E8%BD%A6%E7%9B%B4%E6%92%AD%E5%AF%B9%E6%92%9E)
 1. [陈芋汐10米台冠军](https://www.zhihu.com/search?q=%E9%99%88%E8%8A%8B%E6%B1%9010%E7%B1%B3%E5%8F%B0%E5%86%A0%E5%86%9B)
 1. [8月起这些新规开始施行](https://www.zhihu.com/search?q=8%E6%9C%88%E8%B5%B7%E8%BF%99%E4%BA%9B%E6%96%B0%E8%A7%84%E5%BC%80%E5%A7%8B%E6%96%BD%E8%A1%8C)
 1. [一个演员的演技能好到什么程度](https://www.zhihu.com/search?q=%E4%B8%80%E4%B8%AA%E6%BC%94%E5%91%98%E7%9A%84%E6%BC%94%E6%8A%80%E8%83%BD%E5%A5%BD%E5%88%B0%E4%BB%80%E4%B9%88%E7%A8%8B%E5%BA%A6)
 1. [有什么地狱级的笑话](https://www.zhihu.com/search?q=%E6%9C%89%E4%BB%80%E4%B9%88%E5%9C%B0%E7%8B%B1%E7%BA%A7%E7%9A%84%E7%AC%91%E8%AF%9D)
-1. [东北萌娃卖冰棍引宠娃狂潮](https://www.zhihu.com/search?q=%E4%B8%9C%E5%8C%97%E8%90%8C%E5%A8%83%E5%8D%96%E5%86%B0%E6%A3%8D%E5%BC%95%E5%AE%A0%E5%A8%83%E7%8B%82%E6%BD%AE)
 1. [南京照相馆票房](https://www.zhihu.com/search?q=%E5%8D%97%E4%BA%AC%E7%85%A7%E7%9B%B8%E9%A6%86%E7%A5%A8%E6%88%BF)
 1. [你心目中的排名第一的雪糕是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E5%BF%83%E7%9B%AE%E4%B8%AD%E7%9A%84%E6%8E%92%E5%90%8D%E7%AC%AC%E4%B8%80%E7%9A%84%E9%9B%AA%E7%B3%95%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [释永信的戒牒被注销](https://www.zhihu.com/search?q=%E9%87%8A%E6%B0%B8%E4%BF%A1%E7%9A%84%E6%88%92%E7%89%92%E8%A2%AB%E6%B3%A8%E9%94%80)
@@ -38,6 +38,7 @@
 1. [Model Y 配置简化但价格香会人买吗](https://www.zhihu.com/search?q=Model%20Y%20%E9%85%8D%E7%BD%AE%E7%AE%80%E5%8C%96%E4%BD%86%E4%BB%B7%E6%A0%BC%E9%A6%99%E4%BC%9A%E4%BA%BA%E4%B9%B0%E5%90%97)
 1. [怎么理解「善战者无赫赫之功」](https://www.zhihu.com/search?q=%E6%80%8E%E4%B9%88%E7%90%86%E8%A7%A3%E3%80%8C%E5%96%84%E6%88%98%E8%80%85%E6%97%A0%E8%B5%AB%E8%B5%AB%E4%B9%8B%E5%8A%9F%E3%80%8D)
 1. [有什么同人逼死官方的例子](https://www.zhihu.com/search?q=%E6%9C%89%E4%BB%80%E4%B9%88%E5%90%8C%E4%BA%BA%E9%80%BC%E6%AD%BB%E5%AE%98%E6%96%B9%E7%9A%84%E4%BE%8B%E5%AD%90)
+1. [邝兆镭加盟西协乙莱里达体育](https://www.zhihu.com/search?q=%E9%82%9D%E5%85%86%E9%95%AD%E5%8A%A0%E7%9B%9F%E8%A5%BF%E5%8D%8F%E4%B9%99%E8%8E%B1%E9%87%8C%E8%BE%BE%E4%BD%93%E8%82%B2)
 
 ## 热门话题
 
