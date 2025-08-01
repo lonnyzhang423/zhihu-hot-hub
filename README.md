@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-08-01 19:11:44 +0800`
+`更新时间：2025-08-01 20:25:59 +0800`
 
 ## 热门搜索
 
@@ -20,7 +20,6 @@
 1. [8月起这些新规开始施行](https://www.zhihu.com/search?q=8%E6%9C%88%E8%B5%B7%E8%BF%99%E4%BA%9B%E6%96%B0%E8%A7%84%E5%BC%80%E5%A7%8B%E6%96%BD%E8%A1%8C)
 1. [一个演员的演技能好到什么程度](https://www.zhihu.com/search?q=%E4%B8%80%E4%B8%AA%E6%BC%94%E5%91%98%E7%9A%84%E6%BC%94%E6%8A%80%E8%83%BD%E5%A5%BD%E5%88%B0%E4%BB%80%E4%B9%88%E7%A8%8B%E5%BA%A6)
 1. [有什么地狱级的笑话](https://www.zhihu.com/search?q=%E6%9C%89%E4%BB%80%E4%B9%88%E5%9C%B0%E7%8B%B1%E7%BA%A7%E7%9A%84%E7%AC%91%E8%AF%9D)
-1. [可灵AI全球用户超4500万](https://www.zhihu.com/search?q=%E5%8F%AF%E7%81%B5AI%E5%85%A8%E7%90%83%E7%94%A8%E6%88%B7%E8%B6%854500%E4%B8%87)
 1. [东北萌娃卖冰棍引宠娃狂潮](https://www.zhihu.com/search?q=%E4%B8%9C%E5%8C%97%E8%90%8C%E5%A8%83%E5%8D%96%E5%86%B0%E6%A3%8D%E5%BC%95%E5%AE%A0%E5%A8%83%E7%8B%82%E6%BD%AE)
 1. [南京照相馆票房](https://www.zhihu.com/search?q=%E5%8D%97%E4%BA%AC%E7%85%A7%E7%9B%B8%E9%A6%86%E7%A5%A8%E6%88%BF)
 1. [你心目中的排名第一的雪糕是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E5%BF%83%E7%9B%AE%E4%B8%AD%E7%9A%84%E6%8E%92%E5%90%8D%E7%AC%AC%E4%B8%80%E7%9A%84%E9%9B%AA%E7%B3%95%E6%98%AF%E4%BB%80%E4%B9%88)
@@ -39,6 +38,7 @@
 1. [少林寺投资版图有多大](https://www.zhihu.com/search?q=%E5%B0%91%E6%9E%97%E5%AF%BA%E6%8A%95%E8%B5%84%E7%89%88%E5%9B%BE%E6%9C%89%E5%A4%9A%E5%A4%A7)
 1. [Model Y 配置简化但价格香会人买吗](https://www.zhihu.com/search?q=Model%20Y%20%E9%85%8D%E7%BD%AE%E7%AE%80%E5%8C%96%E4%BD%86%E4%BB%B7%E6%A0%BC%E9%A6%99%E4%BC%9A%E4%BA%BA%E4%B9%B0%E5%90%97)
 1. [怎么理解「善战者无赫赫之功」](https://www.zhihu.com/search?q=%E6%80%8E%E4%B9%88%E7%90%86%E8%A7%A3%E3%80%8C%E5%96%84%E6%88%98%E8%80%85%E6%97%A0%E8%B5%AB%E8%B5%AB%E4%B9%8B%E5%8A%9F%E3%80%8D)
+1. [有什么同人逼死官方的例子](https://www.zhihu.com/search?q=%E6%9C%89%E4%BB%80%E4%B9%88%E5%90%8C%E4%BA%BA%E9%80%BC%E6%AD%BB%E5%AE%98%E6%96%B9%E7%9A%84%E4%BE%8B%E5%AD%90)
 
 ## 热门话题
 
