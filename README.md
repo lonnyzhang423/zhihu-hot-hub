@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-08-01 15:32:52 +0800`
+`更新时间：2025-08-01 16:37:48 +0800`
 
 ## 热门搜索
 
-1. [哪句话让你突然沉默了很久](https://www.zhihu.com/search?q=%E5%93%AA%E5%8F%A5%E8%AF%9D%E8%AE%A9%E4%BD%A0%E7%AA%81%E7%84%B6%E6%B2%89%E9%BB%98%E4%BA%86%E5%BE%88%E4%B9%85)
+1. [河北一草原骑马相撞一马死亡](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8C%97%E4%B8%80%E8%8D%89%E5%8E%9F%E9%AA%91%E9%A9%AC%E7%9B%B8%E6%92%9E%E4%B8%80%E9%A9%AC%E6%AD%BB%E4%BA%A1)
+1. [95 后摆摊卖造型奇特的「军火烧饼」](https://www.zhihu.com/search?q=95%20%E5%90%8E%E6%91%86%E6%91%8A%E5%8D%96%E9%80%A0%E5%9E%8B%E5%A5%87%E7%89%B9%E7%9A%84%E3%80%8C%E5%86%9B%E7%81%AB%E7%83%A7%E9%A5%BC%E3%80%8D)
 1. [美联储连续第五次维持利率不变](https://www.zhihu.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8%E8%BF%9E%E7%BB%AD%E7%AC%AC%E4%BA%94%E6%AC%A1%E7%BB%B4%E6%8C%81%E5%88%A9%E7%8E%87%E4%B8%8D%E5%8F%98)
 1. [七月最后一天](https://www.zhihu.com/search?q=%E4%B8%83%E6%9C%88%E6%9C%80%E5%90%8E%E4%B8%80%E5%A4%A9)
 1. [一个演员的演技能好到什么程度](https://www.zhihu.com/search?q=%E4%B8%80%E4%B8%AA%E6%BC%94%E5%91%98%E7%9A%84%E6%BC%94%E6%8A%80%E8%83%BD%E5%A5%BD%E5%88%B0%E4%BB%80%E4%B9%88%E7%A8%8B%E5%BA%A6)
