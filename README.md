@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-08-02 15:12:32 +0800`
+`更新时间：2025-08-02 16:15:56 +0800`
 
 ## 热门搜索
 
@@ -34,6 +34,7 @@
 1. [索尼互娱起诉腾讯抄袭「地平线」](https://www.zhihu.com/search?q=%E7%B4%A2%E5%B0%BC%E4%BA%92%E5%A8%B1%E8%B5%B7%E8%AF%89%E8%85%BE%E8%AE%AF%E6%8A%84%E8%A2%AD%E3%80%8C%E5%9C%B0%E5%B9%B3%E7%BA%BF%E3%80%8D)
 1. [为什么现在我国很少用三星手机了](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E6%88%91%E5%9B%BD%E5%BE%88%E5%B0%91%E7%94%A8%E4%B8%89%E6%98%9F%E6%89%8B%E6%9C%BA%E4%BA%86)
 1. [如何看待冯骥盛赞「影之刃零」实机内容](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%86%AF%E9%AA%A5%E7%9B%9B%E8%B5%9E%E3%80%8C%E5%BD%B1%E4%B9%8B%E5%88%83%E9%9B%B6%E3%80%8D%E5%AE%9E%E6%9C%BA%E5%86%85%E5%AE%B9)
+1. [你在澳洲有过什么有趣的经历吗](https://www.zhihu.com/search?q=%E4%BD%A0%E5%9C%A8%E6%BE%B3%E6%B4%B2%E6%9C%89%E8%BF%87%E4%BB%80%E4%B9%88%E6%9C%89%E8%B6%A3%E7%9A%84%E7%BB%8F%E5%8E%86%E5%90%97)
 
 ## 热门话题
 
