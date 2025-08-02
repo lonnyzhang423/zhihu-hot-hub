@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-08-02 14:37:31 +0800`
+`更新时间：2025-08-02 15:25:29 +0800`
 
 ## 热门搜索
 
-1. [哪句话让你突然沉默了很久](https://www.zhihu.com/search?q=%E5%93%AA%E5%8F%A5%E8%AF%9D%E8%AE%A9%E4%BD%A0%E7%AA%81%E7%84%B6%E6%B2%89%E9%BB%98%E4%BA%86%E5%BE%88%E4%B9%85)
+1. [北京31死养老中心未列入转移范围](https://www.zhihu.com/search?q=%E5%8C%97%E4%BA%AC31%E6%AD%BB%E5%85%BB%E8%80%81%E4%B8%AD%E5%BF%83%E6%9C%AA%E5%88%97%E5%85%A5%E8%BD%AC%E7%A7%BB%E8%8C%83%E5%9B%B4)
+1. [吃瓜抗老](https://www.zhihu.com/search?q=%E5%90%83%E7%93%9C%E6%8A%97%E8%80%81)
 1. [陈芋汐10米台冠军](https://www.zhihu.com/search?q=%E9%99%88%E8%8A%8B%E6%B1%9010%E7%B1%B3%E5%8F%B0%E5%86%A0%E5%86%9B)
 1. [8月起这些新规开始施行](https://www.zhihu.com/search?q=8%E6%9C%88%E8%B5%B7%E8%BF%99%E4%BA%9B%E6%96%B0%E8%A7%84%E5%BC%80%E5%A7%8B%E6%96%BD%E8%A1%8C)
 1. [一个演员的演技能好到什么程度](https://www.zhihu.com/search?q=%E4%B8%80%E4%B8%AA%E6%BC%94%E5%91%98%E7%9A%84%E6%BC%94%E6%8A%80%E8%83%BD%E5%A5%BD%E5%88%B0%E4%BB%80%E4%B9%88%E7%A8%8B%E5%BA%A6)
