@@ -11,12 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-08-02 16:33:31 +0800`
+`更新时间：2025-08-02 17:29:44 +0800`
 
 ## 热门搜索
 
 1. [哥哥杀死弟弟7个月女儿案将开庭](https://www.zhihu.com/search?q=%E5%93%A5%E5%93%A5%E6%9D%80%E6%AD%BB%E5%BC%9F%E5%BC%9F7%E4%B8%AA%E6%9C%88%E5%A5%B3%E5%84%BF%E6%A1%88%E5%B0%86%E5%BC%80%E5%BA%AD)
-1. [乘龙卡车直播间宣读侵权声明](https://www.zhihu.com/search?q=%E4%B9%98%E9%BE%99%E5%8D%A1%E8%BD%A6%E7%9B%B4%E6%92%AD%E9%97%B4%E5%AE%A3%E8%AF%BB%E4%BE%B5%E6%9D%83%E5%A3%B0%E6%98%8E)
 1. [陈芋汐10米台冠军](https://www.zhihu.com/search?q=%E9%99%88%E8%8A%8B%E6%B1%9010%E7%B1%B3%E5%8F%B0%E5%86%A0%E5%86%9B)
 1. [8月起这些新规开始施行](https://www.zhihu.com/search?q=8%E6%9C%88%E8%B5%B7%E8%BF%99%E4%BA%9B%E6%96%B0%E8%A7%84%E5%BC%80%E5%A7%8B%E6%96%BD%E8%A1%8C)
 1. [一个演员的演技能好到什么程度](https://www.zhihu.com/search?q=%E4%B8%80%E4%B8%AA%E6%BC%94%E5%91%98%E7%9A%84%E6%BC%94%E6%8A%80%E8%83%BD%E5%A5%BD%E5%88%B0%E4%BB%80%E4%B9%88%E7%A8%8B%E5%BA%A6)
