@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-08-03 12:13:31 +0800`
+`更新时间：2025-08-03 13:33:35 +0800`
 
 ## 热门搜索
 
@@ -35,6 +35,7 @@
 1. [亚洲第一渣男正式复出](https://www.zhihu.com/search?q=%E4%BA%9A%E6%B4%B2%E7%AC%AC%E4%B8%80%E6%B8%A3%E7%94%B7%E6%AD%A3%E5%BC%8F%E5%A4%8D%E5%87%BA)
 1. [lg新能源获43亿美元电池供应合同](https://www.zhihu.com/search?q=lg%E6%96%B0%E8%83%BD%E6%BA%90%E8%8E%B743%E4%BA%BF%E7%BE%8E%E5%85%83%E7%94%B5%E6%B1%A0%E4%BE%9B%E5%BA%94%E5%90%88%E5%90%8C)
 1. [大理上空现大量蜘蛛](https://www.zhihu.com/search?q=%E5%A4%A7%E7%90%86%E4%B8%8A%E7%A9%BA%E7%8E%B0%E5%A4%A7%E9%87%8F%E8%9C%98%E8%9B%9B)
+1. [孙颖莎拼好饭](https://www.zhihu.com/search?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E6%8B%BC%E5%A5%BD%E9%A5%AD)
 
 ## 热门话题
 
