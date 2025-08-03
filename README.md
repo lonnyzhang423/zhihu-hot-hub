@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-08-03 17:27:36 +0800`
+`更新时间：2025-08-03 18:28:20 +0800`
 
 ## 热门搜索
 
-1. [哪句话让你突然沉默了很久](https://www.zhihu.com/search?q=%E5%93%AA%E5%8F%A5%E8%AF%9D%E8%AE%A9%E4%BD%A0%E7%AA%81%E7%84%B6%E6%B2%89%E9%BB%98%E4%BA%86%E5%BE%88%E4%B9%85)
-1. [陈芋汐10米台冠军](https://www.zhihu.com/search?q=%E9%99%88%E8%8A%8B%E6%B1%9010%E7%B1%B3%E5%8F%B0%E5%86%A0%E5%86%9B)
+1. [千岛群岛6.5级地震或引发海啸](https://www.zhihu.com/search?q=%E5%8D%83%E5%B2%9B%E7%BE%A4%E5%B2%9B6.5%E7%BA%A7%E5%9C%B0%E9%9C%87%E6%88%96%E5%BC%95%E5%8F%91%E6%B5%B7%E5%95%B8)
+1. [兴隆县强降雨已致8人遇难](https://www.zhihu.com/search?q=%E5%85%B4%E9%9A%86%E5%8E%BF%E5%BC%BA%E9%99%8D%E9%9B%A8%E5%B7%B2%E8%87%B48%E4%BA%BA%E9%81%87%E9%9A%BE)
 1. [8月起这些新规开始施行](https://www.zhihu.com/search?q=8%E6%9C%88%E8%B5%B7%E8%BF%99%E4%BA%9B%E6%96%B0%E8%A7%84%E5%BC%80%E5%A7%8B%E6%96%BD%E8%A1%8C)
 1. [豆瓣崩了](https://www.zhihu.com/search?q=%E8%B1%86%E7%93%A3%E5%B4%A9%E4%BA%86)
 1. [南京照相馆票房](https://www.zhihu.com/search?q=%E5%8D%97%E4%BA%AC%E7%85%A7%E7%9B%B8%E9%A6%86%E7%A5%A8%E6%88%BF)
