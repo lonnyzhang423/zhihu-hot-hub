@@ -11,18 +11,17 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-08-03 18:28:20 +0800`
+`更新时间：2025-08-03 19:23:53 +0800`
 
 ## 热门搜索
 
-1. [千岛群岛6.5级地震或引发海啸](https://www.zhihu.com/search?q=%E5%8D%83%E5%B2%9B%E7%BE%A4%E5%B2%9B6.5%E7%BA%A7%E5%9C%B0%E9%9C%87%E6%88%96%E5%BC%95%E5%8F%91%E6%B5%B7%E5%95%B8)
-1. [兴隆县强降雨已致8人遇难](https://www.zhihu.com/search?q=%E5%85%B4%E9%9A%86%E5%8E%BF%E5%BC%BA%E9%99%8D%E9%9B%A8%E5%B7%B2%E8%87%B48%E4%BA%BA%E9%81%87%E9%9A%BE)
+1. [哪句话让你突然沉默了很久](https://www.zhihu.com/search?q=%E5%93%AA%E5%8F%A5%E8%AF%9D%E8%AE%A9%E4%BD%A0%E7%AA%81%E7%84%B6%E6%B2%89%E9%BB%98%E4%BA%86%E5%BE%88%E4%B9%85)
+1. [陈芋汐10米台冠军](https://www.zhihu.com/search?q=%E9%99%88%E8%8A%8B%E6%B1%9010%E7%B1%B3%E5%8F%B0%E5%86%A0%E5%86%9B)
 1. [8月起这些新规开始施行](https://www.zhihu.com/search?q=8%E6%9C%88%E8%B5%B7%E8%BF%99%E4%BA%9B%E6%96%B0%E8%A7%84%E5%BC%80%E5%A7%8B%E6%96%BD%E8%A1%8C)
 1. [豆瓣崩了](https://www.zhihu.com/search?q=%E8%B1%86%E7%93%A3%E5%B4%A9%E4%BA%86)
 1. [南京照相馆票房](https://www.zhihu.com/search?q=%E5%8D%97%E4%BA%AC%E7%85%A7%E7%9B%B8%E9%A6%86%E7%A5%A8%E6%88%BF)
 1. [索尼起诉腾讯新游抄袭](https://www.zhihu.com/search?q=%E7%B4%A2%E5%B0%BC%E8%B5%B7%E8%AF%89%E8%85%BE%E8%AE%AF%E6%96%B0%E6%B8%B8%E6%8A%84%E8%A2%AD)
 1. [一超市多名顾客强行开榴莲试吃](https://www.zhihu.com/search?q=%E4%B8%80%E8%B6%85%E5%B8%82%E5%A4%9A%E5%90%8D%E9%A1%BE%E5%AE%A2%E5%BC%BA%E8%A1%8C%E5%BC%80%E6%A6%B4%E8%8E%B2%E8%AF%95%E5%90%83)
-1. [《明末：渊虚之羽》预估销量超120万套](https://www.zhihu.com/search?q=%E3%80%8A%E6%98%8E%E6%9C%AB%EF%BC%9A%E6%B8%8A%E8%99%9A%E4%B9%8B%E7%BE%BD%E3%80%8B%E9%A2%84%E4%BC%B0%E9%94%80%E9%87%8F%E8%B6%85120%E4%B8%87%E5%A5%97)
 1. [哀牢山发现7株冥界之花](https://www.zhihu.com/search?q=%E5%93%80%E7%89%A2%E5%B1%B1%E5%8F%91%E7%8E%B07%E6%A0%AA%E5%86%A5%E7%95%8C%E4%B9%8B%E8%8A%B1)
 1. [武大杨景媛毕业论文被疑用AIGC完成](https://www.zhihu.com/search?q=%E6%AD%A6%E5%A4%A7%E6%9D%A8%E6%99%AF%E5%AA%9B%E6%AF%95%E4%B8%9A%E8%AE%BA%E6%96%87%E8%A2%AB%E7%96%91%E7%94%A8AIGC%E5%AE%8C%E6%88%90)
 1. [答主发杨景媛论文造假视频被上门警告](https://www.zhihu.com/search?q=%E7%AD%94%E4%B8%BB%E5%8F%91%E6%9D%A8%E6%99%AF%E5%AA%9B%E8%AE%BA%E6%96%87%E9%80%A0%E5%81%87%E8%A7%86%E9%A2%91%E8%A2%AB%E4%B8%8A%E9%97%A8%E8%AD%A6%E5%91%8A)
@@ -38,6 +37,7 @@
 1. [业主曝300多万新房楼梯一踢就碎](https://www.zhihu.com/search?q=%E4%B8%9A%E4%B8%BB%E6%9B%9D300%E5%A4%9A%E4%B8%87%E6%96%B0%E6%88%BF%E6%A5%BC%E6%A2%AF%E4%B8%80%E8%B8%A2%E5%B0%B1%E7%A2%8E)
 1. [李阳疯狂英语为什么没落了](https://www.zhihu.com/search?q=%E6%9D%8E%E9%98%B3%E7%96%AF%E7%8B%82%E8%8B%B1%E8%AF%AD%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B2%A1%E8%90%BD%E4%BA%86)
 1. [鸣潮奥古斯塔尤诺实机](https://www.zhihu.com/search?q=%E9%B8%A3%E6%BD%AE%E5%A5%A5%E5%8F%A4%E6%96%AF%E5%A1%94%E5%B0%A4%E8%AF%BA%E5%AE%9E%E6%9C%BA)
+1. [佛山释放不咬人蚊子捕食咬人蚊子](https://www.zhihu.com/search?q=%E4%BD%9B%E5%B1%B1%E9%87%8A%E6%94%BE%E4%B8%8D%E5%92%AC%E4%BA%BA%E8%9A%8A%E5%AD%90%E6%8D%95%E9%A3%9F%E5%92%AC%E4%BA%BA%E8%9A%8A%E5%AD%90)
 
 ## 热门话题
 
