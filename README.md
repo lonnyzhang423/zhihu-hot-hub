@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-08-03 15:25:48 +0800`
+`更新时间：2025-08-03 16:33:31 +0800`
 
 ## 热门搜索
 
@@ -26,7 +26,6 @@
 1. [哀牢山发现7株冥界之花](https://www.zhihu.com/search?q=%E5%93%80%E7%89%A2%E5%B1%B1%E5%8F%91%E7%8E%B07%E6%A0%AA%E5%86%A5%E7%95%8C%E4%B9%8B%E8%8A%B1)
 1. [武大杨景媛毕业论文被疑用AIGC完成](https://www.zhihu.com/search?q=%E6%AD%A6%E5%A4%A7%E6%9D%A8%E6%99%AF%E5%AA%9B%E6%AF%95%E4%B8%9A%E8%AE%BA%E6%96%87%E8%A2%AB%E7%96%91%E7%94%A8AIGC%E5%AE%8C%E6%88%90)
 1. [答主发杨景媛论文造假视频被上门警告](https://www.zhihu.com/search?q=%E7%AD%94%E4%B8%BB%E5%8F%91%E6%9D%A8%E6%99%AF%E5%AA%9B%E8%AE%BA%E6%96%87%E9%80%A0%E5%81%87%E8%A7%86%E9%A2%91%E8%A2%AB%E4%B8%8A%E9%97%A8%E8%AD%A6%E5%91%8A)
-1. [年轻人开始尝试「三明治拒绝法」](https://www.zhihu.com/search?q=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%BC%80%E5%A7%8B%E5%B0%9D%E8%AF%95%E3%80%8C%E4%B8%89%E6%98%8E%E6%B2%BB%E6%8B%92%E7%BB%9D%E6%B3%95%E3%80%8D)
 1. [英国称将于9月承认巴勒斯坦国](https://www.zhihu.com/search?q=%E8%8B%B1%E5%9B%BD%E7%A7%B0%E5%B0%86%E4%BA%8E9%E6%9C%88%E6%89%BF%E8%AE%A4%E5%B7%B4%E5%8B%92%E6%96%AF%E5%9D%A6%E5%9B%BD)
 1. [梁锦文回国投案](https://www.zhihu.com/search?q=%E6%A2%81%E9%94%A6%E6%96%87%E5%9B%9E%E5%9B%BD%E6%8A%95%E6%A1%88)
 1. [肠粉硼砂](https://www.zhihu.com/search?q=%E8%82%A0%E7%B2%89%E7%A1%BC%E7%A0%82)
@@ -38,6 +37,7 @@
 1. [孙颖莎拼好饭](https://www.zhihu.com/search?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E6%8B%BC%E5%A5%BD%E9%A5%AD)
 1. [业主曝300多万新房楼梯一踢就碎](https://www.zhihu.com/search?q=%E4%B8%9A%E4%B8%BB%E6%9B%9D300%E5%A4%9A%E4%B8%87%E6%96%B0%E6%88%BF%E6%A5%BC%E6%A2%AF%E4%B8%80%E8%B8%A2%E5%B0%B1%E7%A2%8E)
 1. [李阳疯狂英语为什么没落了](https://www.zhihu.com/search?q=%E6%9D%8E%E9%98%B3%E7%96%AF%E7%8B%82%E8%8B%B1%E8%AF%AD%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B2%A1%E8%90%BD%E4%BA%86)
+1. [鸣潮奥古斯塔尤诺实机](https://www.zhihu.com/search?q=%E9%B8%A3%E6%BD%AE%E5%A5%A5%E5%8F%A4%E6%96%AF%E5%A1%94%E5%B0%A4%E8%AF%BA%E5%AE%9E%E6%9C%BA)
 
 ## 热门话题
 
