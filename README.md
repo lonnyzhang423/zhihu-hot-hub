@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-08-03 13:33:35 +0800`
+`更新时间：2025-08-03 14:38:19 +0800`
 
 ## 热门搜索
 
@@ -36,6 +36,8 @@
 1. [lg新能源获43亿美元电池供应合同](https://www.zhihu.com/search?q=lg%E6%96%B0%E8%83%BD%E6%BA%90%E8%8E%B743%E4%BA%BF%E7%BE%8E%E5%85%83%E7%94%B5%E6%B1%A0%E4%BE%9B%E5%BA%94%E5%90%88%E5%90%8C)
 1. [大理上空现大量蜘蛛](https://www.zhihu.com/search?q=%E5%A4%A7%E7%90%86%E4%B8%8A%E7%A9%BA%E7%8E%B0%E5%A4%A7%E9%87%8F%E8%9C%98%E8%9B%9B)
 1. [孙颖莎拼好饭](https://www.zhihu.com/search?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E6%8B%BC%E5%A5%BD%E9%A5%AD)
+1. [业主曝300多万新房楼梯一踢就碎](https://www.zhihu.com/search?q=%E4%B8%9A%E4%B8%BB%E6%9B%9D300%E5%A4%9A%E4%B8%87%E6%96%B0%E6%88%BF%E6%A5%BC%E6%A2%AF%E4%B8%80%E8%B8%A2%E5%B0%B1%E7%A2%8E)
+1. [李阳疯狂英语为什么没落了](https://www.zhihu.com/search?q=%E6%9D%8E%E9%98%B3%E7%96%AF%E7%8B%82%E8%8B%B1%E8%AF%AD%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B2%A1%E8%90%BD%E4%BA%86)
 
 ## 热门话题
 
