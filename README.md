@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-08-05 00:38:08 +0800`
+`更新时间：2025-08-05 01:29:52 +0800`
 
 ## 热门搜索
 
-1. [BLG战胜TES](https://www.zhihu.com/search?q=BLG%E6%88%98%E8%83%9CTES)
-1. [男女力量差距真的那么大么](https://www.zhihu.com/search?q=%E7%94%B7%E5%A5%B3%E5%8A%9B%E9%87%8F%E5%B7%AE%E8%B7%9D%E7%9C%9F%E7%9A%84%E9%82%A3%E4%B9%88%E5%A4%A7%E4%B9%88)
+1. [石破茂考虑取消重要惯例](https://www.zhihu.com/search?q=%E7%9F%B3%E7%A0%B4%E8%8C%82%E8%80%83%E8%99%91%E5%8F%96%E6%B6%88%E9%87%8D%E8%A6%81%E6%83%AF%E4%BE%8B)
+1. [暑期档电影总票房已破70亿](https://www.zhihu.com/search?q=%E6%9A%91%E6%9C%9F%E6%A1%A3%E7%94%B5%E5%BD%B1%E6%80%BB%E7%A5%A8%E6%88%BF%E5%B7%B2%E7%A0%B470%E4%BA%BF)
 1. [北京市发布暴雨橙色预警](https://www.zhihu.com/search?q=%E5%8C%97%E4%BA%AC%E5%B8%82%E5%8F%91%E5%B8%83%E6%9A%B4%E9%9B%A8%E6%A9%99%E8%89%B2%E9%A2%84%E8%AD%A6)
 1. [川渝等地高温愈演愈烈](https://www.zhihu.com/search?q=%E5%B7%9D%E6%B8%9D%E7%AD%89%E5%9C%B0%E9%AB%98%E6%B8%A9%E6%84%88%E6%BC%94%E6%84%88%E7%83%88)
 1. [王大雷红牌](https://www.zhihu.com/search?q=%E7%8E%8B%E5%A4%A7%E9%9B%B7%E7%BA%A2%E7%89%8C)
