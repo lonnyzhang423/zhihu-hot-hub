@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-08-04 22:32:23 +0800`
+`更新时间：2025-08-04 23:32:19 +0800`
 
 ## 热门搜索
 
@@ -34,7 +34,6 @@
 1. [女子穿洛丽塔遭华尔道夫酒店驱赶](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E7%A9%BF%E6%B4%9B%E4%B8%BD%E5%A1%94%E9%81%AD%E5%8D%8E%E5%B0%94%E9%81%93%E5%A4%AB%E9%85%92%E5%BA%97%E9%A9%B1%E8%B5%B6)
 1. [快递员儿子放弃北大报考西湖大学](https://www.zhihu.com/search?q=%E5%BF%AB%E9%80%92%E5%91%98%E5%84%BF%E5%AD%90%E6%94%BE%E5%BC%83%E5%8C%97%E5%A4%A7%E6%8A%A5%E8%80%83%E8%A5%BF%E6%B9%96%E5%A4%A7%E5%AD%A6)
 1. [孙兴慜将离开热刺](https://www.zhihu.com/search?q=%E5%AD%99%E5%85%B4%E6%85%9C%E5%B0%86%E7%A6%BB%E5%BC%80%E7%83%AD%E5%88%BA)
-1. [少林寺取消部分收费项目](https://www.zhihu.com/search?q=%E5%B0%91%E6%9E%97%E5%AF%BA%E5%8F%96%E6%B6%88%E9%83%A8%E5%88%86%E6%94%B6%E8%B4%B9%E9%A1%B9%E7%9B%AE)
 1. [海底捞推出人均 700 元的臻选店](https://www.zhihu.com/search?q=%E6%B5%B7%E5%BA%95%E6%8D%9E%E6%8E%A8%E5%87%BA%E4%BA%BA%E5%9D%87%20700%20%E5%85%83%E7%9A%84%E8%87%BB%E9%80%89%E5%BA%97)
 1. [男孩错付车费轻生司机否认不还钱控诉](https://www.zhihu.com/search?q=%E7%94%B7%E5%AD%A9%E9%94%99%E4%BB%98%E8%BD%A6%E8%B4%B9%E8%BD%BB%E7%94%9F%E5%8F%B8%E6%9C%BA%E5%90%A6%E8%AE%A4%E4%B8%8D%E8%BF%98%E9%92%B1%E6%8E%A7%E8%AF%89)
 1. [32头牦牛凌晨过马路被大货车撞死16头](https://www.zhihu.com/search?q=32%E5%A4%B4%E7%89%A6%E7%89%9B%E5%87%8C%E6%99%A8%E8%BF%87%E9%A9%AC%E8%B7%AF%E8%A2%AB%E5%A4%A7%E8%B4%A7%E8%BD%A6%E6%92%9E%E6%AD%BB16%E5%A4%B4)
