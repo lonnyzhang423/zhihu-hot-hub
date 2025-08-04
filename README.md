@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-08-04 12:19:52 +0800`
+`更新时间：2025-08-04 13:41:05 +0800`
 
 ## 热门搜索
 
@@ -34,8 +34,8 @@
 1. [业主曝300多万新房楼梯一踢就碎](https://www.zhihu.com/search?q=%E4%B8%9A%E4%B8%BB%E6%9B%9D300%E5%A4%9A%E4%B8%87%E6%96%B0%E6%88%BF%E6%A5%BC%E6%A2%AF%E4%B8%80%E8%B8%A2%E5%B0%B1%E7%A2%8E)
 1. [鸣潮奥古斯塔尤诺实机](https://www.zhihu.com/search?q=%E9%B8%A3%E6%BD%AE%E5%A5%A5%E5%8F%A4%E6%96%AF%E5%A1%94%E5%B0%A4%E8%AF%BA%E5%AE%9E%E6%9C%BA)
 1. [佛山释放不咬人蚊子捕食咬人蚊子](https://www.zhihu.com/search?q=%E4%BD%9B%E5%B1%B1%E9%87%8A%E6%94%BE%E4%B8%8D%E5%92%AC%E4%BA%BA%E8%9A%8A%E5%AD%90%E6%8D%95%E9%A3%9F%E5%92%AC%E4%BA%BA%E8%9A%8A%E5%AD%90)
-1. [ACL2025最佳论文](https://www.zhihu.com/search?q=ACL2025%E6%9C%80%E4%BD%B3%E8%AE%BA%E6%96%87)
 1. [李明德被判有期徒刑六个月](https://www.zhihu.com/search?q=%E6%9D%8E%E6%98%8E%E5%BE%B7%E8%A2%AB%E5%88%A4%E6%9C%89%E6%9C%9F%E5%BE%92%E5%88%91%E5%85%AD%E4%B8%AA%E6%9C%88)
+1. [老人用狗试毒蘑菇结果狗没事全家仍中毒](https://www.zhihu.com/search?q=%E8%80%81%E4%BA%BA%E7%94%A8%E7%8B%97%E8%AF%95%E6%AF%92%E8%98%91%E8%8F%87%E7%BB%93%E6%9E%9C%E7%8B%97%E6%B2%A1%E4%BA%8B%E5%85%A8%E5%AE%B6%E4%BB%8D%E4%B8%AD%E6%AF%92)
 
 ## 热门话题
 
