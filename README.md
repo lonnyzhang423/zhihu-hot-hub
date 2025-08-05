@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-08-05 20:27:54 +0800`
+`更新时间：2025-08-05 21:36:27 +0800`
 
 ## 热门搜索
 
@@ -35,6 +35,7 @@
 1. [电影731定档918](https://www.zhihu.com/search?q=%E7%94%B5%E5%BD%B1731%E5%AE%9A%E6%A1%A3918)
 1. [云南发现最大天牛](https://www.zhihu.com/search?q=%E4%BA%91%E5%8D%97%E5%8F%91%E7%8E%B0%E6%9C%80%E5%A4%A7%E5%A4%A9%E7%89%9B)
 1. [小朋友高铁被发试卷秒静音](https://www.zhihu.com/search?q=%E5%B0%8F%E6%9C%8B%E5%8F%8B%E9%AB%98%E9%93%81%E8%A2%AB%E5%8F%91%E8%AF%95%E5%8D%B7%E7%A7%92%E9%9D%99%E9%9F%B3)
+1. [731预告片提醒未满18岁谨慎观看](https://www.zhihu.com/search?q=731%E9%A2%84%E5%91%8A%E7%89%87%E6%8F%90%E9%86%92%E6%9C%AA%E6%BB%A118%E5%B2%81%E8%B0%A8%E6%85%8E%E8%A7%82%E7%9C%8B)
 
 ## 热门话题
 
