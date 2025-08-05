@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-08-05 21:50:14 +0800`
+`更新时间：2025-08-05 22:32:07 +0800`
 
 ## 热门搜索
 
@@ -28,14 +28,15 @@
 1. [苏超镇江vs南通](https://www.zhihu.com/search?q=%E8%8B%8F%E8%B6%85%E9%95%87%E6%B1%9Fvs%E5%8D%97%E9%80%9A)
 1. [我国发现最深海底生命群落](https://www.zhihu.com/search?q=%E6%88%91%E5%9B%BD%E5%8F%91%E7%8E%B0%E6%9C%80%E6%B7%B1%E6%B5%B7%E5%BA%95%E7%94%9F%E5%91%BD%E7%BE%A4%E8%90%BD)
 1. [女子脚被扎伤后长出癌中之王](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E8%84%9A%E8%A2%AB%E6%89%8E%E4%BC%A4%E5%90%8E%E9%95%BF%E5%87%BA%E7%99%8C%E4%B8%AD%E4%B9%8B%E7%8E%8B)
+1. [潘长江演短剧：阔太爱上60岁保洁](https://www.zhihu.com/search?q=%E6%BD%98%E9%95%BF%E6%B1%9F%E6%BC%94%E7%9F%AD%E5%89%A7%EF%BC%9A%E9%98%94%E5%A4%AA%E7%88%B1%E4%B8%8A60%E5%B2%81%E4%BF%9D%E6%B4%81)
 1. [亮证事件民警上门未发现违法违规程序失当](https://www.zhihu.com/search?q=%E4%BA%AE%E8%AF%81%E4%BA%8B%E4%BB%B6%E6%B0%91%E8%AD%A6%E4%B8%8A%E9%97%A8%E6%9C%AA%E5%8F%91%E7%8E%B0%E8%BF%9D%E6%B3%95%E8%BF%9D%E8%A7%84%E7%A8%8B%E5%BA%8F%E5%A4%B1%E5%BD%93)
+1. [银河酷娱就赵露思控诉发表声明](https://www.zhihu.com/search?q=%E9%93%B6%E6%B2%B3%E9%85%B7%E5%A8%B1%E5%B0%B1%E8%B5%B5%E9%9C%B2%E6%80%9D%E6%8E%A7%E8%AF%89%E5%8F%91%E8%A1%A8%E5%A3%B0%E6%98%8E)
 1. [倪萍说董璇不应该结婚](https://www.zhihu.com/search?q=%E5%80%AA%E8%90%8D%E8%AF%B4%E8%91%A3%E7%92%87%E4%B8%8D%E5%BA%94%E8%AF%A5%E7%BB%93%E5%A9%9A)
 1. [阿尔特曼称对即将推出的GPT5感到恐惧](https://www.zhihu.com/search?q=%E9%98%BF%E5%B0%94%E7%89%B9%E6%9B%BC%E7%A7%B0%E5%AF%B9%E5%8D%B3%E5%B0%86%E6%8E%A8%E5%87%BA%E7%9A%84GPT5%E6%84%9F%E5%88%B0%E6%81%90%E6%83%A7)
 1. [7月电费](https://www.zhihu.com/search?q=7%E6%9C%88%E7%94%B5%E8%B4%B9)
 1. [电影731定档918](https://www.zhihu.com/search?q=%E7%94%B5%E5%BD%B1731%E5%AE%9A%E6%A1%A3918)
 1. [云南发现最大天牛](https://www.zhihu.com/search?q=%E4%BA%91%E5%8D%97%E5%8F%91%E7%8E%B0%E6%9C%80%E5%A4%A7%E5%A4%A9%E7%89%9B)
 1. [小朋友高铁被发试卷秒静音](https://www.zhihu.com/search?q=%E5%B0%8F%E6%9C%8B%E5%8F%8B%E9%AB%98%E9%93%81%E8%A2%AB%E5%8F%91%E8%AF%95%E5%8D%B7%E7%A7%92%E9%9D%99%E9%9F%B3)
-1. [731预告片提醒未满18岁谨慎观看](https://www.zhihu.com/search?q=731%E9%A2%84%E5%91%8A%E7%89%87%E6%8F%90%E9%86%92%E6%9C%AA%E6%BB%A118%E5%B2%81%E8%B0%A8%E6%85%8E%E8%A7%82%E7%9C%8B)
 
 ## 热门话题
 
