@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-08-06 01:13:12 +0800`
+`更新时间：2025-08-06 02:20:40 +0800`
 
 ## 热门搜索
 
@@ -38,6 +38,7 @@
 1. [网红景点5人被水冲走](https://www.zhihu.com/search?q=%E7%BD%91%E7%BA%A2%E6%99%AF%E7%82%B95%E4%BA%BA%E8%A2%AB%E6%B0%B4%E5%86%B2%E8%B5%B0)
 1. [苏超盐城vs常州](https://www.zhihu.com/search?q=%E8%8B%8F%E8%B6%85%E7%9B%90%E5%9F%8Evs%E5%B8%B8%E5%B7%9E)
 1. [苏超盐城5：0常州](https://www.zhihu.com/search?q=%E8%8B%8F%E8%B6%85%E7%9B%90%E5%9F%8E5%EF%BC%9A0%E5%B8%B8%E5%B7%9E)
+1. [常州队8战0胜仍未进球](https://www.zhihu.com/search?q=%E5%B8%B8%E5%B7%9E%E9%98%9F8%E6%88%980%E8%83%9C%E4%BB%8D%E6%9C%AA%E8%BF%9B%E7%90%83)
 
 ## 热门话题
 
