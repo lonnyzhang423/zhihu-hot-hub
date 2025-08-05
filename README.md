@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-08-05 15:32:56 +0800`
+`更新时间：2025-08-05 16:38:45 +0800`
 
 ## 热门搜索
 
@@ -28,7 +28,6 @@
 1. [北京市发布暴雨红色预警](https://www.zhihu.com/search?q=%E5%8C%97%E4%BA%AC%E5%B8%82%E5%8F%91%E5%B8%83%E6%9A%B4%E9%9B%A8%E7%BA%A2%E8%89%B2%E9%A2%84%E8%AD%A6)
 1. [千岛群岛发生6.5级地震](https://www.zhihu.com/search?q=%E5%8D%83%E5%B2%9B%E7%BE%A4%E5%B2%9B%E5%8F%91%E7%94%9F6.5%E7%BA%A7%E5%9C%B0%E9%9C%87)
 1. [公司约定的不缴社保无效](https://www.zhihu.com/search?q=%E5%85%AC%E5%8F%B8%E7%BA%A6%E5%AE%9A%E7%9A%84%E4%B8%8D%E7%BC%B4%E7%A4%BE%E4%BF%9D%E6%97%A0%E6%95%88)
-1. [江西物理老师自制“等离子炮”走红](https://www.zhihu.com/search?q=%E6%B1%9F%E8%A5%BF%E7%89%A9%E7%90%86%E8%80%81%E5%B8%88%E8%87%AA%E5%88%B6%E2%80%9C%E7%AD%89%E7%A6%BB%E5%AD%90%E7%82%AE%E2%80%9D%E8%B5%B0%E7%BA%A2)
 1. [武汉大学复核对肖某某纪律处分](https://www.zhihu.com/search?q=%E6%AD%A6%E6%B1%89%E5%A4%A7%E5%AD%A6%E5%A4%8D%E6%A0%B8%E5%AF%B9%E8%82%96%E6%9F%90%E6%9F%90%E7%BA%AA%E5%BE%8B%E5%A4%84%E5%88%86)
 1. [武大将调查复核杨某某学位论文](https://www.zhihu.com/search?q=%E6%AD%A6%E5%A4%A7%E5%B0%86%E8%B0%83%E6%9F%A5%E5%A4%8D%E6%A0%B8%E6%9D%A8%E6%9F%90%E6%9F%90%E5%AD%A6%E4%BD%8D%E8%AE%BA%E6%96%87)
 1. [女子穿洛丽塔遭华尔道夫酒店驱赶](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E7%A9%BF%E6%B4%9B%E4%B8%BD%E5%A1%94%E9%81%AD%E5%8D%8E%E5%B0%94%E9%81%93%E5%A4%AB%E9%85%92%E5%BA%97%E9%A9%B1%E8%B5%B6)
@@ -38,6 +37,7 @@
 1. [赵露思](https://www.zhihu.com/search?q=%E8%B5%B5%E9%9C%B2%E6%80%9D)
 1. [苏超镇江vs南通](https://www.zhihu.com/search?q=%E8%8B%8F%E8%B6%85%E9%95%87%E6%B1%9Fvs%E5%8D%97%E9%80%9A)
 1. [我国发现最深海底生命群落](https://www.zhihu.com/search?q=%E6%88%91%E5%9B%BD%E5%8F%91%E7%8E%B0%E6%9C%80%E6%B7%B1%E6%B5%B7%E5%BA%95%E7%94%9F%E5%91%BD%E7%BE%A4%E8%90%BD)
+1. [女子脚被扎伤后长出癌中之王](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E8%84%9A%E8%A2%AB%E6%89%8E%E4%BC%A4%E5%90%8E%E9%95%BF%E5%87%BA%E7%99%8C%E4%B8%AD%E4%B9%8B%E7%8E%8B)
 
 ## 热门话题
 
