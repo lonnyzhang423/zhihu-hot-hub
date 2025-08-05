@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-08-06 05:12:52 +0800`
+`更新时间：2025-08-06 06:13:47 +0800`
 
 ## 热门搜索
 
@@ -37,8 +37,7 @@
 1. [东契奇大幅减重严格控制饮食](https://www.zhihu.com/search?q=%E4%B8%9C%E5%A5%91%E5%A5%87%E5%A4%A7%E5%B9%85%E5%87%8F%E9%87%8D%E4%B8%A5%E6%A0%BC%E6%8E%A7%E5%88%B6%E9%A5%AE%E9%A3%9F)
 1. [网红景点5人被水冲走](https://www.zhihu.com/search?q=%E7%BD%91%E7%BA%A2%E6%99%AF%E7%82%B95%E4%BA%BA%E8%A2%AB%E6%B0%B4%E5%86%B2%E8%B5%B0)
 1. [苏超盐城vs常州](https://www.zhihu.com/search?q=%E8%8B%8F%E8%B6%85%E7%9B%90%E5%9F%8Evs%E5%B8%B8%E5%B7%9E)
-1. [苏超盐城5：0常州](https://www.zhihu.com/search?q=%E8%8B%8F%E8%B6%85%E7%9B%90%E5%9F%8E5%EF%BC%9A0%E5%B8%B8%E5%B7%9E)
-1. [常州队8战0胜仍未进球](https://www.zhihu.com/search?q=%E5%B8%B8%E5%B7%9E%E9%98%9F8%E6%88%980%E8%83%9C%E4%BB%8D%E6%9C%AA%E8%BF%9B%E7%90%83)
+1. [理想汽车回应卡车碰撞测试](https://www.zhihu.com/search?q=%E7%90%86%E6%83%B3%E6%B1%BD%E8%BD%A6%E5%9B%9E%E5%BA%94%E5%8D%A1%E8%BD%A6%E7%A2%B0%E6%92%9E%E6%B5%8B%E8%AF%95)
 
 ## 热门话题
 
