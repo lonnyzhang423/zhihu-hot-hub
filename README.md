@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-08-06 12:37:59 +0800`
+`更新时间：2025-08-06 13:24:45 +0800`
 
 ## 热门搜索
 
-1. [短剧折腰开拍](https://www.zhihu.com/search?q=%E7%9F%AD%E5%89%A7%E6%8A%98%E8%85%B0%E5%BC%80%E6%8B%8D)
+1. [薛之谦新歌](https://www.zhihu.com/search?q=%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%96%B0%E6%AD%8C)
+1. [什么叫演戏用力过猛](https://www.zhihu.com/search?q=%E4%BB%80%E4%B9%88%E5%8F%AB%E6%BC%94%E6%88%8F%E7%94%A8%E5%8A%9B%E8%BF%87%E7%8C%9B)
 1. [男女力量差距真的那么大么](https://www.zhihu.com/search?q=%E7%94%B7%E5%A5%B3%E5%8A%9B%E9%87%8F%E5%B7%AE%E8%B7%9D%E7%9C%9F%E7%9A%84%E9%82%A3%E4%B9%88%E5%A4%A7%E4%B9%88)
 1. [我国成功发射卫星互联网低轨卫星](https://www.zhihu.com/search?q=%E6%88%91%E5%9B%BD%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84%E5%8D%AB%E6%98%9F%E4%BA%92%E8%81%94%E7%BD%91%E4%BD%8E%E8%BD%A8%E5%8D%AB%E6%98%9F)
 1. [逐步推行免费学前教育](https://www.zhihu.com/search?q=%E9%80%90%E6%AD%A5%E6%8E%A8%E8%A1%8C%E5%85%8D%E8%B4%B9%E5%AD%A6%E5%89%8D%E6%95%99%E8%82%B2)
