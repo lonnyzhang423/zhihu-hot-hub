@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-08-06 13:36:41 +0800`
+`更新时间：2025-08-06 14:43:56 +0800`
 
 ## 热门搜索
 
-1. [薛之谦新歌](https://www.zhihu.com/search?q=%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%96%B0%E6%AD%8C)
-1. [什么叫演戏用力过猛](https://www.zhihu.com/search?q=%E4%BB%80%E4%B9%88%E5%8F%AB%E6%BC%94%E6%88%8F%E7%94%A8%E5%8A%9B%E8%BF%87%E7%8C%9B)
+1. [千岛群岛以东海域发生6.2级地震](https://www.zhihu.com/search?q=%E5%8D%83%E5%B2%9B%E7%BE%A4%E5%B2%9B%E4%BB%A5%E4%B8%9C%E6%B5%B7%E5%9F%9F%E5%8F%91%E7%94%9F6.2%E7%BA%A7%E5%9C%B0%E9%9C%87)
+1. [肖战每年都无缝进组](https://www.zhihu.com/search?q=%E8%82%96%E6%88%98%E6%AF%8F%E5%B9%B4%E9%83%BD%E6%97%A0%E7%BC%9D%E8%BF%9B%E7%BB%84)
 1. [男女力量差距真的那么大么](https://www.zhihu.com/search?q=%E7%94%B7%E5%A5%B3%E5%8A%9B%E9%87%8F%E5%B7%AE%E8%B7%9D%E7%9C%9F%E7%9A%84%E9%82%A3%E4%B9%88%E5%A4%A7%E4%B9%88)
 1. [我国成功发射卫星互联网低轨卫星](https://www.zhihu.com/search?q=%E6%88%91%E5%9B%BD%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84%E5%8D%AB%E6%98%9F%E4%BA%92%E8%81%94%E7%BD%91%E4%BD%8E%E8%BD%A8%E5%8D%AB%E6%98%9F)
 1. [逐步推行免费学前教育](https://www.zhihu.com/search?q=%E9%80%90%E6%AD%A5%E6%8E%A8%E8%A1%8C%E5%85%8D%E8%B4%B9%E5%AD%A6%E5%89%8D%E6%95%99%E8%82%B2)
@@ -29,14 +29,13 @@
 1. [银河酷娱就赵露思控诉发表声明](https://www.zhihu.com/search?q=%E9%93%B6%E6%B2%B3%E9%85%B7%E5%A8%B1%E5%B0%B1%E8%B5%B5%E9%9C%B2%E6%80%9D%E6%8E%A7%E8%AF%89%E5%8F%91%E8%A1%A8%E5%A3%B0%E6%98%8E)
 1. [倪萍说董璇不应该结婚](https://www.zhihu.com/search?q=%E5%80%AA%E8%90%8D%E8%AF%B4%E8%91%A3%E7%92%87%E4%B8%8D%E5%BA%94%E8%AF%A5%E7%BB%93%E5%A9%9A)
 1. [7月电费](https://www.zhihu.com/search?q=7%E6%9C%88%E7%94%B5%E8%B4%B9)
-1. [电影731定档918](https://www.zhihu.com/search?q=%E7%94%B5%E5%BD%B1731%E5%AE%9A%E6%A1%A3918)
 1. [云南发现最大天牛](https://www.zhihu.com/search?q=%E4%BA%91%E5%8D%97%E5%8F%91%E7%8E%B0%E6%9C%80%E5%A4%A7%E5%A4%A9%E7%89%9B)
-1. [小朋友高铁被发试卷秒静音](https://www.zhihu.com/search?q=%E5%B0%8F%E6%9C%8B%E5%8F%8B%E9%AB%98%E9%93%81%E8%A2%AB%E5%8F%91%E8%AF%95%E5%8D%B7%E7%A7%92%E9%9D%99%E9%9F%B3)
-1. [731预告片提醒未满18岁谨慎观看](https://www.zhihu.com/search?q=731%E9%A2%84%E5%91%8A%E7%89%87%E6%8F%90%E9%86%92%E6%9C%AA%E6%BB%A118%E5%B2%81%E8%B0%A8%E6%85%8E%E8%A7%82%E7%9C%8B)
 1. [东契奇大幅减重严格控制饮食](https://www.zhihu.com/search?q=%E4%B8%9C%E5%A5%91%E5%A5%87%E5%A4%A7%E5%B9%85%E5%87%8F%E9%87%8D%E4%B8%A5%E6%A0%BC%E6%8E%A7%E5%88%B6%E9%A5%AE%E9%A3%9F)
 1. [网红景点5人被水冲走](https://www.zhihu.com/search?q=%E7%BD%91%E7%BA%A2%E6%99%AF%E7%82%B95%E4%BA%BA%E8%A2%AB%E6%B0%B4%E5%86%B2%E8%B5%B0)
 1. [苏超盐城vs常州](https://www.zhihu.com/search?q=%E8%8B%8F%E8%B6%85%E7%9B%90%E5%9F%8Evs%E5%B8%B8%E5%B7%9E)
 1. [理想汽车回应卡车碰撞测试](https://www.zhihu.com/search?q=%E7%90%86%E6%83%B3%E6%B1%BD%E8%BD%A6%E5%9B%9E%E5%BA%94%E5%8D%A1%E8%BD%A6%E7%A2%B0%E6%92%9E%E6%B5%8B%E8%AF%95)
+1. [中国留学生赴海外考公](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E8%B5%B4%E6%B5%B7%E5%A4%96%E8%80%83%E5%85%AC)
+1. [韩国汉江惊现巨型不明物体](https://www.zhihu.com/search?q=%E9%9F%A9%E5%9B%BD%E6%B1%89%E6%B1%9F%E6%83%8A%E7%8E%B0%E5%B7%A8%E5%9E%8B%E4%B8%8D%E6%98%8E%E7%89%A9%E4%BD%93)
 
 ## 热门话题
 
