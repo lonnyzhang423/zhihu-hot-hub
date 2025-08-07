@@ -11,14 +11,13 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-08-07 21:35:32 +0800`
+`更新时间：2025-08-07 22:17:39 +0800`
 
 ## 热门搜索
 
 1. [什么叫演戏用力过猛](https://www.zhihu.com/search?q=%E4%BB%80%E4%B9%88%E5%8F%AB%E6%BC%94%E6%88%8F%E7%94%A8%E5%8A%9B%E8%BF%87%E7%8C%9B)
 1. [男女力量差距真的那么大么](https://www.zhihu.com/search?q=%E7%94%B7%E5%A5%B3%E5%8A%9B%E9%87%8F%E5%B7%AE%E8%B7%9D%E7%9C%9F%E7%9A%84%E9%82%A3%E4%B9%88%E5%A4%A7%E4%B9%88)
 1. [郑州暴雨](https://www.zhihu.com/search?q=%E9%83%91%E5%B7%9E%E6%9A%B4%E9%9B%A8)
-1. [逐步推行免费学前教育](https://www.zhihu.com/search?q=%E9%80%90%E6%AD%A5%E6%8E%A8%E8%A1%8C%E5%85%8D%E8%B4%B9%E5%AD%A6%E5%89%8D%E6%95%99%E8%82%B2)
 1. [人的大脑会不会出现「过拟合」病](https://www.zhihu.com/search?q=%E4%BA%BA%E7%9A%84%E5%A4%A7%E8%84%91%E4%BC%9A%E4%B8%8D%E4%BC%9A%E5%87%BA%E7%8E%B0%E3%80%8C%E8%BF%87%E6%8B%9F%E5%90%88%E3%80%8D%E7%97%85)
 1. [你卡过最厉害的 bug 是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E5%8D%A1%E8%BF%87%E6%9C%80%E5%8E%89%E5%AE%B3%E7%9A%84%20bug%20%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [专家称高温热黑比紫外线更伤皮肤](https://www.zhihu.com/search?q=%E4%B8%93%E5%AE%B6%E7%A7%B0%E9%AB%98%E6%B8%A9%E7%83%AD%E9%BB%91%E6%AF%94%E7%B4%AB%E5%A4%96%E7%BA%BF%E6%9B%B4%E4%BC%A4%E7%9A%AE%E8%82%A4)
@@ -39,6 +38,7 @@
 1. [每天1杯无糖饮料患糖尿病风险增38%](https://www.zhihu.com/search?q=%E6%AF%8F%E5%A4%A91%E6%9D%AF%E6%97%A0%E7%B3%96%E9%A5%AE%E6%96%99%E6%82%A3%E7%B3%96%E5%B0%BF%E7%97%85%E9%A3%8E%E9%99%A9%E5%A2%9E38%25)
 1. [女子赡养舅舅28年获赠房产被起诉](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E8%B5%A1%E5%85%BB%E8%88%85%E8%88%8528%E5%B9%B4%E8%8E%B7%E8%B5%A0%E6%88%BF%E4%BA%A7%E8%A2%AB%E8%B5%B7%E8%AF%89)
 1. [14岁女孩遭殴打两人被送学校矫正](https://www.zhihu.com/search?q=14%E5%B2%81%E5%A5%B3%E5%AD%A9%E9%81%AD%E6%AE%B4%E6%89%93%E4%B8%A4%E4%BA%BA%E8%A2%AB%E9%80%81%E5%AD%A6%E6%A0%A1%E7%9F%AB%E6%AD%A3)
+1. [美国对瑞士征收39%关税](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E5%AF%B9%E7%91%9E%E5%A3%AB%E5%BE%81%E6%94%B639%25%E5%85%B3%E7%A8%8E)
 
 ## 热门话题
 
