@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-08-07 14:43:43 +0800`
+`更新时间：2025-08-07 15:31:50 +0800`
 
 ## 热门搜索
 
-1. [山姆给产品贴洋牌制造进口平替](https://www.zhihu.com/search?q=%E5%B1%B1%E5%A7%86%E7%BB%99%E4%BA%A7%E5%93%81%E8%B4%B4%E6%B4%8B%E7%89%8C%E5%88%B6%E9%80%A0%E8%BF%9B%E5%8F%A3%E5%B9%B3%E6%9B%BF)
-1. [免除公办幼儿园学前一年保教费有哪些影响](https://www.zhihu.com/search?q=%E5%85%8D%E9%99%A4%E5%85%AC%E5%8A%9E%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%AD%A6%E5%89%8D%E4%B8%80%E5%B9%B4%E4%BF%9D%E6%95%99%E8%B4%B9%E6%9C%89%E5%93%AA%E4%BA%9B%E5%BD%B1%E5%93%8D)
+1. [什么叫演戏用力过猛](https://www.zhihu.com/search?q=%E4%BB%80%E4%B9%88%E5%8F%AB%E6%BC%94%E6%88%8F%E7%94%A8%E5%8A%9B%E8%BF%87%E7%8C%9B)
+1. [男女力量差距真的那么大么](https://www.zhihu.com/search?q=%E7%94%B7%E5%A5%B3%E5%8A%9B%E9%87%8F%E5%B7%AE%E8%B7%9D%E7%9C%9F%E7%9A%84%E9%82%A3%E4%B9%88%E5%A4%A7%E4%B9%88)
 1. [郑州暴雨](https://www.zhihu.com/search?q=%E9%83%91%E5%B7%9E%E6%9A%B4%E9%9B%A8)
 1. [逐步推行免费学前教育](https://www.zhihu.com/search?q=%E9%80%90%E6%AD%A5%E6%8E%A8%E8%A1%8C%E5%85%8D%E8%B4%B9%E5%AD%A6%E5%89%8D%E6%95%99%E8%82%B2)
 1. [人的大脑会不会出现「过拟合」病](https://www.zhihu.com/search?q=%E4%BA%BA%E7%9A%84%E5%A4%A7%E8%84%91%E4%BC%9A%E4%B8%8D%E4%BC%9A%E5%87%BA%E7%8E%B0%E3%80%8C%E8%BF%87%E6%8B%9F%E5%90%88%E3%80%8D%E7%97%85)
@@ -38,7 +38,7 @@
 1. [浪浪山小妖怪伏笔](https://www.zhihu.com/search?q=%E6%B5%AA%E6%B5%AA%E5%B1%B1%E5%B0%8F%E5%A6%96%E6%80%AA%E4%BC%8F%E7%AC%94)
 1. [姜文电影《你行你上》为何遇冷](https://www.zhihu.com/search?q=%E5%A7%9C%E6%96%87%E7%94%B5%E5%BD%B1%E3%80%8A%E4%BD%A0%E8%A1%8C%E4%BD%A0%E4%B8%8A%E3%80%8B%E4%B8%BA%E4%BD%95%E9%81%87%E5%86%B7)
 1. [许倬云去世](https://www.zhihu.com/search?q=%E8%AE%B8%E5%80%AC%E4%BA%91%E5%8E%BB%E4%B8%96)
-1. [外卖店靠 AI 照片伪造大门店引流](https://www.zhihu.com/search?q=%E5%A4%96%E5%8D%96%E5%BA%97%E9%9D%A0%20AI%20%E7%85%A7%E7%89%87%E4%BC%AA%E9%80%A0%E5%A4%A7%E9%97%A8%E5%BA%97%E5%BC%95%E6%B5%81)
+1. [每天1杯无糖饮料患糖尿病风险增38%](https://www.zhihu.com/search?q=%E6%AF%8F%E5%A4%A91%E6%9D%AF%E6%97%A0%E7%B3%96%E9%A5%AE%E6%96%99%E6%82%A3%E7%B3%96%E5%B0%BF%E7%97%85%E9%A3%8E%E9%99%A9%E5%A2%9E38%25)
 
 ## 热门话题
 
