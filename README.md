@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-08-08 22:29:00 +0800`
+`更新时间：2025-08-08 23:30:25 +0800`
 
 ## 热门搜索
 
-1. [什么叫演戏用力过猛](https://www.zhihu.com/search?q=%E4%BB%80%E4%B9%88%E5%8F%AB%E6%BC%94%E6%88%8F%E7%94%A8%E5%8A%9B%E8%BF%87%E7%8C%9B)
+1. [林诗栋3-1林昀儒顺利晋级](https://www.zhihu.com/search?q=%E6%9E%97%E8%AF%97%E6%A0%8B3-1%E6%9E%97%E6%98%80%E5%84%92%E9%A1%BA%E5%88%A9%E6%99%8B%E7%BA%A7)
+1. [保育教育费按照什么标准免](https://www.zhihu.com/search?q=%E4%BF%9D%E8%82%B2%E6%95%99%E8%82%B2%E8%B4%B9%E6%8C%89%E7%85%A7%E4%BB%80%E4%B9%88%E6%A0%87%E5%87%86%E5%85%8D)
 1. [人的大脑会不会出现「过拟合」病](https://www.zhihu.com/search?q=%E4%BA%BA%E7%9A%84%E5%A4%A7%E8%84%91%E4%BC%9A%E4%B8%8D%E4%BC%9A%E5%87%BA%E7%8E%B0%E3%80%8C%E8%BF%87%E6%8B%9F%E5%90%88%E3%80%8D%E7%97%85)
 1. [你卡过最厉害的 bug 是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E5%8D%A1%E8%BF%87%E6%9C%80%E5%8E%89%E5%AE%B3%E7%9A%84%20bug%20%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [专家称高温热黑比紫外线更伤皮肤](https://www.zhihu.com/search?q=%E4%B8%93%E5%AE%B6%E7%A7%B0%E9%AB%98%E6%B8%A9%E7%83%AD%E9%BB%91%E6%AF%94%E7%B4%AB%E5%A4%96%E7%BA%BF%E6%9B%B4%E4%BC%A4%E7%9A%AE%E8%82%A4)
@@ -32,9 +33,9 @@
 1. [中餐和西餐哪个油腻](https://www.zhihu.com/search?q=%E4%B8%AD%E9%A4%90%E5%92%8C%E8%A5%BF%E9%A4%90%E5%93%AA%E4%B8%AA%E6%B2%B9%E8%85%BB)
 1. [为何明知抽烟有害健康还有那么多人抽](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BD%95%E6%98%8E%E7%9F%A5%E6%8A%BD%E7%83%9F%E6%9C%89%E5%AE%B3%E5%81%A5%E5%BA%B7%E8%BF%98%E6%9C%89%E9%82%A3%E4%B9%88%E5%A4%9A%E4%BA%BA%E6%8A%BD)
 1. [A 股创近 10 个月新高](https://www.zhihu.com/search?q=A%20%E8%82%A1%E5%88%9B%E8%BF%91%2010%20%E4%B8%AA%E6%9C%88%E6%96%B0%E9%AB%98)
+1. [青岛海螺大爆发 潜水员3小时赚3500](https://www.zhihu.com/search?q=%E9%9D%92%E5%B2%9B%E6%B5%B7%E8%9E%BA%E5%A4%A7%E7%88%86%E5%8F%91%20%E6%BD%9C%E6%B0%B4%E5%91%983%E5%B0%8F%E6%97%B6%E8%B5%9A3500)
 1. [华为宣布CANN全面开源开放](https://www.zhihu.com/search?q=%E5%8D%8E%E4%B8%BA%E5%AE%A3%E5%B8%83CANN%E5%85%A8%E9%9D%A2%E5%BC%80%E6%BA%90%E5%BC%80%E6%94%BE)
 1. [深圳华强北叫停小孩哥代送外卖](https://www.zhihu.com/search?q=%E6%B7%B1%E5%9C%B3%E5%8D%8E%E5%BC%BA%E5%8C%97%E5%8F%AB%E5%81%9C%E5%B0%8F%E5%AD%A9%E5%93%A5%E4%BB%A3%E9%80%81%E5%A4%96%E5%8D%96)
-1. [贾冰暴瘦被说面相吓人不宜演喜剧](https://www.zhihu.com/search?q=%E8%B4%BE%E5%86%B0%E6%9A%B4%E7%98%A6%E8%A2%AB%E8%AF%B4%E9%9D%A2%E7%9B%B8%E5%90%93%E4%BA%BA%E4%B8%8D%E5%AE%9C%E6%BC%94%E5%96%9C%E5%89%A7)
 
 ## 热门话题
 
