@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-08-08 15:31:51 +0800`
+`更新时间：2025-08-08 16:37:53 +0800`
 
 ## 热门搜索
 
@@ -24,7 +24,6 @@
 1. [14岁女孩遭殴打两人被送学校矫正](https://www.zhihu.com/search?q=14%E5%B2%81%E5%A5%B3%E5%AD%A9%E9%81%AD%E6%AE%B4%E6%89%93%E4%B8%A4%E4%BA%BA%E8%A2%AB%E9%80%81%E5%AD%A6%E6%A0%A1%E7%9F%AB%E6%AD%A3)
 1. [土豆的妈妈是番茄](https://www.zhihu.com/search?q=%E5%9C%9F%E8%B1%86%E7%9A%84%E5%A6%88%E5%A6%88%E6%98%AF%E7%95%AA%E8%8C%84)
 1. [湖南一村小开设心智素养课](https://www.zhihu.com/search?q=%E6%B9%96%E5%8D%97%E4%B8%80%E6%9D%91%E5%B0%8F%E5%BC%80%E8%AE%BE%E5%BF%83%E6%99%BA%E7%B4%A0%E5%85%BB%E8%AF%BE)
-1. [《群星，我的归宿》将改编动画](https://www.zhihu.com/search?q=%E3%80%8A%E7%BE%A4%E6%98%9F%EF%BC%8C%E6%88%91%E7%9A%84%E5%BD%92%E5%AE%BF%E3%80%8B%E5%B0%86%E6%94%B9%E7%BC%96%E5%8A%A8%E7%94%BB)
 1. [男子戴金属项链进入核磁共振室后身亡](https://www.zhihu.com/search?q=%E7%94%B7%E5%AD%90%E6%88%B4%E9%87%91%E5%B1%9E%E9%A1%B9%E9%93%BE%E8%BF%9B%E5%85%A5%E6%A0%B8%E7%A3%81%E5%85%B1%E6%8C%AF%E5%AE%A4%E5%90%8E%E8%BA%AB%E4%BA%A1)
 1. [如何解读中国汽研对理想 i8 测试的声明](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%A7%A3%E8%AF%BB%E4%B8%AD%E5%9B%BD%E6%B1%BD%E7%A0%94%E5%AF%B9%E7%90%86%E6%83%B3%20i8%20%E6%B5%8B%E8%AF%95%E7%9A%84%E5%A3%B0%E6%98%8E)
 1. [为什么一个月宝宝不能只喂米糊](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%80%E4%B8%AA%E6%9C%88%E5%AE%9D%E5%AE%9D%E4%B8%8D%E8%83%BD%E5%8F%AA%E5%96%82%E7%B1%B3%E7%B3%8A)
@@ -37,6 +36,7 @@
 1. [为何明知抽烟有害健康还有那么多人抽](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BD%95%E6%98%8E%E7%9F%A5%E6%8A%BD%E7%83%9F%E6%9C%89%E5%AE%B3%E5%81%A5%E5%BA%B7%E8%BF%98%E6%9C%89%E9%82%A3%E4%B9%88%E5%A4%9A%E4%BA%BA%E6%8A%BD)
 1. [A 股创近 10 个月新高](https://www.zhihu.com/search?q=A%20%E8%82%A1%E5%88%9B%E8%BF%91%2010%20%E4%B8%AA%E6%9C%88%E6%96%B0%E9%AB%98)
 1. [金融支持新型工业化的指导意见](https://www.zhihu.com/search?q=%E9%87%91%E8%9E%8D%E6%94%AF%E6%8C%81%E6%96%B0%E5%9E%8B%E5%B7%A5%E4%B8%9A%E5%8C%96%E7%9A%84%E6%8C%87%E5%AF%BC%E6%84%8F%E8%A7%81)
+1. [男子卖4根金条6张银行卡被封](https://www.zhihu.com/search?q=%E7%94%B7%E5%AD%90%E5%8D%964%E6%A0%B9%E9%87%91%E6%9D%A16%E5%BC%A0%E9%93%B6%E8%A1%8C%E5%8D%A1%E8%A2%AB%E5%B0%81)
 
 ## 热门话题
 
