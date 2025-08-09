@@ -11,13 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-08-09 22:24:19 +0800`
+`更新时间：2025-08-09 23:26:08 +0800`
 
 ## 热门搜索
 
 1. [你卡过最厉害的 bug 是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E5%8D%A1%E8%BF%87%E6%9C%80%E5%8E%89%E5%AE%B3%E7%9A%84%20bug%20%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [广西国资拟入主南方黑芝麻集团](https://www.zhihu.com/search?q=%E5%B9%BF%E8%A5%BF%E5%9B%BD%E8%B5%84%E6%8B%9F%E5%85%A5%E4%B8%BB%E5%8D%97%E6%96%B9%E9%BB%91%E8%8A%9D%E9%BA%BB%E9%9B%86%E5%9B%A2)
-1. [青岛海螺大爆发 潜水员3小时赚3500](https://www.zhihu.com/search?q=%E9%9D%92%E5%B2%9B%E6%B5%B7%E8%9E%BA%E5%A4%A7%E7%88%86%E5%8F%91%20%E6%BD%9C%E6%B0%B4%E5%91%983%E5%B0%8F%E6%97%B6%E8%B5%9A3500)
 1. [华为宣布CANN全面开源开放](https://www.zhihu.com/search?q=%E5%8D%8E%E4%B8%BA%E5%AE%A3%E5%B8%83CANN%E5%85%A8%E9%9D%A2%E5%BC%80%E6%BA%90%E5%BC%80%E6%94%BE)
 1. [深圳华强北叫停小孩哥代送外卖](https://www.zhihu.com/search?q=%E6%B7%B1%E5%9C%B3%E5%8D%8E%E5%BC%BA%E5%8C%97%E5%8F%AB%E5%81%9C%E5%B0%8F%E5%AD%A9%E5%93%A5%E4%BB%A3%E9%80%81%E5%A4%96%E5%8D%96)
 1. [谷歌发布世界模型Genie 3](https://www.zhihu.com/search?q=%E8%B0%B7%E6%AD%8C%E5%8F%91%E5%B8%83%E4%B8%96%E7%95%8C%E6%A8%A1%E5%9E%8BGenie%203)
@@ -38,6 +37,7 @@
 1. [为什么斯诺克很少见到男女同台比赛](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%96%AF%E8%AF%BA%E5%85%8B%E5%BE%88%E5%B0%91%E8%A7%81%E5%88%B0%E7%94%B7%E5%A5%B3%E5%90%8C%E5%8F%B0%E6%AF%94%E8%B5%9B)
 1. [为什么餐饮店一个一个倒闭了](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E9%A4%90%E9%A5%AE%E5%BA%97%E4%B8%80%E4%B8%AA%E4%B8%80%E4%B8%AA%E5%80%92%E9%97%AD%E4%BA%86)
 1. [释永信的旧臣会服从新住持的管理模式么](https://www.zhihu.com/search?q=%E9%87%8A%E6%B0%B8%E4%BF%A1%E7%9A%84%E6%97%A7%E8%87%A3%E4%BC%9A%E6%9C%8D%E4%BB%8E%E6%96%B0%E4%BD%8F%E6%8C%81%E7%9A%84%E7%AE%A1%E7%90%86%E6%A8%A1%E5%BC%8F%E4%B9%88)
+1. [只卖几块钱的 steam 游戏可以买吗](https://www.zhihu.com/search?q=%E5%8F%AA%E5%8D%96%E5%87%A0%E5%9D%97%E9%92%B1%E7%9A%84%20steam%20%E6%B8%B8%E6%88%8F%E5%8F%AF%E4%BB%A5%E4%B9%B0%E5%90%97)
 
 ## 热门话题
 
