@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-08-09 07:12:29 +0800`
+`更新时间：2025-08-09 08:59:50 +0800`
 
 ## 热门搜索
 
@@ -39,6 +39,7 @@
 1. [为什么好多人喜欢飞机刚停稳就站起来](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A5%BD%E5%A4%9A%E4%BA%BA%E5%96%9C%E6%AC%A2%E9%A3%9E%E6%9C%BA%E5%88%9A%E5%81%9C%E7%A8%B3%E5%B0%B1%E7%AB%99%E8%B5%B7%E6%9D%A5)
 1. [免除公办幼儿园学前一年保教费有哪些影响](https://www.zhihu.com/search?q=%E5%85%8D%E9%99%A4%E5%85%AC%E5%8A%9E%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%AD%A6%E5%89%8D%E4%B8%80%E5%B9%B4%E4%BF%9D%E6%95%99%E8%B4%B9%E6%9C%89%E5%93%AA%E4%BA%9B%E5%BD%B1%E5%93%8D)
 1. [中国留学生赴海外考公是个好选择吗](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E8%B5%B4%E6%B5%B7%E5%A4%96%E8%80%83%E5%85%AC%E6%98%AF%E4%B8%AA%E5%A5%BD%E9%80%89%E6%8B%A9%E5%90%97)
+1. [千千阙歌为什么能一直那么火](https://www.zhihu.com/search?q=%E5%8D%83%E5%8D%83%E9%98%99%E6%AD%8C%E4%B8%BA%E4%BB%80%E4%B9%88%E8%83%BD%E4%B8%80%E7%9B%B4%E9%82%A3%E4%B9%88%E7%81%AB)
 
 ## 热门话题
 
