@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-08-10 01:22:33 +0800`
+`更新时间：2025-08-10 02:36:18 +0800`
 
 ## 热门搜索
 
@@ -33,10 +33,10 @@
 1. [调查组进入妇产科主任坠亡涉事医院](https://www.zhihu.com/search?q=%E8%B0%83%E6%9F%A5%E7%BB%84%E8%BF%9B%E5%85%A5%E5%A6%87%E4%BA%A7%E7%A7%91%E4%B8%BB%E4%BB%BB%E5%9D%A0%E4%BA%A1%E6%B6%89%E4%BA%8B%E5%8C%BB%E9%99%A2)
 1. [沈玉琳确诊白血病](https://www.zhihu.com/search?q=%E6%B2%88%E7%8E%89%E7%90%B3%E7%A1%AE%E8%AF%8A%E7%99%BD%E8%A1%80%E7%97%85)
 1. [社保新规对普通人的影响](https://www.zhihu.com/search?q=%E7%A4%BE%E4%BF%9D%E6%96%B0%E8%A7%84%E5%AF%B9%E6%99%AE%E9%80%9A%E4%BA%BA%E7%9A%84%E5%BD%B1%E5%93%8D)
-1. [樊振东投资美国职业乒乓球大联盟](https://www.zhihu.com/search?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E6%8A%95%E8%B5%84%E7%BE%8E%E5%9B%BD%E8%81%8C%E4%B8%9A%E4%B9%92%E4%B9%93%E7%90%83%E5%A4%A7%E8%81%94%E7%9B%9F)
 1. [蔚来沈斐怒挂聊天记录](https://www.zhihu.com/search?q=%E8%94%9A%E6%9D%A5%E6%B2%88%E6%96%90%E6%80%92%E6%8C%82%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95)
 1. [日本称美关税公告与协议不一致](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E7%A7%B0%E7%BE%8E%E5%85%B3%E7%A8%8E%E5%85%AC%E5%91%8A%E4%B8%8E%E5%8D%8F%E8%AE%AE%E4%B8%8D%E4%B8%80%E8%87%B4)
 1. [饿了么崩了](https://www.zhihu.com/search?q=%E9%A5%BF%E4%BA%86%E4%B9%88%E5%B4%A9%E4%BA%86)
+1. [研究称每天喝无糖饮料增加患糖尿病风险](https://www.zhihu.com/search?q=%E7%A0%94%E7%A9%B6%E7%A7%B0%E6%AF%8F%E5%A4%A9%E5%96%9D%E6%97%A0%E7%B3%96%E9%A5%AE%E6%96%99%E5%A2%9E%E5%8A%A0%E6%82%A3%E7%B3%96%E5%B0%BF%E7%97%85%E9%A3%8E%E9%99%A9)
 
 ## 热门话题
 
