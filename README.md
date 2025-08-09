@@ -11,11 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-08-09 13:26:21 +0800`
+`更新时间：2025-08-09 14:37:44 +0800`
 
 ## 热门搜索
 
-1. [蔚来沈斐怒挂聊天记录](https://www.zhihu.com/search?q=%E8%94%9A%E6%9D%A5%E6%B2%88%E6%96%90%E6%80%92%E6%8C%82%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95)
+1. [你卡过最厉害的 bug 是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E5%8D%A1%E8%BF%87%E6%9C%80%E5%8E%89%E5%AE%B3%E7%9A%84%20bug%20%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [广西国资拟入主南方黑芝麻集团](https://www.zhihu.com/search?q=%E5%B9%BF%E8%A5%BF%E5%9B%BD%E8%B5%84%E6%8B%9F%E5%85%A5%E4%B8%BB%E5%8D%97%E6%96%B9%E9%BB%91%E8%8A%9D%E9%BA%BB%E9%9B%86%E5%9B%A2)
 1. [青岛海螺大爆发 潜水员3小时赚3500](https://www.zhihu.com/search?q=%E9%9D%92%E5%B2%9B%E6%B5%B7%E8%9E%BA%E5%A4%A7%E7%88%86%E5%8F%91%20%E6%BD%9C%E6%B0%B4%E5%91%983%E5%B0%8F%E6%97%B6%E8%B5%9A3500)
 1. [华为宣布CANN全面开源开放](https://www.zhihu.com/search?q=%E5%8D%8E%E4%B8%BA%E5%AE%A3%E5%B8%83CANN%E5%85%A8%E9%9D%A2%E5%BC%80%E6%BA%90%E5%BC%80%E6%94%BE)
