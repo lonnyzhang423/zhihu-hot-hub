@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-08-09 20:22:45 +0800`
+`更新时间：2025-08-09 21:23:47 +0800`
 
 ## 热门搜索
 
@@ -20,7 +20,6 @@
 1. [青岛海螺大爆发 潜水员3小时赚3500](https://www.zhihu.com/search?q=%E9%9D%92%E5%B2%9B%E6%B5%B7%E8%9E%BA%E5%A4%A7%E7%88%86%E5%8F%91%20%E6%BD%9C%E6%B0%B4%E5%91%983%E5%B0%8F%E6%97%B6%E8%B5%9A3500)
 1. [华为宣布CANN全面开源开放](https://www.zhihu.com/search?q=%E5%8D%8E%E4%B8%BA%E5%AE%A3%E5%B8%83CANN%E5%85%A8%E9%9D%A2%E5%BC%80%E6%BA%90%E5%BC%80%E6%94%BE)
 1. [深圳华强北叫停小孩哥代送外卖](https://www.zhihu.com/search?q=%E6%B7%B1%E5%9C%B3%E5%8D%8E%E5%BC%BA%E5%8C%97%E5%8F%AB%E5%81%9C%E5%B0%8F%E5%AD%A9%E5%93%A5%E4%BB%A3%E9%80%81%E5%A4%96%E5%8D%96)
-1. [韩国羽协指责陈雨菲](https://www.zhihu.com/search?q=%E9%9F%A9%E5%9B%BD%E7%BE%BD%E5%8D%8F%E6%8C%87%E8%B4%A3%E9%99%88%E9%9B%A8%E8%8F%B2)
 1. [谷歌发布世界模型Genie 3](https://www.zhihu.com/search?q=%E8%B0%B7%E6%AD%8C%E5%8F%91%E5%B8%83%E4%B8%96%E7%95%8C%E6%A8%A1%E5%9E%8BGenie%203)
 1. [曹云金感谢郭德纲持续教他做人](https://www.zhihu.com/search?q=%E6%9B%B9%E4%BA%91%E9%87%91%E6%84%9F%E8%B0%A2%E9%83%AD%E5%BE%B7%E7%BA%B2%E6%8C%81%E7%BB%AD%E6%95%99%E4%BB%96%E5%81%9A%E4%BA%BA)
 1. [ChatGPT 周活跃用户将达 7 亿](https://www.zhihu.com/search?q=ChatGPT%20%E5%91%A8%E6%B4%BB%E8%B7%83%E7%94%A8%E6%88%B7%E5%B0%86%E8%BE%BE%207%20%E4%BA%BF)
@@ -38,6 +37,7 @@
 1. [唐僧每次被妖怪抓进洞中吃什么](https://www.zhihu.com/search?q=%E5%94%90%E5%83%A7%E6%AF%8F%E6%AC%A1%E8%A2%AB%E5%A6%96%E6%80%AA%E6%8A%93%E8%BF%9B%E6%B4%9E%E4%B8%AD%E5%90%83%E4%BB%80%E4%B9%88)
 1. [为什么斯诺克很少见到男女同台比赛](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%96%AF%E8%AF%BA%E5%85%8B%E5%BE%88%E5%B0%91%E8%A7%81%E5%88%B0%E7%94%B7%E5%A5%B3%E5%90%8C%E5%8F%B0%E6%AF%94%E8%B5%9B)
 1. [为什么餐饮店一个一个倒闭了](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E9%A4%90%E9%A5%AE%E5%BA%97%E4%B8%80%E4%B8%AA%E4%B8%80%E4%B8%AA%E5%80%92%E9%97%AD%E4%BA%86)
+1. [释永信的旧臣会服从新住持的管理模式么](https://www.zhihu.com/search?q=%E9%87%8A%E6%B0%B8%E4%BF%A1%E7%9A%84%E6%97%A7%E8%87%A3%E4%BC%9A%E6%9C%8D%E4%BB%8E%E6%96%B0%E4%BD%8F%E6%8C%81%E7%9A%84%E7%AE%A1%E7%90%86%E6%A8%A1%E5%BC%8F%E4%B9%88)
 
 ## 热门话题
 
