@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-08-11 00:14:28 +0800`
+`更新时间：2025-08-11 01:10:29 +0800`
 
 ## 热门搜索
 
@@ -35,7 +35,6 @@
 1. [饿了么崩了](https://www.zhihu.com/search?q=%E9%A5%BF%E4%BA%86%E4%B9%88%E5%B4%A9%E4%BA%86)
 1. [郑州全市停产停业停课停运](https://www.zhihu.com/search?q=%E9%83%91%E5%B7%9E%E5%85%A8%E5%B8%82%E5%81%9C%E4%BA%A7%E5%81%9C%E4%B8%9A%E5%81%9C%E8%AF%BE%E5%81%9C%E8%BF%90)
 1. [国内十座荟聚购物中心将出售](https://www.zhihu.com/search?q=%E5%9B%BD%E5%86%85%E5%8D%81%E5%BA%A7%E8%8D%9F%E8%81%9A%E8%B4%AD%E7%89%A9%E4%B8%AD%E5%BF%83%E5%B0%86%E5%87%BA%E5%94%AE)
-1. [盒马计划新开100家店](https://www.zhihu.com/search?q=%E7%9B%92%E9%A9%AC%E8%AE%A1%E5%88%92%E6%96%B0%E5%BC%80100%E5%AE%B6%E5%BA%97)
 1. [中国科学院院士阮少平被打假](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E9%99%A2%E9%99%A2%E5%A3%AB%E9%98%AE%E5%B0%91%E5%B9%B3%E8%A2%AB%E6%89%93%E5%81%87)
 1. [台积电2nm工艺突然泄密](https://www.zhihu.com/search?q=%E5%8F%B0%E7%A7%AF%E7%94%B52nm%E5%B7%A5%E8%89%BA%E7%AA%81%E7%84%B6%E6%B3%84%E5%AF%86)
 1. [广岛原子弹爆炸80周年](https://www.zhihu.com/search?q=%E5%B9%BF%E5%B2%9B%E5%8E%9F%E5%AD%90%E5%BC%B9%E7%88%86%E7%82%B880%E5%91%A8%E5%B9%B4)
