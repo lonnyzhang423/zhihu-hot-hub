@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-08-10 16:32:59 +0800`
+`更新时间：2025-08-10 17:27:11 +0800`
 
 ## 热门搜索
 
@@ -27,10 +27,10 @@
 1. [社保新规9月1日起实施](https://www.zhihu.com/search?q=%E7%A4%BE%E4%BF%9D%E6%96%B0%E8%A7%849%E6%9C%881%E6%97%A5%E8%B5%B7%E5%AE%9E%E6%96%BD)
 1. [海底捞将改为半自助模式](https://www.zhihu.com/search?q=%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%B0%86%E6%94%B9%E4%B8%BA%E5%8D%8A%E8%87%AA%E5%8A%A9%E6%A8%A1%E5%BC%8F)
 1. [美国驻海地大使馆附近发生枪击事件](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E9%A9%BB%E6%B5%B7%E5%9C%B0%E5%A4%A7%E4%BD%BF%E9%A6%86%E9%99%84%E8%BF%91%E5%8F%91%E7%94%9F%E6%9E%AA%E5%87%BB%E4%BA%8B%E4%BB%B6)
-1. [辛德勇武侯祠讲座因粉丝压力延期](https://www.zhihu.com/search?q=%E8%BE%9B%E5%BE%B7%E5%8B%87%E6%AD%A6%E4%BE%AF%E7%A5%A0%E8%AE%B2%E5%BA%A7%E5%9B%A0%E7%B2%89%E4%B8%9D%E5%8E%8B%E5%8A%9B%E5%BB%B6%E6%9C%9F)
 1. [沈玉琳确诊白血病](https://www.zhihu.com/search?q=%E6%B2%88%E7%8E%89%E7%90%B3%E7%A1%AE%E8%AF%8A%E7%99%BD%E8%A1%80%E7%97%85)
 1. [社保新规对普通人的影响](https://www.zhihu.com/search?q=%E7%A4%BE%E4%BF%9D%E6%96%B0%E8%A7%84%E5%AF%B9%E6%99%AE%E9%80%9A%E4%BA%BA%E7%9A%84%E5%BD%B1%E5%93%8D)
 1. [蔚来沈斐怒挂聊天记录](https://www.zhihu.com/search?q=%E8%94%9A%E6%9D%A5%E6%B2%88%E6%96%90%E6%80%92%E6%8C%82%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95)
+1. [理想i8销售截胡乐道L90](https://www.zhihu.com/search?q=%E7%90%86%E6%83%B3i8%E9%94%80%E5%94%AE%E6%88%AA%E8%83%A1%E4%B9%90%E9%81%93L90)
 1. [日本称美关税公告与协议不一致](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E7%A7%B0%E7%BE%8E%E5%85%B3%E7%A8%8E%E5%85%AC%E5%91%8A%E4%B8%8E%E5%8D%8F%E8%AE%AE%E4%B8%8D%E4%B8%80%E8%87%B4)
 1. [饿了么崩了](https://www.zhihu.com/search?q=%E9%A5%BF%E4%BA%86%E4%B9%88%E5%B4%A9%E4%BA%86)
 1. [郑州全市停产停业停课停运](https://www.zhihu.com/search?q=%E9%83%91%E5%B7%9E%E5%85%A8%E5%B8%82%E5%81%9C%E4%BA%A7%E5%81%9C%E4%B8%9A%E5%81%9C%E8%AF%BE%E5%81%9C%E8%BF%90)
