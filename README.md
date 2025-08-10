@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-08-10 16:15:56 +0800`
+`更新时间：2025-08-10 17:12:46 +0800`
 
 ## 热门搜索
 
@@ -31,6 +31,7 @@
 1. [沈玉琳确诊白血病](https://www.zhihu.com/search?q=%E6%B2%88%E7%8E%89%E7%90%B3%E7%A1%AE%E8%AF%8A%E7%99%BD%E8%A1%80%E7%97%85)
 1. [社保新规对普通人的影响](https://www.zhihu.com/search?q=%E7%A4%BE%E4%BF%9D%E6%96%B0%E8%A7%84%E5%AF%B9%E6%99%AE%E9%80%9A%E4%BA%BA%E7%9A%84%E5%BD%B1%E5%93%8D)
 1. [蔚来沈斐怒挂聊天记录](https://www.zhihu.com/search?q=%E8%94%9A%E6%9D%A5%E6%B2%88%E6%96%90%E6%80%92%E6%8C%82%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95)
+1. [理想i8销售截胡乐道L90](https://www.zhihu.com/search?q=%E7%90%86%E6%83%B3i8%E9%94%80%E5%94%AE%E6%88%AA%E8%83%A1%E4%B9%90%E9%81%93L90)
 1. [日本称美关税公告与协议不一致](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E7%A7%B0%E7%BE%8E%E5%85%B3%E7%A8%8E%E5%85%AC%E5%91%8A%E4%B8%8E%E5%8D%8F%E8%AE%AE%E4%B8%8D%E4%B8%80%E8%87%B4)
 1. [饿了么崩了](https://www.zhihu.com/search?q=%E9%A5%BF%E4%BA%86%E4%B9%88%E5%B4%A9%E4%BA%86)
 1. [郑州全市停产停业停课停运](https://www.zhihu.com/search?q=%E9%83%91%E5%B7%9E%E5%85%A8%E5%B8%82%E5%81%9C%E4%BA%A7%E5%81%9C%E4%B8%9A%E5%81%9C%E8%AF%BE%E5%81%9C%E8%BF%90)
@@ -38,7 +39,6 @@
 1. [研究称每天喝无糖饮料增加患糖尿病风险](https://www.zhihu.com/search?q=%E7%A0%94%E7%A9%B6%E7%A7%B0%E6%AF%8F%E5%A4%A9%E5%96%9D%E6%97%A0%E7%B3%96%E9%A5%AE%E6%96%99%E5%A2%9E%E5%8A%A0%E6%82%A3%E7%B3%96%E5%B0%BF%E7%97%85%E9%A3%8E%E9%99%A9)
 1. [亮证女被行拘有哪些警示意义](https://www.zhihu.com/search?q=%E4%BA%AE%E8%AF%81%E5%A5%B3%E8%A2%AB%E8%A1%8C%E6%8B%98%E6%9C%89%E5%93%AA%E4%BA%9B%E8%AD%A6%E7%A4%BA%E6%84%8F%E4%B9%89)
 1. [哈尔滨工业大学明确学硕原则上全部读博](https://www.zhihu.com/search?q=%E5%93%88%E5%B0%94%E6%BB%A8%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6%E6%98%8E%E7%A1%AE%E5%AD%A6%E7%A1%95%E5%8E%9F%E5%88%99%E4%B8%8A%E5%85%A8%E9%83%A8%E8%AF%BB%E5%8D%9A)
-1. [如何看待给高铁上小朋友发试卷的做法](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E7%BB%99%E9%AB%98%E9%93%81%E4%B8%8A%E5%B0%8F%E6%9C%8B%E5%8F%8B%E5%8F%91%E8%AF%95%E5%8D%B7%E7%9A%84%E5%81%9A%E6%B3%95)
 
 ## 热门话题
 
