@@ -11,11 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-08-10 12:07:37 +0800`
+`更新时间：2025-08-10 13:29:49 +0800`
 
 ## 热门搜索
 
-1. [郑州暴雨](https://www.zhihu.com/search?q=%E9%83%91%E5%B7%9E%E6%9A%B4%E9%9B%A8)
+1. [老总要求200万月薪被投资人手撕](https://www.zhihu.com/search?q=%E8%80%81%E6%80%BB%E8%A6%81%E6%B1%82200%E4%B8%87%E6%9C%88%E8%96%AA%E8%A2%AB%E6%8A%95%E8%B5%84%E4%BA%BA%E6%89%8B%E6%92%95)
 1. [广西国资拟入主南方黑芝麻集团](https://www.zhihu.com/search?q=%E5%B9%BF%E8%A5%BF%E5%9B%BD%E8%B5%84%E6%8B%9F%E5%85%A5%E4%B8%BB%E5%8D%97%E6%96%B9%E9%BB%91%E8%8A%9D%E9%BA%BB%E9%9B%86%E5%9B%A2)
 1. [华为宣布CANN全面开源开放](https://www.zhihu.com/search?q=%E5%8D%8E%E4%B8%BA%E5%AE%A3%E5%B8%83CANN%E5%85%A8%E9%9D%A2%E5%BC%80%E6%BA%90%E5%BC%80%E6%94%BE)
 1. [深圳华强北叫停小孩哥代送外卖](https://www.zhihu.com/search?q=%E6%B7%B1%E5%9C%B3%E5%8D%8E%E5%BC%BA%E5%8C%97%E5%8F%AB%E5%81%9C%E5%B0%8F%E5%AD%A9%E5%93%A5%E4%BB%A3%E9%80%81%E5%A4%96%E5%8D%96)
