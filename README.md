@@ -11,17 +11,16 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-08-10 20:53:04 +0800`
+`更新时间：2025-08-10 21:34:50 +0800`
 
 ## 热门搜索
 
-1. [如何评价古装剧《锦月如歌》](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E5%8F%A4%E8%A3%85%E5%89%A7%E3%80%8A%E9%94%A6%E6%9C%88%E5%A6%82%E6%AD%8C%E3%80%8B)
-1. [奔驰亮证姐被行政拘留5日](https://www.zhihu.com/search?q=%E5%A5%94%E9%A9%B0%E4%BA%AE%E8%AF%81%E5%A7%90%E8%A2%AB%E8%A1%8C%E6%94%BF%E6%8B%98%E7%95%995%E6%97%A5)
+1. [郑州暴雨](https://www.zhihu.com/search?q=%E9%83%91%E5%B7%9E%E6%9A%B4%E9%9B%A8)
 1. [广西国资拟入主南方黑芝麻集团](https://www.zhihu.com/search?q=%E5%B9%BF%E8%A5%BF%E5%9B%BD%E8%B5%84%E6%8B%9F%E5%85%A5%E4%B8%BB%E5%8D%97%E6%96%B9%E9%BB%91%E8%8A%9D%E9%BA%BB%E9%9B%86%E5%9B%A2)
 1. [华为宣布CANN全面开源开放](https://www.zhihu.com/search?q=%E5%8D%8E%E4%B8%BA%E5%AE%A3%E5%B8%83CANN%E5%85%A8%E9%9D%A2%E5%BC%80%E6%BA%90%E5%BC%80%E6%94%BE)
 1. [深圳华强北叫停小孩哥代送外卖](https://www.zhihu.com/search?q=%E6%B7%B1%E5%9C%B3%E5%8D%8E%E5%BC%BA%E5%8C%97%E5%8F%AB%E5%81%9C%E5%B0%8F%E5%AD%A9%E5%93%A5%E4%BB%A3%E9%80%81%E5%A4%96%E5%8D%96)
 1. [曹云金感谢郭德纲持续教他做人](https://www.zhihu.com/search?q=%E6%9B%B9%E4%BA%91%E9%87%91%E6%84%9F%E8%B0%A2%E9%83%AD%E5%BE%B7%E7%BA%B2%E6%8C%81%E7%BB%AD%E6%95%99%E4%BB%96%E5%81%9A%E4%BA%BA)
-1. [女子网贷从8万滚到本息共60万](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E7%BD%91%E8%B4%B7%E4%BB%8E8%E4%B8%87%E6%BB%9A%E5%88%B0%E6%9C%AC%E6%81%AF%E5%85%B160%E4%B8%87)
+1. [奔驰亮证姐被行政拘留5日](https://www.zhihu.com/search?q=%E5%A5%94%E9%A9%B0%E4%BA%AE%E8%AF%81%E5%A7%90%E8%A2%AB%E8%A1%8C%E6%94%BF%E6%8B%98%E7%95%995%E6%97%A5)
 1. [陈奕迅因压力过大患上焦虑症](https://www.zhihu.com/search?q=%E9%99%88%E5%A5%95%E8%BF%85%E5%9B%A0%E5%8E%8B%E5%8A%9B%E8%BF%87%E5%A4%A7%E6%82%A3%E4%B8%8A%E7%84%A6%E8%99%91%E7%97%87)
 1. [周口坠楼医生出事前一天曾报案](https://www.zhihu.com/search?q=%E5%91%A8%E5%8F%A3%E5%9D%A0%E6%A5%BC%E5%8C%BB%E7%94%9F%E5%87%BA%E4%BA%8B%E5%89%8D%E4%B8%80%E5%A4%A9%E6%9B%BE%E6%8A%A5%E6%A1%88)
 1. [社保新规9月1日实施](https://www.zhihu.com/search?q=%E7%A4%BE%E4%BF%9D%E6%96%B0%E8%A7%849%E6%9C%881%E6%97%A5%E5%AE%9E%E6%96%BD)
