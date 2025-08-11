@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-08-11 19:24:48 +0800`
+`更新时间：2025-08-11 20:58:12 +0800`
 
 ## 热门搜索
 
@@ -26,18 +26,19 @@
 1. [「苏超」现场观赛总人数已突破 100 万](https://www.zhihu.com/search?q=%E3%80%8C%E8%8B%8F%E8%B6%85%E3%80%8D%E7%8E%B0%E5%9C%BA%E8%A7%82%E8%B5%9B%E6%80%BB%E4%BA%BA%E6%95%B0%E5%B7%B2%E7%AA%81%E7%A0%B4%20100%20%E4%B8%87)
 1. [红牛王一博](https://www.zhihu.com/search?q=%E7%BA%A2%E7%89%9B%E7%8E%8B%E4%B8%80%E5%8D%9A)
 1. [北京：五环外不再限制购房套数](https://www.zhihu.com/search?q=%E5%8C%97%E4%BA%AC%EF%BC%9A%E4%BA%94%E7%8E%AF%E5%A4%96%E4%B8%8D%E5%86%8D%E9%99%90%E5%88%B6%E8%B4%AD%E6%88%BF%E5%A5%97%E6%95%B0)
-1. [318 国道被人放特制铁块致多车爆胎](https://www.zhihu.com/search?q=318%20%E5%9B%BD%E9%81%93%E8%A2%AB%E4%BA%BA%E6%94%BE%E7%89%B9%E5%88%B6%E9%93%81%E5%9D%97%E8%87%B4%E5%A4%9A%E8%BD%A6%E7%88%86%E8%83%8E)
-1. [堪察加半岛克柳切夫火山喷发](https://www.zhihu.com/search?q=%E5%A0%AA%E5%AF%9F%E5%8A%A0%E5%8D%8A%E5%B2%9B%E5%85%8B%E6%9F%B3%E5%88%87%E5%A4%AB%E7%81%AB%E5%B1%B1%E5%96%B7%E5%8F%91)
 1. [飞机上熊孩子顶座引发乘客打架](https://www.zhihu.com/search?q=%E9%A3%9E%E6%9C%BA%E4%B8%8A%E7%86%8A%E5%AD%A9%E5%AD%90%E9%A1%B6%E5%BA%A7%E5%BC%95%E5%8F%91%E4%B9%98%E5%AE%A2%E6%89%93%E6%9E%B6)
 1. [北京首套房公积金最高可贷160万](https://www.zhihu.com/search?q=%E5%8C%97%E4%BA%AC%E9%A6%96%E5%A5%97%E6%88%BF%E5%85%AC%E7%A7%AF%E9%87%91%E6%9C%80%E9%AB%98%E5%8F%AF%E8%B4%B7160%E4%B8%87)
 1. [远嫁妻子因鸡蛋崩溃掀桌](https://www.zhihu.com/search?q=%E8%BF%9C%E5%AB%81%E5%A6%BB%E5%AD%90%E5%9B%A0%E9%B8%A1%E8%9B%8B%E5%B4%A9%E6%BA%83%E6%8E%80%E6%A1%8C)
 1. [24小时退房制为啥不能成统一标准](https://www.zhihu.com/search?q=24%E5%B0%8F%E6%97%B6%E9%80%80%E6%88%BF%E5%88%B6%E4%B8%BA%E5%95%A5%E4%B8%8D%E8%83%BD%E6%88%90%E7%BB%9F%E4%B8%80%E6%A0%87%E5%87%86)
-1. [中国天眼景区指示牌China写成Ching](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E5%A4%A9%E7%9C%BC%E6%99%AF%E5%8C%BA%E6%8C%87%E7%A4%BA%E7%89%8CChina%E5%86%99%E6%88%90Ching)
 1. [中公教育17000元退款需17年退完](https://www.zhihu.com/search?q=%E4%B8%AD%E5%85%AC%E6%95%99%E8%82%B217000%E5%85%83%E9%80%80%E6%AC%BE%E9%9C%8017%E5%B9%B4%E9%80%80%E5%AE%8C)
+1. [生煎店3200元返聘退休工被指降成本](https://www.zhihu.com/search?q=%E7%94%9F%E7%85%8E%E5%BA%973200%E5%85%83%E8%BF%94%E8%81%98%E9%80%80%E4%BC%91%E5%B7%A5%E8%A2%AB%E6%8C%87%E9%99%8D%E6%88%90%E6%9C%AC)
 1. [消费者在汉服馆遭殴打，西安警方通报](https://www.zhihu.com/search?q=%E6%B6%88%E8%B4%B9%E8%80%85%E5%9C%A8%E6%B1%89%E6%9C%8D%E9%A6%86%E9%81%AD%E6%AE%B4%E6%89%93%EF%BC%8C%E8%A5%BF%E5%AE%89%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5)
 1. [孙颖莎3:0朱芊曦](https://www.zhihu.com/search?q=%E5%AD%99%E9%A2%96%E8%8E%8E3%3A0%E6%9C%B1%E8%8A%8A%E6%9B%A6)
 1. [库克砸6000亿美元渡劫](https://www.zhihu.com/search?q=%E5%BA%93%E5%85%8B%E7%A0%B86000%E4%BA%BF%E7%BE%8E%E5%85%83%E6%B8%A1%E5%8A%AB)
 1. [西安汉服店主被拘5天 女游客被拘6天](https://www.zhihu.com/search?q=%E8%A5%BF%E5%AE%89%E6%B1%89%E6%9C%8D%E5%BA%97%E4%B8%BB%E8%A2%AB%E6%8B%985%E5%A4%A9%20%E5%A5%B3%E6%B8%B8%E5%AE%A2%E8%A2%AB%E6%8B%986%E5%A4%A9)
+1. [徐杰被曝出轨](https://www.zhihu.com/search?q=%E5%BE%90%E6%9D%B0%E8%A2%AB%E6%9B%9D%E5%87%BA%E8%BD%A8)
+1. [被逆行女子剐蹭小伙教科书式回答](https://www.zhihu.com/search?q=%E8%A2%AB%E9%80%86%E8%A1%8C%E5%A5%B3%E5%AD%90%E5%89%90%E8%B9%AD%E5%B0%8F%E4%BC%99%E6%95%99%E7%A7%91%E4%B9%A6%E5%BC%8F%E5%9B%9E%E7%AD%94)
+1. [小伙被剐蹭诬告后称「我听交警的」](https://www.zhihu.com/search?q=%E5%B0%8F%E4%BC%99%E8%A2%AB%E5%89%90%E8%B9%AD%E8%AF%AC%E5%91%8A%E5%90%8E%E7%A7%B0%E3%80%8C%E6%88%91%E5%90%AC%E4%BA%A4%E8%AD%A6%E7%9A%84%E3%80%8D)
 
 ## 热门话题
 
