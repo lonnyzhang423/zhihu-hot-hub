@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-08-12 01:14:18 +0800`
+`更新时间：2025-08-12 02:19:09 +0800`
 
 ## 热门搜索
 
@@ -37,7 +37,6 @@
 1. [库克砸6000亿美元渡劫](https://www.zhihu.com/search?q=%E5%BA%93%E5%85%8B%E7%A0%B86000%E4%BA%BF%E7%BE%8E%E5%85%83%E6%B8%A1%E5%8A%AB)
 1. [西安汉服店主被拘5天 女游客被拘6天](https://www.zhihu.com/search?q=%E8%A5%BF%E5%AE%89%E6%B1%89%E6%9C%8D%E5%BA%97%E4%B8%BB%E8%A2%AB%E6%8B%985%E5%A4%A9%20%E5%A5%B3%E6%B8%B8%E5%AE%A2%E8%A2%AB%E6%8B%986%E5%A4%A9)
 1. [徐杰被曝出轨](https://www.zhihu.com/search?q=%E5%BE%90%E6%9D%B0%E8%A2%AB%E6%9B%9D%E5%87%BA%E8%BD%A8)
-1. [被逆行女子剐蹭小伙教科书式回答](https://www.zhihu.com/search?q=%E8%A2%AB%E9%80%86%E8%A1%8C%E5%A5%B3%E5%AD%90%E5%89%90%E8%B9%AD%E5%B0%8F%E4%BC%99%E6%95%99%E7%A7%91%E4%B9%A6%E5%BC%8F%E5%9B%9E%E7%AD%94)
 
 ## 热门话题
 
