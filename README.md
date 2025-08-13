@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-08-13 13:14:46 +0800`
+`更新时间：2025-08-13 14:19:44 +0800`
 
 ## 热门搜索
 
@@ -23,6 +23,7 @@
 1. [兰坎获成都世运会首金](https://www.zhihu.com/search?q=%E5%85%B0%E5%9D%8E%E8%8E%B7%E6%88%90%E9%83%BD%E4%B8%96%E8%BF%90%E4%BC%9A%E9%A6%96%E9%87%91)
 1. [一医院禁止规培生进职工餐厅吃饭](https://www.zhihu.com/search?q=%E4%B8%80%E5%8C%BB%E9%99%A2%E7%A6%81%E6%AD%A2%E8%A7%84%E5%9F%B9%E7%94%9F%E8%BF%9B%E8%81%8C%E5%B7%A5%E9%A4%90%E5%8E%85%E5%90%83%E9%A5%AD)
 1. [徐杰被曝出轨](https://www.zhihu.com/search?q=%E5%BE%90%E6%9D%B0%E8%A2%AB%E6%9B%9D%E5%87%BA%E8%BD%A8)
+1. [云南大理一7岁小孩在苍山走失](https://www.zhihu.com/search?q=%E4%BA%91%E5%8D%97%E5%A4%A7%E7%90%86%E4%B8%807%E5%B2%81%E5%B0%8F%E5%AD%A9%E5%9C%A8%E8%8B%8D%E5%B1%B1%E8%B5%B0%E5%A4%B1)
 1. [OpenAI重新上线GPT4o](https://www.zhihu.com/search?q=OpenAI%E9%87%8D%E6%96%B0%E4%B8%8A%E7%BA%BFGPT4o)
 1. [美国加州发现「阿凡达色」野猪肉](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E5%8A%A0%E5%B7%9E%E5%8F%91%E7%8E%B0%E3%80%8C%E9%98%BF%E5%87%A1%E8%BE%BE%E8%89%B2%E3%80%8D%E9%87%8E%E7%8C%AA%E8%82%89)
 1. [6岁女童在酒店戏水池死亡](https://www.zhihu.com/search?q=6%E5%B2%81%E5%A5%B3%E7%AB%A5%E5%9C%A8%E9%85%92%E5%BA%97%E6%88%8F%E6%B0%B4%E6%B1%A0%E6%AD%BB%E4%BA%A1)
@@ -38,7 +39,6 @@
 1. [胖东来回应招聘「刑释人员」](https://www.zhihu.com/search?q=%E8%83%96%E4%B8%9C%E6%9D%A5%E5%9B%9E%E5%BA%94%E6%8B%9B%E8%81%98%E3%80%8C%E5%88%91%E9%87%8A%E4%BA%BA%E5%91%98%E3%80%8D)
 1. [生煎店招退休工疑与社保新规有关](https://www.zhihu.com/search?q=%E7%94%9F%E7%85%8E%E5%BA%97%E6%8B%9B%E9%80%80%E4%BC%91%E5%B7%A5%E7%96%91%E4%B8%8E%E7%A4%BE%E4%BF%9D%E6%96%B0%E8%A7%84%E6%9C%89%E5%85%B3)
 1. [包头人才引进被举报后又入围调查结果公布](https://www.zhihu.com/search?q=%E5%8C%85%E5%A4%B4%E4%BA%BA%E6%89%8D%E5%BC%95%E8%BF%9B%E8%A2%AB%E4%B8%BE%E6%8A%A5%E5%90%8E%E5%8F%88%E5%85%A5%E5%9B%B4%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C%E5%85%AC%E5%B8%83)
-1. [运营商为啥要争携号转网用户](https://www.zhihu.com/search?q=%E8%BF%90%E8%90%A5%E5%95%86%E4%B8%BA%E5%95%A5%E8%A6%81%E4%BA%89%E6%90%BA%E5%8F%B7%E8%BD%AC%E7%BD%91%E7%94%A8%E6%88%B7)
 
 ## 热门话题
 
