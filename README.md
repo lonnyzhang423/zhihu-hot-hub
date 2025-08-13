@@ -11,12 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-08-13 17:29:46 +0800`
+`更新时间：2025-08-13 18:29:35 +0800`
 
 ## 热门搜索
 
-1. [张卫健演唱会上掏出老年卡](https://www.zhihu.com/search?q=%E5%BC%A0%E5%8D%AB%E5%81%A5%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%8A%E6%8E%8F%E5%87%BA%E8%80%81%E5%B9%B4%E5%8D%A1)
-1. [许昕评价张本智和医疗暂停](https://www.zhihu.com/search?q=%E8%AE%B8%E6%98%95%E8%AF%84%E4%BB%B7%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%E5%8C%BB%E7%96%97%E6%9A%82%E5%81%9C)
+1. [早期的的网红后来怎么样了](https://www.zhihu.com/search?q=%E6%97%A9%E6%9C%9F%E7%9A%84%E7%9A%84%E7%BD%91%E7%BA%A2%E5%90%8E%E6%9D%A5%E6%80%8E%E4%B9%88%E6%A0%B7%E4%BA%86)
 1. [孙颖莎vs陈幸同](https://www.zhihu.com/search?q=%E5%AD%99%E9%A2%96%E8%8E%8Evs%E9%99%88%E5%B9%B8%E5%90%8C)
 1. [四川启动防汛四级应急响应](https://www.zhihu.com/search?q=%E5%9B%9B%E5%B7%9D%E5%90%AF%E5%8A%A8%E9%98%B2%E6%B1%9B%E5%9B%9B%E7%BA%A7%E5%BA%94%E6%80%A5%E5%93%8D%E5%BA%94)
 1. [DeepSeek崩了](https://www.zhihu.com/search?q=DeepSeek%E5%B4%A9%E4%BA%86)
@@ -26,6 +25,7 @@
 1. [徐杰被曝出轨](https://www.zhihu.com/search?q=%E5%BE%90%E6%9D%B0%E8%A2%AB%E6%9B%9D%E5%87%BA%E8%BD%A8)
 1. [云南大理一7岁小孩在苍山走失](https://www.zhihu.com/search?q=%E4%BA%91%E5%8D%97%E5%A4%A7%E7%90%86%E4%B8%807%E5%B2%81%E5%B0%8F%E5%AD%A9%E5%9C%A8%E8%8B%8D%E5%B1%B1%E8%B5%B0%E5%A4%B1)
 1. [OpenAI重新上线GPT4o](https://www.zhihu.com/search?q=OpenAI%E9%87%8D%E6%96%B0%E4%B8%8A%E7%BA%BFGPT4o)
+1. [美国加州发现「阿凡达色」野猪肉](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E5%8A%A0%E5%B7%9E%E5%8F%91%E7%8E%B0%E3%80%8C%E9%98%BF%E5%87%A1%E8%BE%BE%E8%89%B2%E3%80%8D%E9%87%8E%E7%8C%AA%E8%82%89)
 1. [6岁女童在酒店戏水池死亡](https://www.zhihu.com/search?q=6%E5%B2%81%E5%A5%B3%E7%AB%A5%E5%9C%A8%E9%85%92%E5%BA%97%E6%88%8F%E6%B0%B4%E6%B1%A0%E6%AD%BB%E4%BA%A1)
 1. [孙颖莎vs大藤沙月](https://www.zhihu.com/search?q=%E5%AD%99%E9%A2%96%E8%8E%8Evs%E5%A4%A7%E8%97%A4%E6%B2%99%E6%9C%88)
 1. [孙颖莎4-0大藤沙月](https://www.zhihu.com/search?q=%E5%AD%99%E9%A2%96%E8%8E%8E4-0%E5%A4%A7%E8%97%A4%E6%B2%99%E6%9C%88)
