@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-08-13 20:25:12 +0800`
+`更新时间：2025-08-13 21:30:09 +0800`
 
 ## 热门搜索
 
@@ -19,7 +19,6 @@
 1. [四川启动防汛四级应急响应](https://www.zhihu.com/search?q=%E5%9B%9B%E5%B7%9D%E5%90%AF%E5%8A%A8%E9%98%B2%E6%B1%9B%E5%9B%9B%E7%BA%A7%E5%BA%94%E6%80%A5%E5%93%8D%E5%BA%94)
 1. [管乐家因乱到离谱出圈](https://www.zhihu.com/search?q=%E7%AE%A1%E4%B9%90%E5%AE%B6%E5%9B%A0%E4%B9%B1%E5%88%B0%E7%A6%BB%E8%B0%B1%E5%87%BA%E5%9C%88)
 1. [极星汽车或将退出中国市场](https://www.zhihu.com/search?q=%E6%9E%81%E6%98%9F%E6%B1%BD%E8%BD%A6%E6%88%96%E5%B0%86%E9%80%80%E5%87%BA%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA)
-1. [徐杰被曝出轨](https://www.zhihu.com/search?q=%E5%BE%90%E6%9D%B0%E8%A2%AB%E6%9B%9D%E5%87%BA%E8%BD%A8)
 1. [云南大理一7岁小孩在苍山走失](https://www.zhihu.com/search?q=%E4%BA%91%E5%8D%97%E5%A4%A7%E7%90%86%E4%B8%807%E5%B2%81%E5%B0%8F%E5%AD%A9%E5%9C%A8%E8%8B%8D%E5%B1%B1%E8%B5%B0%E5%A4%B1)
 1. [OpenAI重新上线GPT4o](https://www.zhihu.com/search?q=OpenAI%E9%87%8D%E6%96%B0%E4%B8%8A%E7%BA%BFGPT4o)
 1. [6岁女童在酒店戏水池死亡](https://www.zhihu.com/search?q=6%E5%B2%81%E5%A5%B3%E7%AB%A5%E5%9C%A8%E9%85%92%E5%BA%97%E6%88%8F%E6%B0%B4%E6%B1%A0%E6%AD%BB%E4%BA%A1)
@@ -39,6 +38,7 @@
 1. [能否人工挖一个贝加尔湖](https://www.zhihu.com/search?q=%E8%83%BD%E5%90%A6%E4%BA%BA%E5%B7%A5%E6%8C%96%E4%B8%80%E4%B8%AA%E8%B4%9D%E5%8A%A0%E5%B0%94%E6%B9%96)
 1. [浪浪山小妖怪中猪爸爸的设定有哪些细节](https://www.zhihu.com/search?q=%E6%B5%AA%E6%B5%AA%E5%B1%B1%E5%B0%8F%E5%A6%96%E6%80%AA%E4%B8%AD%E7%8C%AA%E7%88%B8%E7%88%B8%E7%9A%84%E8%AE%BE%E5%AE%9A%E6%9C%89%E5%93%AA%E4%BA%9B%E7%BB%86%E8%8A%82)
 1. [为什么感觉旅游越来越没意思了](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%84%9F%E8%A7%89%E6%97%85%E6%B8%B8%E8%B6%8A%E6%9D%A5%E8%B6%8A%E6%B2%A1%E6%84%8F%E6%80%9D%E4%BA%86)
+1. [为什么朋友抑郁症痊愈后比一般人内心更强大](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%8B%E5%8F%8B%E6%8A%91%E9%83%81%E7%97%87%E7%97%8A%E6%84%88%E5%90%8E%E6%AF%94%E4%B8%80%E8%88%AC%E4%BA%BA%E5%86%85%E5%BF%83%E6%9B%B4%E5%BC%BA%E5%A4%A7)
 
 ## 热门话题
 
