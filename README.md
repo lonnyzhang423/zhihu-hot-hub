@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-08-14 06:13:01 +0800`
+`更新时间：2025-08-14 07:12:29 +0800`
 
 ## 热门搜索
 
@@ -19,7 +19,6 @@
 1. [管乐家因乱到离谱出圈](https://www.zhihu.com/search?q=%E7%AE%A1%E4%B9%90%E5%AE%B6%E5%9B%A0%E4%B9%B1%E5%88%B0%E7%A6%BB%E8%B0%B1%E5%87%BA%E5%9C%88)
 1. [极星汽车或将退出中国市场](https://www.zhihu.com/search?q=%E6%9E%81%E6%98%9F%E6%B1%BD%E8%BD%A6%E6%88%96%E5%B0%86%E9%80%80%E5%87%BA%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA)
 1. [云南大理一7岁小孩在苍山走失](https://www.zhihu.com/search?q=%E4%BA%91%E5%8D%97%E5%A4%A7%E7%90%86%E4%B8%807%E5%B2%81%E5%B0%8F%E5%AD%A9%E5%9C%A8%E8%8B%8D%E5%B1%B1%E8%B5%B0%E5%A4%B1)
-1. [OpenAI重新上线GPT4o](https://www.zhihu.com/search?q=OpenAI%E9%87%8D%E6%96%B0%E4%B8%8A%E7%BA%BFGPT4o)
 1. [浪浪山小妖怪票房](https://www.zhihu.com/search?q=%E6%B5%AA%E6%B5%AA%E5%B1%B1%E5%B0%8F%E5%A6%96%E6%80%AA%E7%A5%A8%E6%88%BF)
 1. [浪浪山小妖怪成国产二维动画电影票房冠军](https://www.zhihu.com/search?q=%E6%B5%AA%E6%B5%AA%E5%B1%B1%E5%B0%8F%E5%A6%96%E6%80%AA%E6%88%90%E5%9B%BD%E4%BA%A7%E4%BA%8C%E7%BB%B4%E5%8A%A8%E7%94%BB%E7%94%B5%E5%BD%B1%E7%A5%A8%E6%88%BF%E5%86%A0%E5%86%9B)
 1. [地球附近星系观测到宜居带候选行星](https://www.zhihu.com/search?q=%E5%9C%B0%E7%90%83%E9%99%84%E8%BF%91%E6%98%9F%E7%B3%BB%E8%A7%82%E6%B5%8B%E5%88%B0%E5%AE%9C%E5%B1%85%E5%B8%A6%E5%80%99%E9%80%89%E8%A1%8C%E6%98%9F)
@@ -35,6 +34,8 @@
 1. [中美再次暂停实施24%关税90天](https://www.zhihu.com/search?q=%E4%B8%AD%E7%BE%8E%E5%86%8D%E6%AC%A1%E6%9A%82%E5%81%9C%E5%AE%9E%E6%96%BD24%25%E5%85%B3%E7%A8%8E90%E5%A4%A9)
 1. [张小婉称家中蟑螂疑是快递运来](https://www.zhihu.com/search?q=%E5%BC%A0%E5%B0%8F%E5%A9%89%E7%A7%B0%E5%AE%B6%E4%B8%AD%E8%9F%91%E8%9E%82%E7%96%91%E6%98%AF%E5%BF%AB%E9%80%92%E8%BF%90%E6%9D%A5)
 1. [考研村危机](https://www.zhihu.com/search?q=%E8%80%83%E7%A0%94%E6%9D%91%E5%8D%B1%E6%9C%BA)
+1. [被中国海洋大学录取但经济困难怎么办](https://www.zhihu.com/search?q=%E8%A2%AB%E4%B8%AD%E5%9B%BD%E6%B5%B7%E6%B4%8B%E5%A4%A7%E5%AD%A6%E5%BD%95%E5%8F%96%E4%BD%86%E7%BB%8F%E6%B5%8E%E5%9B%B0%E9%9A%BE%E6%80%8E%E4%B9%88%E5%8A%9E)
+1. [岳阳启动男子发布评论被拘调查程序](https://www.zhihu.com/search?q=%E5%B2%B3%E9%98%B3%E5%90%AF%E5%8A%A8%E7%94%B7%E5%AD%90%E5%8F%91%E5%B8%83%E8%AF%84%E8%AE%BA%E8%A2%AB%E6%8B%98%E8%B0%83%E6%9F%A5%E7%A8%8B%E5%BA%8F)
 
 ## 热门话题
 
