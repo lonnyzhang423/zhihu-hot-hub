@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-08-15 06:12:01 +0800`
+`更新时间：2025-08-15 07:12:17 +0800`
 
 ## 热门搜索
 
@@ -27,7 +27,6 @@
 1. [法国最大核电站因水母入侵导致停运](https://www.zhihu.com/search?q=%E6%B3%95%E5%9B%BD%E6%9C%80%E5%A4%A7%E6%A0%B8%E7%94%B5%E7%AB%99%E5%9B%A0%E6%B0%B4%E6%AF%8D%E5%85%A5%E4%BE%B5%E5%AF%BC%E8%87%B4%E5%81%9C%E8%BF%90)
 1. [城市旧家具处理成本高](https://www.zhihu.com/search?q=%E5%9F%8E%E5%B8%82%E6%97%A7%E5%AE%B6%E5%85%B7%E5%A4%84%E7%90%86%E6%88%90%E6%9C%AC%E9%AB%98)
 1. [女大学生在江西一景区被男子杀害](https://www.zhihu.com/search?q=%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%9C%A8%E6%B1%9F%E8%A5%BF%E4%B8%80%E6%99%AF%E5%8C%BA%E8%A2%AB%E7%94%B7%E5%AD%90%E6%9D%80%E5%AE%B3)
-1. [家长网上质疑校服被拘警方被判违法](https://www.zhihu.com/search?q=%E5%AE%B6%E9%95%BF%E7%BD%91%E4%B8%8A%E8%B4%A8%E7%96%91%E6%A0%A1%E6%9C%8D%E8%A2%AB%E6%8B%98%E8%AD%A6%E6%96%B9%E8%A2%AB%E5%88%A4%E8%BF%9D%E6%B3%95)
 1. [多家银行 9 月 1 日启动个人消费贷款贴息](https://www.zhihu.com/search?q=%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%209%20%E6%9C%88%201%20%E6%97%A5%E5%90%AF%E5%8A%A8%E4%B8%AA%E4%BA%BA%E6%B6%88%E8%B4%B9%E8%B4%B7%E6%AC%BE%E8%B4%B4%E6%81%AF)
 1. [上海机场撤销航站楼入口安检](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%E6%9C%BA%E5%9C%BA%E6%92%A4%E9%94%80%E8%88%AA%E7%AB%99%E6%A5%BC%E5%85%A5%E5%8F%A3%E5%AE%89%E6%A3%80)
 1. [小米汽车 YU7「轮轴比」被指算错数](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%20YU7%E3%80%8C%E8%BD%AE%E8%BD%B4%E6%AF%94%E3%80%8D%E8%A2%AB%E6%8C%87%E7%AE%97%E9%94%99%E6%95%B0)
@@ -35,6 +34,7 @@
 1. [特斯拉续航830公里Model3车型开卖](https://www.zhihu.com/search?q=%E7%89%B9%E6%96%AF%E6%8B%89%E7%BB%AD%E8%88%AA830%E5%85%AC%E9%87%8CModel3%E8%BD%A6%E5%9E%8B%E5%BC%80%E5%8D%96)
 1. [印尼巴布亚省发生6.3级地震](https://www.zhihu.com/search?q=%E5%8D%B0%E5%B0%BC%E5%B7%B4%E5%B8%83%E4%BA%9A%E7%9C%81%E5%8F%91%E7%94%9F6.3%E7%BA%A7%E5%9C%B0%E9%9C%87)
 1. [日本扇耳光餐厅爆火](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E6%89%87%E8%80%B3%E5%85%89%E9%A4%90%E5%8E%85%E7%88%86%E7%81%AB)
+1. [干法锂电池隔膜骨干企业就行业反内卷达成共识](https://www.zhihu.com/search?q=%E5%B9%B2%E6%B3%95%E9%94%82%E7%94%B5%E6%B1%A0%E9%9A%94%E8%86%9C%E9%AA%A8%E5%B9%B2%E4%BC%81%E4%B8%9A%E5%B0%B1%E8%A1%8C%E4%B8%9A%E5%8F%8D%E5%86%85%E5%8D%B7%E8%BE%BE%E6%88%90%E5%85%B1%E8%AF%86)
 
 ## 热门话题
 
