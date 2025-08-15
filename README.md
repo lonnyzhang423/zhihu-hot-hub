@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-08-15 07:12:17 +0800`
+`更新时间：2025-08-15 09:01:18 +0800`
 
 ## 热门搜索
 
 1. [体制内你见到最狠的是什么样](https://www.zhihu.com/search?q=%E4%BD%93%E5%88%B6%E5%86%85%E4%BD%A0%E8%A7%81%E5%88%B0%E6%9C%80%E7%8B%A0%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7)
+1. [Alin彭佳慧合唱《伤痕》](https://www.zhihu.com/search?q=Alin%E5%BD%AD%E4%BD%B3%E6%85%A7%E5%90%88%E5%94%B1%E3%80%8A%E4%BC%A4%E7%97%95%E3%80%8B)
 1. [旅客称列车卧铺有床虱](https://www.zhihu.com/search?q=%E6%97%85%E5%AE%A2%E7%A7%B0%E5%88%97%E8%BD%A6%E5%8D%A7%E9%93%BA%E6%9C%89%E5%BA%8A%E8%99%B1)
 1. [张本智和4-2战胜王楚钦夺冠](https://www.zhihu.com/search?q=%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C4-2%E6%88%98%E8%83%9C%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%A4%BA%E5%86%A0)
 1. [考研村危机](https://www.zhihu.com/search?q=%E8%80%83%E7%A0%94%E6%9D%91%E5%8D%B1%E6%9C%BA)
