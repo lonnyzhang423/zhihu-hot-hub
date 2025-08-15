@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-08-15 20:52:52 +0800`
+`更新时间：2025-08-15 21:35:34 +0800`
 
 ## 热门搜索
 
@@ -31,6 +31,7 @@
 1. [半岛电视台记者团队遭以军袭击](https://www.zhihu.com/search?q=%E5%8D%8A%E5%B2%9B%E7%94%B5%E8%A7%86%E5%8F%B0%E8%AE%B0%E8%80%85%E5%9B%A2%E9%98%9F%E9%81%AD%E4%BB%A5%E5%86%9B%E8%A2%AD%E5%87%BB)
 1. [阿迪达斯就新鞋抄袭道歉](https://www.zhihu.com/search?q=%E9%98%BF%E8%BF%AA%E8%BE%BE%E6%96%AF%E5%B0%B1%E6%96%B0%E9%9E%8B%E6%8A%84%E8%A2%AD%E9%81%93%E6%AD%89)
 1. [多家银行 9 月 1 日启动个人消费贷款贴息](https://www.zhihu.com/search?q=%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%209%20%E6%9C%88%201%20%E6%97%A5%E5%90%AF%E5%8A%A8%E4%B8%AA%E4%BA%BA%E6%B6%88%E8%B4%B9%E8%B4%B7%E6%AC%BE%E8%B4%B4%E6%81%AF)
+1. [西安电子科技大学奖学金报道引争议](https://www.zhihu.com/search?q=%E8%A5%BF%E5%AE%89%E7%94%B5%E5%AD%90%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E5%A5%96%E5%AD%A6%E9%87%91%E6%8A%A5%E9%81%93%E5%BC%95%E4%BA%89%E8%AE%AE)
 1. [珠海登山失联男子已遇难](https://www.zhihu.com/search?q=%E7%8F%A0%E6%B5%B7%E7%99%BB%E5%B1%B1%E5%A4%B1%E8%81%94%E7%94%B7%E5%AD%90%E5%B7%B2%E9%81%87%E9%9A%BE)
 1. [印尼巴布亚省发生6.3级地震](https://www.zhihu.com/search?q=%E5%8D%B0%E5%B0%BC%E5%B7%B4%E5%B8%83%E4%BA%9A%E7%9C%81%E5%8F%91%E7%94%9F6.3%E7%BA%A7%E5%9C%B0%E9%9C%87)
 1. [日本扇耳光餐厅爆火](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E6%89%87%E8%80%B3%E5%85%89%E9%A4%90%E5%8E%85%E7%88%86%E7%81%AB)
