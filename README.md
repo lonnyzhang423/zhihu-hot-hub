@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-08-15 11:55:33 +0800`
+`更新时间：2025-08-15 12:36:35 +0800`
 
 ## 热门搜索
 
@@ -28,7 +28,6 @@
 1. [印度3A大作公开实机演示](https://www.zhihu.com/search?q=%E5%8D%B0%E5%BA%A63A%E5%A4%A7%E4%BD%9C%E5%85%AC%E5%BC%80%E5%AE%9E%E6%9C%BA%E6%BC%94%E7%A4%BA)
 1. [印度3A大作《释放阿凡达》](https://www.zhihu.com/search?q=%E5%8D%B0%E5%BA%A63A%E5%A4%A7%E4%BD%9C%E3%80%8A%E9%87%8A%E6%94%BE%E9%98%BF%E5%87%A1%E8%BE%BE%E3%80%8B)
 1. [法国最大核电站因水母入侵导致停运](https://www.zhihu.com/search?q=%E6%B3%95%E5%9B%BD%E6%9C%80%E5%A4%A7%E6%A0%B8%E7%94%B5%E7%AB%99%E5%9B%A0%E6%B0%B4%E6%AF%8D%E5%85%A5%E4%BE%B5%E5%AF%BC%E8%87%B4%E5%81%9C%E8%BF%90)
-1. [多家银行 9 月 1 日启动个人消费贷款贴息](https://www.zhihu.com/search?q=%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%209%20%E6%9C%88%201%20%E6%97%A5%E5%90%AF%E5%8A%A8%E4%B8%AA%E4%BA%BA%E6%B6%88%E8%B4%B9%E8%B4%B7%E6%AC%BE%E8%B4%B4%E6%81%AF)
 1. [上海机场撤销航站楼入口安检](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%E6%9C%BA%E5%9C%BA%E6%92%A4%E9%94%80%E8%88%AA%E7%AB%99%E6%A5%BC%E5%85%A5%E5%8F%A3%E5%AE%89%E6%A3%80)
 1. [珠海登山失联男子已遇难](https://www.zhihu.com/search?q=%E7%8F%A0%E6%B5%B7%E7%99%BB%E5%B1%B1%E5%A4%B1%E8%81%94%E7%94%B7%E5%AD%90%E5%B7%B2%E9%81%87%E9%9A%BE)
 1. [特斯拉续航830公里Model3车型开卖](https://www.zhihu.com/search?q=%E7%89%B9%E6%96%AF%E6%8B%89%E7%BB%AD%E8%88%AA830%E5%85%AC%E9%87%8CModel3%E8%BD%A6%E5%9E%8B%E5%BC%80%E5%8D%96)
@@ -36,6 +35,8 @@
 1. [日本扇耳光餐厅爆火](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E6%89%87%E8%80%B3%E5%85%89%E9%A4%90%E5%8E%85%E7%88%86%E7%81%AB)
 1. [干法锂电池隔膜骨干企业就行业反内卷达成共识](https://www.zhihu.com/search?q=%E5%B9%B2%E6%B3%95%E9%94%82%E7%94%B5%E6%B1%A0%E9%9A%94%E8%86%9C%E9%AA%A8%E5%B9%B2%E4%BC%81%E4%B8%9A%E5%B0%B1%E8%A1%8C%E4%B8%9A%E5%8F%8D%E5%86%85%E5%8D%B7%E8%BE%BE%E6%88%90%E5%85%B1%E8%AF%86)
 1. [美国国债总额首次超过 37 万亿美元](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%80%BA%E6%80%BB%E9%A2%9D%E9%A6%96%E6%AC%A1%E8%B6%85%E8%BF%87%2037%20%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83)
+1. [宇树官宣参加世界人形机器人运动会](https://www.zhihu.com/search?q=%E5%AE%87%E6%A0%91%E5%AE%98%E5%AE%A3%E5%8F%82%E5%8A%A0%E4%B8%96%E7%95%8C%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%BF%90%E5%8A%A8%E4%BC%9A)
+1. [重庆爱心冰柜的矿泉水遭哄抢](https://www.zhihu.com/search?q=%E9%87%8D%E5%BA%86%E7%88%B1%E5%BF%83%E5%86%B0%E6%9F%9C%E7%9A%84%E7%9F%BF%E6%B3%89%E6%B0%B4%E9%81%AD%E5%93%84%E6%8A%A2)
 
 ## 热门话题
 
