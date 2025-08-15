@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-08-15 18:28:12 +0800`
+`更新时间：2025-08-15 19:22:11 +0800`
 
 ## 热门搜索
 
@@ -27,17 +27,17 @@
 1. [去「假装上班公司」是在花钱买什么](https://www.zhihu.com/search?q=%E5%8E%BB%E3%80%8C%E5%81%87%E8%A3%85%E4%B8%8A%E7%8F%AD%E5%85%AC%E5%8F%B8%E3%80%8D%E6%98%AF%E5%9C%A8%E8%8A%B1%E9%92%B1%E4%B9%B0%E4%BB%80%E4%B9%88)
 1. [麦当劳门店招募退休人员](https://www.zhihu.com/search?q=%E9%BA%A6%E5%BD%93%E5%8A%B3%E9%97%A8%E5%BA%97%E6%8B%9B%E5%8B%9F%E9%80%80%E4%BC%91%E4%BA%BA%E5%91%98)
 1. [朱令骨灰已安葬](https://www.zhihu.com/search?q=%E6%9C%B1%E4%BB%A4%E9%AA%A8%E7%81%B0%E5%B7%B2%E5%AE%89%E8%91%AC)
+1. [个人单笔5万元以下消费可享贴息](https://www.zhihu.com/search?q=%E4%B8%AA%E4%BA%BA%E5%8D%95%E7%AC%945%E4%B8%87%E5%85%83%E4%BB%A5%E4%B8%8B%E6%B6%88%E8%B4%B9%E5%8F%AF%E4%BA%AB%E8%B4%B4%E6%81%AF)
 1. [法国最大核电站因水母入侵导致停运](https://www.zhihu.com/search?q=%E6%B3%95%E5%9B%BD%E6%9C%80%E5%A4%A7%E6%A0%B8%E7%94%B5%E7%AB%99%E5%9B%A0%E6%B0%B4%E6%AF%8D%E5%85%A5%E4%BE%B5%E5%AF%BC%E8%87%B4%E5%81%9C%E8%BF%90)
 1. [女大学生在江西一景区被男子杀害](https://www.zhihu.com/search?q=%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%9C%A8%E6%B1%9F%E8%A5%BF%E4%B8%80%E6%99%AF%E5%8C%BA%E8%A2%AB%E7%94%B7%E5%AD%90%E6%9D%80%E5%AE%B3)
+1. [半岛电视台记者团队遭以军袭击](https://www.zhihu.com/search?q=%E5%8D%8A%E5%B2%9B%E7%94%B5%E8%A7%86%E5%8F%B0%E8%AE%B0%E8%80%85%E5%9B%A2%E9%98%9F%E9%81%AD%E4%BB%A5%E5%86%9B%E8%A2%AD%E5%87%BB)
+1. [阿迪达斯就新鞋抄袭道歉](https://www.zhihu.com/search?q=%E9%98%BF%E8%BF%AA%E8%BE%BE%E6%96%AF%E5%B0%B1%E6%96%B0%E9%9E%8B%E6%8A%84%E8%A2%AD%E9%81%93%E6%AD%89)
 1. [多家银行 9 月 1 日启动个人消费贷款贴息](https://www.zhihu.com/search?q=%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%209%20%E6%9C%88%201%20%E6%97%A5%E5%90%AF%E5%8A%A8%E4%B8%AA%E4%BA%BA%E6%B6%88%E8%B4%B9%E8%B4%B7%E6%AC%BE%E8%B4%B4%E6%81%AF)
 1. [珠海登山失联男子已遇难](https://www.zhihu.com/search?q=%E7%8F%A0%E6%B5%B7%E7%99%BB%E5%B1%B1%E5%A4%B1%E8%81%94%E7%94%B7%E5%AD%90%E5%B7%B2%E9%81%87%E9%9A%BE)
 1. [印尼巴布亚省发生6.3级地震](https://www.zhihu.com/search?q=%E5%8D%B0%E5%B0%BC%E5%B7%B4%E5%B8%83%E4%BA%9A%E7%9C%81%E5%8F%91%E7%94%9F6.3%E7%BA%A7%E5%9C%B0%E9%9C%87)
 1. [日本扇耳光餐厅爆火](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E6%89%87%E8%80%B3%E5%85%89%E9%A4%90%E5%8E%85%E7%88%86%E7%81%AB)
 1. [干法锂电池隔膜骨干企业就行业反内卷达成共识](https://www.zhihu.com/search?q=%E5%B9%B2%E6%B3%95%E9%94%82%E7%94%B5%E6%B1%A0%E9%9A%94%E8%86%9C%E9%AA%A8%E5%B9%B2%E4%BC%81%E4%B8%9A%E5%B0%B1%E8%A1%8C%E4%B8%9A%E5%8F%8D%E5%86%85%E5%8D%B7%E8%BE%BE%E6%88%90%E5%85%B1%E8%AF%86)
 1. [美国国债总额首次超过 37 万亿美元](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%80%BA%E6%80%BB%E9%A2%9D%E9%A6%96%E6%AC%A1%E8%B6%85%E8%BF%87%2037%20%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83)
-1. [宇树官宣参加世界人形机器人运动会](https://www.zhihu.com/search?q=%E5%AE%87%E6%A0%91%E5%AE%98%E5%AE%A3%E5%8F%82%E5%8A%A0%E4%B8%96%E7%95%8C%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%BF%90%E5%8A%A8%E4%BC%9A)
-1. [重庆爱心冰柜的矿泉水遭哄抢](https://www.zhihu.com/search?q=%E9%87%8D%E5%BA%86%E7%88%B1%E5%BF%83%E5%86%B0%E6%9F%9C%E7%9A%84%E7%9F%BF%E6%B3%89%E6%B0%B4%E9%81%AD%E5%93%84%E6%8A%A2)
-1. [餐厅调包8200元茅台](https://www.zhihu.com/search?q=%E9%A4%90%E5%8E%85%E8%B0%83%E5%8C%858200%E5%85%83%E8%8C%85%E5%8F%B0)
 
 ## 热门话题
 
