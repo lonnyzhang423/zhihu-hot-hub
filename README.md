@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-08-16 15:11:21 +0800`
+`更新时间：2025-08-16 16:16:02 +0800`
 
 ## 热门搜索
 
@@ -33,11 +33,9 @@
 1. [小米汽车 YU7「轮轴比」被指算错数](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%20YU7%E3%80%8C%E8%BD%AE%E8%BD%B4%E6%AF%94%E3%80%8D%E8%A2%AB%E6%8C%87%E7%AE%97%E9%94%99%E6%95%B0)
 1. [美国国债总额首次超过 37 万亿美元](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E5%9B%BD%E5%80%BA%E6%80%BB%E9%A2%9D%E9%A6%96%E6%AC%A1%E8%B6%85%E8%BF%87%2037%20%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83)
 1. [宇树官宣参加世界人形机器人运动会](https://www.zhihu.com/search?q=%E5%AE%87%E6%A0%91%E5%AE%98%E5%AE%A3%E5%8F%82%E5%8A%A0%E4%B8%96%E7%95%8C%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%BF%90%E5%8A%A8%E4%BC%9A)
-1. [重庆爱心冰柜的矿泉水遭哄抢](https://www.zhihu.com/search?q=%E9%87%8D%E5%BA%86%E7%88%B1%E5%BF%83%E5%86%B0%E6%9F%9C%E7%9A%84%E7%9F%BF%E6%B3%89%E6%B0%B4%E9%81%AD%E5%93%84%E6%8A%A2)
-1. [餐厅调包8200元茅台](https://www.zhihu.com/search?q=%E9%A4%90%E5%8E%85%E8%B0%83%E5%8C%858200%E5%85%83%E8%8C%85%E5%8F%B0)
-1. [综艺《姐姐妹妹抓娃娃》定档](https://www.zhihu.com/search?q=%E7%BB%BC%E8%89%BA%E3%80%8A%E5%A7%90%E5%A7%90%E5%A6%B9%E5%A6%B9%E6%8A%93%E5%A8%83%E5%A8%83%E3%80%8B%E5%AE%9A%E6%A1%A3)
 1. [耐克起诉陈冠希](https://www.zhihu.com/search?q=%E8%80%90%E5%85%8B%E8%B5%B7%E8%AF%89%E9%99%88%E5%86%A0%E5%B8%8C)
 1. [珀斯华人区连发枪击纵火案](https://www.zhihu.com/search?q=%E7%8F%80%E6%96%AF%E5%8D%8E%E4%BA%BA%E5%8C%BA%E8%BF%9E%E5%8F%91%E6%9E%AA%E5%87%BB%E7%BA%B5%E7%81%AB%E6%A1%88)
+1. [买到被洪水泡过的饮料有哪些风险](https://www.zhihu.com/search?q=%E4%B9%B0%E5%88%B0%E8%A2%AB%E6%B4%AA%E6%B0%B4%E6%B3%A1%E8%BF%87%E7%9A%84%E9%A5%AE%E6%96%99%E6%9C%89%E5%93%AA%E4%BA%9B%E9%A3%8E%E9%99%A9)
 
 ## 热门话题
 
