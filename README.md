@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-08-16 14:17:14 +0800`
+`更新时间：2025-08-16 15:11:21 +0800`
 
 ## 热门搜索
 
@@ -24,7 +24,6 @@
 1. [旅客称列车卧铺有床虱](https://www.zhihu.com/search?q=%E6%97%85%E5%AE%A2%E7%A7%B0%E5%88%97%E8%BD%A6%E5%8D%A7%E9%93%BA%E6%9C%89%E5%BA%8A%E8%99%B1)
 1. [朱令骨灰已安葬](https://www.zhihu.com/search?q=%E6%9C%B1%E4%BB%A4%E9%AA%A8%E7%81%B0%E5%B7%B2%E5%AE%89%E8%91%AC)
 1. [个人单笔5万元以下消费可享贴息](https://www.zhihu.com/search?q=%E4%B8%AA%E4%BA%BA%E5%8D%95%E7%AC%945%E4%B8%87%E5%85%83%E4%BB%A5%E4%B8%8B%E6%B6%88%E8%B4%B9%E5%8F%AF%E4%BA%AB%E8%B4%B4%E6%81%AF)
-1. [女大学生在江西一景区被男子杀害](https://www.zhihu.com/search?q=%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%9C%A8%E6%B1%9F%E8%A5%BF%E4%B8%80%E6%99%AF%E5%8C%BA%E8%A2%AB%E7%94%B7%E5%AD%90%E6%9D%80%E5%AE%B3)
 1. [半岛电视台记者团队遭以军袭击](https://www.zhihu.com/search?q=%E5%8D%8A%E5%B2%9B%E7%94%B5%E8%A7%86%E5%8F%B0%E8%AE%B0%E8%80%85%E5%9B%A2%E9%98%9F%E9%81%AD%E4%BB%A5%E5%86%9B%E8%A2%AD%E5%87%BB)
 1. [女孩考上大学被父母指责报太远](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%A9%E8%80%83%E4%B8%8A%E5%A4%A7%E5%AD%A6%E8%A2%AB%E7%88%B6%E6%AF%8D%E6%8C%87%E8%B4%A3%E6%8A%A5%E5%A4%AA%E8%BF%9C)
 1. [阿迪达斯就新鞋抄袭道歉](https://www.zhihu.com/search?q=%E9%98%BF%E8%BF%AA%E8%BE%BE%E6%96%AF%E5%B0%B1%E6%96%B0%E9%9E%8B%E6%8A%84%E8%A2%AD%E9%81%93%E6%AD%89)
