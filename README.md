@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-08-18 20:57:09 +0800`
+`更新时间：2025-08-18 21:41:12 +0800`
 
 ## 热门搜索
 
@@ -36,6 +36,7 @@
 1. [研究表明性别逆转在鸟类中普遍存在](https://www.zhihu.com/search?q=%E7%A0%94%E7%A9%B6%E8%A1%A8%E6%98%8E%E6%80%A7%E5%88%AB%E9%80%86%E8%BD%AC%E5%9C%A8%E9%B8%9F%E7%B1%BB%E4%B8%AD%E6%99%AE%E9%81%8D%E5%AD%98%E5%9C%A8)
 1. [2024 感动中国年度人物](https://www.zhihu.com/search?q=2024%20%E6%84%9F%E5%8A%A8%E4%B8%AD%E5%9B%BD%E5%B9%B4%E5%BA%A6%E4%BA%BA%E7%89%A9)
 1. [峨眉山上半年客流减少14万](https://www.zhihu.com/search?q=%E5%B3%A8%E7%9C%89%E5%B1%B1%E4%B8%8A%E5%8D%8A%E5%B9%B4%E5%AE%A2%E6%B5%81%E5%87%8F%E5%B0%9114%E4%B8%87)
+1. [全球首个用于治疗脂肪肝的减重药来了](https://www.zhihu.com/search?q=%E5%85%A8%E7%90%83%E9%A6%96%E4%B8%AA%E7%94%A8%E4%BA%8E%E6%B2%BB%E7%96%97%E8%84%82%E8%82%AA%E8%82%9D%E7%9A%84%E5%87%8F%E9%87%8D%E8%8D%AF%E6%9D%A5%E4%BA%86)
 
 ## 热门话题
 
