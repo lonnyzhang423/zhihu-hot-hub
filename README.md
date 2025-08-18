@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-08-18 09:04:58 +0800`
+`更新时间：2025-08-18 11:24:24 +0800`
 
 ## 热门搜索
 
@@ -21,6 +21,7 @@
 1. [阿迪达斯就新鞋抄袭道歉](https://www.zhihu.com/search?q=%E9%98%BF%E8%BF%AA%E8%BE%BE%E6%96%AF%E5%B0%B1%E6%96%B0%E9%9E%8B%E6%8A%84%E8%A2%AD%E9%81%93%E6%AD%89)
 1. [印度洋上空现10个神秘黑暗空洞](https://www.zhihu.com/search?q=%E5%8D%B0%E5%BA%A6%E6%B4%8B%E4%B8%8A%E7%A9%BA%E7%8E%B010%E4%B8%AA%E7%A5%9E%E7%A7%98%E9%BB%91%E6%9A%97%E7%A9%BA%E6%B4%9E)
 1. [韩国星巴克禁止携带大型工作设备](https://www.zhihu.com/search?q=%E9%9F%A9%E5%9B%BD%E6%98%9F%E5%B7%B4%E5%85%8B%E7%A6%81%E6%AD%A2%E6%90%BA%E5%B8%A6%E5%A4%A7%E5%9E%8B%E5%B7%A5%E4%BD%9C%E8%AE%BE%E5%A4%87)
+1. [男童被人带去冒名顶替打疫苗](https://www.zhihu.com/search?q=%E7%94%B7%E7%AB%A5%E8%A2%AB%E4%BA%BA%E5%B8%A6%E5%8E%BB%E5%86%92%E5%90%8D%E9%A1%B6%E6%9B%BF%E6%89%93%E7%96%AB%E8%8B%97)
 1. [人形机器人运动会首金诞生](https://www.zhihu.com/search?q=%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%BF%90%E5%8A%A8%E4%BC%9A%E9%A6%96%E9%87%91%E8%AF%9E%E7%94%9F)
 1. [巴菲特二季度重启抛售苹果](https://www.zhihu.com/search?q=%E5%B7%B4%E8%8F%B2%E7%89%B9%E4%BA%8C%E5%AD%A3%E5%BA%A6%E9%87%8D%E5%90%AF%E6%8A%9B%E5%94%AE%E8%8B%B9%E6%9E%9C)
 1. [官方通报肖某董某莹事件调查处置及问责情况](https://www.zhihu.com/search?q=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E8%82%96%E6%9F%90%E8%91%A3%E6%9F%90%E8%8E%B9%E4%BA%8B%E4%BB%B6%E8%B0%83%E6%9F%A5%E5%A4%84%E7%BD%AE%E5%8F%8A%E9%97%AE%E8%B4%A3%E6%83%85%E5%86%B5)
