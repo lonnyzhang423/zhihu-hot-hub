@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-08-19 13:12:58 +0800`
+`更新时间：2025-08-19 14:18:49 +0800`
 
 ## 热门搜索
 
@@ -27,7 +27,6 @@
 1. [樊振东8月31日德甲首战](https://www.zhihu.com/search?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C8%E6%9C%8831%E6%97%A5%E5%BE%B7%E7%94%B2%E9%A6%96%E6%88%98)
 1. [2025世界人形机器人运动会](https://www.zhihu.com/search?q=2025%E4%B8%96%E7%95%8C%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%BF%90%E5%8A%A8%E4%BC%9A)
 1. [俄工厂火药车间爆炸致11死](https://www.zhihu.com/search?q=%E4%BF%84%E5%B7%A5%E5%8E%82%E7%81%AB%E8%8D%AF%E8%BD%A6%E9%97%B4%E7%88%86%E7%82%B8%E8%87%B411%E6%AD%BB)
-1. [87岁书画家范曾疑被妻子卷走20亿](https://www.zhihu.com/search?q=87%E5%B2%81%E4%B9%A6%E7%94%BB%E5%AE%B6%E8%8C%83%E6%9B%BE%E7%96%91%E8%A2%AB%E5%A6%BB%E5%AD%90%E5%8D%B7%E8%B5%B020%E4%BA%BF)
 1. [郑钦文获颁感动中国年度人物](https://www.zhihu.com/search?q=%E9%83%91%E9%92%A6%E6%96%87%E8%8E%B7%E9%A2%81%E6%84%9F%E5%8A%A8%E4%B8%AD%E5%9B%BD%E5%B9%B4%E5%BA%A6%E4%BA%BA%E7%89%A9)
 1. [2024 感动中国年度人物](https://www.zhihu.com/search?q=2024%20%E6%84%9F%E5%8A%A8%E4%B8%AD%E5%9B%BD%E5%B9%B4%E5%BA%A6%E4%BA%BA%E7%89%A9)
 1. [峨眉山上半年客流减少14万](https://www.zhihu.com/search?q=%E5%B3%A8%E7%9C%89%E5%B1%B1%E4%B8%8A%E5%8D%8A%E5%B9%B4%E5%AE%A2%E6%B5%81%E5%87%8F%E5%B0%9114%E4%B8%87)
@@ -35,6 +34,8 @@
 1. [网友吐槽苏州火车站厕所](https://www.zhihu.com/search?q=%E7%BD%91%E5%8F%8B%E5%90%90%E6%A7%BD%E8%8B%8F%E5%B7%9E%E7%81%AB%E8%BD%A6%E7%AB%99%E5%8E%95%E6%89%80)
 1. [内蒙古一地山洪致野外露营人员8人遇难](https://www.zhihu.com/search?q=%E5%86%85%E8%92%99%E5%8F%A4%E4%B8%80%E5%9C%B0%E5%B1%B1%E6%B4%AA%E8%87%B4%E9%87%8E%E5%A4%96%E9%9C%B2%E8%90%A5%E4%BA%BA%E5%91%988%E4%BA%BA%E9%81%87%E9%9A%BE)
 1. [四川一蜜雪冰橙模仿蜜雪冰城](https://www.zhihu.com/search?q=%E5%9B%9B%E5%B7%9D%E4%B8%80%E8%9C%9C%E9%9B%AA%E5%86%B0%E6%A9%99%E6%A8%A1%E4%BB%BF%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E)
+1. [ 一加宣布coloros16调整bootloader](https://www.zhihu.com/search?q=%20%E4%B8%80%E5%8A%A0%E5%AE%A3%E5%B8%83coloros16%E8%B0%83%E6%95%B4bootloader)
+1. [多地陆续暂停汽车置换补贴](https://www.zhihu.com/search?q=%E5%A4%9A%E5%9C%B0%E9%99%86%E7%BB%AD%E6%9A%82%E5%81%9C%E6%B1%BD%E8%BD%A6%E7%BD%AE%E6%8D%A2%E8%A1%A5%E8%B4%B4)
 
 ## 热门话题
 
