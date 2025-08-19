@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-08-19 16:16:54 +0800`
+`更新时间：2025-08-19 17:13:19 +0800`
 
 ## 热门搜索
 
-1. [我国成功发射卫星互联网低轨卫星](https://www.zhihu.com/search?q=%E6%88%91%E5%9B%BD%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84%E5%8D%AB%E6%98%9F%E4%BA%92%E8%81%94%E7%BD%91%E4%BD%8E%E8%BD%A8%E5%8D%AB%E6%98%9F)
+1. [美扩大对钢铁和铝进口征收50%关税范围](https://www.zhihu.com/search?q=%E7%BE%8E%E6%89%A9%E5%A4%A7%E5%AF%B9%E9%92%A2%E9%93%81%E5%92%8C%E9%93%9D%E8%BF%9B%E5%8F%A3%E5%BE%81%E6%94%B650%25%E5%85%B3%E7%A8%8E%E8%8C%83%E5%9B%B4)
+1. [曝王楚钦因档期取消金九拍摄](https://www.zhihu.com/search?q=%E6%9B%9D%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%9B%A0%E6%A1%A3%E6%9C%9F%E5%8F%96%E6%B6%88%E9%87%91%E4%B9%9D%E6%8B%8D%E6%91%84)
 1. [高铁去泡面化](https://www.zhihu.com/search?q=%E9%AB%98%E9%93%81%E5%8E%BB%E6%B3%A1%E9%9D%A2%E5%8C%96)
 1. [男童被人带去冒名顶替打疫苗](https://www.zhihu.com/search?q=%E7%94%B7%E7%AB%A5%E8%A2%AB%E4%BA%BA%E5%B8%A6%E5%8E%BB%E5%86%92%E5%90%8D%E9%A1%B6%E6%9B%BF%E6%89%93%E7%96%AB%E8%8B%97)
 1. [人形机器人运动会首金诞生](https://www.zhihu.com/search?q=%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%BF%90%E5%8A%A8%E4%BC%9A%E9%A6%96%E9%87%91%E8%AF%9E%E7%94%9F)
