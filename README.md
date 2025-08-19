@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-08-19 20:51:34 +0800`
+`更新时间：2025-08-19 21:35:03 +0800`
 
 ## 热门搜索
 
@@ -27,7 +27,6 @@
 1. [2024 感动中国年度人物](https://www.zhihu.com/search?q=2024%20%E6%84%9F%E5%8A%A8%E4%B8%AD%E5%9B%BD%E5%B9%B4%E5%BA%A6%E4%BA%BA%E7%89%A9)
 1. [新藏铁路公司成立](https://www.zhihu.com/search?q=%E6%96%B0%E8%97%8F%E9%93%81%E8%B7%AF%E5%85%AC%E5%8F%B8%E6%88%90%E7%AB%8B)
 1. [外卖小哥发现带血枕头报警救人](https://www.zhihu.com/search?q=%E5%A4%96%E5%8D%96%E5%B0%8F%E5%93%A5%E5%8F%91%E7%8E%B0%E5%B8%A6%E8%A1%80%E6%9E%95%E5%A4%B4%E6%8A%A5%E8%AD%A6%E6%95%91%E4%BA%BA)
-1. [四川一蜜雪冰橙模仿蜜雪冰城](https://www.zhihu.com/search?q=%E5%9B%9B%E5%B7%9D%E4%B8%80%E8%9C%9C%E9%9B%AA%E5%86%B0%E6%A9%99%E6%A8%A1%E4%BB%BF%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E)
 1. [ 一加宣布coloros16调整bootloader](https://www.zhihu.com/search?q=%20%E4%B8%80%E5%8A%A0%E5%AE%A3%E5%B8%83coloros16%E8%B0%83%E6%95%B4bootloader)
 1. [多地陆续暂停汽车置换补贴](https://www.zhihu.com/search?q=%E5%A4%9A%E5%9C%B0%E9%99%86%E7%BB%AD%E6%9A%82%E5%81%9C%E6%B1%BD%E8%BD%A6%E7%BD%AE%E6%8D%A2%E8%A1%A5%E8%B4%B4)
 1. [LCD屏圈子发起LCD自救签名运动](https://www.zhihu.com/search?q=LCD%E5%B1%8F%E5%9C%88%E5%AD%90%E5%8F%91%E8%B5%B7LCD%E8%87%AA%E6%95%91%E7%AD%BE%E5%90%8D%E8%BF%90%E5%8A%A8)
