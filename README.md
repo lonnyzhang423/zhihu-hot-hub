@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-08-20 00:15:14 +0800`
+`更新时间：2025-08-20 01:11:05 +0800`
 
 ## 热门搜索
 
@@ -34,6 +34,7 @@
 1. [印度计划 2030 年成为第一大电动汽车生产国](https://www.zhihu.com/search?q=%E5%8D%B0%E5%BA%A6%E8%AE%A1%E5%88%92%202030%20%E5%B9%B4%E6%88%90%E4%B8%BA%E7%AC%AC%E4%B8%80%E5%A4%A7%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E7%94%9F%E4%BA%A7%E5%9B%BD)
 1. [中国男篮亚军](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E4%BA%9A%E5%86%9B)
 1. [上海浦东机场「箱子垫垫员」走红](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%E6%B5%A6%E4%B8%9C%E6%9C%BA%E5%9C%BA%E3%80%8C%E7%AE%B1%E5%AD%90%E5%9E%AB%E5%9E%AB%E5%91%98%E3%80%8D%E8%B5%B0%E7%BA%A2)
+1. [纳斯达克市值与美国M2货币供应量比率达145%](https://www.zhihu.com/search?q=%E7%BA%B3%E6%96%AF%E8%BE%BE%E5%85%8B%E5%B8%82%E5%80%BC%E4%B8%8E%E7%BE%8E%E5%9B%BDM2%E8%B4%A7%E5%B8%81%E4%BE%9B%E5%BA%94%E9%87%8F%E6%AF%94%E7%8E%87%E8%BE%BE145%25)
 
 ## 热门话题
 
