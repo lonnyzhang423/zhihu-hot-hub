@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-08-20 22:26:40 +0800`
+`更新时间：2025-08-20 23:27:47 +0800`
 
 ## 热门搜索
 
-1. [云南宁洱泥石流致3死1失联](https://www.zhihu.com/search?q=%E4%BA%91%E5%8D%97%E5%AE%81%E6%B4%B1%E6%B3%A5%E7%9F%B3%E6%B5%81%E8%87%B43%E6%AD%BB1%E5%A4%B1%E8%81%94)
-1. [在央企里误把价值百万的设备搞坏会被开除吗](https://www.zhihu.com/search?q=%E5%9C%A8%E5%A4%AE%E4%BC%81%E9%87%8C%E8%AF%AF%E6%8A%8A%E4%BB%B7%E5%80%BC%E7%99%BE%E4%B8%87%E7%9A%84%E8%AE%BE%E5%A4%87%E6%90%9E%E5%9D%8F%E4%BC%9A%E8%A2%AB%E5%BC%80%E9%99%A4%E5%90%97)
+1. [东方甄选报警](https://www.zhihu.com/search?q=%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%89%E6%8A%A5%E8%AD%A6)
+1. [有哪些童言童行惊艳到你](https://www.zhihu.com/search?q=%E6%9C%89%E5%93%AA%E4%BA%9B%E7%AB%A5%E8%A8%80%E7%AB%A5%E8%A1%8C%E6%83%8A%E8%89%B3%E5%88%B0%E4%BD%A0)
 1. [工业克苏鲁什么意思](https://www.zhihu.com/search?q=%E5%B7%A5%E4%B8%9A%E5%85%8B%E8%8B%8F%E9%B2%81%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D)
 1. [著名的设计失败的汽车有哪些](https://www.zhihu.com/search?q=%E8%91%97%E5%90%8D%E7%9A%84%E8%AE%BE%E8%AE%A1%E5%A4%B1%E8%B4%A5%E7%9A%84%E6%B1%BD%E8%BD%A6%E6%9C%89%E5%93%AA%E4%BA%9B)
 1. [蜜雪冰城为什么能火这么多年](https://www.zhihu.com/search?q=%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E4%B8%BA%E4%BB%80%E4%B9%88%E8%83%BD%E7%81%AB%E8%BF%99%E4%B9%88%E5%A4%9A%E5%B9%B4)
@@ -35,6 +35,7 @@
 1. [为何有人觉得大部分国家的快乐教育是错误的](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BD%95%E6%9C%89%E4%BA%BA%E8%A7%89%E5%BE%97%E5%A4%A7%E9%83%A8%E5%88%86%E5%9B%BD%E5%AE%B6%E7%9A%84%E5%BF%AB%E4%B9%90%E6%95%99%E8%82%B2%E6%98%AF%E9%94%99%E8%AF%AF%E7%9A%84)
 1. [续面女顾客称店家未遵守调解协议准备起诉](https://www.zhihu.com/search?q=%E7%BB%AD%E9%9D%A2%E5%A5%B3%E9%A1%BE%E5%AE%A2%E7%A7%B0%E5%BA%97%E5%AE%B6%E6%9C%AA%E9%81%B5%E5%AE%88%E8%B0%83%E8%A7%A3%E5%8D%8F%E8%AE%AE%E5%87%86%E5%A4%87%E8%B5%B7%E8%AF%89)
 1. [如果蚊子全部吸脂肪你会主动喂养蚊子吗](https://www.zhihu.com/search?q=%E5%A6%82%E6%9E%9C%E8%9A%8A%E5%AD%90%E5%85%A8%E9%83%A8%E5%90%B8%E8%84%82%E8%82%AA%E4%BD%A0%E4%BC%9A%E4%B8%BB%E5%8A%A8%E5%96%82%E5%85%BB%E8%9A%8A%E5%AD%90%E5%90%97)
+1. [某海洋公园长期给海豚用镇静药是真的吗](https://www.zhihu.com/search?q=%E6%9F%90%E6%B5%B7%E6%B4%8B%E5%85%AC%E5%9B%AD%E9%95%BF%E6%9C%9F%E7%BB%99%E6%B5%B7%E8%B1%9A%E7%94%A8%E9%95%87%E9%9D%99%E8%8D%AF%E6%98%AF%E7%9C%9F%E7%9A%84%E5%90%97)
 
 ## 热门话题
 
