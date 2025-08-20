@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-08-20 20:53:15 +0800`
+`更新时间：2025-08-20 21:35:29 +0800`
 
 ## 热门搜索
 
@@ -20,8 +20,6 @@
 1. [工业克苏鲁什么意思](https://www.zhihu.com/search?q=%E5%B7%A5%E4%B8%9A%E5%85%8B%E8%8B%8F%E9%B2%81%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D)
 1. [著名的设计失败的汽车有哪些](https://www.zhihu.com/search?q=%E8%91%97%E5%90%8D%E7%9A%84%E8%AE%BE%E8%AE%A1%E5%A4%B1%E8%B4%A5%E7%9A%84%E6%B1%BD%E8%BD%A6%E6%9C%89%E5%93%AA%E4%BA%9B)
 1. [蜜雪冰城为什么能火这么多年](https://www.zhihu.com/search?q=%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E4%B8%BA%E4%BB%80%E4%B9%88%E8%83%BD%E7%81%AB%E8%BF%99%E4%B9%88%E5%A4%9A%E5%B9%B4)
-1. [ 一加宣布coloros16调整bootloader](https://www.zhihu.com/search?q=%20%E4%B8%80%E5%8A%A0%E5%AE%A3%E5%B8%83coloros16%E8%B0%83%E6%95%B4bootloader)
-1. [多地陆续暂停汽车置换补贴](https://www.zhihu.com/search?q=%E5%A4%9A%E5%9C%B0%E9%99%86%E7%BB%AD%E6%9A%82%E5%81%9C%E6%B1%BD%E8%BD%A6%E7%BD%AE%E6%8D%A2%E8%A1%A5%E8%B4%B4)
 1. [浪浪山小妖怪成首部票房破 10 亿二维动画](https://www.zhihu.com/search?q=%E6%B5%AA%E6%B5%AA%E5%B1%B1%E5%B0%8F%E5%A6%96%E6%80%AA%E6%88%90%E9%A6%96%E9%83%A8%E7%A5%A8%E6%88%BF%E7%A0%B4%2010%20%E4%BA%BF%E4%BA%8C%E7%BB%B4%E5%8A%A8%E7%94%BB)
 1. [中国男篮亚军](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E4%BA%9A%E5%86%9B)
 1. [戚薇承认医美过度](https://www.zhihu.com/search?q=%E6%88%9A%E8%96%87%E6%89%BF%E8%AE%A4%E5%8C%BB%E7%BE%8E%E8%BF%87%E5%BA%A6)
@@ -35,6 +33,8 @@
 1. [谷爱凌因人为事故受伤是怎么回事](https://www.zhihu.com/search?q=%E8%B0%B7%E7%88%B1%E5%87%8C%E5%9B%A0%E4%BA%BA%E4%B8%BA%E4%BA%8B%E6%95%85%E5%8F%97%E4%BC%A4%E6%98%AF%E6%80%8E%E4%B9%88%E5%9B%9E%E4%BA%8B)
 1. [为什么峨眉山上半年客流会减少那么多](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%B3%A8%E7%9C%89%E5%B1%B1%E4%B8%8A%E5%8D%8A%E5%B9%B4%E5%AE%A2%E6%B5%81%E4%BC%9A%E5%87%8F%E5%B0%91%E9%82%A3%E4%B9%88%E5%A4%9A)
 1. [为何有人觉得大部分国家的快乐教育是错误的](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BD%95%E6%9C%89%E4%BA%BA%E8%A7%89%E5%BE%97%E5%A4%A7%E9%83%A8%E5%88%86%E5%9B%BD%E5%AE%B6%E7%9A%84%E5%BF%AB%E4%B9%90%E6%95%99%E8%82%B2%E6%98%AF%E9%94%99%E8%AF%AF%E7%9A%84)
+1. [续面女顾客称店家未遵守调解协议准备起诉](https://www.zhihu.com/search?q=%E7%BB%AD%E9%9D%A2%E5%A5%B3%E9%A1%BE%E5%AE%A2%E7%A7%B0%E5%BA%97%E5%AE%B6%E6%9C%AA%E9%81%B5%E5%AE%88%E8%B0%83%E8%A7%A3%E5%8D%8F%E8%AE%AE%E5%87%86%E5%A4%87%E8%B5%B7%E8%AF%89)
+1. [如果蚊子全部吸脂肪你会主动喂养蚊子吗](https://www.zhihu.com/search?q=%E5%A6%82%E6%9E%9C%E8%9A%8A%E5%AD%90%E5%85%A8%E9%83%A8%E5%90%B8%E8%84%82%E8%82%AA%E4%BD%A0%E4%BC%9A%E4%B8%BB%E5%8A%A8%E5%96%82%E5%85%BB%E8%9A%8A%E5%AD%90%E5%90%97)
 
 ## 热门话题
 
