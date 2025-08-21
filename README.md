@@ -11,14 +11,14 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-08-21 22:26:16 +0800`
+`更新时间：2025-08-21 23:27:42 +0800`
 
 ## 热门搜索
 
-1. [明星现实中真的很漂亮吗](https://www.zhihu.com/search?q=%E6%98%8E%E6%98%9F%E7%8E%B0%E5%AE%9E%E4%B8%AD%E7%9C%9F%E7%9A%84%E5%BE%88%E6%BC%82%E4%BA%AE%E5%90%97)
-1. [有哪些童言童行惊艳到你](https://www.zhihu.com/search?q=%E6%9C%89%E5%93%AA%E4%BA%9B%E7%AB%A5%E8%A8%80%E7%AB%A5%E8%A1%8C%E6%83%8A%E8%89%B3%E5%88%B0%E4%BD%A0)
+1. [中国一汽回应收购零跑汽车10%股权](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E4%B8%80%E6%B1%BD%E5%9B%9E%E5%BA%94%E6%94%B6%E8%B4%AD%E9%9B%B6%E8%B7%91%E6%B1%BD%E8%BD%A610%25%E8%82%A1%E6%9D%83)
+1. [为什么感觉四川人那么散漫和乐观](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%84%9F%E8%A7%89%E5%9B%9B%E5%B7%9D%E4%BA%BA%E9%82%A3%E4%B9%88%E6%95%A3%E6%BC%AB%E5%92%8C%E4%B9%90%E8%A7%82)
 1. [工业克苏鲁什么意思](https://www.zhihu.com/search?q=%E5%B7%A5%E4%B8%9A%E5%85%8B%E8%8B%8F%E9%B2%81%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D)
-1. [为什么虾皮里总能发现小螃蟹](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%99%BE%E7%9A%AE%E9%87%8C%E6%80%BB%E8%83%BD%E5%8F%91%E7%8E%B0%E5%B0%8F%E8%9E%83%E8%9F%B9)
+1. [巨大火球飞越日本上空](https://www.zhihu.com/search?q=%E5%B7%A8%E5%A4%A7%E7%81%AB%E7%90%83%E9%A3%9E%E8%B6%8A%E6%97%A5%E6%9C%AC%E4%B8%8A%E7%A9%BA)
 1. [著名的设计失败的汽车有哪些](https://www.zhihu.com/search?q=%E8%91%97%E5%90%8D%E7%9A%84%E8%AE%BE%E8%AE%A1%E5%A4%B1%E8%B4%A5%E7%9A%84%E6%B1%BD%E8%BD%A6%E6%9C%89%E5%93%AA%E4%BA%9B)
 1. [蜜雪冰城为什么能火这么多年](https://www.zhihu.com/search?q=%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E4%B8%BA%E4%BB%80%E4%B9%88%E8%83%BD%E7%81%AB%E8%BF%99%E4%B9%88%E5%A4%9A%E5%B9%B4)
 1. [中国男篮亚军](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E4%BA%9A%E5%86%9B)
