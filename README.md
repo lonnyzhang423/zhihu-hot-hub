@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-08-22 11:13:33 +0800`
+`更新时间：2025-08-22 12:29:11 +0800`
 
 ## 热门搜索
 
@@ -23,18 +23,18 @@
 1. [蜜雪冰城为什么能火这么多年](https://www.zhihu.com/search?q=%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E4%B8%BA%E4%BB%80%E4%B9%88%E8%83%BD%E7%81%AB%E8%BF%99%E4%B9%88%E5%A4%9A%E5%B9%B4)
 1. [中国男篮亚军](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E4%BA%9A%E5%86%9B)
 1. [戚薇承认医美过度](https://www.zhihu.com/search?q=%E6%88%9A%E8%96%87%E6%89%BF%E8%AE%A4%E5%8C%BB%E7%BE%8E%E8%BF%87%E5%BA%A6)
-1. [「幼升小」也开始流行升学宴](https://www.zhihu.com/search?q=%E3%80%8C%E5%B9%BC%E5%8D%87%E5%B0%8F%E3%80%8D%E4%B9%9F%E5%BC%80%E5%A7%8B%E6%B5%81%E8%A1%8C%E5%8D%87%E5%AD%A6%E5%AE%B4)
 1. [金钟国官宣结婚](https://www.zhihu.com/search?q=%E9%87%91%E9%92%9F%E5%9B%BD%E5%AE%98%E5%AE%A3%E7%BB%93%E5%A9%9A)
 1. [韩国公园惊现「3D 全息投影警察」](https://www.zhihu.com/search?q=%E9%9F%A9%E5%9B%BD%E5%85%AC%E5%9B%AD%E6%83%8A%E7%8E%B0%E3%80%8C3D%20%E5%85%A8%E6%81%AF%E6%8A%95%E5%BD%B1%E8%AD%A6%E5%AF%9F%E3%80%8D)
 1. [特斯拉 Model Y L 上市](https://www.zhihu.com/search?q=%E7%89%B9%E6%96%AF%E6%8B%89%20Model%20Y%20L%20%E4%B8%8A%E5%B8%82)
-1. [我国日均 Token 消耗量突破 30 万亿](https://www.zhihu.com/search?q=%E6%88%91%E5%9B%BD%E6%97%A5%E5%9D%87%20Token%20%E6%B6%88%E8%80%97%E9%87%8F%E7%AA%81%E7%A0%B4%2030%20%E4%B8%87%E4%BA%BF)
 1. [《无畏契约手游》 手游上线](https://www.zhihu.com/search?q=%E3%80%8A%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6%E6%89%8B%E6%B8%B8%E3%80%8B%20%E6%89%8B%E6%B8%B8%E4%B8%8A%E7%BA%BF)
-1. [儿童票看身高还是要看年龄](https://www.zhihu.com/search?q=%E5%84%BF%E7%AB%A5%E7%A5%A8%E7%9C%8B%E8%BA%AB%E9%AB%98%E8%BF%98%E6%98%AF%E8%A6%81%E7%9C%8B%E5%B9%B4%E9%BE%84)
 1. [京东已为15万全职骑手缴纳五险一金](https://www.zhihu.com/search?q=%E4%BA%AC%E4%B8%9C%E5%B7%B2%E4%B8%BA15%E4%B8%87%E5%85%A8%E8%81%8C%E9%AA%91%E6%89%8B%E7%BC%B4%E7%BA%B3%E4%BA%94%E9%99%A9%E4%B8%80%E9%87%91)
-1. [中国首部8K拍摄太空电影](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E9%A6%96%E9%83%A88K%E6%8B%8D%E6%91%84%E5%A4%AA%E7%A9%BA%E7%94%B5%E5%BD%B1)
 1. [内蒙古鄂尔多斯暴雨致3死3失联](https://www.zhihu.com/search?q=%E5%86%85%E8%92%99%E5%8F%A4%E9%84%82%E5%B0%94%E5%A4%9A%E6%96%AF%E6%9A%B4%E9%9B%A8%E8%87%B43%E6%AD%BB3%E5%A4%B1%E8%81%94)
 1. [方便面被年轻人抛弃的原因是什么](https://www.zhihu.com/search?q=%E6%96%B9%E4%BE%BF%E9%9D%A2%E8%A2%AB%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%8A%9B%E5%BC%83%E7%9A%84%E5%8E%9F%E5%9B%A0%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [女子被锁咬破手指写求救信](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E8%A2%AB%E9%94%81%E5%92%AC%E7%A0%B4%E6%89%8B%E6%8C%87%E5%86%99%E6%B1%82%E6%95%91%E4%BF%A1)
+1. [男子游玩时向人借宿遭拒后将其杀害](https://www.zhihu.com/search?q=%E7%94%B7%E5%AD%90%E6%B8%B8%E7%8E%A9%E6%97%B6%E5%90%91%E4%BA%BA%E5%80%9F%E5%AE%BF%E9%81%AD%E6%8B%92%E5%90%8E%E5%B0%86%E5%85%B6%E6%9D%80%E5%AE%B3)
+1. [如何看待「捕风追影」开分 8.1](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E3%80%8C%E6%8D%95%E9%A3%8E%E8%BF%BD%E5%BD%B1%E3%80%8D%E5%BC%80%E5%88%86%208.1)
+1. [高压氧舱有缓解疲劳等效果是真的吗](https://www.zhihu.com/search?q=%E9%AB%98%E5%8E%8B%E6%B0%A7%E8%88%B1%E6%9C%89%E7%BC%93%E8%A7%A3%E7%96%B2%E5%8A%B3%E7%AD%89%E6%95%88%E6%9E%9C%E6%98%AF%E7%9C%9F%E7%9A%84%E5%90%97)
+1. [喂二十世纪前数理知识 AI 能推相对论吗](https://www.zhihu.com/search?q=%E5%96%82%E4%BA%8C%E5%8D%81%E4%B8%96%E7%BA%AA%E5%89%8D%E6%95%B0%E7%90%86%E7%9F%A5%E8%AF%86%20AI%20%E8%83%BD%E6%8E%A8%E7%9B%B8%E5%AF%B9%E8%AE%BA%E5%90%97)
 
 ## 热门话题
 
