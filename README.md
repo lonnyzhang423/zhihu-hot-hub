@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-08-23 07:11:27 +0800`
+`更新时间：2025-08-23 08:54:49 +0800`
 
 ## 热门搜索
 
@@ -33,7 +33,6 @@
 1. [20250903](https://www.zhihu.com/search?q=20250903)
 1. [2025 科隆游戏展](https://www.zhihu.com/search?q=2025%20%E7%A7%91%E9%9A%86%E6%B8%B8%E6%88%8F%E5%B1%95)
 1. [小鹏汽车第二季度营收翻倍](https://www.zhihu.com/search?q=%E5%B0%8F%E9%B9%8F%E6%B1%BD%E8%BD%A6%E7%AC%AC%E4%BA%8C%E5%AD%A3%E5%BA%A6%E8%90%A5%E6%94%B6%E7%BF%BB%E5%80%8D)
-1. [沃尔宣布退役](https://www.zhihu.com/search?q=%E6%B2%83%E5%B0%94%E5%AE%A3%E5%B8%83%E9%80%80%E5%BD%B9)
 1. [我国建立石窟寺系统性保护体系](https://www.zhihu.com/search?q=%E6%88%91%E5%9B%BD%E5%BB%BA%E7%AB%8B%E7%9F%B3%E7%AA%9F%E5%AF%BA%E7%B3%BB%E7%BB%9F%E6%80%A7%E4%BF%9D%E6%8A%A4%E4%BD%93%E7%B3%BB)
 1. [上海白领兴起反叛式社交](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%E7%99%BD%E9%A2%86%E5%85%B4%E8%B5%B7%E5%8F%8D%E5%8F%9B%E5%BC%8F%E7%A4%BE%E4%BA%A4)
 1. [身首离断的救回手术难度有多大](https://www.zhihu.com/search?q=%E8%BA%AB%E9%A6%96%E7%A6%BB%E6%96%AD%E7%9A%84%E6%95%91%E5%9B%9E%E6%89%8B%E6%9C%AF%E9%9A%BE%E5%BA%A6%E6%9C%89%E5%A4%9A%E5%A4%A7)
@@ -43,6 +42,7 @@
 1. [离职要不要在公司群发个告别](https://www.zhihu.com/search?q=%E7%A6%BB%E8%81%8C%E8%A6%81%E4%B8%8D%E8%A6%81%E5%9C%A8%E5%85%AC%E5%8F%B8%E7%BE%A4%E5%8F%91%E4%B8%AA%E5%91%8A%E5%88%AB)
 1. [辛巴自创品牌卫生巾被曝有致癌风险](https://www.zhihu.com/search?q=%E8%BE%9B%E5%B7%B4%E8%87%AA%E5%88%9B%E5%93%81%E7%89%8C%E5%8D%AB%E7%94%9F%E5%B7%BE%E8%A2%AB%E6%9B%9D%E6%9C%89%E8%87%B4%E7%99%8C%E9%A3%8E%E9%99%A9)
 1. [被金融学录取感觉没前途应该转到心理学吗](https://www.zhihu.com/search?q=%E8%A2%AB%E9%87%91%E8%9E%8D%E5%AD%A6%E5%BD%95%E5%8F%96%E6%84%9F%E8%A7%89%E6%B2%A1%E5%89%8D%E9%80%94%E5%BA%94%E8%AF%A5%E8%BD%AC%E5%88%B0%E5%BF%83%E7%90%86%E5%AD%A6%E5%90%97)
+1. [Model Y L 的市场竞争力怎么样](https://www.zhihu.com/search?q=Model%20Y%20L%20%E7%9A%84%E5%B8%82%E5%9C%BA%E7%AB%9E%E4%BA%89%E5%8A%9B%E6%80%8E%E4%B9%88%E6%A0%B7)
 
 ## 热门话题
 
