@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-08-23 13:11:17 +0800`
+`更新时间：2025-08-23 14:16:07 +0800`
 
 ## 热门搜索
 
@@ -30,8 +30,6 @@
 1. [游戏科学发布《黑神话：钟馗》预告](https://www.zhihu.com/search?q=%E6%B8%B8%E6%88%8F%E7%A7%91%E5%AD%A6%E5%8F%91%E5%B8%83%E3%80%8A%E9%BB%91%E7%A5%9E%E8%AF%9D%EF%BC%9A%E9%92%9F%E9%A6%97%E3%80%8B%E9%A2%84%E5%91%8A)
 1. [女中医调休6天抽空打场UFC](https://www.zhihu.com/search?q=%E5%A5%B3%E4%B8%AD%E5%8C%BB%E8%B0%83%E4%BC%916%E5%A4%A9%E6%8A%BD%E7%A9%BA%E6%89%93%E5%9C%BAUFC)
 1. [2025 科隆游戏展](https://www.zhihu.com/search?q=2025%20%E7%A7%91%E9%9A%86%E6%B8%B8%E6%88%8F%E5%B1%95)
-1. [小鹏汽车第二季度营收翻倍](https://www.zhihu.com/search?q=%E5%B0%8F%E9%B9%8F%E6%B1%BD%E8%BD%A6%E7%AC%AC%E4%BA%8C%E5%AD%A3%E5%BA%A6%E8%90%A5%E6%94%B6%E7%BF%BB%E5%80%8D)
-1. [我国建立石窟寺系统性保护体系](https://www.zhihu.com/search?q=%E6%88%91%E5%9B%BD%E5%BB%BA%E7%AB%8B%E7%9F%B3%E7%AA%9F%E5%AF%BA%E7%B3%BB%E7%BB%9F%E6%80%A7%E4%BF%9D%E6%8A%A4%E4%BD%93%E7%B3%BB)
 1. [身首离断的救回手术难度有多大](https://www.zhihu.com/search?q=%E8%BA%AB%E9%A6%96%E7%A6%BB%E6%96%AD%E7%9A%84%E6%95%91%E5%9B%9E%E6%89%8B%E6%9C%AF%E9%9A%BE%E5%BA%A6%E6%9C%89%E5%A4%9A%E5%A4%A7)
 1. [富豪刘伟红收购门店遭房东集体起诉](https://www.zhihu.com/search?q=%E5%AF%8C%E8%B1%AA%E5%88%98%E4%BC%9F%E7%BA%A2%E6%94%B6%E8%B4%AD%E9%97%A8%E5%BA%97%E9%81%AD%E6%88%BF%E4%B8%9C%E9%9B%86%E4%BD%93%E8%B5%B7%E8%AF%89)
 1. [日均 Token 消耗三十万亿是什么概念](https://www.zhihu.com/search?q=%E6%97%A5%E5%9D%87%20Token%20%E6%B6%88%E8%80%97%E4%B8%89%E5%8D%81%E4%B8%87%E4%BA%BF%E6%98%AF%E4%BB%80%E4%B9%88%E6%A6%82%E5%BF%B5)
@@ -43,6 +41,8 @@
 1. [下个时代的手机会是什么样](https://www.zhihu.com/search?q=%E4%B8%8B%E4%B8%AA%E6%97%B6%E4%BB%A3%E7%9A%84%E6%89%8B%E6%9C%BA%E4%BC%9A%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7)
 1. [某科普书籍昆虫图片系「建模还原图」](https://www.zhihu.com/search?q=%E6%9F%90%E7%A7%91%E6%99%AE%E4%B9%A6%E7%B1%8D%E6%98%86%E8%99%AB%E5%9B%BE%E7%89%87%E7%B3%BB%E3%80%8C%E5%BB%BA%E6%A8%A1%E8%BF%98%E5%8E%9F%E5%9B%BE%E3%80%8D)
 1. [蚊子为什么一定要在耳边嗡嗡嗡](https://www.zhihu.com/search?q=%E8%9A%8A%E5%AD%90%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%80%E5%AE%9A%E8%A6%81%E5%9C%A8%E8%80%B3%E8%BE%B9%E5%97%A1%E5%97%A1%E5%97%A1)
+1. [胖东来招聘保安和保洁要求本科学历](https://www.zhihu.com/search?q=%E8%83%96%E4%B8%9C%E6%9D%A5%E6%8B%9B%E8%81%98%E4%BF%9D%E5%AE%89%E5%92%8C%E4%BF%9D%E6%B4%81%E8%A6%81%E6%B1%82%E6%9C%AC%E7%A7%91%E5%AD%A6%E5%8E%86)
+1. [怎样看网友称「不起诉面馆不买衣服」行为](https://www.zhihu.com/search?q=%E6%80%8E%E6%A0%B7%E7%9C%8B%E7%BD%91%E5%8F%8B%E7%A7%B0%E3%80%8C%E4%B8%8D%E8%B5%B7%E8%AF%89%E9%9D%A2%E9%A6%86%E4%B8%8D%E4%B9%B0%E8%A1%A3%E6%9C%8D%E3%80%8D%E8%A1%8C%E4%B8%BA)
 
 ## 热门话题
 
