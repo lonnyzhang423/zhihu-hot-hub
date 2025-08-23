@@ -11,18 +11,20 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-08-23 16:29:35 +0800`
+`更新时间：2025-08-23 17:23:57 +0800`
 
 ## 热门搜索
 
-1. [战鹰玩恐怖游戏因惊吓导致阑尾炎](https://www.zhihu.com/search?q=%E6%88%98%E9%B9%B0%E7%8E%A9%E6%81%90%E6%80%96%E6%B8%B8%E6%88%8F%E5%9B%A0%E6%83%8A%E5%90%93%E5%AF%BC%E8%87%B4%E9%98%91%E5%B0%BE%E7%82%8E)
-1. [12306回应无座与二等座同价质疑](https://www.zhihu.com/search?q=12306%E5%9B%9E%E5%BA%94%E6%97%A0%E5%BA%A7%E4%B8%8E%E4%BA%8C%E7%AD%89%E5%BA%A7%E5%90%8C%E4%BB%B7%E8%B4%A8%E7%96%91)
+1. [明星现实中真的很漂亮吗](https://www.zhihu.com/search?q=%E6%98%8E%E6%98%9F%E7%8E%B0%E5%AE%9E%E4%B8%AD%E7%9C%9F%E7%9A%84%E5%BE%88%E6%BC%82%E4%BA%AE%E5%90%97)
+1. [为什么虾皮里总能发现小螃蟹](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%99%BE%E7%9A%AE%E9%87%8C%E6%80%BB%E8%83%BD%E5%8F%91%E7%8E%B0%E5%B0%8F%E8%9E%83%E8%9F%B9)
 1. [你是什么时候发现上班是没有意义的](https://www.zhihu.com/search?q=%E4%BD%A0%E6%98%AF%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E5%8F%91%E7%8E%B0%E4%B8%8A%E7%8F%AD%E6%98%AF%E6%B2%A1%E6%9C%89%E6%84%8F%E4%B9%89%E7%9A%84)
 1. [为什么公司一定要办年会](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%85%AC%E5%8F%B8%E4%B8%80%E5%AE%9A%E8%A6%81%E5%8A%9E%E5%B9%B4%E4%BC%9A)
 1. [网传上海一中学学生在军训猝死](https://www.zhihu.com/search?q=%E7%BD%91%E4%BC%A0%E4%B8%8A%E6%B5%B7%E4%B8%80%E4%B8%AD%E5%AD%A6%E5%AD%A6%E7%94%9F%E5%9C%A8%E5%86%9B%E8%AE%AD%E7%8C%9D%E6%AD%BB)
 1. [内蒙古鄂尔多斯暴雨致3死3失联](https://www.zhihu.com/search?q=%E5%86%85%E8%92%99%E5%8F%A4%E9%84%82%E5%B0%94%E5%A4%9A%E6%96%AF%E6%9A%B4%E9%9B%A8%E8%87%B43%E6%AD%BB3%E5%A4%B1%E8%81%94)
 1. [DeepSeek更新V3.1](https://www.zhihu.com/search?q=DeepSeek%E6%9B%B4%E6%96%B0V3.1)
 1. [女中医调休6天抽空打场UFC](https://www.zhihu.com/search?q=%E5%A5%B3%E4%B8%AD%E5%8C%BB%E8%B0%83%E4%BC%916%E5%A4%A9%E6%8A%BD%E7%A9%BA%E6%89%93%E5%9C%BAUFC)
+1. [泡泡玛特市值突破 4000 亿港元](https://www.zhihu.com/search?q=%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%E5%B8%82%E5%80%BC%E7%AA%81%E7%A0%B4%204000%20%E4%BA%BF%E6%B8%AF%E5%85%83)
+1. [泡泡玛特股价年内涨幅超 230%](https://www.zhihu.com/search?q=%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%E8%82%A1%E4%BB%B7%E5%B9%B4%E5%86%85%E6%B6%A8%E5%B9%85%E8%B6%85%20230%25)
 1. [2025 科隆游戏展](https://www.zhihu.com/search?q=2025%20%E7%A7%91%E9%9A%86%E6%B8%B8%E6%88%8F%E5%B1%95)
 1. [董璇被指对张维伊是母爱](https://www.zhihu.com/search?q=%E8%91%A3%E7%92%87%E8%A2%AB%E6%8C%87%E5%AF%B9%E5%BC%A0%E7%BB%B4%E4%BC%8A%E6%98%AF%E6%AF%8D%E7%88%B1)
 1. [2025年两院院士增选有效候选人名单发布](https://www.zhihu.com/search?q=2025%E5%B9%B4%E4%B8%A4%E9%99%A2%E9%99%A2%E5%A3%AB%E5%A2%9E%E9%80%89%E6%9C%89%E6%95%88%E5%80%99%E9%80%89%E4%BA%BA%E5%90%8D%E5%8D%95%E5%8F%91%E5%B8%83)
@@ -39,8 +41,6 @@
 1. [黑神话：钟馗预告片有哪些信息值得关注](https://www.zhihu.com/search?q=%E9%BB%91%E7%A5%9E%E8%AF%9D%EF%BC%9A%E9%92%9F%E9%A6%97%E9%A2%84%E5%91%8A%E7%89%87%E6%9C%89%E5%93%AA%E4%BA%9B%E4%BF%A1%E6%81%AF%E5%80%BC%E5%BE%97%E5%85%B3%E6%B3%A8)
 1. [静山仅 0.6 米高为全国最矮的山](https://www.zhihu.com/search?q=%E9%9D%99%E5%B1%B1%E4%BB%85%200.6%20%E7%B1%B3%E9%AB%98%E4%B8%BA%E5%85%A8%E5%9B%BD%E6%9C%80%E7%9F%AE%E7%9A%84%E5%B1%B1)
 1. [京东已为全职骑手缴纳五险一金](https://www.zhihu.com/search?q=%E4%BA%AC%E4%B8%9C%E5%B7%B2%E4%B8%BA%E5%85%A8%E8%81%8C%E9%AA%91%E6%89%8B%E7%BC%B4%E7%BA%B3%E4%BA%94%E9%99%A9%E4%B8%80%E9%87%91)
-1. [戚薇眉毛因打肉毒过量动不了](https://www.zhihu.com/search?q=%E6%88%9A%E8%96%87%E7%9C%89%E6%AF%9B%E5%9B%A0%E6%89%93%E8%82%89%E6%AF%92%E8%BF%87%E9%87%8F%E5%8A%A8%E4%B8%8D%E4%BA%86)
-1. [王晶称明星爆火都是资本在做局](https://www.zhihu.com/search?q=%E7%8E%8B%E6%99%B6%E7%A7%B0%E6%98%8E%E6%98%9F%E7%88%86%E7%81%AB%E9%83%BD%E6%98%AF%E8%B5%84%E6%9C%AC%E5%9C%A8%E5%81%9A%E5%B1%80)
 
 ## 热门话题
 
