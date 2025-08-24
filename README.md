@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-08-24 12:18:54 +0800`
+`更新时间：2025-08-24 13:12:05 +0800`
 
 ## 热门搜索
 
@@ -24,7 +24,6 @@
 1. [DeepSeek更新V3.1](https://www.zhihu.com/search?q=DeepSeek%E6%9B%B4%E6%96%B0V3.1)
 1. [泡泡玛特市值突破 4000 亿港元](https://www.zhihu.com/search?q=%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%E5%B8%82%E5%80%BC%E7%AA%81%E7%A0%B4%204000%20%E4%BA%BF%E6%B8%AF%E5%85%83)
 1. [泡泡玛特股价年内涨幅超 230%](https://www.zhihu.com/search?q=%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%E8%82%A1%E4%BB%B7%E5%B9%B4%E5%86%85%E6%B6%A8%E5%B9%85%E8%B6%85%20230%25)
-1. [2025 科隆游戏展](https://www.zhihu.com/search?q=2025%20%E7%A7%91%E9%9A%86%E6%B8%B8%E6%88%8F%E5%B1%95)
 1. [赛马节顺拐马演绎现实版马踏飞燕](https://www.zhihu.com/search?q=%E8%B5%9B%E9%A9%AC%E8%8A%82%E9%A1%BA%E6%8B%90%E9%A9%AC%E6%BC%94%E7%BB%8E%E7%8E%B0%E5%AE%9E%E7%89%88%E9%A9%AC%E8%B8%8F%E9%A3%9E%E7%87%95)
 1. [12306回应站台等候区禁烟](https://www.zhihu.com/search?q=12306%E5%9B%9E%E5%BA%94%E7%AB%99%E5%8F%B0%E7%AD%89%E5%80%99%E5%8C%BA%E7%A6%81%E7%83%9F)
 1. [报告称95%生成式AI投资回报为零](https://www.zhihu.com/search?q=%E6%8A%A5%E5%91%8A%E7%A7%B095%25%E7%94%9F%E6%88%90%E5%BC%8FAI%E6%8A%95%E8%B5%84%E5%9B%9E%E6%8A%A5%E4%B8%BA%E9%9B%B6)
@@ -43,6 +42,7 @@
 1. [马斯克为什么要把印度裔高层辞退](https://www.zhihu.com/search?q=%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E6%8A%8A%E5%8D%B0%E5%BA%A6%E8%A3%94%E9%AB%98%E5%B1%82%E8%BE%9E%E9%80%80)
 1. [广东的蚊子都出现了抗药性](https://www.zhihu.com/search?q=%E5%B9%BF%E4%B8%9C%E7%9A%84%E8%9A%8A%E5%AD%90%E9%83%BD%E5%87%BA%E7%8E%B0%E4%BA%86%E6%8A%97%E8%8D%AF%E6%80%A7)
 1. [我国最真实的工资是多少](https://www.zhihu.com/search?q=%E6%88%91%E5%9B%BD%E6%9C%80%E7%9C%9F%E5%AE%9E%E7%9A%84%E5%B7%A5%E8%B5%84%E6%98%AF%E5%A4%9A%E5%B0%91)
+1. [天津市民有多搞笑](https://www.zhihu.com/search?q=%E5%A4%A9%E6%B4%A5%E5%B8%82%E6%B0%91%E6%9C%89%E5%A4%9A%E6%90%9E%E7%AC%91)
 
 ## 热门话题
 
