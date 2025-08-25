@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-08-25 08:59:14 +0800`
+`更新时间：2025-08-25 10:44:40 +0800`
 
 ## 热门搜索
 
@@ -19,7 +19,6 @@
 1. [为什么公司一定要办年会](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%85%AC%E5%8F%B8%E4%B8%80%E5%AE%9A%E8%A6%81%E5%8A%9E%E5%B9%B4%E4%BC%9A)
 1. [网传上海一中学学生在军训猝死](https://www.zhihu.com/search?q=%E7%BD%91%E4%BC%A0%E4%B8%8A%E6%B5%B7%E4%B8%80%E4%B8%AD%E5%AD%A6%E5%AD%A6%E7%94%9F%E5%9C%A8%E5%86%9B%E8%AE%AD%E7%8C%9D%E6%AD%BB)
 1. [DeepSeek更新V3.1](https://www.zhihu.com/search?q=DeepSeek%E6%9B%B4%E6%96%B0V3.1)
-1. [报告称95%生成式AI投资回报为零](https://www.zhihu.com/search?q=%E6%8A%A5%E5%91%8A%E7%A7%B095%25%E7%94%9F%E6%88%90%E5%BC%8FAI%E6%8A%95%E8%B5%84%E5%9B%9E%E6%8A%A5%E4%B8%BA%E9%9B%B6)
 1. [哲学教授苏德超为文科发声](https://www.zhihu.com/search?q=%E5%93%B2%E5%AD%A6%E6%95%99%E6%8E%88%E8%8B%8F%E5%BE%B7%E8%B6%85%E4%B8%BA%E6%96%87%E7%A7%91%E5%8F%91%E5%A3%B0)
 1. [18 部影片入围长春电影节金鹿奖](https://www.zhihu.com/search?q=18%20%E9%83%A8%E5%BD%B1%E7%89%87%E5%85%A5%E5%9B%B4%E9%95%BF%E6%98%A5%E7%94%B5%E5%BD%B1%E8%8A%82%E9%87%91%E9%B9%BF%E5%A5%96)
 1. [「三体」曾带给你哪些震撼](https://www.zhihu.com/search?q=%E3%80%8C%E4%B8%89%E4%BD%93%E3%80%8D%E6%9B%BE%E5%B8%A6%E7%BB%99%E4%BD%A0%E5%93%AA%E4%BA%9B%E9%9C%87%E6%92%BC)
