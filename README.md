@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-08-25 16:18:16 +0800`
+`更新时间：2025-08-25 17:14:41 +0800`
 
 ## 热门搜索
 
@@ -22,7 +22,6 @@
 1. [网传上海一中学学生在军训猝死](https://www.zhihu.com/search?q=%E7%BD%91%E4%BC%A0%E4%B8%8A%E6%B5%B7%E4%B8%80%E4%B8%AD%E5%AD%A6%E5%AD%A6%E7%94%9F%E5%9C%A8%E5%86%9B%E8%AE%AD%E7%8C%9D%E6%AD%BB)
 1. [DeepSeek更新V3.1](https://www.zhihu.com/search?q=DeepSeek%E6%9B%B4%E6%96%B0V3.1)
 1. [哲学教授苏德超为文科发声](https://www.zhihu.com/search?q=%E5%93%B2%E5%AD%A6%E6%95%99%E6%8E%88%E8%8B%8F%E5%BE%B7%E8%B6%85%E4%B8%BA%E6%96%87%E7%A7%91%E5%8F%91%E5%A3%B0)
-1. [18 部影片入围长春电影节金鹿奖](https://www.zhihu.com/search?q=18%20%E9%83%A8%E5%BD%B1%E7%89%87%E5%85%A5%E5%9B%B4%E9%95%BF%E6%98%A5%E7%94%B5%E5%BD%B1%E8%8A%82%E9%87%91%E9%B9%BF%E5%A5%96)
 1. [「三体」曾带给你哪些震撼](https://www.zhihu.com/search?q=%E3%80%8C%E4%B8%89%E4%BD%93%E3%80%8D%E6%9B%BE%E5%B8%A6%E7%BB%99%E4%BD%A0%E5%93%AA%E4%BA%9B%E9%9C%87%E6%92%BC)
 1. [许荔莎自曝22年因许凯出轨分手](https://www.zhihu.com/search?q=%E8%AE%B8%E8%8D%94%E8%8E%8E%E8%87%AA%E6%9B%9D22%E5%B9%B4%E5%9B%A0%E8%AE%B8%E5%87%AF%E5%87%BA%E8%BD%A8%E5%88%86%E6%89%8B)
 1. [董璇二婚却被全网劝分](https://www.zhihu.com/search?q=%E8%91%A3%E7%92%87%E4%BA%8C%E5%A9%9A%E5%8D%B4%E8%A2%AB%E5%85%A8%E7%BD%91%E5%8A%9D%E5%88%86)
@@ -40,6 +39,7 @@
 1. [「1942」真的是一部烂片吗](https://www.zhihu.com/search?q=%E3%80%8C1942%E3%80%8D%E7%9C%9F%E7%9A%84%E6%98%AF%E4%B8%80%E9%83%A8%E7%83%82%E7%89%87%E5%90%97)
 1. [你最不相信内娱什么人设](https://www.zhihu.com/search?q=%E4%BD%A0%E6%9C%80%E4%B8%8D%E7%9B%B8%E4%BF%A1%E5%86%85%E5%A8%B1%E4%BB%80%E4%B9%88%E4%BA%BA%E8%AE%BE)
 1. [为何离婚的很多夫妻从民政局出来后就哭](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BD%95%E7%A6%BB%E5%A9%9A%E7%9A%84%E5%BE%88%E5%A4%9A%E5%A4%AB%E5%A6%BB%E4%BB%8E%E6%B0%91%E6%94%BF%E5%B1%80%E5%87%BA%E6%9D%A5%E5%90%8E%E5%B0%B1%E5%93%AD)
+1. [有哪些数学理论意外成为关键技术支柱](https://www.zhihu.com/search?q=%E6%9C%89%E5%93%AA%E4%BA%9B%E6%95%B0%E5%AD%A6%E7%90%86%E8%AE%BA%E6%84%8F%E5%A4%96%E6%88%90%E4%B8%BA%E5%85%B3%E9%94%AE%E6%8A%80%E6%9C%AF%E6%94%AF%E6%9F%B1)
 
 ## 热门话题
 
