@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-08-25 07:11:22 +0800`
+`更新时间：2025-08-25 08:59:14 +0800`
 
 ## 热门搜索
 
@@ -40,6 +40,7 @@
 1. [村民称在干农活时与老虎肉搏被抓伤](https://www.zhihu.com/search?q=%E6%9D%91%E6%B0%91%E7%A7%B0%E5%9C%A8%E5%B9%B2%E5%86%9C%E6%B4%BB%E6%97%B6%E4%B8%8E%E8%80%81%E8%99%8E%E8%82%89%E6%90%8F%E8%A2%AB%E6%8A%93%E4%BC%A4)
 1. [如何看待爸爸带两娃从深圳徒步回长沙](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E7%88%B8%E7%88%B8%E5%B8%A6%E4%B8%A4%E5%A8%83%E4%BB%8E%E6%B7%B1%E5%9C%B3%E5%BE%92%E6%AD%A5%E5%9B%9E%E9%95%BF%E6%B2%99)
 1. [为什么很多人认为油车比电车好](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BE%88%E5%A4%9A%E4%BA%BA%E8%AE%A4%E4%B8%BA%E6%B2%B9%E8%BD%A6%E6%AF%94%E7%94%B5%E8%BD%A6%E5%A5%BD)
+1. [小龙虾店近两年成闭店率最高的餐饮品类](https://www.zhihu.com/search?q=%E5%B0%8F%E9%BE%99%E8%99%BE%E5%BA%97%E8%BF%91%E4%B8%A4%E5%B9%B4%E6%88%90%E9%97%AD%E5%BA%97%E7%8E%87%E6%9C%80%E9%AB%98%E7%9A%84%E9%A4%90%E9%A5%AE%E5%93%81%E7%B1%BB)
 
 ## 热门话题
 
