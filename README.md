@@ -11,12 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-08-25 18:28:34 +0800`
+`更新时间：2025-08-25 19:21:43 +0800`
 
 ## 热门搜索
 
-1. [高盛将寒武纪目标价上调至1835元](https://www.zhihu.com/search?q=%E9%AB%98%E7%9B%9B%E5%B0%86%E5%AF%92%E6%AD%A6%E7%BA%AA%E7%9B%AE%E6%A0%87%E4%BB%B7%E4%B8%8A%E8%B0%83%E8%87%B31835%E5%85%83)
-1. [法拍狸花猫已撤回拍卖](https://www.zhihu.com/search?q=%E6%B3%95%E6%8B%8D%E7%8B%B8%E8%8A%B1%E7%8C%AB%E5%B7%B2%E6%92%A4%E5%9B%9E%E6%8B%8D%E5%8D%96)
+1. [曾卓君街霸 6卫冕成功](https://www.zhihu.com/search?q=%E6%9B%BE%E5%8D%93%E5%90%9B%E8%A1%97%E9%9C%B8%206%E5%8D%AB%E5%86%95%E6%88%90%E5%8A%9F)
 1. [你是什么时候发现上班是没有意义的](https://www.zhihu.com/search?q=%E4%BD%A0%E6%98%AF%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E5%8F%91%E7%8E%B0%E4%B8%8A%E7%8F%AD%E6%98%AF%E6%B2%A1%E6%9C%89%E6%84%8F%E4%B9%89%E7%9A%84)
 1. [为什么公司一定要办年会](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%85%AC%E5%8F%B8%E4%B8%80%E5%AE%9A%E8%A6%81%E5%8A%9E%E5%B9%B4%E4%BC%9A)
 1. [网传上海一中学学生在军训猝死](https://www.zhihu.com/search?q=%E7%BD%91%E4%BC%A0%E4%B8%8A%E6%B5%B7%E4%B8%80%E4%B8%AD%E5%AD%A6%E5%AD%A6%E7%94%9F%E5%9C%A8%E5%86%9B%E8%AE%AD%E7%8C%9D%E6%AD%BB)
