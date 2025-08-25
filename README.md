@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-08-26 00:14:55 +0800`
+`更新时间：2025-08-26 01:09:56 +0800`
 
 ## 热门搜索
 
@@ -38,6 +38,7 @@
 1. [邓刚钓获73斤野生花鲢](https://www.zhihu.com/search?q=%E9%82%93%E5%88%9A%E9%92%93%E8%8E%B773%E6%96%A4%E9%87%8E%E7%94%9F%E8%8A%B1%E9%B2%A2)
 1. [日系车利润下降](https://www.zhihu.com/search?q=%E6%97%A5%E7%B3%BB%E8%BD%A6%E5%88%A9%E6%B6%A6%E4%B8%8B%E9%99%8D)
 1. [九三阅兵演练最新画面](https://www.zhihu.com/search?q=%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5%E6%BC%94%E7%BB%83%E6%9C%80%E6%96%B0%E7%94%BB%E9%9D%A2)
+1. [九三阅兵最后一次夜间演练画面](https://www.zhihu.com/search?q=%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5%E6%9C%80%E5%90%8E%E4%B8%80%E6%AC%A1%E5%A4%9C%E9%97%B4%E6%BC%94%E7%BB%83%E7%94%BB%E9%9D%A2)
 
 ## 热门话题
 
