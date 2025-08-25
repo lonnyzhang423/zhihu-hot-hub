@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-08-25 13:13:41 +0800`
+`更新时间：2025-08-25 14:19:48 +0800`
 
 ## 热门搜索
 
@@ -27,7 +27,6 @@
 1. [全球首次!中国月度用电量破万亿大关](https://www.zhihu.com/search?q=%E5%85%A8%E7%90%83%E9%A6%96%E6%AC%A1%21%E4%B8%AD%E5%9B%BD%E6%9C%88%E5%BA%A6%E7%94%A8%E7%94%B5%E9%87%8F%E7%A0%B4%E4%B8%87%E4%BA%BF%E5%A4%A7%E5%85%B3)
 1. [许荔莎自曝22年因许凯出轨分手](https://www.zhihu.com/search?q=%E8%AE%B8%E8%8D%94%E8%8E%8E%E8%87%AA%E6%9B%9D22%E5%B9%B4%E5%9B%A0%E8%AE%B8%E5%87%AF%E5%87%BA%E8%BD%A8%E5%88%86%E6%89%8B)
 1. [董璇二婚却被全网劝分](https://www.zhihu.com/search?q=%E8%91%A3%E7%92%87%E4%BA%8C%E5%A9%9A%E5%8D%B4%E8%A2%AB%E5%85%A8%E7%BD%91%E5%8A%9D%E5%88%86)
-1. [263斤男子请9名轿夫抬滑竿上峨眉山](https://www.zhihu.com/search?q=263%E6%96%A4%E7%94%B7%E5%AD%90%E8%AF%B79%E5%90%8D%E8%BD%BF%E5%A4%AB%E6%8A%AC%E6%BB%91%E7%AB%BF%E4%B8%8A%E5%B3%A8%E7%9C%89%E5%B1%B1)
 1. [员工提前下班遇车祸身亡被认定为工伤](https://www.zhihu.com/search?q=%E5%91%98%E5%B7%A5%E6%8F%90%E5%89%8D%E4%B8%8B%E7%8F%AD%E9%81%87%E8%BD%A6%E7%A5%B8%E8%BA%AB%E4%BA%A1%E8%A2%AB%E8%AE%A4%E5%AE%9A%E4%B8%BA%E5%B7%A5%E4%BC%A4)
 1. [宫百万会攻击人类吗](https://www.zhihu.com/search?q=%E5%AE%AB%E7%99%BE%E4%B8%87%E4%BC%9A%E6%94%BB%E5%87%BB%E4%BA%BA%E7%B1%BB%E5%90%97)
 1. [战鹰玩恐怖游戏因惊吓导致阑尾炎](https://www.zhihu.com/search?q=%E6%88%98%E9%B9%B0%E7%8E%A9%E6%81%90%E6%80%96%E6%B8%B8%E6%88%8F%E5%9B%A0%E6%83%8A%E5%90%93%E5%AF%BC%E8%87%B4%E9%98%91%E5%B0%BE%E7%82%8E)
@@ -40,6 +39,7 @@
 1. [为什么很多人认为油车比电车好](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BE%88%E5%A4%9A%E4%BA%BA%E8%AE%A4%E4%B8%BA%E6%B2%B9%E8%BD%A6%E6%AF%94%E7%94%B5%E8%BD%A6%E5%A5%BD)
 1. [小龙虾店近两年成闭店率最高的餐饮品类](https://www.zhihu.com/search?q=%E5%B0%8F%E9%BE%99%E8%99%BE%E5%BA%97%E8%BF%91%E4%B8%A4%E5%B9%B4%E6%88%90%E9%97%AD%E5%BA%97%E7%8E%87%E6%9C%80%E9%AB%98%E7%9A%84%E9%A4%90%E9%A5%AE%E5%93%81%E7%B1%BB)
 1. [「1942」真的是一部烂片吗](https://www.zhihu.com/search?q=%E3%80%8C1942%E3%80%8D%E7%9C%9F%E7%9A%84%E6%98%AF%E4%B8%80%E9%83%A8%E7%83%82%E7%89%87%E5%90%97)
+1. [你最不相信内娱什么人设](https://www.zhihu.com/search?q=%E4%BD%A0%E6%9C%80%E4%B8%8D%E7%9B%B8%E4%BF%A1%E5%86%85%E5%A8%B1%E4%BB%80%E4%B9%88%E4%BA%BA%E8%AE%BE)
 
 ## 热门话题
 
