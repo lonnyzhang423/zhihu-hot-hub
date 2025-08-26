@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-08-26 15:12:55 +0800`
+`更新时间：2025-08-26 16:17:51 +0800`
 
 ## 热门搜索
 
@@ -39,6 +39,7 @@
 1. [九三阅兵最后一次夜间演练画面](https://www.zhihu.com/search?q=%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5%E6%9C%80%E5%90%8E%E4%B8%80%E6%AC%A1%E5%A4%9C%E9%97%B4%E6%BC%94%E7%BB%83%E7%94%BB%E9%9D%A2)
 1. [反诈老陈打假嘎子哥](https://www.zhihu.com/search?q=%E5%8F%8D%E8%AF%88%E8%80%81%E9%99%88%E6%89%93%E5%81%87%E5%98%8E%E5%AD%90%E5%93%A5)
 1. [鲁迅夹烟墙画被指误导青少年](https://www.zhihu.com/search?q=%E9%B2%81%E8%BF%85%E5%A4%B9%E7%83%9F%E5%A2%99%E7%94%BB%E8%A2%AB%E6%8C%87%E8%AF%AF%E5%AF%BC%E9%9D%92%E5%B0%91%E5%B9%B4)
+1. [英超曼联1-1富勒姆](https://www.zhihu.com/search?q=%E8%8B%B1%E8%B6%85%E6%9B%BC%E8%81%941-1%E5%AF%8C%E5%8B%92%E5%A7%86)
 
 ## 热门话题
 
