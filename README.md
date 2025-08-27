@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-08-27 22:24:15 +0800`
+`更新时间：2025-08-27 23:26:09 +0800`
 
 ## 热门搜索
 
-1. [你最意外的一笔收入是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E6%9C%80%E6%84%8F%E5%A4%96%E7%9A%84%E4%B8%80%E7%AC%94%E6%94%B6%E5%85%A5%E6%98%AF%E4%BB%80%E4%B9%88)
-1. [北京强降雨](https://www.zhihu.com/search?q=%E5%8C%97%E4%BA%AC%E5%BC%BA%E9%99%8D%E9%9B%A8)
+1. [如何看待徐锦江这个人](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%BE%90%E9%94%A6%E6%B1%9F%E8%BF%99%E4%B8%AA%E4%BA%BA)
+1. [女童坠亡物业只愿赔1万](https://www.zhihu.com/search?q=%E5%A5%B3%E7%AB%A5%E5%9D%A0%E4%BA%A1%E7%89%A9%E4%B8%9A%E5%8F%AA%E6%84%BF%E8%B5%941%E4%B8%87)
 1. [为什么老一辈人厌恶游戏](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%80%81%E4%B8%80%E8%BE%88%E4%BA%BA%E5%8E%8C%E6%81%B6%E6%B8%B8%E6%88%8F)
 1. [我国成功发射卫星互联网低轨卫星](https://www.zhihu.com/search?q=%E6%88%91%E5%9B%BD%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84%E5%8D%AB%E6%98%9F%E4%BA%92%E8%81%94%E7%BD%91%E4%BD%8E%E8%BD%A8%E5%8D%AB%E6%98%9F)
 1. [你去过最离谱的景区是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E5%8E%BB%E8%BF%87%E6%9C%80%E7%A6%BB%E8%B0%B1%E7%9A%84%E6%99%AF%E5%8C%BA%E6%98%AF%E4%BB%80%E4%B9%88)
