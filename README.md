@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-08-27 18:25:48 +0800`
+`更新时间：2025-08-27 19:20:19 +0800`
 
 ## 热门搜索
 
@@ -38,6 +38,7 @@
 1. [为何不住在农村还要回村建房子](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BD%95%E4%B8%8D%E4%BD%8F%E5%9C%A8%E5%86%9C%E6%9D%91%E8%BF%98%E8%A6%81%E5%9B%9E%E6%9D%91%E5%BB%BA%E6%88%BF%E5%AD%90)
 1. [富士康的员工待遇如何](https://www.zhihu.com/search?q=%E5%AF%8C%E5%A3%AB%E5%BA%B7%E7%9A%84%E5%91%98%E5%B7%A5%E5%BE%85%E9%81%87%E5%A6%82%E4%BD%95)
 1. [网友爆料美团订单退款未到账](https://www.zhihu.com/search?q=%E7%BD%91%E5%8F%8B%E7%88%86%E6%96%99%E7%BE%8E%E5%9B%A2%E8%AE%A2%E5%8D%95%E9%80%80%E6%AC%BE%E6%9C%AA%E5%88%B0%E8%B4%A6)
+1. [如何看待「主理人」这个词](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E3%80%8C%E4%B8%BB%E7%90%86%E4%BA%BA%E3%80%8D%E8%BF%99%E4%B8%AA%E8%AF%8D)
 
 ## 热门话题
 
