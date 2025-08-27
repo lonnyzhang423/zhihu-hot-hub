@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-08-27 15:11:52 +0800`
+`更新时间：2025-08-27 16:15:38 +0800`
 
 ## 热门搜索
 
@@ -32,6 +32,7 @@
 1. [九三阅兵演练最新画面](https://www.zhihu.com/search?q=%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5%E6%BC%94%E7%BB%83%E6%9C%80%E6%96%B0%E7%94%BB%E9%9D%A2)
 1. [九三阅兵最后一次夜间演练画面](https://www.zhihu.com/search?q=%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5%E6%9C%80%E5%90%8E%E4%B8%80%E6%AC%A1%E5%A4%9C%E9%97%B4%E6%BC%94%E7%BB%83%E7%94%BB%E9%9D%A2)
 1. [鲁迅夹烟墙画被指误导青少年](https://www.zhihu.com/search?q=%E9%B2%81%E8%BF%85%E5%A4%B9%E7%83%9F%E5%A2%99%E7%94%BB%E8%A2%AB%E6%8C%87%E8%AF%AF%E5%AF%BC%E9%9D%92%E5%B0%91%E5%B9%B4)
+1. [首款曲面iPhone](https://www.zhihu.com/search?q=%E9%A6%96%E6%AC%BE%E6%9B%B2%E9%9D%A2iPhone)
 1. [女童学游泳被教练按进水里数秒](https://www.zhihu.com/search?q=%E5%A5%B3%E7%AB%A5%E5%AD%A6%E6%B8%B8%E6%B3%B3%E8%A2%AB%E6%95%99%E7%BB%83%E6%8C%89%E8%BF%9B%E6%B0%B4%E9%87%8C%E6%95%B0%E7%A7%92)
 1. [胖东来招聘页面崩了](https://www.zhihu.com/search?q=%E8%83%96%E4%B8%9C%E6%9D%A5%E6%8B%9B%E8%81%98%E9%A1%B5%E9%9D%A2%E5%B4%A9%E4%BA%86)
 1. [法国网红直播被虐300小时后死亡](https://www.zhihu.com/search?q=%E6%B3%95%E5%9B%BD%E7%BD%91%E7%BA%A2%E7%9B%B4%E6%92%AD%E8%A2%AB%E8%99%90300%E5%B0%8F%E6%97%B6%E5%90%8E%E6%AD%BB%E4%BA%A1)
