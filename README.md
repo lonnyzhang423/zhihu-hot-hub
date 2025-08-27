@@ -11,11 +11,10 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-08-27 16:32:51 +0800`
+`更新时间：2025-08-27 17:26:44 +0800`
 
 ## 热门搜索
 
-1. [A股](https://www.zhihu.com/search?q=A%E8%82%A1)
 1. [你最意外的一笔收入是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E6%9C%80%E6%84%8F%E5%A4%96%E7%9A%84%E4%B8%80%E7%AC%94%E6%94%B6%E5%85%A5%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [北京强降雨](https://www.zhihu.com/search?q=%E5%8C%97%E4%BA%AC%E5%BC%BA%E9%99%8D%E9%9B%A8)
 1. [为什么老一辈人厌恶游戏](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%80%81%E4%B8%80%E8%BE%88%E4%BA%BA%E5%8E%8C%E6%81%B6%E6%B8%B8%E6%88%8F)
@@ -38,6 +37,7 @@
 1. [法国网红直播被虐300小时后死亡](https://www.zhihu.com/search?q=%E6%B3%95%E5%9B%BD%E7%BD%91%E7%BA%A2%E7%9B%B4%E6%92%AD%E8%A2%AB%E8%99%90300%E5%B0%8F%E6%97%B6%E5%90%8E%E6%AD%BB%E4%BA%A1)
 1. [何晟铭离开电视圈原因](https://www.zhihu.com/search?q=%E4%BD%95%E6%99%9F%E9%93%AD%E7%A6%BB%E5%BC%80%E7%94%B5%E8%A7%86%E5%9C%88%E5%8E%9F%E5%9B%A0)
 1. [大连科技学院全员停发工资是怎么回事](https://www.zhihu.com/search?q=%E5%A4%A7%E8%BF%9E%E7%A7%91%E6%8A%80%E5%AD%A6%E9%99%A2%E5%85%A8%E5%91%98%E5%81%9C%E5%8F%91%E5%B7%A5%E8%B5%84%E6%98%AF%E6%80%8E%E4%B9%88%E5%9B%9E%E4%BA%8B)
+1. [为何不住在农村还要回村建房子](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BD%95%E4%B8%8D%E4%BD%8F%E5%9C%A8%E5%86%9C%E6%9D%91%E8%BF%98%E8%A6%81%E5%9B%9E%E6%9D%91%E5%BB%BA%E6%88%BF%E5%AD%90)
 
 ## 热门话题
 
