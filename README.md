@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-08-29 00:31:03 +0800`
+`更新时间：2025-08-29 01:21:30 +0800`
 
 ## 热门搜索
 
-1. [北京强降雨](https://www.zhihu.com/search?q=%E5%8C%97%E4%BA%AC%E5%BC%BA%E9%99%8D%E9%9B%A8)
-1. [为什么老一辈人厌恶游戏](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%80%81%E4%B8%80%E8%BE%88%E4%BA%BA%E5%8E%8C%E6%81%B6%E6%B8%B8%E6%88%8F)
+1. [为什么限制电子设备了孩子的度数还是涨](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E9%99%90%E5%88%B6%E7%94%B5%E5%AD%90%E8%AE%BE%E5%A4%87%E4%BA%86%E5%AD%A9%E5%AD%90%E7%9A%84%E5%BA%A6%E6%95%B0%E8%BF%98%E6%98%AF%E6%B6%A8)
+1. [大学生谈起「理性恋爱」](https://www.zhihu.com/search?q=%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%B0%88%E8%B5%B7%E3%80%8C%E7%90%86%E6%80%A7%E6%81%8B%E7%88%B1%E3%80%8D)
 1. [我国成功发射卫星互联网低轨卫星](https://www.zhihu.com/search?q=%E6%88%91%E5%9B%BD%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84%E5%8D%AB%E6%98%9F%E4%BA%92%E8%81%94%E7%BD%91%E4%BD%8E%E8%BD%A8%E5%8D%AB%E6%98%9F)
 1. [你去过最离谱的景区是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E5%8E%BB%E8%BF%87%E6%9C%80%E7%A6%BB%E8%B0%B1%E7%9A%84%E6%99%AF%E5%8C%BA%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [人的大脑会不会出现「过拟合」病](https://www.zhihu.com/search?q=%E4%BA%BA%E7%9A%84%E5%A4%A7%E8%84%91%E4%BC%9A%E4%B8%8D%E4%BC%9A%E5%87%BA%E7%8E%B0%E3%80%8C%E8%BF%87%E6%8B%9F%E5%90%88%E3%80%8D%E7%97%85)
@@ -32,7 +32,7 @@
 1. [高速有人戴恐怖面具吓车](https://www.zhihu.com/search?q=%E9%AB%98%E9%80%9F%E6%9C%89%E4%BA%BA%E6%88%B4%E6%81%90%E6%80%96%E9%9D%A2%E5%85%B7%E5%90%93%E8%BD%A6)
 1. [SpaceX星舰第十次试飞再取消](https://www.zhihu.com/search?q=SpaceX%E6%98%9F%E8%88%B0%E7%AC%AC%E5%8D%81%E6%AC%A1%E8%AF%95%E9%A3%9E%E5%86%8D%E5%8F%96%E6%B6%88)
 1. [美拟对印度征50%关税](https://www.zhihu.com/search?q=%E7%BE%8E%E6%8B%9F%E5%AF%B9%E5%8D%B0%E5%BA%A6%E5%BE%8150%25%E5%85%B3%E7%A8%8E)
-1. [大学生谈起「理性恋爱」](https://www.zhihu.com/search?q=%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%B0%88%E8%B5%B7%E3%80%8C%E7%90%86%E6%80%A7%E6%81%8B%E7%88%B1%E3%80%8D)
+1. [鸿蒙智行尚界 H5 有哪些亮点](https://www.zhihu.com/search?q=%E9%B8%BF%E8%92%99%E6%99%BA%E8%A1%8C%E5%B0%9A%E7%95%8C%20H5%20%E6%9C%89%E5%93%AA%E4%BA%9B%E4%BA%AE%E7%82%B9)
 1. [酷派将上架嘎子哥所售手机](https://www.zhihu.com/search?q=%E9%85%B7%E6%B4%BE%E5%B0%86%E4%B8%8A%E6%9E%B6%E5%98%8E%E5%AD%90%E5%93%A5%E6%89%80%E5%94%AE%E6%89%8B%E6%9C%BA)
 1. [4岁娃查出400度远视加250度散光](https://www.zhihu.com/search?q=4%E5%B2%81%E5%A8%83%E6%9F%A5%E5%87%BA400%E5%BA%A6%E8%BF%9C%E8%A7%86%E5%8A%A0250%E5%BA%A6%E6%95%A3%E5%85%89)
 1. [每天跑步一点都没瘦是咋回事](https://www.zhihu.com/search?q=%E6%AF%8F%E5%A4%A9%E8%B7%91%E6%AD%A5%E4%B8%80%E7%82%B9%E9%83%BD%E6%B2%A1%E7%98%A6%E6%98%AF%E5%92%8B%E5%9B%9E%E4%BA%8B)
