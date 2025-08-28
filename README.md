@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-08-28 22:25:15 +0800`
+`更新时间：2025-08-28 23:25:55 +0800`
 
 ## 热门搜索
 
-1. [马斯克：激光雷达会让辅助驾驶更危险](https://www.zhihu.com/search?q=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9A%E6%BF%80%E5%85%89%E9%9B%B7%E8%BE%BE%E4%BC%9A%E8%AE%A9%E8%BE%85%E5%8A%A9%E9%A9%BE%E9%A9%B6%E6%9B%B4%E5%8D%B1%E9%99%A9)
-1. [如何评价女明星 Lisa](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E5%A5%B3%E6%98%8E%E6%98%9F%20Lisa)
+1. [你最意外的一笔收入是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E6%9C%80%E6%84%8F%E5%A4%96%E7%9A%84%E4%B8%80%E7%AC%94%E6%94%B6%E5%85%A5%E6%98%AF%E4%BB%80%E4%B9%88)
+1. [北京强降雨](https://www.zhihu.com/search?q=%E5%8C%97%E4%BA%AC%E5%BC%BA%E9%99%8D%E9%9B%A8)
 1. [为什么老一辈人厌恶游戏](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%80%81%E4%B8%80%E8%BE%88%E4%BA%BA%E5%8E%8C%E6%81%B6%E6%B8%B8%E6%88%8F)
 1. [我国成功发射卫星互联网低轨卫星](https://www.zhihu.com/search?q=%E6%88%91%E5%9B%BD%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84%E5%8D%AB%E6%98%9F%E4%BA%92%E8%81%94%E7%BD%91%E4%BD%8E%E8%BD%A8%E5%8D%AB%E6%98%9F)
 1. [你去过最离谱的景区是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E5%8E%BB%E8%BF%87%E6%9C%80%E7%A6%BB%E8%B0%B1%E7%9A%84%E6%99%AF%E5%8C%BA%E6%98%AF%E4%BB%80%E4%B9%88)
