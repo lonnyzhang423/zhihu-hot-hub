@@ -11,15 +11,15 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-08-28 17:12:54 +0800`
+`更新时间：2025-08-28 18:12:47 +0800`
 
 ## 热门搜索
 
-1. [你最意外的一笔收入是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E6%9C%80%E6%84%8F%E5%A4%96%E7%9A%84%E4%B8%80%E7%AC%94%E6%94%B6%E5%85%A5%E6%98%AF%E4%BB%80%E4%B9%88)
-1. [北京强降雨](https://www.zhihu.com/search?q=%E5%8C%97%E4%BA%AC%E5%BC%BA%E9%99%8D%E9%9B%A8)
+1. [酒店遛弯发现千年古墓](https://www.zhihu.com/search?q=%E9%85%92%E5%BA%97%E9%81%9B%E5%BC%AF%E5%8F%91%E7%8E%B0%E5%8D%83%E5%B9%B4%E5%8F%A4%E5%A2%93)
+1. [全国第二部个人破产地方法规在厦门通过](https://www.zhihu.com/search?q=%E5%85%A8%E5%9B%BD%E7%AC%AC%E4%BA%8C%E9%83%A8%E4%B8%AA%E4%BA%BA%E7%A0%B4%E4%BA%A7%E5%9C%B0%E6%96%B9%E6%B3%95%E8%A7%84%E5%9C%A8%E5%8E%A6%E9%97%A8%E9%80%9A%E8%BF%87)
 1. [为什么老一辈人厌恶游戏](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%80%81%E4%B8%80%E8%BE%88%E4%BA%BA%E5%8E%8C%E6%81%B6%E6%B8%B8%E6%88%8F)
 1. [我国成功发射卫星互联网低轨卫星](https://www.zhihu.com/search?q=%E6%88%91%E5%9B%BD%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84%E5%8D%AB%E6%98%9F%E4%BA%92%E8%81%94%E7%BD%91%E4%BD%8E%E8%BD%A8%E5%8D%AB%E6%98%9F)
-1. [你去过最离谱的景区是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E5%8E%BB%E8%BF%87%E6%9C%80%E7%A6%BB%E8%B0%B1%E7%9A%84%E6%99%AF%E5%8C%BA%E6%98%AF%E4%BB%80%E4%B9%88)
+1. [罕见天象血月将现身](https://www.zhihu.com/search?q=%E7%BD%95%E8%A7%81%E5%A4%A9%E8%B1%A1%E8%A1%80%E6%9C%88%E5%B0%86%E7%8E%B0%E8%BA%AB)
 1. [人的大脑会不会出现「过拟合」病](https://www.zhihu.com/search?q=%E4%BA%BA%E7%9A%84%E5%A4%A7%E8%84%91%E4%BC%9A%E4%B8%8D%E4%BC%9A%E5%87%BA%E7%8E%B0%E3%80%8C%E8%BF%87%E6%8B%9F%E5%90%88%E3%80%8D%E7%97%85)
 1. [一个人可以蠢到什么程度](https://www.zhihu.com/search?q=%E4%B8%80%E4%B8%AA%E4%BA%BA%E5%8F%AF%E4%BB%A5%E8%A0%A2%E5%88%B0%E4%BB%80%E4%B9%88%E7%A8%8B%E5%BA%A6)
 1. [体制内你见到最狠的是什么样](https://www.zhihu.com/search?q=%E4%BD%93%E5%88%B6%E5%86%85%E4%BD%A0%E8%A7%81%E5%88%B0%E6%9C%80%E7%8B%A0%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7)
