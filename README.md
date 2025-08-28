@@ -11,11 +11,13 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-08-28 12:29:17 +0800`
+`更新时间：2025-08-28 13:24:31 +0800`
 
 ## 热门搜索
 
-1. [如何看待徐锦江这个人](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%BE%90%E9%94%A6%E6%B1%9F%E8%BF%99%E4%B8%AA%E4%BA%BA)
+1. [你最意外的一笔收入是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E6%9C%80%E6%84%8F%E5%A4%96%E7%9A%84%E4%B8%80%E7%AC%94%E6%94%B6%E5%85%A5%E6%98%AF%E4%BB%80%E4%B9%88)
+1. [北京强降雨](https://www.zhihu.com/search?q=%E5%8C%97%E4%BA%AC%E5%BC%BA%E9%99%8D%E9%9B%A8)
+1. [为什么老一辈人厌恶游戏](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%80%81%E4%B8%80%E8%BE%88%E4%BA%BA%E5%8E%8C%E6%81%B6%E6%B8%B8%E6%88%8F)
 1. [我国成功发射卫星互联网低轨卫星](https://www.zhihu.com/search?q=%E6%88%91%E5%9B%BD%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84%E5%8D%AB%E6%98%9F%E4%BA%92%E8%81%94%E7%BD%91%E4%BD%8E%E8%BD%A8%E5%8D%AB%E6%98%9F)
 1. [你去过最离谱的景区是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E5%8E%BB%E8%BF%87%E6%9C%80%E7%A6%BB%E8%B0%B1%E7%9A%84%E6%99%AF%E5%8C%BA%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [人的大脑会不会出现「过拟合」病](https://www.zhihu.com/search?q=%E4%BA%BA%E7%9A%84%E5%A4%A7%E8%84%91%E4%BC%9A%E4%B8%8D%E4%BC%9A%E5%87%BA%E7%8E%B0%E3%80%8C%E8%BF%87%E6%8B%9F%E5%90%88%E3%80%8D%E7%97%85)
@@ -26,7 +28,6 @@
 1. [美团订单被曝退款未到账](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%A2%E8%AE%A2%E5%8D%95%E8%A2%AB%E6%9B%9D%E9%80%80%E6%AC%BE%E6%9C%AA%E5%88%B0%E8%B4%A6)
 1. [邓刚钓获73斤野生花鲢](https://www.zhihu.com/search?q=%E9%82%93%E5%88%9A%E9%92%93%E8%8E%B773%E6%96%A4%E9%87%8E%E7%94%9F%E8%8A%B1%E9%B2%A2)
 1. [首款曲面iPhone](https://www.zhihu.com/search?q=%E9%A6%96%E6%AC%BE%E6%9B%B2%E9%9D%A2iPhone)
-1. [何晟铭离开电视圈原因](https://www.zhihu.com/search?q=%E4%BD%95%E6%99%9F%E9%93%AD%E7%A6%BB%E5%BC%80%E7%94%B5%E8%A7%86%E5%9C%88%E5%8E%9F%E5%9B%A0)
 1. [疑似「小米SU7 L」路测谍照流出](https://www.zhihu.com/search?q=%E7%96%91%E4%BC%BC%E3%80%8C%E5%B0%8F%E7%B1%B3SU7%20L%E3%80%8D%E8%B7%AF%E6%B5%8B%E8%B0%8D%E7%85%A7%E6%B5%81%E5%87%BA)
 1. [大连科技学院全员停发工资是怎么回事](https://www.zhihu.com/search?q=%E5%A4%A7%E8%BF%9E%E7%A7%91%E6%8A%80%E5%AD%A6%E9%99%A2%E5%85%A8%E5%91%98%E5%81%9C%E5%8F%91%E5%B7%A5%E8%B5%84%E6%98%AF%E6%80%8E%E4%B9%88%E5%9B%9E%E4%BA%8B)
 1. [为何不住在农村还要回村建房子](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BD%95%E4%B8%8D%E4%BD%8F%E5%9C%A8%E5%86%9C%E6%9D%91%E8%BF%98%E8%A6%81%E5%9B%9E%E6%9D%91%E5%BB%BA%E6%88%BF%E5%AD%90)
