@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-08-29 13:12:12 +0800`
+`更新时间：2025-08-29 14:18:06 +0800`
 
 ## 热门搜索
 
@@ -24,10 +24,8 @@
 1. [体制内你见到最狠的是什么样](https://www.zhihu.com/search?q=%E4%BD%93%E5%88%B6%E5%86%85%E4%BD%A0%E8%A7%81%E5%88%B0%E6%9C%80%E7%8B%A0%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7)
 1. [美团订单被曝退款未到账](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%A2%E8%AE%A2%E5%8D%95%E8%A2%AB%E6%9B%9D%E9%80%80%E6%AC%BE%E6%9C%AA%E5%88%B0%E8%B4%A6)
 1. [老潘财商 虞书欣](https://www.zhihu.com/search?q=%E8%80%81%E6%BD%98%E8%B4%A2%E5%95%86%20%E8%99%9E%E4%B9%A6%E6%AC%A3)
-1. [小众丑菜越来越多](https://www.zhihu.com/search?q=%E5%B0%8F%E4%BC%97%E4%B8%91%E8%8F%9C%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A)
 1. [美拟对印度征50%关税](https://www.zhihu.com/search?q=%E7%BE%8E%E6%8B%9F%E5%AF%B9%E5%8D%B0%E5%BA%A6%E5%BE%8150%25%E5%85%B3%E7%A8%8E)
 1. [大学生谈起「理性恋爱」](https://www.zhihu.com/search?q=%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%B0%88%E8%B5%B7%E3%80%8C%E7%90%86%E6%80%A7%E6%81%8B%E7%88%B1%E3%80%8D)
-1. [4岁娃查出400度远视加250度散光](https://www.zhihu.com/search?q=4%E5%B2%81%E5%A8%83%E6%9F%A5%E5%87%BA400%E5%BA%A6%E8%BF%9C%E8%A7%86%E5%8A%A0250%E5%BA%A6%E6%95%A3%E5%85%89)
 1. [退款查账](https://www.zhihu.com/search?q=%E9%80%80%E6%AC%BE%E6%9F%A5%E8%B4%A6)
 1. [你觉得鲁迅夹烟画会误导青少年吗](https://www.zhihu.com/search?q=%E4%BD%A0%E8%A7%89%E5%BE%97%E9%B2%81%E8%BF%85%E5%A4%B9%E7%83%9F%E7%94%BB%E4%BC%9A%E8%AF%AF%E5%AF%BC%E9%9D%92%E5%B0%91%E5%B9%B4%E5%90%97)
 1. [全市统一校服有必要吗](https://www.zhihu.com/search?q=%E5%85%A8%E5%B8%82%E7%BB%9F%E4%B8%80%E6%A0%A1%E6%9C%8D%E6%9C%89%E5%BF%85%E8%A6%81%E5%90%97)
@@ -37,6 +35,9 @@
 1. [博主钓获 73 斤野生花鲢是真的吗](https://www.zhihu.com/search?q=%E5%8D%9A%E4%B8%BB%E9%92%93%E8%8E%B7%2073%20%E6%96%A4%E9%87%8E%E7%94%9F%E8%8A%B1%E9%B2%A2%E6%98%AF%E7%9C%9F%E7%9A%84%E5%90%97)
 1. [董璇和张维伊被全网劝分](https://www.zhihu.com/search?q=%E8%91%A3%E7%92%87%E5%92%8C%E5%BC%A0%E7%BB%B4%E4%BC%8A%E8%A2%AB%E5%85%A8%E7%BD%91%E5%8A%9D%E5%88%86)
 1. [班主任给女学生发不雅信息被行拘 15 日](https://www.zhihu.com/search?q=%E7%8F%AD%E4%B8%BB%E4%BB%BB%E7%BB%99%E5%A5%B3%E5%AD%A6%E7%94%9F%E5%8F%91%E4%B8%8D%E9%9B%85%E4%BF%A1%E6%81%AF%E8%A2%AB%E8%A1%8C%E6%8B%98%2015%20%E6%97%A5)
+1. [为什么显卡最近降价了](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%98%BE%E5%8D%A1%E6%9C%80%E8%BF%91%E9%99%8D%E4%BB%B7%E4%BA%86)
+1. [用「剪刀大法」找猫是什么原理](https://www.zhihu.com/search?q=%E7%94%A8%E3%80%8C%E5%89%AA%E5%88%80%E5%A4%A7%E6%B3%95%E3%80%8D%E6%89%BE%E7%8C%AB%E6%98%AF%E4%BB%80%E4%B9%88%E5%8E%9F%E7%90%86)
+1. [孩子叫你妈还是叫你妈妈有区别吗](https://www.zhihu.com/search?q=%E5%AD%A9%E5%AD%90%E5%8F%AB%E4%BD%A0%E5%A6%88%E8%BF%98%E6%98%AF%E5%8F%AB%E4%BD%A0%E5%A6%88%E5%A6%88%E6%9C%89%E5%8C%BA%E5%88%AB%E5%90%97)
 
 ## 热门话题
 
