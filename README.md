@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-08-30 08:52:52 +0800`
+`更新时间：2025-08-30 10:15:59 +0800`
 
 ## 热门搜索
 
@@ -22,7 +22,6 @@
 1. [一个人可以蠢到什么程度](https://www.zhihu.com/search?q=%E4%B8%80%E4%B8%AA%E4%BA%BA%E5%8F%AF%E4%BB%A5%E8%A0%A2%E5%88%B0%E4%BB%80%E4%B9%88%E7%A8%8B%E5%BA%A6)
 1. [体制内你见到最狠的是什么样](https://www.zhihu.com/search?q=%E4%BD%93%E5%88%B6%E5%86%85%E4%BD%A0%E8%A7%81%E5%88%B0%E6%9C%80%E7%8B%A0%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7)
 1. [老潘财商 虞书欣](https://www.zhihu.com/search?q=%E8%80%81%E6%BD%98%E8%B4%A2%E5%95%86%20%E8%99%9E%E4%B9%A6%E6%AC%A3)
-1. [大学生谈起「理性恋爱」](https://www.zhihu.com/search?q=%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%B0%88%E8%B5%B7%E3%80%8C%E7%90%86%E6%80%A7%E6%81%8B%E7%88%B1%E3%80%8D)
 1. [日本呼吁各国不要参加九三阅兵](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E5%91%BC%E5%90%81%E5%90%84%E5%9B%BD%E4%B8%8D%E8%A6%81%E5%8F%82%E5%8A%A0%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5)
 1. [何小鹏称车企淘汰赛还有五年](https://www.zhihu.com/search?q=%E4%BD%95%E5%B0%8F%E9%B9%8F%E7%A7%B0%E8%BD%A6%E4%BC%81%E6%B7%98%E6%B1%B0%E8%B5%9B%E8%BF%98%E6%9C%89%E4%BA%94%E5%B9%B4)
 1. [《三体》重构了什么样的宇宙](https://www.zhihu.com/search?q=%E3%80%8A%E4%B8%89%E4%BD%93%E3%80%8B%E9%87%8D%E6%9E%84%E4%BA%86%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E5%AE%87%E5%AE%99)
@@ -40,6 +39,7 @@
 1. [谷歌要求明年起所有开发者实名认证](https://www.zhihu.com/search?q=%E8%B0%B7%E6%AD%8C%E8%A6%81%E6%B1%82%E6%98%8E%E5%B9%B4%E8%B5%B7%E6%89%80%E6%9C%89%E5%BC%80%E5%8F%91%E8%80%85%E5%AE%9E%E5%90%8D%E8%AE%A4%E8%AF%81)
 1. [spacex明年收入将超过nasa预算](https://www.zhihu.com/search?q=spacex%E6%98%8E%E5%B9%B4%E6%94%B6%E5%85%A5%E5%B0%86%E8%B6%85%E8%BF%87nasa%E9%A2%84%E7%AE%97)
 1. [为啥西瓜这么好成活](https://www.zhihu.com/search?q=%E4%B8%BA%E5%95%A5%E8%A5%BF%E7%93%9C%E8%BF%99%E4%B9%88%E5%A5%BD%E6%88%90%E6%B4%BB)
+1. [成都车展 8 大豪华品牌集体缺席](https://www.zhihu.com/search?q=%E6%88%90%E9%83%BD%E8%BD%A6%E5%B1%95%208%20%E5%A4%A7%E8%B1%AA%E5%8D%8E%E5%93%81%E7%89%8C%E9%9B%86%E4%BD%93%E7%BC%BA%E5%B8%AD)
 
 ## 热门话题
 
