@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-08-30 11:24:10 +0800`
+`更新时间：2025-08-30 12:13:37 +0800`
 
 ## 热门搜索
 
@@ -32,7 +32,6 @@
 1. [华为将发布新款三折叠手机](https://www.zhihu.com/search?q=%E5%8D%8E%E4%B8%BA%E5%B0%86%E5%8F%91%E5%B8%83%E6%96%B0%E6%AC%BE%E4%B8%89%E6%8A%98%E5%8F%A0%E6%89%8B%E6%9C%BA)
 1. [李雪琴胃里切了8个息肉](https://www.zhihu.com/search?q=%E6%9D%8E%E9%9B%AA%E7%90%B4%E8%83%83%E9%87%8C%E5%88%87%E4%BA%868%E4%B8%AA%E6%81%AF%E8%82%89)
 1. [罕见天象血月将现身](https://www.zhihu.com/search?q=%E7%BD%95%E8%A7%81%E5%A4%A9%E8%B1%A1%E8%A1%80%E6%9C%88%E5%B0%86%E7%8E%B0%E8%BA%AB)
-1. [豆包上线未成年人模式](https://www.zhihu.com/search?q=%E8%B1%86%E5%8C%85%E4%B8%8A%E7%BA%BF%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E6%A8%A1%E5%BC%8F)
 1. [新一代中国操作系统发布](https://www.zhihu.com/search?q=%E6%96%B0%E4%B8%80%E4%BB%A3%E4%B8%AD%E5%9B%BD%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%E5%8F%91%E5%B8%83)
 1. [谷歌要求明年起所有开发者实名认证](https://www.zhihu.com/search?q=%E8%B0%B7%E6%AD%8C%E8%A6%81%E6%B1%82%E6%98%8E%E5%B9%B4%E8%B5%B7%E6%89%80%E6%9C%89%E5%BC%80%E5%8F%91%E8%80%85%E5%AE%9E%E5%90%8D%E8%AE%A4%E8%AF%81)
 1. [spacex明年收入将超过nasa预算](https://www.zhihu.com/search?q=spacex%E6%98%8E%E5%B9%B4%E6%94%B6%E5%85%A5%E5%B0%86%E8%B6%85%E8%BF%87nasa%E9%A2%84%E7%AE%97)
@@ -40,6 +39,7 @@
 1. [成都车展 8 大豪华品牌集体缺席](https://www.zhihu.com/search?q=%E6%88%90%E9%83%BD%E8%BD%A6%E5%B1%95%208%20%E5%A4%A7%E8%B1%AA%E5%8D%8E%E5%93%81%E7%89%8C%E9%9B%86%E4%BD%93%E7%BC%BA%E5%B8%AD)
 1. [老漂族吐槽自己是「不花钱保姆」](https://www.zhihu.com/search?q=%E8%80%81%E6%BC%82%E6%97%8F%E5%90%90%E6%A7%BD%E8%87%AA%E5%B7%B1%E6%98%AF%E3%80%8C%E4%B8%8D%E8%8A%B1%E9%92%B1%E4%BF%9D%E5%A7%86%E3%80%8D)
 1. [上海一条百万元的龙鱼做手术修眼](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%E4%B8%80%E6%9D%A1%E7%99%BE%E4%B8%87%E5%85%83%E7%9A%84%E9%BE%99%E9%B1%BC%E5%81%9A%E6%89%8B%E6%9C%AF%E4%BF%AE%E7%9C%BC)
+1. [如何评价女明星 Lisa](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E5%A5%B3%E6%98%8E%E6%98%9F%20Lisa)
 
 ## 热门话题
 
