@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-08-31 08:59:34 +0800`
+`更新时间：2025-08-31 10:38:42 +0800`
 
 ## 热门搜索
 
-1. [你去过最离谱的景区是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E5%8E%BB%E8%BF%87%E6%9C%80%E7%A6%BB%E8%B0%B1%E7%9A%84%E6%99%AF%E5%8C%BA%E6%98%AF%E4%BB%80%E4%B9%88)
-1. [人的大脑会不会出现「过拟合」病](https://www.zhihu.com/search?q=%E4%BA%BA%E7%9A%84%E5%A4%A7%E8%84%91%E4%BC%9A%E4%B8%8D%E4%BC%9A%E5%87%BA%E7%8E%B0%E3%80%8C%E8%BF%87%E6%8B%9F%E5%90%88%E3%80%8D%E7%97%85)
+1. [医生给梓渝的建议是需要手术](https://www.zhihu.com/search?q=%E5%8C%BB%E7%94%9F%E7%BB%99%E6%A2%93%E6%B8%9D%E7%9A%84%E5%BB%BA%E8%AE%AE%E6%98%AF%E9%9C%80%E8%A6%81%E6%89%8B%E6%9C%AF)
+1. [网传南京大学青年教师东思嘉离世](https://www.zhihu.com/search?q=%E7%BD%91%E4%BC%A0%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E9%9D%92%E5%B9%B4%E6%95%99%E5%B8%88%E4%B8%9C%E6%80%9D%E5%98%89%E7%A6%BB%E4%B8%96)
 1. [一个人可以蠢到什么程度](https://www.zhihu.com/search?q=%E4%B8%80%E4%B8%AA%E4%BA%BA%E5%8F%AF%E4%BB%A5%E8%A0%A2%E5%88%B0%E4%BB%80%E4%B9%88%E7%A8%8B%E5%BA%A6)
 1. [体制内你见到最狠的是什么样](https://www.zhihu.com/search?q=%E4%BD%93%E5%88%B6%E5%86%85%E4%BD%A0%E8%A7%81%E5%88%B0%E6%9C%80%E7%8B%A0%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7)
 1. [老潘财商 虞书欣](https://www.zhihu.com/search?q=%E8%80%81%E6%BD%98%E8%B4%A2%E5%95%86%20%E8%99%9E%E4%B9%A6%E6%AC%A3)
