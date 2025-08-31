@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-08-31 12:28:08 +0800`
+`更新时间：2025-08-31 13:22:54 +0800`
 
 ## 热门搜索
 
-1. [致敬伟大抗战精神mv发布](https://www.zhihu.com/search?q=%E8%87%B4%E6%95%AC%E4%BC%9F%E5%A4%A7%E6%8A%97%E6%88%98%E7%B2%BE%E7%A5%9Emv%E5%8F%91%E5%B8%83)
-1. [韩国知名歌手鸟叔接受警方调查](https://www.zhihu.com/search?q=%E9%9F%A9%E5%9B%BD%E7%9F%A5%E5%90%8D%E6%AD%8C%E6%89%8B%E9%B8%9F%E5%8F%94%E6%8E%A5%E5%8F%97%E8%AD%A6%E6%96%B9%E8%B0%83%E6%9F%A5)
+1. [你去过最离谱的景区是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E5%8E%BB%E8%BF%87%E6%9C%80%E7%A6%BB%E8%B0%B1%E7%9A%84%E6%99%AF%E5%8C%BA%E6%98%AF%E4%BB%80%E4%B9%88)
+1. [人的大脑会不会出现「过拟合」病](https://www.zhihu.com/search?q=%E4%BA%BA%E7%9A%84%E5%A4%A7%E8%84%91%E4%BC%9A%E4%B8%8D%E4%BC%9A%E5%87%BA%E7%8E%B0%E3%80%8C%E8%BF%87%E6%8B%9F%E5%90%88%E3%80%8D%E7%97%85)
 1. [一个人可以蠢到什么程度](https://www.zhihu.com/search?q=%E4%B8%80%E4%B8%AA%E4%BA%BA%E5%8F%AF%E4%BB%A5%E8%A0%A2%E5%88%B0%E4%BB%80%E4%B9%88%E7%A8%8B%E5%BA%A6)
 1. [体制内你见到最狠的是什么样](https://www.zhihu.com/search?q=%E4%BD%93%E5%88%B6%E5%86%85%E4%BD%A0%E8%A7%81%E5%88%B0%E6%9C%80%E7%8B%A0%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7)
 1. [老潘财商 虞书欣](https://www.zhihu.com/search?q=%E8%80%81%E6%BD%98%E8%B4%A2%E5%95%86%20%E8%99%9E%E4%B9%A6%E6%AC%A3)
