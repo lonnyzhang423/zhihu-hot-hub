@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-08-31 17:10:53 +0800`
+`更新时间：2025-08-31 18:11:07 +0800`
 
 ## 热门搜索
 
@@ -22,7 +22,6 @@
 1. [《三体》重构了什么样的宇宙](https://www.zhihu.com/search?q=%E3%80%8A%E4%B8%89%E4%BD%93%E3%80%8B%E9%87%8D%E6%9E%84%E4%BA%86%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E5%AE%87%E5%AE%99)
 1. [谷歌正式发布nano banana模型](https://www.zhihu.com/search?q=%E8%B0%B7%E6%AD%8C%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83nano%20banana%E6%A8%A1%E5%9E%8B)
 1. [SpaceX星舰第十次试飞圆满结束](https://www.zhihu.com/search?q=SpaceX%E6%98%9F%E8%88%B0%E7%AC%AC%E5%8D%81%E6%AC%A1%E8%AF%95%E9%A3%9E%E5%9C%86%E6%BB%A1%E7%BB%93%E6%9D%9F)
-1. [罕见天象血月将现身](https://www.zhihu.com/search?q=%E7%BD%95%E8%A7%81%E5%A4%A9%E8%B1%A1%E8%A1%80%E6%9C%88%E5%B0%86%E7%8E%B0%E8%BA%AB)
 1. [为啥西瓜这么好成活](https://www.zhihu.com/search?q=%E4%B8%BA%E5%95%A5%E8%A5%BF%E7%93%9C%E8%BF%99%E4%B9%88%E5%A5%BD%E6%88%90%E6%B4%BB)
 1. [成都车展 8 大豪华品牌集体缺席](https://www.zhihu.com/search?q=%E6%88%90%E9%83%BD%E8%BD%A6%E5%B1%95%208%20%E5%A4%A7%E8%B1%AA%E5%8D%8E%E5%93%81%E7%89%8C%E9%9B%86%E4%BD%93%E7%BC%BA%E5%B8%AD)
 1. [老漂族吐槽自己是「不花钱保姆」](https://www.zhihu.com/search?q=%E8%80%81%E6%BC%82%E6%97%8F%E5%90%90%E6%A7%BD%E8%87%AA%E5%B7%B1%E6%98%AF%E3%80%8C%E4%B8%8D%E8%8A%B1%E9%92%B1%E4%BF%9D%E5%A7%86%E3%80%8D)
@@ -41,6 +40,7 @@
 1. [国乒做什么才能挽回颓势](https://www.zhihu.com/search?q=%E5%9B%BD%E4%B9%92%E5%81%9A%E4%BB%80%E4%B9%88%E6%89%8D%E8%83%BD%E6%8C%BD%E5%9B%9E%E9%A2%93%E5%8A%BF)
 1. [为什么时代少年团一开演唱会就出问题](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E4%B8%80%E5%BC%80%E6%BC%94%E5%94%B1%E4%BC%9A%E5%B0%B1%E5%87%BA%E9%97%AE%E9%A2%98)
 1. [民办高校多轮征集志愿后仍未招满](https://www.zhihu.com/search?q=%E6%B0%91%E5%8A%9E%E9%AB%98%E6%A0%A1%E5%A4%9A%E8%BD%AE%E5%BE%81%E9%9B%86%E5%BF%97%E6%84%BF%E5%90%8E%E4%BB%8D%E6%9C%AA%E6%8B%9B%E6%BB%A1)
+1. [为什么糖是战略物资](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%B3%96%E6%98%AF%E6%88%98%E7%95%A5%E7%89%A9%E8%B5%84)
 
 ## 热门话题
 
