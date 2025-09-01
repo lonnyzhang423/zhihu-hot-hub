@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-09-01 18:14:12 +0800`
+`更新时间：2025-09-01 19:10:28 +0800`
 
 ## 热门搜索
 
@@ -19,9 +19,6 @@
 1. [为什么父母会把两三万的学费非常当回事](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%88%B6%E6%AF%8D%E4%BC%9A%E6%8A%8A%E4%B8%A4%E4%B8%89%E4%B8%87%E7%9A%84%E5%AD%A6%E8%B4%B9%E9%9D%9E%E5%B8%B8%E5%BD%93%E5%9B%9E%E4%BA%8B)
 1. [长的漂亮真的很有优势吗](https://www.zhihu.com/search?q=%E9%95%BF%E7%9A%84%E6%BC%82%E4%BA%AE%E7%9C%9F%E7%9A%84%E5%BE%88%E6%9C%89%E4%BC%98%E5%8A%BF%E5%90%97)
 1. [《三体》重构了什么样的宇宙](https://www.zhihu.com/search?q=%E3%80%8A%E4%B8%89%E4%BD%93%E3%80%8B%E9%87%8D%E6%9E%84%E4%BA%86%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E5%AE%87%E5%AE%99)
-1. [安徽最大蝗虫现身合肥](https://www.zhihu.com/search?q=%E5%AE%89%E5%BE%BD%E6%9C%80%E5%A4%A7%E8%9D%97%E8%99%AB%E7%8E%B0%E8%BA%AB%E5%90%88%E8%82%A5)
-1. [蜜雪冰城回应网友玩梗「蜜鼠冰城」](https://www.zhihu.com/search?q=%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E5%9B%9E%E5%BA%94%E7%BD%91%E5%8F%8B%E7%8E%A9%E6%A2%97%E3%80%8C%E8%9C%9C%E9%BC%A0%E5%86%B0%E5%9F%8E%E3%80%8D)
-1. [家长建议禁止学生带电话手表上学](https://www.zhihu.com/search?q=%E5%AE%B6%E9%95%BF%E5%BB%BA%E8%AE%AE%E7%A6%81%E6%AD%A2%E5%AD%A6%E7%94%9F%E5%B8%A6%E7%94%B5%E8%AF%9D%E6%89%8B%E8%A1%A8%E4%B8%8A%E5%AD%A6)
 1. [如何看待花 168 元去讲 PPT](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E8%8A%B1%20168%20%E5%85%83%E5%8E%BB%E8%AE%B2%20PPT)
 1. [你对泰勒·斯威夫特订婚有哪些祝福](https://www.zhihu.com/search?q=%E4%BD%A0%E5%AF%B9%E6%B3%B0%E5%8B%92%C2%B7%E6%96%AF%E5%A8%81%E5%A4%AB%E7%89%B9%E8%AE%A2%E5%A9%9A%E6%9C%89%E5%93%AA%E4%BA%9B%E7%A5%9D%E7%A6%8F)
 1. [网红过沙漠刀锋车辆侧翻身亡](https://www.zhihu.com/search?q=%E7%BD%91%E7%BA%A2%E8%BF%87%E6%B2%99%E6%BC%A0%E5%88%80%E9%94%8B%E8%BD%A6%E8%BE%86%E4%BE%A7%E7%BF%BB%E8%BA%AB%E4%BA%A1)
@@ -37,6 +34,11 @@
 1. [王晶的导演水平是不是被严重高估了](https://www.zhihu.com/search?q=%E7%8E%8B%E6%99%B6%E7%9A%84%E5%AF%BC%E6%BC%94%E6%B0%B4%E5%B9%B3%E6%98%AF%E4%B8%8D%E6%98%AF%E8%A2%AB%E4%B8%A5%E9%87%8D%E9%AB%98%E4%BC%B0%E4%BA%86)
 1. [通缩可以通过印钱来解决吗](https://www.zhihu.com/search?q=%E9%80%9A%E7%BC%A9%E5%8F%AF%E4%BB%A5%E9%80%9A%E8%BF%87%E5%8D%B0%E9%92%B1%E6%9D%A5%E8%A7%A3%E5%86%B3%E5%90%97)
 1. [大水冲不走龙王庙是科学还是玄学](https://www.zhihu.com/search?q=%E5%A4%A7%E6%B0%B4%E5%86%B2%E4%B8%8D%E8%B5%B0%E9%BE%99%E7%8E%8B%E5%BA%99%E6%98%AF%E7%A7%91%E5%AD%A6%E8%BF%98%E6%98%AF%E7%8E%84%E5%AD%A6)
+1. [为什么中国在很多领域都要求自主研发](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%AD%E5%9B%BD%E5%9C%A8%E5%BE%88%E5%A4%9A%E9%A2%86%E5%9F%9F%E9%83%BD%E8%A6%81%E6%B1%82%E8%87%AA%E4%B8%BB%E7%A0%94%E5%8F%91)
+1. [小米澎湃 OS3 正式发布](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E6%B9%83%20OS3%20%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83)
+1. [山东师范大学学生回宿舍要看 15 秒广告](https://www.zhihu.com/search?q=%E5%B1%B1%E4%B8%9C%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6%E5%AD%A6%E7%94%9F%E5%9B%9E%E5%AE%BF%E8%88%8D%E8%A6%81%E7%9C%8B%2015%20%E7%A7%92%E5%B9%BF%E5%91%8A)
+1. [《崩坏：因缘精灵》开放预约](https://www.zhihu.com/search?q=%E3%80%8A%E5%B4%A9%E5%9D%8F%EF%BC%9A%E5%9B%A0%E7%BC%98%E7%B2%BE%E7%81%B5%E3%80%8B%E5%BC%80%E6%94%BE%E9%A2%84%E7%BA%A6)
+1. [人形机器人乒乓球过招超过100个回合](https://www.zhihu.com/search?q=%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B9%92%E4%B9%93%E7%90%83%E8%BF%87%E6%8B%9B%E8%B6%85%E8%BF%87100%E4%B8%AA%E5%9B%9E%E5%90%88)
 
 ## 热门话题
 
