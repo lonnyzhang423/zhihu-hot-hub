@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-09-01 19:20:38 +0800`
+`更新时间：2025-09-01 20:53:19 +0800`
 
 ## 热门搜索
 
@@ -35,10 +35,10 @@
 1. [通缩可以通过印钱来解决吗](https://www.zhihu.com/search?q=%E9%80%9A%E7%BC%A9%E5%8F%AF%E4%BB%A5%E9%80%9A%E8%BF%87%E5%8D%B0%E9%92%B1%E6%9D%A5%E8%A7%A3%E5%86%B3%E5%90%97)
 1. [大水冲不走龙王庙是科学还是玄学](https://www.zhihu.com/search?q=%E5%A4%A7%E6%B0%B4%E5%86%B2%E4%B8%8D%E8%B5%B0%E9%BE%99%E7%8E%8B%E5%BA%99%E6%98%AF%E7%A7%91%E5%AD%A6%E8%BF%98%E6%98%AF%E7%8E%84%E5%AD%A6)
 1. [为什么中国在很多领域都要求自主研发](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%AD%E5%9B%BD%E5%9C%A8%E5%BE%88%E5%A4%9A%E9%A2%86%E5%9F%9F%E9%83%BD%E8%A6%81%E6%B1%82%E8%87%AA%E4%B8%BB%E7%A0%94%E5%8F%91)
-1. [小米澎湃 OS3 正式发布](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3%E6%BE%8E%E6%B9%83%20OS3%20%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83)
 1. [山东师范大学学生回宿舍要看 15 秒广告](https://www.zhihu.com/search?q=%E5%B1%B1%E4%B8%9C%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6%E5%AD%A6%E7%94%9F%E5%9B%9E%E5%AE%BF%E8%88%8D%E8%A6%81%E7%9C%8B%2015%20%E7%A7%92%E5%B9%BF%E5%91%8A)
 1. [《崩坏：因缘精灵》开放预约](https://www.zhihu.com/search?q=%E3%80%8A%E5%B4%A9%E5%9D%8F%EF%BC%9A%E5%9B%A0%E7%BC%98%E7%B2%BE%E7%81%B5%E3%80%8B%E5%BC%80%E6%94%BE%E9%A2%84%E7%BA%A6)
 1. [人形机器人乒乓球过招超过100个回合](https://www.zhihu.com/search?q=%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B9%92%E4%B9%93%E7%90%83%E8%BF%87%E6%8B%9B%E8%B6%85%E8%BF%87100%E4%B8%AA%E5%9B%9E%E5%90%88)
+1. [华为上半年营收 4270 亿元](https://www.zhihu.com/search?q=%E5%8D%8E%E4%B8%BA%E4%B8%8A%E5%8D%8A%E5%B9%B4%E8%90%A5%E6%94%B6%204270%20%E4%BA%BF%E5%85%83)
 
 ## 热门话题
 
