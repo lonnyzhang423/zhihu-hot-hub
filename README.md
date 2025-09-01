@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-09-01 12:34:36 +0800`
+`更新时间：2025-09-01 13:26:20 +0800`
 
 ## 热门搜索
 
-1. [王楚钦2比3徐瑛彬](https://www.zhihu.com/search?q=%E7%8E%8B%E6%A5%9A%E9%92%A62%E6%AF%943%E5%BE%90%E7%91%9B%E5%BD%AC)
-1. [《三体》重构了什么样的宇宙](https://www.zhihu.com/search?q=%E3%80%8A%E4%B8%89%E4%BD%93%E3%80%8B%E9%87%8D%E6%9E%84%E4%BA%86%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E5%AE%87%E5%AE%99)
+1. [邓紫棋演唱会七站官宣](https://www.zhihu.com/search?q=%E9%82%93%E7%B4%AB%E6%A3%8B%E6%BC%94%E5%94%B1%E4%BC%9A%E4%B8%83%E7%AB%99%E5%AE%98%E5%AE%A3)
+1. [易烊千玺演唱会又一百万直拍](https://www.zhihu.com/search?q=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E6%BC%94%E5%94%B1%E4%BC%9A%E5%8F%88%E4%B8%80%E7%99%BE%E4%B8%87%E7%9B%B4%E6%8B%8D)
 1. [安徽最大蝗虫现身合肥](https://www.zhihu.com/search?q=%E5%AE%89%E5%BE%BD%E6%9C%80%E5%A4%A7%E8%9D%97%E8%99%AB%E7%8E%B0%E8%BA%AB%E5%90%88%E8%82%A5)
 1. [蜜雪冰城回应网友玩梗「蜜鼠冰城」](https://www.zhihu.com/search?q=%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E5%9B%9E%E5%BA%94%E7%BD%91%E5%8F%8B%E7%8E%A9%E6%A2%97%E3%80%8C%E8%9C%9C%E9%BC%A0%E5%86%B0%E5%9F%8E%E3%80%8D)
 1. [家长建议禁止学生带电话手表上学](https://www.zhihu.com/search?q=%E5%AE%B6%E9%95%BF%E5%BB%BA%E8%AE%AE%E7%A6%81%E6%AD%A2%E5%AD%A6%E7%94%9F%E5%B8%A6%E7%94%B5%E8%AF%9D%E6%89%8B%E8%A1%A8%E4%B8%8A%E5%AD%A6)
