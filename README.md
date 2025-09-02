@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-09-02 12:14:32 +0800`
+`更新时间：2025-09-02 13:12:48 +0800`
 
 ## 热门搜索
 
@@ -37,6 +37,7 @@
 1. [内华达州发生5.3级地震](https://www.zhihu.com/search?q=%E5%86%85%E5%8D%8E%E8%BE%BE%E5%B7%9E%E5%8F%91%E7%94%9F5.3%E7%BA%A7%E5%9C%B0%E9%9C%87)
 1. [肖国栋晋级决赛](https://www.zhihu.com/search?q=%E8%82%96%E5%9B%BD%E6%A0%8B%E6%99%8B%E7%BA%A7%E5%86%B3%E8%B5%9B)
 1. [马尔卡宁欧锦赛43分](https://www.zhihu.com/search?q=%E9%A9%AC%E5%B0%94%E5%8D%A1%E5%AE%81%E6%AC%A7%E9%94%A6%E8%B5%9B43%E5%88%86)
+1. [FPX2:3NIP](https://www.zhihu.com/search?q=FPX2%3A3NIP)
 
 ## 热门话题
 
