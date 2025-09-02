@@ -11,21 +11,20 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-09-02 12:30:18 +0800`
+`更新时间：2025-09-02 13:25:12 +0800`
 
 ## 热门搜索
 
-1. [王楚钦2比3徐瑛彬](https://www.zhihu.com/search?q=%E7%8E%8B%E6%A5%9A%E9%92%A62%E6%AF%943%E5%BE%90%E7%91%9B%E5%BD%AC)
-1. [为什么父母会把两三万的学费非常当回事](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%88%B6%E6%AF%8D%E4%BC%9A%E6%8A%8A%E4%B8%A4%E4%B8%89%E4%B8%87%E7%9A%84%E5%AD%A6%E8%B4%B9%E9%9D%9E%E5%B8%B8%E5%BD%93%E5%9B%9E%E4%BA%8B)
+1. [edg战胜we](https://www.zhihu.com/search?q=edg%E6%88%98%E8%83%9Cwe)
 1. [长的漂亮真的很有优势吗](https://www.zhihu.com/search?q=%E9%95%BF%E7%9A%84%E6%BC%82%E4%BA%AE%E7%9C%9F%E7%9A%84%E5%BE%88%E6%9C%89%E4%BC%98%E5%8A%BF%E5%90%97)
 1. [九三阅兵](https://www.zhihu.com/search?q=%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5)
 1. [山东师范大学学生回宿舍要看 15 秒广告](https://www.zhihu.com/search?q=%E5%B1%B1%E4%B8%9C%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6%E5%AD%A6%E7%94%9F%E5%9B%9E%E5%AE%BF%E8%88%8D%E8%A6%81%E7%9C%8B%2015%20%E7%A7%92%E5%B9%BF%E5%91%8A)
 1. [新版英语教材被指太难](https://www.zhihu.com/search?q=%E6%96%B0%E7%89%88%E8%8B%B1%E8%AF%AD%E6%95%99%E6%9D%90%E8%A2%AB%E6%8C%87%E5%A4%AA%E9%9A%BE)
-1. [华为上半年营收 4270 亿元](https://www.zhihu.com/search?q=%E5%8D%8E%E4%B8%BA%E4%B8%8A%E5%8D%8A%E5%B9%B4%E8%90%A5%E6%94%B6%204270%20%E4%BA%BF%E5%85%83)
 1. [比亚迪上半年营收3713亿元](https://www.zhihu.com/search?q=%E6%AF%94%E4%BA%9A%E8%BF%AA%E4%B8%8A%E5%8D%8A%E5%B9%B4%E8%90%A5%E6%94%B63713%E4%BA%BF%E5%85%83)
 1. [曝印尼爆发劳工抗议](https://www.zhihu.com/search?q=%E6%9B%9D%E5%8D%B0%E5%B0%BC%E7%88%86%E5%8F%91%E5%8A%B3%E5%B7%A5%E6%8A%97%E8%AE%AE)
 1. [曝阿里巴巴正开发新的 AI 芯片](https://www.zhihu.com/search?q=%E6%9B%9D%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E6%AD%A3%E5%BC%80%E5%8F%91%E6%96%B0%E7%9A%84%20AI%20%E8%8A%AF%E7%89%87)
 1. [蓬莱二中通报教师与学生不文明聊天](https://www.zhihu.com/search?q=%E8%93%AC%E8%8E%B1%E4%BA%8C%E4%B8%AD%E9%80%9A%E6%8A%A5%E6%95%99%E5%B8%88%E4%B8%8E%E5%AD%A6%E7%94%9F%E4%B8%8D%E6%96%87%E6%98%8E%E8%81%8A%E5%A4%A9)
+1. [佛山一学校被曝一间房住百人](https://www.zhihu.com/search?q=%E4%BD%9B%E5%B1%B1%E4%B8%80%E5%AD%A6%E6%A0%A1%E8%A2%AB%E6%9B%9D%E4%B8%80%E9%97%B4%E6%88%BF%E4%BD%8F%E7%99%BE%E4%BA%BA)
 1. [何广智冠军](https://www.zhihu.com/search?q=%E4%BD%95%E5%B9%BF%E6%99%BA%E5%86%A0%E5%86%9B)
 1. [何广智《脱友 2》冠军](https://www.zhihu.com/search?q=%E4%BD%95%E5%B9%BF%E6%99%BA%E3%80%8A%E8%84%B1%E5%8F%8B%202%E3%80%8B%E5%86%A0%E5%86%9B)
 1. [国民果汁汇源上演夺权戏码](https://www.zhihu.com/search?q=%E5%9B%BD%E6%B0%91%E6%9E%9C%E6%B1%81%E6%B1%87%E6%BA%90%E4%B8%8A%E6%BC%94%E5%A4%BA%E6%9D%83%E6%88%8F%E7%A0%81)
