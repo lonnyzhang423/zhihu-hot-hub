@@ -11,13 +11,14 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-09-02 17:27:20 +0800`
+`更新时间：2025-09-02 18:26:49 +0800`
 
 ## 热门搜索
 
-1. [你心目中的排名第一的饮料是哪一款](https://www.zhihu.com/search?q=%E4%BD%A0%E5%BF%83%E7%9B%AE%E4%B8%AD%E7%9A%84%E6%8E%92%E5%90%8D%E7%AC%AC%E4%B8%80%E7%9A%84%E9%A5%AE%E6%96%99%E6%98%AF%E5%93%AA%E4%B8%80%E6%AC%BE)
-1. [edg战胜we](https://www.zhihu.com/search?q=edg%E6%88%98%E8%83%9Cwe)
+1. [王楚钦2比3徐瑛彬](https://www.zhihu.com/search?q=%E7%8E%8B%E6%A5%9A%E9%92%A62%E6%AF%943%E5%BE%90%E7%91%9B%E5%BD%AC)
+1. [为什么父母会把两三万的学费非常当回事](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%88%B6%E6%AF%8D%E4%BC%9A%E6%8A%8A%E4%B8%A4%E4%B8%89%E4%B8%87%E7%9A%84%E5%AD%A6%E8%B4%B9%E9%9D%9E%E5%B8%B8%E5%BD%93%E5%9B%9E%E4%BA%8B)
 1. [长的漂亮真的很有优势吗](https://www.zhihu.com/search?q=%E9%95%BF%E7%9A%84%E6%BC%82%E4%BA%AE%E7%9C%9F%E7%9A%84%E5%BE%88%E6%9C%89%E4%BC%98%E5%8A%BF%E5%90%97)
+1. [九三阅兵](https://www.zhihu.com/search?q=%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5)
 1. [山东师范大学学生回宿舍要看 15 秒广告](https://www.zhihu.com/search?q=%E5%B1%B1%E4%B8%9C%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6%E5%AD%A6%E7%94%9F%E5%9B%9E%E5%AE%BF%E8%88%8D%E8%A6%81%E7%9C%8B%2015%20%E7%A7%92%E5%B9%BF%E5%91%8A)
 1. [新版英语教材被指太难](https://www.zhihu.com/search?q=%E6%96%B0%E7%89%88%E8%8B%B1%E8%AF%AD%E6%95%99%E6%9D%90%E8%A2%AB%E6%8C%87%E5%A4%AA%E9%9A%BE)
 1. [曝印尼爆发劳工抗议](https://www.zhihu.com/search?q=%E6%9B%9D%E5%8D%B0%E5%B0%BC%E7%88%86%E5%8F%91%E5%8A%B3%E5%B7%A5%E6%8A%97%E8%AE%AE)
@@ -36,7 +37,6 @@
 1. [小电驴新国标9月1日实施](https://www.zhihu.com/search?q=%E5%B0%8F%E7%94%B5%E9%A9%B4%E6%96%B0%E5%9B%BD%E6%A0%879%E6%9C%881%E6%97%A5%E5%AE%9E%E6%96%BD)
 1. [比亚迪上半年研发投入接近净利润两倍](https://www.zhihu.com/search?q=%E6%AF%94%E4%BA%9A%E8%BF%AA%E4%B8%8A%E5%8D%8A%E5%B9%B4%E7%A0%94%E5%8F%91%E6%8A%95%E5%85%A5%E6%8E%A5%E8%BF%91%E5%87%80%E5%88%A9%E6%B6%A6%E4%B8%A4%E5%80%8D)
 1. [男子在七彩丹霞翻越护栏对地表造成破坏](https://www.zhihu.com/search?q=%E7%94%B7%E5%AD%90%E5%9C%A8%E4%B8%83%E5%BD%A9%E4%B8%B9%E9%9C%9E%E7%BF%BB%E8%B6%8A%E6%8A%A4%E6%A0%8F%E5%AF%B9%E5%9C%B0%E8%A1%A8%E9%80%A0%E6%88%90%E7%A0%B4%E5%9D%8F)
-1. [「子涵梓萱」时代已经过去了](https://www.zhihu.com/search?q=%E3%80%8C%E5%AD%90%E6%B6%B5%E6%A2%93%E8%90%B1%E3%80%8D%E6%97%B6%E4%BB%A3%E5%B7%B2%E7%BB%8F%E8%BF%87%E5%8E%BB%E4%BA%86)
 
 ## 热门话题
 
