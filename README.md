@@ -11,19 +11,17 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-09-03 08:52:37 +0800`
+`更新时间：2025-09-03 10:15:21 +0800`
 
 ## 热门搜索
 
-1. [王楚钦2比3徐瑛彬](https://www.zhihu.com/search?q=%E7%8E%8B%E6%A5%9A%E9%92%A62%E6%AF%943%E5%BE%90%E7%91%9B%E5%BD%AC)
-1. [为什么父母会把两三万的学费非常当回事](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%88%B6%E6%AF%8D%E4%BC%9A%E6%8A%8A%E4%B8%A4%E4%B8%89%E4%B8%87%E7%9A%84%E5%AD%A6%E8%B4%B9%E9%9D%9E%E5%B8%B8%E5%BD%93%E5%9B%9E%E4%BA%8B)
+1. [滕哈赫不再担任勒沃库森主帅](https://www.zhihu.com/search?q=%E6%BB%95%E5%93%88%E8%B5%AB%E4%B8%8D%E5%86%8D%E6%8B%85%E4%BB%BB%E5%8B%92%E6%B2%83%E5%BA%93%E6%A3%AE%E4%B8%BB%E5%B8%85)
+1. [有哪些常人不知道的「常识」](https://www.zhihu.com/search?q=%E6%9C%89%E5%93%AA%E4%BA%9B%E5%B8%B8%E4%BA%BA%E4%B8%8D%E7%9F%A5%E9%81%93%E7%9A%84%E3%80%8C%E5%B8%B8%E8%AF%86%E3%80%8D)
 1. [长的漂亮真的很有优势吗](https://www.zhihu.com/search?q=%E9%95%BF%E7%9A%84%E6%BC%82%E4%BA%AE%E7%9C%9F%E7%9A%84%E5%BE%88%E6%9C%89%E4%BC%98%E5%8A%BF%E5%90%97)
 1. [蔚来财报](https://www.zhihu.com/search?q=%E8%94%9A%E6%9D%A5%E8%B4%A2%E6%8A%A5)
-1. [曝印尼爆发劳工抗议](https://www.zhihu.com/search?q=%E6%9B%9D%E5%8D%B0%E5%B0%BC%E7%88%86%E5%8F%91%E5%8A%B3%E5%B7%A5%E6%8A%97%E8%AE%AE)
+1. [王楚钦2比3徐瑛彬](https://www.zhihu.com/search?q=%E7%8E%8B%E6%A5%9A%E9%92%A62%E6%AF%943%E5%BE%90%E7%91%9B%E5%BD%AC)
 1. [蓬莱二中通报教师与学生不文明聊天](https://www.zhihu.com/search?q=%E8%93%AC%E8%8E%B1%E4%BA%8C%E4%B8%AD%E9%80%9A%E6%8A%A5%E6%95%99%E5%B8%88%E4%B8%8E%E5%AD%A6%E7%94%9F%E4%B8%8D%E6%96%87%E6%98%8E%E8%81%8A%E5%A4%A9)
 1. [佛山一学校被曝一间房住百人](https://www.zhihu.com/search?q=%E4%BD%9B%E5%B1%B1%E4%B8%80%E5%AD%A6%E6%A0%A1%E8%A2%AB%E6%9B%9D%E4%B8%80%E9%97%B4%E6%88%BF%E4%BD%8F%E7%99%BE%E4%BA%BA)
-1. [何广智冠军](https://www.zhihu.com/search?q=%E4%BD%95%E5%B9%BF%E6%99%BA%E5%86%A0%E5%86%9B)
-1. [何广智《脱友 2》冠军](https://www.zhihu.com/search?q=%E4%BD%95%E5%B9%BF%E6%99%BA%E3%80%8A%E8%84%B1%E5%8F%8B%202%E3%80%8B%E5%86%A0%E5%86%9B)
 1. [蒯曼3:2张本美和](https://www.zhihu.com/search?q=%E8%92%AF%E6%9B%BC3%3A2%E5%BC%A0%E6%9C%AC%E7%BE%8E%E5%92%8C)
 1. [中国纳米专利数量居全球首位](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E7%BA%B3%E7%B1%B3%E4%B8%93%E5%88%A9%E6%95%B0%E9%87%8F%E5%B1%85%E5%85%A8%E7%90%83%E9%A6%96%E4%BD%8D)
 1. [内华达州发生5.3级地震](https://www.zhihu.com/search?q=%E5%86%85%E5%8D%8E%E8%BE%BE%E5%B7%9E%E5%8F%91%E7%94%9F5.3%E7%BA%A7%E5%9C%B0%E9%9C%87)
@@ -38,6 +36,7 @@
 1. [陈雨菲vs山口茜](https://www.zhihu.com/search?q=%E9%99%88%E9%9B%A8%E8%8F%B2vs%E5%B1%B1%E5%8F%A3%E8%8C%9C)
 1. [石宇奇vs昆拉武特](https://www.zhihu.com/search?q=%E7%9F%B3%E5%AE%87%E5%A5%87vs%E6%98%86%E6%8B%89%E6%AD%A6%E7%89%B9)
 1. [陈雨菲获羽毛球世锦赛女单亚军](https://www.zhihu.com/search?q=%E9%99%88%E9%9B%A8%E8%8F%B2%E8%8E%B7%E7%BE%BD%E6%AF%9B%E7%90%83%E4%B8%96%E9%94%A6%E8%B5%9B%E5%A5%B3%E5%8D%95%E4%BA%9A%E5%86%9B)
+1. [刘圣书/谭宁获羽毛球世锦赛女双冠军](https://www.zhihu.com/search?q=%E5%88%98%E5%9C%A3%E4%B9%A6/%E8%B0%AD%E5%AE%81%E8%8E%B7%E7%BE%BD%E6%AF%9B%E7%90%83%E4%B8%96%E9%94%A6%E8%B5%9B%E5%A5%B3%E5%8F%8C%E5%86%A0%E5%86%9B)
 
 ## 热门话题
 
