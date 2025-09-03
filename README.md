@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-09-03 15:11:45 +0800`
+`更新时间：2025-09-03 16:15:31 +0800`
 
 ## 热门搜索
 
@@ -36,6 +36,7 @@
 1. [车企 8 月销量数据出炉](https://www.zhihu.com/search?q=%E8%BD%A6%E4%BC%81%208%20%E6%9C%88%E9%94%80%E9%87%8F%E6%95%B0%E6%8D%AE%E5%87%BA%E7%82%89)
 1. [国铁集团上半年盈利降超10%](https://www.zhihu.com/search?q=%E5%9B%BD%E9%93%81%E9%9B%86%E5%9B%A2%E4%B8%8A%E5%8D%8A%E5%B9%B4%E7%9B%88%E5%88%A9%E9%99%8D%E8%B6%8510%25)
 1. [如何看待年轻人结婚开始一切从简](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%BB%93%E5%A9%9A%E5%BC%80%E5%A7%8B%E4%B8%80%E5%88%87%E4%BB%8E%E7%AE%80)
+1. [中国游客在瑞典捡食蘑菇集体中毒](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%9C%A8%E7%91%9E%E5%85%B8%E6%8D%A1%E9%A3%9F%E8%98%91%E8%8F%87%E9%9B%86%E4%BD%93%E4%B8%AD%E6%AF%92)
 
 ## 热门话题
 
