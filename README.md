@@ -11,16 +11,16 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-09-04 15:22:39 +0800`
+`更新时间：2025-09-04 16:31:33 +0800`
 
 ## 热门搜索
 
-1. [如何评价第三款六代机新图](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E7%AC%AC%E4%B8%89%E6%AC%BE%E5%85%AD%E4%BB%A3%E6%9C%BA%E6%96%B0%E5%9B%BE)
+1. [为什么有些人的预判能力这么强](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E4%BA%9B%E4%BA%BA%E7%9A%84%E9%A2%84%E5%88%A4%E8%83%BD%E5%8A%9B%E8%BF%99%E4%B9%88%E5%BC%BA)
+1. [为什么裁员裁的都是干活的](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A3%81%E5%91%98%E8%A3%81%E7%9A%84%E9%83%BD%E6%98%AF%E5%B9%B2%E6%B4%BB%E7%9A%84)
 1. [你有什么解压的小众爱好](https://www.zhihu.com/search?q=%E4%BD%A0%E6%9C%89%E4%BB%80%E4%B9%88%E8%A7%A3%E5%8E%8B%E7%9A%84%E5%B0%8F%E4%BC%97%E7%88%B1%E5%A5%BD)
 1. [天赋到底是什么东西](https://www.zhihu.com/search?q=%E5%A4%A9%E8%B5%8B%E5%88%B0%E5%BA%95%E6%98%AF%E4%BB%80%E4%B9%88%E4%B8%9C%E8%A5%BF)
 1. [孩子为什么越大越不愿意跟我们说话](https://www.zhihu.com/search?q=%E5%AD%A9%E5%AD%90%E4%B8%BA%E4%BB%80%E4%B9%88%E8%B6%8A%E5%A4%A7%E8%B6%8A%E4%B8%8D%E6%84%BF%E6%84%8F%E8%B7%9F%E6%88%91%E4%BB%AC%E8%AF%B4%E8%AF%9D)
 1. [为什么很多人不懂股票还在炒股](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BE%88%E5%A4%9A%E4%BA%BA%E4%B8%8D%E6%87%82%E8%82%A1%E7%A5%A8%E8%BF%98%E5%9C%A8%E7%82%92%E8%82%A1)
-1. [如何评价电视剧《新三国》](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E7%94%B5%E8%A7%86%E5%89%A7%E3%80%8A%E6%96%B0%E4%B8%89%E5%9B%BD%E3%80%8B)
 1. [你能容忍小朋友跪在地上玩吗](https://www.zhihu.com/search?q=%E4%BD%A0%E8%83%BD%E5%AE%B9%E5%BF%8D%E5%B0%8F%E6%9C%8B%E5%8F%8B%E8%B7%AA%E5%9C%A8%E5%9C%B0%E4%B8%8A%E7%8E%A9%E5%90%97)
 1. [你从什么时候变得成熟并真正删掉了游戏](https://www.zhihu.com/search?q=%E4%BD%A0%E4%BB%8E%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E5%8F%98%E5%BE%97%E6%88%90%E7%86%9F%E5%B9%B6%E7%9C%9F%E6%AD%A3%E5%88%A0%E6%8E%89%E4%BA%86%E6%B8%B8%E6%88%8F)
 1. [写西幻该如何避免写成中式西幻](https://www.zhihu.com/search?q=%E5%86%99%E8%A5%BF%E5%B9%BB%E8%AF%A5%E5%A6%82%E4%BD%95%E9%81%BF%E5%85%8D%E5%86%99%E6%88%90%E4%B8%AD%E5%BC%8F%E8%A5%BF%E5%B9%BB)
@@ -30,6 +30,7 @@
 1. [德国的工业已经退到什么地步了](https://www.zhihu.com/search?q=%E5%BE%B7%E5%9B%BD%E7%9A%84%E5%B7%A5%E4%B8%9A%E5%B7%B2%E7%BB%8F%E9%80%80%E5%88%B0%E4%BB%80%E4%B9%88%E5%9C%B0%E6%AD%A5%E4%BA%86)
 1. [如何评价电影《南京照相馆》](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E7%94%B5%E5%BD%B1%E3%80%8A%E5%8D%97%E4%BA%AC%E7%85%A7%E7%9B%B8%E9%A6%86%E3%80%8B)
 1. [社保新规9月1日实施](https://www.zhihu.com/search?q=%E7%A4%BE%E4%BF%9D%E6%96%B0%E8%A7%849%E6%9C%881%E6%97%A5%E5%AE%9E%E6%96%BD)
+1. [九三阅兵](https://www.zhihu.com/search?q=%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5)
 1. [有谁能告诉我这个社会的底层逻辑吗](https://www.zhihu.com/search?q=%E6%9C%89%E8%B0%81%E8%83%BD%E5%91%8A%E8%AF%89%E6%88%91%E8%BF%99%E4%B8%AA%E7%A4%BE%E4%BC%9A%E7%9A%84%E5%BA%95%E5%B1%82%E9%80%BB%E8%BE%91%E5%90%97)
 1. [如何评价电视剧《生万物》](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E7%94%B5%E8%A7%86%E5%89%A7%E3%80%8A%E7%94%9F%E4%B8%87%E7%89%A9%E3%80%8B)
 1. [深圳欢乐谷被指有擦边表演](https://www.zhihu.com/search?q=%E6%B7%B1%E5%9C%B3%E6%AC%A2%E4%B9%90%E8%B0%B7%E8%A2%AB%E6%8C%87%E6%9C%89%E6%93%A6%E8%BE%B9%E8%A1%A8%E6%BC%94)
@@ -37,7 +38,6 @@
 1. [南京大学一青年教师东思嘉离世](https://www.zhihu.com/search?q=%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E4%B8%80%E9%9D%92%E5%B9%B4%E6%95%99%E5%B8%88%E4%B8%9C%E6%80%9D%E5%98%89%E7%A6%BB%E4%B8%96)
 1. [羽毛球世锦赛](https://www.zhihu.com/search?q=%E7%BE%BD%E6%AF%9B%E7%90%83%E4%B8%96%E9%94%A6%E8%B5%9B)
 1. [陈雨菲vs山口茜](https://www.zhihu.com/search?q=%E9%99%88%E9%9B%A8%E8%8F%B2vs%E5%B1%B1%E5%8F%A3%E8%8C%9C)
-1. [石宇奇vs昆拉武特](https://www.zhihu.com/search?q=%E7%9F%B3%E5%AE%87%E5%A5%87vs%E6%98%86%E6%8B%89%E6%AD%A6%E7%89%B9)
 
 ## 热门话题
 
