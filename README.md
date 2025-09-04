@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-09-04 10:59:28 +0800`
+`更新时间：2025-09-04 11:34:50 +0800`
 
 ## 热门搜索
 
-1. [东风5C液体洲际战略核导弹亮相](https://www.zhihu.com/search?q=%E4%B8%9C%E9%A3%8E5C%E6%B6%B2%E4%BD%93%E6%B4%B2%E9%99%85%E6%88%98%E7%95%A5%E6%A0%B8%E5%AF%BC%E5%BC%B9%E4%BA%AE%E7%9B%B8)
-1. [全运会王楚钦夺冠概率大吗](https://www.zhihu.com/search?q=%E5%85%A8%E8%BF%90%E4%BC%9A%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%A4%BA%E5%86%A0%E6%A6%82%E7%8E%87%E5%A4%A7%E5%90%97)
+1. [你的低成本爱好是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9A%84%E4%BD%8E%E6%88%90%E6%9C%AC%E7%88%B1%E5%A5%BD%E6%98%AF%E4%BB%80%E4%B9%88)
+1. [猫不听话了可以打吗](https://www.zhihu.com/search?q=%E7%8C%AB%E4%B8%8D%E5%90%AC%E8%AF%9D%E4%BA%86%E5%8F%AF%E4%BB%A5%E6%89%93%E5%90%97)
 1. [你有什么解压的小众爱好](https://www.zhihu.com/search?q=%E4%BD%A0%E6%9C%89%E4%BB%80%E4%B9%88%E8%A7%A3%E5%8E%8B%E7%9A%84%E5%B0%8F%E4%BC%97%E7%88%B1%E5%A5%BD)
 1. [天赋到底是什么东西](https://www.zhihu.com/search?q=%E5%A4%A9%E8%B5%8B%E5%88%B0%E5%BA%95%E6%98%AF%E4%BB%80%E4%B9%88%E4%B8%9C%E8%A5%BF)
 1. [孩子为什么越大越不愿意跟我们说话](https://www.zhihu.com/search?q=%E5%AD%A9%E5%AD%90%E4%B8%BA%E4%BB%80%E4%B9%88%E8%B6%8A%E5%A4%A7%E8%B6%8A%E4%B8%8D%E6%84%BF%E6%84%8F%E8%B7%9F%E6%88%91%E4%BB%AC%E8%AF%B4%E8%AF%9D)
@@ -32,12 +32,12 @@
 1. [如何评价电影《南京照相馆》](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E7%94%B5%E5%BD%B1%E3%80%8A%E5%8D%97%E4%BA%AC%E7%85%A7%E7%9B%B8%E9%A6%86%E3%80%8B)
 1. [大疆发布首款全景相机 Osmo 360](https://www.zhihu.com/search?q=%E5%A4%A7%E7%96%86%E5%8F%91%E5%B8%83%E9%A6%96%E6%AC%BE%E5%85%A8%E6%99%AF%E7%9B%B8%E6%9C%BA%20Osmo%20360)
 1. [社保新规9月1日实施](https://www.zhihu.com/search?q=%E7%A4%BE%E4%BF%9D%E6%96%B0%E8%A7%849%E6%9C%881%E6%97%A5%E5%AE%9E%E6%96%BD)
+1. [九三阅兵](https://www.zhihu.com/search?q=%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5)
 1. [有谁能告诉我这个社会的底层逻辑吗](https://www.zhihu.com/search?q=%E6%9C%89%E8%B0%81%E8%83%BD%E5%91%8A%E8%AF%89%E6%88%91%E8%BF%99%E4%B8%AA%E7%A4%BE%E4%BC%9A%E7%9A%84%E5%BA%95%E5%B1%82%E9%80%BB%E8%BE%91%E5%90%97)
 1. [如何评价电视剧《生万物》](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E7%94%B5%E8%A7%86%E5%89%A7%E3%80%8A%E7%94%9F%E4%B8%87%E7%89%A9%E3%80%8B)
 1. [深圳欢乐谷被指有擦边表演](https://www.zhihu.com/search?q=%E6%B7%B1%E5%9C%B3%E6%AC%A2%E4%B9%90%E8%B0%B7%E8%A2%AB%E6%8C%87%E6%9C%89%E6%93%A6%E8%BE%B9%E8%A1%A8%E6%BC%94)
 1. [为什么中国在很多领域都要求自主研发](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%AD%E5%9B%BD%E5%9C%A8%E5%BE%88%E5%A4%9A%E9%A2%86%E5%9F%9F%E9%83%BD%E8%A6%81%E6%B1%82%E8%87%AA%E4%B8%BB%E7%A0%94%E5%8F%91)
 1. [南京大学一青年教师东思嘉离世](https://www.zhihu.com/search?q=%E5%8D%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E4%B8%80%E9%9D%92%E5%B9%B4%E6%95%99%E5%B8%88%E4%B8%9C%E6%80%9D%E5%98%89%E7%A6%BB%E4%B8%96)
-1. [男子在七彩丹霞翻越护栏对地表造成破坏](https://www.zhihu.com/search?q=%E7%94%B7%E5%AD%90%E5%9C%A8%E4%B8%83%E5%BD%A9%E4%B8%B9%E9%9C%9E%E7%BF%BB%E8%B6%8A%E6%8A%A4%E6%A0%8F%E5%AF%B9%E5%9C%B0%E8%A1%A8%E9%80%A0%E6%88%90%E7%A0%B4%E5%9D%8F)
 
 ## 热门话题
 
