@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-09-05 18:12:15 +0800`
+`更新时间：2025-09-05 19:09:26 +0800`
 
 ## 热门搜索
 
@@ -19,27 +19,24 @@
 1. [为什么有些人的预判能力这么强](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E4%BA%9B%E4%BA%BA%E7%9A%84%E9%A2%84%E5%88%A4%E8%83%BD%E5%8A%9B%E8%BF%99%E4%B9%88%E5%BC%BA)
 1. [为什么裁员裁的都是干活的](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A3%81%E5%91%98%E8%A3%81%E7%9A%84%E9%83%BD%E6%98%AF%E5%B9%B2%E6%B4%BB%E7%9A%84)
 1. [steam 崩了](https://www.zhihu.com/search?q=steam%20%E5%B4%A9%E4%BA%86)
-1. [孩子哪个瞬间让你突然觉得好幸福](https://www.zhihu.com/search?q=%E5%AD%A9%E5%AD%90%E5%93%AA%E4%B8%AA%E7%9E%AC%E9%97%B4%E8%AE%A9%E4%BD%A0%E7%AA%81%E7%84%B6%E8%A7%89%E5%BE%97%E5%A5%BD%E5%B9%B8%E7%A6%8F)
 1. [你有什么解压的小众爱好](https://www.zhihu.com/search?q=%E4%BD%A0%E6%9C%89%E4%BB%80%E4%B9%88%E8%A7%A3%E5%8E%8B%E7%9A%84%E5%B0%8F%E4%BC%97%E7%88%B1%E5%A5%BD)
-1. [石宇奇夺冠](https://www.zhihu.com/search?q=%E7%9F%B3%E5%AE%87%E5%A5%87%E5%A4%BA%E5%86%A0)
 1. [天赋到底是什么东西](https://www.zhihu.com/search?q=%E5%A4%A9%E8%B5%8B%E5%88%B0%E5%BA%95%E6%98%AF%E4%BB%80%E4%B9%88%E4%B8%9C%E8%A5%BF)
-1. [孩子为什么越大越不愿意跟我们说话](https://www.zhihu.com/search?q=%E5%AD%A9%E5%AD%90%E4%B8%BA%E4%BB%80%E4%B9%88%E8%B6%8A%E5%A4%A7%E8%B6%8A%E4%B8%8D%E6%84%BF%E6%84%8F%E8%B7%9F%E6%88%91%E4%BB%AC%E8%AF%B4%E8%AF%9D)
-1. [为什么很多人不懂股票还在炒股](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BE%88%E5%A4%9A%E4%BA%BA%E4%B8%8D%E6%87%82%E8%82%A1%E7%A5%A8%E8%BF%98%E5%9C%A8%E7%82%92%E8%82%A1)
 1. [面相长的凶是什么体验](https://www.zhihu.com/search?q=%E9%9D%A2%E7%9B%B8%E9%95%BF%E7%9A%84%E5%87%B6%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C)
-1. [你能容忍小朋友跪在地上玩吗](https://www.zhihu.com/search?q=%E4%BD%A0%E8%83%BD%E5%AE%B9%E5%BF%8D%E5%B0%8F%E6%9C%8B%E5%8F%8B%E8%B7%AA%E5%9C%A8%E5%9C%B0%E4%B8%8A%E7%8E%A9%E5%90%97)
 1. [写西幻该如何避免写成中式西幻](https://www.zhihu.com/search?q=%E5%86%99%E8%A5%BF%E5%B9%BB%E8%AF%A5%E5%A6%82%E4%BD%95%E9%81%BF%E5%85%8D%E5%86%99%E6%88%90%E4%B8%AD%E5%BC%8F%E8%A5%BF%E5%B9%BB)
-1. [中国稀土供应链到底强成什么样了](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E7%A8%80%E5%9C%9F%E4%BE%9B%E5%BA%94%E9%93%BE%E5%88%B0%E5%BA%95%E5%BC%BA%E6%88%90%E4%BB%80%E4%B9%88%E6%A0%B7%E4%BA%86)
 1. [胖东来为什么只能在河南搞成](https://www.zhihu.com/search?q=%E8%83%96%E4%B8%9C%E6%9D%A5%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%AA%E8%83%BD%E5%9C%A8%E6%B2%B3%E5%8D%97%E6%90%9E%E6%88%90)
-1. [什么样的家庭才能养出松弛感的孩子](https://www.zhihu.com/search?q=%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E5%AE%B6%E5%BA%AD%E6%89%8D%E8%83%BD%E5%85%BB%E5%87%BA%E6%9D%BE%E5%BC%9B%E6%84%9F%E7%9A%84%E5%AD%A9%E5%AD%90)
 1. [C919还能成批生产吗](https://www.zhihu.com/search?q=C919%E8%BF%98%E8%83%BD%E6%88%90%E6%89%B9%E7%94%9F%E4%BA%A7%E5%90%97)
-1. [为什么欧美国家不炒菜而只有中国炒](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%AC%A7%E7%BE%8E%E5%9B%BD%E5%AE%B6%E4%B8%8D%E7%82%92%E8%8F%9C%E8%80%8C%E5%8F%AA%E6%9C%89%E4%B8%AD%E5%9B%BD%E7%82%92)
 1. [鸿蒙新版本好不好用](https://www.zhihu.com/search?q=%E9%B8%BF%E8%92%99%E6%96%B0%E7%89%88%E6%9C%AC%E5%A5%BD%E4%B8%8D%E5%A5%BD%E7%94%A8)
 1. [德国的工业已经退到什么地步了](https://www.zhihu.com/search?q=%E5%BE%B7%E5%9B%BD%E7%9A%84%E5%B7%A5%E4%B8%9A%E5%B7%B2%E7%BB%8F%E9%80%80%E5%88%B0%E4%BB%80%E4%B9%88%E5%9C%B0%E6%AD%A5%E4%BA%86)
 1. [如何评价电影《南京照相馆》](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E7%94%B5%E5%BD%B1%E3%80%8A%E5%8D%97%E4%BA%AC%E7%85%A7%E7%9B%B8%E9%A6%86%E3%80%8B)
-1. [你给孩子最大的托底是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E7%BB%99%E5%AD%A9%E5%AD%90%E6%9C%80%E5%A4%A7%E7%9A%84%E6%89%98%E5%BA%95%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [特斯拉在欧洲销量暴跌](https://www.zhihu.com/search?q=%E7%89%B9%E6%96%AF%E6%8B%89%E5%9C%A8%E6%AC%A7%E6%B4%B2%E9%94%80%E9%87%8F%E6%9A%B4%E8%B7%8C)
-1. [社保新规9月1日实施](https://www.zhihu.com/search?q=%E7%A4%BE%E4%BF%9D%E6%96%B0%E8%A7%849%E6%9C%881%E6%97%A5%E5%AE%9E%E6%96%BD)
 1. [日本人口降幅创纪录](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E4%BA%BA%E5%8F%A3%E9%99%8D%E5%B9%85%E5%88%9B%E7%BA%AA%E5%BD%95)
+1. [九三阅兵](https://www.zhihu.com/search?q=%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5)
+1. [如何评价电视剧《生万物》](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E7%94%B5%E8%A7%86%E5%89%A7%E3%80%8A%E7%94%9F%E4%B8%87%E7%89%A9%E3%80%8B)
+1. [深圳欢乐谷被指有擦边表演](https://www.zhihu.com/search?q=%E6%B7%B1%E5%9C%B3%E6%AC%A2%E4%B9%90%E8%B0%B7%E8%A2%AB%E6%8C%87%E6%9C%89%E6%93%A6%E8%BE%B9%E8%A1%A8%E6%BC%94)
+1. [中国游客在瑞典捡食蘑菇集体中毒](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%9C%A8%E7%91%9E%E5%85%B8%E6%8D%A1%E9%A3%9F%E8%98%91%E8%8F%87%E9%9B%86%E4%BD%93%E4%B8%AD%E6%AF%92)
+1. [儿童指纹水杯热销](https://www.zhihu.com/search?q=%E5%84%BF%E7%AB%A5%E6%8C%87%E7%BA%B9%E6%B0%B4%E6%9D%AF%E7%83%AD%E9%94%80)
+1. [为什么很多大公司重视第一学历](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BE%88%E5%A4%9A%E5%A4%A7%E5%85%AC%E5%8F%B8%E9%87%8D%E8%A7%86%E7%AC%AC%E4%B8%80%E5%AD%A6%E5%8E%86)
+1. [男子买5元树脂补牙致口腔变「年糕」](https://www.zhihu.com/search?q=%E7%94%B7%E5%AD%90%E4%B9%B05%E5%85%83%E6%A0%91%E8%84%82%E8%A1%A5%E7%89%99%E8%87%B4%E5%8F%A3%E8%85%94%E5%8F%98%E3%80%8C%E5%B9%B4%E7%B3%95%E3%80%8D)
 
 ## 热门话题
 
