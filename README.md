@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-09-05 14:35:44 +0800`
+`更新时间：2025-09-05 15:23:04 +0800`
 
 ## 热门搜索
 
-1. [13至14的马刺究竟有多恐怖](https://www.zhihu.com/search?q=13%E8%87%B314%E7%9A%84%E9%A9%AC%E5%88%BA%E7%A9%B6%E7%AB%9F%E6%9C%89%E5%A4%9A%E6%81%90%E6%80%96)
-1. [为什么高铁F座最受欢迎](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E9%AB%98%E9%93%81F%E5%BA%A7%E6%9C%80%E5%8F%97%E6%AC%A2%E8%BF%8E)
+1. [30岁没钱和没对象哪个更可怕](https://www.zhihu.com/search?q=30%E5%B2%81%E6%B2%A1%E9%92%B1%E5%92%8C%E6%B2%A1%E5%AF%B9%E8%B1%A1%E5%93%AA%E4%B8%AA%E6%9B%B4%E5%8F%AF%E6%80%95)
+1. [刘老庒连旗帜上的庒字多了一点](https://www.zhihu.com/search?q=%E5%88%98%E8%80%81%E5%BA%92%E8%BF%9E%E6%97%97%E5%B8%9C%E4%B8%8A%E7%9A%84%E5%BA%92%E5%AD%97%E5%A4%9A%E4%BA%86%E4%B8%80%E7%82%B9)
 1. [为什么裁员裁的都是干活的](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A3%81%E5%91%98%E8%A3%81%E7%9A%84%E9%83%BD%E6%98%AF%E5%B9%B2%E6%B4%BB%E7%9A%84)
 1. [steam 崩了](https://www.zhihu.com/search?q=steam%20%E5%B4%A9%E4%BA%86)
 1. [孩子哪个瞬间让你突然觉得好幸福](https://www.zhihu.com/search?q=%E5%AD%A9%E5%AD%90%E5%93%AA%E4%B8%AA%E7%9E%AC%E9%97%B4%E8%AE%A9%E4%BD%A0%E7%AA%81%E7%84%B6%E8%A7%89%E5%BE%97%E5%A5%BD%E5%B9%B8%E7%A6%8F)
