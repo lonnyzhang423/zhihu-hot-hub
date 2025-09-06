@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-09-06 07:10:34 +0800`
+`更新时间：2025-09-06 08:52:50 +0800`
 
 ## 热门搜索
 
-1. [你能接受孩子健康快乐且平庸吗](https://www.zhihu.com/search?q=%E4%BD%A0%E8%83%BD%E6%8E%A5%E5%8F%97%E5%AD%A9%E5%AD%90%E5%81%A5%E5%BA%B7%E5%BF%AB%E4%B9%90%E4%B8%94%E5%B9%B3%E5%BA%B8%E5%90%97)
+1. [哈利与赫敏对待罗恩是否过于宽容了](https://www.zhihu.com/search?q=%E5%93%88%E5%88%A9%E4%B8%8E%E8%B5%AB%E6%95%8F%E5%AF%B9%E5%BE%85%E7%BD%97%E6%81%A9%E6%98%AF%E5%90%A6%E8%BF%87%E4%BA%8E%E5%AE%BD%E5%AE%B9%E4%BA%86)
+1. [2025 数学建模国赛](https://www.zhihu.com/search?q=2025%20%E6%95%B0%E5%AD%A6%E5%BB%BA%E6%A8%A1%E5%9B%BD%E8%B5%9B)
 1. [为什么有些人的预判能力这么强](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E4%BA%9B%E4%BA%BA%E7%9A%84%E9%A2%84%E5%88%A4%E8%83%BD%E5%8A%9B%E8%BF%99%E4%B9%88%E5%BC%BA)
 1. [为什么裁员裁的都是干活的](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A3%81%E5%91%98%E8%A3%81%E7%9A%84%E9%83%BD%E6%98%AF%E5%B9%B2%E6%B4%BB%E7%9A%84)
 1. [steam 崩了](https://www.zhihu.com/search?q=steam%20%E5%B4%A9%E4%BA%86)
