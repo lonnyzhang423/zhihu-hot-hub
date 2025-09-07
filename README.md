@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-09-07 08:58:51 +0800`
+`更新时间：2025-09-07 10:25:53 +0800`
 
 ## 热门搜索
 
@@ -29,13 +29,13 @@
 1. [如何评价电影《南京照相馆》](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E7%94%B5%E5%BD%B1%E3%80%8A%E5%8D%97%E4%BA%AC%E7%85%A7%E7%9B%B8%E9%A6%86%E3%80%8B)
 1. [特斯拉在欧洲销量暴跌](https://www.zhihu.com/search?q=%E7%89%B9%E6%96%AF%E6%8B%89%E5%9C%A8%E6%AC%A7%E6%B4%B2%E9%94%80%E9%87%8F%E6%9A%B4%E8%B7%8C)
 1. [日本人口降幅创纪录](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E4%BA%BA%E5%8F%A3%E9%99%8D%E5%B9%85%E5%88%9B%E7%BA%AA%E5%BD%95)
-1. [九三阅兵](https://www.zhihu.com/search?q=%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5)
 1. [如何评价电视剧《生万物》](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E7%94%B5%E8%A7%86%E5%89%A7%E3%80%8A%E7%94%9F%E4%B8%87%E7%89%A9%E3%80%8B)
 1. [深圳欢乐谷被指有擦边表演](https://www.zhihu.com/search?q=%E6%B7%B1%E5%9C%B3%E6%AC%A2%E4%B9%90%E8%B0%B7%E8%A2%AB%E6%8C%87%E6%9C%89%E6%93%A6%E8%BE%B9%E8%A1%A8%E6%BC%94)
 1. [中国游客在瑞典捡食蘑菇集体中毒](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%9C%A8%E7%91%9E%E5%85%B8%E6%8D%A1%E9%A3%9F%E8%98%91%E8%8F%87%E9%9B%86%E4%BD%93%E4%B8%AD%E6%AF%92)
 1. [儿童指纹水杯热销](https://www.zhihu.com/search?q=%E5%84%BF%E7%AB%A5%E6%8C%87%E7%BA%B9%E6%B0%B4%E6%9D%AF%E7%83%AD%E9%94%80)
 1. [为什么很多大公司重视第一学历](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BE%88%E5%A4%9A%E5%A4%A7%E5%85%AC%E5%8F%B8%E9%87%8D%E8%A7%86%E7%AC%AC%E4%B8%80%E5%AD%A6%E5%8E%86)
 1. [阅兵装备方队亮相](https://www.zhihu.com/search?q=%E9%98%85%E5%85%B5%E8%A3%85%E5%A4%87%E6%96%B9%E9%98%9F%E4%BA%AE%E7%9B%B8)
+1. [歼-35A 首次亮相阅兵](https://www.zhihu.com/search?q=%E6%AD%BC-35A%20%E9%A6%96%E6%AC%A1%E4%BA%AE%E7%9B%B8%E9%98%85%E5%85%B5)
 
 ## 热门话题
 
