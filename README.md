@@ -11,11 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-09-08 19:10:22 +0800`
+`更新时间：2025-09-08 20:24:12 +0800`
 
 ## 热门搜索
 
-1. [最近一次开怀大笑是因为什么](https://www.zhihu.com/search?q=%E6%9C%80%E8%BF%91%E4%B8%80%E6%AC%A1%E5%BC%80%E6%80%80%E5%A4%A7%E7%AC%91%E6%98%AF%E5%9B%A0%E4%B8%BA%E4%BB%80%E4%B9%88)
+1. [你能接受孩子健康快乐且平庸吗](https://www.zhihu.com/search?q=%E4%BD%A0%E8%83%BD%E6%8E%A5%E5%8F%97%E5%AD%A9%E5%AD%90%E5%81%A5%E5%BA%B7%E5%BF%AB%E4%B9%90%E4%B8%94%E5%B9%B3%E5%BA%B8%E5%90%97)
 1. [为什么有些人的预判能力这么强](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E4%BA%9B%E4%BA%BA%E7%9A%84%E9%A2%84%E5%88%A4%E8%83%BD%E5%8A%9B%E8%BF%99%E4%B9%88%E5%BC%BA)
 1. [中国有多少城市能撑起来七日游](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E6%9C%89%E5%A4%9A%E5%B0%91%E5%9F%8E%E5%B8%82%E8%83%BD%E6%92%91%E8%B5%B7%E6%9D%A5%E4%B8%83%E6%97%A5%E6%B8%B8)
 1. [为什么裁员裁的都是干活的](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A3%81%E5%91%98%E8%A3%81%E7%9A%84%E9%83%BD%E6%98%AF%E5%B9%B2%E6%B4%BB%E7%9A%84)
