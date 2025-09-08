@@ -11,19 +11,19 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-09-08 20:53:06 +0800`
+`更新时间：2025-09-08 21:34:45 +0800`
 
 ## 热门搜索
 
-1. [你能接受孩子健康快乐且平庸吗](https://www.zhihu.com/search?q=%E4%BD%A0%E8%83%BD%E6%8E%A5%E5%8F%97%E5%AD%A9%E5%AD%90%E5%81%A5%E5%BA%B7%E5%BF%AB%E4%B9%90%E4%B8%94%E5%B9%B3%E5%BA%B8%E5%90%97)
-1. [为什么有些人的预判能力这么强](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E4%BA%9B%E4%BA%BA%E7%9A%84%E9%A2%84%E5%88%A4%E8%83%BD%E5%8A%9B%E8%BF%99%E4%B9%88%E5%BC%BA)
+1. [阿尔卡拉斯夺美网男单冠军](https://www.zhihu.com/search?q=%E9%98%BF%E5%B0%94%E5%8D%A1%E6%8B%89%E6%96%AF%E5%A4%BA%E7%BE%8E%E7%BD%91%E7%94%B7%E5%8D%95%E5%86%A0%E5%86%9B)
+1. [为什么高铁F座最受欢迎](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E9%AB%98%E9%93%81F%E5%BA%A7%E6%9C%80%E5%8F%97%E6%AC%A2%E8%BF%8E)
 1. [中国有多少城市能撑起来七日游](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E6%9C%89%E5%A4%9A%E5%B0%91%E5%9F%8E%E5%B8%82%E8%83%BD%E6%92%91%E8%B5%B7%E6%9D%A5%E4%B8%83%E6%97%A5%E6%B8%B8)
 1. [为什么裁员裁的都是干活的](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A3%81%E5%91%98%E8%A3%81%E7%9A%84%E9%83%BD%E6%98%AF%E5%B9%B2%E6%B4%BB%E7%9A%84)
 1. [买了小米SU7的人现在怎么样了](https://www.zhihu.com/search?q=%E4%B9%B0%E4%BA%86%E5%B0%8F%E7%B1%B3SU7%E7%9A%84%E4%BA%BA%E7%8E%B0%E5%9C%A8%E6%80%8E%E4%B9%88%E6%A0%B7%E4%BA%86)
 1. [孩子为什么越大越不愿意跟我们说话](https://www.zhihu.com/search?q=%E5%AD%A9%E5%AD%90%E4%B8%BA%E4%BB%80%E4%B9%88%E8%B6%8A%E5%A4%A7%E8%B6%8A%E4%B8%8D%E6%84%BF%E6%84%8F%E8%B7%9F%E6%88%91%E4%BB%AC%E8%AF%B4%E8%AF%9D)
 1. [面相长的凶是什么体验](https://www.zhihu.com/search?q=%E9%9D%A2%E7%9B%B8%E9%95%BF%E7%9A%84%E5%87%B6%E6%98%AF%E4%BB%80%E4%B9%88%E4%BD%93%E9%AA%8C)
 1. [一个人可以蠢到什么程度](https://www.zhihu.com/search?q=%E4%B8%80%E4%B8%AA%E4%BA%BA%E5%8F%AF%E4%BB%A5%E8%A0%A2%E5%88%B0%E4%BB%80%E4%B9%88%E7%A8%8B%E5%BA%A6)
-1. [写西幻该如何避免写成中式西幻](https://www.zhihu.com/search?q=%E5%86%99%E8%A5%BF%E5%B9%BB%E8%AF%A5%E5%A6%82%E4%BD%95%E9%81%BF%E5%85%8D%E5%86%99%E6%88%90%E4%B8%AD%E5%BC%8F%E8%A5%BF%E5%B9%BB)
+1. [你能接受孩子健康快乐且平庸吗](https://www.zhihu.com/search?q=%E4%BD%A0%E8%83%BD%E6%8E%A5%E5%8F%97%E5%AD%A9%E5%AD%90%E5%81%A5%E5%BA%B7%E5%BF%AB%E4%B9%90%E4%B8%94%E5%B9%B3%E5%BA%B8%E5%90%97)
 1. [胖东来为什么只能在河南搞成](https://www.zhihu.com/search?q=%E8%83%96%E4%B8%9C%E6%9D%A5%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%AA%E8%83%BD%E5%9C%A8%E6%B2%B3%E5%8D%97%E6%90%9E%E6%88%90)
 1. [德国的工业已经退到什么地步了](https://www.zhihu.com/search?q=%E5%BE%B7%E5%9B%BD%E7%9A%84%E5%B7%A5%E4%B8%9A%E5%B7%B2%E7%BB%8F%E9%80%80%E5%88%B0%E4%BB%80%E4%B9%88%E5%9C%B0%E6%AD%A5%E4%BA%86)
 1. [九三阅兵](https://www.zhihu.com/search?q=%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5)
