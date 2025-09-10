@@ -11,11 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-09-10 11:34:03 +0800`
+`更新时间：2025-09-10 12:27:37 +0800`
 
 ## 热门搜索
 
-1. [你能接受孩子健康快乐且平庸吗](https://www.zhihu.com/search?q=%E4%BD%A0%E8%83%BD%E6%8E%A5%E5%8F%97%E5%AD%A9%E5%AD%90%E5%81%A5%E5%BA%B7%E5%BF%AB%E4%B9%90%E4%B8%94%E5%B9%B3%E5%BA%B8%E5%90%97)
+1. [教师节](https://www.zhihu.com/search?q=%E6%95%99%E5%B8%88%E8%8A%82)
 1. [为什么有些人的预判能力这么强](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E4%BA%9B%E4%BA%BA%E7%9A%84%E9%A2%84%E5%88%A4%E8%83%BD%E5%8A%9B%E8%BF%99%E4%B9%88%E5%BC%BA)
 1. [中国有多少城市能撑起来七日游](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E6%9C%89%E5%A4%9A%E5%B0%91%E5%9F%8E%E5%B8%82%E8%83%BD%E6%92%91%E8%B5%B7%E6%9D%A5%E4%B8%83%E6%97%A5%E6%B8%B8)
 1. [如何评价颜宁的科研能力](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E9%A2%9C%E5%AE%81%E7%9A%84%E7%A7%91%E7%A0%94%E8%83%BD%E5%8A%9B)
