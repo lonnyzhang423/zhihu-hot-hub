@@ -11,10 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-09-11 13:23:30 +0800`
+`更新时间：2025-09-11 14:36:10 +0800`
 
 ## 热门搜索
 
+1. [教师节祝福语](https://www.zhihu.com/search?q=%E6%95%99%E5%B8%88%E8%8A%82%E7%A5%9D%E7%A6%8F%E8%AF%AD)
+1. [教师节](https://www.zhihu.com/search?q=%E6%95%99%E5%B8%88%E8%8A%82)
 1. [为什么有些人的预判能力这么强](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E4%BA%9B%E4%BA%BA%E7%9A%84%E9%A2%84%E5%88%A4%E8%83%BD%E5%8A%9B%E8%BF%99%E4%B9%88%E5%BC%BA)
 1. [中国有多少城市能撑起来七日游](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E6%9C%89%E5%A4%9A%E5%B0%91%E5%9F%8E%E5%B8%82%E8%83%BD%E6%92%91%E8%B5%B7%E6%9D%A5%E4%B8%83%E6%97%A5%E6%B8%B8)
 1. [郑州暴雨](https://www.zhihu.com/search?q=%E9%83%91%E5%B7%9E%E6%9A%B4%E9%9B%A8)
