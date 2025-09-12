@@ -11,15 +11,13 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-09-12 17:11:59 +0800`
+`更新时间：2025-09-12 18:12:32 +0800`
 
 ## 热门搜索
 
-1. [河南暴雨](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8D%97%E6%9A%B4%E9%9B%A8)
-1. [为什么要实行薪酬保密](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%AE%9E%E8%A1%8C%E8%96%AA%E9%85%AC%E4%BF%9D%E5%AF%86)
-1. [老师怎么看出来作文是抄的](https://www.zhihu.com/search?q=%E8%80%81%E5%B8%88%E6%80%8E%E4%B9%88%E7%9C%8B%E5%87%BA%E6%9D%A5%E4%BD%9C%E6%96%87%E6%98%AF%E6%8A%84%E7%9A%84)
+1. [你会买 iPhone17 吗](https://www.zhihu.com/search?q=%E4%BD%A0%E4%BC%9A%E4%B9%B0%20iPhone17%20%E5%90%97)
+1. [五年前买特斯拉的现在还好吗](https://www.zhihu.com/search?q=%E4%BA%94%E5%B9%B4%E5%89%8D%E4%B9%B0%E7%89%B9%E6%96%AF%E6%8B%89%E7%9A%84%E7%8E%B0%E5%9C%A8%E8%BF%98%E5%A5%BD%E5%90%97)
 1. [你的学校发生过最扯的事是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9A%84%E5%AD%A6%E6%A0%A1%E5%8F%91%E7%94%9F%E8%BF%87%E6%9C%80%E6%89%AF%E7%9A%84%E4%BA%8B%E6%98%AF%E4%BB%80%E4%B9%88)
-1. [郑州暴雨](https://www.zhihu.com/search?q=%E9%83%91%E5%B7%9E%E6%9A%B4%E9%9B%A8)
 1. [你听过最野的野史有多野](https://www.zhihu.com/search?q=%E4%BD%A0%E5%90%AC%E8%BF%87%E6%9C%80%E9%87%8E%E7%9A%84%E9%87%8E%E5%8F%B2%E6%9C%89%E5%A4%9A%E9%87%8E)
 1. [你见过哪些不动声色的善良](https://www.zhihu.com/search?q=%E4%BD%A0%E8%A7%81%E8%BF%87%E5%93%AA%E4%BA%9B%E4%B8%8D%E5%8A%A8%E5%A3%B0%E8%89%B2%E7%9A%84%E5%96%84%E8%89%AF)
 1. [孩子为什么越大越不愿意跟我们说话](https://www.zhihu.com/search?q=%E5%AD%A9%E5%AD%90%E4%B8%BA%E4%BB%80%E4%B9%88%E8%B6%8A%E5%A4%A7%E8%B6%8A%E4%B8%8D%E6%84%BF%E6%84%8F%E8%B7%9F%E6%88%91%E4%BB%AC%E8%AF%B4%E8%AF%9D)
@@ -37,8 +35,11 @@
 1. [武松血溅鸳鸯楼是否过度报复](https://www.zhihu.com/search?q=%E6%AD%A6%E6%9D%BE%E8%A1%80%E6%BA%85%E9%B8%B3%E9%B8%AF%E6%A5%BC%E6%98%AF%E5%90%A6%E8%BF%87%E5%BA%A6%E6%8A%A5%E5%A4%8D)
 1. [我国正规划对一颗小行星实施高速撞击](https://www.zhihu.com/search?q=%E6%88%91%E5%9B%BD%E6%AD%A3%E8%A7%84%E5%88%92%E5%AF%B9%E4%B8%80%E9%A2%97%E5%B0%8F%E8%A1%8C%E6%98%9F%E5%AE%9E%E6%96%BD%E9%AB%98%E9%80%9F%E6%92%9E%E5%87%BB)
 1. [九三阅兵新乐曲《无人智胜进行曲》公布](https://www.zhihu.com/search?q=%E4%B9%9D%E4%B8%89%E9%98%85%E5%85%B5%E6%96%B0%E4%B9%90%E6%9B%B2%E3%80%8A%E6%97%A0%E4%BA%BA%E6%99%BA%E8%83%9C%E8%BF%9B%E8%A1%8C%E6%9B%B2%E3%80%8B%E5%85%AC%E5%B8%83)
-1. [大学生活费给多少合适](https://www.zhihu.com/search?q=%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%B4%BB%E8%B4%B9%E7%BB%99%E5%A4%9A%E5%B0%91%E5%90%88%E9%80%82)
+1. [湖南师大](https://www.zhihu.com/search?q=%E6%B9%96%E5%8D%97%E5%B8%88%E5%A4%A7)
 1. [网曝小米王腾因泄密被辞退](https://www.zhihu.com/search?q=%E7%BD%91%E6%9B%9D%E5%B0%8F%E7%B1%B3%E7%8E%8B%E8%85%BE%E5%9B%A0%E6%B3%84%E5%AF%86%E8%A2%AB%E8%BE%9E%E9%80%80)
+1. [小米王腾因泄密被辞退](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3%E7%8E%8B%E8%85%BE%E5%9B%A0%E6%B3%84%E5%AF%86%E8%A2%AB%E8%BE%9E%E9%80%80)
+1. [王腾回应被小米辞退](https://www.zhihu.com/search?q=%E7%8E%8B%E8%85%BE%E5%9B%9E%E5%BA%94%E8%A2%AB%E5%B0%8F%E7%B1%B3%E8%BE%9E%E9%80%80)
+1. [第十二批在韩志愿军烈士遗骸将回国](https://www.zhihu.com/search?q=%E7%AC%AC%E5%8D%81%E4%BA%8C%E6%89%B9%E5%9C%A8%E9%9F%A9%E5%BF%97%E6%84%BF%E5%86%9B%E7%83%88%E5%A3%AB%E9%81%97%E9%AA%B8%E5%B0%86%E5%9B%9E%E5%9B%BD)
 
 ## 热门话题
 
