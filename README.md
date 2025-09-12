@@ -11,12 +11,10 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-09-12 07:21:34 +0800`
+`更新时间：2025-09-12 09:49:18 +0800`
 
 ## 热门搜索
 
-1. [河南暴雨](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8D%97%E6%9A%B4%E9%9B%A8)
-1. [为什么要实行薪酬保密](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%AE%9E%E8%A1%8C%E8%96%AA%E9%85%AC%E4%BF%9D%E5%AF%86)
 1. [老师怎么看出来作文是抄的](https://www.zhihu.com/search?q=%E8%80%81%E5%B8%88%E6%80%8E%E4%B9%88%E7%9C%8B%E5%87%BA%E6%9D%A5%E4%BD%9C%E6%96%87%E6%98%AF%E6%8A%84%E7%9A%84)
 1. [为什么有些人的预判能力这么强](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E4%BA%9B%E4%BA%BA%E7%9A%84%E9%A2%84%E5%88%A4%E8%83%BD%E5%8A%9B%E8%BF%99%E4%B9%88%E5%BC%BA)
 1. [你的学校发生过最扯的事是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9A%84%E5%AD%A6%E6%A0%A1%E5%8F%91%E7%94%9F%E8%BF%87%E6%9C%80%E6%89%AF%E7%9A%84%E4%BA%8B%E6%98%AF%E4%BB%80%E4%B9%88)
