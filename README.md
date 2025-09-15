@@ -11,12 +11,13 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-09-15 15:12:35 +0800`
+`更新时间：2025-09-15 16:16:28 +0800`
 
 ## 热门搜索
 
-1. [泡泡玛特全线产品二手市场跌价](https://www.zhihu.com/search?q=%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%E5%85%A8%E7%BA%BF%E4%BA%A7%E5%93%81%E4%BA%8C%E6%89%8B%E5%B8%82%E5%9C%BA%E8%B7%8C%E4%BB%B7)
-1. [网红「柴怼怼」等人被立案调查](https://www.zhihu.com/search?q=%E7%BD%91%E7%BA%A2%E3%80%8C%E6%9F%B4%E6%80%BC%E6%80%BC%E3%80%8D%E7%AD%89%E4%BA%BA%E8%A2%AB%E7%AB%8B%E6%A1%88%E8%B0%83%E6%9F%A5)
+1. [为什么有些人的预判能力这么强](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E4%BA%9B%E4%BA%BA%E7%9A%84%E9%A2%84%E5%88%A4%E8%83%BD%E5%8A%9B%E8%BF%99%E4%B9%88%E5%BC%BA)
+1. [艾美奖获奖名单](https://www.zhihu.com/search?q=%E8%89%BE%E7%BE%8E%E5%A5%96%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95)
+1. [什么是顶级的思维](https://www.zhihu.com/search?q=%E4%BB%80%E4%B9%88%E6%98%AF%E9%A1%B6%E7%BA%A7%E7%9A%84%E6%80%9D%E7%BB%B4)
 1. [中国有多少城市能撑起来七日游](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E6%9C%89%E5%A4%9A%E5%B0%91%E5%9F%8E%E5%B8%82%E8%83%BD%E6%92%91%E8%B5%B7%E6%9D%A5%E4%B8%83%E6%97%A5%E6%B8%B8)
 1. [买了小米SU7的人现在怎么样了](https://www.zhihu.com/search?q=%E4%B9%B0%E4%BA%86%E5%B0%8F%E7%B1%B3SU7%E7%9A%84%E4%BA%BA%E7%8E%B0%E5%9C%A8%E6%80%8E%E4%B9%88%E6%A0%B7%E4%BA%86)
 1. [孙颖莎VS王曼昱](https://www.zhihu.com/search?q=%E5%AD%99%E9%A2%96%E8%8E%8EVS%E7%8E%8B%E6%9B%BC%E6%98%B1)
@@ -27,7 +28,6 @@
 1. [C919还能成批生产吗](https://www.zhihu.com/search?q=C919%E8%BF%98%E8%83%BD%E6%88%90%E6%89%B9%E7%94%9F%E4%BA%A7%E5%90%97)
 1. [你是如何理解「当时只道是寻常」的](https://www.zhihu.com/search?q=%E4%BD%A0%E6%98%AF%E5%A6%82%E4%BD%95%E7%90%86%E8%A7%A3%E3%80%8C%E5%BD%93%E6%97%B6%E5%8F%AA%E9%81%93%E6%98%AF%E5%AF%BB%E5%B8%B8%E3%80%8D%E7%9A%84)
 1. [鸿蒙新版本好不好用](https://www.zhihu.com/search?q=%E9%B8%BF%E8%92%99%E6%96%B0%E7%89%88%E6%9C%AC%E5%A5%BD%E4%B8%8D%E5%A5%BD%E7%94%A8)
-1. [住房租赁条例2025年9月15日起施行](https://www.zhihu.com/search?q=%E4%BD%8F%E6%88%BF%E7%A7%9F%E8%B5%81%E6%9D%A1%E4%BE%8B2025%E5%B9%B49%E6%9C%8815%E6%97%A5%E8%B5%B7%E6%96%BD%E8%A1%8C)
 1. [如何评价电视剧《生万物》](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E7%94%B5%E8%A7%86%E5%89%A7%E3%80%8A%E7%94%9F%E4%B8%87%E7%89%A9%E3%80%8B)
 1. [什么是知识的诅咒](https://www.zhihu.com/search?q=%E4%BB%80%E4%B9%88%E6%98%AF%E7%9F%A5%E8%AF%86%E7%9A%84%E8%AF%85%E5%92%92)
 1. [为什么很多大公司重视第一学历](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BE%88%E5%A4%9A%E5%A4%A7%E5%85%AC%E5%8F%B8%E9%87%8D%E8%A7%86%E7%AC%AC%E4%B8%80%E5%AD%A6%E5%8E%86)
