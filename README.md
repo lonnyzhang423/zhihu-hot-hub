@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-09-15 14:19:04 +0800`
+`更新时间：2025-09-15 15:12:35 +0800`
 
 ## 热门搜索
 
-1. [为什么有些人的预判能力这么强](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E4%BA%9B%E4%BA%BA%E7%9A%84%E9%A2%84%E5%88%A4%E8%83%BD%E5%8A%9B%E8%BF%99%E4%B9%88%E5%BC%BA)
+1. [泡泡玛特全线产品二手市场跌价](https://www.zhihu.com/search?q=%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%E5%85%A8%E7%BA%BF%E4%BA%A7%E5%93%81%E4%BA%8C%E6%89%8B%E5%B8%82%E5%9C%BA%E8%B7%8C%E4%BB%B7)
+1. [网红「柴怼怼」等人被立案调查](https://www.zhihu.com/search?q=%E7%BD%91%E7%BA%A2%E3%80%8C%E6%9F%B4%E6%80%BC%E6%80%BC%E3%80%8D%E7%AD%89%E4%BA%BA%E8%A2%AB%E7%AB%8B%E6%A1%88%E8%B0%83%E6%9F%A5)
 1. [中国有多少城市能撑起来七日游](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E6%9C%89%E5%A4%9A%E5%B0%91%E5%9F%8E%E5%B8%82%E8%83%BD%E6%92%91%E8%B5%B7%E6%9D%A5%E4%B8%83%E6%97%A5%E6%B8%B8)
 1. [买了小米SU7的人现在怎么样了](https://www.zhihu.com/search?q=%E4%B9%B0%E4%BA%86%E5%B0%8F%E7%B1%B3SU7%E7%9A%84%E4%BA%BA%E7%8E%B0%E5%9C%A8%E6%80%8E%E4%B9%88%E6%A0%B7%E4%BA%86)
 1. [孙颖莎VS王曼昱](https://www.zhihu.com/search?q=%E5%AD%99%E9%A2%96%E8%8E%8EVS%E7%8E%8B%E6%9B%BC%E6%98%B1)
@@ -37,7 +38,6 @@
 1. [韩国为什么要将首都名字改为首尔](https://www.zhihu.com/search?q=%E9%9F%A9%E5%9B%BD%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%B0%86%E9%A6%96%E9%83%BD%E5%90%8D%E5%AD%97%E6%94%B9%E4%B8%BA%E9%A6%96%E5%B0%94)
 1. [如何评价电视剧《新三国》](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E7%94%B5%E8%A7%86%E5%89%A7%E3%80%8A%E6%96%B0%E4%B8%89%E5%9B%BD%E3%80%8B)
 1. [美国情报系统现在属于什么水平](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E6%83%85%E6%8A%A5%E7%B3%BB%E7%BB%9F%E7%8E%B0%E5%9C%A8%E5%B1%9E%E4%BA%8E%E4%BB%80%E4%B9%88%E6%B0%B4%E5%B9%B3)
-1. [你如何看待主理人这个词](https://www.zhihu.com/search?q=%E4%BD%A0%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E4%B8%BB%E7%90%86%E4%BA%BA%E8%BF%99%E4%B8%AA%E8%AF%8D)
 
 ## 热门话题
 
