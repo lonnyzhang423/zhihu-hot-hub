@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-09-16 17:13:20 +0800`
+`更新时间：2025-09-16 18:12:21 +0800`
 
 ## 热门搜索
 
@@ -29,7 +29,6 @@
 1. [中美双方将在西班牙会谈](https://www.zhihu.com/search?q=%E4%B8%AD%E7%BE%8E%E5%8F%8C%E6%96%B9%E5%B0%86%E5%9C%A8%E8%A5%BF%E7%8F%AD%E7%89%99%E4%BC%9A%E8%B0%88)
 1. [实探西贝后厨：西兰花保质期2年](https://www.zhihu.com/search?q=%E5%AE%9E%E6%8E%A2%E8%A5%BF%E8%B4%9D%E5%90%8E%E5%8E%A8%EF%BC%9A%E8%A5%BF%E5%85%B0%E8%8A%B1%E4%BF%9D%E8%B4%A8%E6%9C%9F2%E5%B9%B4)
 1. [29岁男星蒋智豪确诊癌症晚期](https://www.zhihu.com/search?q=29%E5%B2%81%E7%94%B7%E6%98%9F%E8%92%8B%E6%99%BA%E8%B1%AA%E7%A1%AE%E8%AF%8A%E7%99%8C%E7%97%87%E6%99%9A%E6%9C%9F)
-1. [2025法考](https://www.zhihu.com/search?q=2025%E6%B3%95%E8%80%83)
 1. [女子半夜发现马桶内有一条蛇](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E5%8D%8A%E5%A4%9C%E5%8F%91%E7%8E%B0%E9%A9%AC%E6%A1%B6%E5%86%85%E6%9C%89%E4%B8%80%E6%9D%A1%E8%9B%87)
 1. [宿迁2比1常州锁定胜局](https://www.zhihu.com/search?q=%E5%AE%BF%E8%BF%812%E6%AF%941%E5%B8%B8%E5%B7%9E%E9%94%81%E5%AE%9A%E8%83%9C%E5%B1%80)
 1. [多地中学发布「发型令」](https://www.zhihu.com/search?q=%E5%A4%9A%E5%9C%B0%E4%B8%AD%E5%AD%A6%E5%8F%91%E5%B8%83%E3%80%8C%E5%8F%91%E5%9E%8B%E4%BB%A4%E3%80%8D)
@@ -39,6 +38,7 @@
 1. [贾国龙称西贝利润约5％](https://www.zhihu.com/search?q=%E8%B4%BE%E5%9B%BD%E9%BE%99%E7%A7%B0%E8%A5%BF%E8%B4%9D%E5%88%A9%E6%B6%A6%E7%BA%A65%EF%BC%85)
 1. [雷军自曝已对黑公关账号发起诉讼](https://www.zhihu.com/search?q=%E9%9B%B7%E5%86%9B%E8%87%AA%E6%9B%9D%E5%B7%B2%E5%AF%B9%E9%BB%91%E5%85%AC%E5%85%B3%E8%B4%A6%E5%8F%B7%E5%8F%91%E8%B5%B7%E8%AF%89%E8%AE%BC)
 1. [王兴兴将有新身份](https://www.zhihu.com/search?q=%E7%8E%8B%E5%85%B4%E5%85%B4%E5%B0%86%E6%9C%89%E6%96%B0%E8%BA%AB%E4%BB%BD)
+1. [梁王组合晋级决赛](https://www.zhihu.com/search?q=%E6%A2%81%E7%8E%8B%E7%BB%84%E5%90%88%E6%99%8B%E7%BA%A7%E5%86%B3%E8%B5%9B)
 
 ## 热门话题
 
