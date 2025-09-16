@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-09-16 16:33:22 +0800`
+`更新时间：2025-09-16 17:26:56 +0800`
 
 ## 热门搜索
 
@@ -27,7 +27,6 @@
 1. [西贝公开13道菜制作过程又删除](https://www.zhihu.com/search?q=%E8%A5%BF%E8%B4%9D%E5%85%AC%E5%BC%8013%E9%81%93%E8%8F%9C%E5%88%B6%E4%BD%9C%E8%BF%87%E7%A8%8B%E5%8F%88%E5%88%A0%E9%99%A4)
 1. [知名配音演员黄河去世](https://www.zhihu.com/search?q=%E7%9F%A5%E5%90%8D%E9%85%8D%E9%9F%B3%E6%BC%94%E5%91%98%E9%BB%84%E6%B2%B3%E5%8E%BB%E4%B8%96)
 1. [中美双方将在西班牙会谈](https://www.zhihu.com/search?q=%E4%B8%AD%E7%BE%8E%E5%8F%8C%E6%96%B9%E5%B0%86%E5%9C%A8%E8%A5%BF%E7%8F%AD%E7%89%99%E4%BC%9A%E8%B0%88)
-1. [2025 年我国电影总票房破 400 亿](https://www.zhihu.com/search?q=2025%20%E5%B9%B4%E6%88%91%E5%9B%BD%E7%94%B5%E5%BD%B1%E6%80%BB%E7%A5%A8%E6%88%BF%E7%A0%B4%20400%20%E4%BA%BF)
 1. [实探西贝后厨：西兰花保质期2年](https://www.zhihu.com/search?q=%E5%AE%9E%E6%8E%A2%E8%A5%BF%E8%B4%9D%E5%90%8E%E5%8E%A8%EF%BC%9A%E8%A5%BF%E5%85%B0%E8%8A%B1%E4%BF%9D%E8%B4%A8%E6%9C%9F2%E5%B9%B4)
 1. [29岁男星蒋智豪确诊癌症晚期](https://www.zhihu.com/search?q=29%E5%B2%81%E7%94%B7%E6%98%9F%E8%92%8B%E6%99%BA%E8%B1%AA%E7%A1%AE%E8%AF%8A%E7%99%8C%E7%97%87%E6%99%9A%E6%9C%9F)
 1. [2025法考](https://www.zhihu.com/search?q=2025%E6%B3%95%E8%80%83)
@@ -39,6 +38,7 @@
 1. [仰望U8L上市](https://www.zhihu.com/search?q=%E4%BB%B0%E6%9C%9BU8L%E4%B8%8A%E5%B8%82)
 1. [贾国龙称西贝利润约5％](https://www.zhihu.com/search?q=%E8%B4%BE%E5%9B%BD%E9%BE%99%E7%A7%B0%E8%A5%BF%E8%B4%9D%E5%88%A9%E6%B6%A6%E7%BA%A65%EF%BC%85)
 1. [雷军自曝已对黑公关账号发起诉讼](https://www.zhihu.com/search?q=%E9%9B%B7%E5%86%9B%E8%87%AA%E6%9B%9D%E5%B7%B2%E5%AF%B9%E9%BB%91%E5%85%AC%E5%85%B3%E8%B4%A6%E5%8F%B7%E5%8F%91%E8%B5%B7%E8%AF%89%E8%AE%BC)
+1. [王兴兴将有新身份](https://www.zhihu.com/search?q=%E7%8E%8B%E5%85%B4%E5%85%B4%E5%B0%86%E6%9C%89%E6%96%B0%E8%BA%AB%E4%BB%BD)
 
 ## 热门话题
 
