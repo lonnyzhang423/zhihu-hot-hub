@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-09-17 15:22:47 +0800`
+`更新时间：2025-09-17 16:31:52 +0800`
 
 ## 热门搜索
 
-1. [为什么有些人的预判能力这么强](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E4%BA%9B%E4%BA%BA%E7%9A%84%E9%A2%84%E5%88%A4%E8%83%BD%E5%8A%9B%E8%BF%99%E4%B9%88%E5%BC%BA)
-1. [美股三大指数集体收跌](https://www.zhihu.com/search?q=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E6%94%B6%E8%B7%8C)
+1. [中国究竟需要几艘航母](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E7%A9%B6%E7%AB%9F%E9%9C%80%E8%A6%81%E5%87%A0%E8%89%98%E8%88%AA%E6%AF%8D)
+1. [有什么你从未见过的稀有照片](https://www.zhihu.com/search?q=%E6%9C%89%E4%BB%80%E4%B9%88%E4%BD%A0%E4%BB%8E%E6%9C%AA%E8%A7%81%E8%BF%87%E7%9A%84%E7%A8%80%E6%9C%89%E7%85%A7%E7%89%87)
 1. [什么是顶级的思维](https://www.zhihu.com/search?q=%E4%BB%80%E4%B9%88%E6%98%AF%E9%A1%B6%E7%BA%A7%E7%9A%84%E6%80%9D%E7%BB%B4)
 1. [中国有多少城市能撑起来七日游](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E6%9C%89%E5%A4%9A%E5%B0%91%E5%9F%8E%E5%B8%82%E8%83%BD%E6%92%91%E8%B5%B7%E6%9D%A5%E4%B8%83%E6%97%A5%E6%B8%B8)
 1. [一个演员的演技能好到什么程度](https://www.zhihu.com/search?q=%E4%B8%80%E4%B8%AA%E6%BC%94%E5%91%98%E7%9A%84%E6%BC%94%E6%8A%80%E8%83%BD%E5%A5%BD%E5%88%B0%E4%BB%80%E4%B9%88%E7%A8%8B%E5%BA%A6)
