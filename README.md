@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-09-18 14:17:34 +0800`
+`更新时间：2025-09-18 15:11:42 +0800`
 
 ## 热门搜索
 
@@ -42,7 +42,6 @@
 1. [韩国为什么要将首都名字改为首尔](https://www.zhihu.com/search?q=%E9%9F%A9%E5%9B%BD%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%B0%86%E9%A6%96%E9%83%BD%E5%90%8D%E5%AD%97%E6%94%B9%E4%B8%BA%E9%A6%96%E5%B0%94)
 1. [如何评价电视剧《新三国》](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E7%94%B5%E8%A7%86%E5%89%A7%E3%80%8A%E6%96%B0%E4%B8%89%E5%9B%BD%E3%80%8B)
 1. [用DeepSeek选股炒股可行吗](https://www.zhihu.com/search?q=%E7%94%A8DeepSeek%E9%80%89%E8%82%A1%E7%82%92%E8%82%A1%E5%8F%AF%E8%A1%8C%E5%90%97)
-1. [美国情报系统现在属于什么水平](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E6%83%85%E6%8A%A5%E7%B3%BB%E7%BB%9F%E7%8E%B0%E5%9C%A8%E5%B1%9E%E4%BA%8E%E4%BB%80%E4%B9%88%E6%B0%B4%E5%B9%B3)
 
 ## 热门话题
 
