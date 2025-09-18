@@ -11,14 +11,13 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-09-18 08:53:06 +0800`
+`更新时间：2025-09-18 10:16:06 +0800`
 
 ## 热门搜索
 
 1. [四六级报名](https://www.zhihu.com/search?q=%E5%9B%9B%E5%85%AD%E7%BA%A7%E6%8A%A5%E5%90%8D)
 1. [美联储](https://www.zhihu.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8)
 1. [为什么有些人的预判能力这么强](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E4%BA%9B%E4%BA%BA%E7%9A%84%E9%A2%84%E5%88%A4%E8%83%BD%E5%8A%9B%E8%BF%99%E4%B9%88%E5%BC%BA)
-1. [美股三大指数集体收跌](https://www.zhihu.com/search?q=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E6%94%B6%E8%B7%8C)
 1. [什么是顶级的思维](https://www.zhihu.com/search?q=%E4%BB%80%E4%B9%88%E6%98%AF%E9%A1%B6%E7%BA%A7%E7%9A%84%E6%80%9D%E7%BB%B4)
 1. [中国有多少城市能撑起来七日游](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E6%9C%89%E5%A4%9A%E5%B0%91%E5%9F%8E%E5%B8%82%E8%83%BD%E6%92%91%E8%B5%B7%E6%9D%A5%E4%B8%83%E6%97%A5%E6%B8%B8)
 1. [美联储宣布降息 25 个基点](https://www.zhihu.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8%E5%AE%A3%E5%B8%83%E9%99%8D%E6%81%AF%2025%20%E4%B8%AA%E5%9F%BA%E7%82%B9)
@@ -43,6 +42,7 @@
 1. [韩国为什么要将首都名字改为首尔](https://www.zhihu.com/search?q=%E9%9F%A9%E5%9B%BD%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E5%B0%86%E9%A6%96%E9%83%BD%E5%90%8D%E5%AD%97%E6%94%B9%E4%B8%BA%E9%A6%96%E5%B0%94)
 1. [如何评价电视剧《新三国》](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E7%94%B5%E8%A7%86%E5%89%A7%E3%80%8A%E6%96%B0%E4%B8%89%E5%9B%BD%E3%80%8B)
 1. [用DeepSeek选股炒股可行吗](https://www.zhihu.com/search?q=%E7%94%A8DeepSeek%E9%80%89%E8%82%A1%E7%82%92%E8%82%A1%E5%8F%AF%E8%A1%8C%E5%90%97)
+1. [美国情报系统现在属于什么水平](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E6%83%85%E6%8A%A5%E7%B3%BB%E7%BB%9F%E7%8E%B0%E5%9C%A8%E5%B1%9E%E4%BA%8E%E4%BB%80%E4%B9%88%E6%B0%B4%E5%B9%B3)
 
 ## 热门话题
 
