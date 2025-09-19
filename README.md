@@ -11,11 +11,10 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-09-19 12:14:11 +0800`
+`更新时间：2025-09-19 13:11:37 +0800`
 
 ## 热门搜索
 
-1. [特斯拉正在重新设计门把手](https://www.zhihu.com/search?q=%E7%89%B9%E6%96%AF%E6%8B%89%E6%AD%A3%E5%9C%A8%E9%87%8D%E6%96%B0%E8%AE%BE%E8%AE%A1%E9%97%A8%E6%8A%8A%E6%89%8B)
 1. [美联储](https://www.zhihu.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8)
 1. [为什么有些人的预判能力这么强](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E4%BA%9B%E4%BA%BA%E7%9A%84%E9%A2%84%E5%88%A4%E8%83%BD%E5%8A%9B%E8%BF%99%E4%B9%88%E5%BC%BA)
 1. [美联储宣布降息 25 个基点](https://www.zhihu.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8%E5%AE%A3%E5%B8%83%E9%99%8D%E6%81%AF%2025%20%E4%B8%AA%E5%9F%BA%E7%82%B9)
