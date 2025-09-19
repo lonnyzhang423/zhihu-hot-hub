@@ -11,14 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-09-20 00:13:42 +0800`
+`更新时间：2025-09-20 01:10:17 +0800`
 
 ## 热门搜索
 
-1. [美联储](https://www.zhihu.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8)
 1. [为什么有些人的预判能力这么强](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E4%BA%9B%E4%BA%BA%E7%9A%84%E9%A2%84%E5%88%A4%E8%83%BD%E5%8A%9B%E8%BF%99%E4%B9%88%E5%BC%BA)
 1. [steam 崩了](https://www.zhihu.com/search?q=steam%20%E5%B4%A9%E4%BA%86)
-1. [美联储宣布降息 25 个基点](https://www.zhihu.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8%E5%AE%A3%E5%B8%83%E9%99%8D%E6%81%AF%2025%20%E4%B8%AA%E5%9F%BA%E7%82%B9)
 1. [一个演员的演技能好到什么程度](https://www.zhihu.com/search?q=%E4%B8%80%E4%B8%AA%E6%BC%94%E5%91%98%E7%9A%84%E6%BC%94%E6%8A%80%E8%83%BD%E5%A5%BD%E5%88%B0%E4%BB%80%E4%B9%88%E7%A8%8B%E5%BA%A6)
 1. [对「岁月是把杀猪刀」有什么好的诠释](https://www.zhihu.com/search?q=%E5%AF%B9%E3%80%8C%E5%B2%81%E6%9C%88%E6%98%AF%E6%8A%8A%E6%9D%80%E7%8C%AA%E5%88%80%E3%80%8D%E6%9C%89%E4%BB%80%E4%B9%88%E5%A5%BD%E7%9A%84%E8%AF%A0%E9%87%8A)
 1. [买了小米SU7的人现在怎么样了](https://www.zhihu.com/search?q=%E4%B9%B0%E4%BA%86%E5%B0%8F%E7%B1%B3SU7%E7%9A%84%E4%BA%BA%E7%8E%B0%E5%9C%A8%E6%80%8E%E4%B9%88%E6%A0%B7%E4%BA%86)
@@ -41,6 +39,8 @@
 1. [「丝瓜汤」是什么梗？](https://www.zhihu.com/search?q=%E3%80%8C%E4%B8%9D%E7%93%9C%E6%B1%A4%E3%80%8D%E6%98%AF%E4%BB%80%E4%B9%88%E6%A2%97%EF%BC%9F)
 1. [钓鱼佬最接受不了什么](https://www.zhihu.com/search?q=%E9%92%93%E9%B1%BC%E4%BD%AC%E6%9C%80%E6%8E%A5%E5%8F%97%E4%B8%8D%E4%BA%86%E4%BB%80%E4%B9%88)
 1. [丝之歌](https://www.zhihu.com/search?q=%E4%B8%9D%E4%B9%8B%E6%AD%8C)
+1. [丝之歌发售 游戏平台崩了](https://www.zhihu.com/search?q=%E4%B8%9D%E4%B9%8B%E6%AD%8C%E5%8F%91%E5%94%AE%20%E6%B8%B8%E6%88%8F%E5%B9%B3%E5%8F%B0%E5%B4%A9%E4%BA%86)
+1. [电影《731》发布最新预告](https://www.zhihu.com/search?q=%E7%94%B5%E5%BD%B1%E3%80%8A731%E3%80%8B%E5%8F%91%E5%B8%83%E6%9C%80%E6%96%B0%E9%A2%84%E5%91%8A)
 
 ## 热门话题
 
