@@ -11,11 +11,10 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-09-19 13:22:52 +0800`
+`更新时间：2025-09-19 14:35:43 +0800`
 
 ## 热门搜索
 
-1. [女子踩「化骨水」身亡事件涉案者被抓](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E8%B8%A9%E3%80%8C%E5%8C%96%E9%AA%A8%E6%B0%B4%E3%80%8D%E8%BA%AB%E4%BA%A1%E4%BA%8B%E4%BB%B6%E6%B6%89%E6%A1%88%E8%80%85%E8%A2%AB%E6%8A%93)
 1. [美联储](https://www.zhihu.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8)
 1. [为什么有些人的预判能力这么强](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E4%BA%9B%E4%BA%BA%E7%9A%84%E9%A2%84%E5%88%A4%E8%83%BD%E5%8A%9B%E8%BF%99%E4%B9%88%E5%BC%BA)
 1. [美联储宣布降息 25 个基点](https://www.zhihu.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8%E5%AE%A3%E5%B8%83%E9%99%8D%E6%81%AF%2025%20%E4%B8%AA%E5%9F%BA%E7%82%B9)
