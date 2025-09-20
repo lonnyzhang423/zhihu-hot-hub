@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-09-20 09:48:23 +0800`
+`更新时间：2025-09-20 10:58:02 +0800`
 
 ## 热门搜索
 
@@ -26,8 +26,6 @@
 1. [黄金到底能涨到什么地步](https://www.zhihu.com/search?q=%E9%BB%84%E9%87%91%E5%88%B0%E5%BA%95%E8%83%BD%E6%B6%A8%E5%88%B0%E4%BB%80%E4%B9%88%E5%9C%B0%E6%AD%A5)
 1. [胖东来为什么只能在河南搞成](https://www.zhihu.com/search?q=%E8%83%96%E4%B8%9C%E6%9D%A5%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%AA%E8%83%BD%E5%9C%A8%E6%B2%B3%E5%8D%97%E6%90%9E%E6%88%90)
 1. [为什么非洲一直没发展起来](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9D%9E%E6%B4%B2%E4%B8%80%E7%9B%B4%E6%B2%A1%E5%8F%91%E5%B1%95%E8%B5%B7%E6%9D%A5)
-1. [科学界驳斥「外星飞船」11月袭击地球](https://www.zhihu.com/search?q=%E7%A7%91%E5%AD%A6%E7%95%8C%E9%A9%B3%E6%96%A5%E3%80%8C%E5%A4%96%E6%98%9F%E9%A3%9E%E8%88%B9%E3%80%8D11%E6%9C%88%E8%A2%AD%E5%87%BB%E5%9C%B0%E7%90%83)
-1. [鲍威尔称美联储对降息持开放态度](https://www.zhihu.com/search?q=%E9%B2%8D%E5%A8%81%E5%B0%94%E7%A7%B0%E7%BE%8E%E8%81%94%E5%82%A8%E5%AF%B9%E9%99%8D%E6%81%AF%E6%8C%81%E5%BC%80%E6%94%BE%E6%80%81%E5%BA%A6)
 1. [什么是知识的诅咒](https://www.zhihu.com/search?q=%E4%BB%80%E4%B9%88%E6%98%AF%E7%9F%A5%E8%AF%86%E7%9A%84%E8%AF%85%E5%92%92)
 1. [为什么很多大公司重视第一学历](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BE%88%E5%A4%9A%E5%A4%A7%E5%85%AC%E5%8F%B8%E9%87%8D%E8%A7%86%E7%AC%AC%E4%B8%80%E5%AD%A6%E5%8E%86)
 1. [家务平权为什么这么难](https://www.zhihu.com/search?q=%E5%AE%B6%E5%8A%A1%E5%B9%B3%E6%9D%83%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%99%E4%B9%88%E9%9A%BE)
@@ -41,6 +39,7 @@
 1. [丝之歌](https://www.zhihu.com/search?q=%E4%B8%9D%E4%B9%8B%E6%AD%8C)
 1. [丝之歌发售 游戏平台崩了](https://www.zhihu.com/search?q=%E4%B8%9D%E4%B9%8B%E6%AD%8C%E5%8F%91%E5%94%AE%20%E6%B8%B8%E6%88%8F%E5%B9%B3%E5%8F%B0%E5%B4%A9%E4%BA%86)
 1. [电影《731》发布最新预告](https://www.zhihu.com/search?q=%E7%94%B5%E5%BD%B1%E3%80%8A731%E3%80%8B%E5%8F%91%E5%B8%83%E6%9C%80%E6%96%B0%E9%A2%84%E5%91%8A)
+1. [如何评价歼10CE战斗机](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E6%AD%BC10CE%E6%88%98%E6%96%97%E6%9C%BA)
 
 ## 热门话题
 
