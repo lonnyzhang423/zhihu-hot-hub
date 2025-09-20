@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-09-20 16:29:02 +0800`
+`更新时间：2025-09-20 17:22:13 +0800`
 
 ## 热门搜索
 
@@ -34,7 +34,6 @@
 1. [用DeepSeek选股炒股可行吗](https://www.zhihu.com/search?q=%E7%94%A8DeepSeek%E9%80%89%E8%82%A1%E7%82%92%E8%82%A1%E5%8F%AF%E8%A1%8C%E5%90%97)
 1. [降水线真的北移了么](https://www.zhihu.com/search?q=%E9%99%8D%E6%B0%B4%E7%BA%BF%E7%9C%9F%E7%9A%84%E5%8C%97%E7%A7%BB%E4%BA%86%E4%B9%88)
 1. [最近一次开怀大笑是因为什么](https://www.zhihu.com/search?q=%E6%9C%80%E8%BF%91%E4%B8%80%E6%AC%A1%E5%BC%80%E6%80%80%E5%A4%A7%E7%AC%91%E6%98%AF%E5%9B%A0%E4%B8%BA%E4%BB%80%E4%B9%88)
-1. [「丝瓜汤」是什么梗？](https://www.zhihu.com/search?q=%E3%80%8C%E4%B8%9D%E7%93%9C%E6%B1%A4%E3%80%8D%E6%98%AF%E4%BB%80%E4%B9%88%E6%A2%97%EF%BC%9F)
 1. [钓鱼佬最接受不了什么](https://www.zhihu.com/search?q=%E9%92%93%E9%B1%BC%E4%BD%AC%E6%9C%80%E6%8E%A5%E5%8F%97%E4%B8%8D%E4%BA%86%E4%BB%80%E4%B9%88)
 1. [丝之歌](https://www.zhihu.com/search?q=%E4%B8%9D%E4%B9%8B%E6%AD%8C)
 1. [丝之歌发售 游戏平台崩了](https://www.zhihu.com/search?q=%E4%B8%9D%E4%B9%8B%E6%AD%8C%E5%8F%91%E5%94%AE%20%E6%B8%B8%E6%88%8F%E5%B9%B3%E5%8F%B0%E5%B4%A9%E4%BA%86)
