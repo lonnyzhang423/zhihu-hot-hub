@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-09-22 21:33:34 +0800`
+`更新时间：2025-09-22 22:25:54 +0800`
 
 ## 热门搜索
 
-1. [中企在非洲遭800亿美元天价索赔](https://www.zhihu.com/search?q=%E4%B8%AD%E4%BC%81%E5%9C%A8%E9%9D%9E%E6%B4%B2%E9%81%AD800%E4%BA%BF%E7%BE%8E%E5%85%83%E5%A4%A9%E4%BB%B7%E7%B4%A2%E8%B5%94)
-1. [猫科动物的眼睛为什么能在夜间反光](https://www.zhihu.com/search?q=%E7%8C%AB%E7%A7%91%E5%8A%A8%E7%89%A9%E7%9A%84%E7%9C%BC%E7%9D%9B%E4%B8%BA%E4%BB%80%E4%B9%88%E8%83%BD%E5%9C%A8%E5%A4%9C%E9%97%B4%E5%8F%8D%E5%85%89)
+1. [为什么有些人的预判能力这么强](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E4%BA%9B%E4%BA%BA%E7%9A%84%E9%A2%84%E5%88%A4%E8%83%BD%E5%8A%9B%E8%BF%99%E4%B9%88%E5%BC%BA)
+1. [曼联2比1切尔西](https://www.zhihu.com/search?q=%E6%9B%BC%E8%81%942%E6%AF%941%E5%88%87%E5%B0%94%E8%A5%BF)
 1. [gen对战t1](https://www.zhihu.com/search?q=gen%E5%AF%B9%E6%88%98t1)
 1. [BLG夺冠](https://www.zhihu.com/search?q=BLG%E5%A4%BA%E5%86%A0)
 1. [刘邦凭什么这么听萧何的话](https://www.zhihu.com/search?q=%E5%88%98%E9%82%A6%E5%87%AD%E4%BB%80%E4%B9%88%E8%BF%99%E4%B9%88%E5%90%AC%E8%90%A7%E4%BD%95%E7%9A%84%E8%AF%9D)
