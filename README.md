@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-09-24 13:23:46 +0800`
+`更新时间：2025-09-24 14:36:27 +0800`
 
 ## 热门搜索
 
-1. [10月1号将出现的六批人](https://www.zhihu.com/search?q=10%E6%9C%881%E5%8F%B7%E5%B0%86%E5%87%BA%E7%8E%B0%E7%9A%84%E5%85%AD%E6%89%B9%E4%BA%BA)
-1. [gpt-5-codex 性能如何](https://www.zhihu.com/search?q=gpt-5-codex%20%E6%80%A7%E8%83%BD%E5%A6%82%E4%BD%95)
+1. [A股](https://www.zhihu.com/search?q=A%E8%82%A1)
+1. [沪深两市成交额突破5000亿元](https://www.zhihu.com/search?q=%E6%B2%AA%E6%B7%B1%E4%B8%A4%E5%B8%82%E6%88%90%E4%BA%A4%E9%A2%9D%E7%AA%81%E7%A0%B45000%E4%BA%BF%E5%85%83)
 1. [曼联2比1切尔西](https://www.zhihu.com/search?q=%E6%9B%BC%E8%81%942%E6%AF%941%E5%88%87%E5%B0%94%E8%A5%BF)
 1. [你碰到过的最巧的事是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E7%A2%B0%E5%88%B0%E8%BF%87%E7%9A%84%E6%9C%80%E5%B7%A7%E7%9A%84%E4%BA%8B%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [gen对战t1](https://www.zhihu.com/search?q=gen%E5%AF%B9%E6%88%98t1)
