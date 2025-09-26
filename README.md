@@ -11,13 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-09-26 11:27:21 +0800`
+`更新时间：2025-09-26 12:14:09 +0800`
 
 ## 热门搜索
 
-1. [雷军称「造车造芯把小米家底全押上了」](https://www.zhihu.com/search?q=%E9%9B%B7%E5%86%9B%E7%A7%B0%E3%80%8C%E9%80%A0%E8%BD%A6%E9%80%A0%E8%8A%AF%E6%8A%8A%E5%B0%8F%E7%B1%B3%E5%AE%B6%E5%BA%95%E5%85%A8%E6%8A%BC%E4%B8%8A%E4%BA%86%E3%80%8D)
-1. [你碰到过的最巧的事是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E7%A2%B0%E5%88%B0%E8%BF%87%E7%9A%84%E6%9C%80%E5%B7%A7%E7%9A%84%E4%BA%8B%E6%98%AF%E4%BB%80%E4%B9%88)
-1. [为什么在中国邮箱不流行](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%9C%A8%E4%B8%AD%E5%9B%BD%E9%82%AE%E7%AE%B1%E4%B8%8D%E6%B5%81%E8%A1%8C)
+1. [东莞已转移91399人](https://www.zhihu.com/search?q=%E4%B8%9C%E8%8E%9E%E5%B7%B2%E8%BD%AC%E7%A7%BB91399%E4%BA%BA)
+1. [登贝莱荣膺2025年金球奖](https://www.zhihu.com/search?q=%E7%99%BB%E8%B4%9D%E8%8E%B1%E8%8D%A3%E8%86%BA2025%E5%B9%B4%E9%87%91%E7%90%83%E5%A5%96)
 1. [中国的城堡是不是很少](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%9F%8E%E5%A0%A1%E6%98%AF%E4%B8%8D%E6%98%AF%E5%BE%88%E5%B0%91)
 1. [刘邦凭什么这么听萧何的话](https://www.zhihu.com/search?q=%E5%88%98%E9%82%A6%E5%87%AD%E4%BB%80%E4%B9%88%E8%BF%99%E4%B9%88%E5%90%AC%E8%90%A7%E4%BD%95%E7%9A%84%E8%AF%9D)
 1. [为什么枯山水在中国不流行](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9E%AF%E5%B1%B1%E6%B0%B4%E5%9C%A8%E4%B8%AD%E5%9B%BD%E4%B8%8D%E6%B5%81%E8%A1%8C)
