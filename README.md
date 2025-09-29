@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-09-29 20:24:02 +0800`
+`更新时间：2025-09-29 21:23:47 +0800`
 
 ## 热门搜索
 
 1. [物理学副教授基金申请8年不中转行养鸡](https://www.zhihu.com/search?q=%E7%89%A9%E7%90%86%E5%AD%A6%E5%89%AF%E6%95%99%E6%8E%88%E5%9F%BA%E9%87%91%E7%94%B3%E8%AF%B78%E5%B9%B4%E4%B8%8D%E4%B8%AD%E8%BD%AC%E8%A1%8C%E5%85%BB%E9%B8%A1)
+1. [蘑菇屋的「哲学家」彩灯去世](https://www.zhihu.com/search?q=%E8%98%91%E8%8F%87%E5%B1%8B%E7%9A%84%E3%80%8C%E5%93%B2%E5%AD%A6%E5%AE%B6%E3%80%8D%E5%BD%A9%E7%81%AF%E5%8E%BB%E4%B8%96)
 1. [你什么时候意识到自己没见过世面](https://www.zhihu.com/search?q=%E4%BD%A0%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E6%84%8F%E8%AF%86%E5%88%B0%E8%87%AA%E5%B7%B1%E6%B2%A1%E8%A7%81%E8%BF%87%E4%B8%96%E9%9D%A2)
 1. [湾区升明月](https://www.zhihu.com/search?q=%E6%B9%BE%E5%8C%BA%E5%8D%87%E6%98%8E%E6%9C%88)
 1. [常年独居的人靠什么抵抗孤独](https://www.zhihu.com/search?q=%E5%B8%B8%E5%B9%B4%E7%8B%AC%E5%B1%85%E7%9A%84%E4%BA%BA%E9%9D%A0%E4%BB%80%E4%B9%88%E6%8A%B5%E6%8A%97%E5%AD%A4%E7%8B%AC)
