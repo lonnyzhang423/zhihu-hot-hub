@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-09-30 11:26:26 +0800`
+`更新时间：2025-09-30 12:14:26 +0800`
 
 ## 热门搜索
 
@@ -33,7 +33,6 @@
 1. [如何评价歼-10CE战斗机](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E6%AD%BC-10CE%E6%88%98%E6%96%97%E6%9C%BA)
 1. [什么样的家庭才能养出松弛感的孩子](https://www.zhihu.com/search?q=%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E5%AE%B6%E5%BA%AD%E6%89%8D%E8%83%BD%E5%85%BB%E5%87%BA%E6%9D%BE%E5%BC%9B%E6%84%9F%E7%9A%84%E5%AD%A9%E5%AD%90)
 1. [iG战胜JDG ](https://www.zhihu.com/search?q=iG%E6%88%98%E8%83%9CJDG%20)
-1. [孙颖莎晋级女单32强](https://www.zhihu.com/search?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E6%99%8B%E7%BA%A7%E5%A5%B3%E5%8D%9532%E5%BC%BA)
 1. [为什么很多大公司重视第一学历](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BE%88%E5%A4%9A%E5%A4%A7%E5%85%AC%E5%8F%B8%E9%87%8D%E8%A7%86%E7%AC%AC%E4%B8%80%E5%AD%A6%E5%8E%86)
 1. [家务平权为什么这么难](https://www.zhihu.com/search?q=%E5%AE%B6%E5%8A%A1%E5%B9%B3%E6%9D%83%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%99%E4%B9%88%E9%9A%BE)
 1. [你的低成本爱好是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9A%84%E4%BD%8E%E6%88%90%E6%9C%AC%E7%88%B1%E5%A5%BD%E6%98%AF%E4%BB%80%E4%B9%88)
@@ -42,6 +41,7 @@
 1. [降水线真的北移了么](https://www.zhihu.com/search?q=%E9%99%8D%E6%B0%B4%E7%BA%BF%E7%9C%9F%E7%9A%84%E5%8C%97%E7%A7%BB%E4%BA%86%E4%B9%88)
 1. [美国情报系统现在属于什么水平](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E6%83%85%E6%8A%A5%E7%B3%BB%E7%BB%9F%E7%8E%B0%E5%9C%A8%E5%B1%9E%E4%BA%8E%E4%BB%80%E4%B9%88%E6%B0%B4%E5%B9%B3)
 1. [最近一次开怀大笑是因为什么](https://www.zhihu.com/search?q=%E6%9C%80%E8%BF%91%E4%B8%80%E6%AC%A1%E5%BC%80%E6%80%80%E5%A4%A7%E7%AC%91%E6%98%AF%E5%9B%A0%E4%B8%BA%E4%BB%80%E4%B9%88)
+1. [钓鱼佬最接受不了什么](https://www.zhihu.com/search?q=%E9%92%93%E9%B1%BC%E4%BD%AC%E6%9C%80%E6%8E%A5%E5%8F%97%E4%B8%8D%E4%BA%86%E4%BB%80%E4%B9%88)
 
 ## 热门话题
 
