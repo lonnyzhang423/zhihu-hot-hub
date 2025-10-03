@@ -11,10 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-10-03 22:11:34 +0800`
+`更新时间：2025-10-03 23:11:45 +0800`
 
 ## 热门搜索
 
+1. [霉霉新专](https://www.zhihu.com/search?q=%E9%9C%89%E9%9C%89%E6%96%B0%E4%B8%93)
 1. [为什么有些人的预判能力这么强](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E4%BA%9B%E4%BA%BA%E7%9A%84%E9%A2%84%E5%88%A4%E8%83%BD%E5%8A%9B%E8%BF%99%E4%B9%88%E5%BC%BA)
 1. [你什么时候意识到自己没见过世面](https://www.zhihu.com/search?q=%E4%BD%A0%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E6%84%8F%E8%AF%86%E5%88%B0%E8%87%AA%E5%B7%B1%E6%B2%A1%E8%A7%81%E8%BF%87%E4%B8%96%E9%9D%A2)
 1. [为什么周围养猫的人越来越多](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%91%A8%E5%9B%B4%E5%85%BB%E7%8C%AB%E7%9A%84%E4%BA%BA%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A)
@@ -29,6 +30,7 @@
 1. [男人的快乐有多简单](https://www.zhihu.com/search?q=%E7%94%B7%E4%BA%BA%E7%9A%84%E5%BF%AB%E4%B9%90%E6%9C%89%E5%A4%9A%E7%AE%80%E5%8D%95)
 1. [你认为哪个学段的老师最辛苦](https://www.zhihu.com/search?q=%E4%BD%A0%E8%AE%A4%E4%B8%BA%E5%93%AA%E4%B8%AA%E5%AD%A6%E6%AE%B5%E7%9A%84%E8%80%81%E5%B8%88%E6%9C%80%E8%BE%9B%E8%8B%A6)
 1. [为什么枯山水在中国不流行](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9E%AF%E5%B1%B1%E6%B0%B4%E5%9C%A8%E4%B8%AD%E5%9B%BD%E4%B8%8D%E6%B5%81%E8%A1%8C)
+1. [孙颖莎vs王艺迪](https://www.zhihu.com/search?q=%E5%AD%99%E9%A2%96%E8%8E%8Evs%E7%8E%8B%E8%89%BA%E8%BF%AA)
 1. [人类是否无法想象出没见过的东西](https://www.zhihu.com/search?q=%E4%BA%BA%E7%B1%BB%E6%98%AF%E5%90%A6%E6%97%A0%E6%B3%95%E6%83%B3%E8%B1%A1%E5%87%BA%E6%B2%A1%E8%A7%81%E8%BF%87%E7%9A%84%E4%B8%9C%E8%A5%BF)
 1. [中国有哪些逆天的文物](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E6%9C%89%E5%93%AA%E4%BA%9B%E9%80%86%E5%A4%A9%E7%9A%84%E6%96%87%E7%89%A9)
 1. [如何评价歼-10CE战斗机](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E6%AD%BC-10CE%E6%88%98%E6%96%97%E6%9C%BA)
@@ -38,7 +40,6 @@
 1. [德国的工业已经退到什么地步了](https://www.zhihu.com/search?q=%E5%BE%B7%E5%9B%BD%E7%9A%84%E5%B7%A5%E4%B8%9A%E5%B7%B2%E7%BB%8F%E9%80%80%E5%88%B0%E4%BB%80%E4%B9%88%E5%9C%B0%E6%AD%A5%E4%BA%86)
 1. [家务平权为什么这么难](https://www.zhihu.com/search?q=%E5%AE%B6%E5%8A%A1%E5%B9%B3%E6%9D%83%E4%B8%BA%E4%BB%80%E4%B9%88%E8%BF%99%E4%B9%88%E9%9A%BE)
 1. [你的低成本爱好是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9A%84%E4%BD%8E%E6%88%90%E6%9C%AC%E7%88%B1%E5%A5%BD%E6%98%AF%E4%BB%80%E4%B9%88)
-1. [炒股让你明白了什么真理](https://www.zhihu.com/search?q=%E7%82%92%E8%82%A1%E8%AE%A9%E4%BD%A0%E6%98%8E%E7%99%BD%E4%BA%86%E4%BB%80%E4%B9%88%E7%9C%9F%E7%90%86)
 
 ## 热门话题
 
