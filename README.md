@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-10-04 21:24:45 +0800`
+`更新时间：2025-10-04 22:20:11 +0800`
 
 ## 热门搜索
 
@@ -28,7 +28,6 @@
 1. [孙颖莎vs王艺迪](https://www.zhihu.com/search?q=%E5%AD%99%E9%A2%96%E8%8E%8Evs%E7%8E%8B%E8%89%BA%E8%BF%AA)
 1. [人类是否无法想象出没见过的东西](https://www.zhihu.com/search?q=%E4%BA%BA%E7%B1%BB%E6%98%AF%E5%90%A6%E6%97%A0%E6%B3%95%E6%83%B3%E8%B1%A1%E5%87%BA%E6%B2%A1%E8%A7%81%E8%BF%87%E7%9A%84%E4%B8%9C%E8%A5%BF)
 1. [中国有哪些逆天的文物](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E6%9C%89%E5%93%AA%E4%BA%9B%E9%80%86%E5%A4%A9%E7%9A%84%E6%96%87%E7%89%A9)
-1. [王楚钦孙颖莎混双冠军](https://www.zhihu.com/search?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%AD%99%E9%A2%96%E8%8E%8E%E6%B7%B7%E5%8F%8C%E5%86%A0%E5%86%9B)
 1. [王曼昱蒯曼女双夺冠](https://www.zhihu.com/search?q=%E7%8E%8B%E6%9B%BC%E6%98%B1%E8%92%AF%E6%9B%BC%E5%A5%B3%E5%8F%8C%E5%A4%BA%E5%86%A0)
 1. [鸡排哥的哪一点戳中了大家](https://www.zhihu.com/search?q=%E9%B8%A1%E6%8E%92%E5%93%A5%E7%9A%84%E5%93%AA%E4%B8%80%E7%82%B9%E6%88%B3%E4%B8%AD%E4%BA%86%E5%A4%A7%E5%AE%B6)
 1. [绝味为什么卖不动了](https://www.zhihu.com/search?q=%E7%BB%9D%E5%91%B3%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86)
@@ -41,6 +40,7 @@
 1. [好利来 27 元月饼被指太贵](https://www.zhihu.com/search?q=%E5%A5%BD%E5%88%A9%E6%9D%A5%2027%20%E5%85%83%E6%9C%88%E9%A5%BC%E8%A2%AB%E6%8C%87%E5%A4%AA%E8%B4%B5)
 1. [电磁弹射 30 吨舰载机消耗多少升燃油](https://www.zhihu.com/search?q=%E7%94%B5%E7%A3%81%E5%BC%B9%E5%B0%84%2030%20%E5%90%A8%E8%88%B0%E8%BD%BD%E6%9C%BA%E6%B6%88%E8%80%97%E5%A4%9A%E5%B0%91%E5%8D%87%E7%87%83%E6%B2%B9)
 1. [你见过最冷静的人有多冷静](https://www.zhihu.com/search?q=%E4%BD%A0%E8%A7%81%E8%BF%87%E6%9C%80%E5%86%B7%E9%9D%99%E7%9A%84%E4%BA%BA%E6%9C%89%E5%A4%9A%E5%86%B7%E9%9D%99)
+1. [凤雏庞统真的和卧龙诸葛亮一样厉害吗](https://www.zhihu.com/search?q=%E5%87%A4%E9%9B%8F%E5%BA%9E%E7%BB%9F%E7%9C%9F%E7%9A%84%E5%92%8C%E5%8D%A7%E9%BE%99%E8%AF%B8%E8%91%9B%E4%BA%AE%E4%B8%80%E6%A0%B7%E5%8E%89%E5%AE%B3%E5%90%97)
 
 ## 热门话题
 
