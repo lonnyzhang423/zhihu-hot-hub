@@ -11,12 +11,14 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-10-07 00:30:46 +0800`
+`更新时间：2025-10-07 01:22:01 +0800`
 
 ## 热门搜索
 
 1. [诺贝尔生理学或医学奖揭晓](https://www.zhihu.com/search?q=%E8%AF%BA%E8%B4%9D%E5%B0%94%E7%94%9F%E7%90%86%E5%AD%A6%E6%88%96%E5%8C%BB%E5%AD%A6%E5%A5%96%E6%8F%AD%E6%99%93)
+1. [太阳vs湖人](https://www.zhihu.com/search?q=%E5%A4%AA%E9%98%B3vs%E6%B9%96%E4%BA%BA)
 1. [你什么时候意识到自己没见过世面](https://www.zhihu.com/search?q=%E4%BD%A0%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E6%84%8F%E8%AF%86%E5%88%B0%E8%87%AA%E5%B7%B1%E6%B2%A1%E8%A7%81%E8%BF%87%E4%B8%96%E9%9D%A2)
+1. [湖人vs勇士](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BAvs%E5%8B%87%E5%A3%AB)
 1. [电车贬值整体幅度为什么比油车贬值更大](https://www.zhihu.com/search?q=%E7%94%B5%E8%BD%A6%E8%B4%AC%E5%80%BC%E6%95%B4%E4%BD%93%E5%B9%85%E5%BA%A6%E4%B8%BA%E4%BB%80%E4%B9%88%E6%AF%94%E6%B2%B9%E8%BD%A6%E8%B4%AC%E5%80%BC%E6%9B%B4%E5%A4%A7)
 1. [台风红色预警发布](https://www.zhihu.com/search?q=%E5%8F%B0%E9%A3%8E%E7%BA%A2%E8%89%B2%E9%A2%84%E8%AD%A6%E5%8F%91%E5%B8%83)
 1. [东方卫视中秋晚会](https://www.zhihu.com/search?q=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86%E4%B8%AD%E7%A7%8B%E6%99%9A%E4%BC%9A)
@@ -39,8 +41,6 @@
 1. [凤雏庞统真的和卧龙诸葛亮一样厉害吗](https://www.zhihu.com/search?q=%E5%87%A4%E9%9B%8F%E5%BA%9E%E7%BB%9F%E7%9C%9F%E7%9A%84%E5%92%8C%E5%8D%A7%E9%BE%99%E8%AF%B8%E8%91%9B%E4%BA%AE%E4%B8%80%E6%A0%B7%E5%8E%89%E5%AE%B3%E5%90%97)
 1. [有哪些蕴含深意的图片](https://www.zhihu.com/search?q=%E6%9C%89%E5%93%AA%E4%BA%9B%E8%95%B4%E5%90%AB%E6%B7%B1%E6%84%8F%E7%9A%84%E5%9B%BE%E7%89%87)
 1. [官方通报「法院警车在山姆购物」为公车私用](https://www.zhihu.com/search?q=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E3%80%8C%E6%B3%95%E9%99%A2%E8%AD%A6%E8%BD%A6%E5%9C%A8%E5%B1%B1%E5%A7%86%E8%B4%AD%E7%89%A9%E3%80%8D%E4%B8%BA%E5%85%AC%E8%BD%A6%E7%A7%81%E7%94%A8)
-1. [成为顶级体育明星要付出哪些不为人知的代价](https://www.zhihu.com/search?q=%E6%88%90%E4%B8%BA%E9%A1%B6%E7%BA%A7%E4%BD%93%E8%82%B2%E6%98%8E%E6%98%9F%E8%A6%81%E4%BB%98%E5%87%BA%E5%93%AA%E4%BA%9B%E4%B8%8D%E4%B8%BA%E4%BA%BA%E7%9F%A5%E7%9A%84%E4%BB%A3%E4%BB%B7)
-1. [上海一栋百年老洋房降至 8299 万流拍](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%E4%B8%80%E6%A0%8B%E7%99%BE%E5%B9%B4%E8%80%81%E6%B4%8B%E6%88%BF%E9%99%8D%E8%87%B3%208299%20%E4%B8%87%E6%B5%81%E6%8B%8D)
 
 ## 热门话题
 
