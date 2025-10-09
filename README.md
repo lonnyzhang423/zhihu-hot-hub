@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-10-09 13:24:27 +0800`
+`更新时间：2025-10-09 14:37:14 +0800`
 
 ## 热门搜索
 
@@ -20,7 +20,6 @@
 1. [诺贝尔生理学或医学奖揭晓](https://www.zhihu.com/search?q=%E8%AF%BA%E8%B4%9D%E5%B0%94%E7%94%9F%E7%90%86%E5%AD%A6%E6%88%96%E5%8C%BB%E5%AD%A6%E5%A5%96%E6%8F%AD%E6%99%93)
 1. [为什么有些人的预判能力这么强](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E4%BA%9B%E4%BA%BA%E7%9A%84%E9%A2%84%E5%88%A4%E8%83%BD%E5%8A%9B%E8%BF%99%E4%B9%88%E5%BC%BA)
 1. [你什么时候意识到自己没见过世面](https://www.zhihu.com/search?q=%E4%BD%A0%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E6%84%8F%E8%AF%86%E5%88%B0%E8%87%AA%E5%B7%B1%E6%B2%A1%E8%A7%81%E8%BF%87%E4%B8%96%E9%9D%A2)
-1. [假期综合征](https://www.zhihu.com/search?q=%E5%81%87%E6%9C%9F%E7%BB%BC%E5%90%88%E5%BE%81)
 1. [电车贬值整体幅度为什么比油车贬值更大](https://www.zhihu.com/search?q=%E7%94%B5%E8%BD%A6%E8%B4%AC%E5%80%BC%E6%95%B4%E4%BD%93%E5%B9%85%E5%BA%A6%E4%B8%BA%E4%BB%80%E4%B9%88%E6%AF%94%E6%B2%B9%E8%BD%A6%E8%B4%AC%E5%80%BC%E6%9B%B4%E5%A4%A7)
 1. [早期的的网红后来怎么样了](https://www.zhihu.com/search?q=%E6%97%A9%E6%9C%9F%E7%9A%84%E7%9A%84%E7%BD%91%E7%BA%A2%E5%90%8E%E6%9D%A5%E6%80%8E%E4%B9%88%E6%A0%B7%E4%BA%86)
 1. [王一博赛车](https://www.zhihu.com/search?q=%E7%8E%8B%E4%B8%80%E5%8D%9A%E8%B5%9B%E8%BD%A6)
@@ -42,6 +41,7 @@
 1. [如何用最少的钱打扮自己](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%94%A8%E6%9C%80%E5%B0%91%E7%9A%84%E9%92%B1%E6%89%93%E6%89%AE%E8%87%AA%E5%B7%B1)
 1. [你的低成本爱好是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9A%84%E4%BD%8E%E6%88%90%E6%9C%AC%E7%88%B1%E5%A5%BD%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [炒股让你明白了什么真理](https://www.zhihu.com/search?q=%E7%82%92%E8%82%A1%E8%AE%A9%E4%BD%A0%E6%98%8E%E7%99%BD%E4%BA%86%E4%BB%80%E4%B9%88%E7%9C%9F%E7%90%86)
+1. [降水线真的北移了么](https://www.zhihu.com/search?q=%E9%99%8D%E6%B0%B4%E7%BA%BF%E7%9C%9F%E7%9A%84%E5%8C%97%E7%A7%BB%E4%BA%86%E4%B9%88)
 
 ## 热门话题
 
