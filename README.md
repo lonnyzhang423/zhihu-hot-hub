@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-10-11 06:22:17 +0800`
+`更新时间：2025-10-11 07:21:09 +0800`
 
 ## 热门搜索
 
@@ -22,6 +22,7 @@
 1. [为什么说男人至死都是少年](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%AF%B4%E7%94%B7%E4%BA%BA%E8%87%B3%E6%AD%BB%E9%83%BD%E6%98%AF%E5%B0%91%E5%B9%B4)
 1. [为什么优秀员工往往最先离职](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%98%E7%A7%80%E5%91%98%E5%B7%A5%E5%BE%80%E5%BE%80%E6%9C%80%E5%85%88%E7%A6%BB%E8%81%8C)
 1. [早期的的网红后来怎么样了](https://www.zhihu.com/search?q=%E6%97%A9%E6%9C%9F%E7%9A%84%E7%9A%84%E7%BD%91%E7%BA%A2%E5%90%8E%E6%9D%A5%E6%80%8E%E4%B9%88%E6%A0%B7%E4%BA%86)
+1. [宗馥莉](https://www.zhihu.com/search?q=%E5%AE%97%E9%A6%A5%E8%8E%89)
 1. [演员知道自己正在拍一部烂片吗](https://www.zhihu.com/search?q=%E6%BC%94%E5%91%98%E7%9F%A5%E9%81%93%E8%87%AA%E5%B7%B1%E6%AD%A3%E5%9C%A8%E6%8B%8D%E4%B8%80%E9%83%A8%E7%83%82%E7%89%87%E5%90%97)
 1. [金价又涨了](https://www.zhihu.com/search?q=%E9%87%91%E4%BB%B7%E5%8F%88%E6%B6%A8%E4%BA%86)
 1. [诺贝尔物理学奖揭晓](https://www.zhihu.com/search?q=%E8%AF%BA%E8%B4%9D%E5%B0%94%E7%89%A9%E7%90%86%E5%AD%A6%E5%A5%96%E6%8F%AD%E6%99%93)
@@ -41,7 +42,6 @@
 1. [德国的工业已经退到什么地步了](https://www.zhihu.com/search?q=%E5%BE%B7%E5%9B%BD%E7%9A%84%E5%B7%A5%E4%B8%9A%E5%B7%B2%E7%BB%8F%E9%80%80%E5%88%B0%E4%BB%80%E4%B9%88%E5%9C%B0%E6%AD%A5%E4%BA%86)
 1. [你的低成本爱好是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9A%84%E4%BD%8E%E6%88%90%E6%9C%AC%E7%88%B1%E5%A5%BD%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [炒股让你明白了什么真理](https://www.zhihu.com/search?q=%E7%82%92%E8%82%A1%E8%AE%A9%E4%BD%A0%E6%98%8E%E7%99%BD%E4%BA%86%E4%BB%80%E4%B9%88%E7%9C%9F%E7%90%86)
-1. [降水线真的北移了么](https://www.zhihu.com/search?q=%E9%99%8D%E6%B0%B4%E7%BA%BF%E7%9C%9F%E7%9A%84%E5%8C%97%E7%A7%BB%E4%BA%86%E4%B9%88)
 
 ## 热门话题
 
