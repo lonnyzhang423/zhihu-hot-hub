@@ -11,15 +11,17 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-10-11 20:19:59 +0800`
+`更新时间：2025-10-11 21:16:03 +0800`
 
 ## 热门搜索
 
-1. [日本饮食为什么一餐的量那么少](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E9%A5%AE%E9%A3%9F%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%80%E9%A4%90%E7%9A%84%E9%87%8F%E9%82%A3%E4%B9%88%E5%B0%91)
+1. [诺贝尔化学奖](https://www.zhihu.com/search?q=%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%8C%96%E5%AD%A6%E5%A5%96)
+1. [世界大学排名发布](https://www.zhihu.com/search?q=%E4%B8%96%E7%95%8C%E5%A4%A7%E5%AD%A6%E6%8E%92%E5%90%8D%E5%8F%91%E5%B8%83)
 1. [为什么有些人的预判能力这么强](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E4%BA%9B%E4%BA%BA%E7%9A%84%E9%A2%84%E5%88%A4%E8%83%BD%E5%8A%9B%E8%BF%99%E4%B9%88%E5%BC%BA)
 1. [为什么说男人至死都是少年](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%AF%B4%E7%94%B7%E4%BA%BA%E8%87%B3%E6%AD%BB%E9%83%BD%E6%98%AF%E5%B0%91%E5%B9%B4)
 1. [你因为什么事情报过警](https://www.zhihu.com/search?q=%E4%BD%A0%E5%9B%A0%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BA%8B%E6%83%85%E6%8A%A5%E8%BF%87%E8%AD%A6)
 1. [早期的的网红后来怎么样了](https://www.zhihu.com/search?q=%E6%97%A9%E6%9C%9F%E7%9A%84%E7%9A%84%E7%BD%91%E7%BA%A2%E5%90%8E%E6%9D%A5%E6%80%8E%E4%B9%88%E6%A0%B7%E4%BA%86)
+1. [宗馥莉](https://www.zhihu.com/search?q=%E5%AE%97%E9%A6%A5%E8%8E%89)
 1. [宗馥莉辞职](https://www.zhihu.com/search?q=%E5%AE%97%E9%A6%A5%E8%8E%89%E8%BE%9E%E8%81%8C)
 1. [美股暴跌](https://www.zhihu.com/search?q=%E7%BE%8E%E8%82%A1%E6%9A%B4%E8%B7%8C)
 1. [发现孩子很普通怎么办](https://www.zhihu.com/search?q=%E5%8F%91%E7%8E%B0%E5%AD%A9%E5%AD%90%E5%BE%88%E6%99%AE%E9%80%9A%E6%80%8E%E4%B9%88%E5%8A%9E)
@@ -39,7 +41,6 @@
 1. [长期不上班的人都是什么状态](https://www.zhihu.com/search?q=%E9%95%BF%E6%9C%9F%E4%B8%8D%E4%B8%8A%E7%8F%AD%E7%9A%84%E4%BA%BA%E9%83%BD%E6%98%AF%E4%BB%80%E4%B9%88%E7%8A%B6%E6%80%81)
 1. [你的低成本爱好是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9A%84%E4%BD%8E%E6%88%90%E6%9C%AC%E7%88%B1%E5%A5%BD%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [炒股让你明白了什么真理](https://www.zhihu.com/search?q=%E7%82%92%E8%82%A1%E8%AE%A9%E4%BD%A0%E6%98%8E%E7%99%BD%E4%BA%86%E4%BB%80%E4%B9%88%E7%9C%9F%E7%90%86)
-1. [降水线真的北移了么](https://www.zhihu.com/search?q=%E9%99%8D%E6%B0%B4%E7%BA%BF%E7%9C%9F%E7%9A%84%E5%8C%97%E7%A7%BB%E4%BA%86%E4%B9%88)
 
 ## 热门话题
 
