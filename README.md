@@ -11,12 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-10-11 16:14:00 +0800`
+`更新时间：2025-10-11 17:10:50 +0800`
 
 ## 热门搜索
 
 1. [诺贝尔化学奖](https://www.zhihu.com/search?q=%E8%AF%BA%E8%B4%9D%E5%B0%94%E5%8C%96%E5%AD%A6%E5%A5%96)
-1. [诺贝尔文学奖](https://www.zhihu.com/search?q=%E8%AF%BA%E8%B4%9D%E5%B0%94%E6%96%87%E5%AD%A6%E5%A5%96)
 1. [世界大学排名发布](https://www.zhihu.com/search?q=%E4%B8%96%E7%95%8C%E5%A4%A7%E5%AD%A6%E6%8E%92%E5%90%8D%E5%8F%91%E5%B8%83)
 1. [为什么说男人至死都是少年](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%AF%B4%E7%94%B7%E4%BA%BA%E8%87%B3%E6%AD%BB%E9%83%BD%E6%98%AF%E5%B0%91%E5%B9%B4)
 1. [你因为什么事情报过警](https://www.zhihu.com/search?q=%E4%BD%A0%E5%9B%A0%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BA%8B%E6%83%85%E6%8A%A5%E8%BF%87%E8%AD%A6)
@@ -40,6 +39,7 @@
 1. [美国对华船舶征费明细出炉](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E5%AF%B9%E5%8D%8E%E8%88%B9%E8%88%B6%E5%BE%81%E8%B4%B9%E6%98%8E%E7%BB%86%E5%87%BA%E7%82%89)
 1. [研究称O型血可能更易得痔疮](https://www.zhihu.com/search?q=%E7%A0%94%E7%A9%B6%E7%A7%B0O%E5%9E%8B%E8%A1%80%E5%8F%AF%E8%83%BD%E6%9B%B4%E6%98%93%E5%BE%97%E7%97%94%E7%96%AE)
 1. [比亚迪欧洲售价比国内翻倍销量超越特斯拉](https://www.zhihu.com/search?q=%E6%AF%94%E4%BA%9A%E8%BF%AA%E6%AC%A7%E6%B4%B2%E5%94%AE%E4%BB%B7%E6%AF%94%E5%9B%BD%E5%86%85%E7%BF%BB%E5%80%8D%E9%94%80%E9%87%8F%E8%B6%85%E8%B6%8A%E7%89%B9%E6%96%AF%E6%8B%89)
+1. [詹姆斯「决定」与轩尼诗合作](https://www.zhihu.com/search?q=%E8%A9%B9%E5%A7%86%E6%96%AF%E3%80%8C%E5%86%B3%E5%AE%9A%E3%80%8D%E4%B8%8E%E8%BD%A9%E5%B0%BC%E8%AF%97%E5%90%88%E4%BD%9C)
 
 ## 热门话题
 
