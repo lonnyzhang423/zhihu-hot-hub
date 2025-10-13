@@ -11,11 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-10-13 19:20:52 +0800`
+`更新时间：2025-10-13 20:52:48 +0800`
 
 ## 热门搜索
 
-1. [地球正在「变暗」意味着什么](https://www.zhihu.com/search?q=%E5%9C%B0%E7%90%83%E6%AD%A3%E5%9C%A8%E3%80%8C%E5%8F%98%E6%9A%97%E3%80%8D%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88)
+1. [为什么有些人的预判能力这么强](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E4%BA%9B%E4%BA%BA%E7%9A%84%E9%A2%84%E5%88%A4%E8%83%BD%E5%8A%9B%E8%BF%99%E4%B9%88%E5%BC%BA)
 1. [为什么说男人至死都是少年](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%AF%B4%E7%94%B7%E4%BA%BA%E8%87%B3%E6%AD%BB%E9%83%BD%E6%98%AF%E5%B0%91%E5%B9%B4)
 1. [你因为什么事情报过警](https://www.zhihu.com/search?q=%E4%BD%A0%E5%9B%A0%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BA%8B%E6%83%85%E6%8A%A5%E8%BF%87%E8%AD%A6)
 1. [宗馥莉](https://www.zhihu.com/search?q=%E5%AE%97%E9%A6%A5%E8%8E%89)
