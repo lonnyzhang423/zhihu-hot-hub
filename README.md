@@ -11,12 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-10-14 06:11:06 +0800`
+`更新时间：2025-10-14 07:10:52 +0800`
 
 ## 热门搜索
 
 1. [为什么有些人的预判能力这么强](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E4%BA%9B%E4%BA%BA%E7%9A%84%E9%A2%84%E5%88%A4%E8%83%BD%E5%8A%9B%E8%BF%99%E4%B9%88%E5%BC%BA)
-1. [宗馥莉](https://www.zhihu.com/search?q=%E5%AE%97%E9%A6%A5%E8%8E%89)
 1. [发现孩子很普通怎么办](https://www.zhihu.com/search?q=%E5%8F%91%E7%8E%B0%E5%AD%A9%E5%AD%90%E5%BE%88%E6%99%AE%E9%80%9A%E6%80%8E%E4%B9%88%E5%8A%9E)
 1. [常年独居的人靠什么抵抗孤独](https://www.zhihu.com/search?q=%E5%B8%B8%E5%B9%B4%E7%8B%AC%E5%B1%85%E7%9A%84%E4%BA%BA%E9%9D%A0%E4%BB%80%E4%B9%88%E6%8A%B5%E6%8A%97%E5%AD%A4%E7%8B%AC)
 1. [打工人有哪些「至爽时刻」](https://www.zhihu.com/search?q=%E6%89%93%E5%B7%A5%E4%BA%BA%E6%9C%89%E5%93%AA%E4%BA%9B%E3%80%8C%E8%87%B3%E7%88%BD%E6%97%B6%E5%88%BB%E3%80%8D)
@@ -39,6 +38,7 @@
 1. [电影《万箭穿心》反映了什么](https://www.zhihu.com/search?q=%E7%94%B5%E5%BD%B1%E3%80%8A%E4%B8%87%E7%AE%AD%E7%A9%BF%E5%BF%83%E3%80%8B%E5%8F%8D%E6%98%A0%E4%BA%86%E4%BB%80%E4%B9%88)
 1. [美国各个州之间可以随意通行吗](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E5%90%84%E4%B8%AA%E5%B7%9E%E4%B9%8B%E9%97%B4%E5%8F%AF%E4%BB%A5%E9%9A%8F%E6%84%8F%E9%80%9A%E8%A1%8C%E5%90%97)
 1. [为什么外卖骑手一直不停地招人](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A4%96%E5%8D%96%E9%AA%91%E6%89%8B%E4%B8%80%E7%9B%B4%E4%B8%8D%E5%81%9C%E5%9C%B0%E6%8B%9B%E4%BA%BA)
+1. [普通家庭怎么带孩子见世面](https://www.zhihu.com/search?q=%E6%99%AE%E9%80%9A%E5%AE%B6%E5%BA%AD%E6%80%8E%E4%B9%88%E5%B8%A6%E5%AD%A9%E5%AD%90%E8%A7%81%E4%B8%96%E9%9D%A2)
 
 ## 热门话题
 
