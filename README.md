@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-10-14 20:54:44 +0800`
+`更新时间：2025-10-14 21:34:52 +0800`
 
 ## 热门搜索
 
-1. [若比亚迪在家乡建厂提供就业是欢迎还是抵制](https://www.zhihu.com/search?q=%E8%8B%A5%E6%AF%94%E4%BA%9A%E8%BF%AA%E5%9C%A8%E5%AE%B6%E4%B9%A1%E5%BB%BA%E5%8E%82%E6%8F%90%E4%BE%9B%E5%B0%B1%E4%B8%9A%E6%98%AF%E6%AC%A2%E8%BF%8E%E8%BF%98%E6%98%AF%E6%8A%B5%E5%88%B6)
-1. [贵州一珠宝店价值百万黄金被盗](https://www.zhihu.com/search?q=%E8%B4%B5%E5%B7%9E%E4%B8%80%E7%8F%A0%E5%AE%9D%E5%BA%97%E4%BB%B7%E5%80%BC%E7%99%BE%E4%B8%87%E9%BB%84%E9%87%91%E8%A2%AB%E7%9B%97)
+1. [诺贝尔经济学奖揭晓](https://www.zhihu.com/search?q=%E8%AF%BA%E8%B4%9D%E5%B0%94%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%A5%96%E6%8F%AD%E6%99%93)
+1. [为什么有些人的预判能力这么强](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E4%BA%9B%E4%BA%BA%E7%9A%84%E9%A2%84%E5%88%A4%E8%83%BD%E5%8A%9B%E8%BF%99%E4%B9%88%E5%BC%BA)
 1. [演员到底有多吃天赋](https://www.zhihu.com/search?q=%E6%BC%94%E5%91%98%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E5%90%83%E5%A4%A9%E8%B5%8B)
 1. [常年独居的人靠什么抵抗孤独](https://www.zhihu.com/search?q=%E5%B8%B8%E5%B9%B4%E7%8B%AC%E5%B1%85%E7%9A%84%E4%BA%BA%E9%9D%A0%E4%BB%80%E4%B9%88%E6%8A%B5%E6%8A%97%E5%AD%A4%E7%8B%AC)
 1. [如何看待美国识字率只有 79％](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E7%BE%8E%E5%9B%BD%E8%AF%86%E5%AD%97%E7%8E%87%E5%8F%AA%E6%9C%89%2079%EF%BC%85)
