@@ -11,11 +11,13 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-10-14 11:05:13 +0800`
+`更新时间：2025-10-14 12:28:58 +0800`
 
 ## 热门搜索
 
-1. [为什么有些人的预判能力这么强](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E4%BA%9B%E4%BA%BA%E7%9A%84%E9%A2%84%E5%88%A4%E8%83%BD%E5%8A%9B%E8%BF%99%E4%B9%88%E5%BC%BA)
+1. [哈马斯开始释放以方被扣押人员](https://www.zhihu.com/search?q=%E5%93%88%E9%A9%AC%E6%96%AF%E5%BC%80%E5%A7%8B%E9%87%8A%E6%94%BE%E4%BB%A5%E6%96%B9%E8%A2%AB%E6%89%A3%E6%8A%BC%E4%BA%BA%E5%91%98)
+1. [《死神》中卍解的条件是什么](https://www.zhihu.com/search?q=%E3%80%8A%E6%AD%BB%E7%A5%9E%E3%80%8B%E4%B8%AD%E5%8D%8D%E8%A7%A3%E7%9A%84%E6%9D%A1%E4%BB%B6%E6%98%AF%E4%BB%80%E4%B9%88)
+1. [演员到底有多吃天赋](https://www.zhihu.com/search?q=%E6%BC%94%E5%91%98%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E5%90%83%E5%A4%A9%E8%B5%8B)
 1. [发现孩子很普通怎么办](https://www.zhihu.com/search?q=%E5%8F%91%E7%8E%B0%E5%AD%A9%E5%AD%90%E5%BE%88%E6%99%AE%E9%80%9A%E6%80%8E%E4%B9%88%E5%8A%9E)
 1. [常年独居的人靠什么抵抗孤独](https://www.zhihu.com/search?q=%E5%B8%B8%E5%B9%B4%E7%8B%AC%E5%B1%85%E7%9A%84%E4%BA%BA%E9%9D%A0%E4%BB%80%E4%B9%88%E6%8A%B5%E6%8A%97%E5%AD%A4%E7%8B%AC)
 1. [打工人有哪些「至爽时刻」](https://www.zhihu.com/search?q=%E6%89%93%E5%B7%A5%E4%BA%BA%E6%9C%89%E5%93%AA%E4%BA%9B%E3%80%8C%E8%87%B3%E7%88%BD%E6%97%B6%E5%88%BB%E3%80%8D)
@@ -33,12 +35,10 @@
 1. [炒股让你明白了什么真理](https://www.zhihu.com/search?q=%E7%82%92%E8%82%A1%E8%AE%A9%E4%BD%A0%E6%98%8E%E7%99%BD%E4%BA%86%E4%BB%80%E4%B9%88%E7%9C%9F%E7%90%86)
 1. [降水线真的北移了么](https://www.zhihu.com/search?q=%E9%99%8D%E6%B0%B4%E7%BA%BF%E7%9C%9F%E7%9A%84%E5%8C%97%E7%A7%BB%E4%BA%86%E4%B9%88)
 1. [美国情报系统现在属于什么水平](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E6%83%85%E6%8A%A5%E7%B3%BB%E7%BB%9F%E7%8E%B0%E5%9C%A8%E5%B1%9E%E4%BA%8E%E4%BB%80%E4%B9%88%E6%B0%B4%E5%B9%B3)
+1. [为什么去日本一下就能被认出是中国人](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8E%BB%E6%97%A5%E6%9C%AC%E4%B8%80%E4%B8%8B%E5%B0%B1%E8%83%BD%E8%A2%AB%E8%AE%A4%E5%87%BA%E6%98%AF%E4%B8%AD%E5%9B%BD%E4%BA%BA)
 1. [为什么年轻人反感老一辈的说教](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%8F%8D%E6%84%9F%E8%80%81%E4%B8%80%E8%BE%88%E7%9A%84%E8%AF%B4%E6%95%99)
 1. [旅行后你对哪个城市祛魅了](https://www.zhihu.com/search?q=%E6%97%85%E8%A1%8C%E5%90%8E%E4%BD%A0%E5%AF%B9%E5%93%AA%E4%B8%AA%E5%9F%8E%E5%B8%82%E7%A5%9B%E9%AD%85%E4%BA%86)
 1. [电影《万箭穿心》反映了什么](https://www.zhihu.com/search?q=%E7%94%B5%E5%BD%B1%E3%80%8A%E4%B8%87%E7%AE%AD%E7%A9%BF%E5%BF%83%E3%80%8B%E5%8F%8D%E6%98%A0%E4%BA%86%E4%BB%80%E4%B9%88)
-1. [美国各个州之间可以随意通行吗](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E5%90%84%E4%B8%AA%E5%B7%9E%E4%B9%8B%E9%97%B4%E5%8F%AF%E4%BB%A5%E9%9A%8F%E6%84%8F%E9%80%9A%E8%A1%8C%E5%90%97)
-1. [为什么外卖骑手一直不停地招人](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A4%96%E5%8D%96%E9%AA%91%E6%89%8B%E4%B8%80%E7%9B%B4%E4%B8%8D%E5%81%9C%E5%9C%B0%E6%8B%9B%E4%BA%BA)
-1. [普通家庭怎么带孩子见世面](https://www.zhihu.com/search?q=%E6%99%AE%E9%80%9A%E5%AE%B6%E5%BA%AD%E6%80%8E%E4%B9%88%E5%B8%A6%E5%AD%A9%E5%AD%90%E8%A7%81%E4%B8%96%E9%9D%A2)
 
 ## 热门话题
 
