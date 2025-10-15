@@ -11,12 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-10-15 07:11:01 +0800`
+`更新时间：2025-10-15 08:56:13 +0800`
 
 ## 热门搜索
 
-1. [诺贝尔经济学奖揭晓](https://www.zhihu.com/search?q=%E8%AF%BA%E8%B4%9D%E5%B0%94%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%A5%96%E6%8F%AD%E6%99%93)
-1. [为什么有些人的预判能力这么强](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E4%BA%9B%E4%BA%BA%E7%9A%84%E9%A2%84%E5%88%A4%E8%83%BD%E5%8A%9B%E8%BF%99%E4%B9%88%E5%BC%BA)
+1. [日本大街天降老鼠伤人](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E5%A4%A7%E8%A1%97%E5%A4%A9%E9%99%8D%E8%80%81%E9%BC%A0%E4%BC%A4%E4%BA%BA)
 1. [演员到底有多吃天赋](https://www.zhihu.com/search?q=%E6%BC%94%E5%91%98%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E5%90%83%E5%A4%A9%E8%B5%8B)
 1. [常年独居的人靠什么抵抗孤独](https://www.zhihu.com/search?q=%E5%B8%B8%E5%B9%B4%E7%8B%AC%E5%B1%85%E7%9A%84%E4%BA%BA%E9%9D%A0%E4%BB%80%E4%B9%88%E6%8A%B5%E6%8A%97%E5%AD%A4%E7%8B%AC)
 1. [如何看待美国识字率只有 79％](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E7%BE%8E%E5%9B%BD%E8%AF%86%E5%AD%97%E7%8E%87%E5%8F%AA%E6%9C%89%2079%EF%BC%85)
