@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-10-16 21:25:36 +0800`
+`更新时间：2025-10-16 22:13:35 +0800`
 
 ## 热门搜索
 
@@ -35,9 +35,9 @@
 1. [为什么去日本一下就能被认出是中国人](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8E%BB%E6%97%A5%E6%9C%AC%E4%B8%80%E4%B8%8B%E5%B0%B1%E8%83%BD%E8%A2%AB%E8%AE%A4%E5%87%BA%E6%98%AF%E4%B8%AD%E5%9B%BD%E4%BA%BA)
 1. [为什么年轻人反感老一辈的说教](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%8F%8D%E6%84%9F%E8%80%81%E4%B8%80%E8%BE%88%E7%9A%84%E8%AF%B4%E6%95%99)
 1. [普通家庭怎么带孩子见世面](https://www.zhihu.com/search?q=%E6%99%AE%E9%80%9A%E5%AE%B6%E5%BA%AD%E6%80%8E%E4%B9%88%E5%B8%A6%E5%AD%A9%E5%AD%90%E8%A7%81%E4%B8%96%E9%9D%A2)
-1. [瑞达](https://www.zhihu.com/search?q=%E7%91%9E%E8%BE%BE)
 1. [一代人有一代人的破烂儿](https://www.zhihu.com/search?q=%E4%B8%80%E4%BB%A3%E4%BA%BA%E6%9C%89%E4%B8%80%E4%BB%A3%E4%BA%BA%E7%9A%84%E7%A0%B4%E7%83%82%E5%84%BF)
 1. [如何评价小米17](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E5%B0%8F%E7%B1%B317)
+1. [最支持我们中国的国家是哪国](https://www.zhihu.com/search?q=%E6%9C%80%E6%94%AF%E6%8C%81%E6%88%91%E4%BB%AC%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%9B%BD%E5%AE%B6%E6%98%AF%E5%93%AA%E5%9B%BD)
 
 ## 热门话题
 
