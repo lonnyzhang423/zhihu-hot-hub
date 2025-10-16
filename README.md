@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-10-16 18:28:19 +0800`
+`更新时间：2025-10-16 19:21:22 +0800`
 
 ## 热门搜索
 
-1. [清北的 top2 地位是怎么形成的](https://www.zhihu.com/search?q=%E6%B8%85%E5%8C%97%E7%9A%84%20top2%20%E5%9C%B0%E4%BD%8D%E6%98%AF%E6%80%8E%E4%B9%88%E5%BD%A2%E6%88%90%E7%9A%84)
+1. [世界粮食日](https://www.zhihu.com/search?q=%E4%B8%96%E7%95%8C%E7%B2%AE%E9%A3%9F%E6%97%A5)
+1. [哪一刻让你终于意识到了这就是命](https://www.zhihu.com/search?q=%E5%93%AA%E4%B8%80%E5%88%BB%E8%AE%A9%E4%BD%A0%E7%BB%88%E4%BA%8E%E6%84%8F%E8%AF%86%E5%88%B0%E4%BA%86%E8%BF%99%E5%B0%B1%E6%98%AF%E5%91%BD)
 1. [人的意识究竟是怎么产生的](https://www.zhihu.com/search?q=%E4%BA%BA%E7%9A%84%E6%84%8F%E8%AF%86%E7%A9%B6%E7%AB%9F%E6%98%AF%E6%80%8E%E4%B9%88%E4%BA%A7%E7%94%9F%E7%9A%84)
 1. [如何评价「片假名是翻译界的毒瘤」](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E3%80%8C%E7%89%87%E5%81%87%E5%90%8D%E6%98%AF%E7%BF%BB%E8%AF%91%E7%95%8C%E7%9A%84%E6%AF%92%E7%98%A4%E3%80%8D)
 1. [演员到底有多吃天赋](https://www.zhihu.com/search?q=%E6%BC%94%E5%91%98%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E5%90%83%E5%A4%A9%E8%B5%8B)
