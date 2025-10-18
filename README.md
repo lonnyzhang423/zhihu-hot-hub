@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-10-18 08:52:40 +0800`
+`更新时间：2025-10-18 10:14:34 +0800`
 
 ## 热门搜索
 
@@ -41,7 +41,6 @@
 1. [旅行后你对哪个城市祛魅了](https://www.zhihu.com/search?q=%E6%97%85%E8%A1%8C%E5%90%8E%E4%BD%A0%E5%AF%B9%E5%93%AA%E4%B8%AA%E5%9F%8E%E5%B8%82%E7%A5%9B%E9%AD%85%E4%BA%86)
 1. [如何看待健身锻炼到最后一身伤病](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%81%A5%E8%BA%AB%E9%94%BB%E7%82%BC%E5%88%B0%E6%9C%80%E5%90%8E%E4%B8%80%E8%BA%AB%E4%BC%A4%E7%97%85)
 1. [消费降级体现在什么地方](https://www.zhihu.com/search?q=%E6%B6%88%E8%B4%B9%E9%99%8D%E7%BA%A7%E4%BD%93%E7%8E%B0%E5%9C%A8%E4%BB%80%E4%B9%88%E5%9C%B0%E6%96%B9)
-1. [普通家庭怎么带孩子见世面](https://www.zhihu.com/search?q=%E6%99%AE%E9%80%9A%E5%AE%B6%E5%BA%AD%E6%80%8E%E4%B9%88%E5%B8%A6%E5%AD%A9%E5%AD%90%E8%A7%81%E4%B8%96%E9%9D%A2)
 
 ## 热门话题
 
