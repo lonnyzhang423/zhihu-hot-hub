@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-10-20 06:10:21 +0800`
+`更新时间：2025-10-20 07:10:34 +0800`
 
 ## 热门搜索
 
@@ -33,6 +33,7 @@
 1. [deepmind发布27b单细胞模型](https://www.zhihu.com/search?q=deepmind%E5%8F%91%E5%B8%8327b%E5%8D%95%E7%BB%86%E8%83%9E%E6%A8%A1%E5%9E%8B)
 1. [《喜人奇妙夜》第二季第四期](https://www.zhihu.com/search?q=%E3%80%8A%E5%96%9C%E4%BA%BA%E5%A5%87%E5%A6%99%E5%A4%9C%E3%80%8B%E7%AC%AC%E4%BA%8C%E5%AD%A3%E7%AC%AC%E5%9B%9B%E6%9C%9F)
 1. [KT 2:0 TES](https://www.zhihu.com/search?q=KT%202%3A0%20TES)
+1. [云南这家幼儿园的「泥土味」自然课火](https://www.zhihu.com/search?q=%E4%BA%91%E5%8D%97%E8%BF%99%E5%AE%B6%E5%B9%BC%E5%84%BF%E5%9B%AD%E7%9A%84%E3%80%8C%E6%B3%A5%E5%9C%9F%E5%91%B3%E3%80%8D%E8%87%AA%E7%84%B6%E8%AF%BE%E7%81%AB)
 1. [大脑功能或60岁时达巅峰](https://www.zhihu.com/search?q=%E5%A4%A7%E8%84%91%E5%8A%9F%E8%83%BD%E6%88%9660%E5%B2%81%E6%97%B6%E8%BE%BE%E5%B7%85%E5%B3%B0)
 1. [500平住宅装20多台空调](https://www.zhihu.com/search?q=500%E5%B9%B3%E4%BD%8F%E5%AE%85%E8%A3%8520%E5%A4%9A%E5%8F%B0%E7%A9%BA%E8%B0%83)
 1. [白银连续上涨3%](https://www.zhihu.com/search?q=%E7%99%BD%E9%93%B6%E8%BF%9E%E7%BB%AD%E4%B8%8A%E6%B6%A83%25)
@@ -43,7 +44,6 @@
 1. [寒武纪第三季度业绩暴增净利润5.67亿](https://www.zhihu.com/search?q=%E5%AF%92%E6%AD%A6%E7%BA%AA%E7%AC%AC%E4%B8%89%E5%AD%A3%E5%BA%A6%E4%B8%9A%E7%BB%A9%E6%9A%B4%E5%A2%9E%E5%87%80%E5%88%A9%E6%B6%A65.67%E4%BA%BF)
 1. [1个农夫山泉约等于23个华润饮料](https://www.zhihu.com/search?q=1%E4%B8%AA%E5%86%9C%E5%A4%AB%E5%B1%B1%E6%B3%89%E7%BA%A6%E7%AD%89%E4%BA%8E23%E4%B8%AA%E5%8D%8E%E6%B6%A6%E9%A5%AE%E6%96%99)
 1. [舒淇主演电影《寻她》撤档](https://www.zhihu.com/search?q=%E8%88%92%E6%B7%87%E4%B8%BB%E6%BC%94%E7%94%B5%E5%BD%B1%E3%80%8A%E5%AF%BB%E5%A5%B9%E3%80%8B%E6%92%A4%E6%A1%A3)
-1. [国家拟规定「无堂食」外卖须显著标识](https://www.zhihu.com/search?q=%E5%9B%BD%E5%AE%B6%E6%8B%9F%E8%A7%84%E5%AE%9A%E3%80%8C%E6%97%A0%E5%A0%82%E9%A3%9F%E3%80%8D%E5%A4%96%E5%8D%96%E9%A1%BB%E6%98%BE%E8%91%97%E6%A0%87%E8%AF%86)
 
 ## 热门话题
 
