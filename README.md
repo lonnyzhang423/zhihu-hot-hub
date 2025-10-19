@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-10-20 06:22:26 +0800`
+`更新时间：2025-10-20 07:21:48 +0800`
 
 ## 热门搜索
 
@@ -20,7 +20,6 @@
 1. [红山动物园为大猩猩征名](https://www.zhihu.com/search?q=%E7%BA%A2%E5%B1%B1%E5%8A%A8%E7%89%A9%E5%9B%AD%E4%B8%BA%E5%A4%A7%E7%8C%A9%E7%8C%A9%E5%BE%81%E5%90%8D)
 1. [《再见爱人 第五季》第一期](https://www.zhihu.com/search?q=%E3%80%8A%E5%86%8D%E8%A7%81%E7%88%B1%E4%BA%BA%20%E7%AC%AC%E4%BA%94%E5%AD%A3%E3%80%8B%E7%AC%AC%E4%B8%80%E6%9C%9F)
 1. [固态电池新突破：新能源车续航有望翻倍](https://www.zhihu.com/search?q=%E5%9B%BA%E6%80%81%E7%94%B5%E6%B1%A0%E6%96%B0%E7%AA%81%E7%A0%B4%EF%BC%9A%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E7%BB%AD%E8%88%AA%E6%9C%89%E6%9C%9B%E7%BF%BB%E5%80%8D)
-1. [网传高校副教授未过考核转岗保安](https://www.zhihu.com/search?q=%E7%BD%91%E4%BC%A0%E9%AB%98%E6%A0%A1%E5%89%AF%E6%95%99%E6%8E%88%E6%9C%AA%E8%BF%87%E8%80%83%E6%A0%B8%E8%BD%AC%E5%B2%97%E4%BF%9D%E5%AE%89)
 1. [何炅自曝精力大不如前](https://www.zhihu.com/search?q=%E4%BD%95%E7%82%85%E8%87%AA%E6%9B%9D%E7%B2%BE%E5%8A%9B%E5%A4%A7%E4%B8%8D%E5%A6%82%E5%89%8D)
 1. [高速服务区现「野人小孩」](https://www.zhihu.com/search?q=%E9%AB%98%E9%80%9F%E6%9C%8D%E5%8A%A1%E5%8C%BA%E7%8E%B0%E3%80%8C%E9%87%8E%E4%BA%BA%E5%B0%8F%E5%AD%A9%E3%80%8D)
 1. [何美延梁淞回应家暴事件](https://www.zhihu.com/search?q=%E4%BD%95%E7%BE%8E%E5%BB%B6%E6%A2%81%E6%B7%9E%E5%9B%9E%E5%BA%94%E5%AE%B6%E6%9A%B4%E4%BA%8B%E4%BB%B6)
@@ -33,6 +32,7 @@
 1. [deepmind发布27b单细胞模型](https://www.zhihu.com/search?q=deepmind%E5%8F%91%E5%B8%8327b%E5%8D%95%E7%BB%86%E8%83%9E%E6%A8%A1%E5%9E%8B)
 1. [《喜人奇妙夜》第二季第四期](https://www.zhihu.com/search?q=%E3%80%8A%E5%96%9C%E4%BA%BA%E5%A5%87%E5%A6%99%E5%A4%9C%E3%80%8B%E7%AC%AC%E4%BA%8C%E5%AD%A3%E7%AC%AC%E5%9B%9B%E6%9C%9F)
 1. [KT 2:0 TES](https://www.zhihu.com/search?q=KT%202%3A0%20TES)
+1. [云南这家幼儿园的「泥土味」自然课火](https://www.zhihu.com/search?q=%E4%BA%91%E5%8D%97%E8%BF%99%E5%AE%B6%E5%B9%BC%E5%84%BF%E5%9B%AD%E7%9A%84%E3%80%8C%E6%B3%A5%E5%9C%9F%E5%91%B3%E3%80%8D%E8%87%AA%E7%84%B6%E8%AF%BE%E7%81%AB)
 1. [大脑功能或60岁时达巅峰](https://www.zhihu.com/search?q=%E5%A4%A7%E8%84%91%E5%8A%9F%E8%83%BD%E6%88%9660%E5%B2%81%E6%97%B6%E8%BE%BE%E5%B7%85%E5%B3%B0)
 1. [500平住宅装20多台空调](https://www.zhihu.com/search?q=500%E5%B9%B3%E4%BD%8F%E5%AE%85%E8%A3%8520%E5%A4%9A%E5%8F%B0%E7%A9%BA%E8%B0%83)
 1. [白银连续上涨3%](https://www.zhihu.com/search?q=%E7%99%BD%E9%93%B6%E8%BF%9E%E7%BB%AD%E4%B8%8A%E6%B6%A83%25)
