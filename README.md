@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-10-20 19:22:05 +0800`
+`更新时间：2025-10-20 20:53:31 +0800`
 
 ## 热门搜索
 
-1. [法国一年内被三次下调信用评级](https://www.zhihu.com/search?q=%E6%B3%95%E5%9B%BD%E4%B8%80%E5%B9%B4%E5%86%85%E8%A2%AB%E4%B8%89%E6%AC%A1%E4%B8%8B%E8%B0%83%E4%BF%A1%E7%94%A8%E8%AF%84%E7%BA%A7)
+1. [英超双红会](https://www.zhihu.com/search?q=%E8%8B%B1%E8%B6%85%E5%8F%8C%E7%BA%A2%E4%BC%9A)
+1. [考研倒计时](https://www.zhihu.com/search?q=%E8%80%83%E7%A0%94%E5%80%92%E8%AE%A1%E6%97%B6)
 1. [为什么有些人的预判能力这么强](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E4%BA%9B%E4%BA%BA%E7%9A%84%E9%A2%84%E5%88%A4%E8%83%BD%E5%8A%9B%E8%BF%99%E4%B9%88%E5%BC%BA)
 1. [利物浦vs曼联](https://www.zhihu.com/search?q=%E5%88%A9%E7%89%A9%E6%B5%A6vs%E6%9B%BC%E8%81%94)
 1. [常年独居的人靠什么抵抗孤独](https://www.zhihu.com/search?q=%E5%B8%B8%E5%B9%B4%E7%8B%AC%E5%B1%85%E7%9A%84%E4%BA%BA%E9%9D%A0%E4%BB%80%E4%B9%88%E6%8A%B5%E6%8A%97%E5%AD%A4%E7%8B%AC)
