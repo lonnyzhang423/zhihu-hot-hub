@@ -11,10 +11,15 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-10-20 10:03:42 +0800`
+`更新时间：2025-10-20 11:50:57 +0800`
 
 ## 热门搜索
 
+1. [南京野猪为什么如此泛滥](https://www.zhihu.com/search?q=%E5%8D%97%E4%BA%AC%E9%87%8E%E7%8C%AA%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A6%82%E6%AD%A4%E6%B3%9B%E6%BB%A5)
+1. [你去过最离谱的景区是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E5%8E%BB%E8%BF%87%E6%9C%80%E7%A6%BB%E8%B0%B1%E7%9A%84%E6%99%AF%E5%8C%BA%E6%98%AF%E4%BB%80%E4%B9%88)
+1. [有哪些信、达、不雅的翻译](https://www.zhihu.com/search?q=%E6%9C%89%E5%93%AA%E4%BA%9B%E4%BF%A1%E3%80%81%E8%BE%BE%E3%80%81%E4%B8%8D%E9%9B%85%E7%9A%84%E7%BF%BB%E8%AF%91)
+1. [你见过最不会点菜的人是什么样子的](https://www.zhihu.com/search?q=%E4%BD%A0%E8%A7%81%E8%BF%87%E6%9C%80%E4%B8%8D%E4%BC%9A%E7%82%B9%E8%8F%9C%E7%9A%84%E4%BA%BA%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7%E5%AD%90%E7%9A%84)
+1. [为什么杂鱼这个词在日本很有攻击力](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9D%82%E9%B1%BC%E8%BF%99%E4%B8%AA%E8%AF%8D%E5%9C%A8%E6%97%A5%E6%9C%AC%E5%BE%88%E6%9C%89%E6%94%BB%E5%87%BB%E5%8A%9B)
 1. [苏超半决赛](https://www.zhihu.com/search?q=%E8%8B%8F%E8%B6%85%E5%8D%8A%E5%86%B3%E8%B5%9B)
 1. [闻泰科技147亿半导体资产被荷兰冻结](https://www.zhihu.com/search?q=%E9%97%BB%E6%B3%B0%E7%A7%91%E6%8A%80147%E4%BA%BF%E5%8D%8A%E5%AF%BC%E4%BD%93%E8%B5%84%E4%BA%A7%E8%A2%AB%E8%8D%B7%E5%85%B0%E5%86%BB%E7%BB%93)
 1. [红山动物园为大猩猩征名](https://www.zhihu.com/search?q=%E7%BA%A2%E5%B1%B1%E5%8A%A8%E7%89%A9%E5%9B%AD%E4%B8%BA%E5%A4%A7%E7%8C%A9%E7%8C%A9%E5%BE%81%E5%90%8D)
@@ -32,18 +37,13 @@
 1. [李飞飞发布全新世界模型](https://www.zhihu.com/search?q=%E6%9D%8E%E9%A3%9E%E9%A3%9E%E5%8F%91%E5%B8%83%E5%85%A8%E6%96%B0%E4%B8%96%E7%95%8C%E6%A8%A1%E5%9E%8B)
 1. [deepmind发布27b单细胞模型](https://www.zhihu.com/search?q=deepmind%E5%8F%91%E5%B8%8327b%E5%8D%95%E7%BB%86%E8%83%9E%E6%A8%A1%E5%9E%8B)
 1. [《喜人奇妙夜》第二季第四期](https://www.zhihu.com/search?q=%E3%80%8A%E5%96%9C%E4%BA%BA%E5%A5%87%E5%A6%99%E5%A4%9C%E3%80%8B%E7%AC%AC%E4%BA%8C%E5%AD%A3%E7%AC%AC%E5%9B%9B%E6%9C%9F)
-1. [KT 2:0 TES](https://www.zhihu.com/search?q=KT%202%3A0%20TES)
 1. [云南这家幼儿园的「泥土味」自然课火](https://www.zhihu.com/search?q=%E4%BA%91%E5%8D%97%E8%BF%99%E5%AE%B6%E5%B9%BC%E5%84%BF%E5%9B%AD%E7%9A%84%E3%80%8C%E6%B3%A5%E5%9C%9F%E5%91%B3%E3%80%8D%E8%87%AA%E7%84%B6%E8%AF%BE%E7%81%AB)
 1. [大脑功能或60岁时达巅峰](https://www.zhihu.com/search?q=%E5%A4%A7%E8%84%91%E5%8A%9F%E8%83%BD%E6%88%9660%E5%B2%81%E6%97%B6%E8%BE%BE%E5%B7%85%E5%B3%B0)
 1. [500平住宅装20多台空调](https://www.zhihu.com/search?q=500%E5%B9%B3%E4%BD%8F%E5%AE%85%E8%A3%8520%E5%A4%9A%E5%8F%B0%E7%A9%BA%E8%B0%83)
 1. [白银连续上涨3%](https://www.zhihu.com/search?q=%E7%99%BD%E9%93%B6%E8%BF%9E%E7%BB%AD%E4%B8%8A%E6%B6%A83%25)
 1. [刘宇坤全运会超世界纪录](https://www.zhihu.com/search?q=%E5%88%98%E5%AE%87%E5%9D%A4%E5%85%A8%E8%BF%90%E4%BC%9A%E8%B6%85%E4%B8%96%E7%95%8C%E7%BA%AA%E5%BD%95)
+1. [干部痴迷翻翻鸽4年受贿95只](https://www.zhihu.com/search?q=%E5%B9%B2%E9%83%A8%E7%97%B4%E8%BF%B7%E7%BF%BB%E7%BF%BB%E9%B8%BD4%E5%B9%B4%E5%8F%97%E8%B4%BF95%E5%8F%AA)
 1. [蒙牛包装撞脸伊利被判赔500万](https://www.zhihu.com/search?q=%E8%92%99%E7%89%9B%E5%8C%85%E8%A3%85%E6%92%9E%E8%84%B8%E4%BC%8A%E5%88%A9%E8%A2%AB%E5%88%A4%E8%B5%94500%E4%B8%87)
-1. [汽车破窗锤悄然走俏](https://www.zhihu.com/search?q=%E6%B1%BD%E8%BD%A6%E7%A0%B4%E7%AA%97%E9%94%A4%E6%82%84%E7%84%B6%E8%B5%B0%E4%BF%8F)
-1. [人造肌肉举起四千倍自重物体](https://www.zhihu.com/search?q=%E4%BA%BA%E9%80%A0%E8%82%8C%E8%82%89%E4%B8%BE%E8%B5%B7%E5%9B%9B%E5%8D%83%E5%80%8D%E8%87%AA%E9%87%8D%E7%89%A9%E4%BD%93)
-1. [刘奕畅被曝酒后围殴他人](https://www.zhihu.com/search?q=%E5%88%98%E5%A5%95%E7%95%85%E8%A2%AB%E6%9B%9D%E9%85%92%E5%90%8E%E5%9B%B4%E6%AE%B4%E4%BB%96%E4%BA%BA)
-1. [寒武纪第三季度业绩暴增净利润5.67亿](https://www.zhihu.com/search?q=%E5%AF%92%E6%AD%A6%E7%BA%AA%E7%AC%AC%E4%B8%89%E5%AD%A3%E5%BA%A6%E4%B8%9A%E7%BB%A9%E6%9A%B4%E5%A2%9E%E5%87%80%E5%88%A9%E6%B6%A65.67%E4%BA%BF)
-1. [1个农夫山泉约等于23个华润饮料](https://www.zhihu.com/search?q=1%E4%B8%AA%E5%86%9C%E5%A4%AB%E5%B1%B1%E6%B3%89%E7%BA%A6%E7%AD%89%E4%BA%8E23%E4%B8%AA%E5%8D%8E%E6%B6%A6%E9%A5%AE%E6%96%99)
 
 ## 热门话题
 
