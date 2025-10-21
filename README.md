@@ -11,12 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-10-21 09:57:11 +0800`
+`更新时间：2025-10-21 11:11:17 +0800`
 
 ## 热门搜索
 
-1. [blg不敌g2](https://www.zhihu.com/search?q=blg%E4%B8%8D%E6%95%8Cg2)
-1. [公牛官宣裁掉河村勇辉](https://www.zhihu.com/search?q=%E5%85%AC%E7%89%9B%E5%AE%98%E5%AE%A3%E8%A3%81%E6%8E%89%E6%B2%B3%E6%9D%91%E5%8B%87%E8%BE%89)
+1. [英超双红会](https://www.zhihu.com/search?q=%E8%8B%B1%E8%B6%85%E5%8F%8C%E7%BA%A2%E4%BC%9A)
 1. [考研倒计时](https://www.zhihu.com/search?q=%E8%80%83%E7%A0%94%E5%80%92%E8%AE%A1%E6%97%B6)
 1. [为什么有些人的预判能力这么强](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E4%BA%9B%E4%BA%BA%E7%9A%84%E9%A2%84%E5%88%A4%E8%83%BD%E5%8A%9B%E8%BF%99%E4%B9%88%E5%BC%BA)
 1. [利物浦vs曼联](https://www.zhihu.com/search?q=%E5%88%A9%E7%89%A9%E6%B5%A6vs%E6%9B%BC%E8%81%94)
