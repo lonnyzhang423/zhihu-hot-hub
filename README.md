@@ -11,12 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-10-21 19:20:55 +0800`
+`更新时间：2025-10-21 20:55:06 +0800`
 
 ## 热门搜索
 
-1. [英超双红会](https://www.zhihu.com/search?q=%E8%8B%B1%E8%B6%85%E5%8F%8C%E7%BA%A2%E4%BC%9A)
-1. [A股](https://www.zhihu.com/search?q=A%E8%82%A1)
+1. [陈震首次还原撞车事件](https://www.zhihu.com/search?q=%E9%99%88%E9%9C%87%E9%A6%96%E6%AC%A1%E8%BF%98%E5%8E%9F%E6%92%9E%E8%BD%A6%E4%BA%8B%E4%BB%B6)
 1. [蔚来李斌内部讲话流出](https://www.zhihu.com/search?q=%E8%94%9A%E6%9D%A5%E6%9D%8E%E6%96%8C%E5%86%85%E9%83%A8%E8%AE%B2%E8%AF%9D%E6%B5%81%E5%87%BA)
 1. [为什么有些人的预判能力这么强](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E4%BA%9B%E4%BA%BA%E7%9A%84%E9%A2%84%E5%88%A4%E8%83%BD%E5%8A%9B%E8%BF%99%E4%B9%88%E5%BC%BA)
 1. [利物浦vs曼联](https://www.zhihu.com/search?q=%E5%88%A9%E7%89%A9%E6%B5%A6vs%E6%9B%BC%E8%81%94)
