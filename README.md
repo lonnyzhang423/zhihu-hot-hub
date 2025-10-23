@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-10-23 17:27:53 +0800`
+`更新时间：2025-10-23 18:28:15 +0800`
 
 ## 热门搜索
 
-1. [蔚来李斌内部讲话流出](https://www.zhihu.com/search?q=%E8%94%9A%E6%9D%A5%E6%9D%8E%E6%96%8C%E5%86%85%E9%83%A8%E8%AE%B2%E8%AF%9D%E6%B5%81%E5%87%BA)
+1. [双11购物金充值已修复](https://www.zhihu.com/search?q=%E5%8F%8C11%E8%B4%AD%E7%89%A9%E9%87%91%E5%85%85%E5%80%BC%E5%B7%B2%E4%BF%AE%E5%A4%8D)
+1. [大家觉得青海西宁好玩吗](https://www.zhihu.com/search?q=%E5%A4%A7%E5%AE%B6%E8%A7%89%E5%BE%97%E9%9D%92%E6%B5%B7%E8%A5%BF%E5%AE%81%E5%A5%BD%E7%8E%A9%E5%90%97)
 1. [什么叫中国人的浪漫](https://www.zhihu.com/search?q=%E4%BB%80%E4%B9%88%E5%8F%AB%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E6%B5%AA%E6%BC%AB)
 1. [被查房时怎么证明是情侣关系](https://www.zhihu.com/search?q=%E8%A2%AB%E6%9F%A5%E6%88%BF%E6%97%B6%E6%80%8E%E4%B9%88%E8%AF%81%E6%98%8E%E6%98%AF%E6%83%85%E4%BE%A3%E5%85%B3%E7%B3%BB)
 1. [为什么现在不创造新的汉字了](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E4%B8%8D%E5%88%9B%E9%80%A0%E6%96%B0%E7%9A%84%E6%B1%89%E5%AD%97%E4%BA%86)
