@@ -11,17 +11,18 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-10-23 20:55:00 +0800`
+`更新时间：2025-10-23 21:36:40 +0800`
 
 ## 热门搜索
 
-1. [今日霜降](https://www.zhihu.com/search?q=%E4%BB%8A%E6%97%A5%E9%9C%9C%E9%99%8D)
-1. [蔚来李斌内部讲话流出](https://www.zhihu.com/search?q=%E8%94%9A%E6%9D%A5%E6%9D%8E%E6%96%8C%E5%86%85%E9%83%A8%E8%AE%B2%E8%AF%9D%E6%B5%81%E5%87%BA)
+1. [如何评价「AI 就是美国的城投」](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E3%80%8CAI%20%E5%B0%B1%E6%98%AF%E7%BE%8E%E5%9B%BD%E7%9A%84%E5%9F%8E%E6%8A%95%E3%80%8D)
+1. [大家觉得青海西宁好玩吗](https://www.zhihu.com/search?q=%E5%A4%A7%E5%AE%B6%E8%A7%89%E5%BE%97%E9%9D%92%E6%B5%B7%E8%A5%BF%E5%AE%81%E5%A5%BD%E7%8E%A9%E5%90%97)
 1. [什么叫中国人的浪漫](https://www.zhihu.com/search?q=%E4%BB%80%E4%B9%88%E5%8F%AB%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E6%B5%AA%E6%BC%AB)
 1. [被查房时怎么证明是情侣关系](https://www.zhihu.com/search?q=%E8%A2%AB%E6%9F%A5%E6%88%BF%E6%97%B6%E6%80%8E%E4%B9%88%E8%AF%81%E6%98%8E%E6%98%AF%E6%83%85%E4%BE%A3%E5%85%B3%E7%B3%BB)
 1. [沪深两市成交额突破5000亿](https://www.zhihu.com/search?q=%E6%B2%AA%E6%B7%B1%E4%B8%A4%E5%B8%82%E6%88%90%E4%BA%A4%E9%A2%9D%E7%AA%81%E7%A0%B45000%E4%BA%BF)
 1. [中国有多少城市能撑起来七日游](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E6%9C%89%E5%A4%9A%E5%B0%91%E5%9F%8E%E5%B8%82%E8%83%BD%E6%92%91%E8%B5%B7%E6%9D%A5%E4%B8%83%E6%97%A5%E6%B8%B8)
 1. [为什么现在不创造新的汉字了](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E4%B8%8D%E5%88%9B%E9%80%A0%E6%96%B0%E7%9A%84%E6%B1%89%E5%AD%97%E4%BA%86)
+1. [GEN对战TES](https://www.zhihu.com/search?q=GEN%E5%AF%B9%E6%88%98TES)
 1. [王源演唱会](https://www.zhihu.com/search?q=%E7%8E%8B%E6%BA%90%E6%BC%94%E5%94%B1%E4%BC%9A)
 1. [杨和苏 Asen](https://www.zhihu.com/search?q=%E6%9D%A8%E5%92%8C%E8%8B%8F%20Asen)
 1. [常年独居的人靠什么抵抗孤独](https://www.zhihu.com/search?q=%E5%B8%B8%E5%B9%B4%E7%8B%AC%E5%B1%85%E7%9A%84%E4%BA%BA%E9%9D%A0%E4%BB%80%E4%B9%88%E6%8A%B5%E6%8A%97%E5%AD%A4%E7%8B%AC)
@@ -42,7 +43,6 @@
 1. [你见过最不会点菜的人是什么样子的](https://www.zhihu.com/search?q=%E4%BD%A0%E8%A7%81%E8%BF%87%E6%9C%80%E4%B8%8D%E4%BC%9A%E7%82%B9%E8%8F%9C%E7%9A%84%E4%BA%BA%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7%E5%AD%90%E7%9A%84)
 1. [周末你允许孩子睡懒觉吗](https://www.zhihu.com/search?q=%E5%91%A8%E6%9C%AB%E4%BD%A0%E5%85%81%E8%AE%B8%E5%AD%A9%E5%AD%90%E7%9D%A1%E6%87%92%E8%A7%89%E5%90%97)
 1. [大家提升自己最快的方式是什么](https://www.zhihu.com/search?q=%E5%A4%A7%E5%AE%B6%E6%8F%90%E5%8D%87%E8%87%AA%E5%B7%B1%E6%9C%80%E5%BF%AB%E7%9A%84%E6%96%B9%E5%BC%8F%E6%98%AF%E4%BB%80%E4%B9%88)
-1. [鸿蒙新版本好不好用](https://www.zhihu.com/search?q=%E9%B8%BF%E8%92%99%E6%96%B0%E7%89%88%E6%9C%AC%E5%A5%BD%E4%B8%8D%E5%A5%BD%E7%94%A8)
 
 ## 热门话题
 
