@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-10-24 19:10:48 +0800`
+`更新时间：2025-10-24 20:24:37 +0800`
 
 ## 热门搜索
 
-1. [今日霜降](https://www.zhihu.com/search?q=%E4%BB%8A%E6%97%A5%E9%9C%9C%E9%99%8D)
-1. [你对什么食物是无法接受的](https://www.zhihu.com/search?q=%E4%BD%A0%E5%AF%B9%E4%BB%80%E4%B9%88%E9%A3%9F%E7%89%A9%E6%98%AF%E6%97%A0%E6%B3%95%E6%8E%A5%E5%8F%97%E7%9A%84)
+1. [药物残留最多的蔬菜有哪些](https://www.zhihu.com/search?q=%E8%8D%AF%E7%89%A9%E6%AE%8B%E7%95%99%E6%9C%80%E5%A4%9A%E7%9A%84%E8%94%AC%E8%8F%9C%E6%9C%89%E5%93%AA%E4%BA%9B)
+1. [宇树四足机器人实训平台发布](https://www.zhihu.com/search?q=%E5%AE%87%E6%A0%91%E5%9B%9B%E8%B6%B3%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AE%9E%E8%AE%AD%E5%B9%B3%E5%8F%B0%E5%8F%91%E5%B8%83)
 1. [什么叫中国人的浪漫](https://www.zhihu.com/search?q=%E4%BB%80%E4%B9%88%E5%8F%AB%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E6%B5%AA%E6%BC%AB)
 1. [被查房时怎么证明是情侣关系](https://www.zhihu.com/search?q=%E8%A2%AB%E6%9F%A5%E6%88%BF%E6%97%B6%E6%80%8E%E4%B9%88%E8%AF%81%E6%98%8E%E6%98%AF%E6%83%85%E4%BE%A3%E5%85%B3%E7%B3%BB)
 1. [沪深两市成交额突破5000亿](https://www.zhihu.com/search?q=%E6%B2%AA%E6%B7%B1%E4%B8%A4%E5%B8%82%E6%88%90%E4%BA%A4%E9%A2%9D%E7%AA%81%E7%A0%B45000%E4%BA%BF)
