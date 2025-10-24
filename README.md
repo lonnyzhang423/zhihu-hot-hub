@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-10-24 18:28:42 +0800`
+`更新时间：2025-10-24 19:22:15 +0800`
 
 ## 热门搜索
 
 1. [今日霜降](https://www.zhihu.com/search?q=%E4%BB%8A%E6%97%A5%E9%9C%9C%E9%99%8D)
+1. [你对什么食物是无法接受的](https://www.zhihu.com/search?q=%E4%BD%A0%E5%AF%B9%E4%BB%80%E4%B9%88%E9%A3%9F%E7%89%A9%E6%98%AF%E6%97%A0%E6%B3%95%E6%8E%A5%E5%8F%97%E7%9A%84)
 1. [什么叫中国人的浪漫](https://www.zhihu.com/search?q=%E4%BB%80%E4%B9%88%E5%8F%AB%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%9A%84%E6%B5%AA%E6%BC%AB)
 1. [被查房时怎么证明是情侣关系](https://www.zhihu.com/search?q=%E8%A2%AB%E6%9F%A5%E6%88%BF%E6%97%B6%E6%80%8E%E4%B9%88%E8%AF%81%E6%98%8E%E6%98%AF%E6%83%85%E4%BE%A3%E5%85%B3%E7%B3%BB)
 1. [沪深两市成交额突破5000亿](https://www.zhihu.com/search?q=%E6%B2%AA%E6%B7%B1%E4%B8%A4%E5%B8%82%E6%88%90%E4%BA%A4%E9%A2%9D%E7%AA%81%E7%A0%B45000%E4%BA%BF)
@@ -43,7 +44,6 @@
 1. [美国情报系统现在属于什么水平](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E6%83%85%E6%8A%A5%E7%B3%BB%E7%BB%9F%E7%8E%B0%E5%9C%A8%E5%B1%9E%E4%BA%8E%E4%BB%80%E4%B9%88%E6%B0%B4%E5%B9%B3)
 1. [最近一次开怀大笑是因为什么](https://www.zhihu.com/search?q=%E6%9C%80%E8%BF%91%E4%B8%80%E6%AC%A1%E5%BC%80%E6%80%80%E5%A4%A7%E7%AC%91%E6%98%AF%E5%9B%A0%E4%B8%BA%E4%BB%80%E4%B9%88)
 1. [为什么年轻人反感老一辈的说教](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%8F%8D%E6%84%9F%E8%80%81%E4%B8%80%E8%BE%88%E7%9A%84%E8%AF%B4%E6%95%99)
-1. [旅行后你对哪个城市祛魅了](https://www.zhihu.com/search?q=%E6%97%85%E8%A1%8C%E5%90%8E%E4%BD%A0%E5%AF%B9%E5%93%AA%E4%B8%AA%E5%9F%8E%E5%B8%82%E7%A5%9B%E9%AD%85%E4%BA%86)
 
 ## 热门话题
 
