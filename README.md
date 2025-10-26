@@ -11,13 +11,14 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-10-27 01:20:10 +0800`
+`更新时间：2025-10-27 02:33:33 +0800`
 
 ## 热门搜索
 
-1. [日本地震](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87)
-1. [Bin](https://www.zhihu.com/search?q=Bin)
+1. [BLG 不敌 TES 无缘八强赛](https://www.zhihu.com/search?q=BLG%20%E4%B8%8D%E6%95%8C%20TES%20%E6%97%A0%E7%BC%98%E5%85%AB%E5%BC%BA%E8%B5%9B)
+1. [价值 1 万多衣服被邻居老人 9 块卖了](https://www.zhihu.com/search?q=%E4%BB%B7%E5%80%BC%201%20%E4%B8%87%E5%A4%9A%E8%A1%A3%E6%9C%8D%E8%A2%AB%E9%82%BB%E5%B1%85%E8%80%81%E4%BA%BA%209%20%E5%9D%97%E5%8D%96%E4%BA%86)
 1. [闻泰科技147亿半导体资产被荷兰冻结](https://www.zhihu.com/search?q=%E9%97%BB%E6%B3%B0%E7%A7%91%E6%8A%80147%E4%BA%BF%E5%8D%8A%E5%AF%BC%E4%BD%93%E8%B5%84%E4%BA%A7%E8%A2%AB%E8%8D%B7%E5%85%B0%E5%86%BB%E7%BB%93)
+1. [日本地震](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87)
 1. [王自如自曝负债 1 个亿](https://www.zhihu.com/search?q=%E7%8E%8B%E8%87%AA%E5%A6%82%E8%87%AA%E6%9B%9D%E8%B4%9F%E5%80%BA%201%20%E4%B8%AA%E4%BA%BF)
 1. [CS2更新](https://www.zhihu.com/search?q=CS2%E6%9B%B4%E6%96%B0)
 1. [我国成功研制出新型芯片](https://www.zhihu.com/search?q=%E6%88%91%E5%9B%BD%E6%88%90%E5%8A%9F%E7%A0%94%E5%88%B6%E5%87%BA%E6%96%B0%E5%9E%8B%E8%8A%AF%E7%89%87)
@@ -28,7 +29,7 @@
 1. [《喜人奇妙夜》第二季第五期](https://www.zhihu.com/search?q=%E3%80%8A%E5%96%9C%E4%BA%BA%E5%A5%87%E5%A6%99%E5%A4%9C%E3%80%8B%E7%AC%AC%E4%BA%8C%E5%AD%A3%E7%AC%AC%E4%BA%94%E6%9C%9F)
 1. [导演金性洙称韩国电影没人拍了](https://www.zhihu.com/search?q=%E5%AF%BC%E6%BC%94%E9%87%91%E6%80%A7%E6%B4%99%E7%A7%B0%E9%9F%A9%E5%9B%BD%E7%94%B5%E5%BD%B1%E6%B2%A1%E4%BA%BA%E6%8B%8D%E4%BA%86)
 1. [可偷甘蔗地成打卡点](https://www.zhihu.com/search?q=%E5%8F%AF%E5%81%B7%E7%94%98%E8%94%97%E5%9C%B0%E6%88%90%E6%89%93%E5%8D%A1%E7%82%B9)
-1. [六大AI模型上演投资对决](https://www.zhihu.com/search?q=%E5%85%AD%E5%A4%A7AI%E6%A8%A1%E5%9E%8B%E4%B8%8A%E6%BC%94%E6%8A%95%E8%B5%84%E5%AF%B9%E5%86%B3)
+1. [18 岁少年鳌太线失联超 10 天](https://www.zhihu.com/search?q=18%20%E5%B2%81%E5%B0%91%E5%B9%B4%E9%B3%8C%E5%A4%AA%E7%BA%BF%E5%A4%B1%E8%81%94%E8%B6%85%2010%20%E5%A4%A9)
 1. [十五五目标](https://www.zhihu.com/search?q=%E5%8D%81%E4%BA%94%E4%BA%94%E7%9B%AE%E6%A0%87)
 1. [严禁将手机等电子产品带进课堂](https://www.zhihu.com/search?q=%E4%B8%A5%E7%A6%81%E5%B0%86%E6%89%8B%E6%9C%BA%E7%AD%89%E7%94%B5%E5%AD%90%E4%BA%A7%E5%93%81%E5%B8%A6%E8%BF%9B%E8%AF%BE%E5%A0%82)
 1. [再见爱人第五季第2期](https://www.zhihu.com/search?q=%E5%86%8D%E8%A7%81%E7%88%B1%E4%BA%BA%E7%AC%AC%E4%BA%94%E5%AD%A3%E7%AC%AC2%E6%9C%9F)
