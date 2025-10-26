@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-10-26 19:19:03 +0800`
+`更新时间：2025-10-26 20:47:56 +0800`
 
 ## 热门搜索
 
@@ -41,7 +41,6 @@
 1. [为什么只有在中国玉石才值钱](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%AA%E6%9C%89%E5%9C%A8%E4%B8%AD%E5%9B%BD%E7%8E%89%E7%9F%B3%E6%89%8D%E5%80%BC%E9%92%B1)
 1. [看完南昌的海昏侯你有什么感觉](https://www.zhihu.com/search?q=%E7%9C%8B%E5%AE%8C%E5%8D%97%E6%98%8C%E7%9A%84%E6%B5%B7%E6%98%8F%E4%BE%AF%E4%BD%A0%E6%9C%89%E4%BB%80%E4%B9%88%E6%84%9F%E8%A7%89)
 1. [最支持我们中国的国家是哪国](https://www.zhihu.com/search?q=%E6%9C%80%E6%94%AF%E6%8C%81%E6%88%91%E4%BB%AC%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%9B%BD%E5%AE%B6%E6%98%AF%E5%93%AA%E5%9B%BD)
-1. [如何评价歼50战斗机](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E6%AD%BC50%E6%88%98%E6%96%97%E6%9C%BA)
 
 ## 热门话题
 
