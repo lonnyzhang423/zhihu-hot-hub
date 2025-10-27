@@ -11,12 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-10-27 22:26:57 +0800`
+`更新时间：2025-10-27 23:26:45 +0800`
 
 ## 热门搜索
 
-1. [阿斯顿维拉1比0曼城](https://www.zhihu.com/search?q=%E9%98%BF%E6%96%AF%E9%A1%BF%E7%BB%B4%E6%8B%891%E6%AF%940%E6%9B%BC%E5%9F%8E)
-1. [照骗能骗到什么程度](https://www.zhihu.com/search?q=%E7%85%A7%E9%AA%97%E8%83%BD%E9%AA%97%E5%88%B0%E4%BB%80%E4%B9%88%E7%A8%8B%E5%BA%A6)
+1. [黄金什么时候会大跌](https://www.zhihu.com/search?q=%E9%BB%84%E9%87%91%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E4%BC%9A%E5%A4%A7%E8%B7%8C)
 1. [皇马vs巴萨](https://www.zhihu.com/search?q=%E7%9A%87%E9%A9%ACvs%E5%B7%B4%E8%90%A8)
 1. [常年独居的人靠什么抵抗孤独](https://www.zhihu.com/search?q=%E5%B8%B8%E5%B9%B4%E7%8B%AC%E5%B1%85%E7%9A%84%E4%BA%BA%E9%9D%A0%E4%BB%80%E4%B9%88%E6%8A%B5%E6%8A%97%E5%AD%A4%E7%8B%AC)
 1. [你有什么解压的小众爱好](https://www.zhihu.com/search?q=%E4%BD%A0%E6%9C%89%E4%BB%80%E4%B9%88%E8%A7%A3%E5%8E%8B%E7%9A%84%E5%B0%8F%E4%BC%97%E7%88%B1%E5%A5%BD)
