@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-10-27 11:54:24 +0800`
+`更新时间：2025-10-27 12:35:15 +0800`
 
 ## 热门搜索
 
@@ -29,6 +29,7 @@
 1. [导演金性洙称韩国电影没人拍了](https://www.zhihu.com/search?q=%E5%AF%BC%E6%BC%94%E9%87%91%E6%80%A7%E6%B4%99%E7%A7%B0%E9%9F%A9%E5%9B%BD%E7%94%B5%E5%BD%B1%E6%B2%A1%E4%BA%BA%E6%8B%8D%E4%BA%86)
 1. [可偷甘蔗地成打卡点](https://www.zhihu.com/search?q=%E5%8F%AF%E5%81%B7%E7%94%98%E8%94%97%E5%9C%B0%E6%88%90%E6%89%93%E5%8D%A1%E7%82%B9)
 1. [六大AI模型上演投资对决](https://www.zhihu.com/search?q=%E5%85%AD%E5%A4%A7AI%E6%A8%A1%E5%9E%8B%E4%B8%8A%E6%BC%94%E6%8A%95%E8%B5%84%E5%AF%B9%E5%86%B3)
+1. [阿里通义千问拿下爱彼迎](https://www.zhihu.com/search?q=%E9%98%BF%E9%87%8C%E9%80%9A%E4%B9%89%E5%8D%83%E9%97%AE%E6%8B%BF%E4%B8%8B%E7%88%B1%E5%BD%BC%E8%BF%8E)
 1. [十五五目标](https://www.zhihu.com/search?q=%E5%8D%81%E4%BA%94%E4%BA%94%E7%9B%AE%E6%A0%87)
 1. [严禁将手机等电子产品带进课堂](https://www.zhihu.com/search?q=%E4%B8%A5%E7%A6%81%E5%B0%86%E6%89%8B%E6%9C%BA%E7%AD%89%E7%94%B5%E5%AD%90%E4%BA%A7%E5%93%81%E5%B8%A6%E8%BF%9B%E8%AF%BE%E5%A0%82)
 1. [再见爱人第五季第2期](https://www.zhihu.com/search?q=%E5%86%8D%E8%A7%81%E7%88%B1%E4%BA%BA%E7%AC%AC%E4%BA%94%E5%AD%A3%E7%AC%AC2%E6%9C%9F)
