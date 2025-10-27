@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-10-27 12:22:31 +0800`
+`更新时间：2025-10-27 13:13:33 +0800`
 
 ## 热门搜索
 
@@ -20,9 +20,7 @@
 1. [有什么震惊了你的名言](https://www.zhihu.com/search?q=%E6%9C%89%E4%BB%80%E4%B9%88%E9%9C%87%E6%83%8A%E4%BA%86%E4%BD%A0%E7%9A%84%E5%90%8D%E8%A8%80)
 1. [如何看待途虎这家公司](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E9%80%94%E8%99%8E%E8%BF%99%E5%AE%B6%E5%85%AC%E5%8F%B8)
 1. [王自如自曝负债 1 个亿](https://www.zhihu.com/search?q=%E7%8E%8B%E8%87%AA%E5%A6%82%E8%87%AA%E6%9B%9D%E8%B4%9F%E5%80%BA%201%20%E4%B8%AA%E4%BA%BF)
-1. [CS2更新](https://www.zhihu.com/search?q=CS2%E6%9B%B4%E6%96%B0)
 1. [我国成功研制出新型芯片](https://www.zhihu.com/search?q=%E6%88%91%E5%9B%BD%E6%88%90%E5%8A%9F%E7%A0%94%E5%88%B6%E5%87%BA%E6%96%B0%E5%9E%8B%E8%8A%AF%E7%89%87)
-1. [CSGO游戏更新导致游戏外市场崩溃](https://www.zhihu.com/search?q=CSGO%E6%B8%B8%E6%88%8F%E6%9B%B4%E6%96%B0%E5%AF%BC%E8%87%B4%E6%B8%B8%E6%88%8F%E5%A4%96%E5%B8%82%E5%9C%BA%E5%B4%A9%E6%BA%83)
 1. [逃离鸭科夫为何受欢迎](https://www.zhihu.com/search?q=%E9%80%83%E7%A6%BB%E9%B8%AD%E7%A7%91%E5%A4%AB%E4%B8%BA%E4%BD%95%E5%8F%97%E6%AC%A2%E8%BF%8E)
 1. [教育部：不得以考试成绩对学生进行排名](https://www.zhihu.com/search?q=%E6%95%99%E8%82%B2%E9%83%A8%EF%BC%9A%E4%B8%8D%E5%BE%97%E4%BB%A5%E8%80%83%E8%AF%95%E6%88%90%E7%BB%A9%E5%AF%B9%E5%AD%A6%E7%94%9F%E8%BF%9B%E8%A1%8C%E6%8E%92%E5%90%8D)
 1. [《喜人奇妙夜》第二季第五期](https://www.zhihu.com/search?q=%E3%80%8A%E5%96%9C%E4%BA%BA%E5%A5%87%E5%A6%99%E5%A4%9C%E3%80%8B%E7%AC%AC%E4%BA%8C%E5%AD%A3%E7%AC%AC%E4%BA%94%E6%9C%9F)
