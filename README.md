@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-10-27 17:16:53 +0800`
+`更新时间：2025-10-27 18:14:45 +0800`
 
 ## 热门搜索
 
@@ -28,13 +28,13 @@
 1. [十五五目标](https://www.zhihu.com/search?q=%E5%8D%81%E4%BA%94%E4%BA%94%E7%9B%AE%E6%A0%87)
 1. [严禁将手机等电子产品带进课堂](https://www.zhihu.com/search?q=%E4%B8%A5%E7%A6%81%E5%B0%86%E6%89%8B%E6%9C%BA%E7%AD%89%E7%94%B5%E5%AD%90%E4%BA%A7%E5%93%81%E5%B8%A6%E8%BF%9B%E8%AF%BE%E5%A0%82)
 1. [吃苦幼儿园为何能走红](https://www.zhihu.com/search?q=%E5%90%83%E8%8B%A6%E5%B9%BC%E5%84%BF%E5%9B%AD%E4%B8%BA%E4%BD%95%E8%83%BD%E8%B5%B0%E7%BA%A2)
-1. [再见爱人第五季第2期](https://www.zhihu.com/search?q=%E5%86%8D%E8%A7%81%E7%88%B1%E4%BA%BA%E7%AC%AC%E4%BA%94%E5%AD%A3%E7%AC%AC2%E6%9C%9F)
 1. [17元高铁盒饭现炒送餐到座](https://www.zhihu.com/search?q=17%E5%85%83%E9%AB%98%E9%93%81%E7%9B%92%E9%A5%AD%E7%8E%B0%E7%82%92%E9%80%81%E9%A4%90%E5%88%B0%E5%BA%A7)
 1. [自燃理想MEGA车主发律师函](https://www.zhihu.com/search?q=%E8%87%AA%E7%87%83%E7%90%86%E6%83%B3MEGA%E8%BD%A6%E4%B8%BB%E5%8F%91%E5%BE%8B%E5%B8%88%E5%87%BD)
 1. [理想自燃事故车主称后排车门无法立即开启](https://www.zhihu.com/search?q=%E7%90%86%E6%83%B3%E8%87%AA%E7%87%83%E4%BA%8B%E6%95%85%E8%BD%A6%E4%B8%BB%E7%A7%B0%E5%90%8E%E6%8E%92%E8%BD%A6%E9%97%A8%E6%97%A0%E6%B3%95%E7%AB%8B%E5%8D%B3%E5%BC%80%E5%90%AF)
 1. [全球最大万吨级纯电动运输船下水](https://www.zhihu.com/search?q=%E5%85%A8%E7%90%83%E6%9C%80%E5%A4%A7%E4%B8%87%E5%90%A8%E7%BA%A7%E7%BA%AF%E7%94%B5%E5%8A%A8%E8%BF%90%E8%BE%93%E8%88%B9%E4%B8%8B%E6%B0%B4)
 1. [现货黄金向下跌破4150美元](https://www.zhihu.com/search?q=%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E5%90%91%E4%B8%8B%E8%B7%8C%E7%A0%B44150%E7%BE%8E%E5%85%83)
 1. [科学家称外星人或已懒得理人类](https://www.zhihu.com/search?q=%E7%A7%91%E5%AD%A6%E5%AE%B6%E7%A7%B0%E5%A4%96%E6%98%9F%E4%BA%BA%E6%88%96%E5%B7%B2%E6%87%92%E5%BE%97%E7%90%86%E4%BA%BA%E7%B1%BB)
+1. [腾讯50%新增代码由ai生成](https://www.zhihu.com/search?q=%E8%85%BE%E8%AE%AF50%25%E6%96%B0%E5%A2%9E%E4%BB%A3%E7%A0%81%E7%94%B1ai%E7%94%9F%E6%88%90)
 
 ## 热门话题
 
