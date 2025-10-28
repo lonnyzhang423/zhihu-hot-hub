@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-10-28 19:21:10 +0800`
+`更新时间：2025-10-28 20:53:31 +0800`
 
 ## 热门搜索
 
-1. [青岛西海岸vs成都蓉城](https://www.zhihu.com/search?q=%E9%9D%92%E5%B2%9B%E8%A5%BF%E6%B5%B7%E5%B2%B8vs%E6%88%90%E9%83%BD%E8%93%89%E5%9F%8E)
-1. [全红婵比赛门票1分钟售空](https://www.zhihu.com/search?q=%E5%85%A8%E7%BA%A2%E5%A9%B5%E6%AF%94%E8%B5%9B%E9%97%A8%E7%A5%A81%E5%88%86%E9%92%9F%E5%94%AE%E7%A9%BA)
+1. [世界动画日](https://www.zhihu.com/search?q=%E4%B8%96%E7%95%8C%E5%8A%A8%E7%94%BB%E6%97%A5)
+1. [你对什么食物是无法接受的](https://www.zhihu.com/search?q=%E4%BD%A0%E5%AF%B9%E4%BB%80%E4%B9%88%E9%A3%9F%E7%89%A9%E6%98%AF%E6%97%A0%E6%B3%95%E6%8E%A5%E5%8F%97%E7%9A%84)
 1. [阿斯顿维拉1比0曼城](https://www.zhihu.com/search?q=%E9%98%BF%E6%96%AF%E9%A1%BF%E7%BB%B4%E6%8B%891%E6%AF%940%E6%9B%BC%E5%9F%8E)
 1. [中年男人最大的悲哀是什么](https://www.zhihu.com/search?q=%E4%B8%AD%E5%B9%B4%E7%94%B7%E4%BA%BA%E6%9C%80%E5%A4%A7%E7%9A%84%E6%82%B2%E5%93%80%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [照骗能骗到什么程度](https://www.zhihu.com/search?q=%E7%85%A7%E9%AA%97%E8%83%BD%E9%AA%97%E5%88%B0%E4%BB%80%E4%B9%88%E7%A8%8B%E5%BA%A6)
