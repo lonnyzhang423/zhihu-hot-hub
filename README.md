@@ -11,10 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-10-29 10:45:12 +0800`
+`更新时间：2025-10-29 11:43:15 +0800`
 
 ## 热门搜索
 
+1. [芒果综艺《我们来了》将回归](https://www.zhihu.com/search?q=%E8%8A%92%E6%9E%9C%E7%BB%BC%E8%89%BA%E3%80%8A%E6%88%91%E4%BB%AC%E6%9D%A5%E4%BA%86%E3%80%8B%E5%B0%86%E5%9B%9E%E5%BD%92)
+1. [暗黑破坏神2最喜欢哪个职业](https://www.zhihu.com/search?q=%E6%9A%97%E9%BB%91%E7%A0%B4%E5%9D%8F%E7%A5%9E2%E6%9C%80%E5%96%9C%E6%AC%A2%E5%93%AA%E4%B8%AA%E8%81%8C%E4%B8%9A)
 1. [你对什么食物是无法接受的](https://www.zhihu.com/search?q=%E4%BD%A0%E5%AF%B9%E4%BB%80%E4%B9%88%E9%A3%9F%E7%89%A9%E6%98%AF%E6%97%A0%E6%B3%95%E6%8E%A5%E5%8F%97%E7%9A%84)
 1. [中年男人最大的悲哀是什么](https://www.zhihu.com/search?q=%E4%B8%AD%E5%B9%B4%E7%94%B7%E4%BA%BA%E6%9C%80%E5%A4%A7%E7%9A%84%E6%82%B2%E5%93%80%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [照骗能骗到什么程度](https://www.zhihu.com/search?q=%E7%85%A7%E9%AA%97%E8%83%BD%E9%AA%97%E5%88%B0%E4%BB%80%E4%B9%88%E7%A8%8B%E5%BA%A6)
