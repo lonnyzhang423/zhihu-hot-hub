@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-10-29 15:25:24 +0800`
+`更新时间：2025-10-29 16:35:27 +0800`
 
 ## 热门搜索
 
-1. [人到中年除了钱您认为什么最重要](https://www.zhihu.com/search?q=%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E9%99%A4%E4%BA%86%E9%92%B1%E6%82%A8%E8%AE%A4%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%80%E9%87%8D%E8%A6%81)
+1. [世界动画日](https://www.zhihu.com/search?q=%E4%B8%96%E7%95%8C%E5%8A%A8%E7%94%BB%E6%97%A5)
+1. [重阳节](https://www.zhihu.com/search?q=%E9%87%8D%E9%98%B3%E8%8A%82)
 1. [你对什么食物是无法接受的](https://www.zhihu.com/search?q=%E4%BD%A0%E5%AF%B9%E4%BB%80%E4%B9%88%E9%A3%9F%E7%89%A9%E6%98%AF%E6%97%A0%E6%B3%95%E6%8E%A5%E5%8F%97%E7%9A%84)
 1. [为什么说重庆是男人的天堂](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%AF%B4%E9%87%8D%E5%BA%86%E6%98%AF%E7%94%B7%E4%BA%BA%E7%9A%84%E5%A4%A9%E5%A0%82)
 1. [中年男人最大的悲哀是什么](https://www.zhihu.com/search?q=%E4%B8%AD%E5%B9%B4%E7%94%B7%E4%BA%BA%E6%9C%80%E5%A4%A7%E7%9A%84%E6%82%B2%E5%93%80%E6%98%AF%E4%BB%80%E4%B9%88)
