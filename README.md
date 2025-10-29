@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-10-29 19:22:20 +0800`
+`更新时间：2025-10-29 20:55:21 +0800`
 
 ## 热门搜索
 
-1. [为什么内存条涨价这么离谱](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%86%85%E5%AD%98%E6%9D%A1%E6%B6%A8%E4%BB%B7%E8%BF%99%E4%B9%88%E7%A6%BB%E8%B0%B1)
-1. [00后用打印机造假币](https://www.zhihu.com/search?q=00%E5%90%8E%E7%94%A8%E6%89%93%E5%8D%B0%E6%9C%BA%E9%80%A0%E5%81%87%E5%B8%81)
+1. [世界动画日](https://www.zhihu.com/search?q=%E4%B8%96%E7%95%8C%E5%8A%A8%E7%94%BB%E6%97%A5)
+1. [重阳节](https://www.zhihu.com/search?q=%E9%87%8D%E9%98%B3%E8%8A%82)
 1. [你对什么食物是无法接受的](https://www.zhihu.com/search?q=%E4%BD%A0%E5%AF%B9%E4%BB%80%E4%B9%88%E9%A3%9F%E7%89%A9%E6%98%AF%E6%97%A0%E6%B3%95%E6%8E%A5%E5%8F%97%E7%9A%84)
 1. [为什么说重庆是男人的天堂](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%AF%B4%E9%87%8D%E5%BA%86%E6%98%AF%E7%94%B7%E4%BA%BA%E7%9A%84%E5%A4%A9%E5%A0%82)
 1. [中年男人最大的悲哀是什么](https://www.zhihu.com/search?q=%E4%B8%AD%E5%B9%B4%E7%94%B7%E4%BA%BA%E6%9C%80%E5%A4%A7%E7%9A%84%E6%82%B2%E5%93%80%E6%98%AF%E4%BB%80%E4%B9%88)
