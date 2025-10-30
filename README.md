@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-10-30 10:02:43 +0800`
+`更新时间：2025-10-30 11:45:06 +0800`
 
 ## 热门搜索
 
-1. [重阳节](https://www.zhihu.com/search?q=%E9%87%8D%E9%98%B3%E8%8A%82)
-1. [今日重阳](https://www.zhihu.com/search?q=%E4%BB%8A%E6%97%A5%E9%87%8D%E9%98%B3)
+1. [香奈儿1.2万元新品黑帽撞款「四郎瓜皮帽」](https://www.zhihu.com/search?q=%E9%A6%99%E5%A5%88%E5%84%BF1.2%E4%B8%87%E5%85%83%E6%96%B0%E5%93%81%E9%BB%91%E5%B8%BD%E6%92%9E%E6%AC%BE%E3%80%8C%E5%9B%9B%E9%83%8E%E7%93%9C%E7%9A%AE%E5%B8%BD%E3%80%8D)
+1. [有哪些事是买车后才知道的](https://www.zhihu.com/search?q=%E6%9C%89%E5%93%AA%E4%BA%9B%E4%BA%8B%E6%98%AF%E4%B9%B0%E8%BD%A6%E5%90%8E%E6%89%8D%E7%9F%A5%E9%81%93%E7%9A%84)
 1. [ELLE红毯](https://www.zhihu.com/search?q=ELLE%E7%BA%A2%E6%AF%AF)
 1. [快船vs勇士](https://www.zhihu.com/search?q=%E5%BF%AB%E8%88%B9vs%E5%8B%87%E5%A3%AB)
 1. [A股三大指数集体高开](https://www.zhihu.com/search?q=A%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80)
