@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-10-30 14:18:28 +0800`
+`更新时间：2025-10-30 15:12:03 +0800`
 
 ## 热门搜索
 
-1. [重阳节](https://www.zhihu.com/search?q=%E9%87%8D%E9%98%B3%E8%8A%82)
-1. [今日重阳](https://www.zhihu.com/search?q=%E4%BB%8A%E6%97%A5%E9%87%8D%E9%98%B3)
+1. [穿不了高领衣服原来是一种病](https://www.zhihu.com/search?q=%E7%A9%BF%E4%B8%8D%E4%BA%86%E9%AB%98%E9%A2%86%E8%A1%A3%E6%9C%8D%E5%8E%9F%E6%9D%A5%E6%98%AF%E4%B8%80%E7%A7%8D%E7%97%85)
+1. [如何评价喜人奇妙夜第二季第五期](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E5%96%9C%E4%BA%BA%E5%A5%87%E5%A6%99%E5%A4%9C%E7%AC%AC%E4%BA%8C%E5%AD%A3%E7%AC%AC%E4%BA%94%E6%9C%9F)
 1. [ELLE红毯](https://www.zhihu.com/search?q=ELLE%E7%BA%A2%E6%AF%AF)
 1. [快船vs勇士](https://www.zhihu.com/search?q=%E5%BF%AB%E8%88%B9vs%E5%8B%87%E5%A3%AB)
 1. [A股三大指数集体高开](https://www.zhihu.com/search?q=A%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80)
