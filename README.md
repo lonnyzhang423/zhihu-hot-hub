@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-10-30 16:33:37 +0800`
+`更新时间：2025-10-30 17:27:55 +0800`
 
 ## 热门搜索
 
@@ -25,6 +25,7 @@
 1. [照骗能骗到什么程度](https://www.zhihu.com/search?q=%E7%85%A7%E9%AA%97%E8%83%BD%E9%AA%97%E5%88%B0%E4%BB%80%E4%B9%88%E7%A8%8B%E5%BA%A6)
 1. [GEN 3:1 HLE](https://www.zhihu.com/search?q=GEN%203%3A1%20HLE)
 1. [有什么骇人听闻的真实案件](https://www.zhihu.com/search?q=%E6%9C%89%E4%BB%80%E4%B9%88%E9%AA%87%E4%BA%BA%E5%90%AC%E9%97%BB%E7%9A%84%E7%9C%9F%E5%AE%9E%E6%A1%88%E4%BB%B6)
+1. [TES对战G2](https://www.zhihu.com/search?q=TES%E5%AF%B9%E6%88%98G2)
 1. [你因为什么而打赏过骑手](https://www.zhihu.com/search?q=%E4%BD%A0%E5%9B%A0%E4%B8%BA%E4%BB%80%E4%B9%88%E8%80%8C%E6%89%93%E8%B5%8F%E8%BF%87%E9%AA%91%E6%89%8B)
 1. [爸爸带大的孩子是什么样子](https://www.zhihu.com/search?q=%E7%88%B8%E7%88%B8%E5%B8%A6%E5%A4%A7%E7%9A%84%E5%AD%A9%E5%AD%90%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7%E5%AD%90)
 1. [现在的大学生到底是什么状态](https://www.zhihu.com/search?q=%E7%8E%B0%E5%9C%A8%E7%9A%84%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%88%B0%E5%BA%95%E6%98%AF%E4%BB%80%E4%B9%88%E7%8A%B6%E6%80%81)
@@ -38,7 +39,6 @@
 1. [你的低成本爱好是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9A%84%E4%BD%8E%E6%88%90%E6%9C%AC%E7%88%B1%E5%A5%BD%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [炒股让你明白了什么真理](https://www.zhihu.com/search?q=%E7%82%92%E8%82%A1%E8%AE%A9%E4%BD%A0%E6%98%8E%E7%99%BD%E4%BA%86%E4%BB%80%E4%B9%88%E7%9C%9F%E7%90%86)
 1. [降水线真的北移了么](https://www.zhihu.com/search?q=%E9%99%8D%E6%B0%B4%E7%BA%BF%E7%9C%9F%E7%9A%84%E5%8C%97%E7%A7%BB%E4%BA%86%E4%B9%88)
-1. [人在什么情况下成长的最快](https://www.zhihu.com/search?q=%E4%BA%BA%E5%9C%A8%E4%BB%80%E4%B9%88%E6%83%85%E5%86%B5%E4%B8%8B%E6%88%90%E9%95%BF%E7%9A%84%E6%9C%80%E5%BF%AB)
 
 ## 热门话题
 
