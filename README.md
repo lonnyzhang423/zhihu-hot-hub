@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-10-31 11:39:36 +0800`
+`更新时间：2025-10-31 12:16:04 +0800`
 
 ## 热门搜索
 
-1. [神20乘组在轨驻留已188天](https://www.zhihu.com/search?q=%E7%A5%9E20%E4%B9%98%E7%BB%84%E5%9C%A8%E8%BD%A8%E9%A9%BB%E7%95%99%E5%B7%B2188%E5%A4%A9)
-1. [野人小孩父母称追求自然养育](https://www.zhihu.com/search?q=%E9%87%8E%E4%BA%BA%E5%B0%8F%E5%AD%A9%E7%88%B6%E6%AF%8D%E7%A7%B0%E8%BF%BD%E6%B1%82%E8%87%AA%E7%84%B6%E5%85%BB%E8%82%B2)
+1. [重阳节](https://www.zhihu.com/search?q=%E9%87%8D%E9%98%B3%E8%8A%82)
+1. [快船vs勇士](https://www.zhihu.com/search?q=%E5%BF%AB%E8%88%B9vs%E5%8B%87%E5%A3%AB)
 1. [为什么说男人至死都是少年](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%AF%B4%E7%94%B7%E4%BA%BA%E8%87%B3%E6%AD%BB%E9%83%BD%E6%98%AF%E5%B0%91%E5%B9%B4)
 1. [为什么说重庆是男人的天堂](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%AF%B4%E9%87%8D%E5%BA%86%E6%98%AF%E7%94%B7%E4%BA%BA%E7%9A%84%E5%A4%A9%E5%A0%82)
 1. [为什么好多学校都喜欢挖个湖](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A5%BD%E5%A4%9A%E5%AD%A6%E6%A0%A1%E9%83%BD%E5%96%9C%E6%AC%A2%E6%8C%96%E4%B8%AA%E6%B9%96)
