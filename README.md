@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-11-02 11:49:04 +0800`
+`更新时间：2025-11-02 12:29:10 +0800`
 
 ## 热门搜索
 
-1. [10月最后一天](https://www.zhihu.com/search?q=10%E6%9C%88%E6%9C%80%E5%90%8E%E4%B8%80%E5%A4%A9)
-1. [11月起这些新规开始施行](https://www.zhihu.com/search?q=11%E6%9C%88%E8%B5%B7%E8%BF%99%E4%BA%9B%E6%96%B0%E8%A7%84%E5%BC%80%E5%A7%8B%E6%96%BD%E8%A1%8C)
+1. [iqooneo11标准版的含金量](https://www.zhihu.com/search?q=iqooneo11%E6%A0%87%E5%87%86%E7%89%88%E7%9A%84%E5%90%AB%E9%87%91%E9%87%8F)
+1. [四川的哥因2元争执身亡](https://www.zhihu.com/search?q=%E5%9B%9B%E5%B7%9D%E7%9A%84%E5%93%A5%E5%9B%A02%E5%85%83%E4%BA%89%E6%89%A7%E8%BA%AB%E4%BA%A1)
 1. [为什么说男人至死都是少年](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%AF%B4%E7%94%B7%E4%BA%BA%E8%87%B3%E6%AD%BB%E9%83%BD%E6%98%AF%E5%B0%91%E5%B9%B4)
 1. [中国有多少城市能撑起来七日游](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E6%9C%89%E5%A4%9A%E5%B0%91%E5%9F%8E%E5%B8%82%E8%83%BD%E6%92%91%E8%B5%B7%E6%9D%A5%E4%B8%83%E6%97%A5%E6%B8%B8)
 1. [美联储降息25个基点](https://www.zhihu.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8%E9%99%8D%E6%81%AF25%E4%B8%AA%E5%9F%BA%E7%82%B9)
@@ -29,6 +29,7 @@
 1. [深蹲是男性最好的运动吗](https://www.zhihu.com/search?q=%E6%B7%B1%E8%B9%B2%E6%98%AF%E7%94%B7%E6%80%A7%E6%9C%80%E5%A5%BD%E7%9A%84%E8%BF%90%E5%8A%A8%E5%90%97)
 1. [你的低成本爱好是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9A%84%E4%BD%8E%E6%88%90%E6%9C%AC%E7%88%B1%E5%A5%BD%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [炒股让你明白了什么真理](https://www.zhihu.com/search?q=%E7%82%92%E8%82%A1%E8%AE%A9%E4%BD%A0%E6%98%8E%E7%99%BD%E4%BA%86%E4%BB%80%E4%B9%88%E7%9C%9F%E7%90%86)
+1. [10月最后一天](https://www.zhihu.com/search?q=10%E6%9C%88%E6%9C%80%E5%90%8E%E4%B8%80%E5%A4%A9)
 1. [降水线真的北移了么](https://www.zhihu.com/search?q=%E9%99%8D%E6%B0%B4%E7%BA%BF%E7%9C%9F%E7%9A%84%E5%8C%97%E7%A7%BB%E4%BA%86%E4%B9%88)
 1. [旅行后你对哪个城市祛魅了](https://www.zhihu.com/search?q=%E6%97%85%E8%A1%8C%E5%90%8E%E4%BD%A0%E5%AF%B9%E5%93%AA%E4%B8%AA%E5%9F%8E%E5%B8%82%E7%A5%9B%E9%AD%85%E4%BA%86)
 1. [长期不上班的人都是什么状态啊](https://www.zhihu.com/search?q=%E9%95%BF%E6%9C%9F%E4%B8%8D%E4%B8%8A%E7%8F%AD%E7%9A%84%E4%BA%BA%E9%83%BD%E6%98%AF%E4%BB%80%E4%B9%88%E7%8A%B6%E6%80%81%E5%95%8A)
