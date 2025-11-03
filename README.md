@@ -11,10 +11,15 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-11-03 16:18:06 +0800`
+`更新时间：2025-11-03 17:15:50 +0800`
 
 ## 热门搜索
 
+1. [哪句话让你突然沉默了很久](https://www.zhihu.com/search?q=%E5%93%AA%E5%8F%A5%E8%AF%9D%E8%AE%A9%E4%BD%A0%E7%AA%81%E7%84%B6%E6%B2%89%E9%BB%98%E4%BA%86%E5%BE%88%E4%B9%85)
+1. [有什么尴尬到爆的经历](https://www.zhihu.com/search?q=%E6%9C%89%E4%BB%80%E4%B9%88%E5%B0%B4%E5%B0%AC%E5%88%B0%E7%88%86%E7%9A%84%E7%BB%8F%E5%8E%86)
+1. [不鸡娃的结果是什么](https://www.zhihu.com/search?q=%E4%B8%8D%E9%B8%A1%E5%A8%83%E7%9A%84%E7%BB%93%E6%9E%9C%E6%98%AF%E4%BB%80%E4%B9%88)
+1. [为什么现在的员工都不爱公司](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E7%9A%84%E5%91%98%E5%B7%A5%E9%83%BD%E4%B8%8D%E7%88%B1%E5%85%AC%E5%8F%B8)
+1. [你住酒店时有过哪些奇葩经历](https://www.zhihu.com/search?q=%E4%BD%A0%E4%BD%8F%E9%85%92%E5%BA%97%E6%97%B6%E6%9C%89%E8%BF%87%E5%93%AA%E4%BA%9B%E5%A5%87%E8%91%A9%E7%BB%8F%E5%8E%86)
 1. [苏超总决赛](https://www.zhihu.com/search?q=%E8%8B%8F%E8%B6%85%E6%80%BB%E5%86%B3%E8%B5%9B)
 1. [父母腿脚不便 辅助工具](https://www.zhihu.com/search?q=%E7%88%B6%E6%AF%8D%E8%85%BF%E8%84%9A%E4%B8%8D%E4%BE%BF%20%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7)
 1. [老人走路累 外骨骼有用吗](https://www.zhihu.com/search?q=%E8%80%81%E4%BA%BA%E8%B5%B0%E8%B7%AF%E7%B4%AF%20%E5%A4%96%E9%AA%A8%E9%AA%BC%E6%9C%89%E7%94%A8%E5%90%97)
@@ -40,10 +45,6 @@
 1. [雪王 登上好物100榜单](https://www.zhihu.com/search?q=%E9%9B%AA%E7%8E%8B%20%E7%99%BB%E4%B8%8A%E5%A5%BD%E7%89%A9100%E6%A6%9C%E5%8D%95)
 1. [300元以下难买真羽绒服](https://www.zhihu.com/search?q=300%E5%85%83%E4%BB%A5%E4%B8%8B%E9%9A%BE%E4%B9%B0%E7%9C%9F%E7%BE%BD%E7%BB%92%E6%9C%8D)
 1. [世界第一款家用人形机器人开卖](https://www.zhihu.com/search?q=%E4%B8%96%E7%95%8C%E7%AC%AC%E4%B8%80%E6%AC%BE%E5%AE%B6%E7%94%A8%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%BC%80%E5%8D%96)
-1. [国科大团队创新药物合成技术登《自然》主刊](https://www.zhihu.com/search?q=%E5%9B%BD%E7%A7%91%E5%A4%A7%E5%9B%A2%E9%98%9F%E5%88%9B%E6%96%B0%E8%8D%AF%E7%89%A9%E5%90%88%E6%88%90%E6%8A%80%E6%9C%AF%E7%99%BB%E3%80%8A%E8%87%AA%E7%84%B6%E3%80%8B%E4%B8%BB%E5%88%8A)
-1. [王家卫说唐嫣很装](https://www.zhihu.com/search?q=%E7%8E%8B%E5%AE%B6%E5%8D%AB%E8%AF%B4%E5%94%90%E5%AB%A3%E5%BE%88%E8%A3%85)
-1. [王家卫说陈道明是极品](https://www.zhihu.com/search?q=%E7%8E%8B%E5%AE%B6%E5%8D%AB%E8%AF%B4%E9%99%88%E9%81%93%E6%98%8E%E6%98%AF%E6%9E%81%E5%93%81)
-1. [王家卫秦雯录音事件](https://www.zhihu.com/search?q=%E7%8E%8B%E5%AE%B6%E5%8D%AB%E7%A7%A6%E9%9B%AF%E5%BD%95%E9%9F%B3%E4%BA%8B%E4%BB%B6)
 
 ## 热门话题
 
