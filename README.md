@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-11-03 11:45:41 +0800`
+`更新时间：2025-11-03 12:20:56 +0800`
 
 ## 热门搜索
 
@@ -40,9 +40,10 @@
 1. [「技能四子棋」上好物100榜单了](https://www.zhihu.com/search?q=%E3%80%8C%E6%8A%80%E8%83%BD%E5%9B%9B%E5%AD%90%E6%A3%8B%E3%80%8D%E4%B8%8A%E5%A5%BD%E7%89%A9100%E6%A6%9C%E5%8D%95%E4%BA%86)
 1. [雪王 登上好物100榜单](https://www.zhihu.com/search?q=%E9%9B%AA%E7%8E%8B%20%E7%99%BB%E4%B8%8A%E5%A5%BD%E7%89%A9100%E6%A6%9C%E5%8D%95)
 1. [300元以下难买真羽绒服](https://www.zhihu.com/search?q=300%E5%85%83%E4%BB%A5%E4%B8%8B%E9%9A%BE%E4%B9%B0%E7%9C%9F%E7%BE%BD%E7%BB%92%E6%9C%8D)
-1. [加湿器加精油可能致肺炎](https://www.zhihu.com/search?q=%E5%8A%A0%E6%B9%BF%E5%99%A8%E5%8A%A0%E7%B2%BE%E6%B2%B9%E5%8F%AF%E8%83%BD%E8%87%B4%E8%82%BA%E7%82%8E)
 1. [国科大团队创新药物合成技术登《自然》主刊](https://www.zhihu.com/search?q=%E5%9B%BD%E7%A7%91%E5%A4%A7%E5%9B%A2%E9%98%9F%E5%88%9B%E6%96%B0%E8%8D%AF%E7%89%A9%E5%90%88%E6%88%90%E6%8A%80%E6%9C%AF%E7%99%BB%E3%80%8A%E8%87%AA%E7%84%B6%E3%80%8B%E4%B8%BB%E5%88%8A)
 1. [《喜人奇妙夜》第二季第六期](https://www.zhihu.com/search?q=%E3%80%8A%E5%96%9C%E4%BA%BA%E5%A5%87%E5%A6%99%E5%A4%9C%E3%80%8B%E7%AC%AC%E4%BA%8C%E5%AD%A3%E7%AC%AC%E5%85%AD%E6%9C%9F)
+1. [王家卫说唐嫣很装](https://www.zhihu.com/search?q=%E7%8E%8B%E5%AE%B6%E5%8D%AB%E8%AF%B4%E5%94%90%E5%AB%A3%E5%BE%88%E8%A3%85)
+1. [王家卫说陈道明是极品](https://www.zhihu.com/search?q=%E7%8E%8B%E5%AE%B6%E5%8D%AB%E8%AF%B4%E9%99%88%E9%81%93%E6%98%8E%E6%98%AF%E6%9E%81%E5%93%81)
 
 ## 热门话题
 
