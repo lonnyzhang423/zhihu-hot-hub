@@ -11,12 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-11-03 13:13:28 +0800`
+`更新时间：2025-11-03 14:19:48 +0800`
 
 ## 热门搜索
 
 1. [苏超总决赛](https://www.zhihu.com/search?q=%E8%8B%8F%E8%B6%85%E6%80%BB%E5%86%B3%E8%B5%9B)
-1. [全球投资者正以惊人速度从印度撤资](https://www.zhihu.com/search?q=%E5%85%A8%E7%90%83%E6%8A%95%E8%B5%84%E8%80%85%E6%AD%A3%E4%BB%A5%E6%83%8A%E4%BA%BA%E9%80%9F%E5%BA%A6%E4%BB%8E%E5%8D%B0%E5%BA%A6%E6%92%A4%E8%B5%84)
 1. [父母腿脚不便 辅助工具](https://www.zhihu.com/search?q=%E7%88%B6%E6%AF%8D%E8%85%BF%E8%84%9A%E4%B8%8D%E4%BE%BF%20%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7)
 1. [老人走路累 外骨骼有用吗](https://www.zhihu.com/search?q=%E8%80%81%E4%BA%BA%E8%B5%B0%E8%B7%AF%E7%B4%AF%20%E5%A4%96%E9%AA%A8%E9%AA%BC%E6%9C%89%E7%94%A8%E5%90%97)
 1. [长辈上下楼梯困难 解决方案](https://www.zhihu.com/search?q=%E9%95%BF%E8%BE%88%E4%B8%8A%E4%B8%8B%E6%A5%BC%E6%A2%AF%E5%9B%B0%E9%9A%BE%20%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88)
@@ -44,6 +43,7 @@
 1. [国科大团队创新药物合成技术登《自然》主刊](https://www.zhihu.com/search?q=%E5%9B%BD%E7%A7%91%E5%A4%A7%E5%9B%A2%E9%98%9F%E5%88%9B%E6%96%B0%E8%8D%AF%E7%89%A9%E5%90%88%E6%88%90%E6%8A%80%E6%9C%AF%E7%99%BB%E3%80%8A%E8%87%AA%E7%84%B6%E3%80%8B%E4%B8%BB%E5%88%8A)
 1. [《喜人奇妙夜》第二季第六期](https://www.zhihu.com/search?q=%E3%80%8A%E5%96%9C%E4%BA%BA%E5%A5%87%E5%A6%99%E5%A4%9C%E3%80%8B%E7%AC%AC%E4%BA%8C%E5%AD%A3%E7%AC%AC%E5%85%AD%E6%9C%9F)
 1. [王家卫说唐嫣很装](https://www.zhihu.com/search?q=%E7%8E%8B%E5%AE%B6%E5%8D%AB%E8%AF%B4%E5%94%90%E5%AB%A3%E5%BE%88%E8%A3%85)
+1. [王家卫说陈道明是极品](https://www.zhihu.com/search?q=%E7%8E%8B%E5%AE%B6%E5%8D%AB%E8%AF%B4%E9%99%88%E9%81%93%E6%98%8E%E6%98%AF%E6%9E%81%E5%93%81)
 
 ## 热门话题
 
