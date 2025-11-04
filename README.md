@@ -11,11 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-11-04 21:28:41 +0800`
+`更新时间：2025-11-04 22:12:53 +0800`
 
 ## 热门搜索
 
-1. [如何才能做出很好吃的卤肉](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E6%89%8D%E8%83%BD%E5%81%9A%E5%87%BA%E5%BE%88%E5%A5%BD%E5%90%83%E7%9A%84%E5%8D%A4%E8%82%89)
+1. [湖人vs热火](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BAvs%E7%83%AD%E7%81%AB)
 1. [哪句话让你突然沉默了很久](https://www.zhihu.com/search?q=%E5%93%AA%E5%8F%A5%E8%AF%9D%E8%AE%A9%E4%BD%A0%E7%AA%81%E7%84%B6%E6%B2%89%E9%BB%98%E4%BA%86%E5%BE%88%E4%B9%85)
 1. [你见过的狠人有多绝](https://www.zhihu.com/search?q=%E4%BD%A0%E8%A7%81%E8%BF%87%E7%9A%84%E7%8B%A0%E4%BA%BA%E6%9C%89%E5%A4%9A%E7%BB%9D)
 1. [职业运动员究竟有多厉害](https://www.zhihu.com/search?q=%E8%81%8C%E4%B8%9A%E8%BF%90%E5%8A%A8%E5%91%98%E7%A9%B6%E7%AB%9F%E6%9C%89%E5%A4%9A%E5%8E%89%E5%AE%B3)
