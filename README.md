@@ -11,12 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-11-05 10:42:04 +0800`
+`更新时间：2025-11-05 11:39:39 +0800`
 
 ## 热门搜索
 
-1. [多家银行暂停提取金条](https://www.zhihu.com/search?q=%E5%A4%9A%E5%AE%B6%E9%93%B6%E8%A1%8C%E6%9A%82%E5%81%9C%E6%8F%90%E5%8F%96%E9%87%91%E6%9D%A1)
-1. [片仔癀价格暴跌](https://www.zhihu.com/search?q=%E7%89%87%E4%BB%94%E7%99%80%E4%BB%B7%E6%A0%BC%E6%9A%B4%E8%B7%8C)
+1. [多人在水库岸边放生猫](https://www.zhihu.com/search?q=%E5%A4%9A%E4%BA%BA%E5%9C%A8%E6%B0%B4%E5%BA%93%E5%B2%B8%E8%BE%B9%E6%94%BE%E7%94%9F%E7%8C%AB)
 1. [哪句话让你突然沉默了很久](https://www.zhihu.com/search?q=%E5%93%AA%E5%8F%A5%E8%AF%9D%E8%AE%A9%E4%BD%A0%E7%AA%81%E7%84%B6%E6%B2%89%E9%BB%98%E4%BA%86%E5%BE%88%E4%B9%85)
 1. [你见过的狠人有多绝](https://www.zhihu.com/search?q=%E4%BD%A0%E8%A7%81%E8%BF%87%E7%9A%84%E7%8B%A0%E4%BA%BA%E6%9C%89%E5%A4%9A%E7%BB%9D)
 1. [职业运动员究竟有多厉害](https://www.zhihu.com/search?q=%E8%81%8C%E4%B8%9A%E8%BF%90%E5%8A%A8%E5%91%98%E7%A9%B6%E7%AB%9F%E6%9C%89%E5%A4%9A%E5%8E%89%E5%AE%B3)
