@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-11-05 13:26:58 +0800`
+`更新时间：2025-11-05 14:38:16 +0800`
 
 ## 热门搜索
 
-1. [Claude中断对Trae供应](https://www.zhihu.com/search?q=Claude%E4%B8%AD%E6%96%AD%E5%AF%B9Trae%E4%BE%9B%E5%BA%94)
-1. [男子移植的猪肾在即将创下纪录前衰竭](https://www.zhihu.com/search?q=%E7%94%B7%E5%AD%90%E7%A7%BB%E6%A4%8D%E7%9A%84%E7%8C%AA%E8%82%BE%E5%9C%A8%E5%8D%B3%E5%B0%86%E5%88%9B%E4%B8%8B%E7%BA%AA%E5%BD%95%E5%89%8D%E8%A1%B0%E7%AB%AD)
+1. [2026 年春节连放 9 天](https://www.zhihu.com/search?q=2026%20%E5%B9%B4%E6%98%A5%E8%8A%82%E8%BF%9E%E6%94%BE%209%20%E5%A4%A9)
+1. [发育迟缓儿童发病率逐年上升](https://www.zhihu.com/search?q=%E5%8F%91%E8%82%B2%E8%BF%9F%E7%BC%93%E5%84%BF%E7%AB%A5%E5%8F%91%E7%97%85%E7%8E%87%E9%80%90%E5%B9%B4%E4%B8%8A%E5%8D%87)
 1. [哪句话让你突然沉默了很久](https://www.zhihu.com/search?q=%E5%93%AA%E5%8F%A5%E8%AF%9D%E8%AE%A9%E4%BD%A0%E7%AA%81%E7%84%B6%E6%B2%89%E9%BB%98%E4%BA%86%E5%BE%88%E4%B9%85)
 1. [你见过的狠人有多绝](https://www.zhihu.com/search?q=%E4%BD%A0%E8%A7%81%E8%BF%87%E7%9A%84%E7%8B%A0%E4%BA%BA%E6%9C%89%E5%A4%9A%E7%BB%9D)
 1. [职业运动员究竟有多厉害](https://www.zhihu.com/search?q=%E8%81%8C%E4%B8%9A%E8%BF%90%E5%8A%A8%E5%91%98%E7%A9%B6%E7%AB%9F%E6%9C%89%E5%A4%9A%E5%8E%89%E5%AE%B3)
