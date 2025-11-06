@@ -11,20 +11,19 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-11-06 10:01:31 +0800`
+`更新时间：2025-11-06 11:50:34 +0800`
 
 ## 热门搜索
 
 1. [史上最长春节假期](https://www.zhihu.com/search?q=%E5%8F%B2%E4%B8%8A%E6%9C%80%E9%95%BF%E6%98%A5%E8%8A%82%E5%81%87%E6%9C%9F)
-1. [哪句话让你突然沉默了很久](https://www.zhihu.com/search?q=%E5%93%AA%E5%8F%A5%E8%AF%9D%E8%AE%A9%E4%BD%A0%E7%AA%81%E7%84%B6%E6%B2%89%E9%BB%98%E4%BA%86%E5%BE%88%E4%B9%85)
 1. [你见过的狠人有多绝](https://www.zhihu.com/search?q=%E4%BD%A0%E8%A7%81%E8%BF%87%E7%9A%84%E7%8B%A0%E4%BA%BA%E6%9C%89%E5%A4%9A%E7%BB%9D)
 1. [职业运动员究竟有多厉害](https://www.zhihu.com/search?q=%E8%81%8C%E4%B8%9A%E8%BF%90%E5%8A%A8%E5%91%98%E7%A9%B6%E7%AB%9F%E6%9C%89%E5%A4%9A%E5%8E%89%E5%AE%B3)
+1. [为什么老一辈人厌恶游戏](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%80%81%E4%B8%80%E8%BE%88%E4%BA%BA%E5%8E%8C%E6%81%B6%E6%B8%B8%E6%88%8F)
 1. [有哪些非常冷门且令人意外的知识](https://www.zhihu.com/search?q=%E6%9C%89%E5%93%AA%E4%BA%9B%E9%9D%9E%E5%B8%B8%E5%86%B7%E9%97%A8%E4%B8%94%E4%BB%A4%E4%BA%BA%E6%84%8F%E5%A4%96%E7%9A%84%E7%9F%A5%E8%AF%86)
 1. [常年独居的人靠什么抵抗孤独](https://www.zhihu.com/search?q=%E5%B8%B8%E5%B9%B4%E7%8B%AC%E5%B1%85%E7%9A%84%E4%BA%BA%E9%9D%A0%E4%BB%80%E4%B9%88%E6%8A%B5%E6%8A%97%E5%AD%A4%E7%8B%AC)
 1. [利物浦vs皇马](https://www.zhihu.com/search?q=%E5%88%A9%E7%89%A9%E6%B5%A6vs%E7%9A%87%E9%A9%AC)
 1. [被保护得太好的人是怎样的](https://www.zhihu.com/search?q=%E8%A2%AB%E4%BF%9D%E6%8A%A4%E5%BE%97%E5%A4%AA%E5%A5%BD%E7%9A%84%E4%BA%BA%E6%98%AF%E6%80%8E%E6%A0%B7%E7%9A%84)
-1. [有什么尴尬到爆的经历](https://www.zhihu.com/search?q=%E6%9C%89%E4%BB%80%E4%B9%88%E5%B0%B4%E5%B0%AC%E5%88%B0%E7%88%86%E7%9A%84%E7%BB%8F%E5%8E%86)
-1. [不鸡娃的结果是什么](https://www.zhihu.com/search?q=%E4%B8%8D%E9%B8%A1%E5%A8%83%E7%9A%84%E7%BB%93%E6%9E%9C%E6%98%AF%E4%BB%80%E4%B9%88)
+1. [中国人到底有多能吃](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E8%83%BD%E5%90%83)
 1. [你心目中排名第一的饮料是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E5%BF%83%E7%9B%AE%E4%B8%AD%E6%8E%92%E5%90%8D%E7%AC%AC%E4%B8%80%E7%9A%84%E9%A5%AE%E6%96%99%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [有钱人的生活奢侈到什么程度](https://www.zhihu.com/search?q=%E6%9C%89%E9%92%B1%E4%BA%BA%E7%9A%84%E7%94%9F%E6%B4%BB%E5%A5%A2%E4%BE%88%E5%88%B0%E4%BB%80%E4%B9%88%E7%A8%8B%E5%BA%A6)
 1. [大家提升自己最快的方式是什么](https://www.zhihu.com/search?q=%E5%A4%A7%E5%AE%B6%E6%8F%90%E5%8D%87%E8%87%AA%E5%B7%B1%E6%9C%80%E5%BF%AB%E7%9A%84%E6%96%B9%E5%BC%8F%E6%98%AF%E4%BB%80%E4%B9%88)
@@ -35,11 +34,12 @@
 1. [旅行后你对哪个城市祛魅了](https://www.zhihu.com/search?q=%E6%97%85%E8%A1%8C%E5%90%8E%E4%BD%A0%E5%AF%B9%E5%93%AA%E4%B8%AA%E5%9F%8E%E5%B8%82%E7%A5%9B%E9%AD%85%E4%BA%86)
 1. [长期不上班的人都是什么状态啊](https://www.zhihu.com/search?q=%E9%95%BF%E6%9C%9F%E4%B8%8D%E4%B8%8A%E7%8F%AD%E7%9A%84%E4%BA%BA%E9%83%BD%E6%98%AF%E4%BB%80%E4%B9%88%E7%8A%B6%E6%80%81%E5%95%8A)
 1. [有哪些令人震惊的冷知识](https://www.zhihu.com/search?q=%E6%9C%89%E5%93%AA%E4%BA%9B%E4%BB%A4%E4%BA%BA%E9%9C%87%E6%83%8A%E7%9A%84%E5%86%B7%E7%9F%A5%E8%AF%86)
-1. [为什么现在的员工都不爱公司](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E7%9A%84%E5%91%98%E5%B7%A5%E9%83%BD%E4%B8%8D%E7%88%B1%E5%85%AC%E5%8F%B8)
+1. [消费降级体现在什么地方](https://www.zhihu.com/search?q=%E6%B6%88%E8%B4%B9%E9%99%8D%E7%BA%A7%E4%BD%93%E7%8E%B0%E5%9C%A8%E4%BB%80%E4%B9%88%E5%9C%B0%E6%96%B9)
 1. [人在什么情况下成长的最快](https://www.zhihu.com/search?q=%E4%BA%BA%E5%9C%A8%E4%BB%80%E4%B9%88%E6%83%85%E5%86%B5%E4%B8%8B%E6%88%90%E9%95%BF%E7%9A%84%E6%9C%80%E5%BF%AB)
 1. [为什么大家都不提中国空间站了](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A4%A7%E5%AE%B6%E9%83%BD%E4%B8%8D%E6%8F%90%E4%B8%AD%E5%9B%BD%E7%A9%BA%E9%97%B4%E7%AB%99%E4%BA%86)
-1. [你住酒店时有过哪些奇葩经历](https://www.zhihu.com/search?q=%E4%BD%A0%E4%BD%8F%E9%85%92%E5%BA%97%E6%97%B6%E6%9C%89%E8%BF%87%E5%93%AA%E4%BA%9B%E5%A5%87%E8%91%A9%E7%BB%8F%E5%8E%86)
 1. [什么家庭才能养出松弛感的孩子](https://www.zhihu.com/search?q=%E4%BB%80%E4%B9%88%E5%AE%B6%E5%BA%AD%E6%89%8D%E8%83%BD%E5%85%BB%E5%87%BA%E6%9D%BE%E5%BC%9B%E6%84%9F%E7%9A%84%E5%AD%A9%E5%AD%90)
+1. [你有结账时发现太贵的尴尬经历吗](https://www.zhihu.com/search?q=%E4%BD%A0%E6%9C%89%E7%BB%93%E8%B4%A6%E6%97%B6%E5%8F%91%E7%8E%B0%E5%A4%AA%E8%B4%B5%E7%9A%84%E5%B0%B4%E5%B0%AC%E7%BB%8F%E5%8E%86%E5%90%97)
+1. [为什么只有在中国玉石才值钱](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%AA%E6%9C%89%E5%9C%A8%E4%B8%AD%E5%9B%BD%E7%8E%89%E7%9F%B3%E6%89%8D%E5%80%BC%E9%92%B1)
 
 ## 热门话题
 
