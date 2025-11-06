@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-11-06 14:19:06 +0800`
+`更新时间：2025-11-06 15:12:32 +0800`
 
 ## 热门搜索
 
-1. [为什么感觉国产电视剧节奏拖沓](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%84%9F%E8%A7%89%E5%9B%BD%E4%BA%A7%E7%94%B5%E8%A7%86%E5%89%A7%E8%8A%82%E5%A5%8F%E6%8B%96%E6%B2%93)
+1. [史上最长春节假期](https://www.zhihu.com/search?q=%E5%8F%B2%E4%B8%8A%E6%9C%80%E9%95%BF%E6%98%A5%E8%8A%82%E5%81%87%E6%9C%9F)
+1. [你见过的狠人有多绝](https://www.zhihu.com/search?q=%E4%BD%A0%E8%A7%81%E8%BF%87%E7%9A%84%E7%8B%A0%E4%BA%BA%E6%9C%89%E5%A4%9A%E7%BB%9D)
 1. [职业运动员究竟有多厉害](https://www.zhihu.com/search?q=%E8%81%8C%E4%B8%9A%E8%BF%90%E5%8A%A8%E5%91%98%E7%A9%B6%E7%AB%9F%E6%9C%89%E5%A4%9A%E5%8E%89%E5%AE%B3)
 1. [为什么老一辈人厌恶游戏](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%80%81%E4%B8%80%E8%BE%88%E4%BA%BA%E5%8E%8C%E6%81%B6%E6%B8%B8%E6%88%8F)
 1. [有哪些非常冷门且令人意外的知识](https://www.zhihu.com/search?q=%E6%9C%89%E5%93%AA%E4%BA%9B%E9%9D%9E%E5%B8%B8%E5%86%B7%E9%97%A8%E4%B8%94%E4%BB%A4%E4%BA%BA%E6%84%8F%E5%A4%96%E7%9A%84%E7%9F%A5%E8%AF%86)
