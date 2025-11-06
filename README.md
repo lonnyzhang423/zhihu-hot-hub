@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-11-06 15:24:55 +0800`
+`更新时间：2025-11-06 16:34:41 +0800`
 
 ## 热门搜索
 
-1. [秘鲁与墨西哥断绝外交关系](https://www.zhihu.com/search?q=%E7%A7%98%E9%B2%81%E4%B8%8E%E5%A2%A8%E8%A5%BF%E5%93%A5%E6%96%AD%E7%BB%9D%E5%A4%96%E4%BA%A4%E5%85%B3%E7%B3%BB)
+1. [商家回应26元上门开锁收费1300](https://www.zhihu.com/search?q=%E5%95%86%E5%AE%B6%E5%9B%9E%E5%BA%9426%E5%85%83%E4%B8%8A%E9%97%A8%E5%BC%80%E9%94%81%E6%94%B6%E8%B4%B91300)
+1. [你们是怎么看待打孩子这件事情的](https://www.zhihu.com/search?q=%E4%BD%A0%E4%BB%AC%E6%98%AF%E6%80%8E%E4%B9%88%E7%9C%8B%E5%BE%85%E6%89%93%E5%AD%A9%E5%AD%90%E8%BF%99%E4%BB%B6%E4%BA%8B%E6%83%85%E7%9A%84)
 1. [职业运动员究竟有多厉害](https://www.zhihu.com/search?q=%E8%81%8C%E4%B8%9A%E8%BF%90%E5%8A%A8%E5%91%98%E7%A9%B6%E7%AB%9F%E6%9C%89%E5%A4%9A%E5%8E%89%E5%AE%B3)
 1. [为什么老一辈人厌恶游戏](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%80%81%E4%B8%80%E8%BE%88%E4%BA%BA%E5%8E%8C%E6%81%B6%E6%B8%B8%E6%88%8F)
 1. [有哪些非常冷门且令人意外的知识](https://www.zhihu.com/search?q=%E6%9C%89%E5%93%AA%E4%BA%9B%E9%9D%9E%E5%B8%B8%E5%86%B7%E9%97%A8%E4%B8%94%E4%BB%A4%E4%BA%BA%E6%84%8F%E5%A4%96%E7%9A%84%E7%9F%A5%E8%AF%86)
