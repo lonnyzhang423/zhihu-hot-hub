@@ -11,12 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-11-08 21:28:07 +0800`
+`更新时间：2025-11-08 22:21:40 +0800`
 
 ## 热门搜索
 
-1. [未来3天或现大地磁暴](https://www.zhihu.com/search?q=%E6%9C%AA%E6%9D%A53%E5%A4%A9%E6%88%96%E7%8E%B0%E5%A4%A7%E5%9C%B0%E7%A3%81%E6%9A%B4)
-1. [知乎好物 100 榜单](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%E5%A5%BD%E7%89%A9%20100%20%E6%A6%9C%E5%8D%95)
+1. [今日立冬](https://www.zhihu.com/search?q=%E4%BB%8A%E6%97%A5%E7%AB%8B%E5%86%AC)
 1. [你知道的最震惊的冷知识是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9F%A5%E9%81%93%E7%9A%84%E6%9C%80%E9%9C%87%E6%83%8A%E7%9A%84%E5%86%B7%E7%9F%A5%E8%AF%86%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [快船vs太阳](https://www.zhihu.com/search?q=%E5%BF%AB%E8%88%B9vs%E5%A4%AA%E9%98%B3)
 1. [为什么老一辈人厌恶游戏](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%80%81%E4%B8%80%E8%BE%88%E4%BA%BA%E5%8E%8C%E6%81%B6%E6%B8%B8%E6%88%8F)
@@ -40,7 +39,6 @@
 1. [人在什么情况下成长的最快](https://www.zhihu.com/search?q=%E4%BA%BA%E5%9C%A8%E4%BB%80%E4%B9%88%E6%83%85%E5%86%B5%E4%B8%8B%E6%88%90%E9%95%BF%E7%9A%84%E6%9C%80%E5%BF%AB)
 1. [为什么大家都不提中国空间站了](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A4%A7%E5%AE%B6%E9%83%BD%E4%B8%8D%E6%8F%90%E4%B8%AD%E5%9B%BD%E7%A9%BA%E9%97%B4%E7%AB%99%E4%BA%86)
 1. [黄金什么时候会大跌](https://www.zhihu.com/search?q=%E9%BB%84%E9%87%91%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E4%BC%9A%E5%A4%A7%E8%B7%8C)
-1. [为什么只有在中国玉石才值钱](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%AA%E6%9C%89%E5%9C%A8%E4%B8%AD%E5%9B%BD%E7%8E%89%E7%9F%B3%E6%89%8D%E5%80%BC%E9%92%B1)
 
 ## 热门话题
 
