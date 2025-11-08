@@ -11,12 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-11-08 21:18:22 +0800`
+`更新时间：2025-11-08 22:09:52 +0800`
 
 ## 热门搜索
 
-1. [未来3天或现大地磁暴](https://www.zhihu.com/search?q=%E6%9C%AA%E6%9D%A53%E5%A4%A9%E6%88%96%E7%8E%B0%E5%A4%A7%E5%9C%B0%E7%A3%81%E6%9A%B4)
-1. [有哪些你去旅行后祛魅的城市](https://www.zhihu.com/search?q=%E6%9C%89%E5%93%AA%E4%BA%9B%E4%BD%A0%E5%8E%BB%E6%97%85%E8%A1%8C%E5%90%8E%E7%A5%9B%E9%AD%85%E7%9A%84%E5%9F%8E%E5%B8%82)
+1. [今日立冬](https://www.zhihu.com/search?q=%E4%BB%8A%E6%97%A5%E7%AB%8B%E5%86%AC)
 1. [你知道的最震惊的冷知识是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9F%A5%E9%81%93%E7%9A%84%E6%9C%80%E9%9C%87%E6%83%8A%E7%9A%84%E5%86%B7%E7%9F%A5%E8%AF%86%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [快船vs太阳](https://www.zhihu.com/search?q=%E5%BF%AB%E8%88%B9vs%E5%A4%AA%E9%98%B3)
 1. [为什么老一辈人厌恶游戏](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%80%81%E4%B8%80%E8%BE%88%E4%BA%BA%E5%8E%8C%E6%81%B6%E6%B8%B8%E6%88%8F)
