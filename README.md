@@ -11,11 +11,10 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-11-10 09:01:07 +0800`
+`更新时间：2025-11-10 11:13:15 +0800`
 
 ## 热门搜索
 
-1. [今日立冬](https://www.zhihu.com/search?q=%E4%BB%8A%E6%97%A5%E7%AB%8B%E5%86%AC)
 1. [T1夺冠](https://www.zhihu.com/search?q=T1%E5%A4%BA%E5%86%A0)
 1. [你知道的最震惊的冷知识是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9F%A5%E9%81%93%E7%9A%84%E6%9C%80%E9%9C%87%E6%83%8A%E7%9A%84%E5%86%B7%E7%9F%A5%E8%AF%86%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [父母腿脚不便 辅助工具](https://www.zhihu.com/search?q=%E7%88%B6%E6%AF%8D%E8%85%BF%E8%84%9A%E4%B8%8D%E4%BE%BF%20%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7)
@@ -36,11 +35,12 @@
 1. [饭店为防食客腹泻在菜里加抗生素](https://www.zhihu.com/search?q=%E9%A5%AD%E5%BA%97%E4%B8%BA%E9%98%B2%E9%A3%9F%E5%AE%A2%E8%85%B9%E6%B3%BB%E5%9C%A8%E8%8F%9C%E9%87%8C%E5%8A%A0%E6%8A%97%E7%94%9F%E7%B4%A0)
 1. [湖南通报医院副院长出轨眼科主任](https://www.zhihu.com/search?q=%E6%B9%96%E5%8D%97%E9%80%9A%E6%8A%A5%E5%8C%BB%E9%99%A2%E5%89%AF%E9%99%A2%E9%95%BF%E5%87%BA%E8%BD%A8%E7%9C%BC%E7%A7%91%E4%B8%BB%E4%BB%BB)
 1. [向太谈王家卫：投资他的老板都亏钱](https://www.zhihu.com/search?q=%E5%90%91%E5%A4%AA%E8%B0%88%E7%8E%8B%E5%AE%B6%E5%8D%AB%EF%BC%9A%E6%8A%95%E8%B5%84%E4%BB%96%E7%9A%84%E8%80%81%E6%9D%BF%E9%83%BD%E4%BA%8F%E9%92%B1)
-1. [宇树王兴兴谈具身机器人发展阶段类](https://www.zhihu.com/search?q=%E5%AE%87%E6%A0%91%E7%8E%8B%E5%85%B4%E5%85%B4%E8%B0%88%E5%85%B7%E8%BA%AB%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8F%91%E5%B1%95%E9%98%B6%E6%AE%B5%E7%B1%BB)
-1. [教育部要求不把人才称号作为高校评价指标](https://www.zhihu.com/search?q=%E6%95%99%E8%82%B2%E9%83%A8%E8%A6%81%E6%B1%82%E4%B8%8D%E6%8A%8A%E4%BA%BA%E6%89%8D%E7%A7%B0%E5%8F%B7%E4%BD%9C%E4%B8%BA%E9%AB%98%E6%A0%A1%E8%AF%84%E4%BB%B7%E6%8C%87%E6%A0%87)
 1. [女子「丽春」申请改名被拒](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E3%80%8C%E4%B8%BD%E6%98%A5%E3%80%8D%E7%94%B3%E8%AF%B7%E6%94%B9%E5%90%8D%E8%A2%AB%E6%8B%92)
 1. [科学家称发现「吃塑料」细菌](https://www.zhihu.com/search?q=%E7%A7%91%E5%AD%A6%E5%AE%B6%E7%A7%B0%E5%8F%91%E7%8E%B0%E3%80%8C%E5%90%83%E5%A1%91%E6%96%99%E3%80%8D%E7%BB%86%E8%8F%8C)
 1. [凌晨老板通知出差家里没人看孩子该怎么做](https://www.zhihu.com/search?q=%E5%87%8C%E6%99%A8%E8%80%81%E6%9D%BF%E9%80%9A%E7%9F%A5%E5%87%BA%E5%B7%AE%E5%AE%B6%E9%87%8C%E6%B2%A1%E4%BA%BA%E7%9C%8B%E5%AD%A9%E5%AD%90%E8%AF%A5%E6%80%8E%E4%B9%88%E5%81%9A)
+1. [为什么越来越多的阿里人选择去山姆](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E7%9A%84%E9%98%BF%E9%87%8C%E4%BA%BA%E9%80%89%E6%8B%A9%E5%8E%BB%E5%B1%B1%E5%A7%86)
+1. [牛油火锅配麻酱为何容易拉肚子](https://www.zhihu.com/search?q=%E7%89%9B%E6%B2%B9%E7%81%AB%E9%94%85%E9%85%8D%E9%BA%BB%E9%85%B1%E4%B8%BA%E4%BD%95%E5%AE%B9%E6%98%93%E6%8B%89%E8%82%9A%E5%AD%90)
+1. [美国政府「停摆」可能会持续多久](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E6%94%BF%E5%BA%9C%E3%80%8C%E5%81%9C%E6%91%86%E3%80%8D%E5%8F%AF%E8%83%BD%E4%BC%9A%E6%8C%81%E7%BB%AD%E5%A4%9A%E4%B9%85)
 
 ## 热门话题
 
