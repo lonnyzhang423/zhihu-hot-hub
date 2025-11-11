@@ -11,19 +11,21 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-11-11 11:41:35 +0800`
+`更新时间：2025-11-11 12:17:06 +0800`
 
 ## 热门搜索
 
 1. [记者节](https://www.zhihu.com/search?q=%E8%AE%B0%E8%80%85%E8%8A%82)
-1. [T1夺冠](https://www.zhihu.com/search?q=T1%E5%A4%BA%E5%86%A0)
 1. [火箭战胜雄鹿](https://www.zhihu.com/search?q=%E7%81%AB%E7%AE%AD%E6%88%98%E8%83%9C%E9%9B%84%E9%B9%BF)
+1. [你最讨厌微信朋友圈什么行为](https://www.zhihu.com/search?q=%E4%BD%A0%E6%9C%80%E8%AE%A8%E5%8E%8C%E5%BE%AE%E4%BF%A1%E6%9C%8B%E5%8F%8B%E5%9C%88%E4%BB%80%E4%B9%88%E8%A1%8C%E4%B8%BA)
 1. [为什么在中国邮箱不流行](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%9C%A8%E4%B8%AD%E5%9B%BD%E9%82%AE%E7%AE%B1%E4%B8%8D%E6%B5%81%E8%A1%8C)
+1. [工业克苏鲁什么意思](https://www.zhihu.com/search?q=%E5%B7%A5%E4%B8%9A%E5%85%8B%E8%8B%8F%E9%B2%81%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D)
 1. [有哪些非常冷门且令人意外的知识](https://www.zhihu.com/search?q=%E6%9C%89%E5%93%AA%E4%BA%9B%E9%9D%9E%E5%B8%B8%E5%86%B7%E9%97%A8%E4%B8%94%E4%BB%A4%E4%BA%BA%E6%84%8F%E5%A4%96%E7%9A%84%E7%9F%A5%E8%AF%86)
 1. [常年独居的人靠什么抵抗孤独](https://www.zhihu.com/search?q=%E5%B8%B8%E5%B9%B4%E7%8B%AC%E5%B1%85%E7%9A%84%E4%BA%BA%E9%9D%A0%E4%BB%80%E4%B9%88%E6%8A%B5%E6%8A%97%E5%AD%A4%E7%8B%AC)
 1. [你见过最真实的商战是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E8%A7%81%E8%BF%87%E6%9C%80%E7%9C%9F%E5%AE%9E%E7%9A%84%E5%95%86%E6%88%98%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [颛顼为什么要绝地天通](https://www.zhihu.com/search?q=%E9%A2%9B%E9%A1%BC%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E7%BB%9D%E5%9C%B0%E5%A4%A9%E9%80%9A)
 1. [灰熊vs雷霆](https://www.zhihu.com/search?q=%E7%81%B0%E7%86%8Avs%E9%9B%B7%E9%9C%86)
+1. [有哪些古籍是近现代才被重新发现的](https://www.zhihu.com/search?q=%E6%9C%89%E5%93%AA%E4%BA%9B%E5%8F%A4%E7%B1%8D%E6%98%AF%E8%BF%91%E7%8E%B0%E4%BB%A3%E6%89%8D%E8%A2%AB%E9%87%8D%E6%96%B0%E5%8F%91%E7%8E%B0%E7%9A%84)
 1. [人真的一定要上班吗](https://www.zhihu.com/search?q=%E4%BA%BA%E7%9C%9F%E7%9A%84%E4%B8%80%E5%AE%9A%E8%A6%81%E4%B8%8A%E7%8F%AD%E5%90%97)
 1. [为什么会人走茶凉](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E4%BA%BA%E8%B5%B0%E8%8C%B6%E5%87%89)
 1. [如何评价电影新少林五祖](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E7%94%B5%E5%BD%B1%E6%96%B0%E5%B0%91%E6%9E%97%E4%BA%94%E7%A5%96)
@@ -39,7 +41,6 @@
 1. [你受过最狠的羞辱是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E5%8F%97%E8%BF%87%E6%9C%80%E7%8B%A0%E7%9A%84%E7%BE%9E%E8%BE%B1%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [有哪些令人震惊的冷知识](https://www.zhihu.com/search?q=%E6%9C%89%E5%93%AA%E4%BA%9B%E4%BB%A4%E4%BA%BA%E9%9C%87%E6%83%8A%E7%9A%84%E5%86%B7%E7%9F%A5%E8%AF%86)
 1. [如何看待健身锻炼到最后一身伤病](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%81%A5%E8%BA%AB%E9%94%BB%E7%82%BC%E5%88%B0%E6%9C%80%E5%90%8E%E4%B8%80%E8%BA%AB%E4%BC%A4%E7%97%85)
-1. [怎么自学成为计算机大佬](https://www.zhihu.com/search?q=%E6%80%8E%E4%B9%88%E8%87%AA%E5%AD%A6%E6%88%90%E4%B8%BA%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%A4%A7%E4%BD%AC)
 
 ## 热门话题
 
