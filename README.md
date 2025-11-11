@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-11-11 19:23:12 +0800`
+`更新时间：2025-11-11 20:54:24 +0800`
 
 ## 热门搜索
 
-1. [记者节](https://www.zhihu.com/search?q=%E8%AE%B0%E8%80%85%E8%8A%82)
+1. [执行力强是种怎样的体验](https://www.zhihu.com/search?q=%E6%89%A7%E8%A1%8C%E5%8A%9B%E5%BC%BA%E6%98%AF%E7%A7%8D%E6%80%8E%E6%A0%B7%E7%9A%84%E4%BD%93%E9%AA%8C)
+1. [荷兰考虑放弃夺取安世控制权](https://www.zhihu.com/search?q=%E8%8D%B7%E5%85%B0%E8%80%83%E8%99%91%E6%94%BE%E5%BC%83%E5%A4%BA%E5%8F%96%E5%AE%89%E4%B8%96%E6%8E%A7%E5%88%B6%E6%9D%83)
 1. [快船五连败](https://www.zhihu.com/search?q=%E5%BF%AB%E8%88%B9%E4%BA%94%E8%BF%9E%E8%B4%A5)
 1. [火箭战胜雄鹿](https://www.zhihu.com/search?q=%E7%81%AB%E7%AE%AD%E6%88%98%E8%83%9C%E9%9B%84%E9%B9%BF)
 1. [你最讨厌微信朋友圈什么行为](https://www.zhihu.com/search?q=%E4%BD%A0%E6%9C%80%E8%AE%A8%E5%8E%8C%E5%BE%AE%E4%BF%A1%E6%9C%8B%E5%8F%8B%E5%9C%88%E4%BB%80%E4%B9%88%E8%A1%8C%E4%B8%BA)
