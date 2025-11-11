@@ -11,13 +11,15 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-11-11 18:29:59 +0800`
+`更新时间：2025-11-11 19:23:12 +0800`
 
 ## 热门搜索
 
-1. [如何煮一道简单美味的汤](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%85%AE%E4%B8%80%E9%81%93%E7%AE%80%E5%8D%95%E7%BE%8E%E5%91%B3%E7%9A%84%E6%B1%A4)
+1. [记者节](https://www.zhihu.com/search?q=%E8%AE%B0%E8%80%85%E8%8A%82)
+1. [快船五连败](https://www.zhihu.com/search?q=%E5%BF%AB%E8%88%B9%E4%BA%94%E8%BF%9E%E8%B4%A5)
 1. [火箭战胜雄鹿](https://www.zhihu.com/search?q=%E7%81%AB%E7%AE%AD%E6%88%98%E8%83%9C%E9%9B%84%E9%B9%BF)
 1. [你最讨厌微信朋友圈什么行为](https://www.zhihu.com/search?q=%E4%BD%A0%E6%9C%80%E8%AE%A8%E5%8E%8C%E5%BE%AE%E4%BF%A1%E6%9C%8B%E5%8F%8B%E5%9C%88%E4%BB%80%E4%B9%88%E8%A1%8C%E4%B8%BA)
+1. [陈梦晋级女单16强](https://www.zhihu.com/search?q=%E9%99%88%E6%A2%A6%E6%99%8B%E7%BA%A7%E5%A5%B3%E5%8D%9516%E5%BC%BA)
 1. [为什么在中国邮箱不流行](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%9C%A8%E4%B8%AD%E5%9B%BD%E9%82%AE%E7%AE%B1%E4%B8%8D%E6%B5%81%E8%A1%8C)
 1. [工业克苏鲁什么意思](https://www.zhihu.com/search?q=%E5%B7%A5%E4%B8%9A%E5%85%8B%E8%8B%8F%E9%B2%81%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D)
 1. [有哪些非常冷门且令人意外的知识](https://www.zhihu.com/search?q=%E6%9C%89%E5%93%AA%E4%BA%9B%E9%9D%9E%E5%B8%B8%E5%86%B7%E9%97%A8%E4%B8%94%E4%BB%A4%E4%BA%BA%E6%84%8F%E5%A4%96%E7%9A%84%E7%9F%A5%E8%AF%86)
@@ -35,12 +37,11 @@
 1. [为什么有些人看起来生命力很强](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E4%BA%9B%E4%BA%BA%E7%9C%8B%E8%B5%B7%E6%9D%A5%E7%94%9F%E5%91%BD%E5%8A%9B%E5%BE%88%E5%BC%BA)
 1. [你的低成本爱好是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9A%84%E4%BD%8E%E6%88%90%E6%9C%AC%E7%88%B1%E5%A5%BD%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [炒股让你明白了什么真理](https://www.zhihu.com/search?q=%E7%82%92%E8%82%A1%E8%AE%A9%E4%BD%A0%E6%98%8E%E7%99%BD%E4%BA%86%E4%BB%80%E4%B9%88%E7%9C%9F%E7%90%86)
+1. [用DeepSeek选股炒股可行吗](https://www.zhihu.com/search?q=%E7%94%A8DeepSeek%E9%80%89%E8%82%A1%E7%82%92%E8%82%A1%E5%8F%AF%E8%A1%8C%E5%90%97)
 1. [降水线真的北移了么](https://www.zhihu.com/search?q=%E9%99%8D%E6%B0%B4%E7%BA%BF%E7%9C%9F%E7%9A%84%E5%8C%97%E7%A7%BB%E4%BA%86%E4%B9%88)
 1. [旅行后你对哪个城市祛魅了](https://www.zhihu.com/search?q=%E6%97%85%E8%A1%8C%E5%90%8E%E4%BD%A0%E5%AF%B9%E5%93%AA%E4%B8%AA%E5%9F%8E%E5%B8%82%E7%A5%9B%E9%AD%85%E4%BA%86)
 1. [长期不上班的人都是什么状态啊](https://www.zhihu.com/search?q=%E9%95%BF%E6%9C%9F%E4%B8%8D%E4%B8%8A%E7%8F%AD%E7%9A%84%E4%BA%BA%E9%83%BD%E6%98%AF%E4%BB%80%E4%B9%88%E7%8A%B6%E6%80%81%E5%95%8A)
 1. [你受过最狠的羞辱是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E5%8F%97%E8%BF%87%E6%9C%80%E7%8B%A0%E7%9A%84%E7%BE%9E%E8%BE%B1%E6%98%AF%E4%BB%80%E4%B9%88)
-1. [有哪些令人震惊的冷知识](https://www.zhihu.com/search?q=%E6%9C%89%E5%93%AA%E4%BA%9B%E4%BB%A4%E4%BA%BA%E9%9C%87%E6%83%8A%E7%9A%84%E5%86%B7%E7%9F%A5%E8%AF%86)
-1. [如何看待健身锻炼到最后一身伤病](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%81%A5%E8%BA%AB%E9%94%BB%E7%82%BC%E5%88%B0%E6%9C%80%E5%90%8E%E4%B8%80%E8%BA%AB%E4%BC%A4%E7%97%85)
 
 ## 热门话题
 
