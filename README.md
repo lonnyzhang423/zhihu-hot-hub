@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-11-13 14:19:35 +0800`
+`更新时间：2025-11-13 15:12:41 +0800`
 
 ## 热门搜索
 
@@ -33,7 +33,6 @@
 1. [预防老人跌倒 助行设备](https://www.zhihu.com/search?q=%E9%A2%84%E9%98%B2%E8%80%81%E4%BA%BA%E8%B7%8C%E5%80%92%20%E5%8A%A9%E8%A1%8C%E8%AE%BE%E5%A4%87)
 1. [老年人独立出行 辅助工具](https://www.zhihu.com/search?q=%E8%80%81%E5%B9%B4%E4%BA%BA%E7%8B%AC%E7%AB%8B%E5%87%BA%E8%A1%8C%20%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7)
 1. [医生测评外骨骼机器人](https://www.zhihu.com/search?q=%E5%8C%BB%E7%94%9F%E6%B5%8B%E8%AF%84%E5%A4%96%E9%AA%A8%E9%AA%BC%E6%9C%BA%E5%99%A8%E4%BA%BA)
-1. [秦始皇祖母陵墓出土长臂猿](https://www.zhihu.com/search?q=%E7%A7%A6%E5%A7%8B%E7%9A%87%E7%A5%96%E6%AF%8D%E9%99%B5%E5%A2%93%E5%87%BA%E5%9C%9F%E9%95%BF%E8%87%82%E7%8C%BF)
 1. [保安信 AI 签约协议公司需担责吗](https://www.zhihu.com/search?q=%E4%BF%9D%E5%AE%89%E4%BF%A1%20AI%20%E7%AD%BE%E7%BA%A6%E5%8D%8F%E8%AE%AE%E5%85%AC%E5%8F%B8%E9%9C%80%E6%8B%85%E8%B4%A3%E5%90%97)
 1. [《繁花》剧组称古二非法录音且失实](https://www.zhihu.com/search?q=%E3%80%8A%E7%B9%81%E8%8A%B1%E3%80%8B%E5%89%A7%E7%BB%84%E7%A7%B0%E5%8F%A4%E4%BA%8C%E9%9D%9E%E6%B3%95%E5%BD%95%E9%9F%B3%E4%B8%94%E5%A4%B1%E5%AE%9E)
 1. [临床医学发生了什么](https://www.zhihu.com/search?q=%E4%B8%B4%E5%BA%8A%E5%8C%BB%E5%AD%A6%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88)
@@ -43,6 +42,7 @@
 1. [为什么弓箭不能空放而电磁弹射可以](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BC%93%E7%AE%AD%E4%B8%8D%E8%83%BD%E7%A9%BA%E6%94%BE%E8%80%8C%E7%94%B5%E7%A3%81%E5%BC%B9%E5%B0%84%E5%8F%AF%E4%BB%A5)
 1. [杭州一小区物业不干了是怎么回事](https://www.zhihu.com/search?q=%E6%9D%AD%E5%B7%9E%E4%B8%80%E5%B0%8F%E5%8C%BA%E7%89%A9%E4%B8%9A%E4%B8%8D%E5%B9%B2%E4%BA%86%E6%98%AF%E6%80%8E%E4%B9%88%E5%9B%9E%E4%BA%8B)
 1. [大卫科波菲尔的魔术有科学解释了吗](https://www.zhihu.com/search?q=%E5%A4%A7%E5%8D%AB%E7%A7%91%E6%B3%A2%E8%8F%B2%E5%B0%94%E7%9A%84%E9%AD%94%E6%9C%AF%E6%9C%89%E7%A7%91%E5%AD%A6%E8%A7%A3%E9%87%8A%E4%BA%86%E5%90%97)
+1. [女子电车开 3 年后断崖式掉电](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E7%94%B5%E8%BD%A6%E5%BC%80%203%20%E5%B9%B4%E5%90%8E%E6%96%AD%E5%B4%96%E5%BC%8F%E6%8E%89%E7%94%B5)
 
 ## 热门话题
 
