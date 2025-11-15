@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-11-15 07:23:35 +0800`
+`更新时间：2025-11-15 09:57:34 +0800`
 
 ## 热门搜索
 
-1. [10月70城房价出炉](https://www.zhihu.com/search?q=10%E6%9C%8870%E5%9F%8E%E6%88%BF%E4%BB%B7%E5%87%BA%E7%82%89)
-1. [你们闻过最臭的是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E4%BB%AC%E9%97%BB%E8%BF%87%E6%9C%80%E8%87%AD%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88)
+1. [樊振东3-1孙闻](https://www.zhihu.com/search?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C3-1%E5%AD%99%E9%97%BB)
+1. [如何评价举起手来这种电影](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E4%B8%BE%E8%B5%B7%E6%89%8B%E6%9D%A5%E8%BF%99%E7%A7%8D%E7%94%B5%E5%BD%B1)
 1. [你最讨厌微信朋友圈什么行为](https://www.zhihu.com/search?q=%E4%BD%A0%E6%9C%80%E8%AE%A8%E5%8E%8C%E5%BE%AE%E4%BF%A1%E6%9C%8B%E5%8F%8B%E5%9C%88%E4%BB%80%E4%B9%88%E8%A1%8C%E4%B8%BA)
 1. [为什么在中国邮箱不流行](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%9C%A8%E4%B8%AD%E5%9B%BD%E9%82%AE%E7%AE%B1%E4%B8%8D%E6%B5%81%E8%A1%8C)
 1. [孙颖莎晋级女单四强](https://www.zhihu.com/search?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E6%99%8B%E7%BA%A7%E5%A5%B3%E5%8D%95%E5%9B%9B%E5%BC%BA)
