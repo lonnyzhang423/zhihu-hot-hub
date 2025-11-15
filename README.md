@@ -11,12 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-11-15 15:10:58 +0800`
+`更新时间：2025-11-15 16:14:53 +0800`
 
 ## 热门搜索
 
-1. [10月70城房价出炉](https://www.zhihu.com/search?q=10%E6%9C%8870%E5%9F%8E%E6%88%BF%E4%BB%B7%E5%87%BA%E7%82%89)
-1. [你们闻过最臭的是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E4%BB%AC%E9%97%BB%E8%BF%87%E6%9C%80%E8%87%AD%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88)
+1. [蓝战非车祸伤口感染](https://www.zhihu.com/search?q=%E8%93%9D%E6%88%98%E9%9D%9E%E8%BD%A6%E7%A5%B8%E4%BC%A4%E5%8F%A3%E6%84%9F%E6%9F%93)
 1. [为什么在中国邮箱不流行](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%9C%A8%E4%B8%AD%E5%9B%BD%E9%82%AE%E7%AE%B1%E4%B8%8D%E6%B5%81%E8%A1%8C)
 1. [孙颖莎晋级女单四强](https://www.zhihu.com/search?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E6%99%8B%E7%BA%A7%E5%A5%B3%E5%8D%95%E5%9B%9B%E5%BC%BA)
 1. [演员知道自己正在拍一部烂片吗](https://www.zhihu.com/search?q=%E6%BC%94%E5%91%98%E7%9F%A5%E9%81%93%E8%87%AA%E5%B7%B1%E6%AD%A3%E5%9C%A8%E6%8B%8D%E4%B8%80%E9%83%A8%E7%83%82%E7%89%87%E5%90%97)
@@ -31,6 +30,7 @@
 1. [社保断缴的后果有些什么](https://www.zhihu.com/search?q=%E7%A4%BE%E4%BF%9D%E6%96%AD%E7%BC%B4%E7%9A%84%E5%90%8E%E6%9E%9C%E6%9C%89%E4%BA%9B%E4%BB%80%E4%B9%88)
 1. [用DeepSeek选股炒股可行吗](https://www.zhihu.com/search?q=%E7%94%A8DeepSeek%E9%80%89%E8%82%A1%E7%82%92%E8%82%A1%E5%8F%AF%E8%A1%8C%E5%90%97)
 1. [为什么女朋友总是让我去猜](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A5%B3%E6%9C%8B%E5%8F%8B%E6%80%BB%E6%98%AF%E8%AE%A9%E6%88%91%E5%8E%BB%E7%8C%9C)
+1. [10月70城房价出炉](https://www.zhihu.com/search?q=10%E6%9C%8870%E5%9F%8E%E6%88%BF%E4%BB%B7%E5%87%BA%E7%82%89)
 1. [有哪些令人震惊的冷知识](https://www.zhihu.com/search?q=%E6%9C%89%E5%93%AA%E4%BA%9B%E4%BB%A4%E4%BA%BA%E9%9C%87%E6%83%8A%E7%9A%84%E5%86%B7%E7%9F%A5%E8%AF%86)
 1. [为什么现在的员工都不爱公司](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E7%9A%84%E5%91%98%E5%B7%A5%E9%83%BD%E4%B8%8D%E7%88%B1%E5%85%AC%E5%8F%B8)
 1. [人在什么情况下成长的最快](https://www.zhihu.com/search?q=%E4%BA%BA%E5%9C%A8%E4%BB%80%E4%B9%88%E6%83%85%E5%86%B5%E4%B8%8B%E6%88%90%E9%95%BF%E7%9A%84%E6%9C%80%E5%BF%AB)
