@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-11-17 01:20:50 +0800`
+`更新时间：2025-11-17 02:33:57 +0800`
 
 ## 热门搜索
 
 1. [金鸡奖获奖名单](https://www.zhihu.com/search?q=%E9%87%91%E9%B8%A1%E5%A5%96%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95)
+1. [孙颖莎vs王曼昱](https://www.zhihu.com/search?q=%E5%AD%99%E9%A2%96%E8%8E%8Evs%E7%8E%8B%E6%9B%BC%E6%98%B1)
 1. [父母腿脚不便 辅助工具](https://www.zhihu.com/search?q=%E7%88%B6%E6%AF%8D%E8%85%BF%E8%84%9A%E4%B8%8D%E4%BE%BF%20%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7)
 1. [老人走路累 外骨骼有用吗](https://www.zhihu.com/search?q=%E8%80%81%E4%BA%BA%E8%B5%B0%E8%B7%AF%E7%B4%AF%20%E5%A4%96%E9%AA%A8%E9%AA%BC%E6%9C%89%E7%94%A8%E5%90%97)
 1. [长辈上下楼梯困难 解决方案](https://www.zhihu.com/search?q=%E9%95%BF%E8%BE%88%E4%B8%8A%E4%B8%8B%E6%A5%BC%E6%A2%AF%E5%9B%B0%E9%9A%BE%20%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88)
