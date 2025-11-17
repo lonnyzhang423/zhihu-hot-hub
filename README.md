@@ -11,36 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-11-17 17:31:48 +0800`
+`更新时间：2025-11-17 18:57:36 +0800`
 
 ## 热门搜索
 
-1. [金鸡奖获奖名单](https://www.zhihu.com/search?q=%E9%87%91%E9%B8%A1%E5%A5%96%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95)
-1. [孙颖莎vs王曼昱](https://www.zhihu.com/search?q=%E5%AD%99%E9%A2%96%E8%8E%8Evs%E7%8E%8B%E6%9B%BC%E6%98%B1)
-1. [影视作品中哪个武器最奇葩](https://www.zhihu.com/search?q=%E5%BD%B1%E8%A7%86%E4%BD%9C%E5%93%81%E4%B8%AD%E5%93%AA%E4%B8%AA%E6%AD%A6%E5%99%A8%E6%9C%80%E5%A5%87%E8%91%A9)
-1. [父母腿脚不便 辅助工具](https://www.zhihu.com/search?q=%E7%88%B6%E6%AF%8D%E8%85%BF%E8%84%9A%E4%B8%8D%E4%BE%BF%20%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7)
-1. [老人走路累 外骨骼有用吗](https://www.zhihu.com/search?q=%E8%80%81%E4%BA%BA%E8%B5%B0%E8%B7%AF%E7%B4%AF%20%E5%A4%96%E9%AA%A8%E9%AA%BC%E6%9C%89%E7%94%A8%E5%90%97)
-1. [长辈上下楼梯困难 解决方案](https://www.zhihu.com/search?q=%E9%95%BF%E8%BE%88%E4%B8%8A%E4%B8%8B%E6%A5%BC%E6%A2%AF%E5%9B%B0%E9%9A%BE%20%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88)
-1. [预防老人跌倒 助行设备](https://www.zhihu.com/search?q=%E9%A2%84%E9%98%B2%E8%80%81%E4%BA%BA%E8%B7%8C%E5%80%92%20%E5%8A%A9%E8%A1%8C%E8%AE%BE%E5%A4%87)
-1. [老年人独立出行 辅助工具](https://www.zhihu.com/search?q=%E8%80%81%E5%B9%B4%E4%BA%BA%E7%8B%AC%E7%AB%8B%E5%87%BA%E8%A1%8C%20%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7)
-1. [医生测评外骨骼机器人](https://www.zhihu.com/search?q=%E5%8C%BB%E7%94%9F%E6%B5%8B%E8%AF%84%E5%A4%96%E9%AA%A8%E9%AA%BC%E6%9C%BA%E5%99%A8%E4%BA%BA)
-1. [女歌手意外受到电动座椅架挤压身亡](https://www.zhihu.com/search?q=%E5%A5%B3%E6%AD%8C%E6%89%8B%E6%84%8F%E5%A4%96%E5%8F%97%E5%88%B0%E7%94%B5%E5%8A%A8%E5%BA%A7%E6%A4%85%E6%9E%B6%E6%8C%A4%E5%8E%8B%E8%BA%AB%E4%BA%A1)
-1. [唐朝诡事录之长安](https://www.zhihu.com/search?q=%E5%94%90%E6%9C%9D%E8%AF%A1%E4%BA%8B%E5%BD%95%E4%B9%8B%E9%95%BF%E5%AE%89)
-1. [神舟二十号乘组将于今日返回](https://www.zhihu.com/search?q=%E7%A5%9E%E8%88%9F%E4%BA%8C%E5%8D%81%E5%8F%B7%E4%B9%98%E7%BB%84%E5%B0%86%E4%BA%8E%E4%BB%8A%E6%97%A5%E8%BF%94%E5%9B%9E)
-1. [神22飞船择机发射](https://www.zhihu.com/search?q=%E7%A5%9E22%E9%A3%9E%E8%88%B9%E6%8B%A9%E6%9C%BA%E5%8F%91%E5%B0%84)
-1. [李阳称董宇辉英语差发音怪](https://www.zhihu.com/search?q=%E6%9D%8E%E9%98%B3%E7%A7%B0%E8%91%A3%E5%AE%87%E8%BE%89%E8%8B%B1%E8%AF%AD%E5%B7%AE%E5%8F%91%E9%9F%B3%E6%80%AA)
-1. [蓝色起源成功发射新格伦火箭](https://www.zhihu.com/search?q=%E8%93%9D%E8%89%B2%E8%B5%B7%E6%BA%90%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84%E6%96%B0%E6%A0%BC%E4%BC%A6%E7%81%AB%E7%AE%AD)
-1. [微信小程序将在iOS端接入虚拟支付](https://www.zhihu.com/search?q=%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E5%B0%86%E5%9C%A8iOS%E7%AB%AF%E6%8E%A5%E5%85%A5%E8%99%9A%E6%8B%9F%E6%94%AF%E4%BB%98)
-1. [《喜人奇妙夜》第二季第八期](https://www.zhihu.com/search?q=%E3%80%8A%E5%96%9C%E4%BA%BA%E5%A5%87%E5%A6%99%E5%A4%9C%E3%80%8B%E7%AC%AC%E4%BA%8C%E5%AD%A3%E7%AC%AC%E5%85%AB%E6%9C%9F)
-1. [张兴朝《冷不丁梆梆就两拳》](https://www.zhihu.com/search?q=%E5%BC%A0%E5%85%B4%E6%9C%9D%E3%80%8A%E5%86%B7%E4%B8%8D%E4%B8%81%E6%A2%86%E6%A2%86%E5%B0%B1%E4%B8%A4%E6%8B%B3%E3%80%8B)
-1. [神舟二十号乘组返回](https://www.zhihu.com/search?q=%E7%A5%9E%E8%88%9F%E4%BA%8C%E5%8D%81%E5%8F%B7%E4%B9%98%E7%BB%84%E8%BF%94%E5%9B%9E)
-1. [浙江高考外语听力第一节录音将播放两遍](https://www.zhihu.com/search?q=%E6%B5%99%E6%B1%9F%E9%AB%98%E8%80%83%E5%A4%96%E8%AF%AD%E5%90%AC%E5%8A%9B%E7%AC%AC%E4%B8%80%E8%8A%82%E5%BD%95%E9%9F%B3%E5%B0%86%E6%92%AD%E6%94%BE%E4%B8%A4%E9%81%8D)
-1. [大牌尾货被曝是按吨回收的二手衣服](https://www.zhihu.com/search?q=%E5%A4%A7%E7%89%8C%E5%B0%BE%E8%B4%A7%E8%A2%AB%E6%9B%9D%E6%98%AF%E6%8C%89%E5%90%A8%E5%9B%9E%E6%94%B6%E7%9A%84%E4%BA%8C%E6%89%8B%E8%A1%A3%E6%9C%8D)
-1. [理想汽车针对质量事故内部问责](https://www.zhihu.com/search?q=%E7%90%86%E6%83%B3%E6%B1%BD%E8%BD%A6%E9%92%88%E5%AF%B9%E8%B4%A8%E9%87%8F%E4%BA%8B%E6%95%85%E5%86%85%E9%83%A8%E9%97%AE%E8%B4%A3)
-1. [四只「小鼠航天员」返回地球](https://www.zhihu.com/search?q=%E5%9B%9B%E5%8F%AA%E3%80%8C%E5%B0%8F%E9%BC%A0%E8%88%AA%E5%A4%A9%E5%91%98%E3%80%8D%E8%BF%94%E5%9B%9E%E5%9C%B0%E7%90%83)
-1. [马龙黄友政vs牛冠凯夏易正](https://www.zhihu.com/search?q=%E9%A9%AC%E9%BE%99%E9%BB%84%E5%8F%8B%E6%94%BFvs%E7%89%9B%E5%86%A0%E5%87%AF%E5%A4%8F%E6%98%93%E6%AD%A3)
-1. [马龙全运会首秀](https://www.zhihu.com/search?q=%E9%A9%AC%E9%BE%99%E5%85%A8%E8%BF%90%E4%BC%9A%E9%A6%96%E7%A7%80)
-1. [马龙黄友政3比1牛冠凯夏易正](https://www.zhihu.com/search?q=%E9%A9%AC%E9%BE%99%E9%BB%84%E5%8F%8B%E6%94%BF3%E6%AF%941%E7%89%9B%E5%86%A0%E5%87%AF%E5%A4%8F%E6%98%93%E6%AD%A3)
+暂无数据
 
 ## 热门话题
 
