@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-11-17 12:32:45 +0800`
+`更新时间：2025-11-17 13:27:32 +0800`
 
 ## 热门搜索
 
@@ -32,9 +32,6 @@
 1. [蓝色起源成功发射新格伦火箭](https://www.zhihu.com/search?q=%E8%93%9D%E8%89%B2%E8%B5%B7%E6%BA%90%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84%E6%96%B0%E6%A0%BC%E4%BC%A6%E7%81%AB%E7%AE%AD)
 1. [微信小程序将在iOS端接入虚拟支付](https://www.zhihu.com/search?q=%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E5%B0%86%E5%9C%A8iOS%E7%AB%AF%E6%8E%A5%E5%85%A5%E8%99%9A%E6%8B%9F%E6%94%AF%E4%BB%98)
 1. [《喜人奇妙夜》第二季第八期](https://www.zhihu.com/search?q=%E3%80%8A%E5%96%9C%E4%BA%BA%E5%A5%87%E5%A6%99%E5%A4%9C%E3%80%8B%E7%AC%AC%E4%BA%8C%E5%AD%A3%E7%AC%AC%E5%85%AB%E6%9C%9F)
-1. [唱歌手孩子王被传车祸去世后「复活」](https://www.zhihu.com/search?q=%E5%94%B1%E6%AD%8C%E6%89%8B%E5%AD%A9%E5%AD%90%E7%8E%8B%E8%A2%AB%E4%BC%A0%E8%BD%A6%E7%A5%B8%E5%8E%BB%E4%B8%96%E5%90%8E%E3%80%8C%E5%A4%8D%E6%B4%BB%E3%80%8D)
-1. [子救命药纳入医保后却遇断供](https://www.zhihu.com/search?q=%E5%AD%90%E6%95%91%E5%91%BD%E8%8D%AF%E7%BA%B3%E5%85%A5%E5%8C%BB%E4%BF%9D%E5%90%8E%E5%8D%B4%E9%81%87%E6%96%AD%E4%BE%9B)
-1. [孩子救命药纳入医保后却遇断供](https://www.zhihu.com/search?q=%E5%AD%A9%E5%AD%90%E6%95%91%E5%91%BD%E8%8D%AF%E7%BA%B3%E5%85%A5%E5%8C%BB%E4%BF%9D%E5%90%8E%E5%8D%B4%E9%81%87%E6%96%AD%E4%BE%9B)
 1. [张兴朝《冷不丁梆梆就两拳》](https://www.zhihu.com/search?q=%E5%BC%A0%E5%85%B4%E6%9C%9D%E3%80%8A%E5%86%B7%E4%B8%8D%E4%B8%81%E6%A2%86%E6%A2%86%E5%B0%B1%E4%B8%A4%E6%8B%B3%E3%80%8B)
 1. [LeCun 发表论文 LeJEPA](https://www.zhihu.com/search?q=LeCun%20%E5%8F%91%E8%A1%A8%E8%AE%BA%E6%96%87%20LeJEPA)
 1. [伯克利大学爆发冲突](https://www.zhihu.com/search?q=%E4%BC%AF%E5%85%8B%E5%88%A9%E5%A4%A7%E5%AD%A6%E7%88%86%E5%8F%91%E5%86%B2%E7%AA%81)
@@ -43,6 +40,8 @@
 1. [我国星地微波高码率通信技术取得突破](https://www.zhihu.com/search?q=%E6%88%91%E5%9B%BD%E6%98%9F%E5%9C%B0%E5%BE%AE%E6%B3%A2%E9%AB%98%E7%A0%81%E7%8E%87%E9%80%9A%E4%BF%A1%E6%8A%80%E6%9C%AF%E5%8F%96%E5%BE%97%E7%AA%81%E7%A0%B4)
 1. [神舟二十号乘组返回](https://www.zhihu.com/search?q=%E7%A5%9E%E8%88%9F%E4%BA%8C%E5%8D%81%E5%8F%B7%E4%B9%98%E7%BB%84%E8%BF%94%E5%9B%9E)
 1. [浙江高考外语听力第一节录音将播放两遍](https://www.zhihu.com/search?q=%E6%B5%99%E6%B1%9F%E9%AB%98%E8%80%83%E5%A4%96%E8%AF%AD%E5%90%AC%E5%8A%9B%E7%AC%AC%E4%B8%80%E8%8A%82%E5%BD%95%E9%9F%B3%E5%B0%86%E6%92%AD%E6%94%BE%E4%B8%A4%E9%81%8D)
+1. [组装扇贝单个成本不到1元](https://www.zhihu.com/search?q=%E7%BB%84%E8%A3%85%E6%89%87%E8%B4%9D%E5%8D%95%E4%B8%AA%E6%88%90%E6%9C%AC%E4%B8%8D%E5%88%B01%E5%85%83)
+1. [蓝战非车祸伤口感染](https://www.zhihu.com/search?q=%E8%93%9D%E6%88%98%E9%9D%9E%E8%BD%A6%E7%A5%B8%E4%BC%A4%E5%8F%A3%E6%84%9F%E6%9F%93)
 
 ## 热门话题
 
