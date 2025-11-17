@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-11-17 13:27:32 +0800`
+`更新时间：2025-11-17 14:39:22 +0800`
 
 ## 热门搜索
 
-1. [金鸡奖获奖名单](https://www.zhihu.com/search?q=%E9%87%91%E9%B8%A1%E5%A5%96%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95)
-1. [孙颖莎vs王曼昱](https://www.zhihu.com/search?q=%E5%AD%99%E9%A2%96%E8%8E%8Evs%E7%8E%8B%E6%9B%BC%E6%98%B1)
+1. [广东女篮冠军](https://www.zhihu.com/search?q=%E5%B9%BF%E4%B8%9C%E5%A5%B3%E7%AF%AE%E5%86%A0%E5%86%9B)
+1. [张雨霏200蝶季军](https://www.zhihu.com/search?q=%E5%BC%A0%E9%9B%A8%E9%9C%8F200%E8%9D%B6%E5%AD%A3%E5%86%9B)
 1. [影视作品中哪个武器最奇葩](https://www.zhihu.com/search?q=%E5%BD%B1%E8%A7%86%E4%BD%9C%E5%93%81%E4%B8%AD%E5%93%AA%E4%B8%AA%E6%AD%A6%E5%99%A8%E6%9C%80%E5%A5%87%E8%91%A9)
 1. [父母腿脚不便 辅助工具](https://www.zhihu.com/search?q=%E7%88%B6%E6%AF%8D%E8%85%BF%E8%84%9A%E4%B8%8D%E4%BE%BF%20%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7)
 1. [老人走路累 外骨骼有用吗](https://www.zhihu.com/search?q=%E8%80%81%E4%BA%BA%E8%B5%B0%E8%B7%AF%E7%B4%AF%20%E5%A4%96%E9%AA%A8%E9%AA%BC%E6%9C%89%E7%94%A8%E5%90%97)
@@ -35,7 +35,7 @@
 1. [张兴朝《冷不丁梆梆就两拳》](https://www.zhihu.com/search?q=%E5%BC%A0%E5%85%B4%E6%9C%9D%E3%80%8A%E5%86%B7%E4%B8%8D%E4%B8%81%E6%A2%86%E6%A2%86%E5%B0%B1%E4%B8%A4%E6%8B%B3%E3%80%8B)
 1. [LeCun 发表论文 LeJEPA](https://www.zhihu.com/search?q=LeCun%20%E5%8F%91%E8%A1%A8%E8%AE%BA%E6%96%87%20LeJEPA)
 1. [伯克利大学爆发冲突](https://www.zhihu.com/search?q=%E4%BC%AF%E5%85%8B%E5%88%A9%E5%A4%A7%E5%AD%A6%E7%88%86%E5%8F%91%E5%86%B2%E7%AA%81)
-1. [长期吃沥米饭可能造成营养素缺乏](https://www.zhihu.com/search?q=%E9%95%BF%E6%9C%9F%E5%90%83%E6%B2%A5%E7%B1%B3%E9%A5%AD%E5%8F%AF%E8%83%BD%E9%80%A0%E6%88%90%E8%90%A5%E5%85%BB%E7%B4%A0%E7%BC%BA%E4%B9%8F)
+1. [教育部建议谨慎规划赴日留学安排](https://www.zhihu.com/search?q=%E6%95%99%E8%82%B2%E9%83%A8%E5%BB%BA%E8%AE%AE%E8%B0%A8%E6%85%8E%E8%A7%84%E5%88%92%E8%B5%B4%E6%97%A5%E7%95%99%E5%AD%A6%E5%AE%89%E6%8E%92)
 1. [演员拍戏挑左右脸是常见现象](https://www.zhihu.com/search?q=%E6%BC%94%E5%91%98%E6%8B%8D%E6%88%8F%E6%8C%91%E5%B7%A6%E5%8F%B3%E8%84%B8%E6%98%AF%E5%B8%B8%E8%A7%81%E7%8E%B0%E8%B1%A1)
 1. [我国星地微波高码率通信技术取得突破](https://www.zhihu.com/search?q=%E6%88%91%E5%9B%BD%E6%98%9F%E5%9C%B0%E5%BE%AE%E6%B3%A2%E9%AB%98%E7%A0%81%E7%8E%87%E9%80%9A%E4%BF%A1%E6%8A%80%E6%9C%AF%E5%8F%96%E5%BE%97%E7%AA%81%E7%A0%B4)
 1. [神舟二十号乘组返回](https://www.zhihu.com/search?q=%E7%A5%9E%E8%88%9F%E4%BA%8C%E5%8D%81%E5%8F%B7%E4%B9%98%E7%BB%84%E8%BF%94%E5%9B%9E)
