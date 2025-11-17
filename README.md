@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-11-17 17:17:11 +0800`
+`更新时间：2025-11-17 18:15:04 +0800`
 
 ## 热门搜索
 
@@ -34,13 +34,15 @@
 1. [《喜人奇妙夜》第二季第八期](https://www.zhihu.com/search?q=%E3%80%8A%E5%96%9C%E4%BA%BA%E5%A5%87%E5%A6%99%E5%A4%9C%E3%80%8B%E7%AC%AC%E4%BA%8C%E5%AD%A3%E7%AC%AC%E5%85%AB%E6%9C%9F)
 1. [张兴朝《冷不丁梆梆就两拳》](https://www.zhihu.com/search?q=%E5%BC%A0%E5%85%B4%E6%9C%9D%E3%80%8A%E5%86%B7%E4%B8%8D%E4%B8%81%E6%A2%86%E6%A2%86%E5%B0%B1%E4%B8%A4%E6%8B%B3%E3%80%8B)
 1. [神舟二十号乘组返回](https://www.zhihu.com/search?q=%E7%A5%9E%E8%88%9F%E4%BA%8C%E5%8D%81%E5%8F%B7%E4%B9%98%E7%BB%84%E8%BF%94%E5%9B%9E)
-1. [浙江高考外语听力第一节录音将播放两遍](https://www.zhihu.com/search?q=%E6%B5%99%E6%B1%9F%E9%AB%98%E8%80%83%E5%A4%96%E8%AF%AD%E5%90%AC%E5%8A%9B%E7%AC%AC%E4%B8%80%E8%8A%82%E5%BD%95%E9%9F%B3%E5%B0%86%E6%92%AD%E6%94%BE%E4%B8%A4%E9%81%8D)
 1. [大牌尾货被曝是按吨回收的二手衣服](https://www.zhihu.com/search?q=%E5%A4%A7%E7%89%8C%E5%B0%BE%E8%B4%A7%E8%A2%AB%E6%9B%9D%E6%98%AF%E6%8C%89%E5%90%A8%E5%9B%9E%E6%94%B6%E7%9A%84%E4%BA%8C%E6%89%8B%E8%A1%A3%E6%9C%8D)
 1. [理想汽车针对质量事故内部问责](https://www.zhihu.com/search?q=%E7%90%86%E6%83%B3%E6%B1%BD%E8%BD%A6%E9%92%88%E5%AF%B9%E8%B4%A8%E9%87%8F%E4%BA%8B%E6%95%85%E5%86%85%E9%83%A8%E9%97%AE%E8%B4%A3)
 1. [四只「小鼠航天员」返回地球](https://www.zhihu.com/search?q=%E5%9B%9B%E5%8F%AA%E3%80%8C%E5%B0%8F%E9%BC%A0%E8%88%AA%E5%A4%A9%E5%91%98%E3%80%8D%E8%BF%94%E5%9B%9E%E5%9C%B0%E7%90%83)
 1. [马龙黄友政vs牛冠凯夏易正](https://www.zhihu.com/search?q=%E9%A9%AC%E9%BE%99%E9%BB%84%E5%8F%8B%E6%94%BFvs%E7%89%9B%E5%86%A0%E5%87%AF%E5%A4%8F%E6%98%93%E6%AD%A3)
 1. [马龙全运会首秀](https://www.zhihu.com/search?q=%E9%A9%AC%E9%BE%99%E5%85%A8%E8%BF%90%E4%BC%9A%E9%A6%96%E7%A7%80)
 1. [马龙黄友政3比1牛冠凯夏易正](https://www.zhihu.com/search?q=%E9%A9%AC%E9%BE%99%E9%BB%84%E5%8F%8B%E6%94%BF3%E6%AF%941%E7%89%9B%E5%86%A0%E5%87%AF%E5%A4%8F%E6%98%93%E6%AD%A3)
+1. [神舟二十二号飞船将在无人状态下发射](https://www.zhihu.com/search?q=%E7%A5%9E%E8%88%9F%E4%BA%8C%E5%8D%81%E4%BA%8C%E5%8F%B7%E9%A3%9E%E8%88%B9%E5%B0%86%E5%9C%A8%E6%97%A0%E4%BA%BA%E7%8A%B6%E6%80%81%E4%B8%8B%E5%8F%91%E5%B0%84)
+1. [3岁男童患甲流1天后去世](https://www.zhihu.com/search?q=3%E5%B2%81%E7%94%B7%E7%AB%A5%E6%82%A3%E7%94%B2%E6%B5%811%E5%A4%A9%E5%90%8E%E5%8E%BB%E4%B8%96)
+1. [苹果「袜子手机袋」多款开售即告罄](https://www.zhihu.com/search?q=%E8%8B%B9%E6%9E%9C%E3%80%8C%E8%A2%9C%E5%AD%90%E6%89%8B%E6%9C%BA%E8%A2%8B%E3%80%8D%E5%A4%9A%E6%AC%BE%E5%BC%80%E5%94%AE%E5%8D%B3%E5%91%8A%E7%BD%84)
 
 ## 热门话题
 
