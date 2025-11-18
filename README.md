@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-11-18 21:26:44 +0800`
+`更新时间：2025-11-18 22:12:34 +0800`
 
 ## 热门搜索
 
-1. [金鸡奖获奖名单](https://www.zhihu.com/search?q=%E9%87%91%E9%B8%A1%E5%A5%96%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95)
+1. [如何看待sudo-rs曝出多个严重漏洞](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85sudo-rs%E6%9B%9D%E5%87%BA%E5%A4%9A%E4%B8%AA%E4%B8%A5%E9%87%8D%E6%BC%8F%E6%B4%9E)
+1. [冲锋衣为什么是「北京市服」](https://www.zhihu.com/search?q=%E5%86%B2%E9%94%8B%E8%A1%A3%E4%B8%BA%E4%BB%80%E4%B9%88%E6%98%AF%E3%80%8C%E5%8C%97%E4%BA%AC%E5%B8%82%E6%9C%8D%E3%80%8D)
 1. [勇士vs鹈鹕](https://www.zhihu.com/search?q=%E5%8B%87%E5%A3%ABvs%E9%B9%88%E9%B9%95)
 1. [古人看到西方大教堂会不会震撼](https://www.zhihu.com/search?q=%E5%8F%A4%E4%BA%BA%E7%9C%8B%E5%88%B0%E8%A5%BF%E6%96%B9%E5%A4%A7%E6%95%99%E5%A0%82%E4%BC%9A%E4%B8%8D%E4%BC%9A%E9%9C%87%E6%92%BC)
 1. [常年独居的人靠什么抵抗孤独](https://www.zhihu.com/search?q=%E5%B8%B8%E5%B9%B4%E7%8B%AC%E5%B1%85%E7%9A%84%E4%BA%BA%E9%9D%A0%E4%BB%80%E4%B9%88%E6%8A%B5%E6%8A%97%E5%AD%A4%E7%8B%AC)
@@ -31,7 +32,7 @@
 1. [有哪些令人震惊的冷知识](https://www.zhihu.com/search?q=%E6%9C%89%E5%93%AA%E4%BA%9B%E4%BB%A4%E4%BA%BA%E9%9C%87%E6%83%8A%E7%9A%84%E5%86%B7%E7%9F%A5%E8%AF%86)
 1. [影视作品中哪个武器最奇葩](https://www.zhihu.com/search?q=%E5%BD%B1%E8%A7%86%E4%BD%9C%E5%93%81%E4%B8%AD%E5%93%AA%E4%B8%AA%E6%AD%A6%E5%99%A8%E6%9C%80%E5%A5%87%E8%91%A9)
 1. [怎么自学成为计算机大佬](https://www.zhihu.com/search?q=%E6%80%8E%E4%B9%88%E8%87%AA%E5%AD%A6%E6%88%90%E4%B8%BA%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%A4%A7%E4%BD%AC)
-1. [人在什么情况下成长的最快](https://www.zhihu.com/search?q=%E4%BA%BA%E5%9C%A8%E4%BB%80%E4%B9%88%E6%83%85%E5%86%B5%E4%B8%8B%E6%88%90%E9%95%BF%E7%9A%84%E6%9C%80%E5%BF%AB)
+1. [如何评价三角洲新干员比特](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E4%B8%89%E8%A7%92%E6%B4%B2%E6%96%B0%E5%B9%B2%E5%91%98%E6%AF%94%E7%89%B9)
 1. [为什么大家都不提中国空间站了](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A4%A7%E5%AE%B6%E9%83%BD%E4%B8%8D%E6%8F%90%E4%B8%AD%E5%9B%BD%E7%A9%BA%E9%97%B4%E7%AB%99%E4%BA%86)
 1. [什么家庭才能养出松弛感的孩子](https://www.zhihu.com/search?q=%E4%BB%80%E4%B9%88%E5%AE%B6%E5%BA%AD%E6%89%8D%E8%83%BD%E5%85%BB%E5%87%BA%E6%9D%BE%E5%BC%9B%E6%84%9F%E7%9A%84%E5%AD%A9%E5%AD%90)
 1. [黄金什么时候会大跌](https://www.zhihu.com/search?q=%E9%BB%84%E9%87%91%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E4%BC%9A%E5%A4%A7%E8%B7%8C)
