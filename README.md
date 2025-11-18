@@ -11,12 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-11-18 14:19:09 +0800`
+`更新时间：2025-11-18 15:13:11 +0800`
 
 ## 热门搜索
 
-1. [金鸡奖获奖名单](https://www.zhihu.com/search?q=%E9%87%91%E9%B8%A1%E5%A5%96%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95)
-1. [勇士vs鹈鹕](https://www.zhihu.com/search?q=%E5%8B%87%E5%A3%ABvs%E9%B9%88%E9%B9%95)
+1. [为什么中国大力发展核电](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%AD%E5%9B%BD%E5%A4%A7%E5%8A%9B%E5%8F%91%E5%B1%95%E6%A0%B8%E7%94%B5)
 1. [古人看到西方大教堂会不会震撼](https://www.zhihu.com/search?q=%E5%8F%A4%E4%BA%BA%E7%9C%8B%E5%88%B0%E8%A5%BF%E6%96%B9%E5%A4%A7%E6%95%99%E5%A0%82%E4%BC%9A%E4%B8%8D%E4%BC%9A%E9%9C%87%E6%92%BC)
 1. [常年独居的人靠什么抵抗孤独](https://www.zhihu.com/search?q=%E5%B8%B8%E5%B9%B4%E7%8B%AC%E5%B1%85%E7%9A%84%E4%BA%BA%E9%9D%A0%E4%BB%80%E4%B9%88%E6%8A%B5%E6%8A%97%E5%AD%A4%E7%8B%AC)
 1. [四川舰](https://www.zhihu.com/search?q=%E5%9B%9B%E5%B7%9D%E8%88%B0)
@@ -40,6 +39,7 @@
 1. [日本饮食为什么一餐的量那么少](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E9%A5%AE%E9%A3%9F%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%80%E9%A4%90%E7%9A%84%E9%87%8F%E9%82%A3%E4%B9%88%E5%B0%91)
 1. [从体制内出去的人会后悔吗](https://www.zhihu.com/search?q=%E4%BB%8E%E4%BD%93%E5%88%B6%E5%86%85%E5%87%BA%E5%8E%BB%E7%9A%84%E4%BA%BA%E4%BC%9A%E5%90%8E%E6%82%94%E5%90%97)
 1. [人在什么情况下成长最快](https://www.zhihu.com/search?q=%E4%BA%BA%E5%9C%A8%E4%BB%80%E4%B9%88%E6%83%85%E5%86%B5%E4%B8%8B%E6%88%90%E9%95%BF%E6%9C%80%E5%BF%AB)
+1. [国漫的主要缺点是什么](https://www.zhihu.com/search?q=%E5%9B%BD%E6%BC%AB%E7%9A%84%E4%B8%BB%E8%A6%81%E7%BC%BA%E7%82%B9%E6%98%AF%E4%BB%80%E4%B9%88)
 
 ## 热门话题
 
