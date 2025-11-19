@@ -11,11 +11,10 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-11-19 22:27:19 +0800`
+`更新时间：2025-11-19 23:27:57 +0800`
 
 ## 热门搜索
 
-1. [金鸡奖获奖名单](https://www.zhihu.com/search?q=%E9%87%91%E9%B8%A1%E5%A5%96%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95)
 1. [湖人vs爵士](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BAvs%E7%88%B5%E5%A3%AB)
 1. [潘展乐夺得男子100米自由泳金牌](https://www.zhihu.com/search?q=%E6%BD%98%E5%B1%95%E4%B9%90%E5%A4%BA%E5%BE%97%E7%94%B7%E5%AD%90100%E7%B1%B3%E8%87%AA%E7%94%B1%E6%B3%B3%E9%87%91%E7%89%8C)
 1. [为什么中国选择发展高铁而不是廉价航空](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%AD%E5%9B%BD%E9%80%89%E6%8B%A9%E5%8F%91%E5%B1%95%E9%AB%98%E9%93%81%E8%80%8C%E4%B8%8D%E6%98%AF%E5%BB%89%E4%BB%B7%E8%88%AA%E7%A9%BA)
@@ -42,6 +41,7 @@
 1. [人到中年为什么很难快乐起来](https://www.zhihu.com/search?q=%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BE%88%E9%9A%BE%E5%BF%AB%E4%B9%90%E8%B5%B7%E6%9D%A5)
 1. [洪承畴投降的根本原因是什么](https://www.zhihu.com/search?q=%E6%B4%AA%E6%89%BF%E7%95%B4%E6%8A%95%E9%99%8D%E7%9A%84%E6%A0%B9%E6%9C%AC%E5%8E%9F%E5%9B%A0%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [作为管理者哪些事情不能对员工讲](https://www.zhihu.com/search?q=%E4%BD%9C%E4%B8%BA%E7%AE%A1%E7%90%86%E8%80%85%E5%93%AA%E4%BA%9B%E4%BA%8B%E6%83%85%E4%B8%8D%E8%83%BD%E5%AF%B9%E5%91%98%E5%B7%A5%E8%AE%B2)
+1. [提升自己最快的方式是什么](https://www.zhihu.com/search?q=%E6%8F%90%E5%8D%87%E8%87%AA%E5%B7%B1%E6%9C%80%E5%BF%AB%E7%9A%84%E6%96%B9%E5%BC%8F%E6%98%AF%E4%BB%80%E4%B9%88)
 
 ## 热门话题
 
