@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-11-19 14:38:12 +0800`
+`更新时间：2025-11-19 15:25:48 +0800`
 
 ## 热门搜索
 
-1. [全运会夺冠对樊振东意味着什么](https://www.zhihu.com/search?q=%E5%85%A8%E8%BF%90%E4%BC%9A%E5%A4%BA%E5%86%A0%E5%AF%B9%E6%A8%8A%E6%8C%AF%E4%B8%9C%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88)
-1. [一年级校服970元贵吗](https://www.zhihu.com/search?q=%E4%B8%80%E5%B9%B4%E7%BA%A7%E6%A0%A1%E6%9C%8D970%E5%85%83%E8%B4%B5%E5%90%97)
+1. [金鸡奖获奖名单](https://www.zhihu.com/search?q=%E9%87%91%E9%B8%A1%E5%A5%96%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95)
+1. [为什么中国选择发展高铁而不是廉价航空](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%AD%E5%9B%BD%E9%80%89%E6%8B%A9%E5%8F%91%E5%B1%95%E9%AB%98%E9%93%81%E8%80%8C%E4%B8%8D%E6%98%AF%E5%BB%89%E4%BB%B7%E8%88%AA%E7%A9%BA)
 1. [四川舰](https://www.zhihu.com/search?q=%E5%9B%9B%E5%B7%9D%E8%88%B0)
 1. [黄金到底能涨到什么地步](https://www.zhihu.com/search?q=%E9%BB%84%E9%87%91%E5%88%B0%E5%BA%95%E8%83%BD%E6%B6%A8%E5%88%B0%E4%BB%80%E4%B9%88%E5%9C%B0%E6%AD%A5)
 1. [枭起青壤定档](https://www.zhihu.com/search?q=%E6%9E%AD%E8%B5%B7%E9%9D%92%E5%A3%A4%E5%AE%9A%E6%A1%A3)
