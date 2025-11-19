@@ -11,15 +11,17 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-11-19 10:40:40 +0800`
+`更新时间：2025-11-19 11:40:28 +0800`
 
 ## 热门搜索
 
 1. [金鸡奖获奖名单](https://www.zhihu.com/search?q=%E9%87%91%E9%B8%A1%E5%A5%96%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95)
+1. [为什么中国选择发展高铁而不是廉价航空](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%AD%E5%9B%BD%E9%80%89%E6%8B%A9%E5%8F%91%E5%B1%95%E9%AB%98%E9%93%81%E8%80%8C%E4%B8%8D%E6%98%AF%E5%BB%89%E4%BB%B7%E8%88%AA%E7%A9%BA)
 1. [四川舰](https://www.zhihu.com/search?q=%E5%9B%9B%E5%B7%9D%E8%88%B0)
 1. [黄金到底能涨到什么地步](https://www.zhihu.com/search?q=%E9%BB%84%E9%87%91%E5%88%B0%E5%BA%95%E8%83%BD%E6%B6%A8%E5%88%B0%E4%BB%80%E4%B9%88%E5%9C%B0%E6%AD%A5)
 1. [枭起青壤定档](https://www.zhihu.com/search?q=%E6%9E%AD%E8%B5%B7%E9%9D%92%E5%A3%A4%E5%AE%9A%E6%A1%A3)
 1. [千千阙歌为什么能一直那么火](https://www.zhihu.com/search?q=%E5%8D%83%E5%8D%83%E9%98%99%E6%AD%8C%E4%B8%BA%E4%BB%80%E4%B9%88%E8%83%BD%E4%B8%80%E7%9B%B4%E9%82%A3%E4%B9%88%E7%81%AB)
+1. [在中国搭讪有多难](https://www.zhihu.com/search?q=%E5%9C%A8%E4%B8%AD%E5%9B%BD%E6%90%AD%E8%AE%AA%E6%9C%89%E5%A4%9A%E9%9A%BE)
 1. [你的低成本爱好是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9A%84%E4%BD%8E%E6%88%90%E6%9C%AC%E7%88%B1%E5%A5%BD%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [炒股让你明白了什么真理](https://www.zhihu.com/search?q=%E7%82%92%E8%82%A1%E8%AE%A9%E4%BD%A0%E6%98%8E%E7%99%BD%E4%BA%86%E4%BB%80%E4%B9%88%E7%9C%9F%E7%90%86)
 1. [用DeepSeek选股炒股可行吗](https://www.zhihu.com/search?q=%E7%94%A8DeepSeek%E9%80%89%E8%82%A1%E7%82%92%E8%82%A1%E5%8F%AF%E8%A1%8C%E5%90%97)
@@ -40,8 +42,6 @@
 1. [父母腿脚不便 辅助工具](https://www.zhihu.com/search?q=%E7%88%B6%E6%AF%8D%E8%85%BF%E8%84%9A%E4%B8%8D%E4%BE%BF%20%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7)
 1. [老人走路累 外骨骼有用吗](https://www.zhihu.com/search?q=%E8%80%81%E4%BA%BA%E8%B5%B0%E8%B7%AF%E7%B4%AF%20%E5%A4%96%E9%AA%A8%E9%AA%BC%E6%9C%89%E7%94%A8%E5%90%97)
 1. [长辈上下楼梯困难 解决方案](https://www.zhihu.com/search?q=%E9%95%BF%E8%BE%88%E4%B8%8A%E4%B8%8B%E6%A5%BC%E6%A2%AF%E5%9B%B0%E9%9A%BE%20%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88)
-1. [预防老人跌倒 助行设备](https://www.zhihu.com/search?q=%E9%A2%84%E9%98%B2%E8%80%81%E4%BA%BA%E8%B7%8C%E5%80%92%20%E5%8A%A9%E8%A1%8C%E8%AE%BE%E5%A4%87)
-1. [老年人独立出行 辅助工具](https://www.zhihu.com/search?q=%E8%80%81%E5%B9%B4%E4%BA%BA%E7%8B%AC%E7%AB%8B%E5%87%BA%E8%A1%8C%20%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7)
 
 ## 热门话题
 
