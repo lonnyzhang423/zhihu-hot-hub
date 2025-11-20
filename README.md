@@ -11,12 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-11-20 21:25:08 +0800`
+`更新时间：2025-11-20 22:12:33 +0800`
 
 ## 热门搜索
 
-1. [上海乒乓男团晋级全运会4强](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%E4%B9%92%E4%B9%93%E7%94%B7%E5%9B%A2%E6%99%8B%E7%BA%A7%E5%85%A8%E8%BF%90%E4%BC%9A4%E5%BC%BA)
-1. [为什么常说吸猫却没有吸狗](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%B8%B8%E8%AF%B4%E5%90%B8%E7%8C%AB%E5%8D%B4%E6%B2%A1%E6%9C%89%E5%90%B8%E7%8B%97)
+1. [提升自己最快的方式](https://www.zhihu.com/search?q=%E6%8F%90%E5%8D%87%E8%87%AA%E5%B7%B1%E6%9C%80%E5%BF%AB%E7%9A%84%E6%96%B9%E5%BC%8F)
 1. [湖人vs爵士](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BAvs%E7%88%B5%E5%A3%AB)
 1. [可以一次性给孩子一年的生活费吗](https://www.zhihu.com/search?q=%E5%8F%AF%E4%BB%A5%E4%B8%80%E6%AC%A1%E6%80%A7%E7%BB%99%E5%AD%A9%E5%AD%90%E4%B8%80%E5%B9%B4%E7%9A%84%E7%94%9F%E6%B4%BB%E8%B4%B9%E5%90%97)
 1. [湖人战胜爵士](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BA%E6%88%98%E8%83%9C%E7%88%B5%E5%A3%AB)
