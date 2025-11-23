@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-11-24 00:29:56 +0800`
+`更新时间：2025-11-24 01:21:26 +0800`
 
 ## 热门搜索
 
@@ -30,6 +30,7 @@
 1. [2026届高校毕业生预计达1270万人](https://www.zhihu.com/search?q=2026%E5%B1%8A%E9%AB%98%E6%A0%A1%E6%AF%95%E4%B8%9A%E7%94%9F%E9%A2%84%E8%AE%A1%E8%BE%BE1270%E4%B8%87%E4%BA%BA)
 1. [《喜人奇妙夜》第二季第九期](https://www.zhihu.com/search?q=%E3%80%8A%E5%96%9C%E4%BA%BA%E5%A5%87%E5%A6%99%E5%A4%9C%E3%80%8B%E7%AC%AC%E4%BA%8C%E5%AD%A3%E7%AC%AC%E4%B9%9D%E6%9C%9F)
 1. [四川一店家推「偷甘蔗」活动火了](https://www.zhihu.com/search?q=%E5%9B%9B%E5%B7%9D%E4%B8%80%E5%BA%97%E5%AE%B6%E6%8E%A8%E3%80%8C%E5%81%B7%E7%94%98%E8%94%97%E3%80%8D%E6%B4%BB%E5%8A%A8%E7%81%AB%E4%BA%86)
+1. [豆包输入法上线](https://www.zhihu.com/search?q=%E8%B1%86%E5%8C%85%E8%BE%93%E5%85%A5%E6%B3%95%E4%B8%8A%E7%BA%BF)
 1. [大同云冈石窟大佛「流鼻涕」](https://www.zhihu.com/search?q=%E5%A4%A7%E5%90%8C%E4%BA%91%E5%86%88%E7%9F%B3%E7%AA%9F%E5%A4%A7%E4%BD%9B%E3%80%8C%E6%B5%81%E9%BC%BB%E6%B6%95%E3%80%8D)
 1. [男子花 8 万元网购 70 平海景房](https://www.zhihu.com/search?q=%E7%94%B7%E5%AD%90%E8%8A%B1%208%20%E4%B8%87%E5%85%83%E7%BD%91%E8%B4%AD%2070%20%E5%B9%B3%E6%B5%B7%E6%99%AF%E6%88%BF)
 1. [理想汽车被曝大反思](https://www.zhihu.com/search?q=%E7%90%86%E6%83%B3%E6%B1%BD%E8%BD%A6%E8%A2%AB%E6%9B%9D%E5%A4%A7%E5%8F%8D%E6%80%9D)
@@ -38,6 +39,8 @@
 1. [《哪吒2》不参评奥斯卡最佳动画长片](https://www.zhihu.com/search?q=%E3%80%8A%E5%93%AA%E5%90%922%E3%80%8B%E4%B8%8D%E5%8F%82%E8%AF%84%E5%A5%A5%E6%96%AF%E5%8D%A1%E6%9C%80%E4%BD%B3%E5%8A%A8%E7%94%BB%E9%95%BF%E7%89%87)
 1. [抛售日本开始了](https://www.zhihu.com/search?q=%E6%8A%9B%E5%94%AE%E6%97%A5%E6%9C%AC%E5%BC%80%E5%A7%8B%E4%BA%86)
 1. [机器人从苏州走到上海破吉尼斯纪录](https://www.zhihu.com/search?q=%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BB%8E%E8%8B%8F%E5%B7%9E%E8%B5%B0%E5%88%B0%E4%B8%8A%E6%B5%B7%E7%A0%B4%E5%90%89%E5%B0%BC%E6%96%AF%E7%BA%AA%E5%BD%95)
+1. [中方:如日方武力介入将行使自卫权](https://www.zhihu.com/search?q=%E4%B8%AD%E6%96%B9%3A%E5%A6%82%E6%97%A5%E6%96%B9%E6%AD%A6%E5%8A%9B%E4%BB%8B%E5%85%A5%E5%B0%86%E8%A1%8C%E4%BD%BF%E8%87%AA%E5%8D%AB%E6%9D%83)
+1. [上海海港夺中超冠军](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%E6%B5%B7%E6%B8%AF%E5%A4%BA%E4%B8%AD%E8%B6%85%E5%86%A0%E5%86%9B)
 
 ## 热门话题
 
