@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-11-24 03:09:31 +0800`
+`更新时间：2025-11-24 04:13:30 +0800`
 
 ## 热门搜索
 
@@ -41,6 +41,7 @@
 1. [上海海港夺中超冠军](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%E6%B5%B7%E6%B8%AF%E5%A4%BA%E4%B8%AD%E8%B6%85%E5%86%A0%E5%86%9B)
 1. [突然爱上香菜可能因为你老了](https://www.zhihu.com/search?q=%E7%AA%81%E7%84%B6%E7%88%B1%E4%B8%8A%E9%A6%99%E8%8F%9C%E5%8F%AF%E8%83%BD%E5%9B%A0%E4%B8%BA%E4%BD%A0%E8%80%81%E4%BA%86)
 1. [国内首条大容量全固态电池产线建成](https://www.zhihu.com/search?q=%E5%9B%BD%E5%86%85%E9%A6%96%E6%9D%A1%E5%A4%A7%E5%AE%B9%E9%87%8F%E5%85%A8%E5%9B%BA%E6%80%81%E7%94%B5%E6%B1%A0%E4%BA%A7%E7%BA%BF%E5%BB%BA%E6%88%90)
+1. [男子打卡世界第一长洞失联6天生还](https://www.zhihu.com/search?q=%E7%94%B7%E5%AD%90%E6%89%93%E5%8D%A1%E4%B8%96%E7%95%8C%E7%AC%AC%E4%B8%80%E9%95%BF%E6%B4%9E%E5%A4%B1%E8%81%946%E5%A4%A9%E7%94%9F%E8%BF%98)
 
 ## 热门话题
 
