@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-11-24 22:27:42 +0800`
+`更新时间：2025-11-24 23:30:41 +0800`
 
 ## 热门搜索
 
@@ -43,7 +43,6 @@
 1. [德国留学生回国率为何高达九成](https://www.zhihu.com/search?q=%E5%BE%B7%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E5%9B%9E%E5%9B%BD%E7%8E%87%E4%B8%BA%E4%BD%95%E9%AB%98%E8%BE%BE%E4%B9%9D%E6%88%90)
 1. [这一轮牛市已经结束了吗](https://www.zhihu.com/search?q=%E8%BF%99%E4%B8%80%E8%BD%AE%E7%89%9B%E5%B8%82%E5%B7%B2%E7%BB%8F%E7%BB%93%E6%9D%9F%E4%BA%86%E5%90%97)
 1. [计算机新生怎么合理利用github](https://www.zhihu.com/search?q=%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%96%B0%E7%94%9F%E6%80%8E%E4%B9%88%E5%90%88%E7%90%86%E5%88%A9%E7%94%A8github)
-1. [认知水平高的人有什么特征](https://www.zhihu.com/search?q=%E8%AE%A4%E7%9F%A5%E6%B0%B4%E5%B9%B3%E9%AB%98%E7%9A%84%E4%BA%BA%E6%9C%89%E4%BB%80%E4%B9%88%E7%89%B9%E5%BE%81)
 
 ## 热门话题
 
