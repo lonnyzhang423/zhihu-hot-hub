@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-11-24 07:23:43 +0800`
+`更新时间：2025-11-24 10:09:18 +0800`
 
 ## 热门搜索
 
@@ -32,7 +32,7 @@
 1. [豆包输入法上线](https://www.zhihu.com/search?q=%E8%B1%86%E5%8C%85%E8%BE%93%E5%85%A5%E6%B3%95%E4%B8%8A%E7%BA%BF)
 1. [大同云冈石窟大佛「流鼻涕」](https://www.zhihu.com/search?q=%E5%A4%A7%E5%90%8C%E4%BA%91%E5%86%88%E7%9F%B3%E7%AA%9F%E5%A4%A7%E4%BD%9B%E3%80%8C%E6%B5%81%E9%BC%BB%E6%B6%95%E3%80%8D)
 1. [男子花 8 万元网购 70 平海景房](https://www.zhihu.com/search?q=%E7%94%B7%E5%AD%90%E8%8A%B1%208%20%E4%B8%87%E5%85%83%E7%BD%91%E8%B4%AD%2070%20%E5%B9%B3%E6%B5%B7%E6%99%AF%E6%88%BF)
-1. [江科大回应骗子如何当上首席科学家](https://www.zhihu.com/search?q=%E6%B1%9F%E7%A7%91%E5%A4%A7%E5%9B%9E%E5%BA%94%E9%AA%97%E5%AD%90%E5%A6%82%E4%BD%95%E5%BD%93%E4%B8%8A%E9%A6%96%E5%B8%AD%E7%A7%91%E5%AD%A6%E5%AE%B6)
+1. [5人吃野生菌中毒3死2伤](https://www.zhihu.com/search?q=5%E4%BA%BA%E5%90%83%E9%87%8E%E7%94%9F%E8%8F%8C%E4%B8%AD%E6%AF%923%E6%AD%BB2%E4%BC%A4)
 1. [《哪吒2》不参评奥斯卡最佳动画长片](https://www.zhihu.com/search?q=%E3%80%8A%E5%93%AA%E5%90%922%E3%80%8B%E4%B8%8D%E5%8F%82%E8%AF%84%E5%A5%A5%E6%96%AF%E5%8D%A1%E6%9C%80%E4%BD%B3%E5%8A%A8%E7%94%BB%E9%95%BF%E7%89%87)
 1. [抛售日本开始了](https://www.zhihu.com/search?q=%E6%8A%9B%E5%94%AE%E6%97%A5%E6%9C%AC%E5%BC%80%E5%A7%8B%E4%BA%86)
 1. [机器人从苏州走到上海破吉尼斯纪录](https://www.zhihu.com/search?q=%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BB%8E%E8%8B%8F%E5%B7%9E%E8%B5%B0%E5%88%B0%E4%B8%8A%E6%B5%B7%E7%A0%B4%E5%90%89%E5%B0%BC%E6%96%AF%E7%BA%AA%E5%BD%95)
