@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-11-24 15:13:33 +0800`
+`更新时间：2025-11-24 16:18:51 +0800`
 
 ## 热门搜索
 
@@ -23,7 +23,6 @@
 1. [预防老人跌倒 助行设备](https://www.zhihu.com/search?q=%E9%A2%84%E9%98%B2%E8%80%81%E4%BA%BA%E8%B7%8C%E5%80%92%20%E5%8A%A9%E8%A1%8C%E8%AE%BE%E5%A4%87)
 1. [老年人独立出行 辅助工具](https://www.zhihu.com/search?q=%E8%80%81%E5%B9%B4%E4%BA%BA%E7%8B%AC%E7%AB%8B%E5%87%BA%E8%A1%8C%20%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7)
 1. [医生测评外骨骼机器人](https://www.zhihu.com/search?q=%E5%8C%BB%E7%94%9F%E6%B5%8B%E8%AF%84%E5%A4%96%E9%AA%A8%E9%AA%BC%E6%9C%BA%E5%99%A8%E4%BA%BA)
-1. [唐朝诡事录之长安](https://www.zhihu.com/search?q=%E5%94%90%E6%9C%9D%E8%AF%A1%E4%BA%8B%E5%BD%95%E4%B9%8B%E9%95%BF%E5%AE%89)
 1. [神舟二十二号发射时间](https://www.zhihu.com/search?q=%E7%A5%9E%E8%88%9F%E4%BA%8C%E5%8D%81%E4%BA%8C%E5%8F%B7%E5%8F%91%E5%B0%84%E6%97%B6%E9%97%B4)
 1. [家长用AI监督孩子写作业](https://www.zhihu.com/search?q=%E5%AE%B6%E9%95%BF%E7%94%A8AI%E7%9B%91%E7%9D%A3%E5%AD%A9%E5%AD%90%E5%86%99%E4%BD%9C%E4%B8%9A)
 1. [星巴克被指追杀式营销](https://www.zhihu.com/search?q=%E6%98%9F%E5%B7%B4%E5%85%8B%E8%A2%AB%E6%8C%87%E8%BF%BD%E6%9D%80%E5%BC%8F%E8%90%A5%E9%94%80)
@@ -37,11 +36,12 @@
 1. [男子花 8 万元网购 70 平海景房](https://www.zhihu.com/search?q=%E7%94%B7%E5%AD%90%E8%8A%B1%208%20%E4%B8%87%E5%85%83%E7%BD%91%E8%B4%AD%2070%20%E5%B9%B3%E6%B5%B7%E6%99%AF%E6%88%BF)
 1. [宁波大学「快速腌制咸蛋黄」专利引关注](https://www.zhihu.com/search?q=%E5%AE%81%E6%B3%A2%E5%A4%A7%E5%AD%A6%E3%80%8C%E5%BF%AB%E9%80%9F%E8%85%8C%E5%88%B6%E5%92%B8%E8%9B%8B%E9%BB%84%E3%80%8D%E4%B8%93%E5%88%A9%E5%BC%95%E5%85%B3%E6%B3%A8)
 1. [5人吃野生菌中毒3死2伤](https://www.zhihu.com/search?q=5%E4%BA%BA%E5%90%83%E9%87%8E%E7%94%9F%E8%8F%8C%E4%B8%AD%E6%AF%923%E6%AD%BB2%E4%BC%A4)
-1. [《哪吒2》不参评奥斯卡最佳动画长片](https://www.zhihu.com/search?q=%E3%80%8A%E5%93%AA%E5%90%922%E3%80%8B%E4%B8%8D%E5%8F%82%E8%AF%84%E5%A5%A5%E6%96%AF%E5%8D%A1%E6%9C%80%E4%BD%B3%E5%8A%A8%E7%94%BB%E9%95%BF%E7%89%87)
 1. [抛售日本开始了](https://www.zhihu.com/search?q=%E6%8A%9B%E5%94%AE%E6%97%A5%E6%9C%AC%E5%BC%80%E5%A7%8B%E4%BA%86)
 1. [机器人从苏州走到上海破吉尼斯纪录](https://www.zhihu.com/search?q=%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BB%8E%E8%8B%8F%E5%B7%9E%E8%B5%B0%E5%88%B0%E4%B8%8A%E6%B5%B7%E7%A0%B4%E5%90%89%E5%B0%BC%E6%96%AF%E7%BA%AA%E5%BD%95)
 1. [中方:如日方武力介入将行使自卫权](https://www.zhihu.com/search?q=%E4%B8%AD%E6%96%B9%3A%E5%A6%82%E6%97%A5%E6%96%B9%E6%AD%A6%E5%8A%9B%E4%BB%8B%E5%85%A5%E5%B0%86%E8%A1%8C%E4%BD%BF%E8%87%AA%E5%8D%AB%E6%9D%83)
 1. [国内首条大容量全固态电池产线建成](https://www.zhihu.com/search?q=%E5%9B%BD%E5%86%85%E9%A6%96%E6%9D%A1%E5%A4%A7%E5%AE%B9%E9%87%8F%E5%85%A8%E5%9B%BA%E6%80%81%E7%94%B5%E6%B1%A0%E4%BA%A7%E7%BA%BF%E5%BB%BA%E6%88%90)
+1. [男子打卡世界第一长洞失联6天生还](https://www.zhihu.com/search?q=%E7%94%B7%E5%AD%90%E6%89%93%E5%8D%A1%E4%B8%96%E7%95%8C%E7%AC%AC%E4%B8%80%E9%95%BF%E6%B4%9E%E5%A4%B1%E8%81%946%E5%A4%A9%E7%94%9F%E8%BF%98)
+1. [美结束俄乌冲突28点计划曝光](https://www.zhihu.com/search?q=%E7%BE%8E%E7%BB%93%E6%9D%9F%E4%BF%84%E4%B9%8C%E5%86%B2%E7%AA%8128%E7%82%B9%E8%AE%A1%E5%88%92%E6%9B%9D%E5%85%89)
 
 ## 热门话题
 
