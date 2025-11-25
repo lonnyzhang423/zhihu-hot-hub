@@ -11,12 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-11-25 21:38:38 +0800`
+`更新时间：2025-11-25 22:27:44 +0800`
 
 ## 热门搜索
 
-1. [提升自己最快的方式](https://www.zhihu.com/search?q=%E6%8F%90%E5%8D%87%E8%87%AA%E5%B7%B1%E6%9C%80%E5%BF%AB%E7%9A%84%E6%96%B9%E5%BC%8F)
-1. [为什么有些人的预判能力这么强](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E4%BA%9B%E4%BA%BA%E7%9A%84%E9%A2%84%E5%88%A4%E8%83%BD%E5%8A%9B%E8%BF%99%E4%B9%88%E5%BC%BA)
+1. [你最喜欢的网红美食](https://www.zhihu.com/search?q=%E4%BD%A0%E6%9C%80%E5%96%9C%E6%AC%A2%E7%9A%84%E7%BD%91%E7%BA%A2%E7%BE%8E%E9%A3%9F)
 1. [你吃过最奢侈的一道菜](https://www.zhihu.com/search?q=%E4%BD%A0%E5%90%83%E8%BF%87%E6%9C%80%E5%A5%A2%E4%BE%88%E7%9A%84%E4%B8%80%E9%81%93%E8%8F%9C)
 1. [新疆到底有多干燥](https://www.zhihu.com/search?q=%E6%96%B0%E7%96%86%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E5%B9%B2%E7%87%A5)
 1. [你有哪些当初没听出来的弦外之音](https://www.zhihu.com/search?q=%E4%BD%A0%E6%9C%89%E5%93%AA%E4%BA%9B%E5%BD%93%E5%88%9D%E6%B2%A1%E5%90%AC%E5%87%BA%E6%9D%A5%E7%9A%84%E5%BC%A6%E5%A4%96%E4%B9%8B%E9%9F%B3)
@@ -38,10 +37,11 @@
 1. [父母腿脚不便 辅助工具](https://www.zhihu.com/search?q=%E7%88%B6%E6%AF%8D%E8%85%BF%E8%84%9A%E4%B8%8D%E4%BE%BF%20%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7)
 1. [老人走路累 外骨骼有用吗](https://www.zhihu.com/search?q=%E8%80%81%E4%BA%BA%E8%B5%B0%E8%B7%AF%E7%B4%AF%20%E5%A4%96%E9%AA%A8%E9%AA%BC%E6%9C%89%E7%94%A8%E5%90%97)
 1. [长辈上下楼梯困难 解决方案](https://www.zhihu.com/search?q=%E9%95%BF%E8%BE%88%E4%B8%8A%E4%B8%8B%E6%A5%BC%E6%A2%AF%E5%9B%B0%E9%9A%BE%20%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88)
-1. [预防老人跌倒 助行设备](https://www.zhihu.com/search?q=%E9%A2%84%E9%98%B2%E8%80%81%E4%BA%BA%E8%B7%8C%E5%80%92%20%E5%8A%A9%E8%A1%8C%E8%AE%BE%E5%A4%87)
+1. [病毒究竟能不能算生命](https://www.zhihu.com/search?q=%E7%97%85%E6%AF%92%E7%A9%B6%E7%AB%9F%E8%83%BD%E4%B8%8D%E8%83%BD%E7%AE%97%E7%94%9F%E5%91%BD)
 1. [老年人独立出行 辅助工具](https://www.zhihu.com/search?q=%E8%80%81%E5%B9%B4%E4%BA%BA%E7%8B%AC%E7%AB%8B%E5%87%BA%E8%A1%8C%20%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7)
 1. [医生测评外骨骼机器人](https://www.zhihu.com/search?q=%E5%8C%BB%E7%94%9F%E6%B5%8B%E8%AF%84%E5%A4%96%E9%AA%A8%E9%AA%BC%E6%9C%BA%E5%99%A8%E4%BA%BA)
 1. [为什么王阳明的思想在中国不流行](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%8B%E9%98%B3%E6%98%8E%E7%9A%84%E6%80%9D%E6%83%B3%E5%9C%A8%E4%B8%AD%E5%9B%BD%E4%B8%8D%E6%B5%81%E8%A1%8C)
+1. [山姆超市质量到底如何](https://www.zhihu.com/search?q=%E5%B1%B1%E5%A7%86%E8%B6%85%E5%B8%82%E8%B4%A8%E9%87%8F%E5%88%B0%E5%BA%95%E5%A6%82%E4%BD%95)
 
 ## 热门话题
 
