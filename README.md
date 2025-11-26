@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-11-26 10:02:48 +0800`
+`更新时间：2025-11-26 11:50:34 +0800`
 
 ## 热门搜索
 
@@ -22,6 +22,7 @@
 1. [长得帅在生活中有多大优势](https://www.zhihu.com/search?q=%E9%95%BF%E5%BE%97%E5%B8%85%E5%9C%A8%E7%94%9F%E6%B4%BB%E4%B8%AD%E6%9C%89%E5%A4%9A%E5%A4%A7%E4%BC%98%E5%8A%BF)
 1. [日系车是真的开不坏吗](https://www.zhihu.com/search?q=%E6%97%A5%E7%B3%BB%E8%BD%A6%E6%98%AF%E7%9C%9F%E7%9A%84%E5%BC%80%E4%B8%8D%E5%9D%8F%E5%90%97)
 1. [泡馍为什么走不出西安](https://www.zhihu.com/search?q=%E6%B3%A1%E9%A6%8D%E4%B8%BA%E4%BB%80%E4%B9%88%E8%B5%B0%E4%B8%8D%E5%87%BA%E8%A5%BF%E5%AE%89)
+1. [你从什么时候变得成熟并删掉游戏](https://www.zhihu.com/search?q=%E4%BD%A0%E4%BB%8E%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E5%8F%98%E5%BE%97%E6%88%90%E7%86%9F%E5%B9%B6%E5%88%A0%E6%8E%89%E6%B8%B8%E6%88%8F)
 1. [如何看待健身锻炼到最后一身伤病](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%81%A5%E8%BA%AB%E9%94%BB%E7%82%BC%E5%88%B0%E6%9C%80%E5%90%8E%E4%B8%80%E8%BA%AB%E4%BC%A4%E7%97%85)
 1. [为什么木叶会允许玖辛奈怀孕生子](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%A8%E5%8F%B6%E4%BC%9A%E5%85%81%E8%AE%B8%E7%8E%96%E8%BE%9B%E5%A5%88%E6%80%80%E5%AD%95%E7%94%9F%E5%AD%90)
 1. [为什么玉石在中国才值钱](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%89%E7%9F%B3%E5%9C%A8%E4%B8%AD%E5%9B%BD%E6%89%8D%E5%80%BC%E9%92%B1)
@@ -38,8 +39,6 @@
 1. [医生测评外骨骼机器人](https://www.zhihu.com/search?q=%E5%8C%BB%E7%94%9F%E6%B5%8B%E8%AF%84%E5%A4%96%E9%AA%A8%E9%AA%BC%E6%9C%BA%E5%99%A8%E4%BA%BA)
 1. [什么行为改善了你的心理健康](https://www.zhihu.com/search?q=%E4%BB%80%E4%B9%88%E8%A1%8C%E4%B8%BA%E6%94%B9%E5%96%84%E4%BA%86%E4%BD%A0%E7%9A%84%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7)
 1. [这一轮牛市已经结束了吗](https://www.zhihu.com/search?q=%E8%BF%99%E4%B8%80%E8%BD%AE%E7%89%9B%E5%B8%82%E5%B7%B2%E7%BB%8F%E7%BB%93%E6%9D%9F%E4%BA%86%E5%90%97)
-1. [计算机新生怎么合理利用github](https://www.zhihu.com/search?q=%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%96%B0%E7%94%9F%E6%80%8E%E4%B9%88%E5%90%88%E7%90%86%E5%88%A9%E7%94%A8github)
-1. [如何评价电视剧新三国](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E7%94%B5%E8%A7%86%E5%89%A7%E6%96%B0%E4%B8%89%E5%9B%BD)
 
 ## 热门话题
 
