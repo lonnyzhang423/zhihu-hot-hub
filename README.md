@@ -11,37 +11,35 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-11-26 08:58:52 +0800`
+`更新时间：2025-11-26 10:44:33 +0800`
 
 ## 热门搜索
 
-1. [中国U19乒乓男团不敌中国台北](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BDU19%E4%B9%92%E4%B9%93%E7%94%B7%E5%9B%A2%E4%B8%8D%E6%95%8C%E4%B8%AD%E5%9B%BD%E5%8F%B0%E5%8C%97)
-1. [长辈上下楼梯困难 解决方案](https://www.zhihu.com/search?q=%E9%95%BF%E8%BE%88%E4%B8%8A%E4%B8%8B%E6%A5%BC%E6%A2%AF%E5%9B%B0%E9%9A%BE%20%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88)
+1. [救命药滞留前台5小时致男子身亡](https://www.zhihu.com/search?q=%E6%95%91%E5%91%BD%E8%8D%AF%E6%BB%9E%E7%95%99%E5%89%8D%E5%8F%B05%E5%B0%8F%E6%97%B6%E8%87%B4%E7%94%B7%E5%AD%90%E8%BA%AB%E4%BA%A1)
+1. [为什么有些人的预判能力这么强](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E4%BA%9B%E4%BA%BA%E7%9A%84%E9%A2%84%E5%88%A4%E8%83%BD%E5%8A%9B%E8%BF%99%E4%B9%88%E5%BC%BA)
 1. [新疆到底有多干燥](https://www.zhihu.com/search?q=%E6%96%B0%E7%96%86%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E5%B9%B2%E7%87%A5)
 1. [你有哪些当初没听出来的弦外之音](https://www.zhihu.com/search?q=%E4%BD%A0%E6%9C%89%E5%93%AA%E4%BA%9B%E5%BD%93%E5%88%9D%E6%B2%A1%E5%90%AC%E5%87%BA%E6%9D%A5%E7%9A%84%E5%BC%A6%E5%A4%96%E4%B9%8B%E9%9F%B3)
 1. [长得帅在生活中有多大优势](https://www.zhihu.com/search?q=%E9%95%BF%E5%BE%97%E5%B8%85%E5%9C%A8%E7%94%9F%E6%B4%BB%E4%B8%AD%E6%9C%89%E5%A4%9A%E5%A4%A7%E4%BC%98%E5%8A%BF)
+1. [日系车是真的开不坏吗](https://www.zhihu.com/search?q=%E6%97%A5%E7%B3%BB%E8%BD%A6%E6%98%AF%E7%9C%9F%E7%9A%84%E5%BC%80%E4%B8%8D%E5%9D%8F%E5%90%97)
+1. [泡馍为什么走不出西安](https://www.zhihu.com/search?q=%E6%B3%A1%E9%A6%8D%E4%B8%BA%E4%BB%80%E4%B9%88%E8%B5%B0%E4%B8%8D%E5%87%BA%E8%A5%BF%E5%AE%89)
+1. [如何看待健身锻炼到最后一身伤病](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%81%A5%E8%BA%AB%E9%94%BB%E7%82%BC%E5%88%B0%E6%9C%80%E5%90%8E%E4%B8%80%E8%BA%AB%E4%BC%A4%E7%97%85)
+1. [为什么木叶会允许玖辛奈怀孕生子](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%A8%E5%8F%B6%E4%BC%9A%E5%85%81%E8%AE%B8%E7%8E%96%E8%BE%9B%E5%A5%88%E6%80%80%E5%AD%95%E7%94%9F%E5%AD%90)
+1. [为什么玉石在中国才值钱](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%89%E7%9F%B3%E5%9C%A8%E4%B8%AD%E5%9B%BD%E6%89%8D%E5%80%BC%E9%92%B1)
+1. [普通家庭对孩子最好的托举](https://www.zhihu.com/search?q=%E6%99%AE%E9%80%9A%E5%AE%B6%E5%BA%AD%E5%AF%B9%E5%AD%A9%E5%AD%90%E6%9C%80%E5%A5%BD%E7%9A%84%E6%89%98%E4%B8%BE)
 1. [人在 45 岁是一种什么感觉](https://www.zhihu.com/search?q=%E4%BA%BA%E5%9C%A8%2045%20%E5%B2%81%E6%98%AF%E4%B8%80%E7%A7%8D%E4%BB%80%E4%B9%88%E6%84%9F%E8%A7%89)
+1. [人在什么情况下成长最快](https://www.zhihu.com/search?q=%E4%BA%BA%E5%9C%A8%E4%BB%80%E4%B9%88%E6%83%85%E5%86%B5%E4%B8%8B%E6%88%90%E9%95%BF%E6%9C%80%E5%BF%AB)
+1. [如何评价勇哥说餐饮](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E5%8B%87%E5%93%A5%E8%AF%B4%E9%A4%90%E9%A5%AE)
+1. [什么样的家庭能养出松弛感的孩子](https://www.zhihu.com/search?q=%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E5%AE%B6%E5%BA%AD%E8%83%BD%E5%85%BB%E5%87%BA%E6%9D%BE%E5%BC%9B%E6%84%9F%E7%9A%84%E5%AD%A9%E5%AD%90)
 1. [父母腿脚不便 辅助工具](https://www.zhihu.com/search?q=%E7%88%B6%E6%AF%8D%E8%85%BF%E8%84%9A%E4%B8%8D%E4%BE%BF%20%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7)
 1. [老人走路累 外骨骼有用吗](https://www.zhihu.com/search?q=%E8%80%81%E4%BA%BA%E8%B5%B0%E8%B7%AF%E7%B4%AF%20%E5%A4%96%E9%AA%A8%E9%AA%BC%E6%9C%89%E7%94%A8%E5%90%97)
-1. [年轻人排队3小时吃Bistro](https://www.zhihu.com/search?q=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%8E%92%E9%98%9F3%E5%B0%8F%E6%97%B6%E5%90%83Bistro)
+1. [长辈上下楼梯困难 解决方案](https://www.zhihu.com/search?q=%E9%95%BF%E8%BE%88%E4%B8%8A%E4%B8%8B%E6%A5%BC%E6%A2%AF%E5%9B%B0%E9%9A%BE%20%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88)
 1. [预防老人跌倒 助行设备](https://www.zhihu.com/search?q=%E9%A2%84%E9%98%B2%E8%80%81%E4%BA%BA%E8%B7%8C%E5%80%92%20%E5%8A%A9%E8%A1%8C%E8%AE%BE%E5%A4%87)
 1. [老年人独立出行 辅助工具](https://www.zhihu.com/search?q=%E8%80%81%E5%B9%B4%E4%BA%BA%E7%8B%AC%E7%AB%8B%E5%87%BA%E8%A1%8C%20%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7)
 1. [医生测评外骨骼机器人](https://www.zhihu.com/search?q=%E5%8C%BB%E7%94%9F%E6%B5%8B%E8%AF%84%E5%A4%96%E9%AA%A8%E9%AA%BC%E6%9C%BA%E5%99%A8%E4%BA%BA)
-1. [唐朝诡事录之长安](https://www.zhihu.com/search?q=%E5%94%90%E6%9C%9D%E8%AF%A1%E4%BA%8B%E5%BD%95%E4%B9%8B%E9%95%BF%E5%AE%89)
-1. [神舟二十二号发射时间](https://www.zhihu.com/search?q=%E7%A5%9E%E8%88%9F%E4%BA%8C%E5%8D%81%E4%BA%8C%E5%8F%B7%E5%8F%91%E5%B0%84%E6%97%B6%E9%97%B4)
-1. [你见过哪些神补刀](https://www.zhihu.com/search?q=%E4%BD%A0%E8%A7%81%E8%BF%87%E5%93%AA%E4%BA%9B%E7%A5%9E%E8%A1%A5%E5%88%80)
-1. [上海一小区多套住房统一挂牌1460万](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%E4%B8%80%E5%B0%8F%E5%8C%BA%E5%A4%9A%E5%A5%97%E4%BD%8F%E6%88%BF%E7%BB%9F%E4%B8%80%E6%8C%82%E7%89%8C1460%E4%B8%87)
-1. [美结束俄乌冲突28点计划曝光](https://www.zhihu.com/search?q=%E7%BE%8E%E7%BB%93%E6%9D%9F%E4%BF%84%E4%B9%8C%E5%86%B2%E7%AA%8128%E7%82%B9%E8%AE%A1%E5%88%92%E6%9B%9D%E5%85%89)
-1. [幼儿园大班就开始学编程](https://www.zhihu.com/search?q=%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%A4%A7%E7%8F%AD%E5%B0%B1%E5%BC%80%E5%A7%8B%E5%AD%A6%E7%BC%96%E7%A8%8B)
-1. [溢价 100% 的山寨山姆挤满县城中产](https://www.zhihu.com/search?q=%E6%BA%A2%E4%BB%B7%20100%25%20%E7%9A%84%E5%B1%B1%E5%AF%A8%E5%B1%B1%E5%A7%86%E6%8C%A4%E6%BB%A1%E5%8E%BF%E5%9F%8E%E4%B8%AD%E4%BA%A7)
-1. [自助偷甘蔗农场爆火后老板真没招了](https://www.zhihu.com/search?q=%E8%87%AA%E5%8A%A9%E5%81%B7%E7%94%98%E8%94%97%E5%86%9C%E5%9C%BA%E7%88%86%E7%81%AB%E5%90%8E%E8%80%81%E6%9D%BF%E7%9C%9F%E6%B2%A1%E6%8B%9B%E4%BA%86)
-1. [海关在一女子裙内查获229条活鱼](https://www.zhihu.com/search?q=%E6%B5%B7%E5%85%B3%E5%9C%A8%E4%B8%80%E5%A5%B3%E5%AD%90%E8%A3%99%E5%86%85%E6%9F%A5%E8%8E%B7229%E6%9D%A1%E6%B4%BB%E9%B1%BC)
-1. [中国科学家有望攻克神经免疫病](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%AD%A6%E5%AE%B6%E6%9C%89%E6%9C%9B%E6%94%BB%E5%85%8B%E7%A5%9E%E7%BB%8F%E5%85%8D%E7%96%AB%E7%97%85)
-1. [苹果已基本放 Mac Pro](https://www.zhihu.com/search?q=%E8%8B%B9%E6%9E%9C%E5%B7%B2%E5%9F%BA%E6%9C%AC%E6%94%BE%20Mac%20Pro)
-1. [刘强东或迎第六家上市公司](https://www.zhihu.com/search?q=%E5%88%98%E5%BC%BA%E4%B8%9C%E6%88%96%E8%BF%8E%E7%AC%AC%E5%85%AD%E5%AE%B6%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8)
-1. [男子花 8 万元买威海海景房](https://www.zhihu.com/search?q=%E7%94%B7%E5%AD%90%E8%8A%B1%208%20%E4%B8%87%E5%85%83%E4%B9%B0%E5%A8%81%E6%B5%B7%E6%B5%B7%E6%99%AF%E6%88%BF)
-1. [小米汽车未交车催收尾款案一审宣判](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%E6%9C%AA%E4%BA%A4%E8%BD%A6%E5%82%AC%E6%94%B6%E5%B0%BE%E6%AC%BE%E6%A1%88%E4%B8%80%E5%AE%A1%E5%AE%A3%E5%88%A4)
-1. [如何评价动画片《我的哪吒和变形金刚》](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E5%8A%A8%E7%94%BB%E7%89%87%E3%80%8A%E6%88%91%E7%9A%84%E5%93%AA%E5%90%92%E5%92%8C%E5%8F%98%E5%BD%A2%E9%87%91%E5%88%9A%E3%80%8B)
+1. [什么行为改善了你的心理健康](https://www.zhihu.com/search?q=%E4%BB%80%E4%B9%88%E8%A1%8C%E4%B8%BA%E6%94%B9%E5%96%84%E4%BA%86%E4%BD%A0%E7%9A%84%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7)
+1. [这一轮牛市已经结束了吗](https://www.zhihu.com/search?q=%E8%BF%99%E4%B8%80%E8%BD%AE%E7%89%9B%E5%B8%82%E5%B7%B2%E7%BB%8F%E7%BB%93%E6%9D%9F%E4%BA%86%E5%90%97)
+1. [计算机新生怎么合理利用github](https://www.zhihu.com/search?q=%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%96%B0%E7%94%9F%E6%80%8E%E4%B9%88%E5%90%88%E7%90%86%E5%88%A9%E7%94%A8github)
+1. [如何评价电视剧新三国](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E7%94%B5%E8%A7%86%E5%89%A7%E6%96%B0%E4%B8%89%E5%9B%BD)
 
 ## 热门话题
 
