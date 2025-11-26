@@ -11,11 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-11-26 10:44:33 +0800`
+`更新时间：2025-11-26 11:43:34 +0800`
 
 ## 热门搜索
 
-1. [救命药滞留前台5小时致男子身亡](https://www.zhihu.com/search?q=%E6%95%91%E5%91%BD%E8%8D%AF%E6%BB%9E%E7%95%99%E5%89%8D%E5%8F%B05%E5%B0%8F%E6%97%B6%E8%87%B4%E7%94%B7%E5%AD%90%E8%BA%AB%E4%BA%A1)
+1. [史上最严充电宝新规将落地](https://www.zhihu.com/search?q=%E5%8F%B2%E4%B8%8A%E6%9C%80%E4%B8%A5%E5%85%85%E7%94%B5%E5%AE%9D%E6%96%B0%E8%A7%84%E5%B0%86%E8%90%BD%E5%9C%B0)
 1. [为什么有些人的预判能力这么强](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E4%BA%9B%E4%BA%BA%E7%9A%84%E9%A2%84%E5%88%A4%E8%83%BD%E5%8A%9B%E8%BF%99%E4%B9%88%E5%BC%BA)
 1. [新疆到底有多干燥](https://www.zhihu.com/search?q=%E6%96%B0%E7%96%86%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E5%B9%B2%E7%87%A5)
 1. [你有哪些当初没听出来的弦外之音](https://www.zhihu.com/search?q=%E4%BD%A0%E6%9C%89%E5%93%AA%E4%BA%9B%E5%BD%93%E5%88%9D%E6%B2%A1%E5%90%AC%E5%87%BA%E6%9D%A5%E7%9A%84%E5%BC%A6%E5%A4%96%E4%B9%8B%E9%9F%B3)
