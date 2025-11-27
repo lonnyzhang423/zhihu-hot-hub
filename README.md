@@ -11,12 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-11-27 15:27:19 +0800`
+`更新时间：2025-11-27 16:36:14 +0800`
 
 ## 热门搜索
 
-1. [为什么做电工越久越怕电](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%81%9A%E7%94%B5%E5%B7%A5%E8%B6%8A%E4%B9%85%E8%B6%8A%E6%80%95%E7%94%B5)
-1. [如何评价神舟二十二号应急处置过程](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E7%A5%9E%E8%88%9F%E4%BA%8C%E5%8D%81%E4%BA%8C%E5%8F%B7%E5%BA%94%E6%80%A5%E5%A4%84%E7%BD%AE%E8%BF%87%E7%A8%8B)
+1. [为什么现在邮票无人问津了](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E9%82%AE%E7%A5%A8%E6%97%A0%E4%BA%BA%E9%97%AE%E6%B4%A5%E4%BA%86)
 1. [为什么有些人的预判能力这么强](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E4%BA%9B%E4%BA%BA%E7%9A%84%E9%A2%84%E5%88%A4%E8%83%BD%E5%8A%9B%E8%BF%99%E4%B9%88%E5%BC%BA)
 1. [新疆到底有多干燥](https://www.zhihu.com/search?q=%E6%96%B0%E7%96%86%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E5%B9%B2%E7%87%A5)
 1. [你有哪些当初没听出来的弦外之音](https://www.zhihu.com/search?q=%E4%BD%A0%E6%9C%89%E5%93%AA%E4%BA%9B%E5%BD%93%E5%88%9D%E6%B2%A1%E5%90%AC%E5%87%BA%E6%9D%A5%E7%9A%84%E5%BC%A6%E5%A4%96%E4%B9%8B%E9%9F%B3)
@@ -38,6 +37,7 @@
 1. [长辈上下楼梯困难 解决方案](https://www.zhihu.com/search?q=%E9%95%BF%E8%BE%88%E4%B8%8A%E4%B8%8B%E6%A5%BC%E6%A2%AF%E5%9B%B0%E9%9A%BE%20%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88)
 1. [预防老人跌倒 助行设备](https://www.zhihu.com/search?q=%E9%A2%84%E9%98%B2%E8%80%81%E4%BA%BA%E8%B7%8C%E5%80%92%20%E5%8A%A9%E8%A1%8C%E8%AE%BE%E5%A4%87)
 1. [老年人独立出行 辅助工具](https://www.zhihu.com/search?q=%E8%80%81%E5%B9%B4%E4%BA%BA%E7%8B%AC%E7%AB%8B%E5%87%BA%E8%A1%8C%20%E8%BE%85%E5%8A%A9%E5%B7%A5%E5%85%B7)
+1. [医生测评外骨骼机器人](https://www.zhihu.com/search?q=%E5%8C%BB%E7%94%9F%E6%B5%8B%E8%AF%84%E5%A4%96%E9%AA%A8%E9%AA%BC%E6%9C%BA%E5%99%A8%E4%BA%BA)
 
 ## 热门话题
 
