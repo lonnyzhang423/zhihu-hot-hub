@@ -11,12 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-11-27 08:57:52 +0800`
+`更新时间：2025-11-27 10:28:56 +0800`
 
 ## 热门搜索
 
-1. [官方否认试点「老头乐」驾照](https://www.zhihu.com/search?q=%E5%AE%98%E6%96%B9%E5%90%A6%E8%AE%A4%E8%AF%95%E7%82%B9%E3%80%8C%E8%80%81%E5%A4%B4%E4%B9%90%E3%80%8D%E9%A9%BE%E7%85%A7)
-1. [长期不上班的人是什么状态](https://www.zhihu.com/search?q=%E9%95%BF%E6%9C%9F%E4%B8%8D%E4%B8%8A%E7%8F%AD%E7%9A%84%E4%BA%BA%E6%98%AF%E4%BB%80%E4%B9%88%E7%8A%B6%E6%80%81)
+1. [28 点计划哪些条款值得关注](https://www.zhihu.com/search?q=28%20%E7%82%B9%E8%AE%A1%E5%88%92%E5%93%AA%E4%BA%9B%E6%9D%A1%E6%AC%BE%E5%80%BC%E5%BE%97%E5%85%B3%E6%B3%A8)
 1. [为什么有些人的预判能力这么强](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E4%BA%9B%E4%BA%BA%E7%9A%84%E9%A2%84%E5%88%A4%E8%83%BD%E5%8A%9B%E8%BF%99%E4%B9%88%E5%BC%BA)
 1. [新疆到底有多干燥](https://www.zhihu.com/search?q=%E6%96%B0%E7%96%86%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E5%B9%B2%E7%87%A5)
 1. [你有哪些当初没听出来的弦外之音](https://www.zhihu.com/search?q=%E4%BD%A0%E6%9C%89%E5%93%AA%E4%BA%9B%E5%BD%93%E5%88%9D%E6%B2%A1%E5%90%AC%E5%87%BA%E6%9D%A5%E7%9A%84%E5%BC%A6%E5%A4%96%E4%B9%8B%E9%9F%B3)
@@ -26,8 +25,9 @@
 1. [人在什么情况下成长的最快](https://www.zhihu.com/search?q=%E4%BA%BA%E5%9C%A8%E4%BB%80%E4%B9%88%E6%83%85%E5%86%B5%E4%B8%8B%E6%88%90%E9%95%BF%E7%9A%84%E6%9C%80%E5%BF%AB)
 1. [为什么木叶会允许玖辛奈怀孕生子](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%A8%E5%8F%B6%E4%BC%9A%E5%85%81%E8%AE%B8%E7%8E%96%E8%BE%9B%E5%A5%88%E6%80%80%E5%AD%95%E7%94%9F%E5%AD%90)
 1. [有哪些你无法理解的行为](https://www.zhihu.com/search?q=%E6%9C%89%E5%93%AA%E4%BA%9B%E4%BD%A0%E6%97%A0%E6%B3%95%E7%90%86%E8%A7%A3%E7%9A%84%E8%A1%8C%E4%B8%BA)
+1. [「考研热」已经成为过去时了吗](https://www.zhihu.com/search?q=%E3%80%8C%E8%80%83%E7%A0%94%E7%83%AD%E3%80%8D%E5%B7%B2%E7%BB%8F%E6%88%90%E4%B8%BA%E8%BF%87%E5%8E%BB%E6%97%B6%E4%BA%86%E5%90%97)
 1. [普通家庭对孩子最好的托举](https://www.zhihu.com/search?q=%E6%99%AE%E9%80%9A%E5%AE%B6%E5%BA%AD%E5%AF%B9%E5%AD%A9%E5%AD%90%E6%9C%80%E5%A5%BD%E7%9A%84%E6%89%98%E4%B8%BE)
-1. [如何看待「崩老头」](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E3%80%8C%E5%B4%A9%E8%80%81%E5%A4%B4%E3%80%8D)
+1. [长期不上班的人是什么状态](https://www.zhihu.com/search?q=%E9%95%BF%E6%9C%9F%E4%B8%8D%E4%B8%8A%E7%8F%AD%E7%9A%84%E4%BA%BA%E6%98%AF%E4%BB%80%E4%B9%88%E7%8A%B6%E6%80%81)
 1. [人在 45 岁是一种什么感觉](https://www.zhihu.com/search?q=%E4%BA%BA%E5%9C%A8%2045%20%E5%B2%81%E6%98%AF%E4%B8%80%E7%A7%8D%E4%BB%80%E4%B9%88%E6%84%9F%E8%A7%89)
 1. [如何评价勇哥说餐饮](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E5%8B%87%E5%93%A5%E8%AF%B4%E9%A4%90%E9%A5%AE)
 1. [什么样的家庭能养出松弛感的孩子](https://www.zhihu.com/search?q=%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E5%AE%B6%E5%BA%AD%E8%83%BD%E5%85%BB%E5%87%BA%E6%9D%BE%E5%BC%9B%E6%84%9F%E7%9A%84%E5%AD%A9%E5%AD%90)
