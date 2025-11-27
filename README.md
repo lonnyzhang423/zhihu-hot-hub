@@ -11,12 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-11-27 19:11:52 +0800`
+`更新时间：2025-11-27 20:25:26 +0800`
 
 ## 热门搜索
 
-1. [怎样解读驭空戟-1000 性能](https://www.zhihu.com/search?q=%E6%80%8E%E6%A0%B7%E8%A7%A3%E8%AF%BB%E9%A9%AD%E7%A9%BA%E6%88%9F-1000%20%E6%80%A7%E8%83%BD)
-1. [如何评价华为Mate80系列下调起售价](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E5%8D%8E%E4%B8%BAMate80%E7%B3%BB%E5%88%97%E4%B8%8B%E8%B0%83%E8%B5%B7%E5%94%AE%E4%BB%B7)
+1. [A股](https://www.zhihu.com/search?q=A%E8%82%A1)
 1. [提升自己最快的方式](https://www.zhihu.com/search?q=%E6%8F%90%E5%8D%87%E8%87%AA%E5%B7%B1%E6%9C%80%E5%BF%AB%E7%9A%84%E6%96%B9%E5%BC%8F)
 1. [为什么有些人的预判能力这么强](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E4%BA%9B%E4%BA%BA%E7%9A%84%E9%A2%84%E5%88%A4%E8%83%BD%E5%8A%9B%E8%BF%99%E4%B9%88%E5%BC%BA)
 1. [新疆到底有多干燥](https://www.zhihu.com/search?q=%E6%96%B0%E7%96%86%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E5%B9%B2%E7%87%A5)
