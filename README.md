@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-11-28 14:40:02 +0800`
+`更新时间：2025-11-28 15:26:23 +0800`
 
 ## 热门搜索
 
-1. [A股](https://www.zhihu.com/search?q=A%E8%82%A1)
+1. [饺子更好吃的窍门](https://www.zhihu.com/search?q=%E9%A5%BA%E5%AD%90%E6%9B%B4%E5%A5%BD%E5%90%83%E7%9A%84%E7%AA%8D%E9%97%A8)
+1. [如何教育十四五岁死气沉沉的学生](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E6%95%99%E8%82%B2%E5%8D%81%E5%9B%9B%E4%BA%94%E5%B2%81%E6%AD%BB%E6%B0%94%E6%B2%89%E6%B2%89%E7%9A%84%E5%AD%A6%E7%94%9F)
 1. [提升自己最快的方式](https://www.zhihu.com/search?q=%E6%8F%90%E5%8D%87%E8%87%AA%E5%B7%B1%E6%9C%80%E5%BF%AB%E7%9A%84%E6%96%B9%E5%BC%8F)
 1. [为什么有些人的预判能力这么强](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E4%BA%9B%E4%BA%BA%E7%9A%84%E9%A2%84%E5%88%A4%E8%83%BD%E5%8A%9B%E8%BF%99%E4%B9%88%E5%BC%BA)
 1. [新疆到底有多干燥](https://www.zhihu.com/search?q=%E6%96%B0%E7%96%86%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E5%B9%B2%E7%87%A5)
