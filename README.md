@@ -11,12 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-11-28 22:26:55 +0800`
+`更新时间：2025-11-28 23:26:47 +0800`
 
 ## 热门搜索
 
-1. [最无用的节俭行为](https://www.zhihu.com/search?q=%E6%9C%80%E6%97%A0%E7%94%A8%E7%9A%84%E8%8A%82%E4%BF%AD%E8%A1%8C%E4%B8%BA)
-1. [A股](https://www.zhihu.com/search?q=A%E8%82%A1)
+1. [原来在海里真的可以避雨](https://www.zhihu.com/search?q=%E5%8E%9F%E6%9D%A5%E5%9C%A8%E6%B5%B7%E9%87%8C%E7%9C%9F%E7%9A%84%E5%8F%AF%E4%BB%A5%E9%81%BF%E9%9B%A8)
 1. [提升自己最快的方式](https://www.zhihu.com/search?q=%E6%8F%90%E5%8D%87%E8%87%AA%E5%B7%B1%E6%9C%80%E5%BF%AB%E7%9A%84%E6%96%B9%E5%BC%8F)
 1. [为什么有些人的预判能力这么强](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E4%BA%9B%E4%BA%BA%E7%9A%84%E9%A2%84%E5%88%A4%E8%83%BD%E5%8A%9B%E8%BF%99%E4%B9%88%E5%BC%BA)
 1. [新疆到底有多干燥](https://www.zhihu.com/search?q=%E6%96%B0%E7%96%86%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E5%B9%B2%E7%87%A5)
@@ -35,7 +34,9 @@
 1. [普通家庭对孩子最好的托举是什么](https://www.zhihu.com/search?q=%E6%99%AE%E9%80%9A%E5%AE%B6%E5%BA%AD%E5%AF%B9%E5%AD%A9%E5%AD%90%E6%9C%80%E5%A5%BD%E7%9A%84%E6%89%98%E4%B8%BE%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [普通家庭对孩子最好的托举](https://www.zhihu.com/search?q=%E6%99%AE%E9%80%9A%E5%AE%B6%E5%BA%AD%E5%AF%B9%E5%AD%A9%E5%AD%90%E6%9C%80%E5%A5%BD%E7%9A%84%E6%89%98%E4%B8%BE)
 1. [长期不上班的人是什么状态](https://www.zhihu.com/search?q=%E9%95%BF%E6%9C%9F%E4%B8%8D%E4%B8%8A%E7%8F%AD%E7%9A%84%E4%BA%BA%E6%98%AF%E4%BB%80%E4%B9%88%E7%8A%B6%E6%80%81)
+1. [洛城德比](https://www.zhihu.com/search?q=%E6%B4%9B%E5%9F%8E%E5%BE%B7%E6%AF%94)
 1. [人在什么情况下成长最快](https://www.zhihu.com/search?q=%E4%BA%BA%E5%9C%A8%E4%BB%80%E4%B9%88%E6%83%85%E5%86%B5%E4%B8%8B%E6%88%90%E9%95%BF%E6%9C%80%E5%BF%AB)
+1. [如何评价勇哥说餐饮](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E5%8B%87%E5%93%A5%E8%AF%B4%E9%A4%90%E9%A5%AE)
 
 ## 热门话题
 
