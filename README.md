@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-11-29 20:50:50 +0800`
+`更新时间：2025-11-29 21:31:27 +0800`
 
 ## 热门搜索
 
@@ -40,6 +40,7 @@
 1. [为什么下一代算力必须去太空](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8B%E4%B8%80%E4%BB%A3%E7%AE%97%E5%8A%9B%E5%BF%85%E9%A1%BB%E5%8E%BB%E5%A4%AA%E7%A9%BA)
 1. [本届全运会名场面](https://www.zhihu.com/search?q=%E6%9C%AC%E5%B1%8A%E5%85%A8%E8%BF%90%E4%BC%9A%E5%90%8D%E5%9C%BA%E9%9D%A2)
 1. [国漫的主要缺点](https://www.zhihu.com/search?q=%E5%9B%BD%E6%BC%AB%E7%9A%84%E4%B8%BB%E8%A6%81%E7%BC%BA%E7%82%B9)
+1. [如何最大程度延长寿命](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E6%9C%80%E5%A4%A7%E7%A8%8B%E5%BA%A6%E5%BB%B6%E9%95%BF%E5%AF%BF%E5%91%BD)
 
 ## 热门话题
 
