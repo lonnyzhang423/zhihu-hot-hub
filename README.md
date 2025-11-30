@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-12-01 02:16:56 +0800`
+`更新时间：2025-12-01 03:09:50 +0800`
 
 ## 热门搜索
 
@@ -38,6 +38,7 @@
 1. [银行取钱不再一刀切式询问](https://www.zhihu.com/search?q=%E9%93%B6%E8%A1%8C%E5%8F%96%E9%92%B1%E4%B8%8D%E5%86%8D%E4%B8%80%E5%88%80%E5%88%87%E5%BC%8F%E8%AF%A2%E9%97%AE)
 1. [峨眉山持500股可免景区和索道票](https://www.zhihu.com/search?q=%E5%B3%A8%E7%9C%89%E5%B1%B1%E6%8C%81500%E8%82%A1%E5%8F%AF%E5%85%8D%E6%99%AF%E5%8C%BA%E5%92%8C%E7%B4%A2%E9%81%93%E7%A5%A8)
 1. [新国标电动自行车每辆4000元上下](https://www.zhihu.com/search?q=%E6%96%B0%E5%9B%BD%E6%A0%87%E7%94%B5%E5%8A%A8%E8%87%AA%E8%A1%8C%E8%BD%A6%E6%AF%8F%E8%BE%864000%E5%85%83%E4%B8%8A%E4%B8%8B)
+1. [日本自动洗澡机上市271万元一台](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E8%87%AA%E5%8A%A8%E6%B4%97%E6%BE%A1%E6%9C%BA%E4%B8%8A%E5%B8%82271%E4%B8%87%E5%85%83%E4%B8%80%E5%8F%B0)
 
 ## 热门话题
 
