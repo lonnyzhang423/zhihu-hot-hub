@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-12-01 22:29:29 +0800`
+`更新时间：2025-12-01 23:29:59 +0800`
 
 ## 热门搜索
 
-1. [切尔西vs阿森纳](https://www.zhihu.com/search?q=%E5%88%87%E5%B0%94%E8%A5%BFvs%E9%98%BF%E6%A3%AE%E7%BA%B3)
-1. [如何评价2025赛季F1卡塔尔大奖赛](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B72025%E8%B5%9B%E5%AD%A3F1%E5%8D%A1%E5%A1%94%E5%B0%94%E5%A4%A7%E5%A5%96%E8%B5%9B)
+1. [李在明中文致哀](https://www.zhihu.com/search?q=%E6%9D%8E%E5%9C%A8%E6%98%8E%E4%B8%AD%E6%96%87%E8%87%B4%E5%93%80)
+1. [人造肉第一股退出中国](https://www.zhihu.com/search?q=%E4%BA%BA%E9%80%A0%E8%82%89%E7%AC%AC%E4%B8%80%E8%82%A1%E9%80%80%E5%87%BA%E4%B8%AD%E5%9B%BD)
 1. [A股](https://www.zhihu.com/search?q=A%E8%82%A1)
 1. [行测](https://www.zhihu.com/search?q=%E8%A1%8C%E6%B5%8B)
 1. [提升自己最快的方式](https://www.zhihu.com/search?q=%E6%8F%90%E5%8D%87%E8%87%AA%E5%B7%B1%E6%9C%80%E5%BF%AB%E7%9A%84%E6%96%B9%E5%BC%8F)
