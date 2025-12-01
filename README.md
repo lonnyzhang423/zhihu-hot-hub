@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-12-01 12:14:34 +0800`
+`更新时间：2025-12-01 13:34:10 +0800`
 
 ## 热门搜索
 
@@ -23,7 +23,6 @@
 1. [网传南大教授闻海虎发邮件回应举报](https://www.zhihu.com/search?q=%E7%BD%91%E4%BC%A0%E5%8D%97%E5%A4%A7%E6%95%99%E6%8E%88%E9%97%BB%E6%B5%B7%E8%99%8E%E5%8F%91%E9%82%AE%E4%BB%B6%E5%9B%9E%E5%BA%94%E4%B8%BE%E6%8A%A5)
 1. [美团发布上下文级联压缩技术](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%A2%E5%8F%91%E5%B8%83%E4%B8%8A%E4%B8%8B%E6%96%87%E7%BA%A7%E8%81%94%E5%8E%8B%E7%BC%A9%E6%8A%80%E6%9C%AF)
 1. [「老穷风」怎么火了](https://www.zhihu.com/search?q=%E3%80%8C%E8%80%81%E7%A9%B7%E9%A3%8E%E3%80%8D%E6%80%8E%E4%B9%88%E7%81%AB%E4%BA%86)
-1. [喜人奇妙夜2第十期](https://www.zhihu.com/search?q=%E5%96%9C%E4%BA%BA%E5%A5%87%E5%A6%99%E5%A4%9C2%E7%AC%AC%E5%8D%81%E6%9C%9F)
 1. [多家手机厂商取消air机型](https://www.zhihu.com/search?q=%E5%A4%9A%E5%AE%B6%E6%89%8B%E6%9C%BA%E5%8E%82%E5%95%86%E5%8F%96%E6%B6%88air%E6%9C%BA%E5%9E%8B)
 1. [王牧疑似回复闻海虎澄清信](https://www.zhihu.com/search?q=%E7%8E%8B%E7%89%A7%E7%96%91%E4%BC%BC%E5%9B%9E%E5%A4%8D%E9%97%BB%E6%B5%B7%E8%99%8E%E6%BE%84%E6%B8%85%E4%BF%A1)
 1. [苏超组委会公布2026年的竞赛新规](https://www.zhihu.com/search?q=%E8%8B%8F%E8%B6%85%E7%BB%84%E5%A7%94%E4%BC%9A%E5%85%AC%E5%B8%832026%E5%B9%B4%E7%9A%84%E7%AB%9E%E8%B5%9B%E6%96%B0%E8%A7%84)
@@ -38,7 +37,8 @@
 1. [峨眉山持500股可免景区和索道票](https://www.zhihu.com/search?q=%E5%B3%A8%E7%9C%89%E5%B1%B1%E6%8C%81500%E8%82%A1%E5%8F%AF%E5%85%8D%E6%99%AF%E5%8C%BA%E5%92%8C%E7%B4%A2%E9%81%93%E7%A5%A8)
 1. [俄罗斯洲际弹道导弹试射失败](https://www.zhihu.com/search?q=%E4%BF%84%E7%BD%97%E6%96%AF%E6%B4%B2%E9%99%85%E5%BC%B9%E9%81%93%E5%AF%BC%E5%BC%B9%E8%AF%95%E5%B0%84%E5%A4%B1%E8%B4%A5)
 1. [全国流感阳性率接近 45%](https://www.zhihu.com/search?q=%E5%85%A8%E5%9B%BD%E6%B5%81%E6%84%9F%E9%98%B3%E6%80%A7%E7%8E%87%E6%8E%A5%E8%BF%91%2045%25)
-1. [大脑断崖式衰老的3个年龄](https://www.zhihu.com/search?q=%E5%A4%A7%E8%84%91%E6%96%AD%E5%B4%96%E5%BC%8F%E8%A1%B0%E8%80%81%E7%9A%843%E4%B8%AA%E5%B9%B4%E9%BE%84)
+1. [《疯狂动物城2》预测票房升至42.63亿](https://www.zhihu.com/search?q=%E3%80%8A%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E2%E3%80%8B%E9%A2%84%E6%B5%8B%E7%A5%A8%E6%88%BF%E5%8D%87%E8%87%B342.63%E4%BA%BF)
+1. [《哥的全宇宙》被指抄袭](https://www.zhihu.com/search?q=%E3%80%8A%E5%93%A5%E7%9A%84%E5%85%A8%E5%AE%87%E5%AE%99%E3%80%8B%E8%A2%AB%E6%8C%87%E6%8A%84%E8%A2%AD)
 
 ## 热门话题
 
