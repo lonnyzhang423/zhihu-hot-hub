@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-12-01 15:16:56 +0800`
+`更新时间：2025-12-01 16:20:13 +0800`
 
 ## 热门搜索
 
@@ -38,7 +38,6 @@
 1. [《疯狂动物城2》预测票房升至42.63亿](https://www.zhihu.com/search?q=%E3%80%8A%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E2%E3%80%8B%E9%A2%84%E6%B5%8B%E7%A5%A8%E6%88%BF%E5%8D%87%E8%87%B342.63%E4%BA%BF)
 1. [《哥的全宇宙》被指抄袭](https://www.zhihu.com/search?q=%E3%80%8A%E5%93%A5%E7%9A%84%E5%85%A8%E5%AE%87%E5%AE%99%E3%80%8B%E8%A2%AB%E6%8C%87%E6%8A%84%E8%A2%AD)
 1. [尖峰时刻4确认重启](https://www.zhihu.com/search?q=%E5%B0%96%E5%B3%B0%E6%97%B6%E5%88%BB4%E7%A1%AE%E8%AE%A4%E9%87%8D%E5%90%AF)
-1. [天气型情绪体质](https://www.zhihu.com/search?q=%E5%A4%A9%E6%B0%94%E5%9E%8B%E6%83%85%E7%BB%AA%E4%BD%93%E8%B4%A8)
 
 ## 热门话题
 
