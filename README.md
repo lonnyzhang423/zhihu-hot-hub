@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-12-02 19:26:01 +0800`
+`更新时间：2025-12-02 20:57:53 +0800`
 
 ## 热门搜索
 
-1. [Uzi 复出](https://www.zhihu.com/search?q=Uzi%20%E5%A4%8D%E5%87%BA)
+1. [咖啡是怎么卷到2块9的](https://www.zhihu.com/search?q=%E5%92%96%E5%95%A1%E6%98%AF%E6%80%8E%E4%B9%88%E5%8D%B7%E5%88%B02%E5%9D%979%E7%9A%84)
+1. [如何评价AL官宣Tabe离队](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7AL%E5%AE%98%E5%AE%A3Tabe%E7%A6%BB%E9%98%9F)
 1. [A股](https://www.zhihu.com/search?q=A%E8%82%A1)
 1. [人间清醒是什么样子](https://www.zhihu.com/search?q=%E4%BA%BA%E9%97%B4%E6%B8%85%E9%86%92%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7%E5%AD%90)
 1. [行测](https://www.zhihu.com/search?q=%E8%A1%8C%E6%B5%8B)
