@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-12-03 09:00:05 +0800`
+`更新时间：2025-12-03 10:47:16 +0800`
 
 ## 热门搜索
 
-1. [人间清醒是什么样子](https://www.zhihu.com/search?q=%E4%BA%BA%E9%97%B4%E6%B8%85%E9%86%92%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7%E5%AD%90)
+1. [曝联想 ISG 上海全员被裁](https://www.zhihu.com/search?q=%E6%9B%9D%E8%81%94%E6%83%B3%20ISG%20%E4%B8%8A%E6%B5%B7%E5%85%A8%E5%91%98%E8%A2%AB%E8%A3%81)
+1. [「老人与海」为什么成为经典](https://www.zhihu.com/search?q=%E3%80%8C%E8%80%81%E4%BA%BA%E4%B8%8E%E6%B5%B7%E3%80%8D%E4%B8%BA%E4%BB%80%E4%B9%88%E6%88%90%E4%B8%BA%E7%BB%8F%E5%85%B8)
 1. [行测](https://www.zhihu.com/search?q=%E8%A1%8C%E6%B5%8B)
 1. [太阳vs湖人](https://www.zhihu.com/search?q=%E5%A4%AA%E9%98%B3vs%E6%B9%96%E4%BA%BA)
 1. [提升自己最快的方式](https://www.zhihu.com/search?q=%E6%8F%90%E5%8D%87%E8%87%AA%E5%B7%B1%E6%9C%80%E5%BF%AB%E7%9A%84%E6%96%B9%E5%BC%8F)
