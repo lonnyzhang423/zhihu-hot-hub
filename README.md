@@ -11,12 +11,13 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-12-04 16:18:57 +0800`
+`更新时间：2025-12-04 17:17:15 +0800`
 
 ## 热门搜索
 
 1. [国际残疾人日](https://www.zhihu.com/search?q=%E5%9B%BD%E9%99%85%E6%AE%8B%E7%96%BE%E4%BA%BA%E6%97%A5)
 1. [人间清醒是什么样子](https://www.zhihu.com/search?q=%E4%BA%BA%E9%97%B4%E6%B8%85%E9%86%92%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7%E5%AD%90)
+1. [新疆地震](https://www.zhihu.com/search?q=%E6%96%B0%E7%96%86%E5%9C%B0%E9%9C%87)
 1. [你身边有年纪轻轻就去世的人吗](https://www.zhihu.com/search?q=%E4%BD%A0%E8%BA%AB%E8%BE%B9%E6%9C%89%E5%B9%B4%E7%BA%AA%E8%BD%BB%E8%BD%BB%E5%B0%B1%E5%8E%BB%E4%B8%96%E7%9A%84%E4%BA%BA%E5%90%97)
 1. [中国人玩阳谋到底有多牛](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%8E%A9%E9%98%B3%E8%B0%8B%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E7%89%9B)
 1. [前两年冲动买房的人怎么样了](https://www.zhihu.com/search?q=%E5%89%8D%E4%B8%A4%E5%B9%B4%E5%86%B2%E5%8A%A8%E4%B9%B0%E6%88%BF%E7%9A%84%E4%BA%BA%E6%80%8E%E4%B9%88%E6%A0%B7%E4%BA%86)
@@ -40,7 +41,6 @@
 1. [癸酉本石头记是否是真本](https://www.zhihu.com/search?q=%E7%99%B8%E9%85%89%E6%9C%AC%E7%9F%B3%E5%A4%B4%E8%AE%B0%E6%98%AF%E5%90%A6%E6%98%AF%E7%9C%9F%E6%9C%AC)
 1. [为什么下一代算力必须去太空](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8B%E4%B8%80%E4%BB%A3%E7%AE%97%E5%8A%9B%E5%BF%85%E9%A1%BB%E5%8E%BB%E5%A4%AA%E7%A9%BA)
 1. [如何最大程度延长寿命](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E6%9C%80%E5%A4%A7%E7%A8%8B%E5%BA%A6%E5%BB%B6%E9%95%BF%E5%AF%BF%E5%91%BD)
-1. [挣钱的本质](https://www.zhihu.com/search?q=%E6%8C%A3%E9%92%B1%E7%9A%84%E6%9C%AC%E8%B4%A8)
 
 ## 热门话题
 
