@@ -11,11 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-12-05 21:27:01 +0800`
+`更新时间：2025-12-05 22:13:20 +0800`
 
 ## 热门搜索
 
-1. [杜林培养攻略](https://www.zhihu.com/search?q=%E6%9D%9C%E6%9E%97%E5%9F%B9%E5%85%BB%E6%94%BB%E7%95%A5)
+1. [中法发布联合声明](https://www.zhihu.com/search?q=%E4%B8%AD%E6%B3%95%E5%8F%91%E5%B8%83%E8%81%94%E5%90%88%E5%A3%B0%E6%98%8E)
 1. [提升自己最快的方式](https://www.zhihu.com/search?q=%E6%8F%90%E5%8D%87%E8%87%AA%E5%B7%B1%E6%9C%80%E5%BF%AB%E7%9A%84%E6%96%B9%E5%BC%8F)
 1. [有哪些好用的开源软件](https://www.zhihu.com/search?q=%E6%9C%89%E5%93%AA%E4%BA%9B%E5%A5%BD%E7%94%A8%E7%9A%84%E5%BC%80%E6%BA%90%E8%BD%AF%E4%BB%B6)
 1. [新疆地震](https://www.zhihu.com/search?q=%E6%96%B0%E7%96%86%E5%9C%B0%E9%9C%87)
