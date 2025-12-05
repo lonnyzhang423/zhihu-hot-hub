@@ -11,11 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-12-05 12:36:05 +0800`
+`更新时间：2025-12-05 13:27:23 +0800`
 
 ## 热门搜索
 
-1. [提升自己最快的方式](https://www.zhihu.com/search?q=%E6%8F%90%E5%8D%87%E8%87%AA%E5%B7%B1%E6%9C%80%E5%BF%AB%E7%9A%84%E6%96%B9%E5%BC%8F)
+1. [多家航司被要求整改「锁座」](https://www.zhihu.com/search?q=%E5%A4%9A%E5%AE%B6%E8%88%AA%E5%8F%B8%E8%A2%AB%E8%A6%81%E6%B1%82%E6%95%B4%E6%94%B9%E3%80%8C%E9%94%81%E5%BA%A7%E3%80%8D)
 1. [新疆地震](https://www.zhihu.com/search?q=%E6%96%B0%E7%96%86%E5%9C%B0%E9%9C%87)
 1. [你身边有年纪轻轻就去世的人吗](https://www.zhihu.com/search?q=%E4%BD%A0%E8%BA%AB%E8%BE%B9%E6%9C%89%E5%B9%B4%E7%BA%AA%E8%BD%BB%E8%BD%BB%E5%B0%B1%E5%8E%BB%E4%B8%96%E7%9A%84%E4%BA%BA%E5%90%97)
 1. [为什么C标准库没有链表](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88C%E6%A0%87%E5%87%86%E5%BA%93%E6%B2%A1%E6%9C%89%E9%93%BE%E8%A1%A8)
