@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-12-08 01:10:10 +0800`
+`更新时间：2025-12-08 02:16:38 +0800`
 
 ## 热门搜索
 
@@ -33,10 +33,6 @@
 1. [疯狂动物城2蛇没有肩膀](https://www.zhihu.com/search?q=%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E2%E8%9B%87%E6%B2%A1%E6%9C%89%E8%82%A9%E8%86%80)
 1. [银河战士4口碑和销量跌入谷底](https://www.zhihu.com/search?q=%E9%93%B6%E6%B2%B3%E6%88%98%E5%A3%AB4%E5%8F%A3%E7%A2%91%E5%92%8C%E9%94%80%E9%87%8F%E8%B7%8C%E5%85%A5%E8%B0%B7%E5%BA%95)
 1. [阿里系APP禁止豆包手机登陆](https://www.zhihu.com/search?q=%E9%98%BF%E9%87%8C%E7%B3%BBAPP%E7%A6%81%E6%AD%A2%E8%B1%86%E5%8C%85%E6%89%8B%E6%9C%BA%E7%99%BB%E9%99%86)
-1. [马克龙访问四川大学](https://www.zhihu.com/search?q=%E9%A9%AC%E5%85%8B%E9%BE%99%E8%AE%BF%E9%97%AE%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6)
-1. [美国机器人公司欠中国代工厂25亿元](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%85%AC%E5%8F%B8%E6%AC%A0%E4%B8%AD%E5%9B%BD%E4%BB%A3%E5%B7%A5%E5%8E%8225%E4%BA%BF%E5%85%83)
-1. [多地推出新版旅游计次火车票](https://www.zhihu.com/search?q=%E5%A4%9A%E5%9C%B0%E6%8E%A8%E5%87%BA%E6%96%B0%E7%89%88%E6%97%85%E6%B8%B8%E8%AE%A1%E6%AC%A1%E7%81%AB%E8%BD%A6%E7%A5%A8)
-1. [《喜人奇妙夜》第二季五花八们夺冠](https://www.zhihu.com/search?q=%E3%80%8A%E5%96%9C%E4%BA%BA%E5%A5%87%E5%A6%99%E5%A4%9C%E3%80%8B%E7%AC%AC%E4%BA%8C%E5%AD%A3%E4%BA%94%E8%8A%B1%E5%85%AB%E4%BB%AC%E5%A4%BA%E5%86%A0)
 
 ## 热门话题
 
