@@ -11,10 +11,13 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-12-08 21:40:03 +0800`
+`更新时间：2025-12-08 22:29:56 +0800`
 
 ## 热门搜索
 
+1. [F1](https://www.zhihu.com/search?q=F1)
+1. [提升自己最快的方式](https://www.zhihu.com/search?q=%E6%8F%90%E5%8D%87%E8%87%AA%E5%B7%B1%E6%9C%80%E5%BF%AB%E7%9A%84%E6%96%B9%E5%BC%8F)
+1. [省考](https://www.zhihu.com/search?q=%E7%9C%81%E8%80%83)
 1. [尖叫之夜](https://www.zhihu.com/search?q=%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C)
 1. [勇士vs骑士](https://www.zhihu.com/search?q=%E5%8B%87%E5%A3%ABvs%E9%AA%91%E5%A3%AB)
 1. [火箭vs独行侠](https://www.zhihu.com/search?q=%E7%81%AB%E7%AE%ADvs%E7%8B%AC%E8%A1%8C%E4%BE%A0)
@@ -40,7 +43,6 @@
 1. [为什么下一代算力必须去太空](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8B%E4%B8%80%E4%BB%A3%E7%AE%97%E5%8A%9B%E5%BF%85%E9%A1%BB%E5%8E%BB%E5%A4%AA%E7%A9%BA)
 1. [本届全运会名场面](https://www.zhihu.com/search?q=%E6%9C%AC%E5%B1%8A%E5%85%A8%E8%BF%90%E4%BC%9A%E5%90%8D%E5%9C%BA%E9%9D%A2)
 1. [国漫的主要缺点](https://www.zhihu.com/search?q=%E5%9B%BD%E6%BC%AB%E7%9A%84%E4%B8%BB%E8%A6%81%E7%BC%BA%E7%82%B9)
-1. [挣钱的本质](https://www.zhihu.com/search?q=%E6%8C%A3%E9%92%B1%E7%9A%84%E6%9C%AC%E8%B4%A8)
 
 ## 热门话题
 
