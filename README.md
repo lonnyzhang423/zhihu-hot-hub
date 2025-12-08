@@ -11,12 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-12-08 12:40:46 +0800`
+`更新时间：2025-12-08 13:29:47 +0800`
 
 ## 热门搜索
 
-1. [爱奇艺尖叫之夜](https://www.zhihu.com/search?q=%E7%88%B1%E5%A5%87%E8%89%BA%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C)
-1. [F1](https://www.zhihu.com/search?q=F1)
+1. [大湾区大学正式成立](https://www.zhihu.com/search?q=%E5%A4%A7%E6%B9%BE%E5%8C%BA%E5%A4%A7%E5%AD%A6%E6%AD%A3%E5%BC%8F%E6%88%90%E7%AB%8B)
 1. [省考](https://www.zhihu.com/search?q=%E7%9C%81%E8%80%83)
 1. [爱奇艺道歉](https://www.zhihu.com/search?q=%E7%88%B1%E5%A5%87%E8%89%BA%E9%81%93%E6%AD%89)
 1. [你认为最失败的 Logo 设计有哪些](https://www.zhihu.com/search?q=%E4%BD%A0%E8%AE%A4%E4%B8%BA%E6%9C%80%E5%A4%B1%E8%B4%A5%E7%9A%84%20Logo%20%E8%AE%BE%E8%AE%A1%E6%9C%89%E5%93%AA%E4%BA%9B)
