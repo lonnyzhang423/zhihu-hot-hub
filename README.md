@@ -11,12 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-12-08 19:25:33 +0800`
+`更新时间：2025-12-08 20:56:46 +0800`
 
 ## 热门搜索
 
-1. [F1](https://www.zhihu.com/search?q=F1)
-1. [提升自己最快的方式](https://www.zhihu.com/search?q=%E6%8F%90%E5%8D%87%E8%87%AA%E5%B7%B1%E6%9C%80%E5%BF%AB%E7%9A%84%E6%96%B9%E5%BC%8F)
+1. [1818名明星网红等被查处](https://www.zhihu.com/search?q=1818%E5%90%8D%E6%98%8E%E6%98%9F%E7%BD%91%E7%BA%A2%E7%AD%89%E8%A2%AB%E6%9F%A5%E5%A4%84)
 1. [省考](https://www.zhihu.com/search?q=%E7%9C%81%E8%80%83)
 1. [尖叫之夜](https://www.zhihu.com/search?q=%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C)
 1. [勇士vs骑士](https://www.zhihu.com/search?q=%E5%8B%87%E5%A3%ABvs%E9%AA%91%E5%A3%AB)
