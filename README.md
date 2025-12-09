@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-12-09 10:05:22 +0800`
+`更新时间：2025-12-09 11:53:46 +0800`
 
 ## 热门搜索
 
@@ -20,6 +20,7 @@
 1. [省考](https://www.zhihu.com/search?q=%E7%9C%81%E8%80%83)
 1. [尖叫之夜](https://www.zhihu.com/search?q=%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C)
 1. [勇士vs骑士](https://www.zhihu.com/search?q=%E5%8B%87%E5%A3%ABvs%E9%AA%91%E5%A3%AB)
+1. [男人的快乐有多简单](https://www.zhihu.com/search?q=%E7%94%B7%E4%BA%BA%E7%9A%84%E5%BF%AB%E4%B9%90%E6%9C%89%E5%A4%9A%E7%AE%80%E5%8D%95)
 1. [火箭vs独行侠](https://www.zhihu.com/search?q=%E7%81%AB%E7%AE%ADvs%E7%8B%AC%E8%A1%8C%E4%BE%A0)
 1. [太阳vs火箭](https://www.zhihu.com/search?q=%E5%A4%AA%E9%98%B3vs%E7%81%AB%E7%AE%AD)
 1. [写西幻该如何避免写成中式西幻](https://www.zhihu.com/search?q=%E5%86%99%E8%A5%BF%E5%B9%BB%E8%AF%A5%E5%A6%82%E4%BD%95%E9%81%BF%E5%85%8D%E5%86%99%E6%88%90%E4%B8%AD%E5%BC%8F%E8%A5%BF%E5%B9%BB)
@@ -42,7 +43,6 @@
 1. [逆全球化的原因](https://www.zhihu.com/search?q=%E9%80%86%E5%85%A8%E7%90%83%E5%8C%96%E7%9A%84%E5%8E%9F%E5%9B%A0)
 1. [为什么下一代算力必须去太空](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8B%E4%B8%80%E4%BB%A3%E7%AE%97%E5%8A%9B%E5%BF%85%E9%A1%BB%E5%8E%BB%E5%A4%AA%E7%A9%BA)
 1. [本届全运会名场面](https://www.zhihu.com/search?q=%E6%9C%AC%E5%B1%8A%E5%85%A8%E8%BF%90%E4%BC%9A%E5%90%8D%E5%9C%BA%E9%9D%A2)
-1. [国漫的主要缺点](https://www.zhihu.com/search?q=%E5%9B%BD%E6%BC%AB%E7%9A%84%E4%B8%BB%E8%A6%81%E7%BC%BA%E7%82%B9)
 
 ## 热门话题
 
