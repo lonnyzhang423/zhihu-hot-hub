@@ -11,12 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-12-09 21:30:34 +0800`
+`更新时间：2025-12-09 22:14:45 +0800`
 
 ## 热门搜索
 
 1. [中俄两军组织实施联合空中战略巡航](https://www.zhihu.com/search?q=%E4%B8%AD%E4%BF%84%E4%B8%A4%E5%86%9B%E7%BB%84%E7%BB%87%E5%AE%9E%E6%96%BD%E8%81%94%E5%90%88%E7%A9%BA%E4%B8%AD%E6%88%98%E7%95%A5%E5%B7%A1%E8%88%AA)
-1. [F1](https://www.zhihu.com/search?q=F1)
 1. [提升自己最快的方式](https://www.zhihu.com/search?q=%E6%8F%90%E5%8D%87%E8%87%AA%E5%B7%B1%E6%9C%80%E5%BF%AB%E7%9A%84%E6%96%B9%E5%BC%8F)
 1. [省考](https://www.zhihu.com/search?q=%E7%9C%81%E8%80%83)
 1. [尖叫之夜](https://www.zhihu.com/search?q=%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C)
@@ -42,6 +41,7 @@
 1. [山姆超市质量到底如何](https://www.zhihu.com/search?q=%E5%B1%B1%E5%A7%86%E8%B6%85%E5%B8%82%E8%B4%A8%E9%87%8F%E5%88%B0%E5%BA%95%E5%A6%82%E4%BD%95)
 1. [计算机新生怎么合理利用github](https://www.zhihu.com/search?q=%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%96%B0%E7%94%9F%E6%80%8E%E4%B9%88%E5%90%88%E7%90%86%E5%88%A9%E7%94%A8github)
 1. [大长今当初为什么那么火爆](https://www.zhihu.com/search?q=%E5%A4%A7%E9%95%BF%E4%BB%8A%E5%BD%93%E5%88%9D%E4%B8%BA%E4%BB%80%E4%B9%88%E9%82%A3%E4%B9%88%E7%81%AB%E7%88%86)
+1. [李逍遥为什么晚年凄惨](https://www.zhihu.com/search?q=%E6%9D%8E%E9%80%8D%E9%81%A5%E4%B8%BA%E4%BB%80%E4%B9%88%E6%99%9A%E5%B9%B4%E5%87%84%E6%83%A8)
 
 ## 热门话题
 
