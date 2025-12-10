@@ -11,12 +11,10 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-12-10 22:30:32 +0800`
+`更新时间：2025-12-10 23:32:08 +0800`
 
 ## 热门搜索
 
-1. [一只松鼠让半个松原停电系谣言](https://www.zhihu.com/search?q=%E4%B8%80%E5%8F%AA%E6%9D%BE%E9%BC%A0%E8%AE%A9%E5%8D%8A%E4%B8%AA%E6%9D%BE%E5%8E%9F%E5%81%9C%E7%94%B5%E7%B3%BB%E8%B0%A3%E8%A8%80)
-1. [减肥的终点是什么](https://www.zhihu.com/search?q=%E5%87%8F%E8%82%A5%E7%9A%84%E7%BB%88%E7%82%B9%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [什么样的人算是中了基因彩票](https://www.zhihu.com/search?q=%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E4%BA%BA%E7%AE%97%E6%98%AF%E4%B8%AD%E4%BA%86%E5%9F%BA%E5%9B%A0%E5%BD%A9%E7%A5%A8)
 1. [勇士vs骑士](https://www.zhihu.com/search?q=%E5%8B%87%E5%A3%ABvs%E9%AA%91%E5%A3%AB)
 1. [创业板指涨逾1%](https://www.zhihu.com/search?q=%E5%88%9B%E4%B8%9A%E6%9D%BF%E6%8C%87%E6%B6%A8%E9%80%BE1%25)
