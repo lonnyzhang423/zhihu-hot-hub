@@ -11,12 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-12-10 16:18:59 +0800`
+`更新时间：2025-12-10 17:21:35 +0800`
 
 ## 热门搜索
 
 1. [中俄两军组织实施联合空中战略巡航](https://www.zhihu.com/search?q=%E4%B8%AD%E4%BF%84%E4%B8%A4%E5%86%9B%E7%BB%84%E7%BB%87%E5%AE%9E%E6%96%BD%E8%81%94%E5%90%88%E7%A9%BA%E4%B8%AD%E6%88%98%E7%95%A5%E5%B7%A1%E8%88%AA)
-1. [省考](https://www.zhihu.com/search?q=%E7%9C%81%E8%80%83)
 1. [什么样的人算是中了基因彩票](https://www.zhihu.com/search?q=%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E4%BA%BA%E7%AE%97%E6%98%AF%E4%B8%AD%E4%BA%86%E5%9F%BA%E5%9B%A0%E5%BD%A9%E7%A5%A8)
 1. [勇士vs骑士](https://www.zhihu.com/search?q=%E5%8B%87%E5%A3%ABvs%E9%AA%91%E5%A3%AB)
 1. [男人的快乐有多简单](https://www.zhihu.com/search?q=%E7%94%B7%E4%BA%BA%E7%9A%84%E5%BF%AB%E4%B9%90%E6%9C%89%E5%A4%9A%E7%AE%80%E5%8D%95)
@@ -42,6 +41,7 @@
 1. [为什么技术人员往往难以沟通](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%8A%80%E6%9C%AF%E4%BA%BA%E5%91%98%E5%BE%80%E5%BE%80%E9%9A%BE%E4%BB%A5%E6%B2%9F%E9%80%9A)
 1. [哪些游戏角色比游戏本身出名](https://www.zhihu.com/search?q=%E5%93%AA%E4%BA%9B%E6%B8%B8%E6%88%8F%E8%A7%92%E8%89%B2%E6%AF%94%E6%B8%B8%E6%88%8F%E6%9C%AC%E8%BA%AB%E5%87%BA%E5%90%8D)
 1. [日系车真的开不坏吗](https://www.zhihu.com/search?q=%E6%97%A5%E7%B3%BB%E8%BD%A6%E7%9C%9F%E7%9A%84%E5%BC%80%E4%B8%8D%E5%9D%8F%E5%90%97)
+1. [为什么有些人的预判能力很强](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E4%BA%9B%E4%BA%BA%E7%9A%84%E9%A2%84%E5%88%A4%E8%83%BD%E5%8A%9B%E5%BE%88%E5%BC%BA)
 
 ## 热门话题
 
