@@ -11,11 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-12-11 17:33:25 +0800`
+`更新时间：2025-12-11 18:32:51 +0800`
 
 ## 热门搜索
 
-1. [导师会翻看你的朋友圈吗](https://www.zhihu.com/search?q=%E5%AF%BC%E5%B8%88%E4%BC%9A%E7%BF%BB%E7%9C%8B%E4%BD%A0%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%90%97)
+1. [北京国安队夺得足协杯冠军](https://www.zhihu.com/search?q=%E5%8C%97%E4%BA%AC%E5%9B%BD%E5%AE%89%E9%98%9F%E5%A4%BA%E5%BE%97%E8%B6%B3%E5%8D%8F%E6%9D%AF%E5%86%A0%E5%86%9B)
 1. [什么样的人算是中了基因彩票](https://www.zhihu.com/search?q=%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E4%BA%BA%E7%AE%97%E6%98%AF%E4%B8%AD%E4%BA%86%E5%9F%BA%E5%9B%A0%E5%BD%A9%E7%A5%A8)
 1. [美联储降息25个基点](https://www.zhihu.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8%E9%99%8D%E6%81%AF25%E4%B8%AA%E5%9F%BA%E7%82%B9)
 1. [创业板指涨逾1%](https://www.zhihu.com/search?q=%E5%88%9B%E4%B8%9A%E6%9D%BF%E6%8C%87%E6%B6%A8%E9%80%BE1%25)
@@ -40,7 +40,6 @@
 1. [李逍遥为什么晚年凄惨](https://www.zhihu.com/search?q=%E6%9D%8E%E9%80%8D%E9%81%A5%E4%B8%BA%E4%BB%80%E4%B9%88%E6%99%9A%E5%B9%B4%E5%87%84%E6%83%A8)
 1. [大学高中化会以一种什么方式结束](https://www.zhihu.com/search?q=%E5%A4%A7%E5%AD%A6%E9%AB%98%E4%B8%AD%E5%8C%96%E4%BC%9A%E4%BB%A5%E4%B8%80%E7%A7%8D%E4%BB%80%E4%B9%88%E6%96%B9%E5%BC%8F%E7%BB%93%E6%9D%9F)
 1. [「癸酉本石头记」是否是真本](https://www.zhihu.com/search?q=%E3%80%8C%E7%99%B8%E9%85%89%E6%9C%AC%E7%9F%B3%E5%A4%B4%E8%AE%B0%E3%80%8D%E6%98%AF%E5%90%A6%E6%98%AF%E7%9C%9F%E6%9C%AC)
-1. [为什么下一代算力必须去太空](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8B%E4%B8%80%E4%BB%A3%E7%AE%97%E5%8A%9B%E5%BF%85%E9%A1%BB%E5%8E%BB%E5%A4%AA%E7%A9%BA)
 
 ## 热门话题
 
