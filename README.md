@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-12-11 19:12:44 +0800`
+`更新时间：2025-12-11 20:27:40 +0800`
 
 ## 热门搜索
 
@@ -39,6 +39,7 @@
 1. [什么样的家庭能养出松弛感的孩子](https://www.zhihu.com/search?q=%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E5%AE%B6%E5%BA%AD%E8%83%BD%E5%85%BB%E5%87%BA%E6%9D%BE%E5%BC%9B%E6%84%9F%E7%9A%84%E5%AD%A9%E5%AD%90)
 1. [你认为最失败的 Logo 设计有哪些](https://www.zhihu.com/search?q=%E4%BD%A0%E8%AE%A4%E4%B8%BA%E6%9C%80%E5%A4%B1%E8%B4%A5%E7%9A%84%20Logo%20%E8%AE%BE%E8%AE%A1%E6%9C%89%E5%93%AA%E4%BA%9B)
 1. [山姆超市质量到底如何](https://www.zhihu.com/search?q=%E5%B1%B1%E5%A7%86%E8%B6%85%E5%B8%82%E8%B4%A8%E9%87%8F%E5%88%B0%E5%BA%95%E5%A6%82%E4%BD%95)
+1. [计算机新生怎么合理利用github](https://www.zhihu.com/search?q=%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%96%B0%E7%94%9F%E6%80%8E%E4%B9%88%E5%90%88%E7%90%86%E5%88%A9%E7%94%A8github)
 
 ## 热门话题
 
