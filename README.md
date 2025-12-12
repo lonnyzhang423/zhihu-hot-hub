@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-12-13 06:13:09 +0800`
+`更新时间：2025-12-13 07:13:09 +0800`
 
 ## 热门搜索
 
@@ -41,6 +41,7 @@
 1. [国漫的主要缺点](https://www.zhihu.com/search?q=%E5%9B%BD%E6%BC%AB%E7%9A%84%E4%B8%BB%E8%A6%81%E7%BC%BA%E7%82%B9)
 1. [体制内写材料是否有好坏之分](https://www.zhihu.com/search?q=%E4%BD%93%E5%88%B6%E5%86%85%E5%86%99%E6%9D%90%E6%96%99%E6%98%AF%E5%90%A6%E6%9C%89%E5%A5%BD%E5%9D%8F%E4%B9%8B%E5%88%86)
 1. [如何评价明末江南奴变](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E6%98%8E%E6%9C%AB%E6%B1%9F%E5%8D%97%E5%A5%B4%E5%8F%98)
+1. [为什么技术人员往往难以沟通](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%8A%80%E6%9C%AF%E4%BA%BA%E5%91%98%E5%BE%80%E5%BE%80%E9%9A%BE%E4%BB%A5%E6%B2%9F%E9%80%9A)
 
 ## 热门话题
 
