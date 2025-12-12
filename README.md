@@ -11,12 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-12-12 12:27:19 +0800`
+`更新时间：2025-12-12 13:15:14 +0800`
 
 ## 热门搜索
 
-1. [王传福称比亚迪会有重磅技术发布](https://www.zhihu.com/search?q=%E7%8E%8B%E4%BC%A0%E7%A6%8F%E7%A7%B0%E6%AF%94%E4%BA%9A%E8%BF%AA%E4%BC%9A%E6%9C%89%E9%87%8D%E7%A3%85%E6%8A%80%E6%9C%AF%E5%8F%91%E5%B8%83)
-1. [梅西的职业生涯有哪些遗憾](https://www.zhihu.com/search?q=%E6%A2%85%E8%A5%BF%E7%9A%84%E8%81%8C%E4%B8%9A%E7%94%9F%E6%B6%AF%E6%9C%89%E5%93%AA%E4%BA%9B%E9%81%97%E6%86%BE)
+1. [提升自己最快的方式](https://www.zhihu.com/search?q=%E6%8F%90%E5%8D%87%E8%87%AA%E5%B7%B1%E6%9C%80%E5%BF%AB%E7%9A%84%E6%96%B9%E5%BC%8F)
 1. [导师会翻看你的朋友圈吗](https://www.zhihu.com/search?q=%E5%AF%BC%E5%B8%88%E4%BC%9A%E7%BF%BB%E7%9C%8B%E4%BD%A0%E7%9A%84%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%90%97)
 1. [皇马vs曼城](https://www.zhihu.com/search?q=%E7%9A%87%E9%A9%ACvs%E6%9B%BC%E5%9F%8E)
 1. [什么样的人算是中了基因彩票](https://www.zhihu.com/search?q=%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E4%BA%BA%E7%AE%97%E6%98%AF%E4%B8%AD%E4%BA%86%E5%9F%BA%E5%9B%A0%E5%BD%A9%E7%A5%A8)
