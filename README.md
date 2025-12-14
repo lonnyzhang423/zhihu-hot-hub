@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-12-15 06:11:30 +0800`
+`更新时间：2025-12-15 07:11:35 +0800`
 
 ## 热门搜索
 
@@ -24,6 +24,7 @@
 1. [迪士尼对OpenAI进行10亿美元股权投资](https://www.zhihu.com/search?q=%E8%BF%AA%E5%A3%AB%E5%B0%BC%E5%AF%B9OpenAI%E8%BF%9B%E8%A1%8C10%E4%BA%BF%E7%BE%8E%E5%85%83%E8%82%A1%E6%9D%83%E6%8A%95%E8%B5%84)
 1. [用东方树叶养茶菌当宠物](https://www.zhihu.com/search?q=%E7%94%A8%E4%B8%9C%E6%96%B9%E6%A0%91%E5%8F%B6%E5%85%BB%E8%8C%B6%E8%8F%8C%E5%BD%93%E5%AE%A0%E7%89%A9)
 1. [OpenAI 正式发布 GPT-5.2](https://www.zhihu.com/search?q=OpenAI%20%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83%20GPT-5.2)
+1. [全国首家现代骑手学院成立](https://www.zhihu.com/search?q=%E5%85%A8%E5%9B%BD%E9%A6%96%E5%AE%B6%E7%8E%B0%E4%BB%A3%E9%AA%91%E6%89%8B%E5%AD%A6%E9%99%A2%E6%88%90%E7%AB%8B)
 1. [日本发生 6.8 级地震](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E5%8F%91%E7%94%9F%206.8%20%E7%BA%A7%E5%9C%B0%E9%9C%87)
 1. [超 6 成农村定向医学生履约后离开基层](https://www.zhihu.com/search?q=%E8%B6%85%206%20%E6%88%90%E5%86%9C%E6%9D%91%E5%AE%9A%E5%90%91%E5%8C%BB%E5%AD%A6%E7%94%9F%E5%B1%A5%E7%BA%A6%E5%90%8E%E7%A6%BB%E5%BC%80%E5%9F%BA%E5%B1%82)
 1. [美国拟强制外国游客提交社媒记录](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E6%8B%9F%E5%BC%BA%E5%88%B6%E5%A4%96%E5%9B%BD%E6%B8%B8%E5%AE%A2%E6%8F%90%E4%BA%A4%E7%A4%BE%E5%AA%92%E8%AE%B0%E5%BD%95)
@@ -39,7 +40,6 @@
 1. [医院为患儿注射疑似失效药](https://www.zhihu.com/search?q=%E5%8C%BB%E9%99%A2%E4%B8%BA%E6%82%A3%E5%84%BF%E6%B3%A8%E5%B0%84%E7%96%91%E4%BC%BC%E5%A4%B1%E6%95%88%E8%8D%AF)
 1. [宇树首发人形机器人 App Store](https://www.zhihu.com/search?q=%E5%AE%87%E6%A0%91%E9%A6%96%E5%8F%91%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%20App%20Store)
 1. [浙大博导闵超家庭背景曝光](https://www.zhihu.com/search?q=%E6%B5%99%E5%A4%A7%E5%8D%9A%E5%AF%BC%E9%97%B5%E8%B6%85%E5%AE%B6%E5%BA%AD%E8%83%8C%E6%99%AF%E6%9B%9D%E5%85%89)
-1. [印度为梅西建巨大雕像](https://www.zhihu.com/search?q=%E5%8D%B0%E5%BA%A6%E4%B8%BA%E6%A2%85%E8%A5%BF%E5%BB%BA%E5%B7%A8%E5%A4%A7%E9%9B%95%E5%83%8F)
 
 ## 热门话题
 
