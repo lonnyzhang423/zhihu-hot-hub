@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-12-15 01:23:03 +0800`
+`更新时间：2025-12-15 02:36:09 +0800`
 
 ## 热门搜索
 
@@ -39,6 +39,7 @@
 1. [医院为患儿注射疑似失效药](https://www.zhihu.com/search?q=%E5%8C%BB%E9%99%A2%E4%B8%BA%E6%82%A3%E5%84%BF%E6%B3%A8%E5%B0%84%E7%96%91%E4%BC%BC%E5%A4%B1%E6%95%88%E8%8D%AF)
 1. [宇树首发人形机器人 App Store](https://www.zhihu.com/search?q=%E5%AE%87%E6%A0%91%E9%A6%96%E5%8F%91%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%20App%20Store)
 1. [浙大博导闵超家庭背景曝光](https://www.zhihu.com/search?q=%E6%B5%99%E5%A4%A7%E5%8D%9A%E5%AF%BC%E9%97%B5%E8%B6%85%E5%AE%B6%E5%BA%AD%E8%83%8C%E6%99%AF%E6%9B%9D%E5%85%89)
+1. [印度为梅西建巨大雕像](https://www.zhihu.com/search?q=%E5%8D%B0%E5%BA%A6%E4%B8%BA%E6%A2%85%E8%A5%BF%E5%BB%BA%E5%B7%A8%E5%A4%A7%E9%9B%95%E5%83%8F)
 
 ## 热门话题
 
