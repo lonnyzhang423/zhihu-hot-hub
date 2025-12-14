@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-12-14 19:10:20 +0800`
+`更新时间：2025-12-14 20:23:08 +0800`
 
 ## 热门搜索
 
@@ -41,6 +41,7 @@
 1. [如何评价明末江南奴变](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E6%98%8E%E6%9C%AB%E6%B1%9F%E5%8D%97%E5%A5%B4%E5%8F%98)
 1. [为什么技术人员往往难以沟通](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%8A%80%E6%9C%AF%E4%BA%BA%E5%91%98%E5%BE%80%E5%BE%80%E9%9A%BE%E4%BB%A5%E6%B2%9F%E9%80%9A)
 1. [关于带团队的绝招](https://www.zhihu.com/search?q=%E5%85%B3%E4%BA%8E%E5%B8%A6%E5%9B%A2%E9%98%9F%E7%9A%84%E7%BB%9D%E6%8B%9B)
+1. [哪些游戏角色比游戏本身出名](https://www.zhihu.com/search?q=%E5%93%AA%E4%BA%9B%E6%B8%B8%E6%88%8F%E8%A7%92%E8%89%B2%E6%AF%94%E6%B8%B8%E6%88%8F%E6%9C%AC%E8%BA%AB%E5%87%BA%E5%90%8D)
 
 ## 热门话题
 
