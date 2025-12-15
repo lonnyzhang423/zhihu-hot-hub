@@ -11,12 +11,15 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-12-15 10:15:14 +0800`
+`更新时间：2025-12-15 12:07:09 +0800`
 
 ## 热门搜索
 
-1. [学生卖冰糖葫芦被掀摊](https://www.zhihu.com/search?q=%E5%AD%A6%E7%94%9F%E5%8D%96%E5%86%B0%E7%B3%96%E8%91%AB%E8%8A%A6%E8%A2%AB%E6%8E%80%E6%91%8A)
-1. [韩国特检组对尹锡悦等 24 人提起诉讼](https://www.zhihu.com/search?q=%E9%9F%A9%E5%9B%BD%E7%89%B9%E6%A3%80%E7%BB%84%E5%AF%B9%E5%B0%B9%E9%94%A1%E6%82%A6%E7%AD%89%2024%20%E4%BA%BA%E6%8F%90%E8%B5%B7%E8%AF%89%E8%AE%BC)
+1. [四级作文](https://www.zhihu.com/search?q=%E5%9B%9B%E7%BA%A7%E4%BD%9C%E6%96%87)
+1. [哪一刻让你终于意识到了这就是命](https://www.zhihu.com/search?q=%E5%93%AA%E4%B8%80%E5%88%BB%E8%AE%A9%E4%BD%A0%E7%BB%88%E4%BA%8E%E6%84%8F%E8%AF%86%E5%88%B0%E4%BA%86%E8%BF%99%E5%B0%B1%E6%98%AF%E5%91%BD)
+1. [你见过最恶心的邻居是什么样子](https://www.zhihu.com/search?q=%E4%BD%A0%E8%A7%81%E8%BF%87%E6%9C%80%E6%81%B6%E5%BF%83%E7%9A%84%E9%82%BB%E5%B1%85%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7%E5%AD%90)
+1. [王楚钦 vs 莫雷加德](https://www.zhihu.com/search?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%20vs%20%E8%8E%AB%E9%9B%B7%E5%8A%A0%E5%BE%B7)
+1. [泰柬冲突](https://www.zhihu.com/search?q=%E6%B3%B0%E6%9F%AC%E5%86%B2%E7%AA%81)
 1. [中国贸易顺差首次超1万亿美元](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E8%B4%B8%E6%98%93%E9%A1%BA%E5%B7%AE%E9%A6%96%E6%AC%A1%E8%B6%851%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83)
 1. [《再见爱人 5》第九期](https://www.zhihu.com/search?q=%E3%80%8A%E5%86%8D%E8%A7%81%E7%88%B1%E4%BA%BA%205%E3%80%8B%E7%AC%AC%E4%B9%9D%E6%9C%9F)
 1. [美军扣押委内瑞拉油轮](https://www.zhihu.com/search?q=%E7%BE%8E%E5%86%9B%E6%89%A3%E6%8A%BC%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E6%B2%B9%E8%BD%AE)
@@ -34,12 +37,9 @@
 1. [网文作家痞子老妖突发心梗离世](https://www.zhihu.com/search?q=%E7%BD%91%E6%96%87%E4%BD%9C%E5%AE%B6%E7%97%9E%E5%AD%90%E8%80%81%E5%A6%96%E7%AA%81%E5%8F%91%E5%BF%83%E6%A2%97%E7%A6%BB%E4%B8%96)
 1. [四川发现 1.9 亿年前恐龙足迹](https://www.zhihu.com/search?q=%E5%9B%9B%E5%B7%9D%E5%8F%91%E7%8E%B0%201.9%20%E4%BA%BF%E5%B9%B4%E5%89%8D%E6%81%90%E9%BE%99%E8%B6%B3%E8%BF%B9)
 1. [英语四级考试](https://www.zhihu.com/search?q=%E8%8B%B1%E8%AF%AD%E5%9B%9B%E7%BA%A7%E8%80%83%E8%AF%95)
-1. [英伟达市值一夜蒸发 1400 亿美元](https://www.zhihu.com/search?q=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%B8%82%E5%80%BC%E4%B8%80%E5%A4%9C%E8%92%B8%E5%8F%91%201400%20%E4%BA%BF%E7%BE%8E%E5%85%83)
 1. [花 7000 吃漂亮饭拍照不让开闪光](https://www.zhihu.com/search?q=%E8%8A%B1%207000%20%E5%90%83%E6%BC%82%E4%BA%AE%E9%A5%AD%E6%8B%8D%E7%85%A7%E4%B8%8D%E8%AE%A9%E5%BC%80%E9%97%AA%E5%85%89)
 1. [宇树首发人形机器人 App Store](https://www.zhihu.com/search?q=%E5%AE%87%E6%A0%91%E9%A6%96%E5%8F%91%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%20App%20Store)
-1. [浙大博导闵超家庭背景曝光](https://www.zhihu.com/search?q=%E6%B5%99%E5%A4%A7%E5%8D%9A%E5%AF%BC%E9%97%B5%E8%B6%85%E5%AE%B6%E5%BA%AD%E8%83%8C%E6%99%AF%E6%9B%9D%E5%85%89)
 1. [印度为梅西建巨大雕像](https://www.zhihu.com/search?q=%E5%8D%B0%E5%BA%A6%E4%B8%BA%E6%A2%85%E8%A5%BF%E5%BB%BA%E5%B7%A8%E5%A4%A7%E9%9B%95%E5%83%8F)
-1. [温医大一本科生一年发表50篇SCI](https://www.zhihu.com/search?q=%E6%B8%A9%E5%8C%BB%E5%A4%A7%E4%B8%80%E6%9C%AC%E7%A7%91%E7%94%9F%E4%B8%80%E5%B9%B4%E5%8F%91%E8%A1%A850%E7%AF%87SCI)
 1. [西安牛咖走红：牛、狐狸等轮流上班](https://www.zhihu.com/search?q=%E8%A5%BF%E5%AE%89%E7%89%9B%E5%92%96%E8%B5%B0%E7%BA%A2%EF%BC%9A%E7%89%9B%E3%80%81%E7%8B%90%E7%8B%B8%E7%AD%89%E8%BD%AE%E6%B5%81%E4%B8%8A%E7%8F%AD)
 1. [何晴 唯一演遍四大名著的女演员](https://www.zhihu.com/search?q=%E4%BD%95%E6%99%B4%20%E5%94%AF%E4%B8%80%E6%BC%94%E9%81%8D%E5%9B%9B%E5%A4%A7%E5%90%8D%E8%91%97%E7%9A%84%E5%A5%B3%E6%BC%94%E5%91%98)
 
