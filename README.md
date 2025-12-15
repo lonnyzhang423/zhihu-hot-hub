@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-12-15 13:18:52 +0800`
+`更新时间：2025-12-15 14:22:37 +0800`
 
 ## 热门搜索
 
@@ -27,7 +27,6 @@
 1. [护士称电子体温计不准是使用方法不对](https://www.zhihu.com/search?q=%E6%8A%A4%E5%A3%AB%E7%A7%B0%E7%94%B5%E5%AD%90%E4%BD%93%E6%B8%A9%E8%AE%A1%E4%B8%8D%E5%87%86%E6%98%AF%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95%E4%B8%8D%E5%AF%B9)
 1. [全国首家现代骑手学院成立](https://www.zhihu.com/search?q=%E5%85%A8%E5%9B%BD%E9%A6%96%E5%AE%B6%E7%8E%B0%E4%BB%A3%E9%AA%91%E6%89%8B%E5%AD%A6%E9%99%A2%E6%88%90%E7%AB%8B)
 1. [日本发生 6.8 级地震](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E5%8F%91%E7%94%9F%206.8%20%E7%BA%A7%E5%9C%B0%E9%9C%87)
-1. [超 6 成农村定向医学生履约后离开基层](https://www.zhihu.com/search?q=%E8%B6%85%206%20%E6%88%90%E5%86%9C%E6%9D%91%E5%AE%9A%E5%90%91%E5%8C%BB%E5%AD%A6%E7%94%9F%E5%B1%A5%E7%BA%A6%E5%90%8E%E7%A6%BB%E5%BC%80%E5%9F%BA%E5%B1%82)
 1. [美国拟强制外国游客提交社媒记录](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E6%8B%9F%E5%BC%BA%E5%88%B6%E5%A4%96%E5%9B%BD%E6%B8%B8%E5%AE%A2%E6%8F%90%E4%BA%A4%E7%A4%BE%E5%AA%92%E8%AE%B0%E5%BD%95)
 1. [2025 超出预料的影视作品](https://www.zhihu.com/search?q=2025%20%E8%B6%85%E5%87%BA%E9%A2%84%E6%96%99%E7%9A%84%E5%BD%B1%E8%A7%86%E4%BD%9C%E5%93%81)
 1. [马斯克批评欧盟「接受 cookie」弹窗是浪费时间](https://www.zhihu.com/search?q=%E9%A9%AC%E6%96%AF%E5%85%8B%E6%89%B9%E8%AF%84%E6%AC%A7%E7%9B%9F%E3%80%8C%E6%8E%A5%E5%8F%97%20cookie%E3%80%8D%E5%BC%B9%E7%AA%97%E6%98%AF%E6%B5%AA%E8%B4%B9%E6%97%B6%E9%97%B4)
@@ -41,6 +40,7 @@
 1. [印度为梅西建巨大雕像](https://www.zhihu.com/search?q=%E5%8D%B0%E5%BA%A6%E4%B8%BA%E6%A2%85%E8%A5%BF%E5%BB%BA%E5%B7%A8%E5%A4%A7%E9%9B%95%E5%83%8F)
 1. [格力小米美的等推动铝代铜国家标准落地](https://www.zhihu.com/search?q=%E6%A0%BC%E5%8A%9B%E5%B0%8F%E7%B1%B3%E7%BE%8E%E7%9A%84%E7%AD%89%E6%8E%A8%E5%8A%A8%E9%93%9D%E4%BB%A3%E9%93%9C%E5%9B%BD%E5%AE%B6%E6%A0%87%E5%87%86%E8%90%BD%E5%9C%B0)
 1. [西安牛咖走红：牛、狐狸等轮流上班](https://www.zhihu.com/search?q=%E8%A5%BF%E5%AE%89%E7%89%9B%E5%92%96%E8%B5%B0%E7%BA%A2%EF%BC%9A%E7%89%9B%E3%80%81%E7%8B%90%E7%8B%B8%E7%AD%89%E8%BD%AE%E6%B5%81%E4%B8%8A%E7%8F%AD)
+1. [何晴 唯一演遍四大名著的女演员](https://www.zhihu.com/search?q=%E4%BD%95%E6%99%B4%20%E5%94%AF%E4%B8%80%E6%BC%94%E9%81%8D%E5%9B%9B%E5%A4%A7%E5%90%8D%E8%91%97%E7%9A%84%E5%A5%B3%E6%BC%94%E5%91%98)
 
 ## 热门话题
 
