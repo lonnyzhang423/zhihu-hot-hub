@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-12-15 13:32:31 +0800`
+`更新时间：2025-12-15 14:46:06 +0800`
 
 ## 热门搜索
 
@@ -21,13 +21,13 @@
 1. [你见过最恶心的邻居是什么样子](https://www.zhihu.com/search?q=%E4%BD%A0%E8%A7%81%E8%BF%87%E6%9C%80%E6%81%B6%E5%BF%83%E7%9A%84%E9%82%BB%E5%B1%85%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7%E5%AD%90)
 1. [王楚钦 vs 莫雷加德](https://www.zhihu.com/search?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%20vs%20%E8%8E%AB%E9%9B%B7%E5%8A%A0%E5%BE%B7)
 1. [泰柬冲突](https://www.zhihu.com/search?q=%E6%B3%B0%E6%9F%AC%E5%86%B2%E7%AA%81)
+1. [爱你老己 明天见](https://www.zhihu.com/search?q=%E7%88%B1%E4%BD%A0%E8%80%81%E5%B7%B1%20%E6%98%8E%E5%A4%A9%E8%A7%81)
 1. [中国贸易顺差首次超1万亿美元](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E8%B4%B8%E6%98%93%E9%A1%BA%E5%B7%AE%E9%A6%96%E6%AC%A1%E8%B6%851%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83)
 1. [美军扣押委内瑞拉油轮](https://www.zhihu.com/search?q=%E7%BE%8E%E5%86%9B%E6%89%A3%E6%8A%BC%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E6%B2%B9%E8%BD%AE)
 1. [OpenAI 正式发布 GPT-5.2](https://www.zhihu.com/search?q=OpenAI%20%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83%20GPT-5.2)
 1. [护士称电子体温计不准是使用方法不对](https://www.zhihu.com/search?q=%E6%8A%A4%E5%A3%AB%E7%A7%B0%E7%94%B5%E5%AD%90%E4%BD%93%E6%B8%A9%E8%AE%A1%E4%B8%8D%E5%87%86%E6%98%AF%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95%E4%B8%8D%E5%AF%B9)
 1. [全国首家现代骑手学院成立](https://www.zhihu.com/search?q=%E5%85%A8%E5%9B%BD%E9%A6%96%E5%AE%B6%E7%8E%B0%E4%BB%A3%E9%AA%91%E6%89%8B%E5%AD%A6%E9%99%A2%E6%88%90%E7%AB%8B)
 1. [日本发生 6.8 级地震](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E5%8F%91%E7%94%9F%206.8%20%E7%BA%A7%E5%9C%B0%E9%9C%87)
-1. [超 6 成农村定向医学生履约后离开基层](https://www.zhihu.com/search?q=%E8%B6%85%206%20%E6%88%90%E5%86%9C%E6%9D%91%E5%AE%9A%E5%90%91%E5%8C%BB%E5%AD%A6%E7%94%9F%E5%B1%A5%E7%BA%A6%E5%90%8E%E7%A6%BB%E5%BC%80%E5%9F%BA%E5%B1%82)
 1. [美国拟强制外国游客提交社媒记录](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E6%8B%9F%E5%BC%BA%E5%88%B6%E5%A4%96%E5%9B%BD%E6%B8%B8%E5%AE%A2%E6%8F%90%E4%BA%A4%E7%A4%BE%E5%AA%92%E8%AE%B0%E5%BD%95)
 1. [2025 超出预料的影视作品](https://www.zhihu.com/search?q=2025%20%E8%B6%85%E5%87%BA%E9%A2%84%E6%96%99%E7%9A%84%E5%BD%B1%E8%A7%86%E4%BD%9C%E5%93%81)
 1. [马斯克批评欧盟「接受 cookie」弹窗是浪费时间](https://www.zhihu.com/search?q=%E9%A9%AC%E6%96%AF%E5%85%8B%E6%89%B9%E8%AF%84%E6%AC%A7%E7%9B%9F%E3%80%8C%E6%8E%A5%E5%8F%97%20cookie%E3%80%8D%E5%BC%B9%E7%AA%97%E6%98%AF%E6%B5%AA%E8%B4%B9%E6%97%B6%E9%97%B4)
