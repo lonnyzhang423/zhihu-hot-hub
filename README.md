@@ -11,17 +11,19 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-12-15 09:04:10 +0800`
+`更新时间：2025-12-15 11:23:39 +0800`
 
 ## 热门搜索
 
 1. [四级作文](https://www.zhihu.com/search?q=%E5%9B%9B%E7%BA%A7%E4%BD%9C%E6%96%87)
 1. [王楚钦 vs 莫雷加德](https://www.zhihu.com/search?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%20vs%20%E8%8E%AB%E9%9B%B7%E5%8A%A0%E5%BE%B7)
+1. [泰柬冲突](https://www.zhihu.com/search?q=%E6%B3%B0%E6%9F%AC%E5%86%B2%E7%AA%81)
 1. [中国贸易顺差首次超1万亿美元](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E8%B4%B8%E6%98%93%E9%A1%BA%E5%B7%AE%E9%A6%96%E6%AC%A1%E8%B6%851%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83)
 1. [《再见爱人 5》第九期](https://www.zhihu.com/search?q=%E3%80%8A%E5%86%8D%E8%A7%81%E7%88%B1%E4%BA%BA%205%E3%80%8B%E7%AC%AC%E4%B9%9D%E6%9C%9F)
 1. [美军扣押委内瑞拉油轮](https://www.zhihu.com/search?q=%E7%BE%8E%E5%86%9B%E6%89%A3%E6%8A%BC%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E6%B2%B9%E8%BD%AE)
 1. [迪士尼对OpenAI进行10亿美元股权投资](https://www.zhihu.com/search?q=%E8%BF%AA%E5%A3%AB%E5%B0%BC%E5%AF%B9OpenAI%E8%BF%9B%E8%A1%8C10%E4%BA%BF%E7%BE%8E%E5%85%83%E8%82%A1%E6%9D%83%E6%8A%95%E8%B5%84)
 1. [OpenAI 正式发布 GPT-5.2](https://www.zhihu.com/search?q=OpenAI%20%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83%20GPT-5.2)
+1. [护士称电子体温计不准是使用方法不对](https://www.zhihu.com/search?q=%E6%8A%A4%E5%A3%AB%E7%A7%B0%E7%94%B5%E5%AD%90%E4%BD%93%E6%B8%A9%E8%AE%A1%E4%B8%8D%E5%87%86%E6%98%AF%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95%E4%B8%8D%E5%AF%B9)
 1. [全国首家现代骑手学院成立](https://www.zhihu.com/search?q=%E5%85%A8%E5%9B%BD%E9%A6%96%E5%AE%B6%E7%8E%B0%E4%BB%A3%E9%AA%91%E6%89%8B%E5%AD%A6%E9%99%A2%E6%88%90%E7%AB%8B)
 1. [日本发生 6.8 级地震](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E5%8F%91%E7%94%9F%206.8%20%E7%BA%A7%E5%9C%B0%E9%9C%87)
 1. [超 6 成农村定向医学生履约后离开基层](https://www.zhihu.com/search?q=%E8%B6%85%206%20%E6%88%90%E5%86%9C%E6%9D%91%E5%AE%9A%E5%90%91%E5%8C%BB%E5%AD%A6%E7%94%9F%E5%B1%A5%E7%BA%A6%E5%90%8E%E7%A6%BB%E5%BC%80%E5%9F%BA%E5%B1%82)
@@ -36,12 +38,10 @@
 1. [英伟达市值一夜蒸发 1400 亿美元](https://www.zhihu.com/search?q=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%B8%82%E5%80%BC%E4%B8%80%E5%A4%9C%E8%92%B8%E5%8F%91%201400%20%E4%BA%BF%E7%BE%8E%E5%85%83)
 1. [花 7000 吃漂亮饭拍照不让开闪光](https://www.zhihu.com/search?q=%E8%8A%B1%207000%20%E5%90%83%E6%BC%82%E4%BA%AE%E9%A5%AD%E6%8B%8D%E7%85%A7%E4%B8%8D%E8%AE%A9%E5%BC%80%E9%97%AA%E5%85%89)
 1. [宇树首发人形机器人 App Store](https://www.zhihu.com/search?q=%E5%AE%87%E6%A0%91%E9%A6%96%E5%8F%91%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%20App%20Store)
-1. [浙大博导闵超家庭背景曝光](https://www.zhihu.com/search?q=%E6%B5%99%E5%A4%A7%E5%8D%9A%E5%AF%BC%E9%97%B5%E8%B6%85%E5%AE%B6%E5%BA%AD%E8%83%8C%E6%99%AF%E6%9B%9D%E5%85%89)
 1. [印度为梅西建巨大雕像](https://www.zhihu.com/search?q=%E5%8D%B0%E5%BA%A6%E4%B8%BA%E6%A2%85%E8%A5%BF%E5%BB%BA%E5%B7%A8%E5%A4%A7%E9%9B%95%E5%83%8F)
-1. [全国首个「现代骑手学院」落地广州](https://www.zhihu.com/search?q=%E5%85%A8%E5%9B%BD%E9%A6%96%E4%B8%AA%E3%80%8C%E7%8E%B0%E4%BB%A3%E9%AA%91%E6%89%8B%E5%AD%A6%E9%99%A2%E3%80%8D%E8%90%BD%E5%9C%B0%E5%B9%BF%E5%B7%9E)
-1. [温医大一本科生一年发表50篇SCI](https://www.zhihu.com/search?q=%E6%B8%A9%E5%8C%BB%E5%A4%A7%E4%B8%80%E6%9C%AC%E7%A7%91%E7%94%9F%E4%B8%80%E5%B9%B4%E5%8F%91%E8%A1%A850%E7%AF%87SCI)
-1. [男子上山遇巨型蟒蛇晒太阳](https://www.zhihu.com/search?q=%E7%94%B7%E5%AD%90%E4%B8%8A%E5%B1%B1%E9%81%87%E5%B7%A8%E5%9E%8B%E8%9F%92%E8%9B%87%E6%99%92%E5%A4%AA%E9%98%B3)
-1. [马斯克：短视频在腐蚀人们大脑](https://www.zhihu.com/search?q=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9A%E7%9F%AD%E8%A7%86%E9%A2%91%E5%9C%A8%E8%85%90%E8%9A%80%E4%BA%BA%E4%BB%AC%E5%A4%A7%E8%84%91)
+1. [西安牛咖走红：牛、狐狸等轮流上班](https://www.zhihu.com/search?q=%E8%A5%BF%E5%AE%89%E7%89%9B%E5%92%96%E8%B5%B0%E7%BA%A2%EF%BC%9A%E7%89%9B%E3%80%81%E7%8B%90%E7%8B%B8%E7%AD%89%E8%BD%AE%E6%B5%81%E4%B8%8A%E7%8F%AD)
+1. [何晴 唯一演遍四大名著的女演员](https://www.zhihu.com/search?q=%E4%BD%95%E6%99%B4%20%E5%94%AF%E4%B8%80%E6%BC%94%E9%81%8D%E5%9B%9B%E5%A4%A7%E5%90%8D%E8%91%97%E7%9A%84%E5%A5%B3%E6%BC%94%E5%91%98)
+1. [演员何晴去世](https://www.zhihu.com/search?q=%E6%BC%94%E5%91%98%E4%BD%95%E6%99%B4%E5%8E%BB%E4%B8%96)
 
 ## 热门话题
 
