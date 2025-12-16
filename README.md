@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-12-16 13:30:07 +0800`
+`更新时间：2025-12-16 14:43:03 +0800`
 
 ## 热门搜索
 
-1. [提升自己最快的方式](https://www.zhihu.com/search?q=%E6%8F%90%E5%8D%87%E8%87%AA%E5%B7%B1%E6%9C%80%E5%BF%AB%E7%9A%84%E6%96%B9%E5%BC%8F)
+1. [你认可跑步界「垃圾跑」的说法吗](https://www.zhihu.com/search?q=%E4%BD%A0%E8%AE%A4%E5%8F%AF%E8%B7%91%E6%AD%A5%E7%95%8C%E3%80%8C%E5%9E%83%E5%9C%BE%E8%B7%91%E3%80%8D%E7%9A%84%E8%AF%B4%E6%B3%95%E5%90%97)
+1. [美联储如期降息影响如何](https://www.zhihu.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8%E5%A6%82%E6%9C%9F%E9%99%8D%E6%81%AF%E5%BD%B1%E5%93%8D%E5%A6%82%E4%BD%95)
 1. [湖人vs太阳](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BAvs%E5%A4%AA%E9%98%B3)
 1. [T1夺冠](https://www.zhihu.com/search?q=T1%E5%A4%BA%E5%86%A0)
 1. [麦当劳回应涨价](https://www.zhihu.com/search?q=%E9%BA%A6%E5%BD%93%E5%8A%B3%E5%9B%9E%E5%BA%94%E6%B6%A8%E4%BB%B7)
