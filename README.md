@@ -11,12 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-12-16 15:29:31 +0800`
+`更新时间：2025-12-16 16:39:28 +0800`
 
 ## 热门搜索
 
-1. [为什么太过聪明通透会让人厌烦](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A4%AA%E8%BF%87%E8%81%AA%E6%98%8E%E9%80%9A%E9%80%8F%E4%BC%9A%E8%AE%A9%E4%BA%BA%E5%8E%8C%E7%83%A6)
-1. [央视曝光20倍暴利假陈皮](https://www.zhihu.com/search?q=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%8920%E5%80%8D%E6%9A%B4%E5%88%A9%E5%81%87%E9%99%88%E7%9A%AE)
+1. [提升自己最快的方式](https://www.zhihu.com/search?q=%E6%8F%90%E5%8D%87%E8%87%AA%E5%B7%B1%E6%9C%80%E5%BF%AB%E7%9A%84%E6%96%B9%E5%BC%8F)
 1. [湖人vs太阳](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BAvs%E5%A4%AA%E9%98%B3)
 1. [T1夺冠](https://www.zhihu.com/search?q=T1%E5%A4%BA%E5%86%A0)
 1. [麦当劳回应涨价](https://www.zhihu.com/search?q=%E9%BA%A6%E5%BD%93%E5%8A%B3%E5%9B%9E%E5%BA%94%E6%B6%A8%E4%BB%B7)
