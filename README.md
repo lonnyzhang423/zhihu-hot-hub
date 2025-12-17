@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-12-17 13:15:44 +0800`
+`更新时间：2025-12-17 14:20:56 +0800`
 
 ## 热门搜索
 
@@ -24,6 +24,7 @@
 1. [你见过最恶心的邻居是什么样子](https://www.zhihu.com/search?q=%E4%BD%A0%E8%A7%81%E8%BF%87%E6%9C%80%E6%81%B6%E5%BF%83%E7%9A%84%E9%82%BB%E5%B1%85%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7%E5%AD%90)
 1. [你干过最牛的一件事是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E5%B9%B2%E8%BF%87%E6%9C%80%E7%89%9B%E7%9A%84%E4%B8%80%E4%BB%B6%E4%BA%8B%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [金价又涨了](https://www.zhihu.com/search?q=%E9%87%91%E4%BB%B7%E5%8F%88%E6%B6%A8%E4%BA%86)
+1. [有什么震惊了你的名言](https://www.zhihu.com/search?q=%E6%9C%89%E4%BB%80%E4%B9%88%E9%9C%87%E6%83%8A%E4%BA%86%E4%BD%A0%E7%9A%84%E5%90%8D%E8%A8%80)
 1. [为什么人不能靠意志力戒毒](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BA%BA%E4%B8%8D%E8%83%BD%E9%9D%A0%E6%84%8F%E5%BF%97%E5%8A%9B%E6%88%92%E6%AF%92)
 1. [成都女子家门口遇害案今日开庭](https://www.zhihu.com/search?q=%E6%88%90%E9%83%BD%E5%A5%B3%E5%AD%90%E5%AE%B6%E9%97%A8%E5%8F%A3%E9%81%87%E5%AE%B3%E6%A1%88%E4%BB%8A%E6%97%A5%E5%BC%80%E5%BA%AD)
 1. [大家都是怎么驯服狸花猫的](https://www.zhihu.com/search?q=%E5%A4%A7%E5%AE%B6%E9%83%BD%E6%98%AF%E6%80%8E%E4%B9%88%E9%A9%AF%E6%9C%8D%E7%8B%B8%E8%8A%B1%E7%8C%AB%E7%9A%84)
@@ -39,7 +40,6 @@
 1. [计算机新生怎么合理利用github](https://www.zhihu.com/search?q=%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%96%B0%E7%94%9F%E6%80%8E%E4%B9%88%E5%90%88%E7%90%86%E5%88%A9%E7%94%A8github)
 1. [什么才是真正的解决问题的能力](https://www.zhihu.com/search?q=%E4%BB%80%E4%B9%88%E6%89%8D%E6%98%AF%E7%9C%9F%E6%AD%A3%E7%9A%84%E8%A7%A3%E5%86%B3%E9%97%AE%E9%A2%98%E7%9A%84%E8%83%BD%E5%8A%9B)
 1. [大学高中化会以一种什么方式结束](https://www.zhihu.com/search?q=%E5%A4%A7%E5%AD%A6%E9%AB%98%E4%B8%AD%E5%8C%96%E4%BC%9A%E4%BB%A5%E4%B8%80%E7%A7%8D%E4%BB%80%E4%B9%88%E6%96%B9%E5%BC%8F%E7%BB%93%E6%9D%9F)
-1. [「癸酉本石头记」是否是真本](https://www.zhihu.com/search?q=%E3%80%8C%E7%99%B8%E9%85%89%E6%9C%AC%E7%9F%B3%E5%A4%B4%E8%AE%B0%E3%80%8D%E6%98%AF%E5%90%A6%E6%98%AF%E7%9C%9F%E6%9C%AC)
 
 ## 热门话题
 
