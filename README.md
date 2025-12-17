@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-12-17 16:39:01 +0800`
+`更新时间：2025-12-17 17:34:52 +0800`
 
 ## 热门搜索
 
-1. [人民币汇率创14个月以来新高](https://www.zhihu.com/search?q=%E4%BA%BA%E6%B0%91%E5%B8%81%E6%B1%87%E7%8E%87%E5%88%9B14%E4%B8%AA%E6%9C%88%E4%BB%A5%E6%9D%A5%E6%96%B0%E9%AB%98)
-1. [成都27岁女孩遇害案二次开庭](https://www.zhihu.com/search?q=%E6%88%90%E9%83%BD27%E5%B2%81%E5%A5%B3%E5%AD%A9%E9%81%87%E5%AE%B3%E6%A1%88%E4%BA%8C%E6%AC%A1%E5%BC%80%E5%BA%AD)
+1. [提升自己最快的方式](https://www.zhihu.com/search?q=%E6%8F%90%E5%8D%87%E8%87%AA%E5%B7%B1%E6%9C%80%E5%BF%AB%E7%9A%84%E6%96%B9%E5%BC%8F)
+1. [湖人vs太阳](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BAvs%E5%A4%AA%E9%98%B3)
 1. [t1夺冠](https://www.zhihu.com/search?q=t1%E5%A4%BA%E5%86%A0)
 1. [世界强化免疫日](https://www.zhihu.com/search?q=%E4%B8%96%E7%95%8C%E5%BC%BA%E5%8C%96%E5%85%8D%E7%96%AB%E6%97%A5)
 1. [麦当劳涨价](https://www.zhihu.com/search?q=%E9%BA%A6%E5%BD%93%E5%8A%B3%E6%B6%A8%E4%BB%B7)
