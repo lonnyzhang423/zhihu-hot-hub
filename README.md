@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-12-17 11:50:37 +0800`
+`更新时间：2025-12-17 12:25:53 +0800`
 
 ## 热门搜索
 
-1. [提升自己最快的方式](https://www.zhihu.com/search?q=%E6%8F%90%E5%8D%87%E8%87%AA%E5%B7%B1%E6%9C%80%E5%BF%AB%E7%9A%84%E6%96%B9%E5%BC%8F)
-1. [湖人vs太阳](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BAvs%E5%A4%AA%E9%98%B3)
+1. [目前影视市场观众想看但稀缺的题材是什么](https://www.zhihu.com/search?q=%E7%9B%AE%E5%89%8D%E5%BD%B1%E8%A7%86%E5%B8%82%E5%9C%BA%E8%A7%82%E4%BC%97%E6%83%B3%E7%9C%8B%E4%BD%86%E7%A8%80%E7%BC%BA%E7%9A%84%E9%A2%98%E6%9D%90%E6%98%AF%E4%BB%80%E4%B9%88)
+1. [南京博物院藏明代仇英名作现身拍卖市场](https://www.zhihu.com/search?q=%E5%8D%97%E4%BA%AC%E5%8D%9A%E7%89%A9%E9%99%A2%E8%97%8F%E6%98%8E%E4%BB%A3%E4%BB%87%E8%8B%B1%E5%90%8D%E4%BD%9C%E7%8E%B0%E8%BA%AB%E6%8B%8D%E5%8D%96%E5%B8%82%E5%9C%BA)
 1. [t1夺冠](https://www.zhihu.com/search?q=t1%E5%A4%BA%E5%86%A0)
 1. [世界强化免疫日](https://www.zhihu.com/search?q=%E4%B8%96%E7%95%8C%E5%BC%BA%E5%8C%96%E5%85%8D%E7%96%AB%E6%97%A5)
 1. [麦当劳涨价](https://www.zhihu.com/search?q=%E9%BA%A6%E5%BD%93%E5%8A%B3%E6%B6%A8%E4%BB%B7)
@@ -30,6 +30,7 @@
 1. [钱可以成为一个人的底气吗](https://www.zhihu.com/search?q=%E9%92%B1%E5%8F%AF%E4%BB%A5%E6%88%90%E4%B8%BA%E4%B8%80%E4%B8%AA%E4%BA%BA%E7%9A%84%E5%BA%95%E6%B0%94%E5%90%97)
 1. [用DeepSeek选股炒股可行吗](https://www.zhihu.com/search?q=%E7%94%A8DeepSeek%E9%80%89%E8%82%A1%E7%82%92%E8%82%A1%E5%8F%AF%E8%A1%8C%E5%90%97)
 1. [在明白什么道理后你就不再焦虑了](https://www.zhihu.com/search?q=%E5%9C%A8%E6%98%8E%E7%99%BD%E4%BB%80%E4%B9%88%E9%81%93%E7%90%86%E5%90%8E%E4%BD%A0%E5%B0%B1%E4%B8%8D%E5%86%8D%E7%84%A6%E8%99%91%E4%BA%86)
+1. [普通人存 100 万究竟有多难](https://www.zhihu.com/search?q=%E6%99%AE%E9%80%9A%E4%BA%BA%E5%AD%98%20100%20%E4%B8%87%E7%A9%B6%E7%AB%9F%E6%9C%89%E5%A4%9A%E9%9A%BE)
 1. [人在什么情况下成长的最快](https://www.zhihu.com/search?q=%E4%BA%BA%E5%9C%A8%E4%BB%80%E4%B9%88%E6%83%85%E5%86%B5%E4%B8%8B%E6%88%90%E9%95%BF%E7%9A%84%E6%9C%80%E5%BF%AB)
 1. [什么家庭能养出松弛感的孩子](https://www.zhihu.com/search?q=%E4%BB%80%E4%B9%88%E5%AE%B6%E5%BA%AD%E8%83%BD%E5%85%BB%E5%87%BA%E6%9D%BE%E5%BC%9B%E6%84%9F%E7%9A%84%E5%AD%A9%E5%AD%90)
 1. [投资者最稀缺的是什么](https://www.zhihu.com/search?q=%E6%8A%95%E8%B5%84%E8%80%85%E6%9C%80%E7%A8%80%E7%BC%BA%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88)
