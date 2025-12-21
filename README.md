@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-12-22 04:13:36 +0800`
+`更新时间：2025-12-22 05:11:12 +0800`
 
 ## 热门搜索
 
@@ -40,6 +40,7 @@
 1. [周杰伦代言美团外卖会带来多大的品牌效应](https://www.zhihu.com/search?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E4%BB%A3%E8%A8%80%E7%BE%8E%E5%9B%A2%E5%A4%96%E5%8D%96%E4%BC%9A%E5%B8%A6%E6%9D%A5%E5%A4%9A%E5%A4%A7%E7%9A%84%E5%93%81%E7%89%8C%E6%95%88%E5%BA%94)
 1. [如何看待深圳少年卖烧鸡日入过万](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E6%B7%B1%E5%9C%B3%E5%B0%91%E5%B9%B4%E5%8D%96%E7%83%A7%E9%B8%A1%E6%97%A5%E5%85%A5%E8%BF%87%E4%B8%87)
 1. [为什么竹子长那么快强度却很好](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%AB%B9%E5%AD%90%E9%95%BF%E9%82%A3%E4%B9%88%E5%BF%AB%E5%BC%BA%E5%BA%A6%E5%8D%B4%E5%BE%88%E5%A5%BD)
+1. [《降世神通》为什么在中国知名度极低](https://www.zhihu.com/search?q=%E3%80%8A%E9%99%8D%E4%B8%96%E7%A5%9E%E9%80%9A%E3%80%8B%E4%B8%BA%E4%BB%80%E4%B9%88%E5%9C%A8%E4%B8%AD%E5%9B%BD%E7%9F%A5%E5%90%8D%E5%BA%A6%E6%9E%81%E4%BD%8E)
 
 ## 热门话题
 
