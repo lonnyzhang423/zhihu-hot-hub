@@ -11,12 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-12-22 15:30:05 +0800`
+`更新时间：2025-12-22 16:38:58 +0800`
 
 ## 热门搜索
 
-1. [网传山楂树下禁售](https://www.zhihu.com/search?q=%E7%BD%91%E4%BC%A0%E5%B1%B1%E6%A5%82%E6%A0%91%E4%B8%8B%E7%A6%81%E5%94%AE)
-1. [如何看待「国产 GPU 四小龙」的竞争力](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E3%80%8C%E5%9B%BD%E4%BA%A7%20GPU%20%E5%9B%9B%E5%B0%8F%E9%BE%99%E3%80%8D%E7%9A%84%E7%AB%9E%E4%BA%89%E5%8A%9B)
+1. [黑龙江一煤矿发生透水事故5人被困](https://www.zhihu.com/search?q=%E9%BB%91%E9%BE%99%E6%B1%9F%E4%B8%80%E7%85%A4%E7%9F%BF%E5%8F%91%E7%94%9F%E9%80%8F%E6%B0%B4%E4%BA%8B%E6%95%855%E4%BA%BA%E8%A2%AB%E5%9B%B0)
 1. [有哪些世界地理冷知识](https://www.zhihu.com/search?q=%E6%9C%89%E5%93%AA%E4%BA%9B%E4%B8%96%E7%95%8C%E5%9C%B0%E7%90%86%E5%86%B7%E7%9F%A5%E8%AF%86)
 1. [生活中你们见过最愚蠢的设计是啥](https://www.zhihu.com/search?q=%E7%94%9F%E6%B4%BB%E4%B8%AD%E4%BD%A0%E4%BB%AC%E8%A7%81%E8%BF%87%E6%9C%80%E6%84%9A%E8%A0%A2%E7%9A%84%E8%AE%BE%E8%AE%A1%E6%98%AF%E5%95%A5)
 1. [中国古代画家为何不追求「画得像」](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E5%8F%A4%E4%BB%A3%E7%94%BB%E5%AE%B6%E4%B8%BA%E4%BD%95%E4%B8%8D%E8%BF%BD%E6%B1%82%E3%80%8C%E7%94%BB%E5%BE%97%E5%83%8F%E3%80%8D)
