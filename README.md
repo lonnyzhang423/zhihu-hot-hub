@@ -11,18 +11,15 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-12-22 10:20:22 +0800`
+`更新时间：2025-12-22 12:08:07 +0800`
 
 ## 热门搜索
 
 1. [考研数学](https://www.zhihu.com/search?q=%E8%80%83%E7%A0%94%E6%95%B0%E5%AD%A6)
 1. [今日冬至](https://www.zhihu.com/search?q=%E4%BB%8A%E6%97%A5%E5%86%AC%E8%87%B3)
-1. [泰柬冲突](https://www.zhihu.com/search?q=%E6%B3%B0%E6%9F%AC%E5%86%B2%E7%AA%81)
 1. [宁波通报女婴术后离世医疗事件调查进展](https://www.zhihu.com/search?q=%E5%AE%81%E6%B3%A2%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%A9%B4%E6%9C%AF%E5%90%8E%E7%A6%BB%E4%B8%96%E5%8C%BB%E7%96%97%E4%BA%8B%E4%BB%B6%E8%B0%83%E6%9F%A5%E8%BF%9B%E5%B1%95)
-1. [谷歌发布 Gemini 3 Flash](https://www.zhihu.com/search?q=%E8%B0%B7%E6%AD%8C%E5%8F%91%E5%B8%83%20Gemini%203%20Flash)
 1. [周杰伦代言美团外卖](https://www.zhihu.com/search?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E4%BB%A3%E8%A8%80%E7%BE%8E%E5%9B%A2%E5%A4%96%E5%8D%96)
 1. [阿维塔智驾状态下撞大货车](https://www.zhihu.com/search?q=%E9%98%BF%E7%BB%B4%E5%A1%94%E6%99%BA%E9%A9%BE%E7%8A%B6%E6%80%81%E4%B8%8B%E6%92%9E%E5%A4%A7%E8%B4%A7%E8%BD%A6)
-1. [《再见爱人 5》第十期](https://www.zhihu.com/search?q=%E3%80%8A%E5%86%8D%E8%A7%81%E7%88%B1%E4%BA%BA%205%E3%80%8B%E7%AC%AC%E5%8D%81%E6%9C%9F)
 1. [OpenAI 被曝正寻求千亿美元融资](https://www.zhihu.com/search?q=OpenAI%20%E8%A2%AB%E6%9B%9D%E6%AD%A3%E5%AF%BB%E6%B1%82%E5%8D%83%E4%BA%BF%E7%BE%8E%E5%85%83%E8%9E%8D%E8%B5%84)
 1. [新概念英语过时了吗](https://www.zhihu.com/search?q=%E6%96%B0%E6%A6%82%E5%BF%B5%E8%8B%B1%E8%AF%AD%E8%BF%87%E6%97%B6%E4%BA%86%E5%90%97)
 1. [小车刹车失灵狂奔490公里油耗尽才停](https://www.zhihu.com/search?q=%E5%B0%8F%E8%BD%A6%E5%88%B9%E8%BD%A6%E5%A4%B1%E7%81%B5%E7%8B%82%E5%A5%94490%E5%85%AC%E9%87%8C%E6%B2%B9%E8%80%97%E5%B0%BD%E6%89%8D%E5%81%9C)
@@ -41,6 +38,10 @@
 1. [为什么竹子长那么快强度却很好](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%AB%B9%E5%AD%90%E9%95%BF%E9%82%A3%E4%B9%88%E5%BF%AB%E5%BC%BA%E5%BA%A6%E5%8D%B4%E5%BE%88%E5%A5%BD)
 1. [《降世神通》为什么在中国知名度极低](https://www.zhihu.com/search?q=%E3%80%8A%E9%99%8D%E4%B8%96%E7%A5%9E%E9%80%9A%E3%80%8B%E4%B8%BA%E4%BB%80%E4%B9%88%E5%9C%A8%E4%B8%AD%E5%9B%BD%E7%9F%A5%E5%90%8D%E5%BA%A6%E6%9E%81%E4%BD%8E)
 1. [母女空难身亡前夫起诉争遗产](https://www.zhihu.com/search?q=%E6%AF%8D%E5%A5%B3%E7%A9%BA%E9%9A%BE%E8%BA%AB%E4%BA%A1%E5%89%8D%E5%A4%AB%E8%B5%B7%E8%AF%89%E4%BA%89%E9%81%97%E4%BA%A7)
+1. [常请同事吃饭为何评优时她却没选我](https://www.zhihu.com/search?q=%E5%B8%B8%E8%AF%B7%E5%90%8C%E4%BA%8B%E5%90%83%E9%A5%AD%E4%B8%BA%E4%BD%95%E8%AF%84%E4%BC%98%E6%97%B6%E5%A5%B9%E5%8D%B4%E6%B2%A1%E9%80%89%E6%88%91)
+1. [美队确认回归主演《复联 5》](https://www.zhihu.com/search?q=%E7%BE%8E%E9%98%9F%E7%A1%AE%E8%AE%A4%E5%9B%9E%E5%BD%92%E4%B8%BB%E6%BC%94%E3%80%8A%E5%A4%8D%E8%81%94%205%E3%80%8B)
+1. [为什么农村和城市的孩子一眼就能分辩](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%86%9C%E6%9D%91%E5%92%8C%E5%9F%8E%E5%B8%82%E7%9A%84%E5%AD%A9%E5%AD%90%E4%B8%80%E7%9C%BC%E5%B0%B1%E8%83%BD%E5%88%86%E8%BE%A9)
+1. [你总结出最大的旅行经验是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E6%80%BB%E7%BB%93%E5%87%BA%E6%9C%80%E5%A4%A7%E7%9A%84%E6%97%85%E8%A1%8C%E7%BB%8F%E9%AA%8C%E6%98%AF%E4%BB%80%E4%B9%88)
 
 ## 热门话题
 
