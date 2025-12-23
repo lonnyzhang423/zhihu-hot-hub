@@ -11,12 +11,10 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-12-23 20:58:16 +0800`
+`更新时间：2025-12-23 21:41:44 +0800`
 
 ## 热门搜索
 
-1. [提升自己最快的方式](https://www.zhihu.com/search?q=%E6%8F%90%E5%8D%87%E8%87%AA%E5%B7%B1%E6%9C%80%E5%BF%AB%E7%9A%84%E6%96%B9%E5%BC%8F)
-1. [湖人vs太阳](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BAvs%E5%A4%AA%E9%98%B3)
 1. [考研数学](https://www.zhihu.com/search?q=%E8%80%83%E7%A0%94%E6%95%B0%E5%AD%A6)
 1. [今日冬至](https://www.zhihu.com/search?q=%E4%BB%8A%E6%97%A5%E5%86%AC%E8%87%B3)
 1. [有哪些瞬间你秒懂了别人的暗示](https://www.zhihu.com/search?q=%E6%9C%89%E5%93%AA%E4%BA%9B%E7%9E%AC%E9%97%B4%E4%BD%A0%E7%A7%92%E6%87%82%E4%BA%86%E5%88%AB%E4%BA%BA%E7%9A%84%E6%9A%97%E7%A4%BA)
