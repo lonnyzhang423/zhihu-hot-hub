@@ -11,11 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-12-25 19:11:41 +0800`
+`更新时间：2025-12-25 20:25:48 +0800`
 
 ## 热门搜索
 
-1. [考研数学](https://www.zhihu.com/search?q=%E8%80%83%E7%A0%94%E6%95%B0%E5%AD%A6)
+1. [广东把冬至过成夏至](https://www.zhihu.com/search?q=%E5%B9%BF%E4%B8%9C%E6%8A%8A%E5%86%AC%E8%87%B3%E8%BF%87%E6%88%90%E5%A4%8F%E8%87%B3)
 1. [今日冬至](https://www.zhihu.com/search?q=%E4%BB%8A%E6%97%A5%E5%86%AC%E8%87%B3)
 1. [有哪些瞬间你秒懂了别人的暗示](https://www.zhihu.com/search?q=%E6%9C%89%E5%93%AA%E4%BA%9B%E7%9E%AC%E9%97%B4%E4%BD%A0%E7%A7%92%E6%87%82%E4%BA%86%E5%88%AB%E4%BA%BA%E7%9A%84%E6%9A%97%E7%A4%BA)
 1. [有哪些世界地理冷知识](https://www.zhihu.com/search?q=%E6%9C%89%E5%93%AA%E4%BA%9B%E4%B8%96%E7%95%8C%E5%9C%B0%E7%90%86%E5%86%B7%E7%9F%A5%E8%AF%86)
@@ -38,7 +38,6 @@
 1. [汽车设计真的在倒退吗](https://www.zhihu.com/search?q=%E6%B1%BD%E8%BD%A6%E8%AE%BE%E8%AE%A1%E7%9C%9F%E7%9A%84%E5%9C%A8%E5%80%92%E9%80%80%E5%90%97)
 1. [为什么有的人特别容易紧张](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E7%9A%84%E4%BA%BA%E7%89%B9%E5%88%AB%E5%AE%B9%E6%98%93%E7%B4%A7%E5%BC%A0)
 1. [什么家庭能养出松弛感的孩子](https://www.zhihu.com/search?q=%E4%BB%80%E4%B9%88%E5%AE%B6%E5%BA%AD%E8%83%BD%E5%85%BB%E5%87%BA%E6%9D%BE%E5%BC%9B%E6%84%9F%E7%9A%84%E5%AD%A9%E5%AD%90)
-1. [投资者最稀缺的是什么](https://www.zhihu.com/search?q=%E6%8A%95%E8%B5%84%E8%80%85%E6%9C%80%E7%A8%80%E7%BC%BA%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88)
 
 ## 热门话题
 
