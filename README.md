@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-12-25 21:36:50 +0800`
+`更新时间：2025-12-25 22:27:06 +0800`
 
 ## 热门搜索
 
-1. [云南丽江古城公开喊话小红书](https://www.zhihu.com/search?q=%E4%BA%91%E5%8D%97%E4%B8%BD%E6%B1%9F%E5%8F%A4%E5%9F%8E%E5%85%AC%E5%BC%80%E5%96%8A%E8%AF%9D%E5%B0%8F%E7%BA%A2%E4%B9%A6)
-1. [为何年轻人乐于自称各种「主理人」](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BD%95%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B9%90%E4%BA%8E%E8%87%AA%E7%A7%B0%E5%90%84%E7%A7%8D%E3%80%8C%E4%B8%BB%E7%90%86%E4%BA%BA%E3%80%8D)
+1. [考研数学](https://www.zhihu.com/search?q=%E8%80%83%E7%A0%94%E6%95%B0%E5%AD%A6)
+1. [今日冬至](https://www.zhihu.com/search?q=%E4%BB%8A%E6%97%A5%E5%86%AC%E8%87%B3)
 1. [有哪些瞬间你秒懂了别人的暗示](https://www.zhihu.com/search?q=%E6%9C%89%E5%93%AA%E4%BA%9B%E7%9E%AC%E9%97%B4%E4%BD%A0%E7%A7%92%E6%87%82%E4%BA%86%E5%88%AB%E4%BA%BA%E7%9A%84%E6%9A%97%E7%A4%BA)
 1. [有哪些世界地理冷知识](https://www.zhihu.com/search?q=%E6%9C%89%E5%93%AA%E4%BA%9B%E4%B8%96%E7%95%8C%E5%9C%B0%E7%90%86%E5%86%B7%E7%9F%A5%E8%AF%86)
 1. [你见过哪些不动声色的善良](https://www.zhihu.com/search?q=%E4%BD%A0%E8%A7%81%E8%BF%87%E5%93%AA%E4%BA%9B%E4%B8%8D%E5%8A%A8%E5%A3%B0%E8%89%B2%E7%9A%84%E5%96%84%E8%89%AF)
