@@ -11,12 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-12-26 12:43:10 +0800`
+`更新时间：2025-12-26 13:29:38 +0800`
 
 ## 热门搜索
 
-1. [有哪些瞬间你秒懂了别人的暗示](https://www.zhihu.com/search?q=%E6%9C%89%E5%93%AA%E4%BA%9B%E7%9E%AC%E9%97%B4%E4%BD%A0%E7%A7%92%E6%87%82%E4%BA%86%E5%88%AB%E4%BA%BA%E7%9A%84%E6%9A%97%E7%A4%BA)
-1. [你见过哪些不动声色的善良](https://www.zhihu.com/search?q=%E4%BD%A0%E8%A7%81%E8%BF%87%E5%93%AA%E4%BA%9B%E4%B8%8D%E5%8A%A8%E5%A3%B0%E8%89%B2%E7%9A%84%E5%96%84%E8%89%AF)
+1. [医学本科生被曝一年发40多篇论文](https://www.zhihu.com/search?q=%E5%8C%BB%E5%AD%A6%E6%9C%AC%E7%A7%91%E7%94%9F%E8%A2%AB%E6%9B%9D%E4%B8%80%E5%B9%B4%E5%8F%9140%E5%A4%9A%E7%AF%87%E8%AE%BA%E6%96%87)
 1. [为什么人不能靠意志力戒毒](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BA%BA%E4%B8%8D%E8%83%BD%E9%9D%A0%E6%84%8F%E5%BF%97%E5%8A%9B%E6%88%92%E6%AF%92)
 1. [为何现在的成年人都没有大人的感觉](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BD%95%E7%8E%B0%E5%9C%A8%E7%9A%84%E6%88%90%E5%B9%B4%E4%BA%BA%E9%83%BD%E6%B2%A1%E6%9C%89%E5%A4%A7%E4%BA%BA%E7%9A%84%E6%84%9F%E8%A7%89)
 1. [你给孩子最大的托底是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E7%BB%99%E5%AD%A9%E5%AD%90%E6%9C%80%E5%A4%A7%E7%9A%84%E6%89%98%E5%BA%95%E6%98%AF%E4%BB%80%E4%B9%88)
@@ -40,6 +39,7 @@
 1. [什么是认知与财富不匹配](https://www.zhihu.com/search?q=%E4%BB%80%E4%B9%88%E6%98%AF%E8%AE%A4%E7%9F%A5%E4%B8%8E%E8%B4%A2%E5%AF%8C%E4%B8%8D%E5%8C%B9%E9%85%8D)
 1. [你知道哪些信息差](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9F%A5%E9%81%93%E5%93%AA%E4%BA%9B%E4%BF%A1%E6%81%AF%E5%B7%AE)
 1. [为什么有些人的预判能力很强](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E4%BA%9B%E4%BA%BA%E7%9A%84%E9%A2%84%E5%88%A4%E8%83%BD%E5%8A%9B%E5%BE%88%E5%BC%BA)
+1. [体制内工作最好的心态是什么](https://www.zhihu.com/search?q=%E4%BD%93%E5%88%B6%E5%86%85%E5%B7%A5%E4%BD%9C%E6%9C%80%E5%A5%BD%E7%9A%84%E5%BF%83%E6%80%81%E6%98%AF%E4%BB%80%E4%B9%88)
 
 ## 热门话题
 
