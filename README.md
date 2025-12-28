@@ -11,11 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-12-28 18:28:01 +0800`
+`更新时间：2025-12-28 19:22:51 +0800`
 
 ## 热门搜索
 
-1. [谁饰演的小龙女最符合金庸原著](https://www.zhihu.com/search?q=%E8%B0%81%E9%A5%B0%E6%BC%94%E7%9A%84%E5%B0%8F%E9%BE%99%E5%A5%B3%E6%9C%80%E7%AC%A6%E5%90%88%E9%87%91%E5%BA%B8%E5%8E%9F%E8%91%97)
+1. [福建震感](https://www.zhihu.com/search?q=%E7%A6%8F%E5%BB%BA%E9%9C%87%E6%84%9F)
 1. [泉州震感](https://www.zhihu.com/search?q=%E6%B3%89%E5%B7%9E%E9%9C%87%E6%84%9F)
 1. [深圳大学乒超女团夺冠](https://www.zhihu.com/search?q=%E6%B7%B1%E5%9C%B3%E5%A4%A7%E5%AD%A6%E4%B9%92%E8%B6%85%E5%A5%B3%E5%9B%A2%E5%A4%BA%E5%86%A0)
 1. [森林狼vs掘金](https://www.zhihu.com/search?q=%E6%A3%AE%E6%9E%97%E7%8B%BCvs%E6%8E%98%E9%87%91)
