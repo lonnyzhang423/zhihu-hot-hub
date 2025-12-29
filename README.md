@@ -11,12 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-12-29 14:46:29 +0800`
+`更新时间：2025-12-29 15:32:38 +0800`
 
 ## 热门搜索
 
 1. [深圳大学乒超女团夺冠](https://www.zhihu.com/search?q=%E6%B7%B1%E5%9C%B3%E5%A4%A7%E5%AD%A6%E4%B9%92%E8%B6%85%E5%A5%B3%E5%9B%A2%E5%A4%BA%E5%86%A0)
-1. [字节120名员工因触犯红线被辞](https://www.zhihu.com/search?q=%E5%AD%97%E8%8A%82120%E5%90%8D%E5%91%98%E5%B7%A5%E5%9B%A0%E8%A7%A6%E7%8A%AF%E7%BA%A2%E7%BA%BF%E8%A2%AB%E8%BE%9E)
 1. [霸王茶姬咖啡因含量遭质疑](https://www.zhihu.com/search?q=%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E5%92%96%E5%95%A1%E5%9B%A0%E5%90%AB%E9%87%8F%E9%81%AD%E8%B4%A8%E7%96%91)
 1. [同事总说我有「学生思维」](https://www.zhihu.com/search?q=%E5%90%8C%E4%BA%8B%E6%80%BB%E8%AF%B4%E6%88%91%E6%9C%89%E3%80%8C%E5%AD%A6%E7%94%9F%E6%80%9D%E7%BB%B4%E3%80%8D)
 1. [央视曝光韩束两款面膜检出违禁 EGF](https://www.zhihu.com/search?q=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E9%9F%A9%E6%9D%9F%E4%B8%A4%E6%AC%BE%E9%9D%A2%E8%86%9C%E6%A3%80%E5%87%BA%E8%BF%9D%E7%A6%81%20EGF)
@@ -30,6 +29,7 @@
 1. [刑释人员任职国有控股企业「高管」](https://www.zhihu.com/search?q=%E5%88%91%E9%87%8A%E4%BA%BA%E5%91%98%E4%BB%BB%E8%81%8C%E5%9B%BD%E6%9C%89%E6%8E%A7%E8%82%A1%E4%BC%81%E4%B8%9A%E3%80%8C%E9%AB%98%E7%AE%A1%E3%80%8D)
 1. [永州队夺湘超冠军](https://www.zhihu.com/search?q=%E6%B0%B8%E5%B7%9E%E9%98%9F%E5%A4%BA%E6%B9%98%E8%B6%85%E5%86%A0%E5%86%9B)
 1. [永州夺冠](https://www.zhihu.com/search?q=%E6%B0%B8%E5%B7%9E%E5%A4%BA%E5%86%A0)
+1. [湘超](https://www.zhihu.com/search?q=%E6%B9%98%E8%B6%85)
 
 ## 热门话题
 
