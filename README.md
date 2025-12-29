@@ -11,12 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-12-29 21:44:15 +0800`
+`更新时间：2025-12-29 22:28:48 +0800`
 
 ## 热门搜索
 
-1. [骑手取餐嫌出餐太慢自己上手制作](https://www.zhihu.com/search?q=%E9%AA%91%E6%89%8B%E5%8F%96%E9%A4%90%E5%AB%8C%E5%87%BA%E9%A4%90%E5%A4%AA%E6%85%A2%E8%87%AA%E5%B7%B1%E4%B8%8A%E6%89%8B%E5%88%B6%E4%BD%9C)
-1. [文字可以营造出跳脸杀的效果吗](https://www.zhihu.com/search?q=%E6%96%87%E5%AD%97%E5%8F%AF%E4%BB%A5%E8%90%A5%E9%80%A0%E5%87%BA%E8%B7%B3%E8%84%B8%E6%9D%80%E7%9A%84%E6%95%88%E6%9E%9C%E5%90%97)
+1. [深圳大学乒超女团夺冠](https://www.zhihu.com/search?q=%E6%B7%B1%E5%9C%B3%E5%A4%A7%E5%AD%A6%E4%B9%92%E8%B6%85%E5%A5%B3%E5%9B%A2%E5%A4%BA%E5%86%A0)
 1. [跨年朋友圈文案](https://www.zhihu.com/search?q=%E8%B7%A8%E5%B9%B4%E6%9C%8B%E5%8F%8B%E5%9C%88%E6%96%87%E6%A1%88)
 1. [沪指8连阳](https://www.zhihu.com/search?q=%E6%B2%AA%E6%8C%878%E8%BF%9E%E9%98%B3)
 1. [为什么现在不创造新的汉字了](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E4%B8%8D%E5%88%9B%E9%80%A0%E6%96%B0%E7%9A%84%E6%B1%89%E5%AD%97%E4%BA%86)
