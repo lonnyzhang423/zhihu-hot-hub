@@ -11,15 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-12-29 07:12:17 +0800`
+`更新时间：2025-12-29 09:07:29 +0800`
 
 ## 热门搜索
 
-1. [福建震感](https://www.zhihu.com/search?q=%E7%A6%8F%E5%BB%BA%E9%9C%87%E6%84%9F)
-1. [泉州震感](https://www.zhihu.com/search?q=%E6%B3%89%E5%B7%9E%E9%9C%87%E6%84%9F)
 1. [深圳大学乒超女团夺冠](https://www.zhihu.com/search?q=%E6%B7%B1%E5%9C%B3%E5%A4%A7%E5%AD%A6%E4%B9%92%E8%B6%85%E5%A5%B3%E5%9B%A2%E5%A4%BA%E5%86%A0)
 1. [字节120名员工因触犯红线被辞](https://www.zhihu.com/search?q=%E5%AD%97%E8%8A%82120%E5%90%8D%E5%91%98%E5%B7%A5%E5%9B%A0%E8%A7%A6%E7%8A%AF%E7%BA%A2%E7%BA%BF%E8%A2%AB%E8%BE%9E)
-1. [高血压没有症状就不用吃药是真的吗](https://www.zhihu.com/search?q=%E9%AB%98%E8%A1%80%E5%8E%8B%E6%B2%A1%E6%9C%89%E7%97%87%E7%8A%B6%E5%B0%B1%E4%B8%8D%E7%94%A8%E5%90%83%E8%8D%AF%E6%98%AF%E7%9C%9F%E7%9A%84%E5%90%97)
 1. [女演员自曝被粉丝跟踪 6 年](https://www.zhihu.com/search?q=%E5%A5%B3%E6%BC%94%E5%91%98%E8%87%AA%E6%9B%9D%E8%A2%AB%E7%B2%89%E4%B8%9D%E8%B7%9F%E8%B8%AA%206%20%E5%B9%B4)
 1. [霸王茶姬咖啡因含量遭质疑](https://www.zhihu.com/search?q=%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E5%92%96%E5%95%A1%E5%9B%A0%E5%90%AB%E9%87%8F%E9%81%AD%E8%B4%A8%E7%96%91)
 1. [1 岁宝宝误食紫草油病危](https://www.zhihu.com/search?q=1%20%E5%B2%81%E5%AE%9D%E5%AE%9D%E8%AF%AF%E9%A3%9F%E7%B4%AB%E8%8D%89%E6%B2%B9%E7%97%85%E5%8D%B1)
@@ -32,6 +29,9 @@
 1. [全世界都在围堵隐藏式门把手](https://www.zhihu.com/search?q=%E5%85%A8%E4%B8%96%E7%95%8C%E9%83%BD%E5%9C%A8%E5%9B%B4%E5%A0%B5%E9%9A%90%E8%97%8F%E5%BC%8F%E9%97%A8%E6%8A%8A%E6%89%8B)
 1. [王者万象棋开启冬季测试](https://www.zhihu.com/search?q=%E7%8E%8B%E8%80%85%E4%B8%87%E8%B1%A1%E6%A3%8B%E5%BC%80%E5%90%AF%E5%86%AC%E5%AD%A3%E6%B5%8B%E8%AF%95)
 1. [ 赵永坡接任魏牌CEO](https://www.zhihu.com/search?q=%20%E8%B5%B5%E6%B0%B8%E5%9D%A1%E6%8E%A5%E4%BB%BB%E9%AD%8F%E7%89%8CCEO)
+1. [魏牌人事动荡](https://www.zhihu.com/search?q=%E9%AD%8F%E7%89%8C%E4%BA%BA%E4%BA%8B%E5%8A%A8%E8%8D%A1)
+1. [宋威龙疑似被林屿森顶号](https://www.zhihu.com/search?q=%E5%AE%8B%E5%A8%81%E9%BE%99%E7%96%91%E4%BC%BC%E8%A2%AB%E6%9E%97%E5%B1%BF%E6%A3%AE%E9%A1%B6%E5%8F%B7)
+1. [宝宝被奶奶碘伏擦进 ICU](https://www.zhihu.com/search?q=%E5%AE%9D%E5%AE%9D%E8%A2%AB%E5%A5%B6%E5%A5%B6%E7%A2%98%E4%BC%8F%E6%93%A6%E8%BF%9B%20ICU)
 
 ## 热门话题
 
