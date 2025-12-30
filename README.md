@@ -11,12 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-12-30 14:21:11 +0800`
+`更新时间：2025-12-30 15:16:57 +0800`
 
 ## 热门搜索
 
-1. [如何评价卢旺达这个国家](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E5%8D%A2%E6%97%BA%E8%BE%BE%E8%BF%99%E4%B8%AA%E5%9B%BD%E5%AE%B6)
-1. [下周上四休三](https://www.zhihu.com/search?q=%E4%B8%8B%E5%91%A8%E4%B8%8A%E5%9B%9B%E4%BC%91%E4%B8%89)
+1. [深圳大学乒超女团夺冠](https://www.zhihu.com/search?q=%E6%B7%B1%E5%9C%B3%E5%A4%A7%E5%AD%A6%E4%B9%92%E8%B6%85%E5%A5%B3%E5%9B%A2%E5%A4%BA%E5%86%A0)
 1. [跨年朋友圈文案](https://www.zhihu.com/search?q=%E8%B7%A8%E5%B9%B4%E6%9C%8B%E5%8F%8B%E5%9C%88%E6%96%87%E6%A1%88)
 1. [沪指8连阳](https://www.zhihu.com/search?q=%E6%B2%AA%E6%8C%878%E8%BF%9E%E9%98%B3)
 1. [为什么现在不创造新的汉字了](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E4%B8%8D%E5%88%9B%E9%80%A0%E6%96%B0%E7%9A%84%E6%B1%89%E5%AD%97%E4%BA%86)
@@ -43,7 +42,6 @@
 1. [怎样最大程度延长自己的寿命](https://www.zhihu.com/search?q=%E6%80%8E%E6%A0%B7%E6%9C%80%E5%A4%A7%E7%A8%8B%E5%BA%A6%E5%BB%B6%E9%95%BF%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%BF%E5%91%BD)
 1. [如何评价电视剧新三国](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E7%94%B5%E8%A7%86%E5%89%A7%E6%96%B0%E4%B8%89%E5%9B%BD)
 1. [体制内被边缘化是好事吗](https://www.zhihu.com/search?q=%E4%BD%93%E5%88%B6%E5%86%85%E8%A2%AB%E8%BE%B9%E7%BC%98%E5%8C%96%E6%98%AF%E5%A5%BD%E4%BA%8B%E5%90%97)
-1. [癸酉本石头记是否是真本](https://www.zhihu.com/search?q=%E7%99%B8%E9%85%89%E6%9C%AC%E7%9F%B3%E5%A4%B4%E8%AE%B0%E6%98%AF%E5%90%A6%E6%98%AF%E7%9C%9F%E6%9C%AC)
 
 ## 热门话题
 
