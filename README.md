@@ -11,11 +11,13 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-12-31 10:10:50 +0800`
+`更新时间：2025-12-31 12:03:33 +0800`
 
 ## 热门搜索
 
 1. [深圳大学乒超女团夺冠](https://www.zhihu.com/search?q=%E6%B7%B1%E5%9C%B3%E5%A4%A7%E5%AD%A6%E4%B9%92%E8%B6%85%E5%A5%B3%E5%9B%A2%E5%A4%BA%E5%86%A0)
+1. [跨年晚会](https://www.zhihu.com/search?q=%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A)
+1. [央视跨年晚会](https://www.zhihu.com/search?q=%E5%A4%AE%E8%A7%86%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A)
 1. [跨年朋友圈文案](https://www.zhihu.com/search?q=%E8%B7%A8%E5%B9%B4%E6%9C%8B%E5%8F%8B%E5%9C%88%E6%96%87%E6%A1%88)
 1. [为什么现在不创造新的汉字了](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E4%B8%8D%E5%88%9B%E9%80%A0%E6%96%B0%E7%9A%84%E6%B1%89%E5%AD%97%E4%BA%86)
 1. [C919还能成批生产吗](https://www.zhihu.com/search?q=C919%E8%BF%98%E8%83%BD%E6%88%90%E6%89%B9%E7%94%9F%E4%BA%A7%E5%90%97)
@@ -30,16 +32,13 @@
 1. [汽车设计真的在倒退吗](https://www.zhihu.com/search?q=%E6%B1%BD%E8%BD%A6%E8%AE%BE%E8%AE%A1%E7%9C%9F%E7%9A%84%E5%9C%A8%E5%80%92%E9%80%80%E5%90%97)
 1. [什么家庭能养出松弛感的孩子](https://www.zhihu.com/search?q=%E4%BB%80%E4%B9%88%E5%AE%B6%E5%BA%AD%E8%83%BD%E5%85%BB%E5%87%BA%E6%9D%BE%E5%BC%9B%E6%84%9F%E7%9A%84%E5%AD%A9%E5%AD%90)
 1. [什么行为极大改善了你的心理健康](https://www.zhihu.com/search?q=%E4%BB%80%E4%B9%88%E8%A1%8C%E4%B8%BA%E6%9E%81%E5%A4%A7%E6%94%B9%E5%96%84%E4%BA%86%E4%BD%A0%E7%9A%84%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7)
-1. [LLM预测下一词](https://www.zhihu.com/search?q=LLM%E9%A2%84%E6%B5%8B%E4%B8%8B%E4%B8%80%E8%AF%8D)
 1. [山姆超市质量到底如何](https://www.zhihu.com/search?q=%E5%B1%B1%E5%A7%86%E8%B6%85%E5%B8%82%E8%B4%A8%E9%87%8F%E5%88%B0%E5%BA%95%E5%A6%82%E4%BD%95)
 1. [怎样最大程度延长自己的寿命](https://www.zhihu.com/search?q=%E6%80%8E%E6%A0%B7%E6%9C%80%E5%A4%A7%E7%A8%8B%E5%BA%A6%E5%BB%B6%E9%95%BF%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%BF%E5%91%BD)
 1. [如何评价电视剧新三国](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E7%94%B5%E8%A7%86%E5%89%A7%E6%96%B0%E4%B8%89%E5%9B%BD)
 1. [癸酉本石头记是否是真本](https://www.zhihu.com/search?q=%E7%99%B8%E9%85%89%E6%9C%AC%E7%9F%B3%E5%A4%B4%E8%AE%B0%E6%98%AF%E5%90%A6%E6%98%AF%E7%9C%9F%E6%9C%AC)
 1. [你知道有哪些信息差](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9F%A5%E9%81%93%E6%9C%89%E5%93%AA%E4%BA%9B%E4%BF%A1%E6%81%AF%E5%B7%AE)
 1. [为什么有些人的预判能力很强](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E4%BA%9B%E4%BA%BA%E7%9A%84%E9%A2%84%E5%88%A4%E8%83%BD%E5%8A%9B%E5%BE%88%E5%BC%BA)
-1. [售价 3499 元中兴豆包手机一天卖光](https://www.zhihu.com/search?q=%E5%94%AE%E4%BB%B7%203499%20%E5%85%83%E4%B8%AD%E5%85%B4%E8%B1%86%E5%8C%85%E6%89%8B%E6%9C%BA%E4%B8%80%E5%A4%A9%E5%8D%96%E5%85%89)
 1. [胖东来为什么只能在河南成功](https://www.zhihu.com/search?q=%E8%83%96%E4%B8%9C%E6%9D%A5%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%AA%E8%83%BD%E5%9C%A8%E6%B2%B3%E5%8D%97%E6%88%90%E5%8A%9F)
-1. [豆包手机](https://www.zhihu.com/search?q=%E8%B1%86%E5%8C%85%E6%89%8B%E6%9C%BA)
 1. [如何评价电视剧「大生意人」](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E7%94%B5%E8%A7%86%E5%89%A7%E3%80%8C%E5%A4%A7%E7%94%9F%E6%84%8F%E4%BA%BA%E3%80%8D)
 
 ## 热门话题
