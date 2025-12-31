@@ -11,12 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-12-31 14:43:04 +0800`
+`更新时间：2025-12-31 15:29:36 +0800`
 
 ## 热门搜索
 
-1. [深圳大学乒超女团夺冠](https://www.zhihu.com/search?q=%E6%B7%B1%E5%9C%B3%E5%A4%A7%E5%AD%A6%E4%B9%92%E8%B6%85%E5%A5%B3%E5%9B%A2%E5%A4%BA%E5%86%A0)
-1. [跨年晚会](https://www.zhihu.com/search?q=%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A)
+1. [与同事关系不好是否要彻底翻脸](https://www.zhihu.com/search?q=%E4%B8%8E%E5%90%8C%E4%BA%8B%E5%85%B3%E7%B3%BB%E4%B8%8D%E5%A5%BD%E6%98%AF%E5%90%A6%E8%A6%81%E5%BD%BB%E5%BA%95%E7%BF%BB%E8%84%B8)
 1. [央视跨年晚会](https://www.zhihu.com/search?q=%E5%A4%AE%E8%A7%86%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A)
 1. [跨年朋友圈文案](https://www.zhihu.com/search?q=%E8%B7%A8%E5%B9%B4%E6%9C%8B%E5%8F%8B%E5%9C%88%E6%96%87%E6%A1%88)
 1. [为什么现在不创造新的汉字了](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E4%B8%8D%E5%88%9B%E9%80%A0%E6%96%B0%E7%9A%84%E6%B1%89%E5%AD%97%E4%BA%86)
