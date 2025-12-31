@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2025-12-31 19:12:35 +0800`
+`更新时间：2025-12-31 20:26:11 +0800`
 
 ## 热门搜索
 
-1. [看多了短视频的孩子会变傻吗](https://www.zhihu.com/search?q=%E7%9C%8B%E5%A4%9A%E4%BA%86%E7%9F%AD%E8%A7%86%E9%A2%91%E7%9A%84%E5%AD%A9%E5%AD%90%E4%BC%9A%E5%8F%98%E5%82%BB%E5%90%97)
-1. [杨瀚森3分4篮板](https://www.zhihu.com/search?q=%E6%9D%A8%E7%80%9A%E6%A3%AE3%E5%88%864%E7%AF%AE%E6%9D%BF)
+1. [湖人vs活塞](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BAvs%E6%B4%BB%E5%A1%9E)
+1. [深圳大学乒超女团夺冠](https://www.zhihu.com/search?q=%E6%B7%B1%E5%9C%B3%E5%A4%A7%E5%AD%A6%E4%B9%92%E8%B6%85%E5%A5%B3%E5%9B%A2%E5%A4%BA%E5%86%A0)
 1. [跨年晚会](https://www.zhihu.com/search?q=%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A)
 1. [央视跨年晚会](https://www.zhihu.com/search?q=%E5%A4%AE%E8%A7%86%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A)
 1. [跨年朋友圈文案](https://www.zhihu.com/search?q=%E8%B7%A8%E5%B9%B4%E6%9C%8B%E5%8F%8B%E5%9C%88%E6%96%87%E6%A1%88)
