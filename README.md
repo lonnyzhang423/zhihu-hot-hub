@@ -11,17 +11,15 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-01-01 14:43:04 +0800`
+`更新时间：2026-01-01 15:29:14 +0800`
 
 ## 热门搜索
 
-1. [湖人vs活塞](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BAvs%E6%B4%BB%E5%A1%9E)
-1. [跨年晚会](https://www.zhihu.com/search?q=%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A)
-1. [央视跨年晚会](https://www.zhihu.com/search?q=%E5%A4%AE%E8%A7%86%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A)
-1. [一个人最大的底气来自哪里](https://www.zhihu.com/search?q=%E4%B8%80%E4%B8%AA%E4%BA%BA%E6%9C%80%E5%A4%A7%E7%9A%84%E5%BA%95%E6%B0%94%E6%9D%A5%E8%87%AA%E5%93%AA%E9%87%8C)
+1. [开拓者险胜独行侠](https://www.zhihu.com/search?q=%E5%BC%80%E6%8B%93%E8%80%85%E9%99%A9%E8%83%9C%E7%8B%AC%E8%A1%8C%E4%BE%A0)
+1. [为什么人不能靠意志力戒毒](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BA%BA%E4%B8%8D%E8%83%BD%E9%9D%A0%E6%84%8F%E5%BF%97%E5%8A%9B%E6%88%92%E6%AF%92)
 1. [为什么现在不创造新的汉字了](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E4%B8%8D%E5%88%9B%E9%80%A0%E6%96%B0%E7%9A%84%E6%B1%89%E5%AD%97%E4%BA%86)
 1. [A股行情](https://www.zhihu.com/search?q=A%E8%82%A1%E8%A1%8C%E6%83%85)
-1. [为什么人不能靠意志力戒毒](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BA%BA%E4%B8%8D%E8%83%BD%E9%9D%A0%E6%84%8F%E5%BF%97%E5%8A%9B%E6%88%92%E6%AF%92)
+1. [男明星找网红](https://www.zhihu.com/search?q=%E7%94%B7%E6%98%8E%E6%98%9F%E6%89%BE%E7%BD%91%E7%BA%A2)
 1. [C919还能成批生产吗](https://www.zhihu.com/search?q=C919%E8%BF%98%E8%83%BD%E6%88%90%E6%89%B9%E7%94%9F%E4%BA%A7%E5%90%97)
 1. [你给孩子最大的托底是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E7%BB%99%E5%AD%A9%E5%AD%90%E6%9C%80%E5%A4%A7%E7%9A%84%E6%89%98%E5%BA%95%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [你的低成本爱好是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9A%84%E4%BD%8E%E6%88%90%E6%9C%AC%E7%88%B1%E5%A5%BD%E6%98%AF%E4%BB%80%E4%B9%88)
@@ -39,8 +37,9 @@
 1. [你知道哪些信息差](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9F%A5%E9%81%93%E5%93%AA%E4%BA%9B%E4%BF%A1%E6%81%AF%E5%B7%AE)
 1. [为什么有些人的预判能力很强](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E4%BA%9B%E4%BA%BA%E7%9A%84%E9%A2%84%E5%88%A4%E8%83%BD%E5%8A%9B%E5%BE%88%E5%BC%BA)
 1. [如何评价电视剧大生意人](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E7%94%B5%E8%A7%86%E5%89%A7%E5%A4%A7%E7%94%9F%E6%84%8F%E4%BA%BA)
-1. [胖东来为什么只能在河南成功](https://www.zhihu.com/search?q=%E8%83%96%E4%B8%9C%E6%9D%A5%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%AA%E8%83%BD%E5%9C%A8%E6%B2%B3%E5%8D%97%E6%88%90%E5%8A%9F)
+1. [电视还有存在的意义吗](https://www.zhihu.com/search?q=%E7%94%B5%E8%A7%86%E8%BF%98%E6%9C%89%E5%AD%98%E5%9C%A8%E7%9A%84%E6%84%8F%E4%B9%89%E5%90%97)
 1. [NBA常规赛](https://www.zhihu.com/search?q=NBA%E5%B8%B8%E8%A7%84%E8%B5%9B)
+1. [人到中年为什么对很多事没了兴趣](https://www.zhihu.com/search?q=%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E4%B8%BA%E4%BB%80%E4%B9%88%E5%AF%B9%E5%BE%88%E5%A4%9A%E4%BA%8B%E6%B2%A1%E4%BA%86%E5%85%B4%E8%B6%A3)
 
 ## 热门话题
 
