@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-01-01 09:09:36 +0800`
+`更新时间：2026-01-01 11:43:33 +0800`
 
 ## 热门搜索
 
-1. [湖人vs活塞](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BAvs%E6%B4%BB%E5%A1%9E)
-1. [跨年晚会](https://www.zhihu.com/search?q=%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A)
+1. [李诞吐槽南极：伙食不如泡面企鹅臭](https://www.zhihu.com/search?q=%E6%9D%8E%E8%AF%9E%E5%90%90%E6%A7%BD%E5%8D%97%E6%9E%81%EF%BC%9A%E4%BC%99%E9%A3%9F%E4%B8%8D%E5%A6%82%E6%B3%A1%E9%9D%A2%E4%BC%81%E9%B9%85%E8%87%AD)
+1. [火箭力克步行者](https://www.zhihu.com/search?q=%E7%81%AB%E7%AE%AD%E5%8A%9B%E5%85%8B%E6%AD%A5%E8%A1%8C%E8%80%85)
 1. [央视跨年晚会](https://www.zhihu.com/search?q=%E5%A4%AE%E8%A7%86%E8%B7%A8%E5%B9%B4%E6%99%9A%E4%BC%9A)
 1. [一个人最大的底气来自哪里](https://www.zhihu.com/search?q=%E4%B8%80%E4%B8%AA%E4%BA%BA%E6%9C%80%E5%A4%A7%E7%9A%84%E5%BA%95%E6%B0%94%E6%9D%A5%E8%87%AA%E5%93%AA%E9%87%8C)
 1. [为什么现在不创造新的汉字了](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E4%B8%8D%E5%88%9B%E9%80%A0%E6%96%B0%E7%9A%84%E6%B1%89%E5%AD%97%E4%BA%86)
