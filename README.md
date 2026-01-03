@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-01-03 22:26:01 +0800`
+`更新时间：2026-01-03 23:26:16 +0800`
 
 ## 热门搜索
 
-1. [超级月亮](https://www.zhihu.com/search?q=%E8%B6%85%E7%BA%A7%E6%9C%88%E4%BA%AE)
-1. [湖人vs活塞](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BAvs%E6%B4%BB%E5%A1%9E)
+1. [切尔西vs伯恩茅斯](https://www.zhihu.com/search?q=%E5%88%87%E5%B0%94%E8%A5%BFvs%E4%BC%AF%E6%81%A9%E8%8C%85%E6%96%AF)
+1. [黄金首饰价格大幅回调](https://www.zhihu.com/search?q=%E9%BB%84%E9%87%91%E9%A6%96%E9%A5%B0%E4%BB%B7%E6%A0%BC%E5%A4%A7%E5%B9%85%E5%9B%9E%E8%B0%83)
 1. [一个人最大的底气来自哪里](https://www.zhihu.com/search?q=%E4%B8%80%E4%B8%AA%E4%BA%BA%E6%9C%80%E5%A4%A7%E7%9A%84%E5%BA%95%E6%B0%94%E6%9D%A5%E8%87%AA%E5%93%AA%E9%87%8C)
 1. [为什么现在不创造新的汉字了](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E4%B8%8D%E5%88%9B%E9%80%A0%E6%96%B0%E7%9A%84%E6%B1%89%E5%AD%97%E4%BA%86)
 1. [为什么人不能靠意志力戒毒](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BA%BA%E4%B8%8D%E8%83%BD%E9%9D%A0%E6%84%8F%E5%BF%97%E5%8A%9B%E6%88%92%E6%AF%92)
