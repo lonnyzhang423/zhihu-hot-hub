@@ -11,16 +11,16 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-01-04 06:26:32 +0800`
+`更新时间：2026-01-04 07:26:17 +0800`
 
 ## 热门搜索
 
-1. [超级月亮](https://www.zhihu.com/search?q=%E8%B6%85%E7%BA%A7%E6%9C%88%E4%BA%AE)
+1. [DeepSeek 发布开年新论文](https://www.zhihu.com/search?q=DeepSeek%20%E5%8F%91%E5%B8%83%E5%BC%80%E5%B9%B4%E6%96%B0%E8%AE%BA%E6%96%87)
 1. [知乎个人年度报告](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%E4%B8%AA%E4%BA%BA%E5%B9%B4%E5%BA%A6%E6%8A%A5%E5%91%8A)
 1. [知乎年度盘点](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%E5%B9%B4%E5%BA%A6%E7%9B%98%E7%82%B9)
 1. [知乎年终盘点](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%E5%B9%B4%E7%BB%88%E7%9B%98%E7%82%B9)
 1. [知乎2025年度盘点](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E2025%E5%B9%B4%E5%BA%A6%E7%9B%98%E7%82%B9)
-1. [到底什么是真的](https://www.zhihu.com/search?q=%E5%88%B0%E5%BA%95%E4%BB%80%E4%B9%88%E6%98%AF%E7%9C%9F%E7%9A%84)
+1. [「最快女护士」张水华宣布辞职](https://www.zhihu.com/search?q=%E3%80%8C%E6%9C%80%E5%BF%AB%E5%A5%B3%E6%8A%A4%E5%A3%AB%E3%80%8D%E5%BC%A0%E6%B0%B4%E5%8D%8E%E5%AE%A3%E5%B8%83%E8%BE%9E%E8%81%8C)
 1. [2025年终小问](https://www.zhihu.com/search?q=2025%E5%B9%B4%E7%BB%88%E5%B0%8F%E9%97%AE)
 1. [知乎年度视频](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%E5%B9%B4%E5%BA%A6%E8%A7%86%E9%A2%91)
 1. [2025知乎年度视频](https://www.zhihu.com/search?q=2025%E7%9F%A5%E4%B9%8E%E5%B9%B4%E5%BA%A6%E8%A7%86%E9%A2%91)
