@@ -11,11 +11,15 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-01-04 14:41:10 +0800`
+`更新时间：2026-01-04 15:27:45 +0800`
 
 ## 热门搜索
 
+1. [上海春考](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%E6%98%A5%E8%80%83)
+1. [元旦假期最后一天](https://www.zhihu.com/search?q=%E5%85%83%E6%97%A6%E5%81%87%E6%9C%9F%E6%9C%80%E5%90%8E%E4%B8%80%E5%A4%A9)
 1. [超级月亮](https://www.zhihu.com/search?q=%E8%B6%85%E7%BA%A7%E6%9C%88%E4%BA%AE)
+1. [雷霆vs勇士](https://www.zhihu.com/search?q=%E9%9B%B7%E9%9C%86vs%E5%8B%87%E5%A3%AB)
+1. [灰熊vs湖人](https://www.zhihu.com/search?q=%E7%81%B0%E7%86%8Avs%E6%B9%96%E4%BA%BA)
 1. [知乎个人年度报告](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%E4%B8%AA%E4%BA%BA%E5%B9%B4%E5%BA%A6%E6%8A%A5%E5%91%8A)
 1. [知乎年度盘点](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%E5%B9%B4%E5%BA%A6%E7%9B%98%E7%82%B9)
 1. [知乎年终盘点](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%E5%B9%B4%E7%BB%88%E7%9B%98%E7%82%B9)
@@ -30,12 +34,7 @@
 1. [年度总结](https://www.zhihu.com/search?q=%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93)
 1. [个人年度报告](https://www.zhihu.com/search?q=%E4%B8%AA%E4%BA%BA%E5%B9%B4%E5%BA%A6%E6%8A%A5%E5%91%8A)
 1. [知乎年度报告](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%E5%B9%B4%E5%BA%A6%E6%8A%A5%E5%91%8A)
-1. [七旬夫妻摆摊卖淀粉肠夹蛋三块一个](https://www.zhihu.com/search?q=%E4%B8%83%E6%97%AC%E5%A4%AB%E5%A6%BB%E6%91%86%E6%91%8A%E5%8D%96%E6%B7%80%E7%B2%89%E8%82%A0%E5%A4%B9%E8%9B%8B%E4%B8%89%E5%9D%97%E4%B8%80%E4%B8%AA)
-1. [1499 元飞天茅台上线「秒空」](https://www.zhihu.com/search?q=1499%20%E5%85%83%E9%A3%9E%E5%A4%A9%E8%8C%85%E5%8F%B0%E4%B8%8A%E7%BA%BF%E3%80%8C%E7%A7%92%E7%A9%BA%E3%80%8D)
-1. [茅台1499元直销成黄牛噩梦](https://www.zhihu.com/search?q=%E8%8C%85%E5%8F%B01499%E5%85%83%E7%9B%B4%E9%94%80%E6%88%90%E9%BB%84%E7%89%9B%E5%99%A9%E6%A2%A6)
-1. [《再见爱人 5》第十二期](https://www.zhihu.com/search?q=%E3%80%8A%E5%86%8D%E8%A7%81%E7%88%B1%E4%BA%BA%205%E3%80%8B%E7%AC%AC%E5%8D%81%E4%BA%8C%E6%9C%9F)
-1. [至知研究院发布开源代发大语言模型](https://www.zhihu.com/search?q=%E8%87%B3%E7%9F%A5%E7%A0%94%E7%A9%B6%E9%99%A2%E5%8F%91%E5%B8%83%E5%BC%80%E6%BA%90%E4%BB%A3%E5%8F%91%E5%A4%A7%E8%AF%AD%E8%A8%80%E6%A8%A1%E5%9E%8B)
-1. [2026 元旦票房 3.24 亿](https://www.zhihu.com/search?q=2026%20%E5%85%83%E6%97%A6%E7%A5%A8%E6%88%BF%203.24%20%E4%BA%BF)
+1. [蔡磊渐冻症病情接近终末期](https://www.zhihu.com/search?q=%E8%94%A1%E7%A3%8A%E6%B8%90%E5%86%BB%E7%97%87%E7%97%85%E6%83%85%E6%8E%A5%E8%BF%91%E7%BB%88%E6%9C%AB%E6%9C%9F)
 
 ## 热门话题
 
