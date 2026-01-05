@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-01-05 20:28:17 +0800`
+`更新时间：2026-01-05 21:35:25 +0800`
 
 ## 热门搜索
 
-1. [上海春考](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%E6%98%A5%E8%80%83)
-1. [元旦假期最后一天](https://www.zhihu.com/search?q=%E5%85%83%E6%97%A6%E5%81%87%E6%9C%9F%E6%9C%80%E5%90%8E%E4%B8%80%E5%A4%A9)
+1. [邓紫棋科幻小说入围银河奖](https://www.zhihu.com/search?q=%E9%82%93%E7%B4%AB%E6%A3%8B%E7%A7%91%E5%B9%BB%E5%B0%8F%E8%AF%B4%E5%85%A5%E5%9B%B4%E9%93%B6%E6%B2%B3%E5%A5%96)
+1. [湖人三大引援目标](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BA%E4%B8%89%E5%A4%A7%E5%BC%95%E6%8F%B4%E7%9B%AE%E6%A0%87)
 1. [一个人最大的底气来自哪里](https://www.zhihu.com/search?q=%E4%B8%80%E4%B8%AA%E4%BA%BA%E6%9C%80%E5%A4%A7%E7%9A%84%E5%BA%95%E6%B0%94%E6%9D%A5%E8%87%AA%E5%93%AA%E9%87%8C)
 1. [76人vs尼克斯](https://www.zhihu.com/search?q=76%E4%BA%BAvs%E5%B0%BC%E5%85%8B%E6%96%AF)
 1. [雷霆vs勇士](https://www.zhihu.com/search?q=%E9%9B%B7%E9%9C%86vs%E5%8B%87%E5%A3%AB)
