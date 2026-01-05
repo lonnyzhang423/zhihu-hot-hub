@@ -11,10 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-01-05 15:22:18 +0800`
+`更新时间：2026-01-05 16:21:37 +0800`
 
 ## 热门搜索
 
+1. [年轻人把“梗”做成一门新生意](https://www.zhihu.com/search?q=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%8A%8A%E2%80%9C%E6%A2%97%E2%80%9D%E5%81%9A%E6%88%90%E4%B8%80%E9%97%A8%E6%96%B0%E7%94%9F%E6%84%8F)
+1. [黛玉是否有性格缺陷](https://www.zhihu.com/search?q=%E9%BB%9B%E7%8E%89%E6%98%AF%E5%90%A6%E6%9C%89%E6%80%A7%E6%A0%BC%E7%BC%BA%E9%99%B7)
 1. [提升自己最快的方式](https://www.zhihu.com/search?q=%E6%8F%90%E5%8D%87%E8%87%AA%E5%B7%B1%E6%9C%80%E5%BF%AB%E7%9A%84%E6%96%B9%E5%BC%8F)
 1. [一个人最大的底气来自哪里](https://www.zhihu.com/search?q=%E4%B8%80%E4%B8%AA%E4%BA%BA%E6%9C%80%E5%A4%A7%E7%9A%84%E5%BA%95%E6%B0%94%E6%9D%A5%E8%87%AA%E5%93%AA%E9%87%8C)
 1. [76人vs尼克斯](https://www.zhihu.com/search?q=76%E4%BA%BAvs%E5%B0%BC%E5%85%8B%E6%96%AF)
