@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-01-06 18:15:05 +0800`
+`更新时间：2026-01-06 19:12:33 +0800`
 
 ## 热门搜索
 
@@ -34,7 +34,8 @@
 1. [年度总结](https://www.zhihu.com/search?q=%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93)
 1. [个人年度报告](https://www.zhihu.com/search?q=%E4%B8%AA%E4%BA%BA%E5%B9%B4%E5%BA%A6%E6%8A%A5%E5%91%8A)
 1. [知乎年度报告](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%E5%B9%B4%E5%BA%A6%E6%8A%A5%E5%91%8A)
-1. [特斯拉丢掉全球电车销冠王座](https://www.zhihu.com/search?q=%E7%89%B9%E6%96%AF%E6%8B%89%E4%B8%A2%E6%8E%89%E5%85%A8%E7%90%83%E7%94%B5%E8%BD%A6%E9%94%80%E5%86%A0%E7%8E%8B%E5%BA%A7)
+1. [「最快女护士」张水华宣布辞职](https://www.zhihu.com/search?q=%E3%80%8C%E6%9C%80%E5%BF%AB%E5%A5%B3%E6%8A%A4%E5%A3%AB%E3%80%8D%E5%BC%A0%E6%B0%B4%E5%8D%8E%E5%AE%A3%E5%B8%83%E8%BE%9E%E8%81%8C)
+1. [张水华](https://www.zhihu.com/search?q=%E5%BC%A0%E6%B0%B4%E5%8D%8E)
 
 ## 热门话题
 
