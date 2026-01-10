@@ -11,12 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-01-10 22:11:53 +0800`
+`更新时间：2026-01-10 23:12:23 +0800`
 
 ## 热门搜索
 
-1. [河南趴地菠菜走红](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8D%97%E8%B6%B4%E5%9C%B0%E8%8F%A0%E8%8F%9C%E8%B5%B0%E7%BA%A2)
-1. [湖北夫妻炸年糕淀粉肠年入百万](https://www.zhihu.com/search?q=%E6%B9%96%E5%8C%97%E5%A4%AB%E5%A6%BB%E7%82%B8%E5%B9%B4%E7%B3%95%E6%B7%80%E7%B2%89%E8%82%A0%E5%B9%B4%E5%85%A5%E7%99%BE%E4%B8%87)
+1. [哪个角色小时候讨厌长大就理解了](https://www.zhihu.com/search?q=%E5%93%AA%E4%B8%AA%E8%A7%92%E8%89%B2%E5%B0%8F%E6%97%B6%E5%80%99%E8%AE%A8%E5%8E%8C%E9%95%BF%E5%A4%A7%E5%B0%B1%E7%90%86%E8%A7%A3%E4%BA%86)
 1. [为什么在中国邮箱不流行](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%9C%A8%E4%B8%AD%E5%9B%BD%E9%82%AE%E7%AE%B1%E4%B8%8D%E6%B5%81%E8%A1%8C)
 1. [火箭vs开拓者](https://www.zhihu.com/search?q=%E7%81%AB%E7%AE%ADvs%E5%BC%80%E6%8B%93%E8%80%85)
 1. [C919还能成批生产吗](https://www.zhihu.com/search?q=C919%E8%BF%98%E8%83%BD%E6%88%90%E6%89%B9%E7%94%9F%E4%BA%A7%E5%90%97)
