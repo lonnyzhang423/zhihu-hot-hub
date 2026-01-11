@@ -11,11 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-01-11 21:35:08 +0800`
+`更新时间：2026-01-11 22:26:01 +0800`
 
 ## 热门搜索
 
-1. [U23亚洲杯中国首战伊拉克](https://www.zhihu.com/search?q=U23%E4%BA%9A%E6%B4%B2%E6%9D%AF%E4%B8%AD%E5%9B%BD%E9%A6%96%E6%88%98%E4%BC%8A%E6%8B%89%E5%85%8B)
+1. [为什么在中国邮箱不流行](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%9C%A8%E4%B8%AD%E5%9B%BD%E9%82%AE%E7%AE%B1%E4%B8%8D%E6%B5%81%E8%A1%8C)
 1. [火箭vs开拓者](https://www.zhihu.com/search?q=%E7%81%AB%E7%AE%ADvs%E5%BC%80%E6%8B%93%E8%80%85)
 1. [C919还能成批生产吗](https://www.zhihu.com/search?q=C919%E8%BF%98%E8%83%BD%E6%88%90%E6%89%B9%E7%94%9F%E4%BA%A7%E5%90%97)
 1. [黎曼猜想为什么难以解决](https://www.zhihu.com/search?q=%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9A%BE%E4%BB%A5%E8%A7%A3%E5%86%B3)
