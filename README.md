@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-01-12 18:17:46 +0800`
+`更新时间：2026-01-12 19:13:53 +0800`
 
 ## 热门搜索
 
@@ -40,6 +40,7 @@
 1. [癸酉本石头记是否是真本](https://www.zhihu.com/search?q=%E7%99%B8%E9%85%89%E6%9C%AC%E7%9F%B3%E5%A4%B4%E8%AE%B0%E6%98%AF%E5%90%A6%E6%98%AF%E7%9C%9F%E6%9C%AC)
 1. [什么是认知与财富不匹配](https://www.zhihu.com/search?q=%E4%BB%80%E4%B9%88%E6%98%AF%E8%AE%A4%E7%9F%A5%E4%B8%8E%E8%B4%A2%E5%AF%8C%E4%B8%8D%E5%8C%B9%E9%85%8D)
 1. [你知道哪些信息差](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9F%A5%E9%81%93%E5%93%AA%E4%BA%9B%E4%BF%A1%E6%81%AF%E5%B7%AE)
+1. [如何低成本照顾自己的心理健康](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E4%BD%8E%E6%88%90%E6%9C%AC%E7%85%A7%E9%A1%BE%E8%87%AA%E5%B7%B1%E7%9A%84%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7)
 
 ## 热门话题
 
