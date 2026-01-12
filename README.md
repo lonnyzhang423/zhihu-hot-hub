@@ -11,10 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-01-12 17:24:33 +0800`
+`更新时间：2026-01-12 18:17:46 +0800`
 
 ## 热门搜索
 
+1. [为什么优秀员工往往最先离职](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%98%E7%A7%80%E5%91%98%E5%B7%A5%E5%BE%80%E5%BE%80%E6%9C%80%E5%85%88%E7%A6%BB%E8%81%8C)
 1. [为什么现在不创造新的汉字了](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E4%B8%8D%E5%88%9B%E9%80%A0%E6%96%B0%E7%9A%84%E6%B1%89%E5%AD%97%E4%BA%86)
 1. [为什么在中国邮箱不流行](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%9C%A8%E4%B8%AD%E5%9B%BD%E9%82%AE%E7%AE%B1%E4%B8%8D%E6%B5%81%E8%A1%8C)
 1. [巴萨vs皇马](https://www.zhihu.com/search?q=%E5%B7%B4%E8%90%A8vs%E7%9A%87%E9%A9%AC)
