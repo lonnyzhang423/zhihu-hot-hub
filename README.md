@@ -11,11 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-01-12 10:24:55 +0800`
+`更新时间：2026-01-12 12:14:40 +0800`
 
 ## 热门搜索
 
-1. [爬楼扫地机](https://www.zhihu.com/search?q=%E7%88%AC%E6%A5%BC%E6%89%AB%E5%9C%B0%E6%9C%BA)
+1. [美军空袭委内瑞拉首都加拉加斯](https://www.zhihu.com/search?q=%E7%BE%8E%E5%86%9B%E7%A9%BA%E8%A2%AD%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E9%A6%96%E9%83%BD%E5%8A%A0%E6%8B%89%E5%8A%A0%E6%96%AF)
 1. [美军强掳马杜罗](https://www.zhihu.com/search?q=%E7%BE%8E%E5%86%9B%E5%BC%BA%E6%8E%B3%E9%A9%AC%E6%9D%9C%E7%BD%97)
 1. [委内瑞拉发生了什么](https://www.zhihu.com/search?q=%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88)
 1. [美国活捉马杜罗细节](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E6%B4%BB%E6%8D%89%E9%A9%AC%E6%9D%9C%E7%BD%97%E7%BB%86%E8%8A%82)
@@ -33,6 +33,7 @@
 1. [CES 走偏？AI 安眠药登场](https://www.zhihu.com/search?q=CES%20%E8%B5%B0%E5%81%8F%EF%BC%9FAI%20%E5%AE%89%E7%9C%A0%E8%8D%AF%E7%99%BB%E5%9C%BA)
 1. [中国品牌组团亮相 CES](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E5%93%81%E7%89%8C%E7%BB%84%E5%9B%A2%E4%BA%AE%E7%9B%B8%20CES)
 1. [飞行扫地机](https://www.zhihu.com/search?q=%E9%A3%9E%E8%A1%8C%E6%89%AB%E5%9C%B0%E6%9C%BA)
+1. [爬楼扫地机](https://www.zhihu.com/search?q=%E7%88%AC%E6%A5%BC%E6%89%AB%E5%9C%B0%E6%9C%BA)
 1. [四足扫地机](https://www.zhihu.com/search?q=%E5%9B%9B%E8%B6%B3%E6%89%AB%E5%9C%B0%E6%9C%BA)
 1. [清洁机器人长出手脚](https://www.zhihu.com/search?q=%E6%B8%85%E6%B4%81%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%95%BF%E5%87%BA%E6%89%8B%E8%84%9A)
 1. [显示技术决战：印刷 OLED](https://www.zhihu.com/search?q=%E6%98%BE%E7%A4%BA%E6%8A%80%E6%9C%AF%E5%86%B3%E6%88%98%EF%BC%9A%E5%8D%B0%E5%88%B7%20OLED)
