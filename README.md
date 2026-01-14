@@ -11,10 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-01-14 20:27:52 +0800`
+`更新时间：2026-01-14 21:34:48 +0800`
 
 ## 热门搜索
 
+1. [国考成绩公布](https://www.zhihu.com/search?q=%E5%9B%BD%E8%80%83%E6%88%90%E7%BB%A9%E5%85%AC%E5%B8%83)
 1. [国考成绩](https://www.zhihu.com/search?q=%E5%9B%BD%E8%80%83%E6%88%90%E7%BB%A9)
 1. [为什么在中国邮箱不流行](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%9C%A8%E4%B8%AD%E5%9B%BD%E9%82%AE%E7%AE%B1%E4%B8%8D%E6%B5%81%E8%A1%8C)
 1. [掘金vs鹈鹕](https://www.zhihu.com/search?q=%E6%8E%98%E9%87%91vs%E9%B9%88%E9%B9%95)
@@ -38,7 +39,6 @@
 1. [你努力赚钱的原因](https://www.zhihu.com/search?q=%E4%BD%A0%E5%8A%AA%E5%8A%9B%E8%B5%9A%E9%92%B1%E7%9A%84%E5%8E%9F%E5%9B%A0)
 1. [NBA常规赛](https://www.zhihu.com/search?q=NBA%E5%B8%B8%E8%A7%84%E8%B5%9B)
 1. [人到中年为什么对很多事没了兴趣](https://www.zhihu.com/search?q=%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E4%B8%BA%E4%BB%80%E4%B9%88%E5%AF%B9%E5%BE%88%E5%A4%9A%E4%BA%8B%E6%B2%A1%E4%BA%86%E5%85%B4%E8%B6%A3)
-1. [认知水平低的人有什么明显特征](https://www.zhihu.com/search?q=%E8%AE%A4%E7%9F%A5%E6%B0%B4%E5%B9%B3%E4%BD%8E%E7%9A%84%E4%BA%BA%E6%9C%89%E4%BB%80%E4%B9%88%E6%98%8E%E6%98%BE%E7%89%B9%E5%BE%81)
 
 ## 热门话题
 
