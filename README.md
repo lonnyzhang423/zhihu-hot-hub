@@ -11,11 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-01-15 17:20:48 +0800`
+`更新时间：2026-01-15 18:15:11 +0800`
 
 ## 热门搜索
 
-1. [国考成绩公布](https://www.zhihu.com/search?q=%E5%9B%BD%E8%80%83%E6%88%90%E7%BB%A9%E5%85%AC%E5%B8%83)
+1. [网友称LPL北京JDG主场大量余票堆积](https://www.zhihu.com/search?q=%E7%BD%91%E5%8F%8B%E7%A7%B0LPL%E5%8C%97%E4%BA%ACJDG%E4%B8%BB%E5%9C%BA%E5%A4%A7%E9%87%8F%E4%BD%99%E7%A5%A8%E5%A0%86%E7%A7%AF)
 1. [国考成绩](https://www.zhihu.com/search?q=%E5%9B%BD%E8%80%83%E6%88%90%E7%BB%A9)
 1. [国考分数线公布](https://www.zhihu.com/search?q=%E5%9B%BD%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E5%85%AC%E5%B8%83)
 1. [WBG对战IG](https://www.zhihu.com/search?q=WBG%E5%AF%B9%E6%88%98IG)
