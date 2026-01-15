@@ -11,12 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-01-15 19:27:39 +0800`
+`更新时间：2026-01-15 21:00:35 +0800`
 
 ## 热门搜索
 
-1. [推荐一个耐玩的游戏](https://www.zhihu.com/search?q=%E6%8E%A8%E8%8D%90%E4%B8%80%E4%B8%AA%E8%80%90%E7%8E%A9%E7%9A%84%E6%B8%B8%E6%88%8F)
-1. [死了么app更名为demumu](https://www.zhihu.com/search?q=%E6%AD%BB%E4%BA%86%E4%B9%88app%E6%9B%B4%E5%90%8D%E4%B8%BAdemumu)
+1. [国考成绩公布](https://www.zhihu.com/search?q=%E5%9B%BD%E8%80%83%E6%88%90%E7%BB%A9%E5%85%AC%E5%B8%83)
 1. [国考成绩](https://www.zhihu.com/search?q=%E5%9B%BD%E8%80%83%E6%88%90%E7%BB%A9)
 1. [国考分数线公布](https://www.zhihu.com/search?q=%E5%9B%BD%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E5%85%AC%E5%B8%83)
 1. [降息](https://www.zhihu.com/search?q=%E9%99%8D%E6%81%AF)
@@ -40,6 +39,7 @@
 1. [体制内被边缘化是好事吗](https://www.zhihu.com/search?q=%E4%BD%93%E5%88%B6%E5%86%85%E8%A2%AB%E8%BE%B9%E7%BC%98%E5%8C%96%E6%98%AF%E5%A5%BD%E4%BA%8B%E5%90%97)
 1. [癸酉本石头记是否是真本](https://www.zhihu.com/search?q=%E7%99%B8%E9%85%89%E6%9C%AC%E7%9F%B3%E5%A4%B4%E8%AE%B0%E6%98%AF%E5%90%A6%E6%98%AF%E7%9C%9F%E6%9C%AC)
 1. [比特币升破93000美元](https://www.zhihu.com/search?q=%E6%AF%94%E7%89%B9%E5%B8%81%E5%8D%87%E7%A0%B493000%E7%BE%8E%E5%85%83)
+1. [NBA常规赛](https://www.zhihu.com/search?q=NBA%E5%B8%B8%E8%A7%84%E8%B5%9B)
 
 ## 热门话题
 
