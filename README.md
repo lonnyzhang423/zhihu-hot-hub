@@ -11,13 +11,15 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-01-15 16:40:02 +0800`
+`更新时间：2026-01-15 17:35:26 +0800`
 
 ## 热门搜索
 
 1. [国考成绩公布](https://www.zhihu.com/search?q=%E5%9B%BD%E8%80%83%E6%88%90%E7%BB%A9%E5%85%AC%E5%B8%83)
 1. [国考成绩](https://www.zhihu.com/search?q=%E5%9B%BD%E8%80%83%E6%88%90%E7%BB%A9)
 1. [国考分数线公布](https://www.zhihu.com/search?q=%E5%9B%BD%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E5%85%AC%E5%B8%83)
+1. [WBG对战IG](https://www.zhihu.com/search?q=WBG%E5%AF%B9%E6%88%98IG)
+1. [TES对战JDG](https://www.zhihu.com/search?q=TES%E5%AF%B9%E6%88%98JDG)
 1. [掘金vs鹈鹕](https://www.zhihu.com/search?q=%E6%8E%98%E9%87%91vs%E9%B9%88%E9%B9%95)
 1. [你的低成本爱好是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9A%84%E4%BD%8E%E6%88%90%E6%9C%AC%E7%88%B1%E5%A5%BD%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [邓布利多为什么要让海格成为老师](https://www.zhihu.com/search?q=%E9%82%93%E5%B8%83%E5%88%A9%E5%A4%9A%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E8%AE%A9%E6%B5%B7%E6%A0%BC%E6%88%90%E4%B8%BA%E8%80%81%E5%B8%88)
@@ -38,8 +40,6 @@
 1. [马刺vs雷霆](https://www.zhihu.com/search?q=%E9%A9%AC%E5%88%BAvs%E9%9B%B7%E9%9C%86)
 1. [老干妈营收再破54亿大关](https://www.zhihu.com/search?q=%E8%80%81%E5%B9%B2%E5%A6%88%E8%90%A5%E6%94%B6%E5%86%8D%E7%A0%B454%E4%BA%BF%E5%A4%A7%E5%85%B3)
 1. [世界上最伟大的水果是什么](https://www.zhihu.com/search?q=%E4%B8%96%E7%95%8C%E4%B8%8A%E6%9C%80%E4%BC%9F%E5%A4%A7%E7%9A%84%E6%B0%B4%E6%9E%9C%E6%98%AF%E4%BB%80%E4%B9%88)
-1. [如何看待汉服未来的发展](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E6%B1%89%E6%9C%8D%E6%9C%AA%E6%9D%A5%E7%9A%84%E5%8F%91%E5%B1%95)
-1. [手术时把大脑拿出来还能放回去吗](https://www.zhihu.com/search?q=%E6%89%8B%E6%9C%AF%E6%97%B6%E6%8A%8A%E5%A4%A7%E8%84%91%E6%8B%BF%E5%87%BA%E6%9D%A5%E8%BF%98%E8%83%BD%E6%94%BE%E5%9B%9E%E5%8E%BB%E5%90%97)
 
 ## 热门话题
 
