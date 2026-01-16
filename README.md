@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-01-16 12:33:00 +0800`
+`更新时间：2026-01-16 13:19:08 +0800`
 
 ## 热门搜索
 
-1. [国考成绩公布](https://www.zhihu.com/search?q=%E5%9B%BD%E8%80%83%E6%88%90%E7%BB%A9%E5%85%AC%E5%B8%83)
-1. [国考成绩](https://www.zhihu.com/search?q=%E5%9B%BD%E8%80%83%E6%88%90%E7%BB%A9)
+1. [联发科发布天玑8500、9500s芯片](https://www.zhihu.com/search?q=%E8%81%94%E5%8F%91%E7%A7%91%E5%8F%91%E5%B8%83%E5%A4%A9%E7%8E%918500%E3%80%819500s%E8%8A%AF%E7%89%87)
+1. [陈都灵现身郑州商学院](https://www.zhihu.com/search?q=%E9%99%88%E9%83%BD%E7%81%B5%E7%8E%B0%E8%BA%AB%E9%83%91%E5%B7%9E%E5%95%86%E5%AD%A6%E9%99%A2)
 1. [国考分数线公布](https://www.zhihu.com/search?q=%E5%9B%BD%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E5%85%AC%E5%B8%83)
 1. [降息](https://www.zhihu.com/search?q=%E9%99%8D%E6%81%AF)
 1. [WBG对战IG](https://www.zhihu.com/search?q=WBG%E5%AF%B9%E6%88%98IG)
