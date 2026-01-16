@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-01-16 18:15:06 +0800`
+`更新时间：2026-01-16 19:13:03 +0800`
 
 ## 热门搜索
 
 1. [国考成绩公布](https://www.zhihu.com/search?q=%E5%9B%BD%E8%80%83%E6%88%90%E7%BB%A9%E5%85%AC%E5%B8%83)
+1. [给动物喝白酒会怎样](https://www.zhihu.com/search?q=%E7%BB%99%E5%8A%A8%E7%89%A9%E5%96%9D%E7%99%BD%E9%85%92%E4%BC%9A%E6%80%8E%E6%A0%B7)
 1. [国考成绩](https://www.zhihu.com/search?q=%E5%9B%BD%E8%80%83%E6%88%90%E7%BB%A9)
 1. [国考分数线公布](https://www.zhihu.com/search?q=%E5%9B%BD%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E5%85%AC%E5%B8%83)
 1. [降息](https://www.zhihu.com/search?q=%E9%99%8D%E6%81%AF)
@@ -37,7 +38,6 @@
 1. [体制内被边缘化是好事吗](https://www.zhihu.com/search?q=%E4%BD%93%E5%88%B6%E5%86%85%E8%A2%AB%E8%BE%B9%E7%BC%98%E5%8C%96%E6%98%AF%E5%A5%BD%E4%BA%8B%E5%90%97)
 1. [癸酉本石头记是否是真本](https://www.zhihu.com/search?q=%E7%99%B8%E9%85%89%E6%9C%AC%E7%9F%B3%E5%A4%B4%E8%AE%B0%E6%98%AF%E5%90%A6%E6%98%AF%E7%9C%9F%E6%9C%AC)
 1. [比特币升破93000美元](https://www.zhihu.com/search?q=%E6%AF%94%E7%89%B9%E5%B8%81%E5%8D%87%E7%A0%B493000%E7%BE%8E%E5%85%83)
-1. [认知水平低的人有什么明显特征](https://www.zhihu.com/search?q=%E8%AE%A4%E7%9F%A5%E6%B0%B4%E5%B9%B3%E4%BD%8E%E7%9A%84%E4%BA%BA%E6%9C%89%E4%BB%80%E4%B9%88%E6%98%8E%E6%98%BE%E7%89%B9%E5%BE%81)
 
 ## 热门话题
 
