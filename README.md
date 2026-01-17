@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-01-17 18:28:14 +0800`
+`更新时间：2026-01-17 19:22:58 +0800`
 
 ## 热门搜索
 
-1. [给动物喝白酒会怎样](https://www.zhihu.com/search?q=%E7%BB%99%E5%8A%A8%E7%89%A9%E5%96%9D%E7%99%BD%E9%85%92%E4%BC%9A%E6%80%8E%E6%A0%B7)
+1. [中国天眼又立功了](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E5%A4%A9%E7%9C%BC%E5%8F%88%E7%AB%8B%E5%8A%9F%E4%BA%86)
+1. [正直播NBA：老鹰vs开拓者](https://www.zhihu.com/search?q=%E6%AD%A3%E7%9B%B4%E6%92%ADNBA%EF%BC%9A%E8%80%81%E9%B9%B0vs%E5%BC%80%E6%8B%93%E8%80%85)
 1. [降息](https://www.zhihu.com/search?q=%E9%99%8D%E6%81%AF)
 1. [你的低成本爱好是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9A%84%E4%BD%8E%E6%88%90%E6%9C%AC%E7%88%B1%E5%A5%BD%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [iG对战AL](https://www.zhihu.com/search?q=iG%E5%AF%B9%E6%88%98AL)
