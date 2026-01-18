@@ -11,12 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-01-18 16:17:07 +0800`
+`更新时间：2026-01-18 17:14:01 +0800`
 
 ## 热门搜索
 
-1. [短剧选用11岁女童演替嫁新娘](https://www.zhihu.com/search?q=%E7%9F%AD%E5%89%A7%E9%80%89%E7%94%A811%E5%B2%81%E5%A5%B3%E7%AB%A5%E6%BC%94%E6%9B%BF%E5%AB%81%E6%96%B0%E5%A8%98)
-1. [李湘名下近 7 成企业已注销](https://www.zhihu.com/search?q=%E6%9D%8E%E6%B9%98%E5%90%8D%E4%B8%8B%E8%BF%91%207%20%E6%88%90%E4%BC%81%E4%B8%9A%E5%B7%B2%E6%B3%A8%E9%94%80)
+1. [给动物喝白酒会怎样](https://www.zhihu.com/search?q=%E7%BB%99%E5%8A%A8%E7%89%A9%E5%96%9D%E7%99%BD%E9%85%92%E4%BC%9A%E6%80%8E%E6%A0%B7)
 1. [降息](https://www.zhihu.com/search?q=%E9%99%8D%E6%81%AF)
 1. [你的低成本爱好是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9A%84%E4%BD%8E%E6%88%90%E6%9C%AC%E7%88%B1%E5%A5%BD%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [iG对战AL](https://www.zhihu.com/search?q=iG%E5%AF%B9%E6%88%98AL)
