@@ -11,14 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-01-19 17:42:22 +0800`
+`更新时间：2026-01-19 18:37:18 +0800`
 
 ## 热门搜索
 
-1. [55岁大叔腰痛病历惊现否认怀孕](https://www.zhihu.com/search?q=55%E5%B2%81%E5%A4%A7%E5%8F%94%E8%85%B0%E7%97%9B%E7%97%85%E5%8E%86%E6%83%8A%E7%8E%B0%E5%90%A6%E8%AE%A4%E6%80%80%E5%AD%95)
-1. [切尔西2比0布伦特福德](https://www.zhihu.com/search?q=%E5%88%87%E5%B0%94%E8%A5%BF2%E6%AF%940%E5%B8%83%E4%BC%A6%E7%89%B9%E7%A6%8F%E5%BE%B7)
+1. [JDG战胜AL](https://www.zhihu.com/search?q=JDG%E6%88%98%E8%83%9CAL)
 1. [湖人vs开拓者](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BAvs%E5%BC%80%E6%8B%93%E8%80%85)
-1. [新能源车废旧动力电池回收利用新规发布](https://www.zhihu.com/search?q=%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E5%BA%9F%E6%97%A7%E5%8A%A8%E5%8A%9B%E7%94%B5%E6%B1%A0%E5%9B%9E%E6%94%B6%E5%88%A9%E7%94%A8%E6%96%B0%E8%A7%84%E5%8F%91%E5%B8%83)
 1. [嫣然医院欠款 李亚鹏获捐 800 万](https://www.zhihu.com/search?q=%E5%AB%A3%E7%84%B6%E5%8C%BB%E9%99%A2%E6%AC%A0%E6%AC%BE%20%E6%9D%8E%E4%BA%9A%E9%B9%8F%E8%8E%B7%E6%8D%90%20800%20%E4%B8%87)
 1. [大学生偷外卖被拘通报公示外卖架边](https://www.zhihu.com/search?q=%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%81%B7%E5%A4%96%E5%8D%96%E8%A2%AB%E6%8B%98%E9%80%9A%E6%8A%A5%E5%85%AC%E7%A4%BA%E5%A4%96%E5%8D%96%E6%9E%B6%E8%BE%B9)
 1. [国考笔试成绩和合格分数线公布](https://www.zhihu.com/search?q=%E5%9B%BD%E8%80%83%E7%AC%94%E8%AF%95%E6%88%90%E7%BB%A9%E5%92%8C%E5%90%88%E6%A0%BC%E5%88%86%E6%95%B0%E7%BA%BF%E5%85%AC%E5%B8%83)
@@ -29,6 +27,7 @@
 1. [胖东来599元羽绒服进价457.9元](https://www.zhihu.com/search?q=%E8%83%96%E4%B8%9C%E6%9D%A5599%E5%85%83%E7%BE%BD%E7%BB%92%E6%9C%8D%E8%BF%9B%E4%BB%B7457.9%E5%85%83)
 1. [贾国龙回应罗永浩污蔑诽谤](https://www.zhihu.com/search?q=%E8%B4%BE%E5%9B%BD%E9%BE%99%E5%9B%9E%E5%BA%94%E7%BD%97%E6%B0%B8%E6%B5%A9%E6%B1%A1%E8%94%91%E8%AF%BD%E8%B0%A4)
 1. [幼童在冬季确诊热射病被送 ICU 抢救](https://www.zhihu.com/search?q=%E5%B9%BC%E7%AB%A5%E5%9C%A8%E5%86%AC%E5%AD%A3%E7%A1%AE%E8%AF%8A%E7%83%AD%E5%B0%84%E7%97%85%E8%A2%AB%E9%80%81%20ICU%20%E6%8A%A2%E6%95%91)
+1. [10 款儿童面霜被曝违规添加](https://www.zhihu.com/search?q=10%20%E6%AC%BE%E5%84%BF%E7%AB%A5%E9%9D%A2%E9%9C%9C%E8%A2%AB%E6%9B%9D%E8%BF%9D%E8%A7%84%E6%B7%BB%E5%8A%A0)
 1. [独居经济是下个万亿市场吗](https://www.zhihu.com/search?q=%E7%8B%AC%E5%B1%85%E7%BB%8F%E6%B5%8E%E6%98%AF%E4%B8%8B%E4%B8%AA%E4%B8%87%E4%BA%BF%E5%B8%82%E5%9C%BA%E5%90%97)
 1. [ChatGPT官宣将加入广告](https://www.zhihu.com/search?q=ChatGPT%E5%AE%98%E5%AE%A3%E5%B0%86%E5%8A%A0%E5%85%A5%E5%B9%BF%E5%91%8A)
 1. [我国年用电量首超10万亿千瓦时](https://www.zhihu.com/search?q=%E6%88%91%E5%9B%BD%E5%B9%B4%E7%94%A8%E7%94%B5%E9%87%8F%E9%A6%96%E8%B6%8510%E4%B8%87%E4%BA%BF%E5%8D%83%E7%93%A6%E6%97%B6)
