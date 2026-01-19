@@ -11,11 +11,10 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-01-19 09:08:27 +0800`
+`更新时间：2026-01-19 11:43:04 +0800`
 
 ## 热门搜索
 
-1. [坐高铁再也不用扛行李了](https://www.zhihu.com/search?q=%E5%9D%90%E9%AB%98%E9%93%81%E5%86%8D%E4%B9%9F%E4%B8%8D%E7%94%A8%E6%89%9B%E8%A1%8C%E6%9D%8E%E4%BA%86)
 1. [聂卫平](https://www.zhihu.com/search?q=%E8%81%82%E5%8D%AB%E5%B9%B3)
 1. [聂卫平战日本特意穿了国乒球衣](https://www.zhihu.com/search?q=%E8%81%82%E5%8D%AB%E5%B9%B3%E6%88%98%E6%97%A5%E6%9C%AC%E7%89%B9%E6%84%8F%E7%A9%BF%E4%BA%86%E5%9B%BD%E4%B9%92%E7%90%83%E8%A1%A3)
 1. [聂卫平去世](https://www.zhihu.com/search?q=%E8%81%82%E5%8D%AB%E5%B9%B3%E5%8E%BB%E4%B8%96)
@@ -28,10 +27,10 @@
 1. [胖东来599元羽绒服充绒量213克](https://www.zhihu.com/search?q=%E8%83%96%E4%B8%9C%E6%9D%A5599%E5%85%83%E7%BE%BD%E7%BB%92%E6%9C%8D%E5%85%85%E7%BB%92%E9%87%8F213%E5%85%8B)
 1. [胖东来599元羽绒服进价457.9元](https://www.zhihu.com/search?q=%E8%83%96%E4%B8%9C%E6%9D%A5599%E5%85%83%E7%BE%BD%E7%BB%92%E6%9C%8D%E8%BF%9B%E4%BB%B7457.9%E5%85%83)
 1. [贾国龙回应罗永浩污蔑诽谤](https://www.zhihu.com/search?q=%E8%B4%BE%E5%9B%BD%E9%BE%99%E5%9B%9E%E5%BA%94%E7%BD%97%E6%B0%B8%E6%B5%A9%E6%B1%A1%E8%94%91%E8%AF%BD%E8%B0%A4)
+1. [两千万成年人患注意缺陷多动障碍（ADHD）](https://www.zhihu.com/search?q=%E4%B8%A4%E5%8D%83%E4%B8%87%E6%88%90%E5%B9%B4%E4%BA%BA%E6%82%A3%E6%B3%A8%E6%84%8F%E7%BC%BA%E9%99%B7%E5%A4%9A%E5%8A%A8%E9%9A%9C%E7%A2%8D%EF%BC%88ADHD%EF%BC%89)
 1. [幼童在冬季确诊热射病被送 ICU 抢救](https://www.zhihu.com/search?q=%E5%B9%BC%E7%AB%A5%E5%9C%A8%E5%86%AC%E5%AD%A3%E7%A1%AE%E8%AF%8A%E7%83%AD%E5%B0%84%E7%97%85%E8%A2%AB%E9%80%81%20ICU%20%E6%8A%A2%E6%95%91)
-1. [河南将迎寒冷暴击](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8D%97%E5%B0%86%E8%BF%8E%E5%AF%92%E5%86%B7%E6%9A%B4%E5%87%BB)
-1. [河南累计降温超 20℃](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8D%97%E7%B4%AF%E8%AE%A1%E9%99%8D%E6%B8%A9%E8%B6%85%2020%E2%84%83)
-1. [牧民自曝 200 多只羊被狼群咬死](https://www.zhihu.com/search?q=%E7%89%A7%E6%B0%91%E8%87%AA%E6%9B%9D%20200%20%E5%A4%9A%E5%8F%AA%E7%BE%8A%E8%A2%AB%E7%8B%BC%E7%BE%A4%E5%92%AC%E6%AD%BB)
+1. [10 款儿童面霜被曝违规添加](https://www.zhihu.com/search?q=10%20%E6%AC%BE%E5%84%BF%E7%AB%A5%E9%9D%A2%E9%9C%9C%E8%A2%AB%E6%9B%9D%E8%BF%9D%E8%A7%84%E6%B7%BB%E5%8A%A0)
+1. [独居经济是下个万亿市场吗](https://www.zhihu.com/search?q=%E7%8B%AC%E5%B1%85%E7%BB%8F%E6%B5%8E%E6%98%AF%E4%B8%8B%E4%B8%AA%E4%B8%87%E4%BA%BF%E5%B8%82%E5%9C%BA%E5%90%97)
 
 ## 热门话题
 
