@@ -11,11 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-01-20 19:29:50 +0800`
+`更新时间：2026-01-20 21:05:55 +0800`
 
 ## 热门搜索
 
-1. [取4万元遭盘问报警男子起诉银行](https://www.zhihu.com/search?q=%E5%8F%964%E4%B8%87%E5%85%83%E9%81%AD%E7%9B%98%E9%97%AE%E6%8A%A5%E8%AD%A6%E7%94%B7%E5%AD%90%E8%B5%B7%E8%AF%89%E9%93%B6%E8%A1%8C)
+1. [blg战胜tes](https://www.zhihu.com/search?q=blg%E6%88%98%E8%83%9Ctes)
 1. [河南进入雨雪最强时段](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8D%97%E8%BF%9B%E5%85%A5%E9%9B%A8%E9%9B%AA%E6%9C%80%E5%BC%BA%E6%97%B6%E6%AE%B5)
 1. [为什么现在不创造新的汉字了](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E4%B8%8D%E5%88%9B%E9%80%A0%E6%96%B0%E7%9A%84%E6%B1%89%E5%AD%97%E4%BA%86)
 1. [JDG战胜AL](https://www.zhihu.com/search?q=JDG%E6%88%98%E8%83%9CAL)
