@@ -11,11 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-01-20 19:17:23 +0800`
+`更新时间：2026-01-20 20:30:51 +0800`
 
 ## 热门搜索
 
-1. [blg战胜tes](https://www.zhihu.com/search?q=blg%E6%88%98%E8%83%9Ctes)
+1. [首家月球酒店开放预定](https://www.zhihu.com/search?q=%E9%A6%96%E5%AE%B6%E6%9C%88%E7%90%83%E9%85%92%E5%BA%97%E5%BC%80%E6%94%BE%E9%A2%84%E5%AE%9A)
 1. [河南进入雨雪最强时段](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8D%97%E8%BF%9B%E5%85%A5%E9%9B%A8%E9%9B%AA%E6%9C%80%E5%BC%BA%E6%97%B6%E6%AE%B5)
 1. [为什么现在不创造新的汉字了](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E4%B8%8D%E5%88%9B%E9%80%A0%E6%96%B0%E7%9A%84%E6%B1%89%E5%AD%97%E4%BA%86)
 1. [JDG战胜AL](https://www.zhihu.com/search?q=JDG%E6%88%98%E8%83%9CAL)
