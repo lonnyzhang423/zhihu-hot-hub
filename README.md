@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-01-20 07:27:56 +0800`
+`更新时间：2026-01-20 10:20:09 +0800`
 
 ## 热门搜索
 
-1. [河南进入雨雪最强时段](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8D%97%E8%BF%9B%E5%85%A5%E9%9B%A8%E9%9B%AA%E6%9C%80%E5%BC%BA%E6%97%B6%E6%AE%B5)
+1. [山西介休两车相撞致5人死亡](https://www.zhihu.com/search?q=%E5%B1%B1%E8%A5%BF%E4%BB%8B%E4%BC%91%E4%B8%A4%E8%BD%A6%E7%9B%B8%E6%92%9E%E8%87%B45%E4%BA%BA%E6%AD%BB%E4%BA%A1)
+1. [交易的底层逻辑是什么](https://www.zhihu.com/search?q=%E4%BA%A4%E6%98%93%E7%9A%84%E5%BA%95%E5%B1%82%E9%80%BB%E8%BE%91%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [JDG战胜AL](https://www.zhihu.com/search?q=JDG%E6%88%98%E8%83%9CAL)
 1. [湖人vs开拓者](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BAvs%E5%BC%80%E6%8B%93%E8%80%85)
 1. [力与能量哪一个更为本质](https://www.zhihu.com/search?q=%E5%8A%9B%E4%B8%8E%E8%83%BD%E9%87%8F%E5%93%AA%E4%B8%80%E4%B8%AA%E6%9B%B4%E4%B8%BA%E6%9C%AC%E8%B4%A8)
@@ -38,7 +39,6 @@
 1. [如何低成本照顾自己的心理健康](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E4%BD%8E%E6%88%90%E6%9C%AC%E7%85%A7%E9%A1%BE%E8%87%AA%E5%B7%B1%E7%9A%84%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7)
 1. [你认为学英语最大的阻碍是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E8%AE%A4%E4%B8%BA%E5%AD%A6%E8%8B%B1%E8%AF%AD%E6%9C%80%E5%A4%A7%E7%9A%84%E9%98%BB%E7%A2%8D%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [职场上人和人的差距是怎样拉开的](https://www.zhihu.com/search?q=%E8%81%8C%E5%9C%BA%E4%B8%8A%E4%BA%BA%E5%92%8C%E4%BA%BA%E7%9A%84%E5%B7%AE%E8%B7%9D%E6%98%AF%E6%80%8E%E6%A0%B7%E6%8B%89%E5%BC%80%E7%9A%84)
-1. [如何评价东北近期兴起的馄饨酒馆](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E4%B8%9C%E5%8C%97%E8%BF%91%E6%9C%9F%E5%85%B4%E8%B5%B7%E7%9A%84%E9%A6%84%E9%A5%A8%E9%85%92%E9%A6%86)
 
 ## 热门话题
 
