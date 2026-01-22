@@ -11,13 +11,14 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-01-22 19:16:58 +0800`
+`更新时间：2026-01-22 20:30:11 +0800`
 
 ## 热门搜索
 
 1. [A股](https://www.zhihu.com/search?q=A%E8%82%A1)
 1. [明日方舟终末地](https://www.zhihu.com/search?q=%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F%E7%BB%88%E6%9C%AB%E5%9C%B0)
 1. [给动物喝白酒会怎样](https://www.zhihu.com/search?q=%E7%BB%99%E5%8A%A8%E7%89%A9%E5%96%9D%E7%99%BD%E9%85%92%E4%BC%9A%E6%80%8E%E6%A0%B7)
+1. [肯德基崩了](https://www.zhihu.com/search?q=%E8%82%AF%E5%BE%B7%E5%9F%BA%E5%B4%A9%E4%BA%86)
 1. [lv大秀](https://www.zhihu.com/search?q=lv%E5%A4%A7%E7%A7%80)
 1. [美股三大指数集体收跌](https://www.zhihu.com/search?q=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E6%94%B6%E8%B7%8C)
 1. [河南进入雨雪最强时段](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8D%97%E8%BF%9B%E5%85%A5%E9%9B%A8%E9%9B%AA%E6%9C%80%E5%BC%BA%E6%97%B6%E6%AE%B5)
@@ -38,7 +39,6 @@
 1. [认知水平高的人有什么特征](https://www.zhihu.com/search?q=%E8%AE%A4%E7%9F%A5%E6%B0%B4%E5%B9%B3%E9%AB%98%E7%9A%84%E4%BA%BA%E6%9C%89%E4%BB%80%E4%B9%88%E7%89%B9%E5%BE%81)
 1. [如何评价电视剧新三国](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E7%94%B5%E8%A7%86%E5%89%A7%E6%96%B0%E4%B8%89%E5%9B%BD)
 1. [体制内被边缘化是好事吗](https://www.zhihu.com/search?q=%E4%BD%93%E5%88%B6%E5%86%85%E8%A2%AB%E8%BE%B9%E7%BC%98%E5%8C%96%E6%98%AF%E5%A5%BD%E4%BA%8B%E5%90%97)
-1. [挣钱的本质](https://www.zhihu.com/search?q=%E6%8C%A3%E9%92%B1%E7%9A%84%E6%9C%AC%E8%B4%A8)
 
 ## 热门话题
 
