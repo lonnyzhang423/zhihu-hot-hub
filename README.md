@@ -11,13 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-01-23 19:14:12 +0800`
+`更新时间：2026-01-23 20:29:01 +0800`
 
 ## 热门搜索
 
 1. [明日方舟终末地](https://www.zhihu.com/search?q=%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F%E7%BB%88%E6%9C%AB%E5%9C%B0)
 1. [给动物喝白酒会怎样](https://www.zhihu.com/search?q=%E7%BB%99%E5%8A%A8%E7%89%A9%E5%96%9D%E7%99%BD%E9%85%92%E4%BC%9A%E6%80%8E%E6%A0%B7)
-1. [肯德基崩了](https://www.zhihu.com/search?q=%E8%82%AF%E5%BE%B7%E5%9F%BA%E5%B4%A9%E4%BA%86)
 1. [lv大秀](https://www.zhihu.com/search?q=lv%E5%A4%A7%E7%A7%80)
 1. [黄金价格再创新高](https://www.zhihu.com/search?q=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E5%86%8D%E5%88%9B%E6%96%B0%E9%AB%98)
 1. [如何评价大冰](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E5%A4%A7%E5%86%B0)
@@ -40,6 +39,7 @@
 1. [体制内被边缘化是好事吗](https://www.zhihu.com/search?q=%E4%BD%93%E5%88%B6%E5%86%85%E8%A2%AB%E8%BE%B9%E7%BC%98%E5%8C%96%E6%98%AF%E5%A5%BD%E4%BA%8B%E5%90%97)
 1. [挣钱的本质](https://www.zhihu.com/search?q=%E6%8C%A3%E9%92%B1%E7%9A%84%E6%9C%AC%E8%B4%A8)
 1. [工作多久会对技术祛魅](https://www.zhihu.com/search?q=%E5%B7%A5%E4%BD%9C%E5%A4%9A%E4%B9%85%E4%BC%9A%E5%AF%B9%E6%8A%80%E6%9C%AF%E7%A5%9B%E9%AD%85)
+1. [如何低成本照顾自己的心理健康](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E4%BD%8E%E6%88%90%E6%9C%AC%E7%85%A7%E9%A1%BE%E8%87%AA%E5%B7%B1%E7%9A%84%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7)
 
 ## 热门话题
 
