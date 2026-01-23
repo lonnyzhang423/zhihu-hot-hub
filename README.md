@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-01-23 14:46:14 +0800`
+`更新时间：2026-01-23 15:32:47 +0800`
 
 ## 热门搜索
 
@@ -20,6 +20,7 @@
 1. [肯德基崩了](https://www.zhihu.com/search?q=%E8%82%AF%E5%BE%B7%E5%9F%BA%E5%B4%A9%E4%BA%86)
 1. [lv大秀](https://www.zhihu.com/search?q=lv%E5%A4%A7%E7%A7%80)
 1. [黄金价格再创新高](https://www.zhihu.com/search?q=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E5%86%8D%E5%88%9B%E6%96%B0%E9%AB%98)
+1. [勇士vs独行侠](https://www.zhihu.com/search?q=%E5%8B%87%E5%A3%ABvs%E7%8B%AC%E8%A1%8C%E4%BE%A0)
 1. [哪些东西已经贵到不值得买了](https://www.zhihu.com/search?q=%E5%93%AA%E4%BA%9B%E4%B8%9C%E8%A5%BF%E5%B7%B2%E7%BB%8F%E8%B4%B5%E5%88%B0%E4%B8%8D%E5%80%BC%E5%BE%97%E4%B9%B0%E4%BA%86)
 1. [你的低成本爱好是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9A%84%E4%BD%8E%E6%88%90%E6%9C%AC%E7%88%B1%E5%A5%BD%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [黄金什么时候会大跌](https://www.zhihu.com/search?q=%E9%BB%84%E9%87%91%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E4%BC%9A%E5%A4%A7%E8%B7%8C)
