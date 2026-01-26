@@ -11,12 +11,14 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-01-26 09:09:50 +0800`
+`更新时间：2026-01-26 11:49:47 +0800`
 
 ## 热门搜索
 
 1. [腊八节](https://www.zhihu.com/search?q=%E8%85%8A%E5%85%AB%E8%8A%82)
 1. [亚洲杯](https://www.zhihu.com/search?q=%E4%BA%9A%E6%B4%B2%E6%9D%AF)
+1. [贾国龙回应罗永浩污蔑诽谤](https://www.zhihu.com/search?q=%E8%B4%BE%E5%9B%BD%E9%BE%99%E5%9B%9E%E5%BA%94%E7%BD%97%E6%B0%B8%E6%B5%A9%E6%B1%A1%E8%94%91%E8%AF%BD%E8%B0%A4)
+1. [贾国龙第二篇回应](https://www.zhihu.com/search?q=%E8%B4%BE%E5%9B%BD%E9%BE%99%E7%AC%AC%E4%BA%8C%E7%AF%87%E5%9B%9E%E5%BA%94)
 1. [程序员周末猝死后还收到工作消息](https://www.zhihu.com/search?q=%E7%A8%8B%E5%BA%8F%E5%91%98%E5%91%A8%E6%9C%AB%E7%8C%9D%E6%AD%BB%E5%90%8E%E8%BF%98%E6%94%B6%E5%88%B0%E5%B7%A5%E4%BD%9C%E6%B6%88%E6%81%AF)
 1. [学胖东来的第二年永辉又亏了21亿](https://www.zhihu.com/search?q=%E5%AD%A6%E8%83%96%E4%B8%9C%E6%9D%A5%E7%9A%84%E7%AC%AC%E4%BA%8C%E5%B9%B4%E6%B0%B8%E8%BE%89%E5%8F%88%E4%BA%8F%E4%BA%8621%E4%BA%BF)
 1. [明日方舟终末地正式上线](https://www.zhihu.com/search?q=%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F%E7%BB%88%E6%9C%AB%E5%9C%B0%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF)
@@ -35,9 +37,7 @@
 1. [中国U23对日本U23](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BDU23%E5%AF%B9%E6%97%A5%E6%9C%ACU23)
 1. [U23](https://www.zhihu.com/search?q=U23)
 1. [可可托海发生雪豹伤人事件](https://www.zhihu.com/search?q=%E5%8F%AF%E5%8F%AF%E6%89%98%E6%B5%B7%E5%8F%91%E7%94%9F%E9%9B%AA%E8%B1%B9%E4%BC%A4%E4%BA%BA%E4%BA%8B%E4%BB%B6)
-1. [丰田连续六年全球销量第一](https://www.zhihu.com/search?q=%E4%B8%B0%E7%94%B0%E8%BF%9E%E7%BB%AD%E5%85%AD%E5%B9%B4%E5%85%A8%E7%90%83%E9%94%80%E9%87%8F%E7%AC%AC%E4%B8%80)
 1. [牢A三通一达是什么](https://www.zhihu.com/search?q=%E7%89%A2A%E4%B8%89%E9%80%9A%E4%B8%80%E8%BE%BE%E6%98%AF%E4%BB%80%E4%B9%88)
-1. [国际白银突破100美元关口](https://www.zhihu.com/search?q=%E5%9B%BD%E9%99%85%E7%99%BD%E9%93%B6%E7%AA%81%E7%A0%B4100%E7%BE%8E%E5%85%83%E5%85%B3%E5%8F%A3)
 
 ## 热门话题
 
