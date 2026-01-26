@@ -11,16 +11,19 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-01-26 07:27:37 +0800`
+`更新时间：2026-01-26 10:30:20 +0800`
 
 ## 热门搜索
 
-1. [亚洲杯](https://www.zhihu.com/search?q=%E4%BA%9A%E6%B4%B2%E6%9D%AF)
-1. [程序员周末猝死后还收到工作消息](https://www.zhihu.com/search?q=%E7%A8%8B%E5%BA%8F%E5%91%98%E5%91%A8%E6%9C%AB%E7%8C%9D%E6%AD%BB%E5%90%8E%E8%BF%98%E6%94%B6%E5%88%B0%E5%B7%A5%E4%BD%9C%E6%B6%88%E6%81%AF)
+1. [美国冬季风暴来袭](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E5%86%AC%E5%AD%A3%E9%A3%8E%E6%9A%B4%E6%9D%A5%E8%A2%AD)
 1. [学胖东来的第二年永辉又亏了21亿](https://www.zhihu.com/search?q=%E5%AD%A6%E8%83%96%E4%B8%9C%E6%9D%A5%E7%9A%84%E7%AC%AC%E4%BA%8C%E5%B9%B4%E6%B0%B8%E8%BE%89%E5%8F%88%E4%BA%8F%E4%BA%8621%E4%BA%BF)
+1. [贾国龙回应罗永浩污蔑诽谤](https://www.zhihu.com/search?q=%E8%B4%BE%E5%9B%BD%E9%BE%99%E5%9B%9E%E5%BA%94%E7%BD%97%E6%B0%B8%E6%B5%A9%E6%B1%A1%E8%94%91%E8%AF%BD%E8%B0%A4)
+1. [贾国龙第二篇回应](https://www.zhihu.com/search?q=%E8%B4%BE%E5%9B%BD%E9%BE%99%E7%AC%AC%E4%BA%8C%E7%AF%87%E5%9B%9E%E5%BA%94)
+1. [程序员周末猝死后还收到工作消息](https://www.zhihu.com/search?q=%E7%A8%8B%E5%BA%8F%E5%91%98%E5%91%A8%E6%9C%AB%E7%8C%9D%E6%AD%BB%E5%90%8E%E8%BF%98%E6%94%B6%E5%88%B0%E5%B7%A5%E4%BD%9C%E6%B6%88%E6%81%AF)
 1. [明日方舟终末地正式上线](https://www.zhihu.com/search?q=%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F%E7%BB%88%E6%9C%AB%E5%9C%B0%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF)
 1. [不会用AI的家庭将是新寒门](https://www.zhihu.com/search?q=%E4%B8%8D%E4%BC%9A%E7%94%A8AI%E7%9A%84%E5%AE%B6%E5%BA%AD%E5%B0%86%E6%98%AF%E6%96%B0%E5%AF%92%E9%97%A8)
 1. [90后小伙靠卖饺子年入25亿](https://www.zhihu.com/search?q=90%E5%90%8E%E5%B0%8F%E4%BC%99%E9%9D%A0%E5%8D%96%E9%A5%BA%E5%AD%90%E5%B9%B4%E5%85%A525%E4%BA%BF)
+1. [女教师宿舍病亡两天后被发现](https://www.zhihu.com/search?q=%E5%A5%B3%E6%95%99%E5%B8%88%E5%AE%BF%E8%88%8D%E7%97%85%E4%BA%A1%E4%B8%A4%E5%A4%A9%E5%90%8E%E8%A2%AB%E5%8F%91%E7%8E%B0)
 1. [年轻人为何愿为香气买单](https://www.zhihu.com/search?q=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E4%B8%BA%E4%BD%95%E6%84%BF%E4%B8%BA%E9%A6%99%E6%B0%94%E4%B9%B0%E5%8D%95)
 1. [甜茶小李子争影帝](https://www.zhihu.com/search?q=%E7%94%9C%E8%8C%B6%E5%B0%8F%E6%9D%8E%E5%AD%90%E4%BA%89%E5%BD%B1%E5%B8%9D)
 1. [黄景瑜将上太空](https://www.zhihu.com/search?q=%E9%BB%84%E6%99%AF%E7%91%9C%E5%B0%86%E4%B8%8A%E5%A4%AA%E7%A9%BA)
@@ -31,14 +34,10 @@
 1. [黄金价格逼近 5000 美元目标](https://www.zhihu.com/search?q=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E9%80%BC%E8%BF%91%205000%20%E7%BE%8E%E5%85%83%E7%9B%AE%E6%A0%87)
 1. [智谱 AI 算力告急](https://www.zhihu.com/search?q=%E6%99%BA%E8%B0%B1%20AI%20%E7%AE%97%E5%8A%9B%E5%91%8A%E6%80%A5)
 1. [明日方舟二测埋梗被当成bug](https://www.zhihu.com/search?q=%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F%E4%BA%8C%E6%B5%8B%E5%9F%8B%E6%A2%97%E8%A2%AB%E5%BD%93%E6%88%90bug)
-1. [中国U23对日本U23](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BDU23%E5%AF%B9%E6%97%A5%E6%9C%ACU23)
-1. [U23](https://www.zhihu.com/search?q=U23)
 1. [可可托海发生雪豹伤人事件](https://www.zhihu.com/search?q=%E5%8F%AF%E5%8F%AF%E6%89%98%E6%B5%B7%E5%8F%91%E7%94%9F%E9%9B%AA%E8%B1%B9%E4%BC%A4%E4%BA%BA%E4%BA%8B%E4%BB%B6)
-1. [丰田连续六年全球销量第一](https://www.zhihu.com/search?q=%E4%B8%B0%E7%94%B0%E8%BF%9E%E7%BB%AD%E5%85%AD%E5%B9%B4%E5%85%A8%E7%90%83%E9%94%80%E9%87%8F%E7%AC%AC%E4%B8%80)
 1. [牢A三通一达是什么](https://www.zhihu.com/search?q=%E7%89%A2A%E4%B8%89%E9%80%9A%E4%B8%80%E8%BE%BE%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [国际白银突破100美元关口](https://www.zhihu.com/search?q=%E5%9B%BD%E9%99%85%E7%99%BD%E9%93%B6%E7%AA%81%E7%A0%B4100%E7%BE%8E%E5%85%83%E5%85%B3%E5%8F%A3)
 1. [李行亮称很后悔参加再见爱人](https://www.zhihu.com/search?q=%E6%9D%8E%E8%A1%8C%E4%BA%AE%E7%A7%B0%E5%BE%88%E5%90%8E%E6%82%94%E5%8F%82%E5%8A%A0%E5%86%8D%E8%A7%81%E7%88%B1%E4%BA%BA)
-1. [海底捞点炮制度](https://www.zhihu.com/search?q=%E6%B5%B7%E5%BA%95%E6%8D%9E%E7%82%B9%E7%82%AE%E5%88%B6%E5%BA%A6)
 
 ## 热门话题
 
