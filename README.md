@@ -11,10 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-01-26 07:13:11 +0800`
+`更新时间：2026-01-26 09:09:50 +0800`
 
 ## 热门搜索
 
+1. [腊八节](https://www.zhihu.com/search?q=%E8%85%8A%E5%85%AB%E8%8A%82)
 1. [亚洲杯](https://www.zhihu.com/search?q=%E4%BA%9A%E6%B4%B2%E6%9D%AF)
 1. [程序员周末猝死后还收到工作消息](https://www.zhihu.com/search?q=%E7%A8%8B%E5%BA%8F%E5%91%98%E5%91%A8%E6%9C%AB%E7%8C%9D%E6%AD%BB%E5%90%8E%E8%BF%98%E6%94%B6%E5%88%B0%E5%B7%A5%E4%BD%9C%E6%B6%88%E6%81%AF)
 1. [学胖东来的第二年永辉又亏了21亿](https://www.zhihu.com/search?q=%E5%AD%A6%E8%83%96%E4%B8%9C%E6%9D%A5%E7%9A%84%E7%AC%AC%E4%BA%8C%E5%B9%B4%E6%B0%B8%E8%BE%89%E5%8F%88%E4%BA%8F%E4%BA%8621%E4%BA%BF)
@@ -37,8 +38,6 @@
 1. [丰田连续六年全球销量第一](https://www.zhihu.com/search?q=%E4%B8%B0%E7%94%B0%E8%BF%9E%E7%BB%AD%E5%85%AD%E5%B9%B4%E5%85%A8%E7%90%83%E9%94%80%E9%87%8F%E7%AC%AC%E4%B8%80)
 1. [牢A三通一达是什么](https://www.zhihu.com/search?q=%E7%89%A2A%E4%B8%89%E9%80%9A%E4%B8%80%E8%BE%BE%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [国际白银突破100美元关口](https://www.zhihu.com/search?q=%E5%9B%BD%E9%99%85%E7%99%BD%E9%93%B6%E7%AA%81%E7%A0%B4100%E7%BE%8E%E5%85%83%E5%85%B3%E5%8F%A3)
-1. [李行亮称很后悔参加再见爱人](https://www.zhihu.com/search?q=%E6%9D%8E%E8%A1%8C%E4%BA%AE%E7%A7%B0%E5%BE%88%E5%90%8E%E6%82%94%E5%8F%82%E5%8A%A0%E5%86%8D%E8%A7%81%E7%88%B1%E4%BA%BA)
-1. [海底捞点炮制度](https://www.zhihu.com/search?q=%E6%B5%B7%E5%BA%95%E6%8D%9E%E7%82%B9%E7%82%AE%E5%88%B6%E5%BA%A6)
 
 ## 热门话题
 
