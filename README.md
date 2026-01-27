@@ -11,12 +11,10 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-01-27 14:48:20 +0800`
+`更新时间：2026-01-27 15:35:08 +0800`
 
 ## 热门搜索
 
-1. [张学友婉拒“四大天王”合体](https://www.zhihu.com/search?q=%E5%BC%A0%E5%AD%A6%E5%8F%8B%E5%A9%89%E6%8B%92%E2%80%9C%E5%9B%9B%E5%A4%A7%E5%A4%A9%E7%8E%8B%E2%80%9D%E5%90%88%E4%BD%93)
-1. [腊八蒜为什么会变绿](https://www.zhihu.com/search?q=%E8%85%8A%E5%85%AB%E8%92%9C%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E5%8F%98%E7%BB%BF)
 1. [亚洲杯](https://www.zhihu.com/search?q=%E4%BA%9A%E6%B4%B2%E6%9D%AF)
 1. [你看过最感动的短篇漫画是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9C%8B%E8%BF%87%E6%9C%80%E6%84%9F%E5%8A%A8%E7%9A%84%E7%9F%AD%E7%AF%87%E6%BC%AB%E7%94%BB%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [勇士vs森林狼](https://www.zhihu.com/search?q=%E5%8B%87%E5%A3%ABvs%E6%A3%AE%E6%9E%97%E7%8B%BC)
