@@ -11,14 +11,13 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-01-27 22:37:59 +0800`
+`更新时间：2026-01-27 23:37:04 +0800`
 
 ## 热门搜索
 
-1. [陈汉典lulu婚礼](https://www.zhihu.com/search?q=%E9%99%88%E6%B1%89%E5%85%B8lulu%E5%A9%9A%E7%A4%BC)
-1. [勇士vs森林狼](https://www.zhihu.com/search?q=%E5%8B%87%E5%A3%ABvs%E6%A3%AE%E6%9E%97%E7%8B%BC)
+1. [为什么现在不创造新的汉字了](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E4%B8%8D%E5%88%9B%E9%80%A0%E6%96%B0%E7%9A%84%E6%B1%89%E5%AD%97%E4%BA%86)
 1. [如何评价大冰](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E5%A4%A7%E5%86%B0)
-1. [火箭vs活塞](https://www.zhihu.com/search?q=%E7%81%AB%E7%AE%ADvs%E6%B4%BB%E5%A1%9E)
+1. [勇士vs森林狼](https://www.zhihu.com/search?q=%E5%8B%87%E5%A3%ABvs%E6%A3%AE%E6%9E%97%E7%8B%BC)
 1. [腊八美食图鉴](https://www.zhihu.com/search?q=%E8%85%8A%E5%85%AB%E7%BE%8E%E9%A3%9F%E5%9B%BE%E9%89%B4)
 1. [火箭vs灰熊](https://www.zhihu.com/search?q=%E7%81%AB%E7%AE%ADvs%E7%81%B0%E7%86%8A)
 1. [阿森纳vs曼联](https://www.zhihu.com/search?q=%E9%98%BF%E6%A3%AE%E7%BA%B3vs%E6%9B%BC%E8%81%94)
