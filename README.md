@@ -11,14 +11,14 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-01-27 21:06:15 +0800`
+`更新时间：2026-01-27 22:37:59 +0800`
 
 ## 热门搜索
 
-1. [亚洲杯](https://www.zhihu.com/search?q=%E4%BA%9A%E6%B4%B2%E6%9D%AF)
-1. [为什么现在不创造新的汉字了](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E4%B8%8D%E5%88%9B%E9%80%A0%E6%96%B0%E7%9A%84%E6%B1%89%E5%AD%97%E4%BA%86)
-1. [如何评价大冰](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E5%A4%A7%E5%86%B0)
+1. [陈汉典lulu婚礼](https://www.zhihu.com/search?q=%E9%99%88%E6%B1%89%E5%85%B8lulu%E5%A9%9A%E7%A4%BC)
 1. [勇士vs森林狼](https://www.zhihu.com/search?q=%E5%8B%87%E5%A3%ABvs%E6%A3%AE%E6%9E%97%E7%8B%BC)
+1. [如何评价大冰](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E5%A4%A7%E5%86%B0)
+1. [火箭vs活塞](https://www.zhihu.com/search?q=%E7%81%AB%E7%AE%ADvs%E6%B4%BB%E5%A1%9E)
 1. [腊八美食图鉴](https://www.zhihu.com/search?q=%E8%85%8A%E5%85%AB%E7%BE%8E%E9%A3%9F%E5%9B%BE%E9%89%B4)
 1. [火箭vs灰熊](https://www.zhihu.com/search?q=%E7%81%AB%E7%AE%ADvs%E7%81%B0%E7%86%8A)
 1. [阿森纳vs曼联](https://www.zhihu.com/search?q=%E9%98%BF%E6%A3%AE%E7%BA%B3vs%E6%9B%BC%E8%81%94)
@@ -40,6 +40,7 @@
 1. [挣钱的本质](https://www.zhihu.com/search?q=%E6%8C%A3%E9%92%B1%E7%9A%84%E6%9C%AC%E8%B4%A8)
 1. [为什么一定要频繁记录自己](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%80%E5%AE%9A%E8%A6%81%E9%A2%91%E7%B9%81%E8%AE%B0%E5%BD%95%E8%87%AA%E5%B7%B1)
 1. [猪肉好吃又简单的做法](https://www.zhihu.com/search?q=%E7%8C%AA%E8%82%89%E5%A5%BD%E5%90%83%E5%8F%88%E7%AE%80%E5%8D%95%E7%9A%84%E5%81%9A%E6%B3%95)
+1. [认知水平低的人有什么明显特征](https://www.zhihu.com/search?q=%E8%AE%A4%E7%9F%A5%E6%B0%B4%E5%B9%B3%E4%BD%8E%E7%9A%84%E4%BA%BA%E6%9C%89%E4%BB%80%E4%B9%88%E6%98%8E%E6%98%BE%E7%89%B9%E5%BE%81)
 
 ## 热门话题
 
