@@ -11,10 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-01-29 12:00:42 +0800`
+`更新时间：2026-01-29 13:07:56 +0800`
 
 ## 热门搜索
 
+1. [美联储维持利率不变](https://www.zhihu.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8%E7%BB%B4%E6%8C%81%E5%88%A9%E7%8E%87%E4%B8%8D%E5%8F%98)
 1. [勇士vs森林狼](https://www.zhihu.com/search?q=%E5%8B%87%E5%A3%ABvs%E6%A3%AE%E6%9E%97%E7%8B%BC)
 1. [火箭vs灰熊](https://www.zhihu.com/search?q=%E7%81%AB%E7%AE%ADvs%E7%81%B0%E7%86%8A)
 1. [哪些东西已经贵到不值得买了](https://www.zhihu.com/search?q=%E5%93%AA%E4%BA%9B%E4%B8%9C%E8%A5%BF%E5%B7%B2%E7%BB%8F%E8%B4%B5%E5%88%B0%E4%B8%8D%E5%80%BC%E5%BE%97%E4%B9%B0%E4%BA%86)
