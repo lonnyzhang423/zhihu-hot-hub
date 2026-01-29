@@ -11,12 +11,13 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-01-29 14:35:51 +0800`
+`更新时间：2026-01-29 15:34:27 +0800`
 
 ## 热门搜索
 
 1. [美联储维持利率不变](https://www.zhihu.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8%E7%BB%B4%E6%8C%81%E5%88%A9%E7%8E%87%E4%B8%8D%E5%8F%98)
 1. [勇士vs森林狼](https://www.zhihu.com/search?q=%E5%8B%87%E5%A3%ABvs%E6%A3%AE%E6%9E%97%E7%8B%BC)
+1. [湖人vs骑士](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BAvs%E9%AA%91%E5%A3%AB)
 1. [火箭vs灰熊](https://www.zhihu.com/search?q=%E7%81%AB%E7%AE%ADvs%E7%81%B0%E7%86%8A)
 1. [哪些东西已经贵到不值得买了](https://www.zhihu.com/search?q=%E5%93%AA%E4%BA%9B%E4%B8%9C%E8%A5%BF%E5%B7%B2%E7%BB%8F%E8%B4%B5%E5%88%B0%E4%B8%8D%E5%80%BC%E5%BE%97%E4%B9%B0%E4%BA%86)
 1. [你觉得学英语最大的阻碍是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E8%A7%89%E5%BE%97%E5%AD%A6%E8%8B%B1%E8%AF%AD%E6%9C%80%E5%A4%A7%E7%9A%84%E9%98%BB%E7%A2%8D%E6%98%AF%E4%BB%80%E4%B9%88)
@@ -27,6 +28,7 @@
 1. [黄金什么时候会大跌](https://www.zhihu.com/search?q=%E9%BB%84%E9%87%91%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E4%BC%9A%E5%A4%A7%E8%B7%8C)
 1. [为什么欧洲人画不出动人的写意画](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%AC%A7%E6%B4%B2%E4%BA%BA%E7%94%BB%E4%B8%8D%E5%87%BA%E5%8A%A8%E4%BA%BA%E7%9A%84%E5%86%99%E6%84%8F%E7%94%BB)
 1. [什么家庭能养出松弛感的孩子](https://www.zhihu.com/search?q=%E4%BB%80%E4%B9%88%E5%AE%B6%E5%BA%AD%E8%83%BD%E5%85%BB%E5%87%BA%E6%9D%BE%E5%BC%9B%E6%84%9F%E7%9A%84%E5%AD%A9%E5%AD%90)
+1. [快船vs爵士](https://www.zhihu.com/search?q=%E5%BF%AB%E8%88%B9vs%E7%88%B5%E5%A3%AB)
 1. [提升自己最快的方式是什么](https://www.zhihu.com/search?q=%E6%8F%90%E5%8D%87%E8%87%AA%E5%B7%B1%E6%9C%80%E5%BF%AB%E7%9A%84%E6%96%B9%E5%BC%8F%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [什么行为极大改善了你的心理健康](https://www.zhihu.com/search?q=%E4%BB%80%E4%B9%88%E8%A1%8C%E4%B8%BA%E6%9E%81%E5%A4%A7%E6%94%B9%E5%96%84%E4%BA%86%E4%BD%A0%E7%9A%84%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7)
 1. [如何评价电视剧新三国](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E7%94%B5%E8%A7%86%E5%89%A7%E6%96%B0%E4%B8%89%E5%9B%BD)
@@ -36,8 +38,6 @@
 1. [猪肉好吃又简单的做法](https://www.zhihu.com/search?q=%E7%8C%AA%E8%82%89%E5%A5%BD%E5%90%83%E5%8F%88%E7%AE%80%E5%8D%95%E7%9A%84%E5%81%9A%E6%B3%95)
 1. [认知水平低的人有什么明显特征](https://www.zhihu.com/search?q=%E8%AE%A4%E7%9F%A5%E6%B0%B4%E5%B9%B3%E4%BD%8E%E7%9A%84%E4%BA%BA%E6%9C%89%E4%BB%80%E4%B9%88%E6%98%8E%E6%98%BE%E7%89%B9%E5%BE%81)
 1. [年终了你准备回家过年吗](https://www.zhihu.com/search?q=%E5%B9%B4%E7%BB%88%E4%BA%86%E4%BD%A0%E5%87%86%E5%A4%87%E5%9B%9E%E5%AE%B6%E8%BF%87%E5%B9%B4%E5%90%97)
-1. [如何看待汉服未来的发展](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E6%B1%89%E6%9C%8D%E6%9C%AA%E6%9D%A5%E7%9A%84%E5%8F%91%E5%B1%95)
-1. [旅游是不是要趁年轻才有意思](https://www.zhihu.com/search?q=%E6%97%85%E6%B8%B8%E6%98%AF%E4%B8%8D%E6%98%AF%E8%A6%81%E8%B6%81%E5%B9%B4%E8%BD%BB%E6%89%8D%E6%9C%89%E6%84%8F%E6%80%9D)
 
 ## 热门话题
 
