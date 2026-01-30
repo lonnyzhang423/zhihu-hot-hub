@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-01-30 18:42:54 +0800`
+`更新时间：2026-01-30 19:35:21 +0800`
 
 ## 热门搜索
 
-1. [特斯拉在欧洲销量持续降温](https://www.zhihu.com/search?q=%E7%89%B9%E6%96%AF%E6%8B%89%E5%9C%A8%E6%AC%A7%E6%B4%B2%E9%94%80%E9%87%8F%E6%8C%81%E7%BB%AD%E9%99%8D%E6%B8%A9)
+1. [美联储维持利率不变](https://www.zhihu.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8%E7%BB%B4%E6%8C%81%E5%88%A9%E7%8E%87%E4%B8%8D%E5%8F%98)
+1. [提升自己最快的方式](https://www.zhihu.com/search?q=%E6%8F%90%E5%8D%87%E8%87%AA%E5%B7%B1%E6%9C%80%E5%BF%AB%E7%9A%84%E6%96%B9%E5%BC%8F)
 1. [沪深两市成交额突破5000亿元](https://www.zhihu.com/search?q=%E6%B2%AA%E6%B7%B1%E4%B8%A4%E5%B8%82%E6%88%90%E4%BA%A4%E9%A2%9D%E7%AA%81%E7%A0%B45000%E4%BA%BF%E5%85%83)
 1. [美联储宣布维持基准利率不变](https://www.zhihu.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8%E5%AE%A3%E5%B8%83%E7%BB%B4%E6%8C%81%E5%9F%BA%E5%87%86%E5%88%A9%E7%8E%87%E4%B8%8D%E5%8F%98)
 1. [奇拉比为什么能打过佐助](https://www.zhihu.com/search?q=%E5%A5%87%E6%8B%89%E6%AF%94%E4%B8%BA%E4%BB%80%E4%B9%88%E8%83%BD%E6%89%93%E8%BF%87%E4%BD%90%E5%8A%A9)
