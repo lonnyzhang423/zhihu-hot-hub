@@ -11,10 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-01-30 22:41:23 +0800`
+`更新时间：2026-01-30 23:43:05 +0800`
 
 ## 热门搜索
 
+1. [周大生店员反问顾客买得起吗](https://www.zhihu.com/search?q=%E5%91%A8%E5%A4%A7%E7%94%9F%E5%BA%97%E5%91%98%E5%8F%8D%E9%97%AE%E9%A1%BE%E5%AE%A2%E4%B9%B0%E5%BE%97%E8%B5%B7%E5%90%97)
 1. [沪深两市成交额突破5000亿元](https://www.zhihu.com/search?q=%E6%B2%AA%E6%B7%B1%E4%B8%A4%E5%B8%82%E6%88%90%E4%BA%A4%E9%A2%9D%E7%AA%81%E7%A0%B45000%E4%BA%BF%E5%85%83)
 1. [美联储宣布维持基准利率不变](https://www.zhihu.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8%E5%AE%A3%E5%B8%83%E7%BB%B4%E6%8C%81%E5%9F%BA%E5%87%86%E5%88%A9%E7%8E%87%E4%B8%8D%E5%8F%98)
 1. [奇拉比为什么能打过佐助](https://www.zhihu.com/search?q=%E5%A5%87%E6%8B%89%E6%AF%94%E4%B8%BA%E4%BB%80%E4%B9%88%E8%83%BD%E6%89%93%E8%BF%87%E4%BD%90%E5%8A%A9)
