@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-01-30 07:34:09 +0800`
+`更新时间：2026-01-30 10:39:41 +0800`
 
 ## 热门搜索
 
@@ -40,7 +40,6 @@
 1. [猪肉好吃又简单的做法](https://www.zhihu.com/search?q=%E7%8C%AA%E8%82%89%E5%A5%BD%E5%90%83%E5%8F%88%E7%AE%80%E5%8D%95%E7%9A%84%E5%81%9A%E6%B3%95)
 1. [人到中年为什么对很多事没了兴趣](https://www.zhihu.com/search?q=%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E4%B8%BA%E4%BB%80%E4%B9%88%E5%AF%B9%E5%BE%88%E5%A4%9A%E4%BA%8B%E6%B2%A1%E4%BA%86%E5%85%B4%E8%B6%A3)
 1. [认知水平低的人有什么明显特征](https://www.zhihu.com/search?q=%E8%AE%A4%E7%9F%A5%E6%B0%B4%E5%B9%B3%E4%BD%8E%E7%9A%84%E4%BA%BA%E6%9C%89%E4%BB%80%E4%B9%88%E6%98%8E%E6%98%BE%E7%89%B9%E5%BE%81)
-1. [年终了你准备回家过年吗](https://www.zhihu.com/search?q=%E5%B9%B4%E7%BB%88%E4%BA%86%E4%BD%A0%E5%87%86%E5%A4%87%E5%9B%9E%E5%AE%B6%E8%BF%87%E5%B9%B4%E5%90%97)
 
 ## 热门话题
 
