@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-02-02 21:16:35 +0800`
+`更新时间：2026-02-02 22:50:36 +0800`
 
 ## 热门搜索
 
@@ -33,7 +33,6 @@
 1. [和好朋友渐行渐远是必然吗](https://www.zhihu.com/search?q=%E5%92%8C%E5%A5%BD%E6%9C%8B%E5%8F%8B%E6%B8%90%E8%A1%8C%E6%B8%90%E8%BF%9C%E6%98%AF%E5%BF%85%E7%84%B6%E5%90%97)
 1. [战锤里面的机魂是什么](https://www.zhihu.com/search?q=%E6%88%98%E9%94%A4%E9%87%8C%E9%9D%A2%E7%9A%84%E6%9C%BA%E9%AD%82%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [为什么会有人中美人计](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E6%9C%89%E4%BA%BA%E4%B8%AD%E7%BE%8E%E4%BA%BA%E8%AE%A1)
-1. [网传陕西某高校买卖职称评教授](https://www.zhihu.com/search?q=%E7%BD%91%E4%BC%A0%E9%99%95%E8%A5%BF%E6%9F%90%E9%AB%98%E6%A0%A1%E4%B9%B0%E5%8D%96%E8%81%8C%E7%A7%B0%E8%AF%84%E6%95%99%E6%8E%88)
 1. [金价暴涨背后的原因](https://www.zhihu.com/search?q=%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E8%83%8C%E5%90%8E%E7%9A%84%E5%8E%9F%E5%9B%A0)
 1. [三角洲s8新赛季开启](https://www.zhihu.com/search?q=%E4%B8%89%E8%A7%92%E6%B4%B2s8%E6%96%B0%E8%B5%9B%E5%AD%A3%E5%BC%80%E5%90%AF)
 1. [高盛 CEO 建议年轻人多投股票少投金](https://www.zhihu.com/search?q=%E9%AB%98%E7%9B%9B%20CEO%20%E5%BB%BA%E8%AE%AE%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%A4%9A%E6%8A%95%E8%82%A1%E7%A5%A8%E5%B0%91%E6%8A%95%E9%87%91)
@@ -42,6 +41,7 @@
 1. [猝死程序员公司HR离职](https://www.zhihu.com/search?q=%E7%8C%9D%E6%AD%BB%E7%A8%8B%E5%BA%8F%E5%91%98%E5%85%AC%E5%8F%B8HR%E7%A6%BB%E8%81%8C)
 1. [缅北徐老发犯罪集团案宣判一人死缓](https://www.zhihu.com/search?q=%E7%BC%85%E5%8C%97%E5%BE%90%E8%80%81%E5%8F%91%E7%8A%AF%E7%BD%AA%E9%9B%86%E5%9B%A2%E6%A1%88%E5%AE%A3%E5%88%A4%E4%B8%80%E4%BA%BA%E6%AD%BB%E7%BC%93)
 1. [好想来回应被质疑称不准](https://www.zhihu.com/search?q=%E5%A5%BD%E6%83%B3%E6%9D%A5%E5%9B%9E%E5%BA%94%E8%A2%AB%E8%B4%A8%E7%96%91%E7%A7%B0%E4%B8%8D%E5%87%86)
+1. [百度PaddleOCR-VL-1.5全球首破](https://www.zhihu.com/search?q=%E7%99%BE%E5%BA%A6PaddleOCR-VL-1.5%E5%85%A8%E7%90%83%E9%A6%96%E7%A0%B4)
 
 ## 热门话题
 
