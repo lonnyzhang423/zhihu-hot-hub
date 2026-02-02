@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-02-02 07:16:46 +0800`
+`更新时间：2026-02-02 09:18:20 +0800`
 
 ## 热门搜索
 
@@ -20,13 +20,13 @@
 1. [大学生东北冻伤 手指或截肢](https://www.zhihu.com/search?q=%E5%A4%A7%E5%AD%A6%E7%94%9F%E4%B8%9C%E5%8C%97%E5%86%BB%E4%BC%A4%20%E6%89%8B%E6%8C%87%E6%88%96%E6%88%AA%E8%82%A2)
 1. [146光年外发现一颗冰冻地球](https://www.zhihu.com/search?q=146%E5%85%89%E5%B9%B4%E5%A4%96%E5%8F%91%E7%8E%B0%E4%B8%80%E9%A2%97%E5%86%B0%E5%86%BB%E5%9C%B0%E7%90%83)
 1. [中国不仅是世界工厂更愿做世界市场](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E4%B8%8D%E4%BB%85%E6%98%AF%E4%B8%96%E7%95%8C%E5%B7%A5%E5%8E%82%E6%9B%B4%E6%84%BF%E5%81%9A%E4%B8%96%E7%95%8C%E5%B8%82%E5%9C%BA)
+1. [猝死程序员公司HR离职](https://www.zhihu.com/search?q=%E7%8C%9D%E6%AD%BB%E7%A8%8B%E5%BA%8F%E5%91%98%E5%85%AC%E5%8F%B8HR%E7%A6%BB%E8%81%8C)
 1. [好想来回应被质疑称不准](https://www.zhihu.com/search?q=%E5%A5%BD%E6%83%B3%E6%9D%A5%E5%9B%9E%E5%BA%94%E8%A2%AB%E8%B4%A8%E7%96%91%E7%A7%B0%E4%B8%8D%E5%87%86)
 1. [「反向春运」火了](https://www.zhihu.com/search?q=%E3%80%8C%E5%8F%8D%E5%90%91%E6%98%A5%E8%BF%90%E3%80%8D%E7%81%AB%E4%BA%86)
 1. [快递小哥反对春节不打烊](https://www.zhihu.com/search?q=%E5%BF%AB%E9%80%92%E5%B0%8F%E5%93%A5%E5%8F%8D%E5%AF%B9%E6%98%A5%E8%8A%82%E4%B8%8D%E6%89%93%E7%83%8A)
 1. [黄金、白银暴跌](https://www.zhihu.com/search?q=%E9%BB%84%E9%87%91%E3%80%81%E7%99%BD%E9%93%B6%E6%9A%B4%E8%B7%8C)
 1. [恋综《日落时分说爱你》热播](https://www.zhihu.com/search?q=%E6%81%8B%E7%BB%BC%E3%80%8A%E6%97%A5%E8%90%BD%E6%97%B6%E5%88%86%E8%AF%B4%E7%88%B1%E4%BD%A0%E3%80%8B%E7%83%AD%E6%92%AD)
 1. [德约3-2逆转辛纳进澳网决赛](https://www.zhihu.com/search?q=%E5%BE%B7%E7%BA%A63-2%E9%80%86%E8%BD%AC%E8%BE%9B%E7%BA%B3%E8%BF%9B%E6%BE%B3%E7%BD%91%E5%86%B3%E8%B5%9B)
-1. [网友把速效救心丸当抗累神器](https://www.zhihu.com/search?q=%E7%BD%91%E5%8F%8B%E6%8A%8A%E9%80%9F%E6%95%88%E6%95%91%E5%BF%83%E4%B8%B8%E5%BD%93%E6%8A%97%E7%B4%AF%E7%A5%9E%E5%99%A8)
 1. [男子投保8年才知20年返本是谎言](https://www.zhihu.com/search?q=%E7%94%B7%E5%AD%90%E6%8A%95%E4%BF%9D8%E5%B9%B4%E6%89%8D%E7%9F%A520%E5%B9%B4%E8%BF%94%E6%9C%AC%E6%98%AF%E8%B0%8E%E8%A8%80)
 1. [成龙自曝患ADHD](https://www.zhihu.com/search?q=%E6%88%90%E9%BE%99%E8%87%AA%E6%9B%9D%E6%82%A3ADHD)
 1. [舟山守岛人招聘火爆](https://www.zhihu.com/search?q=%E8%88%9F%E5%B1%B1%E5%AE%88%E5%B2%9B%E4%BA%BA%E6%8B%9B%E8%81%98%E7%81%AB%E7%88%86)
