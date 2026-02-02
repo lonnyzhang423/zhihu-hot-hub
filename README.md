@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-02-03 00:27:33 +0800`
+`更新时间：2026-02-03 01:31:19 +0800`
 
 ## 热门搜索
 
-1. [已有4000家绝味鸭脖倒下](https://www.zhihu.com/search?q=%E5%B7%B2%E6%9C%894000%E5%AE%B6%E7%BB%9D%E5%91%B3%E9%B8%AD%E8%84%96%E5%80%92%E4%B8%8B)
+1. [A股](https://www.zhihu.com/search?q=A%E8%82%A1)
+1. [热刺vs曼城](https://www.zhihu.com/search?q=%E7%83%AD%E5%88%BAvs%E6%9B%BC%E5%9F%8E)
 1. [公牛vs热火](https://www.zhihu.com/search?q=%E5%85%AC%E7%89%9Bvs%E7%83%AD%E7%81%AB)
 1. [gen战胜hle](https://www.zhihu.com/search?q=gen%E6%88%98%E8%83%9Chle)
 1. [中餐和西餐哪个油腻](https://www.zhihu.com/search?q=%E4%B8%AD%E9%A4%90%E5%92%8C%E8%A5%BF%E9%A4%90%E5%93%AA%E4%B8%AA%E6%B2%B9%E8%85%BB)
