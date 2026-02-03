@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-02-03 07:36:05 +0800`
+`更新时间：2026-02-03 10:46:06 +0800`
 
 ## 热门搜索
 
@@ -38,7 +38,6 @@
 1. [高盛 CEO 建议年轻人多投股票少投金](https://www.zhihu.com/search?q=%E9%AB%98%E7%9B%9B%20CEO%20%E5%BB%BA%E8%AE%AE%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%A4%9A%E6%8A%95%E8%82%A1%E7%A5%A8%E5%B0%91%E6%8A%95%E9%87%91)
 1. [146光年外发现一颗冰冻地球](https://www.zhihu.com/search?q=146%E5%85%89%E5%B9%B4%E5%A4%96%E5%8F%91%E7%8E%B0%E4%B8%80%E9%A2%97%E5%86%B0%E5%86%BB%E5%9C%B0%E7%90%83)
 1. [智能穿戴行业迈入千亿市场](https://www.zhihu.com/search?q=%E6%99%BA%E8%83%BD%E7%A9%BF%E6%88%B4%E8%A1%8C%E4%B8%9A%E8%BF%88%E5%85%A5%E5%8D%83%E4%BA%BF%E5%B8%82%E5%9C%BA)
-1. [猝死程序员公司HR离职](https://www.zhihu.com/search?q=%E7%8C%9D%E6%AD%BB%E7%A8%8B%E5%BA%8F%E5%91%98%E5%85%AC%E5%8F%B8HR%E7%A6%BB%E8%81%8C)
 1. [缅北徐老发犯罪集团案宣判一人死缓](https://www.zhihu.com/search?q=%E7%BC%85%E5%8C%97%E5%BE%90%E8%80%81%E5%8F%91%E7%8A%AF%E7%BD%AA%E9%9B%86%E5%9B%A2%E6%A1%88%E5%AE%A3%E5%88%A4%E4%B8%80%E4%BA%BA%E6%AD%BB%E7%BC%93)
 1. [百度PaddleOCR-VL-1.5全球首破](https://www.zhihu.com/search?q=%E7%99%BE%E5%BA%A6PaddleOCR-VL-1.5%E5%85%A8%E7%90%83%E9%A6%96%E7%A0%B4)
 
