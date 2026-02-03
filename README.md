@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-02-03 12:53:04 +0800`
+`更新时间：2026-02-03 13:56:42 +0800`
 
 ## 热门搜索
 
@@ -36,10 +36,10 @@
 1. [金价暴涨背后的原因](https://www.zhihu.com/search?q=%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E8%83%8C%E5%90%8E%E7%9A%84%E5%8E%9F%E5%9B%A0)
 1. [三角洲s8新赛季开启](https://www.zhihu.com/search?q=%E4%B8%89%E8%A7%92%E6%B4%B2s8%E6%96%B0%E8%B5%9B%E5%AD%A3%E5%BC%80%E5%90%AF)
 1. [146光年外发现一颗冰冻地球](https://www.zhihu.com/search?q=146%E5%85%89%E5%B9%B4%E5%A4%96%E5%8F%91%E7%8E%B0%E4%B8%80%E9%A2%97%E5%86%B0%E5%86%BB%E5%9C%B0%E7%90%83)
-1. [智能穿戴行业迈入千亿市场](https://www.zhihu.com/search?q=%E6%99%BA%E8%83%BD%E7%A9%BF%E6%88%B4%E8%A1%8C%E4%B8%9A%E8%BF%88%E5%85%A5%E5%8D%83%E4%BA%BF%E5%B8%82%E5%9C%BA)
 1. [百度PaddleOCR-VL-1.5全球首破](https://www.zhihu.com/search?q=%E7%99%BE%E5%BA%A6PaddleOCR-VL-1.5%E5%85%A8%E7%90%83%E9%A6%96%E7%A0%B4)
 1. [金晨道歉](https://www.zhihu.com/search?q=%E9%87%91%E6%99%A8%E9%81%93%E6%AD%89)
 1. [为什么有的人可以不需要朋友](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E7%9A%84%E4%BA%BA%E5%8F%AF%E4%BB%A5%E4%B8%8D%E9%9C%80%E8%A6%81%E6%9C%8B%E5%8F%8B)
+1. [专家回应大批中成药将退出市场](https://www.zhihu.com/search?q=%E4%B8%93%E5%AE%B6%E5%9B%9E%E5%BA%94%E5%A4%A7%E6%89%B9%E4%B8%AD%E6%88%90%E8%8D%AF%E5%B0%86%E9%80%80%E5%87%BA%E5%B8%82%E5%9C%BA)
 
 ## 热门话题
 
