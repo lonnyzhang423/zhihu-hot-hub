@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-02-03 19:27:31 +0800`
+`更新时间：2026-02-03 20:38:08 +0800`
 
 ## 热门搜索
 
@@ -33,6 +33,7 @@
 1. [如何变成一个特别会说话的人](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E5%8F%98%E6%88%90%E4%B8%80%E4%B8%AA%E7%89%B9%E5%88%AB%E4%BC%9A%E8%AF%B4%E8%AF%9D%E7%9A%84%E4%BA%BA)
 1. [百度PaddleOCR-VL-1.5全球首破](https://www.zhihu.com/search?q=%E7%99%BE%E5%BA%A6PaddleOCR-VL-1.5%E5%85%A8%E7%90%83%E9%A6%96%E7%A0%B4)
 1. [成龙自曝患ADHD](https://www.zhihu.com/search?q=%E6%88%90%E9%BE%99%E8%87%AA%E6%9B%9D%E6%82%A3ADHD)
+1. [AI建立社交网络Moltbook](https://www.zhihu.com/search?q=AI%E5%BB%BA%E7%AB%8B%E7%A4%BE%E4%BA%A4%E7%BD%91%E7%BB%9CMoltbook)
 1. [春节假期火车票开售](https://www.zhihu.com/search?q=%E6%98%A5%E8%8A%82%E5%81%87%E6%9C%9F%E7%81%AB%E8%BD%A6%E7%A5%A8%E5%BC%80%E5%94%AE)
 1. [员工单日如厕6小时21分钟被解雇](https://www.zhihu.com/search?q=%E5%91%98%E5%B7%A5%E5%8D%95%E6%97%A5%E5%A6%82%E5%8E%956%E5%B0%8F%E6%97%B621%E5%88%86%E9%92%9F%E8%A2%AB%E8%A7%A3%E9%9B%87)
 
