@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-02-04 14:39:19 +0800`
+`更新时间：2026-02-04 15:38:36 +0800`
 
 ## 热门搜索
 
-1. [嘉禾望岗为什么火了](https://www.zhihu.com/search?q=%E5%98%89%E7%A6%BE%E6%9C%9B%E5%B2%97%E4%B8%BA%E4%BB%80%E4%B9%88%E7%81%AB%E4%BA%86)
-1. [自制霉豆腐火了](https://www.zhihu.com/search?q=%E8%87%AA%E5%88%B6%E9%9C%89%E8%B1%86%E8%85%90%E7%81%AB%E4%BA%86)
+1. [周杰伦陈奕迅王俊凯聚餐合照](https://www.zhihu.com/search?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E9%99%88%E5%A5%95%E8%BF%85%E7%8E%8B%E4%BF%8A%E5%87%AF%E8%81%9A%E9%A4%90%E5%90%88%E7%85%A7)
+1. [国投瑞银回应白银LOF巨震](https://www.zhihu.com/search?q=%E5%9B%BD%E6%8A%95%E7%91%9E%E9%93%B6%E5%9B%9E%E5%BA%94%E7%99%BD%E9%93%B6LOF%E5%B7%A8%E9%9C%87)
 1. [格莱美红毯](https://www.zhihu.com/search?q=%E6%A0%BC%E8%8E%B1%E7%BE%8E%E7%BA%A2%E6%AF%AF)
 1. [热刺vs曼城](https://www.zhihu.com/search?q=%E7%83%AD%E5%88%BAvs%E6%9B%BC%E5%9F%8E)
 1. [你看过最感动的短篇漫画是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9C%8B%E8%BF%87%E6%9C%80%E6%84%9F%E5%8A%A8%E7%9A%84%E7%9F%AD%E7%AF%87%E6%BC%AB%E7%94%BB%E6%98%AF%E4%BB%80%E4%B9%88)
