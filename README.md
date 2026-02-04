@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-02-04 21:16:30 +0800`
+`更新时间：2026-02-04 22:49:37 +0800`
 
 ## 热门搜索
 
@@ -26,7 +26,6 @@
 1. [「反向春运」火了](https://www.zhihu.com/search?q=%E3%80%8C%E5%8F%8D%E5%90%91%E6%98%A5%E8%BF%90%E3%80%8D%E7%81%AB%E4%BA%86)
 1. [金晨道歉](https://www.zhihu.com/search?q=%E9%87%91%E6%99%A8%E9%81%93%E6%AD%89)
 1. [AI建立社交网络Moltbook](https://www.zhihu.com/search?q=AI%E5%BB%BA%E7%AB%8B%E7%A4%BE%E4%BA%A4%E7%BD%91%E7%BB%9CMoltbook)
-1. [女孩感染烟曲霉 脑子被啃20个洞](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%A9%E6%84%9F%E6%9F%93%E7%83%9F%E6%9B%B2%E9%9C%89%20%E8%84%91%E5%AD%90%E8%A2%AB%E5%95%8320%E4%B8%AA%E6%B4%9E)
 1. [春节假期火车票开售](https://www.zhihu.com/search?q=%E6%98%A5%E8%8A%82%E5%81%87%E6%9C%9F%E7%81%AB%E8%BD%A6%E7%A5%A8%E5%BC%80%E5%94%AE)
 1. [员工单日如厕6小时21分钟被解雇](https://www.zhihu.com/search?q=%E5%91%98%E5%B7%A5%E5%8D%95%E6%97%A5%E5%A6%82%E5%8E%956%E5%B0%8F%E6%97%B621%E5%88%86%E9%92%9F%E8%A2%AB%E8%A7%A3%E9%9B%87)
 1. [小鹏机器人首秀摔趴被抬走](https://www.zhihu.com/search?q=%E5%B0%8F%E9%B9%8F%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%A6%96%E7%A7%80%E6%91%94%E8%B6%B4%E8%A2%AB%E6%8A%AC%E8%B5%B0)
