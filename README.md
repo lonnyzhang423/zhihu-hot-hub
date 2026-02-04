@@ -11,19 +11,21 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-02-04 18:30:44 +0800`
+`更新时间：2026-02-04 19:26:51 +0800`
 
 ## 热门搜索
 
+1. [立春](https://www.zhihu.com/search?q=%E7%AB%8B%E6%98%A5)
+1. [春运第一天](https://www.zhihu.com/search?q=%E6%98%A5%E8%BF%90%E7%AC%AC%E4%B8%80%E5%A4%A9)
+1. [格莱美红毯](https://www.zhihu.com/search?q=%E6%A0%BC%E8%8E%B1%E7%BE%8E%E7%BA%A2%E6%AF%AF)
+1. [湖人vs篮网](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BAvs%E7%AF%AE%E7%BD%91)
+1. [热刺vs曼城](https://www.zhihu.com/search?q=%E7%83%AD%E5%88%BAvs%E6%9B%BC%E5%9F%8E)
+1. [今晚油价上调](https://www.zhihu.com/search?q=%E4%BB%8A%E6%99%9A%E6%B2%B9%E4%BB%B7%E4%B8%8A%E8%B0%83)
+1. [星穹铁道千星纪游PV](https://www.zhihu.com/search?q=%E6%98%9F%E7%A9%B9%E9%93%81%E9%81%93%E5%8D%83%E6%98%9F%E7%BA%AA%E6%B8%B8PV)
+1. [「反向春运」火了](https://www.zhihu.com/search?q=%E3%80%8C%E5%8F%8D%E5%90%91%E6%98%A5%E8%BF%90%E3%80%8D%E7%81%AB%E4%BA%86)
+1. [金晨道歉](https://www.zhihu.com/search?q=%E9%87%91%E6%99%A8%E9%81%93%E6%AD%89)
 1. [AI建立社交网络Moltbook](https://www.zhihu.com/search?q=AI%E5%BB%BA%E7%AB%8B%E7%A4%BE%E4%BA%A4%E7%BD%91%E7%BB%9CMoltbook)
 1. [女孩感染烟曲霉 脑子被啃20个洞](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%A9%E6%84%9F%E6%9F%93%E7%83%9F%E6%9B%B2%E9%9C%89%20%E8%84%91%E5%AD%90%E8%A2%AB%E5%95%8320%E4%B8%AA%E6%B4%9E)
-1. [立春](https://www.zhihu.com/search?q=%E7%AB%8B%E6%98%A5)
-1. [四川都江堰3.3级地震](https://www.zhihu.com/search?q=%E5%9B%9B%E5%B7%9D%E9%83%BD%E6%B1%9F%E5%A0%B03.3%E7%BA%A7%E5%9C%B0%E9%9C%87)
-1. [中国男篮公布21人集训名单](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E5%85%AC%E5%B8%8321%E4%BA%BA%E9%9B%86%E8%AE%AD%E5%90%8D%E5%8D%95)
-1. [《异环》三测爆火](https://www.zhihu.com/search?q=%E3%80%8A%E5%BC%82%E7%8E%AF%E3%80%8B%E4%B8%89%E6%B5%8B%E7%88%86%E7%81%AB)
-1. [阶跃星辰开源 step 3.5 Flash](https://www.zhihu.com/search?q=%E9%98%B6%E8%B7%83%E6%98%9F%E8%BE%B0%E5%BC%80%E6%BA%90%20step%203.5%20Flash)
-1. [可可西里藏羚羊已突破七万只](https://www.zhihu.com/search?q=%E5%8F%AF%E5%8F%AF%E8%A5%BF%E9%87%8C%E8%97%8F%E7%BE%9A%E7%BE%8A%E5%B7%B2%E7%AA%81%E7%A0%B4%E4%B8%83%E4%B8%87%E5%8F%AA)
-1. [小米SU7 Ultra专属销售团队解散](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3SU7%20Ultra%E4%B8%93%E5%B1%9E%E9%94%80%E5%94%AE%E5%9B%A2%E9%98%9F%E8%A7%A3%E6%95%A3)
 1. [春节假期火车票开售](https://www.zhihu.com/search?q=%E6%98%A5%E8%8A%82%E5%81%87%E6%9C%9F%E7%81%AB%E8%BD%A6%E7%A5%A8%E5%BC%80%E5%94%AE)
 1. [员工单日如厕6小时21分钟被解雇](https://www.zhihu.com/search?q=%E5%91%98%E5%B7%A5%E5%8D%95%E6%97%A5%E5%A6%82%E5%8E%956%E5%B0%8F%E6%97%B621%E5%88%86%E9%92%9F%E8%A2%AB%E8%A7%A3%E9%9B%87)
 1. [小鹏机器人首秀摔趴被抬走](https://www.zhihu.com/search?q=%E5%B0%8F%E9%B9%8F%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%A6%96%E7%A7%80%E6%91%94%E8%B6%B4%E8%A2%AB%E6%8A%AC%E8%B5%B0)
@@ -33,9 +35,8 @@
 1. [张兰起诉播客《M字闲聊》](https://www.zhihu.com/search?q=%E5%BC%A0%E5%85%B0%E8%B5%B7%E8%AF%89%E6%92%AD%E5%AE%A2%E3%80%8AM%E5%AD%97%E9%97%B2%E8%81%8A%E3%80%8B)
 1. [博主患妥瑞症父母误认坏习惯](https://www.zhihu.com/search?q=%E5%8D%9A%E4%B8%BB%E6%82%A3%E5%A6%A5%E7%91%9E%E7%97%87%E7%88%B6%E6%AF%8D%E8%AF%AF%E8%AE%A4%E5%9D%8F%E4%B9%A0%E6%83%AF)
 1. [萌娃喊话寒假不气爸妈](https://www.zhihu.com/search?q=%E8%90%8C%E5%A8%83%E5%96%8A%E8%AF%9D%E5%AF%92%E5%81%87%E4%B8%8D%E6%B0%94%E7%88%B8%E5%A6%88)
-1. [宇树人形机器人极寒环境暴走13万步](https://www.zhihu.com/search?q=%E5%AE%87%E6%A0%91%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%9E%81%E5%AF%92%E7%8E%AF%E5%A2%83%E6%9A%B4%E8%B5%B013%E4%B8%87%E6%AD%A5)
-1. [大 S 真正死因是心脏问题](https://www.zhihu.com/search?q=%E5%A4%A7%20S%20%E7%9C%9F%E6%AD%A3%E6%AD%BB%E5%9B%A0%E6%98%AF%E5%BF%83%E8%84%8F%E9%97%AE%E9%A2%98)
-1. [可可西里打击盗猎故事原型](https://www.zhihu.com/search?q=%E5%8F%AF%E5%8F%AF%E8%A5%BF%E9%87%8C%E6%89%93%E5%87%BB%E7%9B%97%E7%8C%8E%E6%95%85%E4%BA%8B%E5%8E%9F%E5%9E%8B)
+1. [武汉龙门吊倒塌事故致1死1伤](https://www.zhihu.com/search?q=%E6%AD%A6%E6%B1%89%E9%BE%99%E9%97%A8%E5%90%8A%E5%80%92%E5%A1%8C%E4%BA%8B%E6%95%85%E8%87%B41%E6%AD%BB1%E4%BC%A4)
+1. [湖南永兴银楼被拍卖](https://www.zhihu.com/search?q=%E6%B9%96%E5%8D%97%E6%B0%B8%E5%85%B4%E9%93%B6%E6%A5%BC%E8%A2%AB%E6%8B%8D%E5%8D%96)
 
 ## 热门话题
 
