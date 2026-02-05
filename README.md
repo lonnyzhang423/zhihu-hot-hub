@@ -11,11 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-02-05 14:46:48 +0800`
+`更新时间：2026-02-05 15:43:23 +0800`
 
 ## 热门搜索
 
-1. [立春](https://www.zhihu.com/search?q=%E7%AB%8B%E6%98%A5)
+1. [员工酸菜池中吐痰老板被罚百万](https://www.zhihu.com/search?q=%E5%91%98%E5%B7%A5%E9%85%B8%E8%8F%9C%E6%B1%A0%E4%B8%AD%E5%90%90%E7%97%B0%E8%80%81%E6%9D%BF%E8%A2%AB%E7%BD%9A%E7%99%BE%E4%B8%87)
 1. [春运第一天](https://www.zhihu.com/search?q=%E6%98%A5%E8%BF%90%E7%AC%AC%E4%B8%80%E5%A4%A9)
 1. [格莱美红毯](https://www.zhihu.com/search?q=%E6%A0%BC%E8%8E%B1%E7%BE%8E%E7%BA%A2%E6%AF%AF)
 1. [湖人vs篮网](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BAvs%E7%AF%AE%E7%BD%91)
@@ -29,7 +29,7 @@
 1. [金晨道歉](https://www.zhihu.com/search?q=%E9%87%91%E6%99%A8%E9%81%93%E6%AD%89)
 1. [AI建立社交网络Moltbook](https://www.zhihu.com/search?q=AI%E5%BB%BA%E7%AB%8B%E7%A4%BE%E4%BA%A4%E7%BD%91%E7%BB%9CMoltbook)
 1. [三大运营商电信服务增值税率调至9%](https://www.zhihu.com/search?q=%E4%B8%89%E5%A4%A7%E8%BF%90%E8%90%A5%E5%95%86%E7%94%B5%E4%BF%A1%E6%9C%8D%E5%8A%A1%E5%A2%9E%E5%80%BC%E7%A8%8E%E7%8E%87%E8%B0%83%E8%87%B39%25)
-1. [张兰起诉播客《M字闲聊》](https://www.zhihu.com/search?q=%E5%BC%A0%E5%85%B0%E8%B5%B7%E8%AF%89%E6%92%AD%E5%AE%A2%E3%80%8AM%E5%AD%97%E9%97%B2%E8%81%8A%E3%80%8B)
+1. [立春](https://www.zhihu.com/search?q=%E7%AB%8B%E6%98%A5)
 1. [萌娃喊话寒假不气爸妈](https://www.zhihu.com/search?q=%E8%90%8C%E5%A8%83%E5%96%8A%E8%AF%9D%E5%AF%92%E5%81%87%E4%B8%8D%E6%B0%94%E7%88%B8%E5%A6%88)
 1. [武汉龙门吊倒塌事故致1死1伤](https://www.zhihu.com/search?q=%E6%AD%A6%E6%B1%89%E9%BE%99%E9%97%A8%E5%90%8A%E5%80%92%E5%A1%8C%E4%BA%8B%E6%95%85%E8%87%B41%E6%AD%BB1%E4%BC%A4)
 1. [湖南永兴银楼被拍卖](https://www.zhihu.com/search?q=%E6%B9%96%E5%8D%97%E6%B0%B8%E5%85%B4%E9%93%B6%E6%A5%BC%E8%A2%AB%E6%8B%8D%E5%8D%96)
