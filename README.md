@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-02-05 16:55:03 +0800`
+`更新时间：2026-02-05 17:54:52 +0800`
 
 ## 热门搜索
 
@@ -27,7 +27,6 @@
 1. [贾国龙第二篇回应](https://www.zhihu.com/search?q=%E8%B4%BE%E5%9B%BD%E9%BE%99%E7%AC%AC%E4%BA%8C%E7%AF%87%E5%9B%9E%E5%BA%94)
 1. [「反向春运」火了](https://www.zhihu.com/search?q=%E3%80%8C%E5%8F%8D%E5%90%91%E6%98%A5%E8%BF%90%E3%80%8D%E7%81%AB%E4%BA%86)
 1. [金晨道歉](https://www.zhihu.com/search?q=%E9%87%91%E6%99%A8%E9%81%93%E6%AD%89)
-1. [AI建立社交网络Moltbook](https://www.zhihu.com/search?q=AI%E5%BB%BA%E7%AB%8B%E7%A4%BE%E4%BA%A4%E7%BD%91%E7%BB%9CMoltbook)
 1. [三大运营商电信服务增值税率调至9%](https://www.zhihu.com/search?q=%E4%B8%89%E5%A4%A7%E8%BF%90%E8%90%A5%E5%95%86%E7%94%B5%E4%BF%A1%E6%9C%8D%E5%8A%A1%E5%A2%9E%E5%80%BC%E7%A8%8E%E7%8E%87%E8%B0%83%E8%87%B39%25)
 1. [张兰起诉播客《M字闲聊》](https://www.zhihu.com/search?q=%E5%BC%A0%E5%85%B0%E8%B5%B7%E8%AF%89%E6%92%AD%E5%AE%A2%E3%80%8AM%E5%AD%97%E9%97%B2%E8%81%8A%E3%80%8B)
 1. [武汉龙门吊倒塌事故致1死1伤](https://www.zhihu.com/search?q=%E6%AD%A6%E6%B1%89%E9%BE%99%E9%97%A8%E5%90%8A%E5%80%92%E5%A1%8C%E4%BA%8B%E6%95%85%E8%87%B41%E6%AD%BB1%E4%BC%A4)
@@ -35,6 +34,8 @@
 1. [阿尔卡拉斯澳网男单夺冠](https://www.zhihu.com/search?q=%E9%98%BF%E5%B0%94%E5%8D%A1%E6%8B%89%E6%96%AF%E6%BE%B3%E7%BD%91%E7%94%B7%E5%8D%95%E5%A4%BA%E5%86%A0)
 1. [多家新能源车企1月销量公布](https://www.zhihu.com/search?q=%E5%A4%9A%E5%AE%B6%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E4%BC%811%E6%9C%88%E9%94%80%E9%87%8F%E5%85%AC%E5%B8%83)
 1. [于文文演唱会晕倒](https://www.zhihu.com/search?q=%E4%BA%8E%E6%96%87%E6%96%87%E6%BC%94%E5%94%B1%E4%BC%9A%E6%99%95%E5%80%92)
+1. [男婴洗澡久盯浴霸灯右眼永久弱视](https://www.zhihu.com/search?q=%E7%94%B7%E5%A9%B4%E6%B4%97%E6%BE%A1%E4%B9%85%E7%9B%AF%E6%B5%B4%E9%9C%B8%E7%81%AF%E5%8F%B3%E7%9C%BC%E6%B0%B8%E4%B9%85%E5%BC%B1%E8%A7%86)
+1. [韦东奕获聘北京大学长聘副教授](https://www.zhihu.com/search?q=%E9%9F%A6%E4%B8%9C%E5%A5%95%E8%8E%B7%E8%81%98%E5%8C%97%E4%BA%AC%E5%A4%A7%E5%AD%A6%E9%95%BF%E8%81%98%E5%89%AF%E6%95%99%E6%8E%88)
 
 ## 热门话题
 
