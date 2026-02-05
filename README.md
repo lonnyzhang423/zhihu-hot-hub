@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-02-05 19:28:55 +0800`
+`更新时间：2026-02-05 20:39:50 +0800`
 
 ## 热门搜索
 
@@ -33,7 +33,6 @@
 1. [如何评价电视剧新三国](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E7%94%B5%E8%A7%86%E5%89%A7%E6%96%B0%E4%B8%89%E5%9B%BD)
 1. [为什么一定要频繁记录自己](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%80%E5%AE%9A%E8%A6%81%E9%A2%91%E7%B9%81%E8%AE%B0%E5%BD%95%E8%87%AA%E5%B7%B1)
 1. [年终了你准备回家过年吗](https://www.zhihu.com/search?q=%E5%B9%B4%E7%BB%88%E4%BA%86%E4%BD%A0%E5%87%86%E5%A4%87%E5%9B%9E%E5%AE%B6%E8%BF%87%E5%B9%B4%E5%90%97)
-1. [美国斩杀线是什么](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E6%96%A9%E6%9D%80%E7%BA%BF%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [如何戒掉完美主义](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E6%88%92%E6%8E%89%E5%AE%8C%E7%BE%8E%E4%B8%BB%E4%B9%89)
 1. [如何正确使用知乎](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E6%AD%A3%E7%A1%AE%E4%BD%BF%E7%94%A8%E7%9F%A5%E4%B9%8E)
 1. [贾国龙回应罗永浩污蔑诽谤](https://www.zhihu.com/search?q=%E8%B4%BE%E5%9B%BD%E9%BE%99%E5%9B%9E%E5%BA%94%E7%BD%97%E6%B0%B8%E6%B5%A9%E6%B1%A1%E8%94%91%E8%AF%BD%E8%B0%A4)
