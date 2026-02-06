@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-02-06 15:08:32 +0800`
+`更新时间：2026-02-06 16:53:54 +0800`
 
 ## 热门搜索
 
@@ -29,6 +29,7 @@
 1. [如何戒掉完美主义](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E6%88%92%E6%8E%89%E5%AE%8C%E7%BE%8E%E4%B8%BB%E4%B9%89)
 1. [如何正确使用知乎](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E6%AD%A3%E7%A1%AE%E4%BD%BF%E7%94%A8%E7%9F%A5%E4%B9%8E)
 1. [中国网络视听盛典](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%BB%9C%E8%A7%86%E5%90%AC%E7%9B%9B%E5%85%B8)
+1. [为什么社会反感独处的人](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%A4%BE%E4%BC%9A%E5%8F%8D%E6%84%9F%E7%8B%AC%E5%A4%84%E7%9A%84%E4%BA%BA)
 
 ## 热门话题
 
