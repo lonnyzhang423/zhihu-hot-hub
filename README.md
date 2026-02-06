@@ -11,11 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-02-06 15:40:16 +0800`
+`更新时间：2026-02-06 16:31:26 +0800`
 
 ## 热门搜索
 
-1. [为什么猫的形状没有狗多](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8C%AB%E7%9A%84%E5%BD%A2%E7%8A%B6%E6%B2%A1%E6%9C%89%E7%8B%97%E5%A4%9A)
+1. [阿森纳vs切尔西](https://www.zhihu.com/search?q=%E9%98%BF%E6%A3%AE%E7%BA%B3vs%E5%88%87%E5%B0%94%E8%A5%BF)
 1. [你们觉得穷游有意义吗](https://www.zhihu.com/search?q=%E4%BD%A0%E4%BB%AC%E8%A7%89%E5%BE%97%E7%A9%B7%E6%B8%B8%E6%9C%89%E6%84%8F%E4%B9%89%E5%90%97)
 1. [骑士vs快船](https://www.zhihu.com/search?q=%E9%AA%91%E5%A3%ABvs%E5%BF%AB%E8%88%B9)
 1. [中餐和西餐哪个油腻](https://www.zhihu.com/search?q=%E4%B8%AD%E9%A4%90%E5%92%8C%E8%A5%BF%E9%A4%90%E5%93%AA%E4%B8%AA%E6%B2%B9%E8%85%BB)
@@ -29,6 +29,7 @@
 1. [如何戒掉完美主义](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E6%88%92%E6%8E%89%E5%AE%8C%E7%BE%8E%E4%B8%BB%E4%B9%89)
 1. [如何正确使用知乎](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E6%AD%A3%E7%A1%AE%E4%BD%BF%E7%94%A8%E7%9F%A5%E4%B9%8E)
 1. [中国网络视听盛典](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E7%BD%91%E7%BB%9C%E8%A7%86%E5%90%AC%E7%9B%9B%E5%85%B8)
+1. [为什么社会反感独处的人](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%A4%BE%E4%BC%9A%E5%8F%8D%E6%84%9F%E7%8B%AC%E5%A4%84%E7%9A%84%E4%BA%BA)
 
 ## 热门话题
 
