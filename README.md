@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-02-09 06:35:59 +0800`
+`更新时间：2026-02-09 07:38:54 +0800`
 
 ## 热门搜索
 
@@ -22,6 +22,7 @@
 1. [取消中高考是早晚的事](https://www.zhihu.com/search?q=%E5%8F%96%E6%B6%88%E4%B8%AD%E9%AB%98%E8%80%83%E6%98%AF%E6%97%A9%E6%99%9A%E7%9A%84%E4%BA%8B)
 1. [男子住40层因每天等电梯20分钟卖房](https://www.zhihu.com/search?q=%E7%94%B7%E5%AD%90%E4%BD%8F40%E5%B1%82%E5%9B%A0%E6%AF%8F%E5%A4%A9%E7%AD%89%E7%94%B5%E6%A2%AF20%E5%88%86%E9%92%9F%E5%8D%96%E6%88%BF)
 1. [2025微博之夜](https://www.zhihu.com/search?q=2025%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C)
+1. [OpenAI发布GPT-5.3-Codex](https://www.zhihu.com/search?q=OpenAI%E5%8F%91%E5%B8%83GPT-5.3-Codex)
 1. [我国明年起禁隐藏式车门把手](https://www.zhihu.com/search?q=%E6%88%91%E5%9B%BD%E6%98%8E%E5%B9%B4%E8%B5%B7%E7%A6%81%E9%9A%90%E8%97%8F%E5%BC%8F%E8%BD%A6%E9%97%A8%E6%8A%8A%E6%89%8B)
 1. [比特币跌破6.5万美元 ](https://www.zhihu.com/search?q=%E6%AF%94%E7%89%B9%E5%B8%81%E8%B7%8C%E7%A0%B46.5%E4%B8%87%E7%BE%8E%E5%85%83%20)
 1. [景区发巨额年终奖 有人领到45万](https://www.zhihu.com/search?q=%E6%99%AF%E5%8C%BA%E5%8F%91%E5%B7%A8%E9%A2%9D%E5%B9%B4%E7%BB%88%E5%A5%96%20%E6%9C%89%E4%BA%BA%E9%A2%86%E5%88%B045%E4%B8%87)
@@ -37,7 +38,6 @@
 1. [四川大学已成立工作专班](https://www.zhihu.com/search?q=%E5%9B%9B%E5%B7%9D%E5%A4%A7%E5%AD%A6%E5%B7%B2%E6%88%90%E7%AB%8B%E5%B7%A5%E4%BD%9C%E4%B8%93%E7%8F%AD)
 1. [我当了老板也让员工看我表演](https://www.zhihu.com/search?q=%E6%88%91%E5%BD%93%E4%BA%86%E8%80%81%E6%9D%BF%E4%B9%9F%E8%AE%A9%E5%91%98%E5%B7%A5%E7%9C%8B%E6%88%91%E8%A1%A8%E6%BC%94)
 1. [泡泡玛特年会出圈](https://www.zhihu.com/search?q=%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%E5%B9%B4%E4%BC%9A%E5%87%BA%E5%9C%88)
-1. [金晨因交通肇事逃逸被罚1500元](https://www.zhihu.com/search?q=%E9%87%91%E6%99%A8%E5%9B%A0%E4%BA%A4%E9%80%9A%E8%82%87%E4%BA%8B%E9%80%83%E9%80%B8%E8%A2%AB%E7%BD%9A1500%E5%85%83)
 
 ## 热门话题
 
