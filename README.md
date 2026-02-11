@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-02-11 07:31:10 +0800`
+`更新时间：2026-02-11 09:26:10 +0800`
 
 ## 热门搜索
 
-1. [回家过年](https://www.zhihu.com/search?q=%E5%9B%9E%E5%AE%B6%E8%BF%87%E5%B9%B4)
-1. [任天堂直面会](https://www.zhihu.com/search?q=%E4%BB%BB%E5%A4%A9%E5%A0%82%E7%9B%B4%E9%9D%A2%E4%BC%9A)
+1. [千问提醒免单卡除了奶茶还能买年货](https://www.zhihu.com/search?q=%E5%8D%83%E9%97%AE%E6%8F%90%E9%86%92%E5%85%8D%E5%8D%95%E5%8D%A1%E9%99%A4%E4%BA%86%E5%A5%B6%E8%8C%B6%E8%BF%98%E8%83%BD%E4%B9%B0%E5%B9%B4%E8%B4%A7)
+1. [丹麦与美就格陵兰岛谈判未达预期](https://www.zhihu.com/search?q=%E4%B8%B9%E9%BA%A6%E4%B8%8E%E7%BE%8E%E5%B0%B1%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B%E8%B0%88%E5%88%A4%E6%9C%AA%E8%BE%BE%E9%A2%84%E6%9C%9F)
 1. [多家快递春节不打烊](https://www.zhihu.com/search?q=%E5%A4%9A%E5%AE%B6%E5%BF%AB%E9%80%92%E6%98%A5%E8%8A%82%E4%B8%8D%E6%89%93%E7%83%8A)
 1. [春节档预售票房](https://www.zhihu.com/search?q=%E6%98%A5%E8%8A%82%E6%A1%A3%E9%A2%84%E5%94%AE%E7%A5%A8%E6%88%BF)
 1. [为什么现在不创造新的汉字了](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E4%B8%8D%E5%88%9B%E9%80%A0%E6%96%B0%E7%9A%84%E6%B1%89%E5%AD%97%E4%BA%86)
