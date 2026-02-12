@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-02-12 12:15:59 +0800`
+`更新时间：2026-02-12 13:58:32 +0800`
 
 ## 热门搜索
 
-1. [春节档预售票房](https://www.zhihu.com/search?q=%E6%98%A5%E8%8A%82%E6%A1%A3%E9%A2%84%E5%94%AE%E7%A5%A8%E6%88%BF)
+1. [孙颖莎首次夺得亚洲杯女单金牌](https://www.zhihu.com/search?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E9%A6%96%E6%AC%A1%E5%A4%BA%E5%BE%97%E4%BA%9A%E6%B4%B2%E6%9D%AF%E5%A5%B3%E5%8D%95%E9%87%91%E7%89%8C)
+1. [洗车问题难倒一众AI](https://www.zhihu.com/search?q=%E6%B4%97%E8%BD%A6%E9%97%AE%E9%A2%98%E9%9A%BE%E5%80%92%E4%B8%80%E4%BC%97AI)
 1. [步行者vs尼克斯](https://www.zhihu.com/search?q=%E6%AD%A5%E8%A1%8C%E8%80%85vs%E5%B0%BC%E5%85%8B%E6%96%AF)
 1. [你看过最感动的短篇漫画是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9C%8B%E8%BF%87%E6%9C%80%E6%84%9F%E5%8A%A8%E7%9A%84%E7%9F%AD%E7%AF%87%E6%BC%AB%E7%94%BB%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [马刺大胜湖人](https://www.zhihu.com/search?q=%E9%A9%AC%E5%88%BA%E5%A4%A7%E8%83%9C%E6%B9%96%E4%BA%BA)
