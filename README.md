@@ -11,11 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-02-12 15:11:49 +0800`
+`更新时间：2026-02-12 16:57:31 +0800`
 
 ## 热门搜索
 
-1. [春节档预售票房](https://www.zhihu.com/search?q=%E6%98%A5%E8%8A%82%E6%A1%A3%E9%A2%84%E5%94%AE%E7%A5%A8%E6%88%BF)
+1. [英伟达将推高于 RTX 5090 新显卡](https://www.zhihu.com/search?q=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%B0%86%E6%8E%A8%E9%AB%98%E4%BA%8E%20RTX%205090%20%E6%96%B0%E6%98%BE%E5%8D%A1)
 1. [步行者vs尼克斯](https://www.zhihu.com/search?q=%E6%AD%A5%E8%A1%8C%E8%80%85vs%E5%B0%BC%E5%85%8B%E6%96%AF)
 1. [你看过最感动的短篇漫画是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9C%8B%E8%BF%87%E6%9C%80%E6%84%9F%E5%8A%A8%E7%9A%84%E7%9F%AD%E7%AF%87%E6%BC%AB%E7%94%BB%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [马刺大胜湖人](https://www.zhihu.com/search?q=%E9%A9%AC%E5%88%BA%E5%A4%A7%E8%83%9C%E6%B9%96%E4%BA%BA)
