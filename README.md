@@ -11,11 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-02-13 15:54:25 +0800`
+`更新时间：2026-02-13 16:54:02 +0800`
 
 ## 热门搜索
 
-1. [白菊邵云飞离婚](https://www.zhihu.com/search?q=%E7%99%BD%E8%8F%8A%E9%82%B5%E4%BA%91%E9%A3%9E%E7%A6%BB%E5%A9%9A)
+1. [春节档预售票房](https://www.zhihu.com/search?q=%E6%98%A5%E8%8A%82%E6%A1%A3%E9%A2%84%E5%94%AE%E7%A5%A8%E6%88%BF)
 1. [郑钦文vs莱巴金娜](https://www.zhihu.com/search?q=%E9%83%91%E9%92%A6%E6%96%87vs%E8%8E%B1%E5%B7%B4%E9%87%91%E5%A8%9C)
 1. [沪深两市成交额突破1万亿元](https://www.zhihu.com/search?q=%E6%B2%AA%E6%B7%B1%E4%B8%A4%E5%B8%82%E6%88%90%E4%BA%A4%E9%A2%9D%E7%AA%81%E7%A0%B41%E4%B8%87%E4%BA%BF%E5%85%83)
 1. [你看过最感动的短篇漫画是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9C%8B%E8%BF%87%E6%9C%80%E6%84%9F%E5%8A%A8%E7%9A%84%E7%9F%AD%E7%AF%87%E6%BC%AB%E7%94%BB%E6%98%AF%E4%BB%80%E4%B9%88)
