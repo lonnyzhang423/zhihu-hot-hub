@@ -11,11 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-02-13 09:22:38 +0800`
+`更新时间：2026-02-13 12:12:27 +0800`
 
 ## 热门搜索
 
-1. [春节档预售票房](https://www.zhihu.com/search?q=%E6%98%A5%E8%8A%82%E6%A1%A3%E9%A2%84%E5%94%AE%E7%A5%A8%E6%88%BF)
+1. [北京消费者协会依法约谈华住会](https://www.zhihu.com/search?q=%E5%8C%97%E4%BA%AC%E6%B6%88%E8%B4%B9%E8%80%85%E5%8D%8F%E4%BC%9A%E4%BE%9D%E6%B3%95%E7%BA%A6%E8%B0%88%E5%8D%8E%E4%BD%8F%E4%BC%9A)
 1. [郑钦文vs莱巴金娜](https://www.zhihu.com/search?q=%E9%83%91%E9%92%A6%E6%96%87vs%E8%8E%B1%E5%B7%B4%E9%87%91%E5%A8%9C)
 1. [沪深两市成交额突破1万亿元](https://www.zhihu.com/search?q=%E6%B2%AA%E6%B7%B1%E4%B8%A4%E5%B8%82%E6%88%90%E4%BA%A4%E9%A2%9D%E7%AA%81%E7%A0%B41%E4%B8%87%E4%BA%BF%E5%85%83)
 1. [你看过最感动的短篇漫画是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9C%8B%E8%BF%87%E6%9C%80%E6%84%9F%E5%8A%A8%E7%9A%84%E7%9F%AD%E7%AF%87%E6%BC%AB%E7%94%BB%E6%98%AF%E4%BB%80%E4%B9%88)
@@ -28,7 +28,6 @@
 1. [如何评价VisualStudio2026](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7VisualStudio2026)
 1. [有哪些东西已经贵到不值得买了](https://www.zhihu.com/search?q=%E6%9C%89%E5%93%AA%E4%BA%9B%E4%B8%9C%E8%A5%BF%E5%B7%B2%E7%BB%8F%E8%B4%B5%E5%88%B0%E4%B8%8D%E5%80%BC%E5%BE%97%E4%B9%B0%E4%BA%86)
 1. [黄金什么时候会大跌](https://www.zhihu.com/search?q=%E9%BB%84%E9%87%91%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E4%BC%9A%E5%A4%A7%E8%B7%8C)
-1. [黄金什么时候会暴跌](https://www.zhihu.com/search?q=%E9%BB%84%E9%87%91%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E4%BC%9A%E6%9A%B4%E8%B7%8C)
 1. [从体制内出去的人会后悔吗](https://www.zhihu.com/search?q=%E4%BB%8E%E4%BD%93%E5%88%B6%E5%86%85%E5%87%BA%E5%8E%BB%E7%9A%84%E4%BA%BA%E4%BC%9A%E5%90%8E%E6%82%94%E5%90%97)
 1. [什么样的家庭能养出松弛感的孩子](https://www.zhihu.com/search?q=%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E5%AE%B6%E5%BA%AD%E8%83%BD%E5%85%BB%E5%87%BA%E6%9D%BE%E5%BC%9B%E6%84%9F%E7%9A%84%E5%AD%A9%E5%AD%90)
 1. [什么行为改善了你的心理健康](https://www.zhihu.com/search?q=%E4%BB%80%E4%B9%88%E8%A1%8C%E4%B8%BA%E6%94%B9%E5%96%84%E4%BA%86%E4%BD%A0%E7%9A%84%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7)
