@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-02-17 12:10:44 +0800`
+`更新时间：2026-02-17 13:52:21 +0800`
 
 ## 热门搜索
 
@@ -32,12 +32,12 @@
 1. [从体制内出去的人会后悔吗](https://www.zhihu.com/search?q=%E4%BB%8E%E4%BD%93%E5%88%B6%E5%86%85%E5%87%BA%E5%8E%BB%E7%9A%84%E4%BA%BA%E4%BC%9A%E5%90%8E%E6%82%94%E5%90%97)
 1. [川菜为什么最受欢迎](https://www.zhihu.com/search?q=%E5%B7%9D%E8%8F%9C%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%80%E5%8F%97%E6%AC%A2%E8%BF%8E)
 1. [认知水平高的人有什么特征](https://www.zhihu.com/search?q=%E8%AE%A4%E7%9F%A5%E6%B0%B4%E5%B9%B3%E9%AB%98%E7%9A%84%E4%BA%BA%E6%9C%89%E4%BB%80%E4%B9%88%E7%89%B9%E5%BE%81)
+1. [你每天坚持的事情是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E6%AF%8F%E5%A4%A9%E5%9D%9A%E6%8C%81%E7%9A%84%E4%BA%8B%E6%83%85%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [为什么葡萄酒在中国火不起来](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%91%A1%E8%90%84%E9%85%92%E5%9C%A8%E4%B8%AD%E5%9B%BD%E7%81%AB%E4%B8%8D%E8%B5%B7%E6%9D%A5)
 1. [马斯克到底懂多少技术](https://www.zhihu.com/search?q=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%88%B0%E5%BA%95%E6%87%82%E5%A4%9A%E5%B0%91%E6%8A%80%E6%9C%AF)
 1. [为什么社会反感独处的人](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%A4%BE%E4%BC%9A%E5%8F%8D%E6%84%9F%E7%8B%AC%E5%A4%84%E7%9A%84%E4%BA%BA)
 1. [战锤里面的机魂到底是个啥](https://www.zhihu.com/search?q=%E6%88%98%E9%94%A4%E9%87%8C%E9%9D%A2%E7%9A%84%E6%9C%BA%E9%AD%82%E5%88%B0%E5%BA%95%E6%98%AF%E4%B8%AA%E5%95%A5)
 1. [能分享一张你珍藏已久的照片吗](https://www.zhihu.com/search?q=%E8%83%BD%E5%88%86%E4%BA%AB%E4%B8%80%E5%BC%A0%E4%BD%A0%E7%8F%8D%E8%97%8F%E5%B7%B2%E4%B9%85%E7%9A%84%E7%85%A7%E7%89%87%E5%90%97)
-1. [为什么会有人中美人计](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E6%9C%89%E4%BA%BA%E4%B8%AD%E7%BE%8E%E4%BA%BA%E8%AE%A1)
 
 ## 热门话题
 
