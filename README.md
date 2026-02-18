@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-02-18 09:20:14 +0800`
+`更新时间：2026-02-18 12:12:50 +0800`
 
 ## 热门搜索
 
@@ -25,6 +25,7 @@
 1. [黄金什么时候会暴跌](https://www.zhihu.com/search?q=%E9%BB%84%E9%87%91%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E4%BC%9A%E6%9A%B4%E8%B7%8C)
 1. [认知水平高的人有什么特征](https://www.zhihu.com/search?q=%E8%AE%A4%E7%9F%A5%E6%B0%B4%E5%B9%B3%E9%AB%98%E7%9A%84%E4%BA%BA%E6%9C%89%E4%BB%80%E4%B9%88%E7%89%B9%E5%BE%81)
 1. [你每天坚持的事情是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E6%AF%8F%E5%A4%A9%E5%9D%9A%E6%8C%81%E7%9A%84%E4%BA%8B%E6%83%85%E6%98%AF%E4%BB%80%E4%B9%88)
+1. [机票价格大跳水](https://www.zhihu.com/search?q=%E6%9C%BA%E7%A5%A8%E4%BB%B7%E6%A0%BC%E5%A4%A7%E8%B7%B3%E6%B0%B4)
 1. [为什么社会反感独处的人](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%A4%BE%E4%BC%9A%E5%8F%8D%E6%84%9F%E7%8B%AC%E5%A4%84%E7%9A%84%E4%BA%BA)
 1. [战锤里面的机魂到底是个啥](https://www.zhihu.com/search?q=%E6%88%98%E9%94%A4%E9%87%8C%E9%9D%A2%E7%9A%84%E6%9C%BA%E9%AD%82%E5%88%B0%E5%BA%95%E6%98%AF%E4%B8%AA%E5%95%A5)
 1. [能分享一张你珍藏已久的照片吗](https://www.zhihu.com/search?q=%E8%83%BD%E5%88%86%E4%BA%AB%E4%B8%80%E5%BC%A0%E4%BD%A0%E7%8F%8D%E8%97%8F%E5%B7%B2%E4%B9%85%E7%9A%84%E7%85%A7%E7%89%87%E5%90%97)
@@ -37,7 +38,6 @@
 1. [我的马年祝福](https://www.zhihu.com/search?q=%E6%88%91%E7%9A%84%E9%A9%AC%E5%B9%B4%E7%A5%9D%E7%A6%8F)
 1. [搜索马年祝福集卡](https://www.zhihu.com/search?q=%E6%90%9C%E7%B4%A2%E9%A9%AC%E5%B9%B4%E7%A5%9D%E7%A6%8F%E9%9B%86%E5%8D%A1)
 1. [ai马年祝福](https://www.zhihu.com/search?q=ai%E9%A9%AC%E5%B9%B4%E7%A5%9D%E7%A6%8F)
-1. [ai 马年祝福](https://www.zhihu.com/search?q=ai%20%E9%A9%AC%E5%B9%B4%E7%A5%9D%E7%A6%8F)
 
 ## 热门话题
 
