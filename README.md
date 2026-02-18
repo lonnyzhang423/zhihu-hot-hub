@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-02-18 19:32:18 +0800`
+`更新时间：2026-02-18 20:40:07 +0800`
 
 ## 热门搜索
 
@@ -36,7 +36,6 @@
 1. [工作中到底能闯多大的祸](https://www.zhihu.com/search?q=%E5%B7%A5%E4%BD%9C%E4%B8%AD%E5%88%B0%E5%BA%95%E8%83%BD%E9%97%AF%E5%A4%9A%E5%A4%A7%E7%9A%84%E7%A5%B8)
 1. [油车预计多长时间会被完全淘汰](https://www.zhihu.com/search?q=%E6%B2%B9%E8%BD%A6%E9%A2%84%E8%AE%A1%E5%A4%9A%E9%95%BF%E6%97%B6%E9%97%B4%E4%BC%9A%E8%A2%AB%E5%AE%8C%E5%85%A8%E6%B7%98%E6%B1%B0)
 1. [我的马年祝福](https://www.zhihu.com/search?q=%E6%88%91%E7%9A%84%E9%A9%AC%E5%B9%B4%E7%A5%9D%E7%A6%8F)
-1. [搜索马年祝福集卡](https://www.zhihu.com/search?q=%E6%90%9C%E7%B4%A2%E9%A9%AC%E5%B9%B4%E7%A5%9D%E7%A6%8F%E9%9B%86%E5%8D%A1)
 
 ## 热门话题
 
