@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-02-19 15:43:21 +0800`
+`更新时间：2026-02-19 16:33:38 +0800`
 
 ## 热门搜索
 
-1. [高市早苗将出任日本新任首相](https://www.zhihu.com/search?q=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%B0%86%E5%87%BA%E4%BB%BB%E6%97%A5%E6%9C%AC%E6%96%B0%E4%BB%BB%E9%A6%96%E7%9B%B8)
+1. [各大银行盯上压岁钱](https://www.zhihu.com/search?q=%E5%90%84%E5%A4%A7%E9%93%B6%E8%A1%8C%E7%9B%AF%E4%B8%8A%E5%8E%8B%E5%B2%81%E9%92%B1)
+1. [城里狗回村过年看到本地狗惊呆了](https://www.zhihu.com/search?q=%E5%9F%8E%E9%87%8C%E7%8B%97%E5%9B%9E%E6%9D%91%E8%BF%87%E5%B9%B4%E7%9C%8B%E5%88%B0%E6%9C%AC%E5%9C%B0%E7%8B%97%E6%83%8A%E5%91%86%E4%BA%86)
 1. [古人过春节有什么风雅的习俗](https://www.zhihu.com/search?q=%E5%8F%A4%E4%BA%BA%E8%BF%87%E6%98%A5%E8%8A%82%E6%9C%89%E4%BB%80%E4%B9%88%E9%A3%8E%E9%9B%85%E7%9A%84%E4%B9%A0%E4%BF%97)
 1. [你心目中的年味是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E5%BF%83%E7%9B%AE%E4%B8%AD%E7%9A%84%E5%B9%B4%E5%91%B3%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [我的马年祝福](https://www.zhihu.com/search?q=%E6%88%91%E7%9A%84%E9%A9%AC%E5%B9%B4%E7%A5%9D%E7%A6%8F)
