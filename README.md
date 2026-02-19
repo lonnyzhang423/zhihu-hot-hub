@@ -11,13 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-02-19 09:19:30 +0800`
+`更新时间：2026-02-19 12:11:41 +0800`
 
 ## 热门搜索
 
 1. [古人过春节有什么风雅的习俗](https://www.zhihu.com/search?q=%E5%8F%A4%E4%BA%BA%E8%BF%87%E6%98%A5%E8%8A%82%E6%9C%89%E4%BB%80%E4%B9%88%E9%A3%8E%E9%9B%85%E7%9A%84%E4%B9%A0%E4%BF%97)
 1. [你心目中的年味是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E5%BF%83%E7%9B%AE%E4%B8%AD%E7%9A%84%E5%B9%B4%E5%91%B3%E6%98%AF%E4%BB%80%E4%B9%88)
-1. [机票价格大跳水](https://www.zhihu.com/search?q=%E6%9C%BA%E7%A5%A8%E4%BB%B7%E6%A0%BC%E5%A4%A7%E8%B7%B3%E6%B0%B4)
 1. [我的马年祝福](https://www.zhihu.com/search?q=%E6%88%91%E7%9A%84%E9%A9%AC%E5%B9%B4%E7%A5%9D%E7%A6%8F)
 1. [搜索马年祝福集卡](https://www.zhihu.com/search?q=%E6%90%9C%E7%B4%A2%E9%A9%AC%E5%B9%B4%E7%A5%9D%E7%A6%8F%E9%9B%86%E5%8D%A1)
 1. [ai马年祝福](https://www.zhihu.com/search?q=ai%E9%A9%AC%E5%B9%B4%E7%A5%9D%E7%A6%8F)
