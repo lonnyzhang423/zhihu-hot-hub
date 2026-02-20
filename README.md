@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-02-20 09:15:18 +0800`
+`更新时间：2026-02-20 12:07:31 +0800`
 
 ## 热门搜索
 
@@ -35,6 +35,8 @@
 1. [ai 搜索集卡享大礼](https://www.zhihu.com/search?q=ai%20%E6%90%9C%E7%B4%A2%E9%9B%86%E5%8D%A1%E4%BA%AB%E5%A4%A7%E7%A4%BC)
 1. [ai搜索集卡享大礼](https://www.zhihu.com/search?q=ai%E6%90%9C%E7%B4%A2%E9%9B%86%E5%8D%A1%E4%BA%AB%E5%A4%A7%E7%A4%BC)
 1. [马上集卡分大礼](https://www.zhihu.com/search?q=%E9%A9%AC%E4%B8%8A%E9%9B%86%E5%8D%A1%E5%88%86%E5%A4%A7%E7%A4%BC)
+1. [ai 集卡赢大礼](https://www.zhihu.com/search?q=ai%20%E9%9B%86%E5%8D%A1%E8%B5%A2%E5%A4%A7%E7%A4%BC)
+1. [ai集卡赢大礼](https://www.zhihu.com/search?q=ai%E9%9B%86%E5%8D%A1%E8%B5%A2%E5%A4%A7%E7%A4%BC)
 
 ## 热门话题
 
