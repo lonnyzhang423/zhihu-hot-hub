@@ -11,10 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-02-20 19:24:27 +0800`
+`更新时间：2026-02-20 20:37:32 +0800`
 
 ## 热门搜索
 
+1. [掘金vs快船](https://www.zhihu.com/search?q=%E6%8E%98%E9%87%91vs%E5%BF%AB%E8%88%B9)
+1. [快船战胜掘金](https://www.zhihu.com/search?q=%E5%BF%AB%E8%88%B9%E6%88%98%E8%83%9C%E6%8E%98%E9%87%91)
 1. [古人过春节有什么风雅的习俗](https://www.zhihu.com/search?q=%E5%8F%A4%E4%BA%BA%E8%BF%87%E6%98%A5%E8%8A%82%E6%9C%89%E4%BB%80%E4%B9%88%E9%A3%8E%E9%9B%85%E7%9A%84%E4%B9%A0%E4%BF%97)
 1. [你心目中的年味是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E5%BF%83%E7%9B%AE%E4%B8%AD%E7%9A%84%E5%B9%B4%E5%91%B3%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [为什么成功人士的精力都非常旺盛](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%88%90%E5%8A%9F%E4%BA%BA%E5%A3%AB%E7%9A%84%E7%B2%BE%E5%8A%9B%E9%83%BD%E9%9D%9E%E5%B8%B8%E6%97%BA%E7%9B%9B)
@@ -34,8 +36,6 @@
 1. [AI 搜索马年祝福集卡](https://www.zhihu.com/search?q=AI%20%E6%90%9C%E7%B4%A2%E9%A9%AC%E5%B9%B4%E7%A5%9D%E7%A6%8F%E9%9B%86%E5%8D%A1)
 1. [ai 搜索集卡享大礼](https://www.zhihu.com/search?q=ai%20%E6%90%9C%E7%B4%A2%E9%9B%86%E5%8D%A1%E4%BA%AB%E5%A4%A7%E7%A4%BC)
 1. [ai搜索集卡享大礼](https://www.zhihu.com/search?q=ai%E6%90%9C%E7%B4%A2%E9%9B%86%E5%8D%A1%E4%BA%AB%E5%A4%A7%E7%A4%BC)
-1. [马上集卡分大礼](https://www.zhihu.com/search?q=%E9%A9%AC%E4%B8%8A%E9%9B%86%E5%8D%A1%E5%88%86%E5%A4%A7%E7%A4%BC)
-1. [ai 集卡赢大礼](https://www.zhihu.com/search?q=ai%20%E9%9B%86%E5%8D%A1%E8%B5%A2%E5%A4%A7%E7%A4%BC)
 
 ## 热门话题
 
