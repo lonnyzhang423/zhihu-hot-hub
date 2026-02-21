@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-02-21 07:20:45 +0800`
+`更新时间：2026-02-21 09:13:17 +0800`
 
 ## 热门搜索
 
 1. [掘金vs快船](https://www.zhihu.com/search?q=%E6%8E%98%E9%87%91vs%E5%BF%AB%E8%88%B9)
+1. [正月初五接财神](https://www.zhihu.com/search?q=%E6%AD%A3%E6%9C%88%E5%88%9D%E4%BA%94%E6%8E%A5%E8%B4%A2%E7%A5%9E)
 1. [初五迎财神](https://www.zhihu.com/search?q=%E5%88%9D%E4%BA%94%E8%BF%8E%E8%B4%A2%E7%A5%9E)
 1. [快船战胜掘金](https://www.zhihu.com/search?q=%E5%BF%AB%E8%88%B9%E6%88%98%E8%83%9C%E6%8E%98%E9%87%91)
 1. [古人过春节有什么风雅的习俗](https://www.zhihu.com/search?q=%E5%8F%A4%E4%BA%BA%E8%BF%87%E6%98%A5%E8%8A%82%E6%9C%89%E4%BB%80%E4%B9%88%E9%A3%8E%E9%9B%85%E7%9A%84%E4%B9%A0%E4%BF%97)
@@ -43,7 +44,6 @@
 1. [春节期间各地有哪些独特的传统习俗](https://www.zhihu.com/search?q=%E6%98%A5%E8%8A%82%E6%9C%9F%E9%97%B4%E5%90%84%E5%9C%B0%E6%9C%89%E5%93%AA%E4%BA%9B%E7%8B%AC%E7%89%B9%E7%9A%84%E4%BC%A0%E7%BB%9F%E4%B9%A0%E4%BF%97)
 1. [现代人如何度过一个有意义的春节](https://www.zhihu.com/search?q=%E7%8E%B0%E4%BB%A3%E4%BA%BA%E5%A6%82%E4%BD%95%E5%BA%A6%E8%BF%87%E4%B8%80%E4%B8%AA%E6%9C%89%E6%84%8F%E4%B9%89%E7%9A%84%E6%98%A5%E8%8A%82)
 1. [春节的仪式感在现代社会中会逐渐消退吗](https://www.zhihu.com/search?q=%E6%98%A5%E8%8A%82%E7%9A%84%E4%BB%AA%E5%BC%8F%E6%84%9F%E5%9C%A8%E7%8E%B0%E4%BB%A3%E7%A4%BE%E4%BC%9A%E4%B8%AD%E4%BC%9A%E9%80%90%E6%B8%90%E6%B6%88%E9%80%80%E5%90%97)
-1. [春节不旅游可以做些什么](https://www.zhihu.com/search?q=%E6%98%A5%E8%8A%82%E4%B8%8D%E6%97%85%E6%B8%B8%E5%8F%AF%E4%BB%A5%E5%81%9A%E4%BA%9B%E4%BB%80%E4%B9%88)
 
 ## 热门话题
 
