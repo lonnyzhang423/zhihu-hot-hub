@@ -11,12 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-02-23 12:14:43 +0800`
+`更新时间：2026-02-23 14:00:04 +0800`
 
 ## 热门搜索
 
 1. [多地气温断崖式下跌](https://www.zhihu.com/search?q=%E5%A4%9A%E5%9C%B0%E6%B0%94%E6%B8%A9%E6%96%AD%E5%B4%96%E5%BC%8F%E4%B8%8B%E8%B7%8C)
-1. [古人过春节有什么风雅的习俗](https://www.zhihu.com/search?q=%E5%8F%A4%E4%BA%BA%E8%BF%87%E6%98%A5%E8%8A%82%E6%9C%89%E4%BB%80%E4%B9%88%E9%A3%8E%E9%9B%85%E7%9A%84%E4%B9%A0%E4%BF%97)
 1. [你心目中的年味是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E5%BF%83%E7%9B%AE%E4%B8%AD%E7%9A%84%E5%B9%B4%E5%91%B3%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [我的马年祝福](https://www.zhihu.com/search?q=%E6%88%91%E7%9A%84%E9%A9%AC%E5%B9%B4%E7%A5%9D%E7%A6%8F)
 1. [搜索马年祝福集卡](https://www.zhihu.com/search?q=%E6%90%9C%E7%B4%A2%E9%A9%AC%E5%B9%B4%E7%A5%9D%E7%A6%8F%E9%9B%86%E5%8D%A1)
@@ -36,14 +35,12 @@
 1. [ai 搜索集卡](https://www.zhihu.com/search?q=ai%20%E6%90%9C%E7%B4%A2%E9%9B%86%E5%8D%A1)
 1. [ai 搜索集福卡](https://www.zhihu.com/search?q=ai%20%E6%90%9C%E7%B4%A2%E9%9B%86%E7%A6%8F%E5%8D%A1)
 1. [哪些时刻让你突然感觉过年了](https://www.zhihu.com/search?q=%E5%93%AA%E4%BA%9B%E6%97%B6%E5%88%BB%E8%AE%A9%E4%BD%A0%E7%AA%81%E7%84%B6%E6%84%9F%E8%A7%89%E8%BF%87%E5%B9%B4%E4%BA%86)
-1. [为什么中国人这么看重春节](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%BF%99%E4%B9%88%E7%9C%8B%E9%87%8D%E6%98%A5%E8%8A%82)
-1. [春节期间各地有哪些独特的传统习俗](https://www.zhihu.com/search?q=%E6%98%A5%E8%8A%82%E6%9C%9F%E9%97%B4%E5%90%84%E5%9C%B0%E6%9C%89%E5%93%AA%E4%BA%9B%E7%8B%AC%E7%89%B9%E7%9A%84%E4%BC%A0%E7%BB%9F%E4%B9%A0%E4%BF%97)
-1. [春节不旅游可以做些什么](https://www.zhihu.com/search?q=%E6%98%A5%E8%8A%82%E4%B8%8D%E6%97%85%E6%B8%B8%E5%8F%AF%E4%BB%A5%E5%81%9A%E4%BA%9B%E4%BB%80%E4%B9%88)
-1. [描写春节的古诗词有哪些](https://www.zhihu.com/search?q=%E6%8F%8F%E5%86%99%E6%98%A5%E8%8A%82%E7%9A%84%E5%8F%A4%E8%AF%97%E8%AF%8D%E6%9C%89%E5%93%AA%E4%BA%9B)
-1. [近百年哪一年的春节过的最早](https://www.zhihu.com/search?q=%E8%BF%91%E7%99%BE%E5%B9%B4%E5%93%AA%E4%B8%80%E5%B9%B4%E7%9A%84%E6%98%A5%E8%8A%82%E8%BF%87%E7%9A%84%E6%9C%80%E6%97%A9)
-1. [春节健康小贴士](https://www.zhihu.com/search?q=%E6%98%A5%E8%8A%82%E5%81%A5%E5%BA%B7%E5%B0%8F%E8%B4%B4%E5%A3%AB)
-1. [古代宫廷如何庆祝春节](https://www.zhihu.com/search?q=%E5%8F%A4%E4%BB%A3%E5%AE%AB%E5%BB%B7%E5%A6%82%E4%BD%95%E5%BA%86%E7%A5%9D%E6%98%A5%E8%8A%82)
-1. [春节期间适合全家一起的运动](https://www.zhihu.com/search?q=%E6%98%A5%E8%8A%82%E6%9C%9F%E9%97%B4%E9%80%82%E5%90%88%E5%85%A8%E5%AE%B6%E4%B8%80%E8%B5%B7%E7%9A%84%E8%BF%90%E5%8A%A8)
+1. [电影《飞驰人生 3》热映](https://www.zhihu.com/search?q=%E7%94%B5%E5%BD%B1%E3%80%8A%E9%A3%9E%E9%A9%B0%E4%BA%BA%E7%94%9F%203%E3%80%8B%E7%83%AD%E6%98%A0)
+1. [电影《惊蛰无声》热映](https://www.zhihu.com/search?q=%E7%94%B5%E5%BD%B1%E3%80%8A%E6%83%8A%E8%9B%B0%E6%97%A0%E5%A3%B0%E3%80%8B%E7%83%AD%E6%98%A0)
+1. [谷爱凌回击外媒荒谬提问](https://www.zhihu.com/search?q=%E8%B0%B7%E7%88%B1%E5%87%8C%E5%9B%9E%E5%87%BB%E5%A4%96%E5%AA%92%E8%8D%92%E8%B0%AC%E6%8F%90%E9%97%AE)
+1. [张瑞阳晋级花滑女单自由滑](https://www.zhihu.com/search?q=%E5%BC%A0%E7%91%9E%E9%98%B3%E6%99%8B%E7%BA%A7%E8%8A%B1%E6%BB%91%E5%A5%B3%E5%8D%95%E8%87%AA%E7%94%B1%E6%BB%91)
+1. [尹锡悦内乱头目罪罪名成立](https://www.zhihu.com/search?q=%E5%B0%B9%E9%94%A1%E6%82%A6%E5%86%85%E4%B9%B1%E5%A4%B4%E7%9B%AE%E7%BD%AA%E7%BD%AA%E5%90%8D%E6%88%90%E7%AB%8B)
+1. [速度滑冰男子 1500 米决赛](https://www.zhihu.com/search?q=%E9%80%9F%E5%BA%A6%E6%BB%91%E5%86%B0%E7%94%B7%E5%AD%90%201500%20%E7%B1%B3%E5%86%B3%E8%B5%9B)
 
 ## 热门话题
 
