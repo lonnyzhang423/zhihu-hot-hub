@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-02-23 16:38:15 +0800`
+`更新时间：2026-02-23 17:43:42 +0800`
 
 ## 热门搜索
 
@@ -40,6 +40,7 @@
 1. [电影《惊蛰无声》热映](https://www.zhihu.com/search?q=%E7%94%B5%E5%BD%B1%E3%80%8A%E6%83%8A%E8%9B%B0%E6%97%A0%E5%A3%B0%E3%80%8B%E7%83%AD%E6%98%A0)
 1. [张瑞阳晋级花滑女单自由滑](https://www.zhihu.com/search?q=%E5%BC%A0%E7%91%9E%E9%98%B3%E6%99%8B%E7%BA%A7%E8%8A%B1%E6%BB%91%E5%A5%B3%E5%8D%95%E8%87%AA%E7%94%B1%E6%BB%91)
 1. [尹锡悦内乱头目罪罪名成立](https://www.zhihu.com/search?q=%E5%B0%B9%E9%94%A1%E6%82%A6%E5%86%85%E4%B9%B1%E5%A4%B4%E7%9B%AE%E7%BD%AA%E7%BD%AA%E5%90%8D%E6%88%90%E7%AB%8B)
+1. [速度滑冰男子 1500 米决赛](https://www.zhihu.com/search?q=%E9%80%9F%E5%BA%A6%E6%BB%91%E5%86%B0%E7%94%B7%E5%AD%90%201500%20%E7%B1%B3%E5%86%B3%E8%B5%9B)
 
 ## 热门话题
 
