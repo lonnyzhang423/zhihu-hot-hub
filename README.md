@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-02-24 12:58:13 +0800`
+`更新时间：2026-02-24 14:06:35 +0800`
 
 ## 热门搜索
 
@@ -30,7 +30,6 @@
 1. [今年所有法定假日全与周末重合](https://www.zhihu.com/search?q=%E4%BB%8A%E5%B9%B4%E6%89%80%E6%9C%89%E6%B3%95%E5%AE%9A%E5%81%87%E6%97%A5%E5%85%A8%E4%B8%8E%E5%91%A8%E6%9C%AB%E9%87%8D%E5%90%88)
 1. [电影《星河入梦》热映](https://www.zhihu.com/search?q=%E7%94%B5%E5%BD%B1%E3%80%8A%E6%98%9F%E6%B2%B3%E5%85%A5%E6%A2%A6%E3%80%8B%E7%83%AD%E6%98%A0)
 1. [张瑞阳晋级花滑女单自由滑](https://www.zhihu.com/search?q=%E5%BC%A0%E7%91%9E%E9%98%B3%E6%99%8B%E7%BA%A7%E8%8A%B1%E6%BB%91%E5%A5%B3%E5%8D%95%E8%87%AA%E7%94%B1%E6%BB%91)
-1. [冬奥会运动员不再被金牌绑架](https://www.zhihu.com/search?q=%E5%86%AC%E5%A5%A5%E4%BC%9A%E8%BF%90%E5%8A%A8%E5%91%98%E4%B8%8D%E5%86%8D%E8%A2%AB%E9%87%91%E7%89%8C%E7%BB%91%E6%9E%B6)
 1. [《镖人》票房逆跌](https://www.zhihu.com/search?q=%E3%80%8A%E9%95%96%E4%BA%BA%E3%80%8B%E7%A5%A8%E6%88%BF%E9%80%86%E8%B7%8C)
 1. [王濛直言短道速滑问题太大](https://www.zhihu.com/search?q=%E7%8E%8B%E6%BF%9B%E7%9B%B4%E8%A8%80%E7%9F%AD%E9%81%93%E9%80%9F%E6%BB%91%E9%97%AE%E9%A2%98%E5%A4%AA%E5%A4%A7)
 1. [王濛：短道速滑问题太大](https://www.zhihu.com/search?q=%E7%8E%8B%E6%BF%9B%EF%BC%9A%E7%9F%AD%E9%81%93%E9%80%9F%E6%BB%91%E9%97%AE%E9%A2%98%E5%A4%AA%E5%A4%A7)
@@ -38,6 +37,7 @@
 1. [微软游戏ceo宣布退休](https://www.zhihu.com/search?q=%E5%BE%AE%E8%BD%AF%E6%B8%B8%E6%88%8Fceo%E5%AE%A3%E5%B8%83%E9%80%80%E4%BC%91)
 1. [烤肠商战](https://www.zhihu.com/search?q=%E7%83%A4%E8%82%A0%E5%95%86%E6%88%98)
 1. [2月28日六星连珠上演](https://www.zhihu.com/search?q=2%E6%9C%8828%E6%97%A5%E5%85%AD%E6%98%9F%E8%BF%9E%E7%8F%A0%E4%B8%8A%E6%BC%94)
+1. [天下第一财神庙被游客挤爆](https://www.zhihu.com/search?q=%E5%A4%A9%E4%B8%8B%E7%AC%AC%E4%B8%80%E8%B4%A2%E7%A5%9E%E5%BA%99%E8%A2%AB%E6%B8%B8%E5%AE%A2%E6%8C%A4%E7%88%86)
 
 ## 热门话题
 
