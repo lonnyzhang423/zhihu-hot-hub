@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-02-25 15:57:04 +0800`
+`更新时间：2026-02-25 17:00:49 +0800`
 
 ## 热门搜索
 
-1. [MIT 发现 AI 歧视弱势群体](https://www.zhihu.com/search?q=MIT%20%E5%8F%91%E7%8E%B0%20AI%20%E6%AD%A7%E8%A7%86%E5%BC%B1%E5%8A%BF%E7%BE%A4%E4%BD%93)
-1. [伊美已进行两轮间接谈判](https://www.zhihu.com/search?q=%E4%BC%8A%E7%BE%8E%E5%B7%B2%E8%BF%9B%E8%A1%8C%E4%B8%A4%E8%BD%AE%E9%97%B4%E6%8E%A5%E8%B0%88%E5%88%A4)
+1. [考研初试](https://www.zhihu.com/search?q=%E8%80%83%E7%A0%94%E5%88%9D%E8%AF%95)
+1. [jdg对战tes](https://www.zhihu.com/search?q=jdg%E5%AF%B9%E6%88%98tes)
 1. [今晚油价上涨](https://www.zhihu.com/search?q=%E4%BB%8A%E6%99%9A%E6%B2%B9%E4%BB%B7%E4%B8%8A%E6%B6%A8)
 1. [孙颖莎晋级32强](https://www.zhihu.com/search?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E6%99%8B%E7%BA%A732%E5%BC%BA)
 1. [A股行情](https://www.zhihu.com/search?q=A%E8%82%A1%E8%A1%8C%E6%83%85)
