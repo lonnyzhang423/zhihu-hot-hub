@@ -11,13 +11,16 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-02-25 14:52:59 +0800`
+`更新时间：2026-02-25 15:46:26 +0800`
 
 ## 热门搜索
 
 1. [考研初试](https://www.zhihu.com/search?q=%E8%80%83%E7%A0%94%E5%88%9D%E8%AF%95)
+1. [jdg对战tes](https://www.zhihu.com/search?q=jdg%E5%AF%B9%E6%88%98tes)
+1. [今晚油价上涨](https://www.zhihu.com/search?q=%E4%BB%8A%E6%99%9A%E6%B2%B9%E4%BB%B7%E4%B8%8A%E6%B6%A8)
 1. [孙颖莎晋级32强](https://www.zhihu.com/search?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E6%99%8B%E7%BA%A732%E5%BC%BA)
 1. [A股行情](https://www.zhihu.com/search?q=A%E8%82%A1%E8%A1%8C%E6%83%85)
+1. [王楚钦3比0户上隼辅](https://www.zhihu.com/search?q=%E7%8E%8B%E6%A5%9A%E9%92%A63%E6%AF%940%E6%88%B7%E4%B8%8A%E9%9A%BC%E8%BE%85)
 1. [火箭vs尼克斯](https://www.zhihu.com/search?q=%E7%81%AB%E7%AE%ADvs%E5%B0%BC%E5%85%8B%E6%96%AF)
 1. [乐队打架什么乐器伤害最高](https://www.zhihu.com/search?q=%E4%B9%90%E9%98%9F%E6%89%93%E6%9E%B6%E4%BB%80%E4%B9%88%E4%B9%90%E5%99%A8%E4%BC%A4%E5%AE%B3%E6%9C%80%E9%AB%98)
 1. [你身边有没有资产A12的人](https://www.zhihu.com/search?q=%E4%BD%A0%E8%BA%AB%E8%BE%B9%E6%9C%89%E6%B2%A1%E6%9C%89%E8%B5%84%E4%BA%A7A12%E7%9A%84%E4%BA%BA)
@@ -37,8 +40,6 @@
 1. [如何看待各类环江西带](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%90%84%E7%B1%BB%E7%8E%AF%E6%B1%9F%E8%A5%BF%E5%B8%A6)
 1. [你总结出最大的旅行经验是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E6%80%BB%E7%BB%93%E5%87%BA%E6%9C%80%E5%A4%A7%E7%9A%84%E6%97%85%E8%A1%8C%E7%BB%8F%E9%AA%8C%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [为什么葡萄酒在中国火不起来](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%91%A1%E8%90%84%E9%85%92%E5%9C%A8%E4%B8%AD%E5%9B%BD%E7%81%AB%E4%B8%8D%E8%B5%B7%E6%9D%A5)
-1. [如何变得会说话](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E5%8F%98%E5%BE%97%E4%BC%9A%E8%AF%B4%E8%AF%9D)
-1. [战锤里面的机魂是什么](https://www.zhihu.com/search?q=%E6%88%98%E9%94%A4%E9%87%8C%E9%9D%A2%E7%9A%84%E6%9C%BA%E9%AD%82%E6%98%AF%E4%BB%80%E4%B9%88)
 
 ## 热门话题
 
