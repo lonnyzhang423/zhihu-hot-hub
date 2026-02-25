@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-02-25 16:37:24 +0800`
+`更新时间：2026-02-25 17:43:34 +0800`
 
 ## 热门搜索
 
-1. [任我行为什么突然死了](https://www.zhihu.com/search?q=%E4%BB%BB%E6%88%91%E8%A1%8C%E4%B8%BA%E4%BB%80%E4%B9%88%E7%AA%81%E7%84%B6%E6%AD%BB%E4%BA%86)
-1. [林臻东和李伦谁家底更厚](https://www.zhihu.com/search?q=%E6%9E%97%E8%87%BB%E4%B8%9C%E5%92%8C%E6%9D%8E%E4%BC%A6%E8%B0%81%E5%AE%B6%E5%BA%95%E6%9B%B4%E5%8E%9A)
+1. [为什么现在的汽车这么便宜](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E7%9A%84%E6%B1%BD%E8%BD%A6%E8%BF%99%E4%B9%88%E4%BE%BF%E5%AE%9C)
+1. [A股三大指数均大幅高开](https://www.zhihu.com/search?q=A%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E5%9D%87%E5%A4%A7%E5%B9%85%E9%AB%98%E5%BC%80)
 1. [今晚油价上涨](https://www.zhihu.com/search?q=%E4%BB%8A%E6%99%9A%E6%B2%B9%E4%BB%B7%E4%B8%8A%E6%B6%A8)
 1. [孙颖莎晋级32强](https://www.zhihu.com/search?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E6%99%8B%E7%BA%A732%E5%BC%BA)
 1. [A股行情](https://www.zhihu.com/search?q=A%E8%82%A1%E8%A1%8C%E6%83%85)
