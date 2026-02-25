@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-02-25 22:03:57 +0800`
+`更新时间：2026-02-25 23:53:11 +0800`
 
 ## 热门搜索
 
-1. [湖人不敌魔术](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BA%E4%B8%8D%E6%95%8C%E9%AD%94%E6%9C%AF)
-1. [考研初试](https://www.zhihu.com/search?q=%E8%80%83%E7%A0%94%E5%88%9D%E8%AF%95)
+1. [谷爱凌说最怕不能滑雪](https://www.zhihu.com/search?q=%E8%B0%B7%E7%88%B1%E5%87%8C%E8%AF%B4%E6%9C%80%E6%80%95%E4%B8%8D%E8%83%BD%E6%BB%91%E9%9B%AA)
+1. [曼联1比0埃弗顿](https://www.zhihu.com/search?q=%E6%9B%BC%E8%81%941%E6%AF%940%E5%9F%83%E5%BC%97%E9%A1%BF)
 1. [jdg对战tes](https://www.zhihu.com/search?q=jdg%E5%AF%B9%E6%88%98tes)
 1. [今晚油价上涨](https://www.zhihu.com/search?q=%E4%BB%8A%E6%99%9A%E6%B2%B9%E4%BB%B7%E4%B8%8A%E6%B6%A8)
 1. [孙颖莎晋级32强](https://www.zhihu.com/search?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E6%99%8B%E7%BA%A732%E5%BC%BA)
