@@ -11,12 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-02-26 07:36:31 +0800`
+`更新时间：2026-02-26 10:42:46 +0800`
 
 ## 热门搜索
 
-1. [湖人不敌魔术](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BA%E4%B8%8D%E6%95%8C%E9%AD%94%E6%9C%AF)
-1. [jdg对战tes](https://www.zhihu.com/search?q=jdg%E5%AF%B9%E6%88%98tes)
+1. [夜王豆瓣开分7.8](https://www.zhihu.com/search?q=%E5%A4%9C%E7%8E%8B%E8%B1%86%E7%93%A3%E5%BC%80%E5%88%867.8)
 1. [今晚油价上涨](https://www.zhihu.com/search?q=%E4%BB%8A%E6%99%9A%E6%B2%B9%E4%BB%B7%E4%B8%8A%E6%B6%A8)
 1. [王楚钦3比0户上隼辅](https://www.zhihu.com/search?q=%E7%8E%8B%E6%A5%9A%E9%92%A63%E6%AF%940%E6%88%B7%E4%B8%8A%E9%9A%BC%E8%BE%85)
 1. [魔术vs湖人](https://www.zhihu.com/search?q=%E9%AD%94%E6%9C%AFvs%E6%B9%96%E4%BA%BA)
@@ -27,7 +26,6 @@
 1. [黄金什么时候会大跌](https://www.zhihu.com/search?q=%E9%BB%84%E9%87%91%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E4%BC%9A%E5%A4%A7%E8%B7%8C)
 1. [新能源汽车为何偏爱空气悬挂](https://www.zhihu.com/search?q=%E6%96%B0%E8%83%BD%E6%BA%90%E6%B1%BD%E8%BD%A6%E4%B8%BA%E4%BD%95%E5%81%8F%E7%88%B1%E7%A9%BA%E6%B0%94%E6%82%AC%E6%8C%82)
 1. [普通家庭对孩子最好的托举是什么](https://www.zhihu.com/search?q=%E6%99%AE%E9%80%9A%E5%AE%B6%E5%BA%AD%E5%AF%B9%E5%AD%A9%E5%AD%90%E6%9C%80%E5%A5%BD%E7%9A%84%E6%89%98%E4%B8%BE%E6%98%AF%E4%BB%80%E4%B9%88)
-1. [王楚钦鹰眼挑战失败](https://www.zhihu.com/search?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E9%B9%B0%E7%9C%BC%E6%8C%91%E6%88%98%E5%A4%B1%E8%B4%A5)
 1. [黄金什么时候会暴跌](https://www.zhihu.com/search?q=%E9%BB%84%E9%87%91%E4%BB%80%E4%B9%88%E6%97%B6%E5%80%99%E4%BC%9A%E6%9A%B4%E8%B7%8C)
 1. [什么家庭能养出松弛感的孩子](https://www.zhihu.com/search?q=%E4%BB%80%E4%B9%88%E5%AE%B6%E5%BA%AD%E8%83%BD%E5%85%BB%E5%87%BA%E6%9D%BE%E5%BC%9B%E6%84%9F%E7%9A%84%E5%AD%A9%E5%AD%90)
 1. [什么生活常识必须知道](https://www.zhihu.com/search?q=%E4%BB%80%E4%B9%88%E7%94%9F%E6%B4%BB%E5%B8%B8%E8%AF%86%E5%BF%85%E9%A1%BB%E7%9F%A5%E9%81%93)
