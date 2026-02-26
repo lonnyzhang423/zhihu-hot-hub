@@ -11,15 +11,17 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-02-26 15:44:46 +0800`
+`更新时间：2026-02-26 16:35:57 +0800`
 
 ## 热门搜索
 
-1. [S43峡谷体验优化合集来啦](https://www.zhihu.com/search?q=S43%E5%B3%A1%E8%B0%B7%E4%BD%93%E9%AA%8C%E4%BC%98%E5%8C%96%E5%90%88%E9%9B%86%E6%9D%A5%E5%95%A6)
-1. [又要回到外面当大人了](https://www.zhihu.com/search?q=%E5%8F%88%E8%A6%81%E5%9B%9E%E5%88%B0%E5%A4%96%E9%9D%A2%E5%BD%93%E5%A4%A7%E4%BA%BA%E4%BA%86)
+1. [湖人不敌魔术](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BA%E4%B8%8D%E6%95%8C%E9%AD%94%E6%9C%AF)
+1. [jdg对战tes](https://www.zhihu.com/search?q=jdg%E5%AF%B9%E6%88%98tes)
 1. [今晚油价上涨](https://www.zhihu.com/search?q=%E4%BB%8A%E6%99%9A%E6%B2%B9%E4%BB%B7%E4%B8%8A%E6%B6%A8)
+1. [WBG战胜IG](https://www.zhihu.com/search?q=WBG%E6%88%98%E8%83%9CIG)
 1. [王楚钦3比0户上隼辅](https://www.zhihu.com/search?q=%E7%8E%8B%E6%A5%9A%E9%92%A63%E6%AF%940%E6%88%B7%E4%B8%8A%E9%9A%BC%E8%BE%85)
 1. [魔术vs湖人](https://www.zhihu.com/search?q=%E9%AD%94%E6%9C%AFvs%E6%B9%96%E4%BA%BA)
+1. [正月初十十全十美](https://www.zhihu.com/search?q=%E6%AD%A3%E6%9C%88%E5%88%9D%E5%8D%81%E5%8D%81%E5%85%A8%E5%8D%81%E7%BE%8E)
 1. [高考倒计时100天](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E5%80%92%E8%AE%A1%E6%97%B6100%E5%A4%A9)
 1. [乐队打架什么乐器伤害最高](https://www.zhihu.com/search?q=%E4%B9%90%E9%98%9F%E6%89%93%E6%9E%B6%E4%BB%80%E4%B9%88%E4%B9%90%E5%99%A8%E4%BC%A4%E5%AE%B3%E6%9C%80%E9%AB%98)
 1. [独行侠战胜篮网](https://www.zhihu.com/search?q=%E7%8B%AC%E8%A1%8C%E4%BE%A0%E6%88%98%E8%83%9C%E7%AF%AE%E7%BD%91)
@@ -36,11 +38,9 @@
 1. [为什么要无条件爱孩子](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E6%97%A0%E6%9D%A1%E4%BB%B6%E7%88%B1%E5%AD%A9%E5%AD%90)
 1. [认知水平高的人有什么特征](https://www.zhihu.com/search?q=%E8%AE%A4%E7%9F%A5%E6%B0%B4%E5%B9%B3%E9%AB%98%E7%9A%84%E4%BA%BA%E6%9C%89%E4%BB%80%E4%B9%88%E7%89%B9%E5%BE%81)
 1. [正直播NBA：勇士vs鹈鹕](https://www.zhihu.com/search?q=%E6%AD%A3%E7%9B%B4%E6%92%ADNBA%EF%BC%9A%E5%8B%87%E5%A3%ABvs%E9%B9%88%E9%B9%95)
+1. [英伟达财报](https://www.zhihu.com/search?q=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%B4%A2%E6%8A%A5)
 1. [你认为最美的女明星](https://www.zhihu.com/search?q=%E4%BD%A0%E8%AE%A4%E4%B8%BA%E6%9C%80%E7%BE%8E%E7%9A%84%E5%A5%B3%E6%98%8E%E6%98%9F)
 1. [你每天坚持的事情是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E6%AF%8F%E5%A4%A9%E5%9D%9A%E6%8C%81%E7%9A%84%E4%BA%8B%E6%83%85%E6%98%AF%E4%BB%80%E4%B9%88)
-1. [你认为人最重要的能力是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E8%AE%A4%E4%B8%BA%E4%BA%BA%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E8%83%BD%E5%8A%9B%E6%98%AF%E4%BB%80%E4%B9%88)
-1. [为什么一定要频繁记录自己](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%80%E5%AE%9A%E8%A6%81%E9%A2%91%E7%B9%81%E8%AE%B0%E5%BD%95%E8%87%AA%E5%B7%B1)
-1. [如何看待各类环江西带](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%90%84%E7%B1%BB%E7%8E%AF%E6%B1%9F%E8%A5%BF%E5%B8%A6)
 
 ## 热门话题
 
