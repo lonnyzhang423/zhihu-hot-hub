@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-02-26 16:57:55 +0800`
+`更新时间：2026-02-26 18:00:30 +0800`
 
 ## 热门搜索
 
-1. [葡萄330草莓360元一斤网友惊呆](https://www.zhihu.com/search?q=%E8%91%A1%E8%90%84330%E8%8D%89%E8%8E%93360%E5%85%83%E4%B8%80%E6%96%A4%E7%BD%91%E5%8F%8B%E6%83%8A%E5%91%86)
-1. [正月初九](https://www.zhihu.com/search?q=%E6%AD%A3%E6%9C%88%E5%88%9D%E4%B9%9D)
+1. [湖人不敌魔术](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BA%E4%B8%8D%E6%95%8C%E9%AD%94%E6%9C%AF)
+1. [jdg对战tes](https://www.zhihu.com/search?q=jdg%E5%AF%B9%E6%88%98tes)
 1. [今晚油价上涨](https://www.zhihu.com/search?q=%E4%BB%8A%E6%99%9A%E6%B2%B9%E4%BB%B7%E4%B8%8A%E6%B6%A8)
 1. [WBG战胜IG](https://www.zhihu.com/search?q=WBG%E6%88%98%E8%83%9CIG)
 1. [王楚钦3比0户上隼辅](https://www.zhihu.com/search?q=%E7%8E%8B%E6%A5%9A%E9%92%A63%E6%AF%940%E6%88%B7%E4%B8%8A%E9%9A%BC%E8%BE%85)
