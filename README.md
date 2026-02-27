@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-02-27 15:39:39 +0800`
+`更新时间：2026-02-27 16:31:41 +0800`
 
 ## 热门搜索
 
@@ -40,7 +40,6 @@
 1. [你每天坚持的事情是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E6%AF%8F%E5%A4%A9%E5%9D%9A%E6%8C%81%E7%9A%84%E4%BA%8B%E6%83%85%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [你喝过最好喝的酒](https://www.zhihu.com/search?q=%E4%BD%A0%E5%96%9D%E8%BF%87%E6%9C%80%E5%A5%BD%E5%96%9D%E7%9A%84%E9%85%92)
 1. [你觉得人最重要的能力是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E8%A7%89%E5%BE%97%E4%BA%BA%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E8%83%BD%E5%8A%9B%E6%98%AF%E4%BB%80%E4%B9%88)
-1. [为什么一定要频繁记录自己](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%80%E5%AE%9A%E8%A6%81%E9%A2%91%E7%B9%81%E8%AE%B0%E5%BD%95%E8%87%AA%E5%B7%B1)
 
 ## 热门话题
 
