@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-02-27 12:05:08 +0800`
+`更新时间：2026-02-27 13:44:45 +0800`
 
 ## 热门搜索
 
-1. [四六级成绩公布](https://www.zhihu.com/search?q=%E5%9B%9B%E5%85%AD%E7%BA%A7%E6%88%90%E7%BB%A9%E5%85%AC%E5%B8%83)
-1. [湖人不敌魔术](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BA%E4%B8%8D%E6%95%8C%E9%AD%94%E6%9C%AF)
+1. [孙颖莎vs萨马拉](https://www.zhihu.com/search?q=%E5%AD%99%E9%A2%96%E8%8E%8Evs%E8%90%A8%E9%A9%AC%E6%8B%89)
+1. [WBG晋级淘汰赛下一轮](https://www.zhihu.com/search?q=WBG%E6%99%8B%E7%BA%A7%E6%B7%98%E6%B1%B0%E8%B5%9B%E4%B8%8B%E4%B8%80%E8%BD%AE)
 1. [新品驾到](https://www.zhihu.com/search?q=%E6%96%B0%E5%93%81%E9%A9%BE%E5%88%B0)
 1. [WBG战胜IG](https://www.zhihu.com/search?q=WBG%E6%88%98%E8%83%9CIG)
 1. [王楚钦3比0户上隼辅](https://www.zhihu.com/search?q=%E7%8E%8B%E6%A5%9A%E9%92%A63%E6%AF%940%E6%88%B7%E4%B8%8A%E9%9A%BC%E8%BE%85)
