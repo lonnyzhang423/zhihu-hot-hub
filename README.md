@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-02-27 12:51:24 +0800`
+`更新时间：2026-02-27 13:57:47 +0800`
 
 ## 热门搜索
 
-1. [四六级成绩公布](https://www.zhihu.com/search?q=%E5%9B%9B%E5%85%AD%E7%BA%A7%E6%88%90%E7%BB%A9%E5%85%AC%E5%B8%83)
-1. [湖人不敌魔术](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BA%E4%B8%8D%E6%95%8C%E9%AD%94%E6%9C%AF)
+1. [海光信息2025年业绩](https://www.zhihu.com/search?q=%E6%B5%B7%E5%85%89%E4%BF%A1%E6%81%AF2025%E5%B9%B4%E4%B8%9A%E7%BB%A9)
+1. [北方多地气温将波动下行](https://www.zhihu.com/search?q=%E5%8C%97%E6%96%B9%E5%A4%9A%E5%9C%B0%E6%B0%94%E6%B8%A9%E5%B0%86%E6%B3%A2%E5%8A%A8%E4%B8%8B%E8%A1%8C)
 1. [新品驾到](https://www.zhihu.com/search?q=%E6%96%B0%E5%93%81%E9%A9%BE%E5%88%B0)
 1. [WBG战胜IG](https://www.zhihu.com/search?q=WBG%E6%88%98%E8%83%9CIG)
 1. [王楚钦3比0户上隼辅](https://www.zhihu.com/search?q=%E7%8E%8B%E6%A5%9A%E9%92%A63%E6%AF%940%E6%88%B7%E4%B8%8A%E9%9A%BC%E8%BE%85)
