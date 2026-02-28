@@ -11,11 +11,14 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-02-28 13:26:57 +0800`
+`更新时间：2026-02-28 14:26:44 +0800`
 
 ## 热门搜索
 
+1. [中国男篮 不容易](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%20%E4%B8%8D%E5%AE%B9%E6%98%93)
+1. [环境空气质量新国标来了](https://www.zhihu.com/search?q=%E7%8E%AF%E5%A2%83%E7%A9%BA%E6%B0%94%E8%B4%A8%E9%87%8F%E6%96%B0%E5%9B%BD%E6%A0%87%E6%9D%A5%E4%BA%86)
 1. [湖人不敌魔术](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BA%E4%B8%8D%E6%95%8C%E9%AD%94%E6%9C%AF)
+1. [酒驾](https://www.zhihu.com/search?q=%E9%85%92%E9%A9%BE)
 1. [wbg战胜ig](https://www.zhihu.com/search?q=wbg%E6%88%98%E8%83%9Cig)
 1. [王楚钦3比0户上隼辅](https://www.zhihu.com/search?q=%E7%8E%8B%E6%A5%9A%E9%92%A63%E6%AF%940%E6%88%B7%E4%B8%8A%E9%9A%BC%E8%BE%85)
 1. [沪深两市成交额突破1万亿元](https://www.zhihu.com/search?q=%E6%B2%AA%E6%B7%B1%E4%B8%A4%E5%B8%82%E6%88%90%E4%BA%A4%E9%A2%9D%E7%AA%81%E7%A0%B41%E4%B8%87%E4%BA%BF%E5%85%83)
@@ -38,7 +41,6 @@
 1. [电影《星河入梦》热映](https://www.zhihu.com/search?q=%E7%94%B5%E5%BD%B1%E3%80%8A%E6%98%9F%E6%B2%B3%E5%85%A5%E6%A2%A6%E3%80%8B%E7%83%AD%E6%98%A0)
 1. [2026 年度电影总票房破 70 亿](https://www.zhihu.com/search?q=2026%20%E5%B9%B4%E5%BA%A6%E7%94%B5%E5%BD%B1%E6%80%BB%E7%A5%A8%E6%88%BF%E7%A0%B4%2070%20%E4%BA%BF)
 1. [电影《夜王》热映](https://www.zhihu.com/search?q=%E7%94%B5%E5%BD%B1%E3%80%8A%E5%A4%9C%E7%8E%8B%E3%80%8B%E7%83%AD%E6%98%A0)
-1. [中方将20家日本实体列入管控名单](https://www.zhihu.com/search?q=%E4%B8%AD%E6%96%B9%E5%B0%8620%E5%AE%B6%E6%97%A5%E6%9C%AC%E5%AE%9E%E4%BD%93%E5%88%97%E5%85%A5%E7%AE%A1%E6%8E%A7%E5%90%8D%E5%8D%95)
 
 ## 热门话题
 
