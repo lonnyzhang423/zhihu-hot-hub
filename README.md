@@ -11,12 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-02-28 15:20:18 +0800`
+`更新时间：2026-02-28 16:18:36 +0800`
 
 ## 热门搜索
 
-1. [FIBA 向中国男篮及球迷致歉](https://www.zhihu.com/search?q=FIBA%20%E5%90%91%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E5%8F%8A%E7%90%83%E8%BF%B7%E8%87%B4%E6%AD%89)
-1. [洗涤公司员工每天工作 19 小时](https://www.zhihu.com/search?q=%E6%B4%97%E6%B6%A4%E5%85%AC%E5%8F%B8%E5%91%98%E5%B7%A5%E6%AF%8F%E5%A4%A9%E5%B7%A5%E4%BD%9C%2019%20%E5%B0%8F%E6%97%B6)
+1. [湖人不敌魔术](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BA%E4%B8%8D%E6%95%8C%E9%AD%94%E6%9C%AF)
 1. [酒驾](https://www.zhihu.com/search?q=%E9%85%92%E9%A9%BE)
 1. [wbg战胜ig](https://www.zhihu.com/search?q=wbg%E6%88%98%E8%83%9Cig)
 1. [王楚钦3比0户上隼辅](https://www.zhihu.com/search?q=%E7%8E%8B%E6%A5%9A%E9%92%A63%E6%AF%940%E6%88%B7%E4%B8%8A%E9%9A%BC%E8%BE%85)
@@ -26,8 +25,9 @@
 1. [四六级查分](https://www.zhihu.com/search?q=%E5%9B%9B%E5%85%AD%E7%BA%A7%E6%9F%A5%E5%88%86)
 1. [火箭vs魔术](https://www.zhihu.com/search?q=%E7%81%AB%E7%AE%ADvs%E9%AD%94%E6%9C%AF)
 1. [LPL第一赛段](https://www.zhihu.com/search?q=LPL%E7%AC%AC%E4%B8%80%E8%B5%9B%E6%AE%B5)
+1. [欧冠淘汰赛抽签仪式](https://www.zhihu.com/search?q=%E6%AC%A7%E5%86%A0%E6%B7%98%E6%B1%B0%E8%B5%9B%E6%8A%BD%E7%AD%BE%E4%BB%AA%E5%BC%8F)
 1. [生化危机9里昂人设争议](https://www.zhihu.com/search?q=%E7%94%9F%E5%8C%96%E5%8D%B1%E6%9C%BA9%E9%87%8C%E6%98%82%E4%BA%BA%E8%AE%BE%E4%BA%89%E8%AE%AE)
-1. [疑似小米跑车照片流出](https://www.zhihu.com/search?q=%E7%96%91%E4%BC%BC%E5%B0%8F%E7%B1%B3%E8%B7%91%E8%BD%A6%E7%85%A7%E7%89%87%E6%B5%81%E5%87%BA)
+1. [BLG战胜WBG赛后数据](https://www.zhihu.com/search?q=BLG%E6%88%98%E8%83%9CWBG%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE)
 1. [我的春节回忆录](https://www.zhihu.com/search?q=%E6%88%91%E7%9A%84%E6%98%A5%E8%8A%82%E5%9B%9E%E5%BF%86%E5%BD%95)
 1. [春节回忆录](https://www.zhihu.com/search?q=%E6%98%A5%E8%8A%82%E5%9B%9E%E5%BF%86%E5%BD%95)
 1. [知乎回忆录](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%E5%9B%9E%E5%BF%86%E5%BD%95)
