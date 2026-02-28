@@ -11,10 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-02-28 22:29:48 +0800`
+`更新时间：2026-02-28 23:30:49 +0800`
 
 ## 热门搜索
 
+1. [寒假作业冲刺倒计时](https://www.zhihu.com/search?q=%E5%AF%92%E5%81%87%E4%BD%9C%E4%B8%9A%E5%86%B2%E5%88%BA%E5%80%92%E8%AE%A1%E6%97%B6)
 1. [周杰伦杭州演唱会抢票](https://www.zhihu.com/search?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%9D%AD%E5%B7%9E%E6%BC%94%E5%94%B1%E4%BC%9A%E6%8A%A2%E7%A5%A8)
 1. [湖人不敌魔术](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BA%E4%B8%8D%E6%95%8C%E9%AD%94%E6%9C%AF)
 1. [酒驾](https://www.zhihu.com/search?q=%E9%85%92%E9%A9%BE)
