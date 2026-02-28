@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-02-28 13:37:54 +0800`
+`更新时间：2026-02-28 14:50:37 +0800`
 
 ## 热门搜索
 
@@ -37,8 +37,8 @@
 1. [武侠动作电影《镖人：风起大漠》热映](https://www.zhihu.com/search?q=%E6%AD%A6%E4%BE%A0%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1%E3%80%8A%E9%95%96%E4%BA%BA%EF%BC%9A%E9%A3%8E%E8%B5%B7%E5%A4%A7%E6%BC%A0%E3%80%8B%E7%83%AD%E6%98%A0)
 1. [电影《惊蛰无声》热映](https://www.zhihu.com/search?q=%E7%94%B5%E5%BD%B1%E3%80%8A%E6%83%8A%E8%9B%B0%E6%97%A0%E5%A3%B0%E3%80%8B%E7%83%AD%E6%98%A0)
 1. [电影《星河入梦》热映](https://www.zhihu.com/search?q=%E7%94%B5%E5%BD%B1%E3%80%8A%E6%98%9F%E6%B2%B3%E5%85%A5%E6%A2%A6%E3%80%8B%E7%83%AD%E6%98%A0)
-1. [2026 年度电影总票房破 70 亿](https://www.zhihu.com/search?q=2026%20%E5%B9%B4%E5%BA%A6%E7%94%B5%E5%BD%B1%E6%80%BB%E7%A5%A8%E6%88%BF%E7%A0%B4%2070%20%E4%BA%BF)
 1. [电影《夜王》热映](https://www.zhihu.com/search?q=%E7%94%B5%E5%BD%B1%E3%80%8A%E5%A4%9C%E7%8E%8B%E3%80%8B%E7%83%AD%E6%98%A0)
+1. [中方将20家日本实体列入管控名单](https://www.zhihu.com/search?q=%E4%B8%AD%E6%96%B9%E5%B0%8620%E5%AE%B6%E6%97%A5%E6%9C%AC%E5%AE%9E%E4%BD%93%E5%88%97%E5%85%A5%E7%AE%A1%E6%8E%A7%E5%90%8D%E5%8D%95)
 
 ## 热门话题
 
