@@ -11,10 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-02-28 21:43:42 +0800`
+`更新时间：2026-02-28 22:29:48 +0800`
 
 ## 热门搜索
 
+1. [周杰伦杭州演唱会抢票](https://www.zhihu.com/search?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%9D%AD%E5%B7%9E%E6%BC%94%E5%94%B1%E4%BC%9A%E6%8A%A2%E7%A5%A8)
 1. [湖人不敌魔术](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BA%E4%B8%8D%E6%95%8C%E9%AD%94%E6%9C%AF)
 1. [酒驾](https://www.zhihu.com/search?q=%E9%85%92%E9%A9%BE)
 1. [wbg战胜ig](https://www.zhihu.com/search?q=wbg%E6%88%98%E8%83%9Cig)
@@ -38,7 +39,7 @@
 1. [ai 回忆录](https://www.zhihu.com/search?q=ai%20%E5%9B%9E%E5%BF%86%E5%BD%95)
 1. [ai回忆录](https://www.zhihu.com/search?q=ai%E5%9B%9E%E5%BF%86%E5%BD%95)
 1. [河南矿山集团年终奖超1.8亿](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8D%97%E7%9F%BF%E5%B1%B1%E9%9B%86%E5%9B%A2%E5%B9%B4%E7%BB%88%E5%A5%96%E8%B6%851.8%E4%BA%BF)
-1. [电影《飞驰人生 3》热映](https://www.zhihu.com/search?q=%E7%94%B5%E5%BD%B1%E3%80%8A%E9%A3%9E%E9%A9%B0%E4%BA%BA%E7%94%9F%203%E3%80%8B%E7%83%AD%E6%98%A0)
+1. [武侠动作电影《镖人：风起大漠》热映](https://www.zhihu.com/search?q=%E6%AD%A6%E4%BE%A0%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1%E3%80%8A%E9%95%96%E4%BA%BA%EF%BC%9A%E9%A3%8E%E8%B5%B7%E5%A4%A7%E6%BC%A0%E3%80%8B%E7%83%AD%E6%98%A0)
 
 ## 热门话题
 
