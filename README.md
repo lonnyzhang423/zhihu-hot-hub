@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-02-28 17:34:04 +0800`
+`更新时间：2026-02-28 18:31:30 +0800`
 
 ## 热门搜索
 
@@ -23,8 +23,11 @@
 1. [正月初十十全十美](https://www.zhihu.com/search?q=%E6%AD%A3%E6%9C%88%E5%88%9D%E5%8D%81%E5%8D%81%E5%85%A8%E5%8D%81%E7%BE%8E)
 1. [考研查分](https://www.zhihu.com/search?q=%E8%80%83%E7%A0%94%E6%9F%A5%E5%88%86)
 1. [四六级查分](https://www.zhihu.com/search?q=%E5%9B%9B%E5%85%AD%E7%BA%A7%E6%9F%A5%E5%88%86)
+1. [掘金vs雷霆](https://www.zhihu.com/search?q=%E6%8E%98%E9%87%91vs%E9%9B%B7%E9%9C%86)
 1. [火箭vs魔术](https://www.zhihu.com/search?q=%E7%81%AB%E7%AE%ADvs%E9%AD%94%E6%9C%AF)
+1. [男篮世预赛](https://www.zhihu.com/search?q=%E7%94%B7%E7%AF%AE%E4%B8%96%E9%A2%84%E8%B5%9B)
 1. [LPL第一赛段](https://www.zhihu.com/search?q=LPL%E7%AC%AC%E4%B8%80%E8%B5%9B%E6%AE%B5)
+1. [国内金饰克价突破1600元](https://www.zhihu.com/search?q=%E5%9B%BD%E5%86%85%E9%87%91%E9%A5%B0%E5%85%8B%E4%BB%B7%E7%AA%81%E7%A0%B41600%E5%85%83)
 1. [欧冠淘汰赛抽签仪式](https://www.zhihu.com/search?q=%E6%AC%A7%E5%86%A0%E6%B7%98%E6%B1%B0%E8%B5%9B%E6%8A%BD%E7%AD%BE%E4%BB%AA%E5%BC%8F)
 1. [生化危机9里昂人设争议](https://www.zhihu.com/search?q=%E7%94%9F%E5%8C%96%E5%8D%B1%E6%9C%BA9%E9%87%8C%E6%98%82%E4%BA%BA%E8%AE%BE%E4%BA%89%E8%AE%AE)
 1. [BLG战胜WBG赛后数据](https://www.zhihu.com/search?q=BLG%E6%88%98%E8%83%9CWBG%E8%B5%9B%E5%90%8E%E6%95%B0%E6%8D%AE)
@@ -36,9 +39,6 @@
 1. [ai回忆录](https://www.zhihu.com/search?q=ai%E5%9B%9E%E5%BF%86%E5%BD%95)
 1. [河南矿山集团年终奖超1.8亿](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8D%97%E7%9F%BF%E5%B1%B1%E9%9B%86%E5%9B%A2%E5%B9%B4%E7%BB%88%E5%A5%96%E8%B6%851.8%E4%BA%BF)
 1. [电影《飞驰人生 3》热映](https://www.zhihu.com/search?q=%E7%94%B5%E5%BD%B1%E3%80%8A%E9%A3%9E%E9%A9%B0%E4%BA%BA%E7%94%9F%203%E3%80%8B%E7%83%AD%E6%98%A0)
-1. [武侠动作电影《镖人：风起大漠》热映](https://www.zhihu.com/search?q=%E6%AD%A6%E4%BE%A0%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1%E3%80%8A%E9%95%96%E4%BA%BA%EF%BC%9A%E9%A3%8E%E8%B5%B7%E5%A4%A7%E6%BC%A0%E3%80%8B%E7%83%AD%E6%98%A0)
-1. [电影《惊蛰无声》热映](https://www.zhihu.com/search?q=%E7%94%B5%E5%BD%B1%E3%80%8A%E6%83%8A%E8%9B%B0%E6%97%A0%E5%A3%B0%E3%80%8B%E7%83%AD%E6%98%A0)
-1. [电影《星河入梦》热映](https://www.zhihu.com/search?q=%E7%94%B5%E5%BD%B1%E3%80%8A%E6%98%9F%E6%B2%B3%E5%85%A5%E6%A2%A6%E3%80%8B%E7%83%AD%E6%98%A0)
 
 ## 热门话题
 
