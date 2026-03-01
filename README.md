@@ -11,11 +11,10 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-03-01 14:35:33 +0800`
+`更新时间：2026-03-01 15:26:56 +0800`
 
 ## 热门搜索
 
-1. [湖人不敌魔术](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BA%E4%B8%8D%E6%95%8C%E9%AD%94%E6%9C%AF)
 1. [酒驾](https://www.zhihu.com/search?q=%E9%85%92%E9%A9%BE)
 1. [退税](https://www.zhihu.com/search?q=%E9%80%80%E7%A8%8E)
 1. [考研查分](https://www.zhihu.com/search?q=%E8%80%83%E7%A0%94%E6%9F%A5%E5%88%86)
