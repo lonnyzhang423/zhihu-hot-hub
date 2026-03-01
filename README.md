@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-03-01 18:16:53 +0800`
+`更新时间：2026-03-01 19:13:39 +0800`
 
 ## 热门搜索
 
@@ -29,6 +29,7 @@
 1. [搜索回忆录](https://www.zhihu.com/search?q=%E6%90%9C%E7%B4%A2%E5%9B%9E%E5%BF%86%E5%BD%95)
 1. [ai 回忆录](https://www.zhihu.com/search?q=ai%20%E5%9B%9E%E5%BF%86%E5%BD%95)
 1. [ai回忆录](https://www.zhihu.com/search?q=ai%E5%9B%9E%E5%BF%86%E5%BD%95)
+1. [电影《飞驰人生 3》热映](https://www.zhihu.com/search?q=%E7%94%B5%E5%BD%B1%E3%80%8A%E9%A3%9E%E9%A9%B0%E4%BA%BA%E7%94%9F%203%E3%80%8B%E7%83%AD%E6%98%A0)
 1. [武侠动作电影《镖人：风起大漠》热映](https://www.zhihu.com/search?q=%E6%AD%A6%E4%BE%A0%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1%E3%80%8A%E9%95%96%E4%BA%BA%EF%BC%9A%E9%A3%8E%E8%B5%B7%E5%A4%A7%E6%BC%A0%E3%80%8B%E7%83%AD%E6%98%A0)
 1. [电影《惊蛰无声》热映](https://www.zhihu.com/search?q=%E7%94%B5%E5%BD%B1%E3%80%8A%E6%83%8A%E8%9B%B0%E6%97%A0%E5%A3%B0%E3%80%8B%E7%83%AD%E6%98%A0)
 1. [电影《星河入梦》热映](https://www.zhihu.com/search?q=%E7%94%B5%E5%BD%B1%E3%80%8A%E6%98%9F%E6%B2%B3%E5%85%A5%E6%A2%A6%E3%80%8B%E7%83%AD%E6%98%A0)
