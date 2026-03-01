@@ -11,11 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-03-01 07:14:21 +0800`
+`更新时间：2026-03-01 09:24:36 +0800`
 
 ## 热门搜索
 
-1. [菲律宾所谓联合巡航搅局南海](https://www.zhihu.com/search?q=%E8%8F%B2%E5%BE%8B%E5%AE%BE%E6%89%80%E8%B0%93%E8%81%94%E5%90%88%E5%B7%A1%E8%88%AA%E6%90%85%E5%B1%80%E5%8D%97%E6%B5%B7)
+1. [瑞幸2025年财报](https://www.zhihu.com/search?q=%E7%91%9E%E5%B9%B82025%E5%B9%B4%E8%B4%A2%E6%8A%A5)
 1. [周杰伦田馥甄过期糖](https://www.zhihu.com/search?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E7%94%B0%E9%A6%A5%E7%94%84%E8%BF%87%E6%9C%9F%E7%B3%96)
 1. [酒驾](https://www.zhihu.com/search?q=%E9%85%92%E9%A9%BE)
 1. [考研查分](https://www.zhihu.com/search?q=%E8%80%83%E7%A0%94%E6%9F%A5%E5%88%86)
