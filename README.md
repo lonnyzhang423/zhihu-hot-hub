@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-03-02 13:45:16 +0800`
+`更新时间：2026-03-02 14:45:02 +0800`
 
 ## 热门搜索
 
@@ -34,7 +34,6 @@
 1. [DeepSeek发布DualPath推理系统](https://www.zhihu.com/search?q=DeepSeek%E5%8F%91%E5%B8%83DualPath%E6%8E%A8%E7%90%86%E7%B3%BB%E7%BB%9F)
 1. [广东1岁男童春节走失](https://www.zhihu.com/search?q=%E5%B9%BF%E4%B8%9C1%E5%B2%81%E7%94%B7%E7%AB%A5%E6%98%A5%E8%8A%82%E8%B5%B0%E5%A4%B1)
 1. [蜜雪冰城雪王乐园列郑州重点项目](https://www.zhihu.com/search?q=%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%E9%9B%AA%E7%8E%8B%E4%B9%90%E5%9B%AD%E5%88%97%E9%83%91%E5%B7%9E%E9%87%8D%E7%82%B9%E9%A1%B9%E7%9B%AE)
-1. [为什么游神忽然火了](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B8%B8%E7%A5%9E%E5%BF%BD%E7%84%B6%E7%81%AB%E4%BA%86)
 1. [杨本芬承认抄袭余华等作家](https://www.zhihu.com/search?q=%E6%9D%A8%E6%9C%AC%E8%8A%AC%E6%89%BF%E8%AE%A4%E6%8A%84%E8%A2%AD%E4%BD%99%E5%8D%8E%E7%AD%89%E4%BD%9C%E5%AE%B6)
 1. [演员王劲松遭 AI 盗用形象生成视频](https://www.zhihu.com/search?q=%E6%BC%94%E5%91%98%E7%8E%8B%E5%8A%B2%E6%9D%BE%E9%81%AD%20AI%20%E7%9B%97%E7%94%A8%E5%BD%A2%E8%B1%A1%E7%94%9F%E6%88%90%E8%A7%86%E9%A2%91)
 1. [「大喊妈，等着就行了」的脆哨食用说明走红](https://www.zhihu.com/search?q=%E3%80%8C%E5%A4%A7%E5%96%8A%E5%A6%88%EF%BC%8C%E7%AD%89%E7%9D%80%E5%B0%B1%E8%A1%8C%E4%BA%86%E3%80%8D%E7%9A%84%E8%84%86%E5%93%A8%E9%A3%9F%E7%94%A8%E8%AF%B4%E6%98%8E%E8%B5%B0%E7%BA%A2)
@@ -43,6 +42,7 @@
 1. [23岁985直博生胃癌晚期](https://www.zhihu.com/search?q=23%E5%B2%81985%E7%9B%B4%E5%8D%9A%E7%94%9F%E8%83%83%E7%99%8C%E6%99%9A%E6%9C%9F)
 1. [COMEX黄金期货2月累涨超11%](https://www.zhihu.com/search?q=COMEX%E9%BB%84%E9%87%91%E6%9C%9F%E8%B4%A72%E6%9C%88%E7%B4%AF%E6%B6%A8%E8%B6%8511%25)
 1. [反诈老陈账号被封禁](https://www.zhihu.com/search?q=%E5%8F%8D%E8%AF%88%E8%80%81%E9%99%88%E8%B4%A6%E5%8F%B7%E8%A2%AB%E5%B0%81%E7%A6%81)
+1. [Block 裁员近半并称同行太慢](https://www.zhihu.com/search?q=Block%20%E8%A3%81%E5%91%98%E8%BF%91%E5%8D%8A%E5%B9%B6%E7%A7%B0%E5%90%8C%E8%A1%8C%E5%A4%AA%E6%85%A2)
 
 ## 热门话题
 
