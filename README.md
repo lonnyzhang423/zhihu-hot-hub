@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-03-02 07:15:24 +0800`
+`更新时间：2026-03-02 09:16:30 +0800`
 
 ## 热门搜索
 
@@ -31,7 +31,6 @@
 1. [「初代同事」火了](https://www.zhihu.com/search?q=%E3%80%8C%E5%88%9D%E4%BB%A3%E5%90%8C%E4%BA%8B%E3%80%8D%E7%81%AB%E4%BA%86)
 1. [一点点资助男孩被曝戴千元手表](https://www.zhihu.com/search?q=%E4%B8%80%E7%82%B9%E7%82%B9%E8%B5%84%E5%8A%A9%E7%94%B7%E5%AD%A9%E8%A2%AB%E6%9B%9D%E6%88%B4%E5%8D%83%E5%85%83%E6%89%8B%E8%A1%A8)
 1. [《飞驰人生 3》票房突破 33 亿](https://www.zhihu.com/search?q=%E3%80%8A%E9%A3%9E%E9%A9%B0%E4%BA%BA%E7%94%9F%203%E3%80%8B%E7%A5%A8%E6%88%BF%E7%AA%81%E7%A0%B4%2033%20%E4%BA%BF)
-1. [库克暗示苹果将推出新品](https://www.zhihu.com/search?q=%E5%BA%93%E5%85%8B%E6%9A%97%E7%A4%BA%E8%8B%B9%E6%9E%9C%E5%B0%86%E6%8E%A8%E5%87%BA%E6%96%B0%E5%93%81)
 1. [中国机器人跳舞美国机器人发论文](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B7%B3%E8%88%9E%E7%BE%8E%E5%9B%BD%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8F%91%E8%AE%BA%E6%96%87)
 1. [《生化危机 9：安魂曲》正式发售](https://www.zhihu.com/search?q=%E3%80%8A%E7%94%9F%E5%8C%96%E5%8D%B1%E6%9C%BA%209%EF%BC%9A%E5%AE%89%E9%AD%82%E6%9B%B2%E3%80%8B%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%94%AE)
 1. [DeepSeek发布DualPath推理系统](https://www.zhihu.com/search?q=DeepSeek%E5%8F%91%E5%B8%83DualPath%E6%8E%A8%E7%90%86%E7%B3%BB%E7%BB%9F)
@@ -43,6 +42,7 @@
 1. [「大喊妈，等着就行了」的脆哨食用说明走红](https://www.zhihu.com/search?q=%E3%80%8C%E5%A4%A7%E5%96%8A%E5%A6%88%EF%BC%8C%E7%AD%89%E7%9D%80%E5%B0%B1%E8%A1%8C%E4%BA%86%E3%80%8D%E7%9A%84%E8%84%86%E5%93%A8%E9%A3%9F%E7%94%A8%E8%AF%B4%E6%98%8E%E8%B5%B0%E7%BA%A2)
 1. [周杰伦田馥甄过期糖](https://www.zhihu.com/search?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E7%94%B0%E9%A6%A5%E7%94%84%E8%BF%87%E6%9C%9F%E7%B3%96)
 1. [没发过学术顶刊可以发「底刊」](https://www.zhihu.com/search?q=%E6%B2%A1%E5%8F%91%E8%BF%87%E5%AD%A6%E6%9C%AF%E9%A1%B6%E5%88%8A%E5%8F%AF%E4%BB%A5%E5%8F%91%E3%80%8C%E5%BA%95%E5%88%8A%E3%80%8D)
+1. [米哈游程序员复工后意外离世](https://www.zhihu.com/search?q=%E7%B1%B3%E5%93%88%E6%B8%B8%E7%A8%8B%E5%BA%8F%E5%91%98%E5%A4%8D%E5%B7%A5%E5%90%8E%E6%84%8F%E5%A4%96%E7%A6%BB%E4%B8%96)
 
 ## 热门话题
 
