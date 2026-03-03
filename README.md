@@ -11,10 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-03-03 16:30:28 +0800`
+`更新时间：2026-03-03 17:33:20 +0800`
 
 ## 热门搜索
 
+1. [正月十五闹元宵](https://www.zhihu.com/search?q=%E6%AD%A3%E6%9C%88%E5%8D%81%E4%BA%94%E9%97%B9%E5%85%83%E5%AE%B5)
+1. [a股](https://www.zhihu.com/search?q=a%E8%82%A1)
 1. [提升自己最快的方式](https://www.zhihu.com/search?q=%E6%8F%90%E5%8D%87%E8%87%AA%E5%B7%B1%E6%9C%80%E5%BF%AB%E7%9A%84%E6%96%B9%E5%BC%8F)
 1. [元宵节](https://www.zhihu.com/search?q=%E5%85%83%E5%AE%B5%E8%8A%82)
 1. [阿森纳vs切尔西](https://www.zhihu.com/search?q=%E9%98%BF%E6%A3%AE%E7%BA%B3vs%E5%88%87%E5%B0%94%E8%A5%BF)
