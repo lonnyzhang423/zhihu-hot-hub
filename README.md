@@ -11,11 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-03-03 17:53:29 +0800`
+`更新时间：2026-03-03 18:51:04 +0800`
 
 ## 热门搜索
 
-1. [最近24小时全球15万人爆仓](https://www.zhihu.com/search?q=%E6%9C%80%E8%BF%9124%E5%B0%8F%E6%97%B6%E5%85%A8%E7%90%8315%E4%B8%87%E4%BA%BA%E7%88%86%E4%BB%93)
+1. [金银全线高开国际油价飙升](https://www.zhihu.com/search?q=%E9%87%91%E9%93%B6%E5%85%A8%E7%BA%BF%E9%AB%98%E5%BC%80%E5%9B%BD%E9%99%85%E6%B2%B9%E4%BB%B7%E9%A3%99%E5%8D%87)
 1. [提升自己最快的方式](https://www.zhihu.com/search?q=%E6%8F%90%E5%8D%87%E8%87%AA%E5%B7%B1%E6%9C%80%E5%BF%AB%E7%9A%84%E6%96%B9%E5%BC%8F)
 1. [元宵节](https://www.zhihu.com/search?q=%E5%85%83%E5%AE%B5%E8%8A%82)
 1. [阿森纳vs切尔西](https://www.zhihu.com/search?q=%E9%98%BF%E6%A3%AE%E7%BA%B3vs%E5%88%87%E5%B0%94%E8%A5%BF)
@@ -38,6 +38,7 @@
 1. [认知水平高的人有什么特征](https://www.zhihu.com/search?q=%E8%AE%A4%E7%9F%A5%E6%B0%B4%E5%B9%B3%E9%AB%98%E7%9A%84%E4%BA%BA%E6%9C%89%E4%BB%80%E4%B9%88%E7%89%B9%E5%BE%81)
 1. [你每天坚持的事情是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E6%AF%8F%E5%A4%A9%E5%9D%9A%E6%8C%81%E7%9A%84%E4%BA%8B%E6%83%85%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [为什么一定要频繁记录自己](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%80%E5%AE%9A%E8%A6%81%E9%A2%91%E7%B9%81%E8%AE%B0%E5%BD%95%E8%87%AA%E5%B7%B1)
+1. [如何理解允许自己糟糕地进步](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%90%86%E8%A7%A3%E5%85%81%E8%AE%B8%E8%87%AA%E5%B7%B1%E7%B3%9F%E7%B3%95%E5%9C%B0%E8%BF%9B%E6%AD%A5)
 
 ## 热门话题
 
