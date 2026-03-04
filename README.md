@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-03-04 15:46:27 +0800`
+`更新时间：2026-03-04 16:50:53 +0800`
 
 ## 热门搜索
 
@@ -31,7 +31,6 @@
 1. [我国生成式AI用户超6亿人](https://www.zhihu.com/search?q=%E6%88%91%E5%9B%BD%E7%94%9F%E6%88%90%E5%BC%8FAI%E7%94%A8%E6%88%B7%E8%B6%856%E4%BA%BF%E4%BA%BA)
 1. [电影《夜王》热映](https://www.zhihu.com/search?q=%E7%94%B5%E5%BD%B1%E3%80%8A%E5%A4%9C%E7%8E%8B%E3%80%8B%E7%83%AD%E6%98%A0)
 1. [玫瑰丛生开播](https://www.zhihu.com/search?q=%E7%8E%AB%E7%91%B0%E4%B8%9B%E7%94%9F%E5%BC%80%E6%92%AD)
-1. [阿里千问将推出AI硬件](https://www.zhihu.com/search?q=%E9%98%BF%E9%87%8C%E5%8D%83%E9%97%AE%E5%B0%86%E6%8E%A8%E5%87%BAAI%E7%A1%AC%E4%BB%B6)
 1. [美籍快艇闯入古巴领海双方交火](https://www.zhihu.com/search?q=%E7%BE%8E%E7%B1%8D%E5%BF%AB%E8%89%87%E9%97%AF%E5%85%A5%E5%8F%A4%E5%B7%B4%E9%A2%86%E6%B5%B7%E5%8F%8C%E6%96%B9%E4%BA%A4%E7%81%AB)
 1. [中国ai调用量首次超过美国](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BDai%E8%B0%83%E7%94%A8%E9%87%8F%E9%A6%96%E6%AC%A1%E8%B6%85%E8%BF%87%E7%BE%8E%E5%9B%BD)
 1. [郑州自建房倒塌多人被埋系谣言](https://www.zhihu.com/search?q=%E9%83%91%E5%B7%9E%E8%87%AA%E5%BB%BA%E6%88%BF%E5%80%92%E5%A1%8C%E5%A4%9A%E4%BA%BA%E8%A2%AB%E5%9F%8B%E7%B3%BB%E8%B0%A3%E8%A8%80)
