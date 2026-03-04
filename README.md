@@ -11,22 +11,27 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-03-04 18:46:23 +0800`
+`更新时间：2026-03-04 19:37:35 +0800`
 
 ## 热门搜索
 
 1. [正月十五闹元宵](https://www.zhihu.com/search?q=%E6%AD%A3%E6%9C%88%E5%8D%81%E4%BA%94%E9%97%B9%E5%85%83%E5%AE%B5)
 1. [a股](https://www.zhihu.com/search?q=a%E8%82%A1)
+1. [湖人险胜鹈鹕](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BA%E9%99%A9%E8%83%9C%E9%B9%88%E9%B9%95)
 1. [凤凰传奇演唱会](https://www.zhihu.com/search?q=%E5%87%A4%E5%87%B0%E4%BC%A0%E5%A5%87%E6%BC%94%E5%94%B1%E4%BC%9A)
 1. [阿森纳vs切尔西](https://www.zhihu.com/search?q=%E9%98%BF%E6%A3%AE%E7%BA%B3vs%E5%88%87%E5%B0%94%E8%A5%BF)
 1. [森林狼vs掘金](https://www.zhihu.com/search?q=%E6%A3%AE%E6%9E%97%E7%8B%BCvs%E6%8E%98%E9%87%91)
 1. [沪深两市成交额突破1万亿元](https://www.zhihu.com/search?q=%E6%B2%AA%E6%B7%B1%E4%B8%A4%E5%B8%82%E6%88%90%E4%BA%A4%E9%A2%9D%E7%AA%81%E7%A0%B41%E4%B8%87%E4%BA%BF%E5%85%83)
 1. [掘金vs爵士](https://www.zhihu.com/search?q=%E6%8E%98%E9%87%91vs%E7%88%B5%E5%A3%AB)
+1. [灰熊vs森林狼](https://www.zhihu.com/search?q=%E7%81%B0%E7%86%8Avs%E6%A3%AE%E6%9E%97%E7%8B%BC)
 1. [央视元宵晚会节目单](https://www.zhihu.com/search?q=%E5%A4%AE%E8%A7%86%E5%85%83%E5%AE%B5%E6%99%9A%E4%BC%9A%E8%8A%82%E7%9B%AE%E5%8D%95)
 1. [央视元宵晚会](https://www.zhihu.com/search?q=%E5%A4%AE%E8%A7%86%E5%85%83%E5%AE%B5%E6%99%9A%E4%BC%9A)
+1. [台湾台南市发生4.5级地震](https://www.zhihu.com/search?q=%E5%8F%B0%E6%B9%BE%E5%8F%B0%E5%8D%97%E5%B8%82%E5%8F%91%E7%94%9F4.5%E7%BA%A7%E5%9C%B0%E9%9C%87)
+1. [现货黄金大跌](https://www.zhihu.com/search?q=%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E5%A4%A7%E8%B7%8C)
 1. [王楚钦vs林昀儒](https://www.zhihu.com/search?q=%E7%8E%8B%E6%A5%9A%E9%92%A6vs%E6%9E%97%E6%98%80%E5%84%92)
 1. [沪指再度刷新阶段高点](https://www.zhihu.com/search?q=%E6%B2%AA%E6%8C%87%E5%86%8D%E5%BA%A6%E5%88%B7%E6%96%B0%E9%98%B6%E6%AE%B5%E9%AB%98%E7%82%B9)
 1. [休斯顿火箭](https://www.zhihu.com/search?q=%E4%BC%91%E6%96%AF%E9%A1%BF%E7%81%AB%E7%AE%AD)
+1. [沪深两市成交额突破2万亿元](https://www.zhihu.com/search?q=%E6%B2%AA%E6%B7%B1%E4%B8%A4%E5%B8%82%E6%88%90%E4%BA%A4%E9%A2%9D%E7%AA%81%E7%A0%B42%E4%B8%87%E4%BA%BF%E5%85%83)
 1. [我国生成式AI用户超6亿人](https://www.zhihu.com/search?q=%E6%88%91%E5%9B%BD%E7%94%9F%E6%88%90%E5%BC%8FAI%E7%94%A8%E6%88%B7%E8%B6%856%E4%BA%BF%E4%BA%BA)
 1. [电影《夜王》热映](https://www.zhihu.com/search?q=%E7%94%B5%E5%BD%B1%E3%80%8A%E5%A4%9C%E7%8E%8B%E3%80%8B%E7%83%AD%E6%98%A0)
 1. [玫瑰丛生开播](https://www.zhihu.com/search?q=%E7%8E%AB%E7%91%B0%E4%B8%9B%E7%94%9F%E5%BC%80%E6%92%AD)
@@ -34,9 +39,6 @@
 1. [中国ai调用量首次超过美国](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BDai%E8%B0%83%E7%94%A8%E9%87%8F%E9%A6%96%E6%AC%A1%E8%B6%85%E8%BF%87%E7%BE%8E%E5%9B%BD)
 1. [郑州自建房倒塌多人被埋系谣言](https://www.zhihu.com/search?q=%E9%83%91%E5%B7%9E%E8%87%AA%E5%BB%BA%E6%88%BF%E5%80%92%E5%A1%8C%E5%A4%9A%E4%BA%BA%E8%A2%AB%E5%9F%8B%E7%B3%BB%E8%B0%A3%E8%A8%80)
 1. [国常会重要部署30万亿元大市场来了](https://www.zhihu.com/search?q=%E5%9B%BD%E5%B8%B8%E4%BC%9A%E9%87%8D%E8%A6%81%E9%83%A8%E7%BD%B230%E4%B8%87%E4%BA%BF%E5%85%83%E5%A4%A7%E5%B8%82%E5%9C%BA%E6%9D%A5%E4%BA%86)
-1. [美国发动网攻侵占全球虚拟资产](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E5%8F%91%E5%8A%A8%E7%BD%91%E6%94%BB%E4%BE%B5%E5%8D%A0%E5%85%A8%E7%90%83%E8%99%9A%E6%8B%9F%E8%B5%84%E4%BA%A7)
-1. [vivo X300 Ultra全球首秀](https://www.zhihu.com/search?q=vivo%20X300%20Ultra%E5%85%A8%E7%90%83%E9%A6%96%E7%A7%80)
-1. [乐华娱乐辟谣王一博聊天记录被曝光](https://www.zhihu.com/search?q=%E4%B9%90%E5%8D%8E%E5%A8%B1%E4%B9%90%E8%BE%9F%E8%B0%A3%E7%8E%8B%E4%B8%80%E5%8D%9A%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%E8%A2%AB%E6%9B%9D%E5%85%89)
 
 ## 热门话题
 
