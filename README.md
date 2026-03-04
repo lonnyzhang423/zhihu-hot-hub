@@ -11,11 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-03-04 19:23:13 +0800`
+`更新时间：2026-03-04 20:35:59 +0800`
 
 ## 热门搜索
 
-1. [100亿人形机器人砸钱上桌](https://www.zhihu.com/search?q=100%E4%BA%BF%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%A0%B8%E9%92%B1%E4%B8%8A%E6%A1%8C)
+1. [正月十五闹元宵](https://www.zhihu.com/search?q=%E6%AD%A3%E6%9C%88%E5%8D%81%E4%BA%94%E9%97%B9%E5%85%83%E5%AE%B5)
 1. [a股](https://www.zhihu.com/search?q=a%E8%82%A1)
 1. [湖人险胜鹈鹕](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BA%E9%99%A9%E8%83%9C%E9%B9%88%E9%B9%95)
 1. [凤凰传奇演唱会](https://www.zhihu.com/search?q=%E5%87%A4%E5%87%B0%E4%BC%A0%E5%A5%87%E6%BC%94%E5%94%B1%E4%BC%9A)
