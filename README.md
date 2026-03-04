@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-03-04 22:43:03 +0800`
+`更新时间：2026-03-04 23:52:04 +0800`
 
 ## 热门搜索
 
-1. [正月十五闹元宵](https://www.zhihu.com/search?q=%E6%AD%A3%E6%9C%88%E5%8D%81%E4%BA%94%E9%97%B9%E5%85%83%E5%AE%B5)
+1. [中东冲突将把油气价格推到多高](https://www.zhihu.com/search?q=%E4%B8%AD%E4%B8%9C%E5%86%B2%E7%AA%81%E5%B0%86%E6%8A%8A%E6%B2%B9%E6%B0%94%E4%BB%B7%E6%A0%BC%E6%8E%A8%E5%88%B0%E5%A4%9A%E9%AB%98)
+1. [法国突然出手](https://www.zhihu.com/search?q=%E6%B3%95%E5%9B%BD%E7%AA%81%E7%84%B6%E5%87%BA%E6%89%8B)
 1. [a股](https://www.zhihu.com/search?q=a%E8%82%A1)
 1. [湖人险胜鹈鹕](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BA%E9%99%A9%E8%83%9C%E9%B9%88%E9%B9%95)
 1. [凤凰传奇演唱会](https://www.zhihu.com/search?q=%E5%87%A4%E5%87%B0%E4%BC%A0%E5%A5%87%E6%BC%94%E5%94%B1%E4%BC%9A)
