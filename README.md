@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-03-04 12:00:49 +0800`
+`更新时间：2026-03-04 13:10:59 +0800`
 
 ## 热门搜索
 
-1. [李雨桐曝现任比薛之谦有钱](https://www.zhihu.com/search?q=%E6%9D%8E%E9%9B%A8%E6%A1%90%E6%9B%9D%E7%8E%B0%E4%BB%BB%E6%AF%94%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%9C%89%E9%92%B1)
-1. [学历自卑](https://www.zhihu.com/search?q=%E5%AD%A6%E5%8E%86%E8%87%AA%E5%8D%91)
+1. [正月十五闹元宵](https://www.zhihu.com/search?q=%E6%AD%A3%E6%9C%88%E5%8D%81%E4%BA%94%E9%97%B9%E5%85%83%E5%AE%B5)
+1. [a股](https://www.zhihu.com/search?q=a%E8%82%A1)
 1. [元宵节](https://www.zhihu.com/search?q=%E5%85%83%E5%AE%B5%E8%8A%82)
 1. [阿森纳vs切尔西](https://www.zhihu.com/search?q=%E9%98%BF%E6%A3%AE%E7%BA%B3vs%E5%88%87%E5%B0%94%E8%A5%BF)
 1. [森林狼vs掘金](https://www.zhihu.com/search?q=%E6%A3%AE%E6%9E%97%E7%8B%BCvs%E6%8E%98%E9%87%91)
