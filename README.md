@@ -11,10 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-03-05 21:16:56 +0800`
+`更新时间：2026-03-05 22:54:39 +0800`
 
 ## 热门搜索
 
+1. [打铁花网红一氧化碳中毒离世](https://www.zhihu.com/search?q=%E6%89%93%E9%93%81%E8%8A%B1%E7%BD%91%E7%BA%A2%E4%B8%80%E6%B0%A7%E5%8C%96%E7%A2%B3%E4%B8%AD%E6%AF%92%E7%A6%BB%E4%B8%96)
 1. [a股](https://www.zhihu.com/search?q=a%E8%82%A1)
 1. [哪些迹象表明公司不行了](https://www.zhihu.com/search?q=%E5%93%AA%E4%BA%9B%E8%BF%B9%E8%B1%A1%E8%A1%A8%E6%98%8E%E5%85%AC%E5%8F%B8%E4%B8%8D%E8%A1%8C%E4%BA%86)
 1. [A股三大指数集体高开](https://www.zhihu.com/search?q=A%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80)
