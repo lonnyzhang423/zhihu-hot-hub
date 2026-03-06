@@ -11,12 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-03-07 00:29:41 +0800`
+`更新时间：2026-03-07 01:27:53 +0800`
 
 ## 热门搜索
 
-1. [建议减少加班的必要性](https://www.zhihu.com/search?q=%E5%BB%BA%E8%AE%AE%E5%87%8F%E5%B0%91%E5%8A%A0%E7%8F%AD%E7%9A%84%E5%BF%85%E8%A6%81%E6%80%A7)
-1. [CBA广州龙狮vs山东高速](https://www.zhihu.com/search?q=CBA%E5%B9%BF%E5%B7%9E%E9%BE%99%E7%8B%AEvs%E5%B1%B1%E4%B8%9C%E9%AB%98%E9%80%9F)
+1. [湖人vs掘金](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BAvs%E6%8E%98%E9%87%91)
 1. [今日惊蛰](https://www.zhihu.com/search?q=%E4%BB%8A%E6%97%A5%E6%83%8A%E8%9B%B0)
 1. [勇士vs火箭](https://www.zhihu.com/search?q=%E5%8B%87%E5%A3%ABvs%E7%81%AB%E7%AE%AD)
 1. [电影《夜王》热映](https://www.zhihu.com/search?q=%E7%94%B5%E5%BD%B1%E3%80%8A%E5%A4%9C%E7%8E%8B%E3%80%8B%E7%83%AD%E6%98%A0)
