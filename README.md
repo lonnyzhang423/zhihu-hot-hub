@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-03-06 14:36:03 +0800`
+`更新时间：2026-03-06 15:33:16 +0800`
 
 ## 热门搜索
 
@@ -34,7 +34,6 @@
 1. [如何判断一个人是不是潜力股](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E5%88%A4%E6%96%AD%E4%B8%80%E4%B8%AA%E4%BA%BA%E6%98%AF%E4%B8%8D%E6%98%AF%E6%BD%9C%E5%8A%9B%E8%82%A1)
 1. [为什么一定要频繁记录自己](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%80%E5%AE%9A%E8%A6%81%E9%A2%91%E7%B9%81%E8%AE%B0%E5%BD%95%E8%87%AA%E5%B7%B1)
 1. [为什么中国的牛肉这么贵](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%AD%E5%9B%BD%E7%9A%84%E7%89%9B%E8%82%89%E8%BF%99%E4%B9%88%E8%B4%B5)
-1. [动作演员吴樾为什么火不起来](https://www.zhihu.com/search?q=%E5%8A%A8%E4%BD%9C%E6%BC%94%E5%91%98%E5%90%B4%E6%A8%BE%E4%B8%BA%E4%BB%80%E4%B9%88%E7%81%AB%E4%B8%8D%E8%B5%B7%E6%9D%A5)
 
 ## 热门话题
 
