@@ -11,10 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-03-06 17:29:35 +0800`
+`更新时间：2026-03-06 18:26:05 +0800`
 
 ## 热门搜索
 
+1. [玩三角洲行动挫败感太强怎么办](https://www.zhihu.com/search?q=%E7%8E%A9%E4%B8%89%E8%A7%92%E6%B4%B2%E8%A1%8C%E5%8A%A8%E6%8C%AB%E8%B4%A5%E6%84%9F%E5%A4%AA%E5%BC%BA%E6%80%8E%E4%B9%88%E5%8A%9E)
+1. [中国女篮战胜巴西女篮](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E6%88%98%E8%83%9C%E5%B7%B4%E8%A5%BF%E5%A5%B3%E7%AF%AE)
 1. [哪些迹象表明公司不行了](https://www.zhihu.com/search?q=%E5%93%AA%E4%BA%9B%E8%BF%B9%E8%B1%A1%E8%A1%A8%E6%98%8E%E5%85%AC%E5%8F%B8%E4%B8%8D%E8%A1%8C%E4%BA%86)
 1. [A股三大指数集体高开](https://www.zhihu.com/search?q=A%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80)
 1. [湖人险胜鹈鹕](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BA%E9%99%A9%E8%83%9C%E9%B9%88%E9%B9%95)
@@ -33,6 +35,7 @@
 1. [认知水平高的人有什么特征](https://www.zhihu.com/search?q=%E8%AE%A4%E7%9F%A5%E6%B0%B4%E5%B9%B3%E9%AB%98%E7%9A%84%E4%BA%BA%E6%9C%89%E4%BB%80%E4%B9%88%E7%89%B9%E5%BE%81)
 1. [如何判断一个人是不是潜力股](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E5%88%A4%E6%96%AD%E4%B8%80%E4%B8%AA%E4%BA%BA%E6%98%AF%E4%B8%8D%E6%98%AF%E6%BD%9C%E5%8A%9B%E8%82%A1)
 1. [为什么一定要频繁记录自己](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%80%E5%AE%9A%E8%A6%81%E9%A2%91%E7%B9%81%E8%AE%B0%E5%BD%95%E8%87%AA%E5%B7%B1)
+1. [为什么中国的牛肉这么贵](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%AD%E5%9B%BD%E7%9A%84%E7%89%9B%E8%82%89%E8%BF%99%E4%B9%88%E8%B4%B5)
 
 ## 热门话题
 
