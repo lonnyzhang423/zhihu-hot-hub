@@ -11,10 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-03-06 15:33:16 +0800`
+`更新时间：2026-03-06 16:28:02 +0800`
 
 ## 热门搜索
 
+1. [一只河蚌肉里吃出三颗珍珠](https://www.zhihu.com/search?q=%E4%B8%80%E5%8F%AA%E6%B2%B3%E8%9A%8C%E8%82%89%E9%87%8C%E5%90%83%E5%87%BA%E4%B8%89%E9%A2%97%E7%8F%8D%E7%8F%A0)
+1. [100亿人形机器人砸钱上桌](https://www.zhihu.com/search?q=100%E4%BA%BF%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%A0%B8%E9%92%B1%E4%B8%8A%E6%A1%8C)
 1. [哪些迹象表明公司不行了](https://www.zhihu.com/search?q=%E5%93%AA%E4%BA%9B%E8%BF%B9%E8%B1%A1%E8%A1%A8%E6%98%8E%E5%85%AC%E5%8F%B8%E4%B8%8D%E8%A1%8C%E4%BA%86)
 1. [A股三大指数集体高开](https://www.zhihu.com/search?q=A%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80)
 1. [湖人险胜鹈鹕](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BA%E9%99%A9%E8%83%9C%E9%B9%88%E9%B9%95)
