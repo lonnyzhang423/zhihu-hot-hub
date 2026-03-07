@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-03-07 14:28:33 +0800`
+`更新时间：2026-03-07 15:22:35 +0800`
 
 ## 热门搜索
 
@@ -27,6 +27,7 @@
 1. [玫瑰丛生](https://www.zhihu.com/search?q=%E7%8E%AB%E7%91%B0%E4%B8%9B%E7%94%9F)
 1. [紫薯精带火刘文祥麻辣烫](https://www.zhihu.com/search?q=%E7%B4%AB%E8%96%AF%E7%B2%BE%E5%B8%A6%E7%81%AB%E5%88%98%E6%96%87%E7%A5%A5%E9%BA%BB%E8%BE%A3%E7%83%AB)
 1. [娘家40多人组团看望已出嫁女儿](https://www.zhihu.com/search?q=%E5%A8%98%E5%AE%B640%E5%A4%9A%E4%BA%BA%E7%BB%84%E5%9B%A2%E7%9C%8B%E6%9C%9B%E5%B7%B2%E5%87%BA%E5%AB%81%E5%A5%B3%E5%84%BF)
+1. [原油价格会涨到哪](https://www.zhihu.com/search?q=%E5%8E%9F%E6%B2%B9%E4%BB%B7%E6%A0%BC%E4%BC%9A%E6%B6%A8%E5%88%B0%E5%93%AA)
 
 ## 热门话题
 
