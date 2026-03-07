@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-03-07 12:26:15 +0800`
+`更新时间：2026-03-07 13:42:09 +0800`
 
 ## 热门搜索
 
@@ -24,7 +24,6 @@
 1. [「100%椰子水」检出加糖加水](https://www.zhihu.com/search?q=%E3%80%8C100%25%E6%A4%B0%E5%AD%90%E6%B0%B4%E3%80%8D%E6%A3%80%E5%87%BA%E5%8A%A0%E7%B3%96%E5%8A%A0%E6%B0%B4)
 1. [中国造全球首款机器人手机亮相](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E9%80%A0%E5%85%A8%E7%90%83%E9%A6%96%E6%AC%BE%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%8B%E6%9C%BA%E4%BA%AE%E7%9B%B8)
 1. [《太平年》真正题眼是什么](https://www.zhihu.com/search?q=%E3%80%8A%E5%A4%AA%E5%B9%B3%E5%B9%B4%E3%80%8B%E7%9C%9F%E6%AD%A3%E9%A2%98%E7%9C%BC%E6%98%AF%E4%BB%80%E4%B9%88)
-1. [网传迪丽热巴因转机迪拜滞留机场](https://www.zhihu.com/search?q=%E7%BD%91%E4%BC%A0%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%9B%A0%E8%BD%AC%E6%9C%BA%E8%BF%AA%E6%8B%9C%E6%BB%9E%E7%95%99%E6%9C%BA%E5%9C%BA)
 1. [玫瑰丛生](https://www.zhihu.com/search?q=%E7%8E%AB%E7%91%B0%E4%B8%9B%E7%94%9F)
 1. [紫薯精带火刘文祥麻辣烫](https://www.zhihu.com/search?q=%E7%B4%AB%E8%96%AF%E7%B2%BE%E5%B8%A6%E7%81%AB%E5%88%98%E6%96%87%E7%A5%A5%E9%BA%BB%E8%BE%A3%E7%83%AB)
 1. [娘家40多人组团看望已出嫁女儿](https://www.zhihu.com/search?q=%E5%A8%98%E5%AE%B640%E5%A4%9A%E4%BA%BA%E7%BB%84%E5%9B%A2%E7%9C%8B%E6%9C%9B%E5%B7%B2%E5%87%BA%E5%AB%81%E5%A5%B3%E5%84%BF)
