@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-03-07 22:31:37 +0800`
+`更新时间：2026-03-07 23:31:17 +0800`
 
 ## 热门搜索
 
@@ -29,7 +29,6 @@
 1. [刘文祥麻辣烫暂停新合作](https://www.zhihu.com/search?q=%E5%88%98%E6%96%87%E7%A5%A5%E9%BA%BB%E8%BE%A3%E7%83%AB%E6%9A%82%E5%81%9C%E6%96%B0%E5%90%88%E4%BD%9C)
 1. [公瑾爆蛋](https://www.zhihu.com/search?q=%E5%85%AC%E7%91%BE%E7%88%86%E8%9B%8B)
 1. [动物园标语「投喂是最虚伪的爱」](https://www.zhihu.com/search?q=%E5%8A%A8%E7%89%A9%E5%9B%AD%E6%A0%87%E8%AF%AD%E3%80%8C%E6%8A%95%E5%96%82%E6%98%AF%E6%9C%80%E8%99%9A%E4%BC%AA%E7%9A%84%E7%88%B1%E3%80%8D)
-1. [苹果推出iphone17e](https://www.zhihu.com/search?q=%E8%8B%B9%E6%9E%9C%E6%8E%A8%E5%87%BAiphone17e)
 
 ## 热门话题
 
