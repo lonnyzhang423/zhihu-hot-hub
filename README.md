@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-03-07 17:20:43 +0800`
+`更新时间：2026-03-07 18:15:14 +0800`
 
 ## 热门搜索
 
@@ -20,7 +20,6 @@
 1. [勇士vs火箭](https://www.zhihu.com/search?q=%E5%8B%87%E5%A3%ABvs%E7%81%AB%E7%AE%AD)
 1. [周杰伦 田馥甄](https://www.zhihu.com/search?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%20%E7%94%B0%E9%A6%A5%E7%94%84)
 1. [速览中东危局40小时](https://www.zhihu.com/search?q=%E9%80%9F%E8%A7%88%E4%B8%AD%E4%B8%9C%E5%8D%B1%E5%B1%8040%E5%B0%8F%E6%97%B6)
-1. [「100%椰子水」检出加糖加水](https://www.zhihu.com/search?q=%E3%80%8C100%25%E6%A4%B0%E5%AD%90%E6%B0%B4%E3%80%8D%E6%A3%80%E5%87%BA%E5%8A%A0%E7%B3%96%E5%8A%A0%E6%B0%B4)
 1. [中国造全球首款机器人手机亮相](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E9%80%A0%E5%85%A8%E7%90%83%E9%A6%96%E6%AC%BE%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%8B%E6%9C%BA%E4%BA%AE%E7%9B%B8)
 1. [玫瑰丛生](https://www.zhihu.com/search?q=%E7%8E%AB%E7%91%B0%E4%B8%9B%E7%94%9F)
 1. [紫薯精带火刘文祥麻辣烫](https://www.zhihu.com/search?q=%E7%B4%AB%E8%96%AF%E7%B2%BE%E5%B8%A6%E7%81%AB%E5%88%98%E6%96%87%E7%A5%A5%E9%BA%BB%E8%BE%A3%E7%83%AB)
@@ -28,6 +27,7 @@
 1. [原油价格会涨到哪](https://www.zhihu.com/search?q=%E5%8E%9F%E6%B2%B9%E4%BB%B7%E6%A0%BC%E4%BC%9A%E6%B6%A8%E5%88%B0%E5%93%AA)
 1. [中东冲突让日韩一起慌了](https://www.zhihu.com/search?q=%E4%B8%AD%E4%B8%9C%E5%86%B2%E7%AA%81%E8%AE%A9%E6%97%A5%E9%9F%A9%E4%B8%80%E8%B5%B7%E6%85%8C%E4%BA%86)
 1. [刘文祥麻辣烫暂停新合作](https://www.zhihu.com/search?q=%E5%88%98%E6%96%87%E7%A5%A5%E9%BA%BB%E8%BE%A3%E7%83%AB%E6%9A%82%E5%81%9C%E6%96%B0%E5%90%88%E4%BD%9C)
+1. [公瑾爆蛋](https://www.zhihu.com/search?q=%E5%85%AC%E7%91%BE%E7%88%86%E8%9B%8B)
 
 ## 热门话题
 
