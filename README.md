@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-03-08 17:20:57 +0800`
+`更新时间：2026-03-08 18:17:09 +0800`
 
 ## 热门搜索
 
@@ -30,6 +30,7 @@
 1. [原油价格会涨到哪](https://www.zhihu.com/search?q=%E5%8E%9F%E6%B2%B9%E4%BB%B7%E6%A0%BC%E4%BC%9A%E6%B6%A8%E5%88%B0%E5%93%AA)
 1. [中东冲突让日韩一起慌了](https://www.zhihu.com/search?q=%E4%B8%AD%E4%B8%9C%E5%86%B2%E7%AA%81%E8%AE%A9%E6%97%A5%E9%9F%A9%E4%B8%80%E8%B5%B7%E6%85%8C%E4%BA%86)
 1. [刘文祥麻辣烫暂停新合作](https://www.zhihu.com/search?q=%E5%88%98%E6%96%87%E7%A5%A5%E9%BA%BB%E8%BE%A3%E7%83%AB%E6%9A%82%E5%81%9C%E6%96%B0%E5%90%88%E4%BD%9C)
+1. [公瑾爆蛋](https://www.zhihu.com/search?q=%E5%85%AC%E7%91%BE%E7%88%86%E8%9B%8B)
 
 ## 热门话题
 
