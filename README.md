@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-03-08 09:17:53 +0800`
+`更新时间：2026-03-08 12:03:24 +0800`
 
 ## 热门搜索
 
@@ -20,6 +20,7 @@
 1. [湖人vs掘金](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BAvs%E6%8E%98%E9%87%91)
 1. [今日惊蛰](https://www.zhihu.com/search?q=%E4%BB%8A%E6%97%A5%E6%83%8A%E8%9B%B0)
 1. [勇士vs火箭](https://www.zhihu.com/search?q=%E5%8B%87%E5%A3%ABvs%E7%81%AB%E7%AE%AD)
+1. [电影《夜王》热映](https://www.zhihu.com/search?q=%E7%94%B5%E5%BD%B1%E3%80%8A%E5%A4%9C%E7%8E%8B%E3%80%8B%E7%83%AD%E6%98%A0)
 1. [周杰伦 田馥甄](https://www.zhihu.com/search?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%20%E7%94%B0%E9%A6%A5%E7%94%84)
 1. [速览中东危局40小时](https://www.zhihu.com/search?q=%E9%80%9F%E8%A7%88%E4%B8%AD%E4%B8%9C%E5%8D%B1%E5%B1%8040%E5%B0%8F%E6%97%B6)
 1. [中国造全球首款机器人手机亮相](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E9%80%A0%E5%85%A8%E7%90%83%E9%A6%96%E6%AC%BE%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%89%8B%E6%9C%BA%E4%BA%AE%E7%9B%B8)
