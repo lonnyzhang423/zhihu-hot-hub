@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-03-10 00:07:03 +0800`
+`更新时间：2026-03-10 01:52:02 +0800`
 
 ## 热门搜索
 
@@ -40,6 +40,7 @@
 1. [你对25岁的年轻人有哪些忠告](https://www.zhihu.com/search?q=%E4%BD%A0%E5%AF%B925%E5%B2%81%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%9C%89%E5%93%AA%E4%BA%9B%E5%BF%A0%E5%91%8A)
 1. [如何理解允许自己糟糕地进步](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%90%86%E8%A7%A3%E5%85%81%E8%AE%B8%E8%87%AA%E5%B7%B1%E7%B3%9F%E7%B3%95%E5%9C%B0%E8%BF%9B%E6%AD%A5)
 1. [为什么葡萄酒在中国火不起来](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%91%A1%E8%90%84%E9%85%92%E5%9C%A8%E4%B8%AD%E5%9B%BD%E7%81%AB%E4%B8%8D%E8%B5%B7%E6%9D%A5)
+1. [马刺vs火箭](https://www.zhihu.com/search?q=%E9%A9%AC%E5%88%BAvs%E7%81%AB%E7%AE%AD)
 
 ## 热门话题
 
