@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-03-10 06:37:07 +0800`
+`更新时间：2026-03-10 07:35:25 +0800`
 
 ## 热门搜索
 
-1. [周杰伦新专辑](https://www.zhihu.com/search?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E4%B8%93%E8%BE%91)
+1. [国内成品油价格将迎4连涨](https://www.zhihu.com/search?q=%E5%9B%BD%E5%86%85%E6%88%90%E5%93%81%E6%B2%B9%E4%BB%B7%E6%A0%BC%E5%B0%86%E8%BF%8E4%E8%BF%9E%E6%B6%A8)
+1. [多地宣布停车费下调](https://www.zhihu.com/search?q=%E5%A4%9A%E5%9C%B0%E5%AE%A3%E5%B8%83%E5%81%9C%E8%BD%A6%E8%B4%B9%E4%B8%8B%E8%B0%83)
 1. [湖人vs掘金](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BAvs%E6%8E%98%E9%87%91)
 1. [快船vs灰熊](https://www.zhihu.com/search?q=%E5%BF%AB%E8%88%B9vs%E7%81%B0%E7%86%8A)
 1. [乐队打架什么乐器伤害最高](https://www.zhihu.com/search?q=%E4%B9%90%E9%98%9F%E6%89%93%E6%9E%B6%E4%BB%80%E4%B9%88%E4%B9%90%E5%99%A8%E4%BC%A4%E5%AE%B3%E6%9C%80%E9%AB%98)
