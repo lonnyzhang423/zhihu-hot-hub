@@ -11,10 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-03-11 06:36:27 +0800`
+`更新时间：2026-03-11 07:35:01 +0800`
 
 ## 热门搜索
 
+1. [李羲承退出ENHYPEN](https://www.zhihu.com/search?q=%E6%9D%8E%E7%BE%B2%E6%89%BF%E9%80%80%E5%87%BAENHYPEN)
 1. [白日提灯](https://www.zhihu.com/search?q=%E7%99%BD%E6%97%A5%E6%8F%90%E7%81%AF)
 1. [孙宇晨花 624 万美元买下一根香蕉](https://www.zhihu.com/search?q=%E5%AD%99%E5%AE%87%E6%99%A8%E8%8A%B1%20624%20%E4%B8%87%E7%BE%8E%E5%85%83%E4%B9%B0%E4%B8%8B%E4%B8%80%E6%A0%B9%E9%A6%99%E8%95%89)
 1. [全国秋粮累计收购超3亿吨](https://www.zhihu.com/search?q=%E5%85%A8%E5%9B%BD%E7%A7%8B%E7%B2%AE%E7%B4%AF%E8%AE%A1%E6%94%B6%E8%B4%AD%E8%B6%853%E4%BA%BF%E5%90%A8)
