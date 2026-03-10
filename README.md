@@ -11,12 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-03-10 12:00:51 +0800`
+`更新时间：2026-03-10 13:12:15 +0800`
 
 ## 热门搜索
 
-1. [美以伊冲突影响持续外溢](https://www.zhihu.com/search?q=%E7%BE%8E%E4%BB%A5%E4%BC%8A%E5%86%B2%E7%AA%81%E5%BD%B1%E5%93%8D%E6%8C%81%E7%BB%AD%E5%A4%96%E6%BA%A2)
-1. [AI辅助问诊模式普及与接受](https://www.zhihu.com/search?q=AI%E8%BE%85%E5%8A%A9%E9%97%AE%E8%AF%8A%E6%A8%A1%E5%BC%8F%E6%99%AE%E5%8F%8A%E4%B8%8E%E6%8E%A5%E5%8F%97)
+1. [周杰伦新专辑](https://www.zhihu.com/search?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E4%B8%93%E8%BE%91)
 1. [湖人vs掘金](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BAvs%E6%8E%98%E9%87%91)
 1. [孙宇晨花 624 万美元买下一根香蕉](https://www.zhihu.com/search?q=%E5%AD%99%E5%AE%87%E6%99%A8%E8%8A%B1%20624%20%E4%B8%87%E7%BE%8E%E5%85%83%E4%B9%B0%E4%B8%8B%E4%B8%80%E6%A0%B9%E9%A6%99%E8%95%89)
 1. [快船vs灰熊](https://www.zhihu.com/search?q=%E5%BF%AB%E8%88%B9vs%E7%81%B0%E7%86%8A)
