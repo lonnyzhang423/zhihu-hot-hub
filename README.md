@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-03-10 14:37:20 +0800`
+`更新时间：2026-03-10 15:35:18 +0800`
 
 ## 热门搜索
 
@@ -30,6 +30,7 @@
 1. [为什么现在的孩子会沉迷手机](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E7%9A%84%E5%AD%A9%E5%AD%90%E4%BC%9A%E6%B2%89%E8%BF%B7%E6%89%8B%E6%9C%BA)
 1. [汇报工作时如何做到清晰有条理](https://www.zhihu.com/search?q=%E6%B1%87%E6%8A%A5%E5%B7%A5%E4%BD%9C%E6%97%B6%E5%A6%82%E4%BD%95%E5%81%9A%E5%88%B0%E6%B8%85%E6%99%B0%E6%9C%89%E6%9D%A1%E7%90%86)
 1. [为什么很多人喜欢和AI对话](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BE%88%E5%A4%9A%E4%BA%BA%E5%96%9C%E6%AC%A2%E5%92%8CAI%E5%AF%B9%E8%AF%9D)
+1. [中国是世界上最安全国家之一](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E6%98%AF%E4%B8%96%E7%95%8C%E4%B8%8A%E6%9C%80%E5%AE%89%E5%85%A8%E5%9B%BD%E5%AE%B6%E4%B9%8B%E4%B8%80)
 1. [什么家庭能养出松弛感的孩子](https://www.zhihu.com/search?q=%E4%BB%80%E4%B9%88%E5%AE%B6%E5%BA%AD%E8%83%BD%E5%85%BB%E5%87%BA%E6%9D%BE%E5%BC%9B%E6%84%9F%E7%9A%84%E5%AD%A9%E5%AD%90)
 1. [什么生活常识必须知道](https://www.zhihu.com/search?q=%E4%BB%80%E4%B9%88%E7%94%9F%E6%B4%BB%E5%B8%B8%E8%AF%86%E5%BF%85%E9%A1%BB%E7%9F%A5%E9%81%93)
 1. [为什么王阳明的思想在中国不流行](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%8B%E9%98%B3%E6%98%8E%E7%9A%84%E6%80%9D%E6%83%B3%E5%9C%A8%E4%B8%AD%E5%9B%BD%E4%B8%8D%E6%B5%81%E8%A1%8C)
