@@ -11,12 +11,14 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-03-10 09:11:44 +0800`
+`更新时间：2026-03-10 12:00:51 +0800`
 
 ## 热门搜索
 
-1. [绝不允许任何人为侵略翻案](https://www.zhihu.com/search?q=%E7%BB%9D%E4%B8%8D%E5%85%81%E8%AE%B8%E4%BB%BB%E4%BD%95%E4%BA%BA%E4%B8%BA%E4%BE%B5%E7%95%A5%E7%BF%BB%E6%A1%88)
+1. [美以伊冲突影响持续外溢](https://www.zhihu.com/search?q=%E7%BE%8E%E4%BB%A5%E4%BC%8A%E5%86%B2%E7%AA%81%E5%BD%B1%E5%93%8D%E6%8C%81%E7%BB%AD%E5%A4%96%E6%BA%A2)
+1. [AI辅助问诊模式普及与接受](https://www.zhihu.com/search?q=AI%E8%BE%85%E5%8A%A9%E9%97%AE%E8%AF%8A%E6%A8%A1%E5%BC%8F%E6%99%AE%E5%8F%8A%E4%B8%8E%E6%8E%A5%E5%8F%97)
 1. [湖人vs掘金](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BAvs%E6%8E%98%E9%87%91)
+1. [孙宇晨花 624 万美元买下一根香蕉](https://www.zhihu.com/search?q=%E5%AD%99%E5%AE%87%E6%99%A8%E8%8A%B1%20624%20%E4%B8%87%E7%BE%8E%E5%85%83%E4%B9%B0%E4%B8%8B%E4%B8%80%E6%A0%B9%E9%A6%99%E8%95%89)
 1. [快船vs灰熊](https://www.zhihu.com/search?q=%E5%BF%AB%E8%88%B9vs%E7%81%B0%E7%86%8A)
 1. [乐队打架什么乐器伤害最高](https://www.zhihu.com/search?q=%E4%B9%90%E9%98%9F%E6%89%93%E6%9E%B6%E4%BB%80%E4%B9%88%E4%B9%90%E5%99%A8%E4%BC%A4%E5%AE%B3%E6%9C%80%E9%AB%98)
 1. [BLG战胜JDG](https://www.zhihu.com/search?q=BLG%E6%88%98%E8%83%9CJDG)
@@ -40,7 +42,6 @@
 1. [你对25岁的年轻人有哪些忠告](https://www.zhihu.com/search?q=%E4%BD%A0%E5%AF%B925%E5%B2%81%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%9C%89%E5%93%AA%E4%BA%9B%E5%BF%A0%E5%91%8A)
 1. [如何理解允许自己糟糕地进步](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%90%86%E8%A7%A3%E5%85%81%E8%AE%B8%E8%87%AA%E5%B7%B1%E7%B3%9F%E7%B3%95%E5%9C%B0%E8%BF%9B%E6%AD%A5)
 1. [为什么葡萄酒在中国火不起来](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%91%A1%E8%90%84%E9%85%92%E5%9C%A8%E4%B8%AD%E5%9B%BD%E7%81%AB%E4%B8%8D%E8%B5%B7%E6%9D%A5)
-1. [马刺vs火箭](https://www.zhihu.com/search?q=%E9%A9%AC%E5%88%BAvs%E7%81%AB%E7%AE%AD)
 
 ## 热门话题
 
