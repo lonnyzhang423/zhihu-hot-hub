@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-03-12 01:01:34 +0800`
+`更新时间：2026-03-12 03:02:49 +0800`
 
 ## 热门搜索
 
@@ -30,7 +30,6 @@
 1. [小米发布国内第一个手机版龙虾](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3%E5%8F%91%E5%B8%83%E5%9B%BD%E5%86%85%E7%AC%AC%E4%B8%80%E4%B8%AA%E6%89%8B%E6%9C%BA%E7%89%88%E9%BE%99%E8%99%BE)
 1. [F1 2026 揭幕战拉塞尔夺冠](https://www.zhihu.com/search?q=F1%202026%20%E6%8F%AD%E5%B9%95%E6%88%98%E6%8B%89%E5%A1%9E%E5%B0%94%E5%A4%BA%E5%86%A0)
 1. [中传一口气砍掉16个本科专业](https://www.zhihu.com/search?q=%E4%B8%AD%E4%BC%A0%E4%B8%80%E5%8F%A3%E6%B0%94%E7%A0%8D%E6%8E%8916%E4%B8%AA%E6%9C%AC%E7%A7%91%E4%B8%93%E4%B8%9A)
-1. [中传砍掉翻译摄影等16个专业](https://www.zhihu.com/search?q=%E4%B8%AD%E4%BC%A0%E7%A0%8D%E6%8E%89%E7%BF%BB%E8%AF%91%E6%91%84%E5%BD%B1%E7%AD%8916%E4%B8%AA%E4%B8%93%E4%B8%9A)
 
 ## 热门话题
 
