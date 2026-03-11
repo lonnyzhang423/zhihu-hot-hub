@@ -11,12 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-03-11 16:30:28 +0800`
+`更新时间：2026-03-11 17:33:52 +0800`
 
 ## 热门搜索
 
-1. [张艺兴工作室发声明](https://www.zhihu.com/search?q=%E5%BC%A0%E8%89%BA%E5%85%B4%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%8F%91%E5%A3%B0%E6%98%8E)
-1. [太平年中哪个配角塑造的最出彩](https://www.zhihu.com/search?q=%E5%A4%AA%E5%B9%B3%E5%B9%B4%E4%B8%AD%E5%93%AA%E4%B8%AA%E9%85%8D%E8%A7%92%E5%A1%91%E9%80%A0%E7%9A%84%E6%9C%80%E5%87%BA%E5%BD%A9)
+1. [白日提灯](https://www.zhihu.com/search?q=%E7%99%BD%E6%97%A5%E6%8F%90%E7%81%AF)
 1. [沪深两市成交额突破1万亿元](https://www.zhihu.com/search?q=%E6%B2%AA%E6%B7%B1%E4%B8%A4%E5%B8%82%E6%88%90%E4%BA%A4%E9%A2%9D%E7%AA%81%E7%A0%B41%E4%B8%87%E4%BA%BF%E5%85%83)
 1. [孙宇晨花 624 万美元买下一根香蕉](https://www.zhihu.com/search?q=%E5%AD%99%E5%AE%87%E6%99%A8%E8%8A%B1%20624%20%E4%B8%87%E7%BE%8E%E5%85%83%E4%B9%B0%E4%B8%8B%E4%B8%80%E6%A0%B9%E9%A6%99%E8%95%89)
 1. [全国秋粮累计收购超3亿吨](https://www.zhihu.com/search?q=%E5%85%A8%E5%9B%BD%E7%A7%8B%E7%B2%AE%E7%B4%AF%E8%AE%A1%E6%94%B6%E8%B4%AD%E8%B6%853%E4%BA%BF%E5%90%A8)
