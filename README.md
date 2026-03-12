@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-03-12 17:34:24 +0800`
+`更新时间：2026-03-12 18:30:47 +0800`
 
 ## 热门搜索
 
@@ -22,6 +22,7 @@
 1. [全国秋粮累计收购超3亿吨](https://www.zhihu.com/search?q=%E5%85%A8%E5%9B%BD%E7%A7%8B%E7%B2%AE%E7%B4%AF%E8%AE%A1%E6%94%B6%E8%B4%AD%E8%B6%853%E4%BA%BF%E5%90%A8)
 1. [湖人击败森林狼](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BA%E5%87%BB%E8%B4%A5%E6%A3%AE%E6%9E%97%E7%8B%BC)
 1. [运动真的能改变一个人吗](https://www.zhihu.com/search?q=%E8%BF%90%E5%8A%A8%E7%9C%9F%E7%9A%84%E8%83%BD%E6%94%B9%E5%8F%98%E4%B8%80%E4%B8%AA%E4%BA%BA%E5%90%97)
+1. [杨瀚森出战G联赛](https://www.zhihu.com/search?q=%E6%9D%A8%E7%80%9A%E6%A3%AE%E5%87%BA%E6%88%98G%E8%81%94%E8%B5%9B)
 1. [陈垣宇vs雨果](https://www.zhihu.com/search?q=%E9%99%88%E5%9E%A3%E5%AE%87vs%E9%9B%A8%E6%9E%9C)
 1. [孙宇晨称删「90前」勿沾老登气息](https://www.zhihu.com/search?q=%E5%AD%99%E5%AE%87%E6%99%A8%E7%A7%B0%E5%88%A0%E3%80%8C90%E5%89%8D%E3%80%8D%E5%8B%BF%E6%B2%BE%E8%80%81%E7%99%BB%E6%B0%94%E6%81%AF)
 1. [速览中东危局40小时](https://www.zhihu.com/search?q=%E9%80%9F%E8%A7%88%E4%B8%AD%E4%B8%9C%E5%8D%B1%E5%B1%8040%E5%B0%8F%E6%97%B6)
@@ -30,7 +31,6 @@
 1. [苹果春季新品上手评测](https://www.zhihu.com/search?q=%E8%8B%B9%E6%9E%9C%E6%98%A5%E5%AD%A3%E6%96%B0%E5%93%81%E4%B8%8A%E6%89%8B%E8%AF%84%E6%B5%8B)
 1. [逐玉开播](https://www.zhihu.com/search?q=%E9%80%90%E7%8E%89%E5%BC%80%E6%92%AD)
 1. [小米发布国内第一个手机版龙虾](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3%E5%8F%91%E5%B8%83%E5%9B%BD%E5%86%85%E7%AC%AC%E4%B8%80%E4%B8%AA%E6%89%8B%E6%9C%BA%E7%89%88%E9%BE%99%E8%99%BE)
-1. [中传一口气砍掉16个本科专业](https://www.zhihu.com/search?q=%E4%B8%AD%E4%BC%A0%E4%B8%80%E5%8F%A3%E6%B0%94%E7%A0%8D%E6%8E%8916%E4%B8%AA%E6%9C%AC%E7%A7%91%E4%B8%93%E4%B8%9A)
 
 ## 热门话题
 
