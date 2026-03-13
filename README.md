@@ -11,10 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-03-13 12:04:08 +0800`
+`更新时间：2026-03-13 13:41:41 +0800`
 
 ## 热门搜索
 
+1. [你养的龙虾安全吗](https://www.zhihu.com/search?q=%E4%BD%A0%E5%85%BB%E7%9A%84%E9%BE%99%E8%99%BE%E5%AE%89%E5%85%A8%E5%90%97)
+1. [节能风电涨停](https://www.zhihu.com/search?q=%E8%8A%82%E8%83%BD%E9%A3%8E%E7%94%B5%E6%B6%A8%E5%81%9C)
 1. [皇马vs曼城](https://www.zhihu.com/search?q=%E7%9A%87%E9%A9%ACvs%E6%9B%BC%E5%9F%8E)
 1. [沪深两市成交额突破1万亿元](https://www.zhihu.com/search?q=%E6%B2%AA%E6%B7%B1%E4%B8%A4%E5%B8%82%E6%88%90%E4%BA%A4%E9%A2%9D%E7%AA%81%E7%A0%B41%E4%B8%87%E4%BA%BF%E5%85%83)
 1. [湖人击败森林狼](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BA%E5%87%BB%E8%B4%A5%E6%A3%AE%E6%9E%97%E7%8B%BC)
