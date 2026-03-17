@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-03-17 17:45:27 +0800`
+`更新时间：2026-03-17 18:41:18 +0800`
 
 ## 热门搜索
 
-1. [温瑞博不敌F勒布伦](https://www.zhihu.com/search?q=%E6%B8%A9%E7%91%9E%E5%8D%9A%E4%B8%8D%E6%95%8CF%E5%8B%92%E5%B8%83%E4%BC%A6)
+1. [3·15晚会后 多地连夜通报](https://www.zhihu.com/search?q=3%C2%B715%E6%99%9A%E4%BC%9A%E5%90%8E%20%E5%A4%9A%E5%9C%B0%E8%BF%9E%E5%A4%9C%E9%80%9A%E6%8A%A5)
+1. [AI 家电的故事讲了 3 年](https://www.zhihu.com/search?q=AI%20%E5%AE%B6%E7%94%B5%E7%9A%84%E6%95%85%E4%BA%8B%E8%AE%B2%E4%BA%86%203%20%E5%B9%B4)
 1. [性格内向的人看起来更显小](https://www.zhihu.com/search?q=%E6%80%A7%E6%A0%BC%E5%86%85%E5%90%91%E7%9A%84%E4%BA%BA%E7%9C%8B%E8%B5%B7%E6%9D%A5%E6%9B%B4%E6%98%BE%E5%B0%8F)
 1. [现在干什么能挣钱](https://www.zhihu.com/search?q=%E7%8E%B0%E5%9C%A8%E5%B9%B2%E4%BB%80%E4%B9%88%E8%83%BD%E6%8C%A3%E9%92%B1)
 1. [2月70城房价出炉](https://www.zhihu.com/search?q=2%E6%9C%8870%E5%9F%8E%E6%88%BF%E4%BB%B7%E5%87%BA%E7%82%89)
