@@ -11,10 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-03-17 10:44:06 +0800`
+`更新时间：2026-03-17 12:58:55 +0800`
 
 ## 热门搜索
 
+1. [奥斯卡红毯](https://www.zhihu.com/search?q=%E5%A5%A5%E6%96%AF%E5%8D%A1%E7%BA%A2%E6%AF%AF)
+1. [现在干什么能挣钱](https://www.zhihu.com/search?q=%E7%8E%B0%E5%9C%A8%E5%B9%B2%E4%BB%80%E4%B9%88%E8%83%BD%E6%8C%A3%E9%92%B1)
 1. [315晚会曝光名单](https://www.zhihu.com/search?q=315%E6%99%9A%E4%BC%9A%E6%9B%9D%E5%85%89%E5%90%8D%E5%8D%95)
 1. [日本的汽车产业还能支撑多久](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E7%9A%84%E6%B1%BD%E8%BD%A6%E4%BA%A7%E4%B8%9A%E8%BF%98%E8%83%BD%E6%94%AF%E6%92%91%E5%A4%9A%E4%B9%85)
 1. [你的低成本爱好是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9A%84%E4%BD%8E%E6%88%90%E6%9C%AC%E7%88%B1%E5%A5%BD%E6%98%AF%E4%BB%80%E4%B9%88)
@@ -34,7 +36,6 @@
 1. [现货黄金跌破5000美元](https://www.zhihu.com/search?q=%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E8%B7%8C%E7%A0%B45000%E7%BE%8E%E5%85%83)
 1. [六人定律是否真的成立](https://www.zhihu.com/search?q=%E5%85%AD%E4%BA%BA%E5%AE%9A%E5%BE%8B%E6%98%AF%E5%90%A6%E7%9C%9F%E7%9A%84%E6%88%90%E7%AB%8B)
 1. [怎样判断一个人的认知在你之上](https://www.zhihu.com/search?q=%E6%80%8E%E6%A0%B7%E5%88%A4%E6%96%AD%E4%B8%80%E4%B8%AA%E4%BA%BA%E7%9A%84%E8%AE%A4%E7%9F%A5%E5%9C%A8%E4%BD%A0%E4%B9%8B%E4%B8%8A)
-1. [AWE 2026](https://www.zhihu.com/search?q=AWE%202026)
 
 ## 热门话题
 
