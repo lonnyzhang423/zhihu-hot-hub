@@ -11,11 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-03-18 12:15:13 +0800`
+`更新时间：2026-03-18 13:57:21 +0800`
 
 ## 热门搜索
 
-1. [湖人vs火箭](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BAvs%E7%81%AB%E7%AE%AD)
+1. [什么东西早就应该发明出来](https://www.zhihu.com/search?q=%E4%BB%80%E4%B9%88%E4%B8%9C%E8%A5%BF%E6%97%A9%E5%B0%B1%E5%BA%94%E8%AF%A5%E5%8F%91%E6%98%8E%E5%87%BA%E6%9D%A5)
 1. [胖东来](https://www.zhihu.com/search?q=%E8%83%96%E4%B8%9C%E6%9D%A5)
 1. [性格内向的人看起来更显小](https://www.zhihu.com/search?q=%E6%80%A7%E6%A0%BC%E5%86%85%E5%90%91%E7%9A%84%E4%BA%BA%E7%9C%8B%E8%B5%B7%E6%9D%A5%E6%9B%B4%E6%98%BE%E5%B0%8F)
 1. [现在干什么能挣钱](https://www.zhihu.com/search?q=%E7%8E%B0%E5%9C%A8%E5%B9%B2%E4%BB%80%E4%B9%88%E8%83%BD%E6%8C%A3%E9%92%B1)
