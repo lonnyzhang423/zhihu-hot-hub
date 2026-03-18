@@ -11,11 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-03-18 09:21:30 +0800`
+`更新时间：2026-03-18 12:15:13 +0800`
 
 ## 热门搜索
 
-1. [AWE 2026](https://www.zhihu.com/search?q=AWE%202026)
+1. [湖人vs火箭](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BAvs%E7%81%AB%E7%AE%AD)
 1. [胖东来](https://www.zhihu.com/search?q=%E8%83%96%E4%B8%9C%E6%9D%A5)
 1. [性格内向的人看起来更显小](https://www.zhihu.com/search?q=%E6%80%A7%E6%A0%BC%E5%86%85%E5%90%91%E7%9A%84%E4%BA%BA%E7%9C%8B%E8%B5%B7%E6%9D%A5%E6%9B%B4%E6%98%BE%E5%B0%8F)
 1. [现在干什么能挣钱](https://www.zhihu.com/search?q=%E7%8E%B0%E5%9C%A8%E5%B9%B2%E4%BB%80%E4%B9%88%E8%83%BD%E6%8C%A3%E9%92%B1)
@@ -24,7 +24,7 @@
 1. [钓鱼佬最接受不了什么](https://www.zhihu.com/search?q=%E9%92%93%E9%B1%BC%E4%BD%AC%E6%9C%80%E6%8E%A5%E5%8F%97%E4%B8%8D%E4%BA%86%E4%BB%80%E4%B9%88)
 1. [速览中东危局40小时](https://www.zhihu.com/search?q=%E9%80%9F%E8%A7%88%E4%B8%AD%E4%B8%9C%E5%8D%B1%E5%B1%8040%E5%B0%8F%E6%97%B6)
 1. [十五五 你的未来说明书](https://www.zhihu.com/search?q=%E5%8D%81%E4%BA%94%E4%BA%94%20%E4%BD%A0%E7%9A%84%E6%9C%AA%E6%9D%A5%E8%AF%B4%E6%98%8E%E4%B9%A6)
-1. [再次呼吁各方立即停止军事行动](https://www.zhihu.com/search?q=%E5%86%8D%E6%AC%A1%E5%91%BC%E5%90%81%E5%90%84%E6%96%B9%E7%AB%8B%E5%8D%B3%E5%81%9C%E6%AD%A2%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8)
+1. [AWE 2026](https://www.zhihu.com/search?q=AWE%202026)
 1. [AWE 家的参考系](https://www.zhihu.com/search?q=AWE%20%E5%AE%B6%E7%9A%84%E5%8F%82%E8%80%83%E7%B3%BB)
 1. [AWE 是啥？](https://www.zhihu.com/search?q=AWE%20%E6%98%AF%E5%95%A5%EF%BC%9F)
 1. [AWE 逛展看什么？](https://www.zhihu.com/search?q=AWE%20%E9%80%9B%E5%B1%95%E7%9C%8B%E4%BB%80%E4%B9%88%EF%BC%9F)
