@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-03-19 22:03:08 +0800`
+`更新时间：2026-03-19 23:43:44 +0800`
 
 ## 热门搜索
 
-1. [湖人vs火箭](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BAvs%E7%81%AB%E7%AE%AD)
-1. [迪丽热巴白日提灯](https://www.zhihu.com/search?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%99%BD%E6%97%A5%E6%8F%90%E7%81%AF)
+1. [谢征樊长玉好磕](https://www.zhihu.com/search?q=%E8%B0%A2%E5%BE%81%E6%A8%8A%E9%95%BF%E7%8E%89%E5%A5%BD%E7%A3%95)
+1. [泰柬边境电诈园实行企业化管理](https://www.zhihu.com/search?q=%E6%B3%B0%E6%9F%AC%E8%BE%B9%E5%A2%83%E7%94%B5%E8%AF%88%E5%9B%AD%E5%AE%9E%E8%A1%8C%E4%BC%81%E4%B8%9A%E5%8C%96%E7%AE%A1%E7%90%86)
 1. [俄罗斯警告日本](https://www.zhihu.com/search?q=%E4%BF%84%E7%BD%97%E6%96%AF%E8%AD%A6%E5%91%8A%E6%97%A5%E6%9C%AC)
 1. [美联储宣布维持利率不变](https://www.zhihu.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8%E5%AE%A3%E5%B8%83%E7%BB%B4%E6%8C%81%E5%88%A9%E7%8E%87%E4%B8%8D%E5%8F%98)
 1. [巴萨晋级欧冠八强](https://www.zhihu.com/search?q=%E5%B7%B4%E8%90%A8%E6%99%8B%E7%BA%A7%E6%AC%A7%E5%86%A0%E5%85%AB%E5%BC%BA)
