@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-03-19 17:34:34 +0800`
+`更新时间：2026-03-19 18:31:31 +0800`
 
 ## 热门搜索
 
-1. [湖人vs火箭](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BAvs%E7%81%AB%E7%AE%AD)
-1. [迪丽热巴白日提灯](https://www.zhihu.com/search?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%99%BD%E6%97%A5%E6%8F%90%E7%81%AF)
+1. [古巴再次发生全国范围断电](https://www.zhihu.com/search?q=%E5%8F%A4%E5%B7%B4%E5%86%8D%E6%AC%A1%E5%8F%91%E7%94%9F%E5%85%A8%E5%9B%BD%E8%8C%83%E5%9B%B4%E6%96%AD%E7%94%B5)
+1. [湘雅医院回应坠亡研究生的导师停诊](https://www.zhihu.com/search?q=%E6%B9%98%E9%9B%85%E5%8C%BB%E9%99%A2%E5%9B%9E%E5%BA%94%E5%9D%A0%E4%BA%A1%E7%A0%94%E7%A9%B6%E7%94%9F%E7%9A%84%E5%AF%BC%E5%B8%88%E5%81%9C%E8%AF%8A)
 1. [薛之谦演唱会](https://www.zhihu.com/search?q=%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%BC%94%E5%94%B1%E4%BC%9A)
 1. [太阳vs森林狼](https://www.zhihu.com/search?q=%E5%A4%AA%E9%98%B3vs%E6%A3%AE%E6%9E%97%E7%8B%BC)
 1. [现在干什么能挣钱](https://www.zhihu.com/search?q=%E7%8E%B0%E5%9C%A8%E5%B9%B2%E4%BB%80%E4%B9%88%E8%83%BD%E6%8C%A3%E9%92%B1)
