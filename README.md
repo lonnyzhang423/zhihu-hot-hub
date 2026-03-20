@@ -11,12 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-03-20 12:06:13 +0800`
+`更新时间：2026-03-20 13:44:27 +0800`
 
 ## 热门搜索
 
-1. [湖人vs火箭](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BAvs%E7%81%AB%E7%AE%AD)
-1. [俄罗斯警告日本](https://www.zhihu.com/search?q=%E4%BF%84%E7%BD%97%E6%96%AF%E8%AD%A6%E5%91%8A%E6%97%A5%E6%9C%AC)
+1. [油价涨了冲锋衣可能更贵](https://www.zhihu.com/search?q=%E6%B2%B9%E4%BB%B7%E6%B6%A8%E4%BA%86%E5%86%B2%E9%94%8B%E8%A1%A3%E5%8F%AF%E8%83%BD%E6%9B%B4%E8%B4%B5)
 1. [美联储宣布维持利率不变](https://www.zhihu.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8%E5%AE%A3%E5%B8%83%E7%BB%B4%E6%8C%81%E5%88%A9%E7%8E%87%E4%B8%8D%E5%8F%98)
 1. [巴萨晋级欧冠八强](https://www.zhihu.com/search?q=%E5%B7%B4%E8%90%A8%E6%99%8B%E7%BA%A7%E6%AC%A7%E5%86%A0%E5%85%AB%E5%BC%BA)
 1. [薛之谦演唱会](https://www.zhihu.com/search?q=%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%BC%94%E5%94%B1%E4%BC%9A)
