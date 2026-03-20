@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-03-20 13:57:59 +0800`
+`更新时间：2026-03-20 15:08:05 +0800`
 
 ## 热门搜索
 
@@ -37,7 +37,6 @@
 1. [逛 AWE，问什么显得我很懂](https://www.zhihu.com/search?q=%E9%80%9B%20AWE%EF%BC%8C%E9%97%AE%E4%BB%80%E4%B9%88%E6%98%BE%E5%BE%97%E6%88%91%E5%BE%88%E6%87%82)
 1. [AWE，智能生活的 next level？](https://www.zhihu.com/search?q=AWE%EF%BC%8C%E6%99%BA%E8%83%BD%E7%94%9F%E6%B4%BB%E7%9A%84%20next%20level%EF%BC%9F)
 1. [杨旭文空降 AWE 知乎展台](https://www.zhihu.com/search?q=%E6%9D%A8%E6%97%AD%E6%96%87%E7%A9%BA%E9%99%8D%20AWE%20%E7%9F%A5%E4%B9%8E%E5%B1%95%E5%8F%B0)
-1. [不探案，只探展！杨旭文出任一日店长！](https://www.zhihu.com/search?q=%E4%B8%8D%E6%8E%A2%E6%A1%88%EF%BC%8C%E5%8F%AA%E6%8E%A2%E5%B1%95%EF%BC%81%E6%9D%A8%E6%97%AD%E6%96%87%E5%87%BA%E4%BB%BB%E4%B8%80%E6%97%A5%E5%BA%97%E9%95%BF%EF%BC%81)
 
 ## 热门话题
 
