@@ -11,10 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-03-22 18:36:14 +0800`
+`更新时间：2026-03-22 19:30:34 +0800`
 
 ## 热门搜索
 
+1. [今日春分](https://www.zhihu.com/search?q=%E4%BB%8A%E6%97%A5%E6%98%A5%E5%88%86)
+1. [二月二龙抬头](https://www.zhihu.com/search?q=%E4%BA%8C%E6%9C%88%E4%BA%8C%E9%BE%99%E6%8A%AC%E5%A4%B4)
 1. [肖战宝诗龙](https://www.zhihu.com/search?q=%E8%82%96%E6%88%98%E5%AE%9D%E8%AF%97%E9%BE%99)
 1. [湖人vs热火](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BAvs%E7%83%AD%E7%81%AB)
 1. [湖人vs火箭](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BAvs%E7%81%AB%E7%AE%AD)
