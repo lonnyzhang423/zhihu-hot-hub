@@ -11,34 +11,35 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-03-23 18:44:20 +0800`
+`更新时间：2026-03-23 19:37:47 +0800`
 
 ## 热门搜索
 
 1. [美联储宣布维持利率不变](https://www.zhihu.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8%E5%AE%A3%E5%B8%83%E7%BB%B4%E6%8C%81%E5%88%A9%E7%8E%87%E4%B8%8D%E5%8F%98)
 1. [薛之谦演唱会](https://www.zhihu.com/search?q=%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%BC%94%E5%94%B1%E4%BC%9A)
 1. [为什么地球上不存在巨兽](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%9C%B0%E7%90%83%E4%B8%8A%E4%B8%8D%E5%AD%98%E5%9C%A8%E5%B7%A8%E5%85%BD)
+1. [bin](https://www.zhihu.com/search?q=bin)
 1. [BLG夺冠](https://www.zhihu.com/search?q=BLG%E5%A4%BA%E5%86%A0)
+1. [热火vs火箭](https://www.zhihu.com/search?q=%E7%83%AD%E7%81%ABvs%E7%81%AB%E7%AE%AD)
 1. [巴萨vs巴列卡诺](https://www.zhihu.com/search?q=%E5%B7%B4%E8%90%A8vs%E5%B7%B4%E5%88%97%E5%8D%A1%E8%AF%BA)
+1. [乐队打架什么乐器伤害最高](https://www.zhihu.com/search?q=%E4%B9%90%E9%98%9F%E6%89%93%E6%9E%B6%E4%BB%80%E4%B9%88%E4%B9%90%E5%99%A8%E4%BC%A4%E5%AE%B3%E6%9C%80%E9%AB%98)
+1. [人到中年你突然领悟了什么](https://www.zhihu.com/search?q=%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E4%BD%A0%E7%AA%81%E7%84%B6%E9%A2%86%E6%82%9F%E4%BA%86%E4%BB%80%E4%B9%88)
+1. [美军为什么打不赢治安战](https://www.zhihu.com/search?q=%E7%BE%8E%E5%86%9B%E4%B8%BA%E4%BB%80%E4%B9%88%E6%89%93%E4%B8%8D%E8%B5%A2%E6%B2%BB%E5%AE%89%E6%88%98)
+1. [为什么年轻人反感老一辈的说教](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%8F%8D%E6%84%9F%E8%80%81%E4%B8%80%E8%BE%88%E7%9A%84%E8%AF%B4%E6%95%99)
+1. [经常出差的生活是怎么样的](https://www.zhihu.com/search?q=%E7%BB%8F%E5%B8%B8%E5%87%BA%E5%B7%AE%E7%9A%84%E7%94%9F%E6%B4%BB%E6%98%AF%E6%80%8E%E4%B9%88%E6%A0%B7%E7%9A%84)
+1. [有哪些原来很贵的食材现在便宜了](https://www.zhihu.com/search?q=%E6%9C%89%E5%93%AA%E4%BA%9B%E5%8E%9F%E6%9D%A5%E5%BE%88%E8%B4%B5%E7%9A%84%E9%A3%9F%E6%9D%90%E7%8E%B0%E5%9C%A8%E4%BE%BF%E5%AE%9C%E4%BA%86)
+1. [为什么大家都不提中国空间站了](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A4%A7%E5%AE%B6%E9%83%BD%E4%B8%8D%E6%8F%90%E4%B8%AD%E5%9B%BD%E7%A9%BA%E9%97%B4%E7%AB%99%E4%BA%86)
+1. [为什么现在的孩子会沉迷手机](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E7%9A%84%E5%AD%A9%E5%AD%90%E4%BC%9A%E6%B2%89%E8%BF%B7%E6%89%8B%E6%9C%BA)
+1. [为什么很多人喜欢和AI对话](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BE%88%E5%A4%9A%E4%BA%BA%E5%96%9C%E6%AC%A2%E5%92%8CAI%E5%AF%B9%E8%AF%9D)
+1. [尼采为什么要抱着马哭](https://www.zhihu.com/search?q=%E5%B0%BC%E9%87%87%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E6%8A%B1%E7%9D%80%E9%A9%AC%E5%93%AD)
 1. [猫咪为啥会陪人睡一晚上呢](https://www.zhihu.com/search?q=%E7%8C%AB%E5%92%AA%E4%B8%BA%E5%95%A5%E4%BC%9A%E9%99%AA%E4%BA%BA%E7%9D%A1%E4%B8%80%E6%99%9A%E4%B8%8A%E5%91%A2)
-1. [速览中东危局40小时](https://www.zhihu.com/search?q=%E9%80%9F%E8%A7%88%E4%B8%AD%E4%B8%9C%E5%8D%B1%E5%B1%8040%E5%B0%8F%E6%97%B6)
-1. [AWE 2026](https://www.zhihu.com/search?q=AWE%202026)
-1. [AWE 家的参考系](https://www.zhihu.com/search?q=AWE%20%E5%AE%B6%E7%9A%84%E5%8F%82%E8%80%83%E7%B3%BB)
-1. [AWE 是啥？](https://www.zhihu.com/search?q=AWE%20%E6%98%AF%E5%95%A5%EF%BC%9F)
-1. [AWE 逛展看什么？](https://www.zhihu.com/search?q=AWE%20%E9%80%9B%E5%B1%95%E7%9C%8B%E4%BB%80%E4%B9%88%EF%BC%9F)
-1. [逛 AWE，问什么显得我很懂](https://www.zhihu.com/search?q=%E9%80%9B%20AWE%EF%BC%8C%E9%97%AE%E4%BB%80%E4%B9%88%E6%98%BE%E5%BE%97%E6%88%91%E5%BE%88%E6%87%82)
-1. [AWE，智能生活的 next level？](https://www.zhihu.com/search?q=AWE%EF%BC%8C%E6%99%BA%E8%83%BD%E7%94%9F%E6%B4%BB%E7%9A%84%20next%20level%EF%BC%9F)
-1. [杨旭文空降 AWE 知乎展台](https://www.zhihu.com/search?q=%E6%9D%A8%E6%97%AD%E6%96%87%E7%A9%BA%E9%99%8D%20AWE%20%E7%9F%A5%E4%B9%8E%E5%B1%95%E5%8F%B0)
-1. [不探案，只探展！杨旭文出任一日店长！](https://www.zhihu.com/search?q=%E4%B8%8D%E6%8E%A2%E6%A1%88%EF%BC%8C%E5%8F%AA%E6%8E%A2%E5%B1%95%EF%BC%81%E6%9D%A8%E6%97%AD%E6%96%87%E5%87%BA%E4%BB%BB%E4%B8%80%E6%97%A5%E5%BA%97%E9%95%BF%EF%BC%81)
-1. [AWE 捉黑话](https://www.zhihu.com/search?q=AWE%20%E6%8D%89%E9%BB%91%E8%AF%9D)
-1. [AI 在疯狂寻找物理外壳](https://www.zhihu.com/search?q=AI%20%E5%9C%A8%E7%96%AF%E7%8B%82%E5%AF%BB%E6%89%BE%E7%89%A9%E7%90%86%E5%A4%96%E5%A3%B3)
-1. [AI 家电的故事讲了 3 年](https://www.zhihu.com/search?q=AI%20%E5%AE%B6%E7%94%B5%E7%9A%84%E6%95%85%E4%BA%8B%E8%AE%B2%E4%BA%86%203%20%E5%B9%B4)
-1. [AI 冰箱陪我聊天？](https://www.zhihu.com/search?q=AI%20%E5%86%B0%E7%AE%B1%E9%99%AA%E6%88%91%E8%81%8A%E5%A4%A9%EF%BC%9F)
-1. [人形机器人的恐怖谷效应](https://www.zhihu.com/search?q=%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%9A%84%E6%81%90%E6%80%96%E8%B0%B7%E6%95%88%E5%BA%94)
-1. [为看不见的健康功能花大钱，值吗？](https://www.zhihu.com/search?q=%E4%B8%BA%E7%9C%8B%E4%B8%8D%E8%A7%81%E7%9A%84%E5%81%A5%E5%BA%B7%E5%8A%9F%E8%83%BD%E8%8A%B1%E5%A4%A7%E9%92%B1%EF%BC%8C%E5%80%BC%E5%90%97%EF%BC%9F)
-1. [扫地机「卷」的终点会是哪儿？](https://www.zhihu.com/search?q=%E6%89%AB%E5%9C%B0%E6%9C%BA%E3%80%8C%E5%8D%B7%E3%80%8D%E7%9A%84%E7%BB%88%E7%82%B9%E4%BC%9A%E6%98%AF%E5%93%AA%E5%84%BF%EF%BC%9F)
-1. [洗地机还在卷什么？](https://www.zhihu.com/search?q=%E6%B4%97%E5%9C%B0%E6%9C%BA%E8%BF%98%E5%9C%A8%E5%8D%B7%E4%BB%80%E4%B9%88%EF%BC%9F)
-1. [电视硬件没有天花板？](https://www.zhihu.com/search?q=%E7%94%B5%E8%A7%86%E7%A1%AC%E4%BB%B6%E6%B2%A1%E6%9C%89%E5%A4%A9%E8%8A%B1%E6%9D%BF%EF%BC%9F)
+1. [为什么正统汉服一定是交领右衽](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%AD%A3%E7%BB%9F%E6%B1%89%E6%9C%8D%E4%B8%80%E5%AE%9A%E6%98%AF%E4%BA%A4%E9%A2%86%E5%8F%B3%E8%A1%BD)
+1. [为什么王阳明的思想在中国不流行](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%8B%E9%98%B3%E6%98%8E%E7%9A%84%E6%80%9D%E6%83%B3%E5%9C%A8%E4%B8%AD%E5%9B%BD%E4%B8%8D%E6%B5%81%E8%A1%8C)
+1. [怎样最大程度延长自己的寿命](https://www.zhihu.com/search?q=%E6%80%8E%E6%A0%B7%E6%9C%80%E5%A4%A7%E7%A8%8B%E5%BA%A6%E5%BB%B6%E9%95%BF%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%BF%E5%91%BD)
+1. [如何评价电视剧新三国](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E7%94%B5%E8%A7%86%E5%89%A7%E6%96%B0%E4%B8%89%E5%9B%BD)
+1. [你觉得人最重要的能力是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E8%A7%89%E5%BE%97%E4%BA%BA%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E8%83%BD%E5%8A%9B%E6%98%AF%E4%BB%80%E4%B9%88)
+1. [为什么一定要频繁记录自己](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%80%E5%AE%9A%E8%A6%81%E9%A2%91%E7%B9%81%E8%AE%B0%E5%BD%95%E8%87%AA%E5%B7%B1)
+1. [NBA常规赛](https://www.zhihu.com/search?q=NBA%E5%B8%B8%E8%A7%84%E8%B5%9B)
 
 ## 热门话题
 
