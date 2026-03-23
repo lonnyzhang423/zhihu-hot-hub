@@ -11,21 +11,22 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-03-23 17:55:02 +0800`
+`更新时间：2026-03-23 18:44:20 +0800`
 
 ## 热门搜索
 
-1. [研究证明女孩青春期普遍提前](https://www.zhihu.com/search?q=%E7%A0%94%E7%A9%B6%E8%AF%81%E6%98%8E%E5%A5%B3%E5%AD%A9%E9%9D%92%E6%98%A5%E6%9C%9F%E6%99%AE%E9%81%8D%E6%8F%90%E5%89%8D)
+1. [美联储宣布维持利率不变](https://www.zhihu.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8%E5%AE%A3%E5%B8%83%E7%BB%B4%E6%8C%81%E5%88%A9%E7%8E%87%E4%B8%8D%E5%8F%98)
+1. [薛之谦演唱会](https://www.zhihu.com/search?q=%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%BC%94%E5%94%B1%E4%BC%9A)
 1. [为什么地球上不存在巨兽](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%9C%B0%E7%90%83%E4%B8%8A%E4%B8%8D%E5%AD%98%E5%9C%A8%E5%B7%A8%E5%85%BD)
 1. [BLG夺冠](https://www.zhihu.com/search?q=BLG%E5%A4%BA%E5%86%A0)
 1. [巴萨vs巴列卡诺](https://www.zhihu.com/search?q=%E5%B7%B4%E8%90%A8vs%E5%B7%B4%E5%88%97%E5%8D%A1%E8%AF%BA)
 1. [猫咪为啥会陪人睡一晚上呢](https://www.zhihu.com/search?q=%E7%8C%AB%E5%92%AA%E4%B8%BA%E5%95%A5%E4%BC%9A%E9%99%AA%E4%BA%BA%E7%9D%A1%E4%B8%80%E6%99%9A%E4%B8%8A%E5%91%A2)
+1. [速览中东危局40小时](https://www.zhihu.com/search?q=%E9%80%9F%E8%A7%88%E4%B8%AD%E4%B8%9C%E5%8D%B1%E5%B1%8040%E5%B0%8F%E6%97%B6)
 1. [AWE 2026](https://www.zhihu.com/search?q=AWE%202026)
 1. [AWE 家的参考系](https://www.zhihu.com/search?q=AWE%20%E5%AE%B6%E7%9A%84%E5%8F%82%E8%80%83%E7%B3%BB)
 1. [AWE 是啥？](https://www.zhihu.com/search?q=AWE%20%E6%98%AF%E5%95%A5%EF%BC%9F)
 1. [AWE 逛展看什么？](https://www.zhihu.com/search?q=AWE%20%E9%80%9B%E5%B1%95%E7%9C%8B%E4%BB%80%E4%B9%88%EF%BC%9F)
 1. [逛 AWE，问什么显得我很懂](https://www.zhihu.com/search?q=%E9%80%9B%20AWE%EF%BC%8C%E9%97%AE%E4%BB%80%E4%B9%88%E6%98%BE%E5%BE%97%E6%88%91%E5%BE%88%E6%87%82)
-1. [寿司郎回应金枪鱼异物事件](https://www.zhihu.com/search?q=%E5%AF%BF%E5%8F%B8%E9%83%8E%E5%9B%9E%E5%BA%94%E9%87%91%E6%9E%AA%E9%B1%BC%E5%BC%82%E7%89%A9%E4%BA%8B%E4%BB%B6)
 1. [AWE，智能生活的 next level？](https://www.zhihu.com/search?q=AWE%EF%BC%8C%E6%99%BA%E8%83%BD%E7%94%9F%E6%B4%BB%E7%9A%84%20next%20level%EF%BC%9F)
 1. [杨旭文空降 AWE 知乎展台](https://www.zhihu.com/search?q=%E6%9D%A8%E6%97%AD%E6%96%87%E7%A9%BA%E9%99%8D%20AWE%20%E7%9F%A5%E4%B9%8E%E5%B1%95%E5%8F%B0)
 1. [不探案，只探展！杨旭文出任一日店长！](https://www.zhihu.com/search?q=%E4%B8%8D%E6%8E%A2%E6%A1%88%EF%BC%8C%E5%8F%AA%E6%8E%A2%E5%B1%95%EF%BC%81%E6%9D%A8%E6%97%AD%E6%96%87%E5%87%BA%E4%BB%BB%E4%B8%80%E6%97%A5%E5%BA%97%E9%95%BF%EF%BC%81)
@@ -38,11 +39,6 @@
 1. [扫地机「卷」的终点会是哪儿？](https://www.zhihu.com/search?q=%E6%89%AB%E5%9C%B0%E6%9C%BA%E3%80%8C%E5%8D%B7%E3%80%8D%E7%9A%84%E7%BB%88%E7%82%B9%E4%BC%9A%E6%98%AF%E5%93%AA%E5%84%BF%EF%BC%9F)
 1. [洗地机还在卷什么？](https://www.zhihu.com/search?q=%E6%B4%97%E5%9C%B0%E6%9C%BA%E8%BF%98%E5%9C%A8%E5%8D%B7%E4%BB%80%E4%B9%88%EF%BC%9F)
 1. [电视硬件没有天花板？](https://www.zhihu.com/search?q=%E7%94%B5%E8%A7%86%E7%A1%AC%E4%BB%B6%E6%B2%A1%E6%9C%89%E5%A4%A9%E8%8A%B1%E6%9D%BF%EF%BC%9F)
-1. [为什么分区洗衣机反而更火了？](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%88%86%E5%8C%BA%E6%B4%97%E8%A1%A3%E6%9C%BA%E5%8F%8D%E8%80%8C%E6%9B%B4%E7%81%AB%E4%BA%86%EF%BC%9F)
-1. [为什么烘干机还没被接受？](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%83%98%E5%B9%B2%E6%9C%BA%E8%BF%98%E6%B2%A1%E8%A2%AB%E6%8E%A5%E5%8F%97%EF%BC%9F)
-1. [衣服不是穿坏的，而是洗坏的？](https://www.zhihu.com/search?q=%E8%A1%A3%E6%9C%8D%E4%B8%8D%E6%98%AF%E7%A9%BF%E5%9D%8F%E7%9A%84%EF%BC%8C%E8%80%8C%E6%98%AF%E6%B4%97%E5%9D%8F%E7%9A%84%EF%BC%9F)
-1. [空调「铝代铜」真的不可取吗？](https://www.zhihu.com/search?q=%E7%A9%BA%E8%B0%83%E3%80%8C%E9%93%9D%E4%BB%A3%E9%93%9C%E3%80%8D%E7%9C%9F%E7%9A%84%E4%B8%8D%E5%8F%AF%E5%8F%96%E5%90%97%EF%BC%9F)
-1. [嵌入式空调](https://www.zhihu.com/search?q=%E5%B5%8C%E5%85%A5%E5%BC%8F%E7%A9%BA%E8%B0%83)
 
 ## 热门话题
 
