@@ -11,15 +11,15 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-03-24 07:40:01 +0800`
+`更新时间：2026-03-24 10:44:31 +0800`
 
 ## 热门搜索
 
-1. [退市近两年的头孢遭疯抢](https://www.zhihu.com/search?q=%E9%80%80%E5%B8%82%E8%BF%91%E4%B8%A4%E5%B9%B4%E7%9A%84%E5%A4%B4%E5%AD%A2%E9%81%AD%E7%96%AF%E6%8A%A2)
-1. [我使馆再提醒摒弃侥幸心理](https://www.zhihu.com/search?q=%E6%88%91%E4%BD%BF%E9%A6%86%E5%86%8D%E6%8F%90%E9%86%92%E6%91%92%E5%BC%83%E4%BE%A5%E5%B9%B8%E5%BF%83%E7%90%86)
+1. [美联储宣布维持利率不变](https://www.zhihu.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8%E5%AE%A3%E5%B8%83%E7%BB%B4%E6%8C%81%E5%88%A9%E7%8E%87%E4%B8%8D%E5%8F%98)
 1. [薛之谦演唱会](https://www.zhihu.com/search?q=%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%BC%94%E5%94%B1%E4%BC%9A)
 1. [为什么地球上不存在巨兽](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%9C%B0%E7%90%83%E4%B8%8A%E4%B8%8D%E5%AD%98%E5%9C%A8%E5%B7%A8%E5%85%BD)
 1. [bin](https://www.zhihu.com/search?q=bin)
+1. [BLG夺冠](https://www.zhihu.com/search?q=BLG%E5%A4%BA%E5%86%A0)
 1. [热火vs火箭](https://www.zhihu.com/search?q=%E7%83%AD%E7%81%ABvs%E7%81%AB%E7%AE%AD)
 1. [巴萨vs巴列卡诺](https://www.zhihu.com/search?q=%E5%B7%B4%E8%90%A8vs%E5%B7%B4%E5%88%97%E5%8D%A1%E8%AF%BA)
 1. [乐队打架什么乐器伤害最高](https://www.zhihu.com/search?q=%E4%B9%90%E9%98%9F%E6%89%93%E6%9E%B6%E4%BB%80%E4%B9%88%E4%B9%90%E5%99%A8%E4%BC%A4%E5%AE%B3%E6%9C%80%E9%AB%98)
@@ -40,7 +40,6 @@
 1. [你觉得人最重要的能力是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E8%A7%89%E5%BE%97%E4%BA%BA%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E8%83%BD%E5%8A%9B%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [为什么一定要频繁记录自己](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%80%E5%AE%9A%E8%A6%81%E9%A2%91%E7%B9%81%E8%AE%B0%E5%BD%95%E8%87%AA%E5%B7%B1)
 1. [NBA常规赛](https://www.zhihu.com/search?q=NBA%E5%B8%B8%E8%A7%84%E8%B5%9B)
-1. [孩子哪个瞬间让你觉得幸福](https://www.zhihu.com/search?q=%E5%AD%A9%E5%AD%90%E5%93%AA%E4%B8%AA%E7%9E%AC%E9%97%B4%E8%AE%A9%E4%BD%A0%E8%A7%89%E5%BE%97%E5%B9%B8%E7%A6%8F)
 
 ## 热门话题
 
