@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-03-24 14:54:16 +0800`
+`更新时间：2026-03-24 15:49:04 +0800`
 
 ## 热门搜索
 
-1. [美联储宣布维持利率不变](https://www.zhihu.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8%E5%AE%A3%E5%B8%83%E7%BB%B4%E6%8C%81%E5%88%A9%E7%8E%87%E4%B8%8D%E5%8F%98)
+1. [扫地机卷的终点会是哪儿](https://www.zhihu.com/search?q=%E6%89%AB%E5%9C%B0%E6%9C%BA%E5%8D%B7%E7%9A%84%E7%BB%88%E7%82%B9%E4%BC%9A%E6%98%AF%E5%93%AA%E5%84%BF)
+1. [寿司郎声明未检出寄生虫](https://www.zhihu.com/search?q=%E5%AF%BF%E5%8F%B8%E9%83%8E%E5%A3%B0%E6%98%8E%E6%9C%AA%E6%A3%80%E5%87%BA%E5%AF%84%E7%94%9F%E8%99%AB)
 1. [薛之谦演唱会](https://www.zhihu.com/search?q=%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%BC%94%E5%94%B1%E4%BC%9A)
 1. [为什么地球上不存在巨兽](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%9C%B0%E7%90%83%E4%B8%8A%E4%B8%8D%E5%AD%98%E5%9C%A8%E5%B7%A8%E5%85%BD)
 1. [bin](https://www.zhihu.com/search?q=bin)
