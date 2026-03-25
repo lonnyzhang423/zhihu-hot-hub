@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-03-25 12:11:40 +0800`
+`更新时间：2026-03-25 13:55:17 +0800`
 
 ## 热门搜索
 
-1. [周杰伦新歌](https://www.zhihu.com/search?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E6%AD%8C)
-1. [周杰伦新专辑](https://www.zhihu.com/search?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E4%B8%93%E8%BE%91)
+1. [西沙群岛是中国的固有领土](https://www.zhihu.com/search?q=%E8%A5%BF%E6%B2%99%E7%BE%A4%E5%B2%9B%E6%98%AF%E4%B8%AD%E5%9B%BD%E7%9A%84%E5%9B%BA%E6%9C%89%E9%A2%86%E5%9C%9F)
+1. [对于维持心理健康有什么极简建议](https://www.zhihu.com/search?q=%E5%AF%B9%E4%BA%8E%E7%BB%B4%E6%8C%81%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7%E6%9C%89%E4%BB%80%E4%B9%88%E6%9E%81%E7%AE%80%E5%BB%BA%E8%AE%AE)
 1. [A股三大指数集体高开](https://www.zhihu.com/search?q=A%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80)
 1. [美联储宣布维持利率不变](https://www.zhihu.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8%E5%AE%A3%E5%B8%83%E7%BB%B4%E6%8C%81%E5%88%A9%E7%8E%87%E4%B8%8D%E5%8F%98)
 1. [BLG夺冠](https://www.zhihu.com/search?q=BLG%E5%A4%BA%E5%86%A0)
@@ -32,7 +32,7 @@
 1. [为什么很多人喜欢和AI对话](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BE%88%E5%A4%9A%E4%BA%BA%E5%96%9C%E6%AC%A2%E5%92%8CAI%E5%AF%B9%E8%AF%9D)
 1. [尼采为什么要抱着马哭](https://www.zhihu.com/search?q=%E5%B0%BC%E9%87%87%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E6%8A%B1%E7%9D%80%E9%A9%AC%E5%93%AD)
 1. [猫咪为啥会陪人睡一晚上呢](https://www.zhihu.com/search?q=%E7%8C%AB%E5%92%AA%E4%B8%BA%E5%95%A5%E4%BC%9A%E9%99%AA%E4%BA%BA%E7%9D%A1%E4%B8%80%E6%99%9A%E4%B8%8A%E5%91%A2)
-1. [对于维持心理健康有什么极简建议](https://www.zhihu.com/search?q=%E5%AF%B9%E4%BA%8E%E7%BB%B4%E6%8C%81%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7%E6%9C%89%E4%BB%80%E4%B9%88%E6%9E%81%E7%AE%80%E5%BB%BA%E8%AE%AE)
+1. [金价创下15年来最大单周跌幅](https://www.zhihu.com/search?q=%E9%87%91%E4%BB%B7%E5%88%9B%E4%B8%8B15%E5%B9%B4%E6%9D%A5%E6%9C%80%E5%A4%A7%E5%8D%95%E5%91%A8%E8%B7%8C%E5%B9%85)
 1. [什么生活常识必须知道](https://www.zhihu.com/search?q=%E4%BB%80%E4%B9%88%E7%94%9F%E6%B4%BB%E5%B8%B8%E8%AF%86%E5%BF%85%E9%A1%BB%E7%9F%A5%E9%81%93)
 1. [为什么正统汉服一定是交领右衽](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%AD%A3%E7%BB%9F%E6%B1%89%E6%9C%8D%E4%B8%80%E5%AE%9A%E6%98%AF%E4%BA%A4%E9%A2%86%E5%8F%B3%E8%A1%BD)
 1. [为什么要无条件爱孩子](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E6%97%A0%E6%9D%A1%E4%BB%B6%E7%88%B1%E5%AD%A9%E5%AD%90)
