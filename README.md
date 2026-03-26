@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-03-26 20:53:44 +0800`
+`更新时间：2026-03-26 22:20:50 +0800`
 
 ## 热门搜索
 
-1. [做剧烈运动前一定要做全面体检](https://www.zhihu.com/search?q=%E5%81%9A%E5%89%A7%E7%83%88%E8%BF%90%E5%8A%A8%E5%89%8D%E4%B8%80%E5%AE%9A%E8%A6%81%E5%81%9A%E5%85%A8%E9%9D%A2%E4%BD%93%E6%A3%80)
-1. [腾讯为何养不出DeepSeek](https://www.zhihu.com/search?q=%E8%85%BE%E8%AE%AF%E4%B8%BA%E4%BD%95%E5%85%BB%E4%B8%8D%E5%87%BADeepSeek)
+1. [心源性猝死](https://www.zhihu.com/search?q=%E5%BF%83%E6%BA%90%E6%80%A7%E7%8C%9D%E6%AD%BB)
+1. [周杰伦新专辑](https://www.zhihu.com/search?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E4%B8%93%E8%BE%91)
 1. [你在低谷期学会了什么](https://www.zhihu.com/search?q=%E4%BD%A0%E5%9C%A8%E4%BD%8E%E8%B0%B7%E6%9C%9F%E5%AD%A6%E4%BC%9A%E4%BA%86%E4%BB%80%E4%B9%88)
 1. [什么是心源性猝死](https://www.zhihu.com/search?q=%E4%BB%80%E4%B9%88%E6%98%AF%E5%BF%83%E6%BA%90%E6%80%A7%E7%8C%9D%E6%AD%BB)
 1. [郑钦文不敌萨巴伦卡](https://www.zhihu.com/search?q=%E9%83%91%E9%92%A6%E6%96%87%E4%B8%8D%E6%95%8C%E8%90%A8%E5%B7%B4%E4%BC%A6%E5%8D%A1)
