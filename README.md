@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-03-27 16:41:08 +0800`
+`更新时间：2026-03-27 17:45:21 +0800`
 
 ## 热门搜索
 
-1. [德邦股份将于3月31日终止上市](https://www.zhihu.com/search?q=%E5%BE%B7%E9%82%A6%E8%82%A1%E4%BB%BD%E5%B0%86%E4%BA%8E3%E6%9C%8831%E6%97%A5%E7%BB%88%E6%AD%A2%E4%B8%8A%E5%B8%82)
-1. [剧版哈利波特预告片](https://www.zhihu.com/search?q=%E5%89%A7%E7%89%88%E5%93%88%E5%88%A9%E6%B3%A2%E7%89%B9%E9%A2%84%E5%91%8A%E7%89%87)
+1. [你在低谷期学会了什么](https://www.zhihu.com/search?q=%E4%BD%A0%E5%9C%A8%E4%BD%8E%E8%B0%B7%E6%9C%9F%E5%AD%A6%E4%BC%9A%E4%BA%86%E4%BB%80%E4%B9%88)
+1. [泡馍为什么走不出西安](https://www.zhihu.com/search?q=%E6%B3%A1%E9%A6%8D%E4%B8%BA%E4%BB%80%E4%B9%88%E8%B5%B0%E4%B8%8D%E5%87%BA%E8%A5%BF%E5%AE%89)
 1. [郑钦文不敌萨巴伦卡](https://www.zhihu.com/search?q=%E9%83%91%E9%92%A6%E6%96%87%E4%B8%8D%E6%95%8C%E8%90%A8%E5%B7%B4%E4%BC%A6%E5%8D%A1)
 1. [C919还能成批生产吗](https://www.zhihu.com/search?q=C919%E8%BF%98%E8%83%BD%E6%88%90%E6%89%B9%E7%94%9F%E4%BA%A7%E5%90%97)
 1. [怎样才能叫做真正会科研的人](https://www.zhihu.com/search?q=%E6%80%8E%E6%A0%B7%E6%89%8D%E8%83%BD%E5%8F%AB%E5%81%9A%E7%9C%9F%E6%AD%A3%E4%BC%9A%E7%A7%91%E7%A0%94%E7%9A%84%E4%BA%BA)
@@ -32,6 +32,8 @@
 1. [对于维持心理健康有什么极简建议](https://www.zhihu.com/search?q=%E5%AF%B9%E4%BA%8E%E7%BB%B4%E6%8C%81%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7%E6%9C%89%E4%BB%80%E4%B9%88%E6%9E%81%E7%AE%80%E5%BB%BA%E8%AE%AE)
 1. [什么生活常识必须知道](https://www.zhihu.com/search?q=%E4%BB%80%E4%B9%88%E7%94%9F%E6%B4%BB%E5%B8%B8%E8%AF%86%E5%BF%85%E9%A1%BB%E7%9F%A5%E9%81%93)
 1. [真的有先父遗传吗](https://www.zhihu.com/search?q=%E7%9C%9F%E7%9A%84%E6%9C%89%E5%85%88%E7%88%B6%E9%81%97%E4%BC%A0%E5%90%97)
+1. [金价银价急跌](https://www.zhihu.com/search?q=%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E6%80%A5%E8%B7%8C)
+1. [金价](https://www.zhihu.com/search?q=%E9%87%91%E4%BB%B7)
 1. [为什么正统汉服一定是交领右衽](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%AD%A3%E7%BB%9F%E6%B1%89%E6%9C%8D%E4%B8%80%E5%AE%9A%E6%98%AF%E4%BA%A4%E9%A2%86%E5%8F%B3%E8%A1%BD)
 1. [认知水平高的人都有什么特点](https://www.zhihu.com/search?q=%E8%AE%A4%E7%9F%A5%E6%B0%B4%E5%B9%B3%E9%AB%98%E7%9A%84%E4%BA%BA%E9%83%BD%E6%9C%89%E4%BB%80%E4%B9%88%E7%89%B9%E7%82%B9)
 1. [为什么王阳明的思想在中国不流行](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%8B%E9%98%B3%E6%98%8E%E7%9A%84%E6%80%9D%E6%83%B3%E5%9C%A8%E4%B8%AD%E5%9B%BD%E4%B8%8D%E6%B5%81%E8%A1%8C)
@@ -41,8 +43,6 @@
 1. [猫咪为什么会陪人睡一晚上](https://www.zhihu.com/search?q=%E7%8C%AB%E5%92%AA%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E9%99%AA%E4%BA%BA%E7%9D%A1%E4%B8%80%E6%99%9A%E4%B8%8A)
 1. [NBA常规赛](https://www.zhihu.com/search?q=NBA%E5%B8%B8%E8%A7%84%E8%B5%9B)
 1. [对25岁的年轻人有哪些忠告](https://www.zhihu.com/search?q=%E5%AF%B925%E5%B2%81%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%9C%89%E5%93%AA%E4%BA%9B%E5%BF%A0%E5%91%8A)
-1. [CBA常规赛](https://www.zhihu.com/search?q=CBA%E5%B8%B8%E8%A7%84%E8%B5%9B)
-1. [闲鱼上有多少人是真正出闲置的](https://www.zhihu.com/search?q=%E9%97%B2%E9%B1%BC%E4%B8%8A%E6%9C%89%E5%A4%9A%E5%B0%91%E4%BA%BA%E6%98%AF%E7%9C%9F%E6%AD%A3%E5%87%BA%E9%97%B2%E7%BD%AE%E7%9A%84)
 
 ## 热门话题
 
