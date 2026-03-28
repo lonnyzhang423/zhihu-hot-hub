@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-03-28 10:48:23 +0800`
+`更新时间：2026-03-28 12:59:51 +0800`
 
 ## 热门搜索
 
-1. [勇士险胜篮网](https://www.zhihu.com/search?q=%E5%8B%87%E5%A3%AB%E9%99%A9%E8%83%9C%E7%AF%AE%E7%BD%91)
+1. [泡馍为什么走不出西安](https://www.zhihu.com/search?q=%E6%B3%A1%E9%A6%8D%E4%B8%BA%E4%BB%80%E4%B9%88%E8%B5%B0%E4%B8%8D%E5%87%BA%E8%A5%BF%E5%AE%89)
+1. [郑钦文不敌萨巴伦卡](https://www.zhihu.com/search?q=%E9%83%91%E9%92%A6%E6%96%87%E4%B8%8D%E6%95%8C%E8%90%A8%E5%B7%B4%E4%BC%A6%E5%8D%A1)
 1. [C919还能成批生产吗](https://www.zhihu.com/search?q=C919%E8%BF%98%E8%83%BD%E6%88%90%E6%89%B9%E7%94%9F%E4%BA%A7%E5%90%97)
 1. [怎样才能叫做真正会科研的人](https://www.zhihu.com/search?q=%E6%80%8E%E6%A0%B7%E6%89%8D%E8%83%BD%E5%8F%AB%E5%81%9A%E7%9C%9F%E6%AD%A3%E4%BC%9A%E7%A7%91%E7%A0%94%E7%9A%84%E4%BA%BA)
 1. [用DeepSeek选股炒股可行吗](https://www.zhihu.com/search?q=%E7%94%A8DeepSeek%E9%80%89%E8%82%A1%E7%82%92%E8%82%A1%E5%8F%AF%E8%A1%8C%E5%90%97)
@@ -40,7 +41,6 @@
 1. [火箭vs森林狼](https://www.zhihu.com/search?q=%E7%81%AB%E7%AE%ADvs%E6%A3%AE%E6%9E%97%E7%8B%BC)
 1. [你对广东省的印象](https://www.zhihu.com/search?q=%E4%BD%A0%E5%AF%B9%E5%B9%BF%E4%B8%9C%E7%9C%81%E7%9A%84%E5%8D%B0%E8%B1%A1)
 1. [沪深两市成交额突破2万亿元](https://www.zhihu.com/search?q=%E6%B2%AA%E6%B7%B1%E4%B8%A4%E5%B8%82%E6%88%90%E4%BA%A4%E9%A2%9D%E7%AA%81%E7%A0%B42%E4%B8%87%E4%BA%BF%E5%85%83)
-1. [赴一场山河之约](https://www.zhihu.com/search?q=%E8%B5%B4%E4%B8%80%E5%9C%BA%E5%B1%B1%E6%B2%B3%E4%B9%8B%E7%BA%A6)
 1. [你见过最离谱的网购经历](https://www.zhihu.com/search?q=%E4%BD%A0%E8%A7%81%E8%BF%87%E6%9C%80%E7%A6%BB%E8%B0%B1%E7%9A%84%E7%BD%91%E8%B4%AD%E7%BB%8F%E5%8E%86)
 
 ## 热门话题
