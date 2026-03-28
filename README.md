@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-03-28 22:24:27 +0800`
+`更新时间：2026-03-28 23:23:13 +0800`
 
 ## 热门搜索
 
-1. [泡馍为什么走不出西安](https://www.zhihu.com/search?q=%E6%B3%A1%E9%A6%8D%E4%B8%BA%E4%BB%80%E4%B9%88%E8%B5%B0%E4%B8%8D%E5%87%BA%E8%A5%BF%E5%AE%89)
-1. [郑钦文不敌萨巴伦卡](https://www.zhihu.com/search?q=%E9%83%91%E9%92%A6%E6%96%87%E4%B8%8D%E6%95%8C%E8%90%A8%E5%B7%B4%E4%BC%A6%E5%8D%A1)
+1. [心脏急救药别当保健品天天吃](https://www.zhihu.com/search?q=%E5%BF%83%E8%84%8F%E6%80%A5%E6%95%91%E8%8D%AF%E5%88%AB%E5%BD%93%E4%BF%9D%E5%81%A5%E5%93%81%E5%A4%A9%E5%A4%A9%E5%90%83)
+1. [江山大同](https://www.zhihu.com/search?q=%E6%B1%9F%E5%B1%B1%E5%A4%A7%E5%90%8C)
 1. [C919还能成批生产吗](https://www.zhihu.com/search?q=C919%E8%BF%98%E8%83%BD%E6%88%90%E6%89%B9%E7%94%9F%E4%BA%A7%E5%90%97)
 1. [怎样才能叫做真正会科研的人](https://www.zhihu.com/search?q=%E6%80%8E%E6%A0%B7%E6%89%8D%E8%83%BD%E5%8F%AB%E5%81%9A%E7%9C%9F%E6%AD%A3%E4%BC%9A%E7%A7%91%E7%A0%94%E7%9A%84%E4%BA%BA)
 1. [用DeepSeek选股炒股可行吗](https://www.zhihu.com/search?q=%E7%94%A8DeepSeek%E9%80%89%E8%82%A1%E7%82%92%E8%82%A1%E5%8F%AF%E8%A1%8C%E5%90%97)
