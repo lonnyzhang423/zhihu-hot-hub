@@ -11,28 +11,29 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-03-30 11:25:00 +0800`
+`更新时间：2026-03-30 14:02:39 +0800`
 
 ## 热门搜索
 
-1. [乘风2026](https://www.zhihu.com/search?q=%E4%B9%98%E9%A3%8E2026)
-1. [有哪些事是你买车后才知道的](https://www.zhihu.com/search?q=%E6%9C%89%E5%93%AA%E4%BA%9B%E4%BA%8B%E6%98%AF%E4%BD%A0%E4%B9%B0%E8%BD%A6%E5%90%8E%E6%89%8D%E7%9F%A5%E9%81%93%E7%9A%84)
+1. [广州暴雨](https://www.zhihu.com/search?q=%E5%B9%BF%E5%B7%9E%E6%9A%B4%E9%9B%A8)
+1. [闲鱼上有多少人是真正出闲置的](https://www.zhihu.com/search?q=%E9%97%B2%E9%B1%BC%E4%B8%8A%E6%9C%89%E5%A4%9A%E5%B0%91%E4%BA%BA%E6%98%AF%E7%9C%9F%E6%AD%A3%E5%87%BA%E9%97%B2%E7%BD%AE%E7%9A%84)
 1. [速览中东危局40小时](https://www.zhihu.com/search?q=%E9%80%9F%E8%A7%88%E4%B8%AD%E4%B8%9C%E5%8D%B1%E5%B1%8040%E5%B0%8F%E6%97%B6)
-1. [科幻电影《挽救计划》热映](https://www.zhihu.com/search?q=%E7%A7%91%E5%B9%BB%E7%94%B5%E5%BD%B1%E3%80%8A%E6%8C%BD%E6%95%91%E8%AE%A1%E5%88%92%E3%80%8B%E7%83%AD%E6%98%A0)
 1. [《逐玉》云合占比超《庆余年 2》](https://www.zhihu.com/search?q=%E3%80%8A%E9%80%90%E7%8E%89%E3%80%8B%E4%BA%91%E5%90%88%E5%8D%A0%E6%AF%94%E8%B6%85%E3%80%8A%E5%BA%86%E4%BD%99%E5%B9%B4%202%E3%80%8B)
 1. [助理回应张雪峰心脏骤停抢救传闻](https://www.zhihu.com/search?q=%E5%8A%A9%E7%90%86%E5%9B%9E%E5%BA%94%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%BF%83%E8%84%8F%E9%AA%A4%E5%81%9C%E6%8A%A2%E6%95%91%E4%BC%A0%E9%97%BB)
 1. [张雪峰因心源性猝死去世](https://www.zhihu.com/search?q=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%9B%A0%E5%BF%83%E6%BA%90%E6%80%A7%E7%8C%9D%E6%AD%BB%E5%8E%BB%E4%B8%96)
+1. [《洛克王国：世界》开服](https://www.zhihu.com/search?q=%E3%80%8A%E6%B4%9B%E5%85%8B%E7%8E%8B%E5%9B%BD%EF%BC%9A%E4%B8%96%E7%95%8C%E3%80%8B%E5%BC%80%E6%9C%8D)
 1. [AI面试官](https://www.zhihu.com/search?q=AI%E9%9D%A2%E8%AF%95%E5%AE%98)
 1. [AI简历诊断](https://www.zhihu.com/search?q=AI%E7%AE%80%E5%8E%86%E8%AF%8A%E6%96%AD)
 1. [AI简历分析](https://www.zhihu.com/search?q=AI%E7%AE%80%E5%8E%86%E5%88%86%E6%9E%90)
 1. [简历诊断](https://www.zhihu.com/search?q=%E7%AE%80%E5%8E%86%E8%AF%8A%E6%96%AD)
 1. [AI模拟面试官](https://www.zhihu.com/search?q=AI%E6%A8%A1%E6%8B%9F%E9%9D%A2%E8%AF%95%E5%AE%98)
 1. [AI模拟面试](https://www.zhihu.com/search?q=AI%E6%A8%A1%E6%8B%9F%E9%9D%A2%E8%AF%95)
-1. [游戏通关后易患「通关抑郁」](https://www.zhihu.com/search?q=%E6%B8%B8%E6%88%8F%E9%80%9A%E5%85%B3%E5%90%8E%E6%98%93%E6%82%A3%E3%80%8C%E9%80%9A%E5%85%B3%E6%8A%91%E9%83%81%E3%80%8D)
-1. [寿司郎预约需出示 SIM 卡尾号](https://www.zhihu.com/search?q=%E5%AF%BF%E5%8F%B8%E9%83%8E%E9%A2%84%E7%BA%A6%E9%9C%80%E5%87%BA%E7%A4%BA%20SIM%20%E5%8D%A1%E5%B0%BE%E5%8F%B7)
 1. [中科大少年班学生课上往黑板扔水杯](https://www.zhihu.com/search?q=%E4%B8%AD%E7%A7%91%E5%A4%A7%E5%B0%91%E5%B9%B4%E7%8F%AD%E5%AD%A6%E7%94%9F%E8%AF%BE%E4%B8%8A%E5%BE%80%E9%BB%91%E6%9D%BF%E6%89%94%E6%B0%B4%E6%9D%AF)
 1. [如何看待南京教师因过激言语被停职](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%8D%97%E4%BA%AC%E6%95%99%E5%B8%88%E5%9B%A0%E8%BF%87%E6%BF%80%E8%A8%80%E8%AF%AD%E8%A2%AB%E5%81%9C%E8%81%8C)
 1. [亚朵酒店中文标识被吐槽](https://www.zhihu.com/search?q=%E4%BA%9A%E6%9C%B5%E9%85%92%E5%BA%97%E4%B8%AD%E6%96%87%E6%A0%87%E8%AF%86%E8%A2%AB%E5%90%90%E6%A7%BD)
+1. [离职数月老板突然让回去补签文件](https://www.zhihu.com/search?q=%E7%A6%BB%E8%81%8C%E6%95%B0%E6%9C%88%E8%80%81%E6%9D%BF%E7%AA%81%E7%84%B6%E8%AE%A9%E5%9B%9E%E5%8E%BB%E8%A1%A5%E7%AD%BE%E6%96%87%E4%BB%B6)
+1. [长期保持高亢状态很「耗气血」是真的吗](https://www.zhihu.com/search?q=%E9%95%BF%E6%9C%9F%E4%BF%9D%E6%8C%81%E9%AB%98%E4%BA%A2%E7%8A%B6%E6%80%81%E5%BE%88%E3%80%8C%E8%80%97%E6%B0%94%E8%A1%80%E3%80%8D%E6%98%AF%E7%9C%9F%E7%9A%84%E5%90%97)
+1. [嘴唇发紫就是心脏不好是真的吗](https://www.zhihu.com/search?q=%E5%98%B4%E5%94%87%E5%8F%91%E7%B4%AB%E5%B0%B1%E6%98%AF%E5%BF%83%E8%84%8F%E4%B8%8D%E5%A5%BD%E6%98%AF%E7%9C%9F%E7%9A%84%E5%90%97)
 
 ## 热门话题
 
