@@ -11,29 +11,31 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-03-30 18:23:21 +0800`
+`更新时间：2026-03-30 19:58:02 +0800`
 
 ## 热门搜索
 
 1. [阅文ip盛典](https://www.zhihu.com/search?q=%E9%98%85%E6%96%87ip%E7%9B%9B%E5%85%B8)
+1. [世界双相情感障碍日](https://www.zhihu.com/search?q=%E4%B8%96%E7%95%8C%E5%8F%8C%E7%9B%B8%E6%83%85%E6%84%9F%E9%9A%9C%E7%A2%8D%E6%97%A5)
+1. [薛之谦演唱会](https://www.zhihu.com/search?q=%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%BC%94%E5%94%B1%E4%BC%9A)
+1. [快船vs雄鹿](https://www.zhihu.com/search?q=%E5%BF%AB%E8%88%B9vs%E9%9B%84%E9%B9%BF)
 1. [广州暴雨](https://www.zhihu.com/search?q=%E5%B9%BF%E5%B7%9E%E6%9A%B4%E9%9B%A8)
+1. [C919还能成批生产吗](https://www.zhihu.com/search?q=C919%E8%BF%98%E8%83%BD%E6%88%90%E6%89%B9%E7%94%9F%E4%BA%A7%E5%90%97)
+1. [怎样才能叫做真正会科研的人](https://www.zhihu.com/search?q=%E6%80%8E%E6%A0%B7%E6%89%8D%E8%83%BD%E5%8F%AB%E5%81%9A%E7%9C%9F%E6%AD%A3%E4%BC%9A%E7%A7%91%E7%A0%94%E7%9A%84%E4%BA%BA)
+1. [DeepSeek崩了](https://www.zhihu.com/search?q=DeepSeek%E5%B4%A9%E4%BA%86)
+1. [人到中年你突然领悟了什么](https://www.zhihu.com/search?q=%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E4%BD%A0%E7%AA%81%E7%84%B6%E9%A2%86%E6%82%9F%E4%BA%86%E4%BB%80%E4%B9%88)
 1. [多家中小银行下调存款利率](https://www.zhihu.com/search?q=%E5%A4%9A%E5%AE%B6%E4%B8%AD%E5%B0%8F%E9%93%B6%E8%A1%8C%E4%B8%8B%E8%B0%83%E5%AD%98%E6%AC%BE%E5%88%A9%E7%8E%87)
+1. [明白什么道理后你就不再焦虑了](https://www.zhihu.com/search?q=%E6%98%8E%E7%99%BD%E4%BB%80%E4%B9%88%E9%81%93%E7%90%86%E5%90%8E%E4%BD%A0%E5%B0%B1%E4%B8%8D%E5%86%8D%E7%84%A6%E8%99%91%E4%BA%86)
+1. [为什么大家都不提中国空间站了](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A4%A7%E5%AE%B6%E9%83%BD%E4%B8%8D%E6%8F%90%E4%B8%AD%E5%9B%BD%E7%A9%BA%E9%97%B4%E7%AB%99%E4%BA%86)
+1. [为什么现在的孩子会沉迷手机](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E7%9A%84%E5%AD%A9%E5%AD%90%E4%BC%9A%E6%B2%89%E8%BF%B7%E6%89%8B%E6%9C%BA)
+1. [为什么很多人喜欢和AI对话](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BE%88%E5%A4%9A%E4%BA%BA%E5%96%9C%E6%AC%A2%E5%92%8CAI%E5%AF%B9%E8%AF%9D)
+1. [真的有先父遗传吗](https://www.zhihu.com/search?q=%E7%9C%9F%E7%9A%84%E6%9C%89%E5%85%88%E7%88%B6%E9%81%97%E4%BC%A0%E5%90%97)
+1. [怎样最大程度延长自己的寿命](https://www.zhihu.com/search?q=%E6%80%8E%E6%A0%B7%E6%9C%80%E5%A4%A7%E7%A8%8B%E5%BA%A6%E5%BB%B6%E9%95%BF%E8%87%AA%E5%B7%B1%E7%9A%84%E5%AF%BF%E5%91%BD)
 1. [闲鱼上有多少人是真正出闲置的](https://www.zhihu.com/search?q=%E9%97%B2%E9%B1%BC%E4%B8%8A%E6%9C%89%E5%A4%9A%E5%B0%91%E4%BA%BA%E6%98%AF%E7%9C%9F%E6%AD%A3%E5%87%BA%E9%97%B2%E7%BD%AE%E7%9A%84)
+1. [如何理解允许自己糟糕地进步](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%90%86%E8%A7%A3%E5%85%81%E8%AE%B8%E8%87%AA%E5%B7%B1%E7%B3%9F%E7%B3%95%E5%9C%B0%E8%BF%9B%E6%AD%A5)
+1. [如何保持健康的身体](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E4%BF%9D%E6%8C%81%E5%81%A5%E5%BA%B7%E7%9A%84%E8%BA%AB%E4%BD%93)
+1. [为什么基础科学很久没有重大突破](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%9F%BA%E7%A1%80%E7%A7%91%E5%AD%A6%E5%BE%88%E4%B9%85%E6%B2%A1%E6%9C%89%E9%87%8D%E5%A4%A7%E7%AA%81%E7%A0%B4)
 1. [速览中东危局40小时](https://www.zhihu.com/search?q=%E9%80%9F%E8%A7%88%E4%B8%AD%E4%B8%9C%E5%8D%B1%E5%B1%8040%E5%B0%8F%E6%97%B6)
-1. [Apple 发布 Macbook Neo](https://www.zhihu.com/search?q=Apple%20%E5%8F%91%E5%B8%83%20Macbook%20Neo)
-1. [《逐玉》云合占比超《庆余年 2》](https://www.zhihu.com/search?q=%E3%80%8A%E9%80%90%E7%8E%89%E3%80%8B%E4%BA%91%E5%90%88%E5%8D%A0%E6%AF%94%E8%B6%85%E3%80%8A%E5%BA%86%E4%BD%99%E5%B9%B4%202%E3%80%8B)
-1. [助理回应张雪峰心脏骤停抢救传闻](https://www.zhihu.com/search?q=%E5%8A%A9%E7%90%86%E5%9B%9E%E5%BA%94%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%BF%83%E8%84%8F%E9%AA%A4%E5%81%9C%E6%8A%A2%E6%95%91%E4%BC%A0%E9%97%BB)
-1. [张雪峰因心源性猝死去世](https://www.zhihu.com/search?q=%E5%BC%A0%E9%9B%AA%E5%B3%B0%E5%9B%A0%E5%BF%83%E6%BA%90%E6%80%A7%E7%8C%9D%E6%AD%BB%E5%8E%BB%E4%B8%96)
-1. [周杰伦新歌口碑](https://www.zhihu.com/search?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%E6%96%B0%E6%AD%8C%E5%8F%A3%E7%A2%91)
-1. [《洛克王国：世界》开服](https://www.zhihu.com/search?q=%E3%80%8A%E6%B4%9B%E5%85%8B%E7%8E%8B%E5%9B%BD%EF%BC%9A%E4%B8%96%E7%95%8C%E3%80%8B%E5%BC%80%E6%9C%8D)
-1. [AI面试官](https://www.zhihu.com/search?q=AI%E9%9D%A2%E8%AF%95%E5%AE%98)
-1. [AI简历诊断](https://www.zhihu.com/search?q=AI%E7%AE%80%E5%8E%86%E8%AF%8A%E6%96%AD)
-1. [AI简历分析](https://www.zhihu.com/search?q=AI%E7%AE%80%E5%8E%86%E5%88%86%E6%9E%90)
-1. [简历诊断](https://www.zhihu.com/search?q=%E7%AE%80%E5%8E%86%E8%AF%8A%E6%96%AD)
-1. [AI模拟面试官](https://www.zhihu.com/search?q=AI%E6%A8%A1%E6%8B%9F%E9%9D%A2%E8%AF%95%E5%AE%98)
-1. [AI模拟面试](https://www.zhihu.com/search?q=AI%E6%A8%A1%E6%8B%9F%E9%9D%A2%E8%AF%95)
-1. [于东来因对下属发脾气赔40多万](https://www.zhihu.com/search?q=%E4%BA%8E%E4%B8%9C%E6%9D%A5%E5%9B%A0%E5%AF%B9%E4%B8%8B%E5%B1%9E%E5%8F%91%E8%84%BE%E6%B0%94%E8%B5%9440%E5%A4%9A%E4%B8%87)
-1. [中科大少年班学生课上往黑板扔水杯](https://www.zhihu.com/search?q=%E4%B8%AD%E7%A7%91%E5%A4%A7%E5%B0%91%E5%B9%B4%E7%8F%AD%E5%AD%A6%E7%94%9F%E8%AF%BE%E4%B8%8A%E5%BE%80%E9%BB%91%E6%9D%BF%E6%89%94%E6%B0%B4%E6%9D%AF)
 
 ## 热门话题
 
