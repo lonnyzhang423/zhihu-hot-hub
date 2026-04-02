@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-04-02 18:03:21 +0800`
+`更新时间：2026-04-02 19:39:07 +0800`
 
 ## 热门搜索
 
@@ -31,7 +31,6 @@
 1. [今年蚊子可能迎来史诗级加强](https://www.zhihu.com/search?q=%E4%BB%8A%E5%B9%B4%E8%9A%8A%E5%AD%90%E5%8F%AF%E8%83%BD%E8%BF%8E%E6%9D%A5%E5%8F%B2%E8%AF%97%E7%BA%A7%E5%8A%A0%E5%BC%BA)
 1. [DDR5内存价格3月明显下降](https://www.zhihu.com/search?q=DDR5%E5%86%85%E5%AD%98%E4%BB%B7%E6%A0%BC3%E6%9C%88%E6%98%8E%E6%98%BE%E4%B8%8B%E9%99%8D)
 1. [中国将在长江水下开高铁](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E5%B0%86%E5%9C%A8%E9%95%BF%E6%B1%9F%E6%B0%B4%E4%B8%8B%E5%BC%80%E9%AB%98%E9%93%81)
-1. [Ruler卷入税务争议](https://www.zhihu.com/search?q=Ruler%E5%8D%B7%E5%85%A5%E7%A8%8E%E5%8A%A1%E4%BA%89%E8%AE%AE)
 1. [「光箭」真实打击画面曝光](https://www.zhihu.com/search?q=%E3%80%8C%E5%85%89%E7%AE%AD%E3%80%8D%E7%9C%9F%E5%AE%9E%E6%89%93%E5%87%BB%E7%94%BB%E9%9D%A2%E6%9B%9D%E5%85%89)
 
 ## 热门话题
