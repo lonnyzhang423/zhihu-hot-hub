@@ -11,27 +11,31 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-04-03 07:41:41 +0800`
+`更新时间：2026-04-03 10:56:28 +0800`
 
 ## 热门搜索
 
-1. [双休和单休区别大吗](https://www.zhihu.com/search?q=%E5%8F%8C%E4%BC%91%E5%92%8C%E5%8D%95%E4%BC%91%E5%8C%BA%E5%88%AB%E5%A4%A7%E5%90%97)
-1. [湖人vs雷霆](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BAvs%E9%9B%B7%E9%9C%86)
-1. [广州暴雨](https://www.zhihu.com/search?q=%E5%B9%BF%E5%B7%9E%E6%9A%B4%E9%9B%A8)
+1. [曝某大厂绩效与 Token 消耗挂钩](https://www.zhihu.com/search?q=%E6%9B%9D%E6%9F%90%E5%A4%A7%E5%8E%82%E7%BB%A9%E6%95%88%E4%B8%8E%20Token%20%E6%B6%88%E8%80%97%E6%8C%82%E9%92%A9)
+1. [DeepSeek 又崩了](https://www.zhihu.com/search?q=DeepSeek%20%E5%8F%88%E5%B4%A9%E4%BA%86)
 1. [什么样的家庭才能养出松弛感的孩子](https://www.zhihu.com/search?q=%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E5%AE%B6%E5%BA%AD%E6%89%8D%E8%83%BD%E5%85%BB%E5%87%BA%E6%9D%BE%E5%BC%9B%E6%84%9F%E7%9A%84%E5%AD%A9%E5%AD%90)
 1. [为什么突然开始人均养猫了](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%AA%81%E7%84%B6%E5%BC%80%E5%A7%8B%E4%BA%BA%E5%9D%87%E5%85%BB%E7%8C%AB%E4%BA%86)
+1. [张雪称影视版权给顶级团队](https://www.zhihu.com/search?q=%E5%BC%A0%E9%9B%AA%E7%A7%B0%E5%BD%B1%E8%A7%86%E7%89%88%E6%9D%83%E7%BB%99%E9%A1%B6%E7%BA%A7%E5%9B%A2%E9%98%9F)
 1. [速览中东危局40小时](https://www.zhihu.com/search?q=%E9%80%9F%E8%A7%88%E4%B8%AD%E4%B8%9C%E5%8D%B1%E5%B1%8040%E5%B0%8F%E6%97%B6)
-1. [蔡磊进入渐冻症终末期](https://www.zhihu.com/search?q=%E8%94%A1%E7%A3%8A%E8%BF%9B%E5%85%A5%E6%B8%90%E5%86%BB%E7%97%87%E7%BB%88%E6%9C%AB%E6%9C%9F)
 1. [AI面试官](https://www.zhihu.com/search?q=AI%E9%9D%A2%E8%AF%95%E5%AE%98)
 1. [AI简历诊断](https://www.zhihu.com/search?q=AI%E7%AE%80%E5%8E%86%E8%AF%8A%E6%96%AD)
 1. [AI简历分析](https://www.zhihu.com/search?q=AI%E7%AE%80%E5%8E%86%E5%88%86%E6%9E%90)
 1. [简历诊断](https://www.zhihu.com/search?q=%E7%AE%80%E5%8E%86%E8%AF%8A%E6%96%AD)
 1. [AI模拟面试官](https://www.zhihu.com/search?q=AI%E6%A8%A1%E6%8B%9F%E9%9D%A2%E8%AF%95%E5%AE%98)
 1. [AI模拟面试](https://www.zhihu.com/search?q=AI%E6%A8%A1%E6%8B%9F%E9%9D%A2%E8%AF%95)
-1. [今年蚊子可能迎来史诗级加强](https://www.zhihu.com/search?q=%E4%BB%8A%E5%B9%B4%E8%9A%8A%E5%AD%90%E5%8F%AF%E8%83%BD%E8%BF%8E%E6%9D%A5%E5%8F%B2%E8%AF%97%E7%BA%A7%E5%8A%A0%E5%BC%BA)
-1. [中国将在长江水下开高铁](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E5%B0%86%E5%9C%A8%E9%95%BF%E6%B1%9F%E6%B0%B4%E4%B8%8B%E5%BC%80%E9%AB%98%E9%93%81)
 1. [洛克王国世界登顶游戏榜](https://www.zhihu.com/search?q=%E6%B4%9B%E5%85%8B%E7%8E%8B%E5%9B%BD%E4%B8%96%E7%95%8C%E7%99%BB%E9%A1%B6%E6%B8%B8%E6%88%8F%E6%A6%9C)
-1. [粉底液将军被嘲冤不冤](https://www.zhihu.com/search?q=%E7%B2%89%E5%BA%95%E6%B6%B2%E5%B0%86%E5%86%9B%E8%A2%AB%E5%98%B2%E5%86%A4%E4%B8%8D%E5%86%A4)
+1. [NASA 阿尔忒弥斯 2 号载人绕月飞行](https://www.zhihu.com/search?q=NASA%20%E9%98%BF%E5%B0%94%E5%BF%92%E5%BC%A5%E6%96%AF%202%20%E5%8F%B7%E8%BD%BD%E4%BA%BA%E7%BB%95%E6%9C%88%E9%A3%9E%E8%A1%8C)
+1. [人类首次成功运输反物质](https://www.zhihu.com/search?q=%E4%BA%BA%E7%B1%BB%E9%A6%96%E6%AC%A1%E6%88%90%E5%8A%9F%E8%BF%90%E8%BE%93%E5%8F%8D%E7%89%A9%E8%B4%A8)
+1. [文班亚马登顶MVP榜首](https://www.zhihu.com/search?q=%E6%96%87%E7%8F%AD%E4%BA%9A%E9%A9%AC%E7%99%BB%E9%A1%B6MVP%E6%A6%9C%E9%A6%96)
+1. [贵州茅台宣布涨价](https://www.zhihu.com/search?q=%E8%B4%B5%E5%B7%9E%E8%8C%85%E5%8F%B0%E5%AE%A3%E5%B8%83%E6%B6%A8%E4%BB%B7)
+1. [张雪机车发动机系自主研发](https://www.zhihu.com/search?q=%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E5%8F%91%E5%8A%A8%E6%9C%BA%E7%B3%BB%E8%87%AA%E4%B8%BB%E7%A0%94%E5%8F%91)
+1. [张雪机车 WSBK葡萄牙站夺冠](https://www.zhihu.com/search?q=%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%20WSBK%E8%91%A1%E8%90%84%E7%89%99%E7%AB%99%E5%A4%BA%E5%86%A0)
+1. [鞠婧祎收入明细](https://www.zhihu.com/search?q=%E9%9E%A0%E5%A9%A7%E7%A5%8E%E6%94%B6%E5%85%A5%E6%98%8E%E7%BB%86)
+1. [灭火毯为什么会「扎人」](https://www.zhihu.com/search?q=%E7%81%AD%E7%81%AB%E6%AF%AF%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E3%80%8C%E6%89%8E%E4%BA%BA%E3%80%8D)
 
 ## 热门话题
 
