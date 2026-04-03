@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-04-03 15:20:38 +0800`
+`更新时间：2026-04-03 17:04:18 +0800`
 
 ## 热门搜索
 
@@ -28,12 +28,11 @@
 1. [简历诊断](https://www.zhihu.com/search?q=%E7%AE%80%E5%8E%86%E8%AF%8A%E6%96%AD)
 1. [AI模拟面试官](https://www.zhihu.com/search?q=AI%E6%A8%A1%E6%8B%9F%E9%9D%A2%E8%AF%95%E5%AE%98)
 1. [AI模拟面试](https://www.zhihu.com/search?q=AI%E6%A8%A1%E6%8B%9F%E9%9D%A2%E8%AF%95)
-1. [洛克王国世界登顶游戏榜](https://www.zhihu.com/search?q=%E6%B4%9B%E5%85%8B%E7%8E%8B%E5%9B%BD%E4%B8%96%E7%95%8C%E7%99%BB%E9%A1%B6%E6%B8%B8%E6%88%8F%E6%A6%9C)
 1. [NASA 阿尔忒弥斯 2 号载人绕月飞行](https://www.zhihu.com/search?q=NASA%20%E9%98%BF%E5%B0%94%E5%BF%92%E5%BC%A5%E6%96%AF%202%20%E5%8F%B7%E8%BD%BD%E4%BA%BA%E7%BB%95%E6%9C%88%E9%A3%9E%E8%A1%8C)
 1. [文班亚马登顶MVP榜首](https://www.zhihu.com/search?q=%E6%96%87%E7%8F%AD%E4%BA%9A%E9%A9%AC%E7%99%BB%E9%A1%B6MVP%E6%A6%9C%E9%A6%96)
-1. [贵州茅台宣布涨价](https://www.zhihu.com/search?q=%E8%B4%B5%E5%B7%9E%E8%8C%85%E5%8F%B0%E5%AE%A3%E5%B8%83%E6%B6%A8%E4%BB%B7)
 1. [张雪机车发动机系自主研发](https://www.zhihu.com/search?q=%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E5%8F%91%E5%8A%A8%E6%9C%BA%E7%B3%BB%E8%87%AA%E4%B8%BB%E7%A0%94%E5%8F%91)
 1. [张雪机车 WSBK葡萄牙站夺冠](https://www.zhihu.com/search?q=%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%20WSBK%E8%91%A1%E8%90%84%E7%89%99%E7%AB%99%E5%A4%BA%E5%86%A0)
+1. [灭火毯为什么会「扎人」](https://www.zhihu.com/search?q=%E7%81%AD%E7%81%AB%E6%AF%AF%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E3%80%8C%E6%89%8E%E4%BA%BA%E3%80%8D)
 
 ## 热门话题
 
