@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-04-05 09:42:36 +0800`
+`更新时间：2026-04-05 12:30:20 +0800`
 
 ## 热门搜索
 
@@ -36,6 +36,7 @@
 1. [求职数据通](https://www.zhihu.com/search?q=%E6%B1%82%E8%81%8C%E6%95%B0%E6%8D%AE%E9%80%9A)
 1. [小电驴下月将涨价](https://www.zhihu.com/search?q=%E5%B0%8F%E7%94%B5%E9%A9%B4%E4%B8%8B%E6%9C%88%E5%B0%86%E6%B6%A8%E4%BB%B7)
 1. [张雪机车一战封神](https://www.zhihu.com/search?q=%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E4%B8%80%E6%88%98%E5%B0%81%E7%A5%9E)
+1. [「华南 F3」又开始硬核拜山了](https://www.zhihu.com/search?q=%E3%80%8C%E5%8D%8E%E5%8D%97%20F3%E3%80%8D%E5%8F%88%E5%BC%80%E5%A7%8B%E7%A1%AC%E6%A0%B8%E6%8B%9C%E5%B1%B1%E4%BA%86)
 
 ## 热门话题
 
