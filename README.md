@@ -11,17 +11,16 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-04-07 05:44:43 +0800`
+`更新时间：2026-04-07 06:45:30 +0800`
 
 ## 热门搜索
 
-1. [清明节](https://www.zhihu.com/search?q=%E6%B8%85%E6%98%8E%E8%8A%82)
-1. [王艺迪vs张本美和](https://www.zhihu.com/search?q=%E7%8E%8B%E8%89%BA%E8%BF%AAvs%E5%BC%A0%E6%9C%AC%E7%BE%8E%E5%92%8C)
+1. [多位带货优思益博主致歉](https://www.zhihu.com/search?q=%E5%A4%9A%E4%BD%8D%E5%B8%A6%E8%B4%A7%E4%BC%98%E6%80%9D%E7%9B%8A%E5%8D%9A%E4%B8%BB%E8%87%B4%E6%AD%89)
+1. [迪丽热巴古偶](https://www.zhihu.com/search?q=%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%8F%A4%E5%81%B6)
 1. [东契奇伤退](https://www.zhihu.com/search?q=%E4%B8%9C%E5%A5%91%E5%A5%87%E4%BC%A4%E9%80%80)
 1. [孙颖莎vs蒯曼](https://www.zhihu.com/search?q=%E5%AD%99%E9%A2%96%E8%8E%8Evs%E8%92%AF%E6%9B%BC)
 1. [广州暴雨](https://www.zhihu.com/search?q=%E5%B9%BF%E5%B7%9E%E6%9A%B4%E9%9B%A8)
 1. [王楚钦 vs 松岛辉空](https://www.zhihu.com/search?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%20vs%20%E6%9D%BE%E5%B2%9B%E8%BE%89%E7%A9%BA)
-1. [速览中东危局40小时](https://www.zhihu.com/search?q=%E9%80%9F%E8%A7%88%E4%B8%AD%E4%B8%9C%E5%8D%B1%E5%B1%8040%E5%B0%8F%E6%97%B6)
 1. [AI面试官](https://www.zhihu.com/search?q=AI%E9%9D%A2%E8%AF%95%E5%AE%98)
 1. [AI简历诊断](https://www.zhihu.com/search?q=AI%E7%AE%80%E5%8E%86%E8%AF%8A%E6%96%AD)
 1. [AI简历分析](https://www.zhihu.com/search?q=AI%E7%AE%80%E5%8E%86%E5%88%86%E6%9E%90)
@@ -36,6 +35,10 @@
 1. [李荣浩否认抄袭](https://www.zhihu.com/search?q=%E6%9D%8E%E8%8D%A3%E6%B5%A9%E5%90%A6%E8%AE%A4%E6%8A%84%E8%A2%AD)
 1. [offer 季](https://www.zhihu.com/search?q=offer%20%E5%AD%A3)
 1. [上海交大校庆宣传片引争议](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%E4%BA%A4%E5%A4%A7%E6%A0%A1%E5%BA%86%E5%AE%A3%E4%BC%A0%E7%89%87%E5%BC%95%E4%BA%89%E8%AE%AE)
+1. [00后女孩留学回来当职业扫墓人](https://www.zhihu.com/search?q=00%E5%90%8E%E5%A5%B3%E5%AD%A9%E7%95%99%E5%AD%A6%E5%9B%9E%E6%9D%A5%E5%BD%93%E8%81%8C%E4%B8%9A%E6%89%AB%E5%A2%93%E4%BA%BA)
+1. [人类即将时隔半个世纪再赴月球](https://www.zhihu.com/search?q=%E4%BA%BA%E7%B1%BB%E5%8D%B3%E5%B0%86%E6%97%B6%E9%9A%94%E5%8D%8A%E4%B8%AA%E4%B8%96%E7%BA%AA%E5%86%8D%E8%B5%B4%E6%9C%88%E7%90%83)
+1. [日本发生5级地震东京震感明显](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E5%8F%91%E7%94%9F5%E7%BA%A7%E5%9C%B0%E9%9C%87%E4%B8%9C%E4%BA%AC%E9%9C%87%E6%84%9F%E6%98%8E%E6%98%BE)
+1. [军事机密泄露竟是因为运动手表](https://www.zhihu.com/search?q=%E5%86%9B%E4%BA%8B%E6%9C%BA%E5%AF%86%E6%B3%84%E9%9C%B2%E7%AB%9F%E6%98%AF%E5%9B%A0%E4%B8%BA%E8%BF%90%E5%8A%A8%E6%89%8B%E8%A1%A8)
 
 ## 热门话题
 
