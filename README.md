@@ -11,10 +11,14 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-04-08 11:19:28 +0800`
+`更新时间：2026-04-08 13:50:58 +0800`
 
 ## 热门搜索
 
+1. [中国有哪些逆天的文物](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E6%9C%89%E5%93%AA%E4%BA%9B%E9%80%86%E5%A4%A9%E7%9A%84%E6%96%87%E7%89%A9)
+1. [网红都那么美为什么当不了明星](https://www.zhihu.com/search?q=%E7%BD%91%E7%BA%A2%E9%83%BD%E9%82%A3%E4%B9%88%E7%BE%8E%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BD%93%E4%B8%8D%E4%BA%86%E6%98%8E%E6%98%9F)
+1. [退休后旅游有意义吗](https://www.zhihu.com/search?q=%E9%80%80%E4%BC%91%E5%90%8E%E6%97%85%E6%B8%B8%E6%9C%89%E6%84%8F%E4%B9%89%E5%90%97)
+1. [认知水平低的人有什么明显特征](https://www.zhihu.com/search?q=%E8%AE%A4%E7%9F%A5%E6%B0%B4%E5%B9%B3%E4%BD%8E%E7%9A%84%E4%BA%BA%E6%9C%89%E4%BB%80%E4%B9%88%E6%98%8E%E6%98%BE%E7%89%B9%E5%BE%81)
 1. [速览中东危局40小时](https://www.zhihu.com/search?q=%E9%80%9F%E8%A7%88%E4%B8%AD%E4%B8%9C%E5%8D%B1%E5%B1%8040%E5%B0%8F%E6%97%B6)
 1. [AI面试官](https://www.zhihu.com/search?q=AI%E9%9D%A2%E8%AF%95%E5%AE%98)
 1. [AI简历诊断](https://www.zhihu.com/search?q=AI%E7%AE%80%E5%8E%86%E8%AF%8A%E6%96%AD)
@@ -27,9 +31,6 @@
 1. [华谊兄弟超5600万债务逾期](https://www.zhihu.com/search?q=%E5%8D%8E%E8%B0%8A%E5%85%84%E5%BC%9F%E8%B6%855600%E4%B8%87%E5%80%BA%E5%8A%A1%E9%80%BE%E6%9C%9F)
 1. [电影《我，许可》热映](https://www.zhihu.com/search?q=%E7%94%B5%E5%BD%B1%E3%80%8A%E6%88%91%EF%BC%8C%E8%AE%B8%E5%8F%AF%E3%80%8B%E7%83%AD%E6%98%A0)
 1. [《超级马力欧银河大电影》热映](https://www.zhihu.com/search?q=%E3%80%8A%E8%B6%85%E7%BA%A7%E9%A9%AC%E5%8A%9B%E6%AC%A7%E9%93%B6%E6%B2%B3%E5%A4%A7%E7%94%B5%E5%BD%B1%E3%80%8B%E7%83%AD%E6%98%A0)
-1. [兽用麻醉药被抑郁未成年人盯上](https://www.zhihu.com/search?q=%E5%85%BD%E7%94%A8%E9%BA%BB%E9%86%89%E8%8D%AF%E8%A2%AB%E6%8A%91%E9%83%81%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E7%9B%AF%E4%B8%8A)
-1. [四川甘孜景区免票政策被指歧视](https://www.zhihu.com/search?q=%E5%9B%9B%E5%B7%9D%E7%94%98%E5%AD%9C%E6%99%AF%E5%8C%BA%E5%85%8D%E7%A5%A8%E6%94%BF%E7%AD%96%E8%A2%AB%E6%8C%87%E6%AD%A7%E8%A7%86)
-1. [申裕斌 4:1 击败陈幸同](https://www.zhihu.com/search?q=%E7%94%B3%E8%A3%95%E6%96%8C%204%3A1%20%E5%87%BB%E8%B4%A5%E9%99%88%E5%B9%B8%E5%90%8C)
 1. [乘风初舞台第二场](https://www.zhihu.com/search?q=%E4%B9%98%E9%A3%8E%E5%88%9D%E8%88%9E%E5%8F%B0%E7%AC%AC%E4%BA%8C%E5%9C%BA)
 1. [京东集团一副总裁被开除](https://www.zhihu.com/search?q=%E4%BA%AC%E4%B8%9C%E9%9B%86%E5%9B%A2%E4%B8%80%E5%89%AF%E6%80%BB%E8%A3%81%E8%A2%AB%E5%BC%80%E9%99%A4)
 1. [宋方金建议韩寒拍张雪](https://www.zhihu.com/search?q=%E5%AE%8B%E6%96%B9%E9%87%91%E5%BB%BA%E8%AE%AE%E9%9F%A9%E5%AF%92%E6%8B%8D%E5%BC%A0%E9%9B%AA)
