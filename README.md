@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-04-09 15:48:58 +0800`
+`更新时间：2026-04-09 17:18:26 +0800`
 
 ## 热门搜索
 
-1. [金谷园饺子馆推出 AI Skill](https://www.zhihu.com/search?q=%E9%87%91%E8%B0%B7%E5%9B%AD%E9%A5%BA%E5%AD%90%E9%A6%86%E6%8E%A8%E5%87%BA%20AI%20Skill)
+1. [中国有哪些逆天的文物](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E6%9C%89%E5%93%AA%E4%BA%9B%E9%80%86%E5%A4%A9%E7%9A%84%E6%96%87%E7%89%A9)
+1. [网红都那么美为什么当不了明星](https://www.zhihu.com/search?q=%E7%BD%91%E7%BA%A2%E9%83%BD%E9%82%A3%E4%B9%88%E7%BE%8E%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BD%93%E4%B8%8D%E4%BA%86%E6%98%8E%E6%98%9F)
 1. [认知水平低的人有什么明显特征](https://www.zhihu.com/search?q=%E8%AE%A4%E7%9F%A5%E6%B0%B4%E5%B9%B3%E4%BD%8E%E7%9A%84%E4%BA%BA%E6%9C%89%E4%BB%80%E4%B9%88%E6%98%8E%E6%98%BE%E7%89%B9%E5%BE%81)
 1. [速览中东危局40小时](https://www.zhihu.com/search?q=%E9%80%9F%E8%A7%88%E4%B8%AD%E4%B8%9C%E5%8D%B1%E5%B1%8040%E5%B0%8F%E6%97%B6)
 1. [AI面试官](https://www.zhihu.com/search?q=AI%E9%9D%A2%E8%AF%95%E5%AE%98)
@@ -24,6 +25,7 @@
 1. [简历诊断](https://www.zhihu.com/search?q=%E7%AE%80%E5%8E%86%E8%AF%8A%E6%96%AD)
 1. [AI模拟面试官](https://www.zhihu.com/search?q=AI%E6%A8%A1%E6%8B%9F%E9%9D%A2%E8%AF%95%E5%AE%98)
 1. [AI模拟面试](https://www.zhihu.com/search?q=AI%E6%A8%A1%E6%8B%9F%E9%9D%A2%E8%AF%95)
+1. [NASA 阿尔忒弥斯 2 号载人绕月飞行](https://www.zhihu.com/search?q=NASA%20%E9%98%BF%E5%B0%94%E5%BF%92%E5%BC%A5%E6%96%AF%202%20%E5%8F%B7%E8%BD%BD%E4%BA%BA%E7%BB%95%E6%9C%88%E9%A3%9E%E8%A1%8C)
 1. [求职数据通](https://www.zhihu.com/search?q=%E6%B1%82%E8%81%8C%E6%95%B0%E6%8D%AE%E9%80%9A)
 1. [offer 季](https://www.zhihu.com/search?q=offer%20%E5%AD%A3)
 1. [段永平收回不投泡泡玛特](https://www.zhihu.com/search?q=%E6%AE%B5%E6%B0%B8%E5%B9%B3%E6%94%B6%E5%9B%9E%E4%B8%8D%E6%8A%95%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9)
@@ -32,7 +34,6 @@
 1. [网传全红婵遭遇集体霸凌](https://www.zhihu.com/search?q=%E7%BD%91%E4%BC%A0%E5%85%A8%E7%BA%A2%E5%A9%B5%E9%81%AD%E9%81%87%E9%9B%86%E4%BD%93%E9%9C%B8%E5%87%8C)
 1. [微软将打造 100% 原生 Win11 应用](https://www.zhihu.com/search?q=%E5%BE%AE%E8%BD%AF%E5%B0%86%E6%89%93%E9%80%A0%20100%25%20%E5%8E%9F%E7%94%9F%20Win11%20%E5%BA%94%E7%94%A8)
 1. [安徽 6 岁女童家门口失联遇害](https://www.zhihu.com/search?q=%E5%AE%89%E5%BE%BD%206%20%E5%B2%81%E5%A5%B3%E7%AB%A5%E5%AE%B6%E9%97%A8%E5%8F%A3%E5%A4%B1%E8%81%94%E9%81%87%E5%AE%B3)
-1. [GPT-6 或主打记忆与个性化](https://www.zhihu.com/search?q=GPT-6%20%E6%88%96%E4%B8%BB%E6%89%93%E8%AE%B0%E5%BF%86%E4%B8%8E%E4%B8%AA%E6%80%A7%E5%8C%96)
 
 ## 热门话题
 
