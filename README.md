@@ -11,17 +11,17 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-04-10 12:40:12 +0800`
+`更新时间：2026-04-10 14:26:59 +0800`
 
 ## 热门搜索
 
-1. [日本73岁老人来中国求职](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC73%E5%B2%81%E8%80%81%E4%BA%BA%E6%9D%A5%E4%B8%AD%E5%9B%BD%E6%B1%82%E8%81%8C)
-1. [「改善型租房」为什么被越来越多人接受](https://www.zhihu.com/search?q=%E3%80%8C%E6%94%B9%E5%96%84%E5%9E%8B%E7%A7%9F%E6%88%BF%E3%80%8D%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A2%AB%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A%E4%BA%BA%E6%8E%A5%E5%8F%97)
+1. [美国或从部分北约国家撤军](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E6%88%96%E4%BB%8E%E9%83%A8%E5%88%86%E5%8C%97%E7%BA%A6%E5%9B%BD%E5%AE%B6%E6%92%A4%E5%86%9B)
+1. [墓碑被贴「欠费通知单」合适吗](https://www.zhihu.com/search?q=%E5%A2%93%E7%A2%91%E8%A2%AB%E8%B4%B4%E3%80%8C%E6%AC%A0%E8%B4%B9%E9%80%9A%E7%9F%A5%E5%8D%95%E3%80%8D%E5%90%88%E9%80%82%E5%90%97)
 1. [认知水平低的人有什么明显特征](https://www.zhihu.com/search?q=%E8%AE%A4%E7%9F%A5%E6%B0%B4%E5%B9%B3%E4%BD%8E%E7%9A%84%E4%BA%BA%E6%9C%89%E4%BB%80%E4%B9%88%E6%98%8E%E6%98%BE%E7%89%B9%E5%BE%81)
 1. [速览中东危局40小时](https://www.zhihu.com/search?q=%E9%80%9F%E8%A7%88%E4%B8%AD%E4%B8%9C%E5%8D%B1%E5%B1%8040%E5%B0%8F%E6%97%B6)
 1. [AI面试官](https://www.zhihu.com/search?q=AI%E9%9D%A2%E8%AF%95%E5%AE%98)
 1. [AI简历诊断](https://www.zhihu.com/search?q=AI%E7%AE%80%E5%8E%86%E8%AF%8A%E6%96%AD)
-1. [AI简历分析](https://www.zhihu.com/search?q=AI%E7%AE%80%E5%8E%86%E5%88%86%E6%9E%90)
+1. [日本73岁老人来中国求职](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC73%E5%B2%81%E8%80%81%E4%BA%BA%E6%9D%A5%E4%B8%AD%E5%9B%BD%E6%B1%82%E8%81%8C)
 1. [简历诊断](https://www.zhihu.com/search?q=%E7%AE%80%E5%8E%86%E8%AF%8A%E6%96%AD)
 1. [AI模拟面试官](https://www.zhihu.com/search?q=AI%E6%A8%A1%E6%8B%9F%E9%9D%A2%E8%AF%95%E5%AE%98)
 1. [AI模拟面试](https://www.zhihu.com/search?q=AI%E6%A8%A1%E6%8B%9F%E9%9D%A2%E8%AF%95)
@@ -34,6 +34,7 @@
 1. [女企业家陈丽华逝世](https://www.zhihu.com/search?q=%E5%A5%B3%E4%BC%81%E4%B8%9A%E5%AE%B6%E9%99%88%E4%B8%BD%E5%8D%8E%E9%80%9D%E4%B8%96)
 1. [幼儿园关停潮幼师工作服务化](https://www.zhihu.com/search?q=%E5%B9%BC%E5%84%BF%E5%9B%AD%E5%85%B3%E5%81%9C%E6%BD%AE%E5%B9%BC%E5%B8%88%E5%B7%A5%E4%BD%9C%E6%9C%8D%E5%8A%A1%E5%8C%96)
 1. [男子频繁掏耳朵致耳道发霉长白毛](https://www.zhihu.com/search?q=%E7%94%B7%E5%AD%90%E9%A2%91%E7%B9%81%E6%8E%8F%E8%80%B3%E6%9C%B5%E8%87%B4%E8%80%B3%E9%81%93%E5%8F%91%E9%9C%89%E9%95%BF%E7%99%BD%E6%AF%9B)
+1. [男子掏耳朵致耳道发霉长白毛](https://www.zhihu.com/search?q=%E7%94%B7%E5%AD%90%E6%8E%8F%E8%80%B3%E6%9C%B5%E8%87%B4%E8%80%B3%E9%81%93%E5%8F%91%E9%9C%89%E9%95%BF%E7%99%BD%E6%AF%9B)
 
 ## 热门话题
 
