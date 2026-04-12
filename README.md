@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-04-12 18:30:26 +0800`
+`更新时间：2026-04-12 19:27:23 +0800`
 
 ## 热门搜索
 
-1. [刘强东章泽天成立新公司](https://www.zhihu.com/search?q=%E5%88%98%E5%BC%BA%E4%B8%9C%E7%AB%A0%E6%B3%BD%E5%A4%A9%E6%88%90%E7%AB%8B%E6%96%B0%E5%85%AC%E5%8F%B8)
-1. [A股三大指数集体高开](https://www.zhihu.com/search?q=A%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80)
+1. [吴克群人民日报写烟火人间](https://www.zhihu.com/search?q=%E5%90%B4%E5%85%8B%E7%BE%A4%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E5%86%99%E7%83%9F%E7%81%AB%E4%BA%BA%E9%97%B4)
+1. [水蛭可以钻破鸡的肠胃吗](https://www.zhihu.com/search?q=%E6%B0%B4%E8%9B%AD%E5%8F%AF%E4%BB%A5%E9%92%BB%E7%A0%B4%E9%B8%A1%E7%9A%84%E8%82%A0%E8%83%83%E5%90%97)
 1. [湖人vs勇士](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BAvs%E5%8B%87%E5%A3%AB)
 1. [你的电话号码的前主人是什么样的人](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9A%84%E7%94%B5%E8%AF%9D%E5%8F%B7%E7%A0%81%E7%9A%84%E5%89%8D%E4%B8%BB%E4%BA%BA%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E4%BA%BA)
 1. [清明节](https://www.zhihu.com/search?q=%E6%B8%85%E6%98%8E%E8%8A%82)
