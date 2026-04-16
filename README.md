@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-04-16 14:07:45 +0800`
+`更新时间：2026-04-16 16:49:17 +0800`
 
 ## 热门搜索
 
@@ -22,18 +22,19 @@
 1. [速览中东危局40小时](https://www.zhihu.com/search?q=%E9%80%9F%E8%A7%88%E4%B8%AD%E4%B8%9C%E5%8D%B1%E5%B1%8040%E5%B0%8F%E6%97%B6)
 1. [蒸馏前任火了](https://www.zhihu.com/search?q=%E8%92%B8%E9%A6%8F%E5%89%8D%E4%BB%BB%E7%81%AB%E4%BA%86)
 1. [浪姐黑马预测](https://www.zhihu.com/search?q=%E6%B5%AA%E5%A7%90%E9%BB%91%E9%A9%AC%E9%A2%84%E6%B5%8B)
-1. [男子钓7条鱼获利50元被判刑](https://www.zhihu.com/search?q=%E7%94%B7%E5%AD%90%E9%92%937%E6%9D%A1%E9%B1%BC%E8%8E%B7%E5%88%A950%E5%85%83%E8%A2%AB%E5%88%A4%E5%88%91)
-1. [石门中学奶茶事件](https://www.zhihu.com/search?q=%E7%9F%B3%E9%97%A8%E4%B8%AD%E5%AD%A6%E5%A5%B6%E8%8C%B6%E4%BA%8B%E4%BB%B6)
 1. [张雪问了自己 3 个问题后辞职](https://www.zhihu.com/search?q=%E5%BC%A0%E9%9B%AA%E9%97%AE%E4%BA%86%E8%87%AA%E5%B7%B1%203%20%E4%B8%AA%E9%97%AE%E9%A2%98%E5%90%8E%E8%BE%9E%E8%81%8C)
 1. [高铁站员工回应站台全面禁烟](https://www.zhihu.com/search?q=%E9%AB%98%E9%93%81%E7%AB%99%E5%91%98%E5%B7%A5%E5%9B%9E%E5%BA%94%E7%AB%99%E5%8F%B0%E5%85%A8%E9%9D%A2%E7%A6%81%E7%83%9F)
 1. [小孩骑车被绳子锁喉致食道气管全断裂](https://www.zhihu.com/search?q=%E5%B0%8F%E5%AD%A9%E9%AA%91%E8%BD%A6%E8%A2%AB%E7%BB%B3%E5%AD%90%E9%94%81%E5%96%89%E8%87%B4%E9%A3%9F%E9%81%93%E6%B0%94%E7%AE%A1%E5%85%A8%E6%96%AD%E8%A3%82)
-1. [文章开饭店了](https://www.zhihu.com/search?q=%E6%96%87%E7%AB%A0%E5%BC%80%E9%A5%AD%E5%BA%97%E4%BA%86)
 1. [嫣然医院与房东已调解完成](https://www.zhihu.com/search?q=%E5%AB%A3%E7%84%B6%E5%8C%BB%E9%99%A2%E4%B8%8E%E6%88%BF%E4%B8%9C%E5%B7%B2%E8%B0%83%E8%A7%A3%E5%AE%8C%E6%88%90)
 1. [海底捞通报自费买礼物事件排查结果](https://www.zhihu.com/search?q=%E6%B5%B7%E5%BA%95%E6%8D%9E%E9%80%9A%E6%8A%A5%E8%87%AA%E8%B4%B9%E4%B9%B0%E7%A4%BC%E7%89%A9%E4%BA%8B%E4%BB%B6%E6%8E%92%E6%9F%A5%E7%BB%93%E6%9E%9C)
 1. [美军已开始对进出霍尔木兹海峡的船只进行阻截](https://www.zhihu.com/search?q=%E7%BE%8E%E5%86%9B%E5%B7%B2%E5%BC%80%E5%A7%8B%E5%AF%B9%E8%BF%9B%E5%87%BA%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E7%9A%84%E8%88%B9%E5%8F%AA%E8%BF%9B%E8%A1%8C%E9%98%BB%E6%88%AA)
 1. [银行招聘被指萝卜岗后撤争议条款](https://www.zhihu.com/search?q=%E9%93%B6%E8%A1%8C%E6%8B%9B%E8%81%98%E8%A2%AB%E6%8C%87%E8%90%9D%E5%8D%9C%E5%B2%97%E5%90%8E%E6%92%A4%E4%BA%89%E8%AE%AE%E6%9D%A1%E6%AC%BE)
 1. [网传有人通过豆包买保险被骗](https://www.zhihu.com/search?q=%E7%BD%91%E4%BC%A0%E6%9C%89%E4%BA%BA%E9%80%9A%E8%BF%87%E8%B1%86%E5%8C%85%E4%B9%B0%E4%BF%9D%E9%99%A9%E8%A2%AB%E9%AA%97)
 1. [王者荣耀世界刚开服就被吐槽](https://www.zhihu.com/search?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E4%B8%96%E7%95%8C%E5%88%9A%E5%BC%80%E6%9C%8D%E5%B0%B1%E8%A2%AB%E5%90%90%E6%A7%BD)
+1. [奇瑞高管怒怼沙发冰箱造车](https://www.zhihu.com/search?q=%E5%A5%87%E7%91%9E%E9%AB%98%E7%AE%A1%E6%80%92%E6%80%BC%E6%B2%99%E5%8F%91%E5%86%B0%E7%AE%B1%E9%80%A0%E8%BD%A6)
+1. [WNBA 选秀大会](https://www.zhihu.com/search?q=WNBA%20%E9%80%89%E7%A7%80%E5%A4%A7%E4%BC%9A)
+1. [蜜蜂为什么要把身上的花粉刮下来](https://www.zhihu.com/search?q=%E8%9C%9C%E8%9C%82%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E6%8A%8A%E8%BA%AB%E4%B8%8A%E7%9A%84%E8%8A%B1%E7%B2%89%E5%88%AE%E4%B8%8B%E6%9D%A5)
+1. [「零负债青年」兴起](https://www.zhihu.com/search?q=%E3%80%8C%E9%9B%B6%E8%B4%9F%E5%80%BA%E9%9D%92%E5%B9%B4%E3%80%8D%E5%85%B4%E8%B5%B7)
 
 ## 热门话题
 
