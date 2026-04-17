@@ -11,15 +11,16 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-04-17 19:43:16 +0800`
+`更新时间：2026-04-17 20:58:14 +0800`
 
 ## 热门搜索
 
-1. [德云社为什么只有郭德纲走到了最后](https://www.zhihu.com/search?q=%E5%BE%B7%E4%BA%91%E7%A4%BE%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%AA%E6%9C%89%E9%83%AD%E5%BE%B7%E7%BA%B2%E8%B5%B0%E5%88%B0%E4%BA%86%E6%9C%80%E5%90%8E)
+1. [教资成绩](https://www.zhihu.com/search?q=%E6%95%99%E8%B5%84%E6%88%90%E7%BB%A9)
+1. [3月70城房价出炉](https://www.zhihu.com/search?q=3%E6%9C%8870%E5%9F%8E%E6%88%BF%E4%BB%B7%E5%87%BA%E7%82%89)
 1. [五一假期首日火车票今日开售](https://www.zhihu.com/search?q=%E4%BA%94%E4%B8%80%E5%81%87%E6%9C%9F%E9%A6%96%E6%97%A5%E7%81%AB%E8%BD%A6%E7%A5%A8%E4%BB%8A%E6%97%A5%E5%BC%80%E5%94%AE)
 1. [演员到底有多吃天赋](https://www.zhihu.com/search?q=%E6%BC%94%E5%91%98%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E5%90%83%E5%A4%A9%E8%B5%8B)
 1. [什么样的人算是中了基因彩票](https://www.zhihu.com/search?q=%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E4%BA%BA%E7%AE%97%E6%98%AF%E4%B8%AD%E4%BA%86%E5%9F%BA%E5%9B%A0%E5%BD%A9%E7%A5%A8)
-1. [拼多多被罚 15.2 亿且暴力阻碍监管](https://www.zhihu.com/search?q=%E6%8B%BC%E5%A4%9A%E5%A4%9A%E8%A2%AB%E7%BD%9A%2015.2%20%E4%BA%BF%E4%B8%94%E6%9A%B4%E5%8A%9B%E9%98%BB%E7%A2%8D%E7%9B%91%E7%AE%A1)
+1. [电子游戏中有哪些误译](https://www.zhihu.com/search?q=%E7%94%B5%E5%AD%90%E6%B8%B8%E6%88%8F%E4%B8%AD%E6%9C%89%E5%93%AA%E4%BA%9B%E8%AF%AF%E8%AF%91)
 1. [山东泰山vs上海海港](https://www.zhihu.com/search?q=%E5%B1%B1%E4%B8%9C%E6%B3%B0%E5%B1%B1vs%E4%B8%8A%E6%B5%B7%E6%B5%B7%E6%B8%AF)
 1. [TES战胜BLG](https://www.zhihu.com/search?q=TES%E6%88%98%E8%83%9CBLG)
 1. [导师给你的最后忠告是什么](https://www.zhihu.com/search?q=%E5%AF%BC%E5%B8%88%E7%BB%99%E4%BD%A0%E7%9A%84%E6%9C%80%E5%90%8E%E5%BF%A0%E5%91%8A%E6%98%AF%E4%BB%80%E4%B9%88)
@@ -30,7 +31,6 @@
 1. [2026 苏超十三队队服发布](https://www.zhihu.com/search?q=2026%20%E8%8B%8F%E8%B6%85%E5%8D%81%E4%B8%89%E9%98%9F%E9%98%9F%E6%9C%8D%E5%8F%91%E5%B8%83)
 1. [苏超揭幕战!常州 vs 南通](https://www.zhihu.com/search?q=%E8%8B%8F%E8%B6%85%E6%8F%AD%E5%B9%95%E6%88%98%21%E5%B8%B8%E5%B7%9E%20vs%20%E5%8D%97%E9%80%9A)
 1. [苏超](https://www.zhihu.com/search?q=%E8%8B%8F%E8%B6%85)
-1. [华为PuraXMax](https://www.zhihu.com/search?q=%E5%8D%8E%E4%B8%BAPuraXMax)
 
 ## 热门话题
 
