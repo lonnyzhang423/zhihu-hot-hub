@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-04-17 20:58:14 +0800`
+`更新时间：2026-04-17 22:19:20 +0800`
 
 ## 热门搜索
 
@@ -31,6 +31,7 @@
 1. [2026 苏超十三队队服发布](https://www.zhihu.com/search?q=2026%20%E8%8B%8F%E8%B6%85%E5%8D%81%E4%B8%89%E9%98%9F%E9%98%9F%E6%9C%8D%E5%8F%91%E5%B8%83)
 1. [苏超揭幕战!常州 vs 南通](https://www.zhihu.com/search?q=%E8%8B%8F%E8%B6%85%E6%8F%AD%E5%B9%95%E6%88%98%21%E5%B8%B8%E5%B7%9E%20vs%20%E5%8D%97%E9%80%9A)
 1. [苏超](https://www.zhihu.com/search?q=%E8%8B%8F%E8%B6%85)
+1. [华为PuraXMax](https://www.zhihu.com/search?q=%E5%8D%8E%E4%B8%BAPuraXMax)
 
 ## 热门话题
 
