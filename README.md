@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-04-18 15:19:54 +0800`
+`更新时间：2026-04-18 16:59:33 +0800`
 
 ## 热门搜索
 
@@ -32,6 +32,7 @@
 1. [苏超](https://www.zhihu.com/search?q=%E8%8B%8F%E8%B6%85)
 1. [华为PuraXMax](https://www.zhihu.com/search?q=%E5%8D%8E%E4%B8%BAPuraXMax)
 1. [蜜蜂为什么要把身上的花粉刮下来](https://www.zhihu.com/search?q=%E8%9C%9C%E8%9C%82%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E6%8A%8A%E8%BA%AB%E4%B8%8A%E7%9A%84%E8%8A%B1%E7%B2%89%E5%88%AE%E4%B8%8B%E6%9D%A5)
+1. [宿迁邀何润东助阵苏超](https://www.zhihu.com/search?q=%E5%AE%BF%E8%BF%81%E9%82%80%E4%BD%95%E6%B6%A6%E4%B8%9C%E5%8A%A9%E9%98%B5%E8%8B%8F%E8%B6%85)
 
 ## 热门话题
 
