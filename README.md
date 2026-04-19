@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-04-19 19:41:19 +0800`
+`更新时间：2026-04-19 21:17:35 +0800`
 
 ## 热门搜索
 
@@ -32,8 +32,8 @@
 1. [宿迁邀何润东助阵苏超](https://www.zhihu.com/search?q=%E5%AE%BF%E8%BF%81%E9%82%80%E4%BD%95%E6%B6%A6%E4%B8%9C%E5%8A%A9%E9%98%B5%E8%8B%8F%E8%B6%85)
 1. [方圆八百米](https://www.zhihu.com/search?q=%E6%96%B9%E5%9C%86%E5%85%AB%E7%99%BE%E7%B1%B3)
 1. [2026 人形机器人半程马拉松赛](https://www.zhihu.com/search?q=2026%20%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8D%8A%E7%A8%8B%E9%A9%AC%E6%8B%89%E6%9D%BE%E8%B5%9B)
-1. [法国通过文物归还法案](https://www.zhihu.com/search?q=%E6%B3%95%E5%9B%BD%E9%80%9A%E8%BF%87%E6%96%87%E7%89%A9%E5%BD%92%E8%BF%98%E6%B3%95%E6%A1%88)
 1. [哈啰拒不改正将被处罚](https://www.zhihu.com/search?q=%E5%93%88%E5%95%B0%E6%8B%92%E4%B8%8D%E6%94%B9%E6%AD%A3%E5%B0%86%E8%A2%AB%E5%A4%84%E7%BD%9A)
+1. [大批五一航班突然取消](https://www.zhihu.com/search?q=%E5%A4%A7%E6%89%B9%E4%BA%94%E4%B8%80%E8%88%AA%E7%8F%AD%E7%AA%81%E7%84%B6%E5%8F%96%E6%B6%88)
 
 ## 热门话题
 
