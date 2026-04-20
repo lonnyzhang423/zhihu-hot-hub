@@ -11,12 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-04-20 22:00:40 +0800`
+`更新时间：2026-04-20 23:40:05 +0800`
 
 ## 热门搜索
 
-1. [a股七姐妹](https://www.zhihu.com/search?q=a%E8%82%A1%E4%B8%83%E5%A7%90%E5%A6%B9)
-1. [张雪机车荷兰站第二轮正赛](https://www.zhihu.com/search?q=%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E8%8D%B7%E5%85%B0%E7%AB%99%E7%AC%AC%E4%BA%8C%E8%BD%AE%E6%AD%A3%E8%B5%9B)
+1. [北京晚霞](https://www.zhihu.com/search?q=%E5%8C%97%E4%BA%AC%E6%99%9A%E9%9C%9E)
 1. [勇士vs太阳](https://www.zhihu.com/search?q=%E5%8B%87%E5%A3%ABvs%E5%A4%AA%E9%98%B3)
 1. [火箭vs湖人](https://www.zhihu.com/search?q=%E7%81%AB%E7%AE%ADvs%E6%B9%96%E4%BA%BA)
 1. [哈兰德破门](https://www.zhihu.com/search?q=%E5%93%88%E5%85%B0%E5%BE%B7%E7%A0%B4%E9%97%A8)
