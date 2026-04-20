@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-04-20 19:12:54 +0800`
+`更新时间：2026-04-20 21:08:15 +0800`
 
 ## 热门搜索
 
@@ -38,6 +38,7 @@
 1. [为什么安陵容这类人难相处](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%AE%89%E9%99%B5%E5%AE%B9%E8%BF%99%E7%B1%BB%E4%BA%BA%E9%9A%BE%E7%9B%B8%E5%A4%84)
 1. [为什么要无条件爱孩子](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E6%97%A0%E6%9D%A1%E4%BB%B6%E7%88%B1%E5%AD%A9%E5%AD%90)
 1. [认知水平高的人有什么特征](https://www.zhihu.com/search?q=%E8%AE%A4%E7%9F%A5%E6%B0%B4%E5%B9%B3%E9%AB%98%E7%9A%84%E4%BA%BA%E6%9C%89%E4%BB%80%E4%B9%88%E7%89%B9%E5%BE%81)
+1. [如何评价电视剧新三国](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E7%94%B5%E8%A7%86%E5%89%A7%E6%96%B0%E4%B8%89%E5%9B%BD)
 
 ## 热门话题
 
