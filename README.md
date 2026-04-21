@@ -11,30 +11,33 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-04-21 18:11:47 +0800`
+`更新时间：2026-04-21 19:55:03 +0800`
 
 ## 热门搜索
 
+1. [勇士vs太阳](https://www.zhihu.com/search?q=%E5%8B%87%E5%A3%ABvs%E5%A4%AA%E9%98%B3)
+1. [火箭vs湖人](https://www.zhihu.com/search?q=%E7%81%AB%E7%AE%ADvs%E6%B9%96%E4%BA%BA)
+1. [掘金大胜森林狼](https://www.zhihu.com/search?q=%E6%8E%98%E9%87%91%E5%A4%A7%E8%83%9C%E6%A3%AE%E6%9E%97%E7%8B%BC)
 1. [为什么山姆这么受欢迎](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%B1%B1%E5%A7%86%E8%BF%99%E4%B9%88%E5%8F%97%E6%AC%A2%E8%BF%8E)
-1. [日本发生7.5级地震](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E5%8F%91%E7%94%9F7.5%E7%BA%A7%E5%9C%B0%E9%9C%87)
+1. [怎样才能叫做真正会科研的人](https://www.zhihu.com/search?q=%E6%80%8E%E6%A0%B7%E6%89%8D%E8%83%BD%E5%8F%AB%E5%81%9A%E7%9C%9F%E6%AD%A3%E4%BC%9A%E7%A7%91%E7%A0%94%E7%9A%84%E4%BA%BA)
+1. [美国情报系统现在属于什么水平](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E6%83%85%E6%8A%A5%E7%B3%BB%E7%BB%9F%E7%8E%B0%E5%9C%A8%E5%B1%9E%E4%BA%8E%E4%BB%80%E4%B9%88%E6%B0%B4%E5%B9%B3)
+1. [内心强大的人有什么特点](https://www.zhihu.com/search?q=%E5%86%85%E5%BF%83%E5%BC%BA%E5%A4%A7%E7%9A%84%E4%BA%BA%E6%9C%89%E4%BB%80%E4%B9%88%E7%89%B9%E7%82%B9)
+1. [为什么有的人特别容易紧张](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%89%E7%9A%84%E4%BA%BA%E7%89%B9%E5%88%AB%E5%AE%B9%E6%98%93%E7%B4%A7%E5%BC%A0)
+1. [你曾经错过大牛股吗](https://www.zhihu.com/search?q=%E4%BD%A0%E6%9B%BE%E7%BB%8F%E9%94%99%E8%BF%87%E5%A4%A7%E7%89%9B%E8%82%A1%E5%90%97)
+1. [什么生活常识必须知道](https://www.zhihu.com/search?q=%E4%BB%80%E4%B9%88%E7%94%9F%E6%B4%BB%E5%B8%B8%E8%AF%86%E5%BF%85%E9%A1%BB%E7%9F%A5%E9%81%93)
+1. [真的有先父遗传吗](https://www.zhihu.com/search?q=%E7%9C%9F%E7%9A%84%E6%9C%89%E5%85%88%E7%88%B6%E9%81%97%E4%BC%A0%E5%90%97)
+1. [为什么安陵容这类人难相处](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%AE%89%E9%99%B5%E5%AE%B9%E8%BF%99%E7%B1%BB%E4%BA%BA%E9%9A%BE%E7%9B%B8%E5%A4%84)
+1. [为什么要无条件爱孩子](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E6%97%A0%E6%9D%A1%E4%BB%B6%E7%88%B1%E5%AD%A9%E5%AD%90)
+1. [认知水平高的人有什么特征](https://www.zhihu.com/search?q=%E8%AE%A4%E7%9F%A5%E6%B0%B4%E5%B9%B3%E9%AB%98%E7%9A%84%E4%BA%BA%E6%9C%89%E4%BB%80%E4%B9%88%E7%89%B9%E5%BE%81)
+1. [如何评价电视剧新三国](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E7%94%B5%E8%A7%86%E5%89%A7%E6%96%B0%E4%B8%89%E5%9B%BD)
+1. [开拓者vs马刺](https://www.zhihu.com/search?q=%E5%BC%80%E6%8B%93%E8%80%85vs%E9%A9%AC%E5%88%BA)
+1. [教父的人情可以不还吗](https://www.zhihu.com/search?q=%E6%95%99%E7%88%B6%E7%9A%84%E4%BA%BA%E6%83%85%E5%8F%AF%E4%BB%A5%E4%B8%8D%E8%BF%98%E5%90%97)
+1. [如何低成本照顾自己的心理健康](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E4%BD%8E%E6%88%90%E6%9C%AC%E7%85%A7%E9%A1%BE%E8%87%AA%E5%B7%B1%E7%9A%84%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7)
+1. [住家保姆为什么总干不长](https://www.zhihu.com/search?q=%E4%BD%8F%E5%AE%B6%E4%BF%9D%E5%A7%86%E4%B8%BA%E4%BB%80%E4%B9%88%E6%80%BB%E5%B9%B2%E4%B8%8D%E9%95%BF)
+1. [低精力人群如何自救](https://www.zhihu.com/search?q=%E4%BD%8E%E7%B2%BE%E5%8A%9B%E4%BA%BA%E7%BE%A4%E5%A6%82%E4%BD%95%E8%87%AA%E6%95%91)
+1. [沪深两市成交额突破2万亿元](https://www.zhihu.com/search?q=%E6%B2%AA%E6%B7%B1%E4%B8%A4%E5%B8%82%E6%88%90%E4%BA%A4%E9%A2%9D%E7%AA%81%E7%A0%B42%E4%B8%87%E4%BA%BF%E5%85%83)
+1. [怎样判断一个人的认知在你之上](https://www.zhihu.com/search?q=%E6%80%8E%E6%A0%B7%E5%88%A4%E6%96%AD%E4%B8%80%E4%B8%AA%E4%BA%BA%E7%9A%84%E8%AE%A4%E7%9F%A5%E5%9C%A8%E4%BD%A0%E4%B9%8B%E4%B8%8A)
 1. [速览中东危局40小时](https://www.zhihu.com/search?q=%E9%80%9F%E8%A7%88%E4%B8%AD%E4%B8%9C%E5%8D%B1%E5%B1%8040%E5%B0%8F%E6%97%B6)
-1. [何润东翻红](https://www.zhihu.com/search?q=%E4%BD%95%E6%B6%A6%E4%B8%9C%E7%BF%BB%E7%BA%A2)
-1. [蜜蜂为什么要把身上的花粉刮下来](https://www.zhihu.com/search?q=%E8%9C%9C%E8%9C%82%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E6%8A%8A%E8%BA%AB%E4%B8%8A%E7%9A%84%E8%8A%B1%E7%B2%89%E5%88%AE%E4%B8%8B%E6%9D%A5)
-1. [2026 苏超](https://www.zhihu.com/search?q=2026%20%E8%8B%8F%E8%B6%85)
-1. [为什么现在流行反向追剧](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E6%B5%81%E8%A1%8C%E5%8F%8D%E5%90%91%E8%BF%BD%E5%89%A7)
-1. [拼多多被罚 15.2 亿且暴力阻碍监管](https://www.zhihu.com/search?q=%E6%8B%BC%E5%A4%9A%E5%A4%9A%E8%A2%AB%E7%BD%9A%2015.2%20%E4%BA%BF%E4%B8%94%E6%9A%B4%E5%8A%9B%E9%98%BB%E7%A2%8D%E7%9B%91%E7%AE%A1)
-1. [稿费80万的金番作者使用AI写作](https://www.zhihu.com/search?q=%E7%A8%BF%E8%B4%B980%E4%B8%87%E7%9A%84%E9%87%91%E7%95%AA%E4%BD%9C%E8%80%85%E4%BD%BF%E7%94%A8AI%E5%86%99%E4%BD%9C)
-1. [国产光纤部分产品价格暴涨 650%](https://www.zhihu.com/search?q=%E5%9B%BD%E4%BA%A7%E5%85%89%E7%BA%A4%E9%83%A8%E5%88%86%E4%BA%A7%E5%93%81%E4%BB%B7%E6%A0%BC%E6%9A%B4%E6%B6%A8%20650%25)
-1. [曝《歌手 2026》阵容](https://www.zhihu.com/search?q=%E6%9B%9D%E3%80%8A%E6%AD%8C%E6%89%8B%202026%E3%80%8B%E9%98%B5%E5%AE%B9)
-1. [网传酒店打回访电话致住客离婚](https://www.zhihu.com/search?q=%E7%BD%91%E4%BC%A0%E9%85%92%E5%BA%97%E6%89%93%E5%9B%9E%E8%AE%BF%E7%94%B5%E8%AF%9D%E8%87%B4%E4%BD%8F%E5%AE%A2%E7%A6%BB%E5%A9%9A)
-1. [DeepSeek被曝融资20亿](https://www.zhihu.com/search?q=DeepSeek%E8%A2%AB%E6%9B%9D%E8%9E%8D%E8%B5%8420%E4%BA%BF)
-1. [万达电影更名为儒意电影](https://www.zhihu.com/search?q=%E4%B8%87%E8%BE%BE%E7%94%B5%E5%BD%B1%E6%9B%B4%E5%90%8D%E4%B8%BA%E5%84%92%E6%84%8F%E7%94%B5%E5%BD%B1)
-1. [一高中学生集中选物化生致师资紧缺](https://www.zhihu.com/search?q=%E4%B8%80%E9%AB%98%E4%B8%AD%E5%AD%A6%E7%94%9F%E9%9B%86%E4%B8%AD%E9%80%89%E7%89%A9%E5%8C%96%E7%94%9F%E8%87%B4%E5%B8%88%E8%B5%84%E7%B4%A7%E7%BC%BA)
-1. [ 降脂针已卖「白菜价」](https://www.zhihu.com/search?q=%20%E9%99%8D%E8%84%82%E9%92%88%E5%B7%B2%E5%8D%96%E3%80%8C%E7%99%BD%E8%8F%9C%E4%BB%B7%E3%80%8D)
-1. [云南泼水节变味了](https://www.zhihu.com/search?q=%E4%BA%91%E5%8D%97%E6%B3%BC%E6%B0%B4%E8%8A%82%E5%8F%98%E5%91%B3%E4%BA%86)
-1. [女子频繁表白后被确诊「桃花癫」](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E9%A2%91%E7%B9%81%E8%A1%A8%E7%99%BD%E5%90%8E%E8%A2%AB%E7%A1%AE%E8%AF%8A%E3%80%8C%E6%A1%83%E8%8A%B1%E7%99%AB%E3%80%8D)
-1. [总感觉月亮电量不足了](https://www.zhihu.com/search?q=%E6%80%BB%E6%84%9F%E8%A7%89%E6%9C%88%E4%BA%AE%E7%94%B5%E9%87%8F%E4%B8%8D%E8%B6%B3%E4%BA%86)
-1. [《风林火山》横扫金像奖技术奖](https://www.zhihu.com/search?q=%E3%80%8A%E9%A3%8E%E6%9E%97%E7%81%AB%E5%B1%B1%E3%80%8B%E6%A8%AA%E6%89%AB%E9%87%91%E5%83%8F%E5%A5%96%E6%8A%80%E6%9C%AF%E5%A5%96)
 
 ## 热门话题
 
