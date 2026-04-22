@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-04-22 19:53:29 +0800`
+`更新时间：2026-04-22 21:04:24 +0800`
 
 ## 热门搜索
 
-1. [彭士禄院士与家人的特殊合同](https://www.zhihu.com/search?q=%E5%BD%AD%E5%A3%AB%E7%A6%84%E9%99%A2%E5%A3%AB%E4%B8%8E%E5%AE%B6%E4%BA%BA%E7%9A%84%E7%89%B9%E6%AE%8A%E5%90%88%E5%90%8C)
-1. [美关税退款系统上线](https://www.zhihu.com/search?q=%E7%BE%8E%E5%85%B3%E7%A8%8E%E9%80%80%E6%AC%BE%E7%B3%BB%E7%BB%9F%E4%B8%8A%E7%BA%BF)
+1. [湖人vs火箭](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BAvs%E7%81%AB%E7%AE%AD)
+1. [小米汽车](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6)
 1. [接英雄回家](https://www.zhihu.com/search?q=%E6%8E%A5%E8%8B%B1%E9%9B%84%E5%9B%9E%E5%AE%B6)
 1. [火箭vs湖人](https://www.zhihu.com/search?q=%E7%81%AB%E7%AE%ADvs%E6%B9%96%E4%BA%BA)
 1. [为什么山姆这么受欢迎](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%B1%B1%E5%A7%86%E8%BF%99%E4%B9%88%E5%8F%97%E6%AC%A2%E8%BF%8E)
