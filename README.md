@@ -11,16 +11,21 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-04-24 17:04:44 +0800`
+`更新时间：2026-04-24 19:13:14 +0800`
 
 ## 热门搜索
 
+1. [华晨宇演唱会延期](https://www.zhihu.com/search?q=%E5%8D%8E%E6%99%A8%E5%AE%87%E6%BC%94%E5%94%B1%E4%BC%9A%E5%BB%B6%E6%9C%9F)
+1. [中国航天日](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E6%97%A5)
+1. [小米yu7](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3yu7)
 1. [伊朗局势](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF)
 1. [以色列宣布袭击伊朗](https://www.zhihu.com/search?q=%E4%BB%A5%E8%89%B2%E5%88%97%E5%AE%A3%E5%B8%83%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97)
 1. [美以袭击伊朗](https://www.zhihu.com/search?q=%E7%BE%8E%E4%BB%A5%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97)
 1. [伊朗会不会成为下一个伊拉克](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E4%BC%9A%E4%B8%8D%E4%BC%9A%E6%88%90%E4%B8%BA%E4%B8%8B%E4%B8%80%E4%B8%AA%E4%BC%8A%E6%8B%89%E5%85%8B)
 1. [速览中东危局40小时](https://www.zhihu.com/search?q=%E9%80%9F%E8%A7%88%E4%B8%AD%E4%B8%9C%E5%8D%B1%E5%B1%8040%E5%B0%8F%E6%97%B6)
 1. [网传 DeepSeek V4 即将发布](https://www.zhihu.com/search?q=%E7%BD%91%E4%BC%A0%20DeepSeek%20V4%20%E5%8D%B3%E5%B0%86%E5%8F%91%E5%B8%83)
+1. [宇树h1机器人被担架抬离赛道](https://www.zhihu.com/search?q=%E5%AE%87%E6%A0%91h1%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A2%AB%E6%8B%85%E6%9E%B6%E6%8A%AC%E7%A6%BB%E8%B5%9B%E9%81%93)
+1. [5月将迎中等及以上强度厄尔尼诺](https://www.zhihu.com/search?q=5%E6%9C%88%E5%B0%86%E8%BF%8E%E4%B8%AD%E7%AD%89%E5%8F%8A%E4%BB%A5%E4%B8%8A%E5%BC%BA%E5%BA%A6%E5%8E%84%E5%B0%94%E5%B0%BC%E8%AF%BA)
 1. [Kimi 发布并开源 K2.6](https://www.zhihu.com/search?q=Kimi%20%E5%8F%91%E5%B8%83%E5%B9%B6%E5%BC%80%E6%BA%90%20K2.6)
 1. [番茄上金番作者用 AI 写作](https://www.zhihu.com/search?q=%E7%95%AA%E8%8C%84%E4%B8%8A%E9%87%91%E7%95%AA%E4%BD%9C%E8%80%85%E7%94%A8%20AI%20%E5%86%99%E4%BD%9C)
 1. [为何云南泼水节变味了](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BD%95%E4%BA%91%E5%8D%97%E6%B3%BC%E6%B0%B4%E8%8A%82%E5%8F%98%E5%91%B3%E4%BA%86)
@@ -34,12 +39,6 @@
 1. [为什么植物在外界生命很顽强](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%A4%8D%E7%89%A9%E5%9C%A8%E5%A4%96%E7%95%8C%E7%94%9F%E5%91%BD%E5%BE%88%E9%A1%BD%E5%BC%BA)
 1. [你在谷歌地球有什么独特发现](https://www.zhihu.com/search?q=%E4%BD%A0%E5%9C%A8%E8%B0%B7%E6%AD%8C%E5%9C%B0%E7%90%83%E6%9C%89%E4%BB%80%E4%B9%88%E7%8B%AC%E7%89%B9%E5%8F%91%E7%8E%B0)
 1. [一般人对战斗机有什么误解](https://www.zhihu.com/search?q=%E4%B8%80%E8%88%AC%E4%BA%BA%E5%AF%B9%E6%88%98%E6%96%97%E6%9C%BA%E6%9C%89%E4%BB%80%E4%B9%88%E8%AF%AF%E8%A7%A3)
-1. [柯镇恶为什么被称为大侠](https://www.zhihu.com/search?q=%E6%9F%AF%E9%95%87%E6%81%B6%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A2%AB%E7%A7%B0%E4%B8%BA%E5%A4%A7%E4%BE%A0)
-1. [为什么现在很多小孩得抑郁](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8E%B0%E5%9C%A8%E5%BE%88%E5%A4%9A%E5%B0%8F%E5%AD%A9%E5%BE%97%E6%8A%91%E9%83%81)
-1. [北方什么蔬菜种一颗全家不挨饿](https://www.zhihu.com/search?q=%E5%8C%97%E6%96%B9%E4%BB%80%E4%B9%88%E8%94%AC%E8%8F%9C%E7%A7%8D%E4%B8%80%E9%A2%97%E5%85%A8%E5%AE%B6%E4%B8%8D%E6%8C%A8%E9%A5%BF)
-1. [为什么西方人以为古代中国人经常戴斗笠](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A5%BF%E6%96%B9%E4%BA%BA%E4%BB%A5%E4%B8%BA%E5%8F%A4%E4%BB%A3%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%BB%8F%E5%B8%B8%E6%88%B4%E6%96%97%E7%AC%A0)
-1. [有多少中产买房子断供](https://www.zhihu.com/search?q=%E6%9C%89%E5%A4%9A%E5%B0%91%E4%B8%AD%E4%BA%A7%E4%B9%B0%E6%88%BF%E5%AD%90%E6%96%AD%E4%BE%9B)
-1. [在实验室最惊险的瞬间](https://www.zhihu.com/search?q=%E5%9C%A8%E5%AE%9E%E9%AA%8C%E5%AE%A4%E6%9C%80%E6%83%8A%E9%99%A9%E7%9A%84%E7%9E%AC%E9%97%B4)
 
 ## 热门话题
 
