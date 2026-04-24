@@ -11,15 +11,16 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-04-24 18:59:02 +0800`
+`更新时间：2026-04-24 19:56:59 +0800`
 
 ## 热门搜索
 
-1. [普华永道赔偿](https://www.zhihu.com/search?q=%E6%99%AE%E5%8D%8E%E6%B0%B8%E9%81%93%E8%B5%94%E5%81%BF)
+1. [女子网购1450单全退货店家损失12万](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E7%BD%91%E8%B4%AD1450%E5%8D%95%E5%85%A8%E9%80%80%E8%B4%A7%E5%BA%97%E5%AE%B6%E6%8D%9F%E5%A4%B112%E4%B8%87)
+1. [陈妍希告了陈晓粉丝](https://www.zhihu.com/search?q=%E9%99%88%E5%A6%8D%E5%B8%8C%E5%91%8A%E4%BA%86%E9%99%88%E6%99%93%E7%B2%89%E4%B8%9D)
 1. [小米yu7](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3yu7)
 1. [伊朗局势](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF)
 1. [以色列宣布袭击伊朗](https://www.zhihu.com/search?q=%E4%BB%A5%E8%89%B2%E5%88%97%E5%AE%A3%E5%B8%83%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97)
-1. [华晨宇演唱会延期](https://www.zhihu.com/search?q=%E5%8D%8E%E6%99%A8%E5%AE%87%E6%BC%94%E5%94%B1%E4%BC%9A%E5%BB%B6%E6%9C%9F)
+1. [美以袭击伊朗](https://www.zhihu.com/search?q=%E7%BE%8E%E4%BB%A5%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97)
 1. [伊朗会不会成为下一个伊拉克](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E4%BC%9A%E4%B8%8D%E4%BC%9A%E6%88%90%E4%B8%BA%E4%B8%8B%E4%B8%80%E4%B8%AA%E4%BC%8A%E6%8B%89%E5%85%8B)
 1. [速览中东危局40小时](https://www.zhihu.com/search?q=%E9%80%9F%E8%A7%88%E4%B8%AD%E4%B8%9C%E5%8D%B1%E5%B1%8040%E5%B0%8F%E6%97%B6)
 1. [网传 DeepSeek V4 即将发布](https://www.zhihu.com/search?q=%E7%BD%91%E4%BC%A0%20DeepSeek%20V4%20%E5%8D%B3%E5%B0%86%E5%8F%91%E5%B8%83)
@@ -28,7 +29,7 @@
 1. [Kimi 发布并开源 K2.6](https://www.zhihu.com/search?q=Kimi%20%E5%8F%91%E5%B8%83%E5%B9%B6%E5%BC%80%E6%BA%90%20K2.6)
 1. [番茄上金番作者用 AI 写作](https://www.zhihu.com/search?q=%E7%95%AA%E8%8C%84%E4%B8%8A%E9%87%91%E7%95%AA%E4%BD%9C%E8%80%85%E7%94%A8%20AI%20%E5%86%99%E4%BD%9C)
 1. [为何云南泼水节变味了](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BD%95%E4%BA%91%E5%8D%97%E6%B3%BC%E6%B0%B4%E8%8A%82%E5%8F%98%E5%91%B3%E4%BA%86)
-1. [普渡机器人完成近10亿元融资](https://www.zhihu.com/search?q=%E6%99%AE%E6%B8%A1%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AE%8C%E6%88%90%E8%BF%9110%E4%BA%BF%E5%85%83%E8%9E%8D%E8%B5%84)
+1. [梁家辉五封影帝](https://www.zhihu.com/search?q=%E6%A2%81%E5%AE%B6%E8%BE%89%E4%BA%94%E5%B0%81%E5%BD%B1%E5%B8%9D)
 1. [国产光纤全球爆单](https://www.zhihu.com/search?q=%E5%9B%BD%E4%BA%A7%E5%85%89%E7%BA%A4%E5%85%A8%E7%90%83%E7%88%86%E5%8D%95)
 1. [人形机器人实际落地价值在哪儿](https://www.zhihu.com/search?q=%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AE%9E%E9%99%85%E8%90%BD%E5%9C%B0%E4%BB%B7%E5%80%BC%E5%9C%A8%E5%93%AA%E5%84%BF)
 1. [湖南一高中「物化生」师资紧缺](https://www.zhihu.com/search?q=%E6%B9%96%E5%8D%97%E4%B8%80%E9%AB%98%E4%B8%AD%E3%80%8C%E7%89%A9%E5%8C%96%E7%94%9F%E3%80%8D%E5%B8%88%E8%B5%84%E7%B4%A7%E7%BC%BA)
