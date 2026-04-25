@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-04-25 09:29:14 +0800`
+`更新时间：2026-04-25 12:29:40 +0800`
 
 ## 热门搜索
 
@@ -33,13 +33,12 @@
 1. [高市早苗向靖国神社献祭品](https://www.zhihu.com/search?q=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%90%91%E9%9D%96%E5%9B%BD%E7%A5%9E%E7%A4%BE%E7%8C%AE%E7%A5%AD%E5%93%81)
 1. [肖战尚界](https://www.zhihu.com/search?q=%E8%82%96%E6%88%98%E5%B0%9A%E7%95%8C)
 1. [法院干警配偶低价拍得六千万债权](https://www.zhihu.com/search?q=%E6%B3%95%E9%99%A2%E5%B9%B2%E8%AD%A6%E9%85%8D%E5%81%B6%E4%BD%8E%E4%BB%B7%E6%8B%8D%E5%BE%97%E5%85%AD%E5%8D%83%E4%B8%87%E5%80%BA%E6%9D%83)
-1. [新款 vivo 与新款 OPPO 哪个更值](https://www.zhihu.com/search?q=%E6%96%B0%E6%AC%BE%20vivo%20%E4%B8%8E%E6%96%B0%E6%AC%BE%20OPPO%20%E5%93%AA%E4%B8%AA%E6%9B%B4%E5%80%BC)
-1. [云南一中学设置「吐槽墙」](https://www.zhihu.com/search?q=%E4%BA%91%E5%8D%97%E4%B8%80%E4%B8%AD%E5%AD%A6%E8%AE%BE%E7%BD%AE%E3%80%8C%E5%90%90%E6%A7%BD%E5%A2%99%E3%80%8D)
-1. [美以袭击伊朗进入第 54 天](https://www.zhihu.com/search?q=%E7%BE%8E%E4%BB%A5%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97%E8%BF%9B%E5%85%A5%E7%AC%AC%2054%20%E5%A4%A9)
-1. [美伊停火协议到期](https://www.zhihu.com/search?q=%E7%BE%8E%E4%BC%8A%E5%81%9C%E7%81%AB%E5%8D%8F%E8%AE%AE%E5%88%B0%E6%9C%9F)
 1. [《灵魂摆渡》电影全AI生成](https://www.zhihu.com/search?q=%E3%80%8A%E7%81%B5%E9%AD%82%E6%91%86%E6%B8%A1%E3%80%8B%E7%94%B5%E5%BD%B1%E5%85%A8AI%E7%94%9F%E6%88%90)
 1. [苹果或被印度罚款380亿美元](https://www.zhihu.com/search?q=%E8%8B%B9%E6%9E%9C%E6%88%96%E8%A2%AB%E5%8D%B0%E5%BA%A6%E7%BD%9A%E6%AC%BE380%E4%BA%BF%E7%BE%8E%E5%85%83)
 1. [哪吒汽车创始人已成老赖](https://www.zhihu.com/search?q=%E5%93%AA%E5%90%92%E6%B1%BD%E8%BD%A6%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%B7%B2%E6%88%90%E8%80%81%E8%B5%96)
+1. [哪吒造车3年烧掉183亿](https://www.zhihu.com/search?q=%E5%93%AA%E5%90%92%E9%80%A0%E8%BD%A63%E5%B9%B4%E7%83%A7%E6%8E%89183%E4%BA%BF)
+1. [全糖的写0脂 全脂的写0糖](https://www.zhihu.com/search?q=%E5%85%A8%E7%B3%96%E7%9A%84%E5%86%990%E8%84%82%20%E5%85%A8%E8%84%82%E7%9A%84%E5%86%990%E7%B3%96)
+1. [苹果拒绝提交财务数据被印度重罚](https://www.zhihu.com/search?q=%E8%8B%B9%E6%9E%9C%E6%8B%92%E7%BB%9D%E6%8F%90%E4%BA%A4%E8%B4%A2%E5%8A%A1%E6%95%B0%E6%8D%AE%E8%A2%AB%E5%8D%B0%E5%BA%A6%E9%87%8D%E7%BD%9A)
 
 ## 热门话题
 
