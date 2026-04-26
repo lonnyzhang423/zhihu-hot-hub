@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-04-26 20:44:19 +0800`
+`更新时间：2026-04-26 21:59:46 +0800`
 
 ## 热门搜索
 
-1. [华晨宇演唱会延期](https://www.zhihu.com/search?q=%E5%8D%8E%E6%99%A8%E5%AE%87%E6%BC%94%E5%94%B1%E4%BC%9A%E5%BB%B6%E6%9C%9F)
-1. [中国航天日](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E6%97%A5)
+1. [福建踹保安遭掌掴女子耳膜穿孔](https://www.zhihu.com/search?q=%E7%A6%8F%E5%BB%BA%E8%B8%B9%E4%BF%9D%E5%AE%89%E9%81%AD%E6%8E%8C%E6%8E%B4%E5%A5%B3%E5%AD%90%E8%80%B3%E8%86%9C%E7%A9%BF%E5%AD%94)
+1. [爱奇艺客服回应剧宣广告争议](https://www.zhihu.com/search?q=%E7%88%B1%E5%A5%87%E8%89%BA%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94%E5%89%A7%E5%AE%A3%E5%B9%BF%E5%91%8A%E4%BA%89%E8%AE%AE)
 1. [小米yu7](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3yu7)
 1. [伊朗局势](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF)
 1. [以色列宣布袭击伊朗](https://www.zhihu.com/search?q=%E4%BB%A5%E8%89%B2%E5%88%97%E5%AE%A3%E5%B8%83%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97)
