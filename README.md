@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-04-26 17:59:48 +0800`
+`更新时间：2026-04-26 18:57:51 +0800`
 
 ## 热门搜索
 
@@ -32,7 +32,6 @@
 1. [肖战尚界](https://www.zhihu.com/search?q=%E8%82%96%E6%88%98%E5%B0%9A%E7%95%8C)
 1. [法院干警配偶低价拍得六千万债权](https://www.zhihu.com/search?q=%E6%B3%95%E9%99%A2%E5%B9%B2%E8%AD%A6%E9%85%8D%E5%81%B6%E4%BD%8E%E4%BB%B7%E6%8B%8D%E5%BE%97%E5%85%AD%E5%8D%83%E4%B8%87%E5%80%BA%E6%9D%83)
 1. [苹果或被印度罚款380亿美元](https://www.zhihu.com/search?q=%E8%8B%B9%E6%9E%9C%E6%88%96%E8%A2%AB%E5%8D%B0%E5%BA%A6%E7%BD%9A%E6%AC%BE380%E4%BA%BF%E7%BE%8E%E5%85%83)
-1. [刘昊然：真人演员不可替代](https://www.zhihu.com/search?q=%E5%88%98%E6%98%8A%E7%84%B6%EF%BC%9A%E7%9C%9F%E4%BA%BA%E6%BC%94%E5%91%98%E4%B8%8D%E5%8F%AF%E6%9B%BF%E4%BB%A3)
 1. [公共充电桩悄悄涨价](https://www.zhihu.com/search?q=%E5%85%AC%E5%85%B1%E5%85%85%E7%94%B5%E6%A1%A9%E6%82%84%E6%82%84%E6%B6%A8%E4%BB%B7)
 1. [湖北涉黑头目黄大发被判死刑](https://www.zhihu.com/search?q=%E6%B9%96%E5%8C%97%E6%B6%89%E9%BB%91%E5%A4%B4%E7%9B%AE%E9%BB%84%E5%A4%A7%E5%8F%91%E8%A2%AB%E5%88%A4%E6%AD%BB%E5%88%91)
 1. [肯德基多要酱收费](https://www.zhihu.com/search?q=%E8%82%AF%E5%BE%B7%E5%9F%BA%E5%A4%9A%E8%A6%81%E9%85%B1%E6%94%B6%E8%B4%B9)
