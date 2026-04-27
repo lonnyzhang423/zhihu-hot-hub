@@ -11,34 +11,35 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-04-27 09:57:22 +0800`
+`更新时间：2026-04-27 13:20:04 +0800`
 
 ## 热门搜索
 
-1. [华晨宇演唱会延期](https://www.zhihu.com/search?q=%E5%8D%8E%E6%99%A8%E5%AE%87%E6%BC%94%E5%94%B1%E4%BC%9A%E5%BB%B6%E6%9C%9F)
-1. [中国航天日](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E6%97%A5)
-1. [小米yu7](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3yu7)
 1. [伊朗局势](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF)
 1. [以色列宣布袭击伊朗](https://www.zhihu.com/search?q=%E4%BB%A5%E8%89%B2%E5%88%97%E5%AE%A3%E5%B8%83%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97)
 1. [美以袭击伊朗](https://www.zhihu.com/search?q=%E7%BE%8E%E4%BB%A5%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97)
 1. [伊朗会不会成为下一个伊拉克](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E4%BC%9A%E4%B8%8D%E4%BC%9A%E6%88%90%E4%B8%BA%E4%B8%8B%E4%B8%80%E4%B8%AA%E4%BC%8A%E6%8B%89%E5%85%8B)
 1. [速览中东危局40小时](https://www.zhihu.com/search?q=%E9%80%9F%E8%A7%88%E4%B8%AD%E4%B8%9C%E5%8D%B1%E5%B1%8040%E5%B0%8F%E6%97%B6)
-1. [宇树h1机器人被担架抬离赛道](https://www.zhihu.com/search?q=%E5%AE%87%E6%A0%91h1%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%A2%AB%E6%8B%85%E6%9E%B6%E6%8A%AC%E7%A6%BB%E8%B5%9B%E9%81%93)
-1. [5月将迎中等及以上强度厄尔尼诺](https://www.zhihu.com/search?q=5%E6%9C%88%E5%B0%86%E8%BF%8E%E4%B8%AD%E7%AD%89%E5%8F%8A%E4%BB%A5%E4%B8%8A%E5%BC%BA%E5%BA%A6%E5%8E%84%E5%B0%94%E5%B0%BC%E8%AF%BA)
-1. [张雪机车首回合第4](https://www.zhihu.com/search?q=%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E9%A6%96%E5%9B%9E%E5%90%88%E7%AC%AC4)
-1. [丁俊晖晋级世锦赛16强](https://www.zhihu.com/search?q=%E4%B8%81%E4%BF%8A%E6%99%96%E6%99%8B%E7%BA%A7%E4%B8%96%E9%94%A6%E8%B5%9B16%E5%BC%BA)
-1. [高市早苗向靖国神社献祭品](https://www.zhihu.com/search?q=%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%90%91%E9%9D%96%E5%9B%BD%E7%A5%9E%E7%A4%BE%E7%8C%AE%E7%A5%AD%E5%93%81)
-1. [肖战尚界](https://www.zhihu.com/search?q=%E8%82%96%E6%88%98%E5%B0%9A%E7%95%8C)
-1. [法院干警配偶低价拍得六千万债权](https://www.zhihu.com/search?q=%E6%B3%95%E9%99%A2%E5%B9%B2%E8%AD%A6%E9%85%8D%E5%81%B6%E4%BD%8E%E4%BB%B7%E6%8B%8D%E5%BE%97%E5%85%AD%E5%8D%83%E4%B8%87%E5%80%BA%E6%9D%83)
-1. [苹果或被印度罚款380亿美元](https://www.zhihu.com/search?q=%E8%8B%B9%E6%9E%9C%E6%88%96%E8%A2%AB%E5%8D%B0%E5%BA%A6%E7%BD%9A%E6%AC%BE380%E4%BA%BF%E7%BE%8E%E5%85%83)
-1. [公共充电桩悄悄涨价](https://www.zhihu.com/search?q=%E5%85%AC%E5%85%B1%E5%85%85%E7%94%B5%E6%A1%A9%E6%82%84%E6%82%84%E6%B6%A8%E4%BB%B7)
-1. [湖北涉黑头目黄大发被判死刑](https://www.zhihu.com/search?q=%E6%B9%96%E5%8C%97%E6%B6%89%E9%BB%91%E5%A4%B4%E7%9B%AE%E9%BB%84%E5%A4%A7%E5%8F%91%E8%A2%AB%E5%88%A4%E6%AD%BB%E5%88%91)
-1. [肯德基多要酱收费](https://www.zhihu.com/search?q=%E8%82%AF%E5%BE%B7%E5%9F%BA%E5%A4%9A%E8%A6%81%E9%85%B1%E6%94%B6%E8%B4%B9)
-1. [挪用1700万女孩现实中舍不得买包](https://www.zhihu.com/search?q=%E6%8C%AA%E7%94%A81700%E4%B8%87%E5%A5%B3%E5%AD%A9%E7%8E%B0%E5%AE%9E%E4%B8%AD%E8%88%8D%E4%B8%8D%E5%BE%97%E4%B9%B0%E5%8C%85)
-1. [宁德时代新电池续航可超1500km](https://www.zhihu.com/search?q=%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3%E6%96%B0%E7%94%B5%E6%B1%A0%E7%BB%AD%E8%88%AA%E5%8F%AF%E8%B6%851500km)
-1. [哪咤汽车创始人已成老赖](https://www.zhihu.com/search?q=%E5%93%AA%E5%92%A4%E6%B1%BD%E8%BD%A6%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%B7%B2%E6%88%90%E8%80%81%E8%B5%96)
-1. [四川5月1日起禁限公共场所吸烟](https://www.zhihu.com/search?q=%E5%9B%9B%E5%B7%9D5%E6%9C%881%E6%97%A5%E8%B5%B7%E7%A6%81%E9%99%90%E5%85%AC%E5%85%B1%E5%9C%BA%E6%89%80%E5%90%B8%E7%83%9F)
-1. [文班亚马最佳防守球员](https://www.zhihu.com/search?q=%E6%96%87%E7%8F%AD%E4%BA%9A%E9%A9%AC%E6%9C%80%E4%BD%B3%E9%98%B2%E5%AE%88%E7%90%83%E5%91%98)
+1. [华晨宇玉溪演唱会延期退票](https://www.zhihu.com/search?q=%E5%8D%8E%E6%99%A8%E5%AE%87%E7%8E%89%E6%BA%AA%E6%BC%94%E5%94%B1%E4%BC%9A%E5%BB%B6%E6%9C%9F%E9%80%80%E7%A5%A8)
+1. [OpenAI发布GPT-5.5](https://www.zhihu.com/search?q=OpenAI%E5%8F%91%E5%B8%83GPT-5.5)
+1. [DeepSeek V4 预览版上线并开源](https://www.zhihu.com/search?q=DeepSeek%20V4%20%E9%A2%84%E8%A7%88%E7%89%88%E4%B8%8A%E7%BA%BF%E5%B9%B6%E5%BC%80%E6%BA%90)
+1. [大学生「宿舍创业」开理发店做美甲](https://www.zhihu.com/search?q=%E5%A4%A7%E5%AD%A6%E7%94%9F%E3%80%8C%E5%AE%BF%E8%88%8D%E5%88%9B%E4%B8%9A%E3%80%8D%E5%BC%80%E7%90%86%E5%8F%91%E5%BA%97%E5%81%9A%E7%BE%8E%E7%94%B2)
+1. [青岛马拉松一选手边跑边跳绳遭禁赛](https://www.zhihu.com/search?q=%E9%9D%92%E5%B2%9B%E9%A9%AC%E6%8B%89%E6%9D%BE%E4%B8%80%E9%80%89%E6%89%8B%E8%BE%B9%E8%B7%91%E8%BE%B9%E8%B7%B3%E7%BB%B3%E9%81%AD%E7%A6%81%E8%B5%9B)
+1. [DeepSeek v4 百万上下文](https://www.zhihu.com/search?q=DeepSeek%20v4%20%E7%99%BE%E4%B8%87%E4%B8%8A%E4%B8%8B%E6%96%87)
+1. [比亚迪方程豹新系列方程 S 和 FormulaX](https://www.zhihu.com/search?q=%E6%AF%94%E4%BA%9A%E8%BF%AA%E6%96%B9%E7%A8%8B%E8%B1%B9%E6%96%B0%E7%B3%BB%E5%88%97%E6%96%B9%E7%A8%8B%20S%20%E5%92%8C%20FormulaX)
+1. [7款AI模型集体撒谎篡改文件](https://www.zhihu.com/search?q=7%E6%AC%BEAI%E6%A8%A1%E5%9E%8B%E9%9B%86%E4%BD%93%E6%92%92%E8%B0%8E%E7%AF%A1%E6%94%B9%E6%96%87%E4%BB%B6)
+1. [乘风2026二公](https://www.zhihu.com/search?q=%E4%B9%98%E9%A3%8E2026%E4%BA%8C%E5%85%AC)
+1. [何宣林被质疑独占高光部分致队友翻车](https://www.zhihu.com/search?q=%E4%BD%95%E5%AE%A3%E6%9E%97%E8%A2%AB%E8%B4%A8%E7%96%91%E7%8B%AC%E5%8D%A0%E9%AB%98%E5%85%89%E9%83%A8%E5%88%86%E8%87%B4%E9%98%9F%E5%8F%8B%E7%BF%BB%E8%BD%A6)
+1. [五角大楼附近巴士相撞 23 人伤](https://www.zhihu.com/search?q=%E4%BA%94%E8%A7%92%E5%A4%A7%E6%A5%BC%E9%99%84%E8%BF%91%E5%B7%B4%E5%A3%AB%E7%9B%B8%E6%92%9E%2023%20%E4%BA%BA%E4%BC%A4)
+1. [恋与深空起诉派克特胜诉](https://www.zhihu.com/search?q=%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA%E8%B5%B7%E8%AF%89%E6%B4%BE%E5%85%8B%E7%89%B9%E8%83%9C%E8%AF%89)
+1. [Labubu 冰箱将发售 5999 元](https://www.zhihu.com/search?q=Labubu%20%E5%86%B0%E7%AE%B1%E5%B0%86%E5%8F%91%E5%94%AE%205999%20%E5%85%83)
+1. [网购三星手机被要求激活才能签收](https://www.zhihu.com/search?q=%E7%BD%91%E8%B4%AD%E4%B8%89%E6%98%9F%E6%89%8B%E6%9C%BA%E8%A2%AB%E8%A6%81%E6%B1%82%E6%BF%80%E6%B4%BB%E6%89%8D%E8%83%BD%E7%AD%BE%E6%94%B6)
+1. [网友质疑浪姐 7 镜头霸凌](https://www.zhihu.com/search?q=%E7%BD%91%E5%8F%8B%E8%B4%A8%E7%96%91%E6%B5%AA%E5%A7%90%207%20%E9%95%9C%E5%A4%B4%E9%9C%B8%E5%87%8C)
+1. [武大从上交购买 Sci-Hub 数据集](https://www.zhihu.com/search?q=%E6%AD%A6%E5%A4%A7%E4%BB%8E%E4%B8%8A%E4%BA%A4%E8%B4%AD%E4%B9%B0%20Sci-Hub%20%E6%95%B0%E6%8D%AE%E9%9B%86)
+1. [于和伟获天坛奖最佳男主角](https://www.zhihu.com/search?q=%E4%BA%8E%E5%92%8C%E4%BC%9F%E8%8E%B7%E5%A4%A9%E5%9D%9B%E5%A5%96%E6%9C%80%E4%BD%B3%E7%94%B7%E4%B8%BB%E8%A7%92)
+1. [北影节天坛奖获奖名单](https://www.zhihu.com/search?q=%E5%8C%97%E5%BD%B1%E8%8A%82%E5%A4%A9%E5%9D%9B%E5%A5%96%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95)
+1. [官方通报女子劝阻男子吸烟引争执](https://www.zhihu.com/search?q=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%AD%90%E5%8A%9D%E9%98%BB%E7%94%B7%E5%AD%90%E5%90%B8%E7%83%9F%E5%BC%95%E4%BA%89%E6%89%A7)
+1. [浪姐 7 者来女爆冷淘汰](https://www.zhihu.com/search?q=%E6%B5%AA%E5%A7%90%207%20%E8%80%85%E6%9D%A5%E5%A5%B3%E7%88%86%E5%86%B7%E6%B7%98%E6%B1%B0)
 
 ## 热门话题
 
