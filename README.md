@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-04-29 11:57:17 +0800`
+`更新时间：2026-04-29 14:31:16 +0800`
 
 ## 热门搜索
 
@@ -22,23 +22,21 @@
 1. [速览中东危局40小时](https://www.zhihu.com/search?q=%E9%80%9F%E8%A7%88%E4%B8%AD%E4%B8%9C%E5%8D%B1%E5%B1%8040%E5%B0%8F%E6%97%B6)
 1. [华晨宇玉溪演唱会延期退票](https://www.zhihu.com/search?q=%E5%8D%8E%E6%99%A8%E5%AE%87%E7%8E%89%E6%BA%AA%E6%BC%94%E5%94%B1%E4%BC%9A%E5%BB%B6%E6%9C%9F%E9%80%80%E7%A5%A8)
 1. [OpenAI发布GPT-5.5](https://www.zhihu.com/search?q=OpenAI%E5%8F%91%E5%B8%83GPT-5.5)
-1. [DeepSeek V4 预览版上线并开源](https://www.zhihu.com/search?q=DeepSeek%20V4%20%E9%A2%84%E8%A7%88%E7%89%88%E4%B8%8A%E7%BA%BF%E5%B9%B6%E5%BC%80%E6%BA%90)
-1. [DeepSeek v4 百万上下文](https://www.zhihu.com/search?q=DeepSeek%20v4%20%E7%99%BE%E4%B8%87%E4%B8%8A%E4%B8%8B%E6%96%87)
 1. [Labubu 冰箱将发售 5999 元](https://www.zhihu.com/search?q=Labubu%20%E5%86%B0%E7%AE%B1%E5%B0%86%E5%8F%91%E5%94%AE%205999%20%E5%85%83)
 1. [东方甄选4名主播集体离职](https://www.zhihu.com/search?q=%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%894%E5%90%8D%E4%B8%BB%E6%92%AD%E9%9B%86%E4%BD%93%E7%A6%BB%E8%81%8C)
 1. [25 岁女孩确诊黑色素瘤 5 个月离世](https://www.zhihu.com/search?q=25%20%E5%B2%81%E5%A5%B3%E5%AD%A9%E7%A1%AE%E8%AF%8A%E9%BB%91%E8%89%B2%E7%B4%A0%E7%98%A4%205%20%E4%B8%AA%E6%9C%88%E7%A6%BB%E4%B8%96)
 1. [迪士尼游客劝烟被连扇5耳光](https://www.zhihu.com/search?q=%E8%BF%AA%E5%A3%AB%E5%B0%BC%E6%B8%B8%E5%AE%A2%E5%8A%9D%E7%83%9F%E8%A2%AB%E8%BF%9E%E6%89%875%E8%80%B3%E5%85%89)
 1. [东方甄选拒绝第二个董宇辉](https://www.zhihu.com/search?q=%E4%B8%9C%E6%96%B9%E7%94%84%E9%80%89%E6%8B%92%E7%BB%9D%E7%AC%AC%E4%BA%8C%E4%B8%AA%E8%91%A3%E5%AE%87%E8%BE%89)
-1. [颜宁：我至少两篇 CNS 论文被审稿人抢发](https://www.zhihu.com/search?q=%E9%A2%9C%E5%AE%81%EF%BC%9A%E6%88%91%E8%87%B3%E5%B0%91%E4%B8%A4%E7%AF%87%20CNS%20%E8%AE%BA%E6%96%87%E8%A2%AB%E5%AE%A1%E7%A8%BF%E4%BA%BA%E6%8A%A2%E5%8F%91)
 1. [Lemaire辫子造型引争议](https://www.zhihu.com/search?q=Lemaire%E8%BE%AB%E5%AD%90%E9%80%A0%E5%9E%8B%E5%BC%95%E4%BA%89%E8%AE%AE)
 1. [胖东来18 元 15 瓶矿泉水遭排队抢购](https://www.zhihu.com/search?q=%E8%83%96%E4%B8%9C%E6%9D%A518%20%E5%85%83%2015%20%E7%93%B6%E7%9F%BF%E6%B3%89%E6%B0%B4%E9%81%AD%E6%8E%92%E9%98%9F%E6%8A%A2%E8%B4%AD)
 1. [鲁超济南队夏雨荷啦啦队被嘲](https://www.zhihu.com/search?q=%E9%B2%81%E8%B6%85%E6%B5%8E%E5%8D%97%E9%98%9F%E5%A4%8F%E9%9B%A8%E8%8D%B7%E5%95%A6%E5%95%A6%E9%98%9F%E8%A2%AB%E5%98%B2)
 1. [南方人为什么执着于通风](https://www.zhihu.com/search?q=%E5%8D%97%E6%96%B9%E4%BA%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E6%89%A7%E7%9D%80%E4%BA%8E%E9%80%9A%E9%A3%8E)
 1. [网友做完光子嫩肤后眼睛不适](https://www.zhihu.com/search?q=%E7%BD%91%E5%8F%8B%E5%81%9A%E5%AE%8C%E5%85%89%E5%AD%90%E5%AB%A9%E8%82%A4%E5%90%8E%E7%9C%BC%E7%9D%9B%E4%B8%8D%E9%80%82)
 1. [大头瓶盖瓶装水设计缺陷](https://www.zhihu.com/search?q=%E5%A4%A7%E5%A4%B4%E7%93%B6%E7%9B%96%E7%93%B6%E8%A3%85%E6%B0%B4%E8%AE%BE%E8%AE%A1%E7%BC%BA%E9%99%B7)
-1. [欧冠半决赛大巴黎vs拜仁](https://www.zhihu.com/search?q=%E6%AC%A7%E5%86%A0%E5%8D%8A%E5%86%B3%E8%B5%9B%E5%A4%A7%E5%B7%B4%E9%BB%8Evs%E6%8B%9C%E4%BB%81)
 1. [连续两周上四休三](https://www.zhihu.com/search?q=%E8%BF%9E%E7%BB%AD%E4%B8%A4%E5%91%A8%E4%B8%8A%E5%9B%9B%E4%BC%91%E4%B8%89)
 1. [8亿播放AI短剧《菩提临世》下架](https://www.zhihu.com/search?q=8%E4%BA%BF%E6%92%AD%E6%94%BEAI%E7%9F%AD%E5%89%A7%E3%80%8A%E8%8F%A9%E6%8F%90%E4%B8%B4%E4%B8%96%E3%80%8B%E4%B8%8B%E6%9E%B6)
+1. [2026五一假期](https://www.zhihu.com/search?q=2026%E4%BA%94%E4%B8%80%E5%81%87%E6%9C%9F)
+1. [2026五一档](https://www.zhihu.com/search?q=2026%E4%BA%94%E4%B8%80%E6%A1%A3)
 
 ## 热门话题
 
