@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-05-02 05:43:38 +0800`
+`更新时间：2026-05-02 06:41:12 +0800`
 
 ## 热门搜索
 
@@ -39,6 +39,7 @@
 1. [张雪曾拒绝跟华为合作](https://www.zhihu.com/search?q=%E5%BC%A0%E9%9B%AA%E6%9B%BE%E6%8B%92%E7%BB%9D%E8%B7%9F%E5%8D%8E%E4%B8%BA%E5%90%88%E4%BD%9C)
 1. [我国将对所有非洲建交国实施零关税](https://www.zhihu.com/search?q=%E6%88%91%E5%9B%BD%E5%B0%86%E5%AF%B9%E6%89%80%E6%9C%89%E9%9D%9E%E6%B4%B2%E5%BB%BA%E4%BA%A4%E5%9B%BD%E5%AE%9E%E6%96%BD%E9%9B%B6%E5%85%B3%E7%A8%8E)
 1. [曝吴宣仪提出解约遭乐华拒绝](https://www.zhihu.com/search?q=%E6%9B%9D%E5%90%B4%E5%AE%A3%E4%BB%AA%E6%8F%90%E5%87%BA%E8%A7%A3%E7%BA%A6%E9%81%AD%E4%B9%90%E5%8D%8E%E6%8B%92%E7%BB%9D)
+1. [Anthropic营收反超OpenAI](https://www.zhihu.com/search?q=Anthropic%E8%90%A5%E6%94%B6%E5%8F%8D%E8%B6%85OpenAI)
 
 ## 热门话题
 
