@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-05-02 16:19:39 +0800`
+`更新时间：2026-05-02 17:54:20 +0800`
 
 ## 热门搜索
 
@@ -36,8 +36,8 @@
 1. [宇宙或仅剩约 333 亿年的寿命](https://www.zhihu.com/search?q=%E5%AE%87%E5%AE%99%E6%88%96%E4%BB%85%E5%89%A9%E7%BA%A6%20333%20%E4%BA%BF%E5%B9%B4%E7%9A%84%E5%AF%BF%E5%91%BD)
 1. [闻泰科技退市风险悬顶](https://www.zhihu.com/search?q=%E9%97%BB%E6%B3%B0%E7%A7%91%E6%8A%80%E9%80%80%E5%B8%82%E9%A3%8E%E9%99%A9%E6%82%AC%E9%A1%B6)
 1. [香飘飘净利润大降 62.38%](https://www.zhihu.com/search?q=%E9%A6%99%E9%A3%98%E9%A3%98%E5%87%80%E5%88%A9%E6%B6%A6%E5%A4%A7%E9%99%8D%2062.38%25)
+1. [人的情感被简化成生理本能](https://www.zhihu.com/search?q=%E4%BA%BA%E7%9A%84%E6%83%85%E6%84%9F%E8%A2%AB%E7%AE%80%E5%8C%96%E6%88%90%E7%94%9F%E7%90%86%E6%9C%AC%E8%83%BD)
 1. [景帝吃不吃老鼠](https://www.zhihu.com/search?q=%E6%99%AF%E5%B8%9D%E5%90%83%E4%B8%8D%E5%90%83%E8%80%81%E9%BC%A0)
-1. [山西加时险胜青岛](https://www.zhihu.com/search?q=%E5%B1%B1%E8%A5%BF%E5%8A%A0%E6%97%B6%E9%99%A9%E8%83%9C%E9%9D%92%E5%B2%9B)
 
 ## 热门话题
 
