@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-05-02 11:40:27 +0800`
+`更新时间：2026-05-02 14:14:44 +0800`
 
 ## 热门搜索
 
@@ -29,17 +29,17 @@
 1. [张雪曾拒绝跟华为合作](https://www.zhihu.com/search?q=%E5%BC%A0%E9%9B%AA%E6%9B%BE%E6%8B%92%E7%BB%9D%E8%B7%9F%E5%8D%8E%E4%B8%BA%E5%90%88%E4%BD%9C)
 1. [我国将对所有非洲建交国实施零关税](https://www.zhihu.com/search?q=%E6%88%91%E5%9B%BD%E5%B0%86%E5%AF%B9%E6%89%80%E6%9C%89%E9%9D%9E%E6%B4%B2%E5%BB%BA%E4%BA%A4%E5%9B%BD%E5%AE%9E%E6%96%BD%E9%9B%B6%E5%85%B3%E7%A8%8E)
 1. [曝吴宣仪提出解约遭乐华拒绝](https://www.zhihu.com/search?q=%E6%9B%9D%E5%90%B4%E5%AE%A3%E4%BB%AA%E6%8F%90%E5%87%BA%E8%A7%A3%E7%BA%A6%E9%81%AD%E4%B9%90%E5%8D%8E%E6%8B%92%E7%BB%9D)
-1. [Anthropic营收反超OpenAI](https://www.zhihu.com/search?q=Anthropic%E8%90%A5%E6%94%B6%E5%8F%8D%E8%B6%85OpenAI)
 1. [王者世界转化了多少本体玩家](https://www.zhihu.com/search?q=%E7%8E%8B%E8%80%85%E4%B8%96%E7%95%8C%E8%BD%AC%E5%8C%96%E4%BA%86%E5%A4%9A%E5%B0%91%E6%9C%AC%E4%BD%93%E7%8E%A9%E5%AE%B6)
-1. [储户 1800 万存款被银行员工转走](https://www.zhihu.com/search?q=%E5%82%A8%E6%88%B7%201800%20%E4%B8%87%E5%AD%98%E6%AC%BE%E8%A2%AB%E9%93%B6%E8%A1%8C%E5%91%98%E5%B7%A5%E8%BD%AC%E8%B5%B0)
 1. [苹果将 AirPods+Siri 深度绑定](https://www.zhihu.com/search?q=%E8%8B%B9%E6%9E%9C%E5%B0%86%20AirPods%2BSiri%20%E6%B7%B1%E5%BA%A6%E7%BB%91%E5%AE%9A)
-1. [部分本科生「回炉」读技校](https://www.zhihu.com/search?q=%E9%83%A8%E5%88%86%E6%9C%AC%E7%A7%91%E7%94%9F%E3%80%8C%E5%9B%9E%E7%82%89%E3%80%8D%E8%AF%BB%E6%8A%80%E6%A0%A1)
 1. [迈克尔·杰克逊传记片票房破4千万](https://www.zhihu.com/search?q=%E8%BF%88%E5%85%8B%E5%B0%94%C2%B7%E6%9D%B0%E5%85%8B%E9%80%8A%E4%BC%A0%E8%AE%B0%E7%89%87%E7%A5%A8%E6%88%BF%E7%A0%B44%E5%8D%83%E4%B8%87)
 1. [阿联酋退出石油输出国组织](https://www.zhihu.com/search?q=%E9%98%BF%E8%81%94%E9%85%8B%E9%80%80%E5%87%BA%E7%9F%B3%E6%B2%B9%E8%BE%93%E5%87%BA%E5%9B%BD%E7%BB%84%E7%BB%87)
 1. [辛巴悬赏百万元威胁前高管](https://www.zhihu.com/search?q=%E8%BE%9B%E5%B7%B4%E6%82%AC%E8%B5%8F%E7%99%BE%E4%B8%87%E5%85%83%E5%A8%81%E8%83%81%E5%89%8D%E9%AB%98%E7%AE%A1)
 1. [吉时已到](https://www.zhihu.com/search?q=%E5%90%89%E6%97%B6%E5%B7%B2%E5%88%B0)
 1. [阿联酋为何退出石油输出国组织](https://www.zhihu.com/search?q=%E9%98%BF%E8%81%94%E9%85%8B%E4%B8%BA%E4%BD%95%E9%80%80%E5%87%BA%E7%9F%B3%E6%B2%B9%E8%BE%93%E5%87%BA%E5%9B%BD%E7%BB%84%E7%BB%87)
 1. [DeepSeek 刚刚上线的多模态识图模式](https://www.zhihu.com/search?q=DeepSeek%20%E5%88%9A%E5%88%9A%E4%B8%8A%E7%BA%BF%E7%9A%84%E5%A4%9A%E6%A8%A1%E6%80%81%E8%AF%86%E5%9B%BE%E6%A8%A1%E5%BC%8F)
+1. [宇宙或仅剩约 333 亿年的寿命](https://www.zhihu.com/search?q=%E5%AE%87%E5%AE%99%E6%88%96%E4%BB%85%E5%89%A9%E7%BA%A6%20333%20%E4%BA%BF%E5%B9%B4%E7%9A%84%E5%AF%BF%E5%91%BD)
+1. [闻泰科技退市风险悬顶](https://www.zhihu.com/search?q=%E9%97%BB%E6%B3%B0%E7%A7%91%E6%8A%80%E9%80%80%E5%B8%82%E9%A3%8E%E9%99%A9%E6%82%AC%E9%A1%B6)
+1. [香飘飘净利润大降 62.38%](https://www.zhihu.com/search?q=%E9%A6%99%E9%A3%98%E9%A3%98%E5%87%80%E5%88%A9%E6%B6%A6%E5%A4%A7%E9%99%8D%2062.38%25)
 
 ## 热门话题
 
