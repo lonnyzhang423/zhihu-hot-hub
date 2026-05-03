@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-05-04 01:00:02 +0800`
+`更新时间：2026-05-04 01:56:57 +0800`
 
 ## 热门搜索
 
-1. [全国首支机器人交警中队正式上岗](https://www.zhihu.com/search?q=%E5%85%A8%E5%9B%BD%E9%A6%96%E6%94%AF%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BA%A4%E8%AD%A6%E4%B8%AD%E9%98%9F%E6%AD%A3%E5%BC%8F%E4%B8%8A%E5%B2%97)
+1. [湖人淘汰火箭](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BA%E6%B7%98%E6%B1%B0%E7%81%AB%E7%AE%AD)
+1. [伊朗局势](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF)
 1. [以色列宣布袭击伊朗](https://www.zhihu.com/search?q=%E4%BB%A5%E8%89%B2%E5%88%97%E5%AE%A3%E5%B8%83%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97)
 1. [美以袭击伊朗](https://www.zhihu.com/search?q=%E7%BE%8E%E4%BB%A5%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97)
 1. [伊朗会不会成为下一个伊拉克](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E4%BC%9A%E4%B8%8D%E4%BC%9A%E6%88%90%E4%B8%BA%E4%B8%8B%E4%B8%80%E4%B8%AA%E4%BC%8A%E6%8B%89%E5%85%8B)
