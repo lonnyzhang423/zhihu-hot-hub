@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-05-03 13:33:15 +0800`
+`更新时间：2026-05-03 15:49:10 +0800`
 
 ## 热门搜索
 
@@ -36,7 +36,6 @@
 1. [印尼将成亚洲第5个有航母的国家](https://www.zhihu.com/search?q=%E5%8D%B0%E5%B0%BC%E5%B0%86%E6%88%90%E4%BA%9A%E6%B4%B2%E7%AC%AC5%E4%B8%AA%E6%9C%89%E8%88%AA%E6%AF%8D%E7%9A%84%E5%9B%BD%E5%AE%B6)
 1. [尹锡悦涉嫌妨碍逮捕案二审被判7年](https://www.zhihu.com/search?q=%E5%B0%B9%E9%94%A1%E6%82%A6%E6%B6%89%E5%AB%8C%E5%A6%A8%E7%A2%8D%E9%80%AE%E6%8D%95%E6%A1%88%E4%BA%8C%E5%AE%A1%E8%A2%AB%E5%88%A47%E5%B9%B4)
 1. [苹果创始人站台追觅旗下手机](https://www.zhihu.com/search?q=%E8%8B%B9%E6%9E%9C%E5%88%9B%E5%A7%8B%E4%BA%BA%E7%AB%99%E5%8F%B0%E8%BF%BD%E8%A7%85%E6%97%97%E4%B8%8B%E6%89%8B%E6%9C%BA)
-1. [这三种泳衣颜色一旦溺水难被发现](https://www.zhihu.com/search?q=%E8%BF%99%E4%B8%89%E7%A7%8D%E6%B3%B3%E8%A1%A3%E9%A2%9C%E8%89%B2%E4%B8%80%E6%97%A6%E6%BA%BA%E6%B0%B4%E9%9A%BE%E8%A2%AB%E5%8F%91%E7%8E%B0)
 1. [电影《寒战 1994》热映](https://www.zhihu.com/search?q=%E7%94%B5%E5%BD%B1%E3%80%8A%E5%AF%92%E6%88%98%201994%E3%80%8B%E7%83%AD%E6%98%A0)
 
 ## 热门话题
