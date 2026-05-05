@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-05-05 14:24:05 +0800`
+`更新时间：2026-05-05 17:11:49 +0800`
 
 ## 热门搜索
 
@@ -28,7 +28,6 @@
 1. [网传今年河南蒜薹丰产不丰收](https://www.zhihu.com/search?q=%E7%BD%91%E4%BC%A0%E4%BB%8A%E5%B9%B4%E6%B2%B3%E5%8D%97%E8%92%9C%E8%96%B9%E4%B8%B0%E4%BA%A7%E4%B8%8D%E4%B8%B0%E6%94%B6)
 1. [张雪机车匈牙利站首回合第一](https://www.zhihu.com/search?q=%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E5%8C%88%E7%89%99%E5%88%A9%E7%AB%99%E9%A6%96%E5%9B%9E%E5%90%88%E7%AC%AC%E4%B8%80)
 1. [张雪机车再夺冠军](https://www.zhihu.com/search?q=%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E5%86%8D%E5%A4%BA%E5%86%A0%E5%86%9B)
-1. [《消失的人》票房破亿](https://www.zhihu.com/search?q=%E3%80%8A%E6%B6%88%E5%A4%B1%E7%9A%84%E4%BA%BA%E3%80%8B%E7%A5%A8%E6%88%BF%E7%A0%B4%E4%BA%BF)
 1. [泉州一职大学生走路玩手机被劝退](https://www.zhihu.com/search?q=%E6%B3%89%E5%B7%9E%E4%B8%80%E8%81%8C%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%B5%B0%E8%B7%AF%E7%8E%A9%E6%89%8B%E6%9C%BA%E8%A2%AB%E5%8A%9D%E9%80%80)
 1. [《门牙》被曝票房造假](https://www.zhihu.com/search?q=%E3%80%8A%E9%97%A8%E7%89%99%E3%80%8B%E8%A2%AB%E6%9B%9D%E7%A5%A8%E6%88%BF%E9%80%A0%E5%81%87)
 1. [高校教师22%不合格行政全合格](https://www.zhihu.com/search?q=%E9%AB%98%E6%A0%A1%E6%95%99%E5%B8%8822%25%E4%B8%8D%E5%90%88%E6%A0%BC%E8%A1%8C%E6%94%BF%E5%85%A8%E5%90%88%E6%A0%BC)
@@ -36,7 +35,6 @@
 1. [张雪机车德比斯退赛](https://www.zhihu.com/search?q=%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E5%BE%B7%E6%AF%94%E6%96%AF%E9%80%80%E8%B5%9B)
 1. [2026 斯诺克世锦赛决赛](https://www.zhihu.com/search?q=2026%20%E6%96%AF%E8%AF%BA%E5%85%8B%E4%B8%96%E9%94%A6%E8%B5%9B%E5%86%B3%E8%B5%9B)
 1. [尤伯杯决赛中国队 1:3 韩国队](https://www.zhihu.com/search?q=%E5%B0%A4%E4%BC%AF%E6%9D%AF%E5%86%B3%E8%B5%9B%E4%B8%AD%E5%9B%BD%E9%98%9F%201%3A3%20%E9%9F%A9%E5%9B%BD%E9%98%9F)
-1. [国乒男队 2:3 不敌瑞典队](https://www.zhihu.com/search?q=%E5%9B%BD%E4%B9%92%E7%94%B7%E9%98%9F%202%3A3%20%E4%B8%8D%E6%95%8C%E7%91%9E%E5%85%B8%E9%98%9F)
 1. [国羽男队夺第 12 个汤姆斯杯冠军](https://www.zhihu.com/search?q=%E5%9B%BD%E7%BE%BD%E7%94%B7%E9%98%9F%E5%A4%BA%E7%AC%AC%2012%20%E4%B8%AA%E6%B1%A4%E5%A7%86%E6%96%AF%E6%9D%AF%E5%86%A0%E5%86%9B)
 1. [国羽汤杯卫冕](https://www.zhihu.com/search?q=%E5%9B%BD%E7%BE%BD%E6%B1%A4%E6%9D%AF%E5%8D%AB%E5%86%95)
 1. [吴宜泽 10-7 暂时领先肖恩·墨菲](https://www.zhihu.com/search?q=%E5%90%B4%E5%AE%9C%E6%B3%BD%2010-7%20%E6%9A%82%E6%97%B6%E9%A2%86%E5%85%88%E8%82%96%E6%81%A9%C2%B7%E5%A2%A8%E8%8F%B2)
