@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-05-05 17:11:49 +0800`
+`更新时间：2026-05-05 19:21:03 +0800`
 
 ## 热门搜索
 
@@ -23,9 +23,7 @@
 1. [电影《寒战 1994》热映](https://www.zhihu.com/search?q=%E7%94%B5%E5%BD%B1%E3%80%8A%E5%AF%92%E6%88%98%201994%E3%80%8B%E7%83%AD%E6%98%A0)
 1. [多家车企公布 4 月交付量](https://www.zhihu.com/search?q=%E5%A4%9A%E5%AE%B6%E8%BD%A6%E4%BC%81%E5%85%AC%E5%B8%83%204%20%E6%9C%88%E4%BA%A4%E4%BB%98%E9%87%8F)
 1. [小米汽车 4 月交付量超 3 万台](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A6%204%20%E6%9C%88%E4%BA%A4%E4%BB%98%E9%87%8F%E8%B6%85%203%20%E4%B8%87%E5%8F%B0)
-1. [水银奶茶事件被曝疑似系男友投毒](https://www.zhihu.com/search?q=%E6%B0%B4%E9%93%B6%E5%A5%B6%E8%8C%B6%E4%BA%8B%E4%BB%B6%E8%A2%AB%E6%9B%9D%E7%96%91%E4%BC%BC%E7%B3%BB%E7%94%B7%E5%8F%8B%E6%8A%95%E6%AF%92)
 1. [五一档票房破 2 亿](https://www.zhihu.com/search?q=%E4%BA%94%E4%B8%80%E6%A1%A3%E7%A5%A8%E6%88%BF%E7%A0%B4%202%20%E4%BA%BF)
-1. [网传今年河南蒜薹丰产不丰收](https://www.zhihu.com/search?q=%E7%BD%91%E4%BC%A0%E4%BB%8A%E5%B9%B4%E6%B2%B3%E5%8D%97%E8%92%9C%E8%96%B9%E4%B8%B0%E4%BA%A7%E4%B8%8D%E4%B8%B0%E6%94%B6)
 1. [张雪机车匈牙利站首回合第一](https://www.zhihu.com/search?q=%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E5%8C%88%E7%89%99%E5%88%A9%E7%AB%99%E9%A6%96%E5%9B%9E%E5%90%88%E7%AC%AC%E4%B8%80)
 1. [张雪机车再夺冠军](https://www.zhihu.com/search?q=%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E5%86%8D%E5%A4%BA%E5%86%A0%E5%86%9B)
 1. [泉州一职大学生走路玩手机被劝退](https://www.zhihu.com/search?q=%E6%B3%89%E5%B7%9E%E4%B8%80%E8%81%8C%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%B5%B0%E8%B7%AF%E7%8E%A9%E6%89%8B%E6%9C%BA%E8%A2%AB%E5%8A%9D%E9%80%80)
@@ -38,6 +36,7 @@
 1. [国羽男队夺第 12 个汤姆斯杯冠军](https://www.zhihu.com/search?q=%E5%9B%BD%E7%BE%BD%E7%94%B7%E9%98%9F%E5%A4%BA%E7%AC%AC%2012%20%E4%B8%AA%E6%B1%A4%E5%A7%86%E6%96%AF%E6%9D%AF%E5%86%A0%E5%86%9B)
 1. [国羽汤杯卫冕](https://www.zhihu.com/search?q=%E5%9B%BD%E7%BE%BD%E6%B1%A4%E6%9D%AF%E5%8D%AB%E5%86%95)
 1. [吴宜泽 10-7 暂时领先肖恩·墨菲](https://www.zhihu.com/search?q=%E5%90%B4%E5%AE%9C%E6%B3%BD%2010-7%20%E6%9A%82%E6%97%B6%E9%A2%86%E5%85%88%E8%82%96%E6%81%A9%C2%B7%E5%A2%A8%E8%8F%B2)
+1. [买三文鱼套餐吃到虹鳟食客起诉餐厅](https://www.zhihu.com/search?q=%E4%B9%B0%E4%B8%89%E6%96%87%E9%B1%BC%E5%A5%97%E9%A4%90%E5%90%83%E5%88%B0%E8%99%B9%E9%B3%9F%E9%A3%9F%E5%AE%A2%E8%B5%B7%E8%AF%89%E9%A4%90%E5%8E%85)
 
 ## 热门话题
 
