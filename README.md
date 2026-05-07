@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-05-08 06:53:02 +0800`
+`更新时间：2026-05-08 07:44:12 +0800`
 
 ## 热门搜索
 
@@ -34,6 +34,7 @@
 1. [浏阳一烟花厂发生爆炸](https://www.zhihu.com/search?q=%E6%B5%8F%E9%98%B3%E4%B8%80%E7%83%9F%E8%8A%B1%E5%8E%82%E5%8F%91%E7%94%9F%E7%88%86%E7%82%B8)
 1. [著名法学家王连昌逝世](https://www.zhihu.com/search?q=%E8%91%97%E5%90%8D%E6%B3%95%E5%AD%A6%E5%AE%B6%E7%8E%8B%E8%BF%9E%E6%98%8C%E9%80%9D%E4%B8%96)
 1. [余额宝收益率破1是什么情况](https://www.zhihu.com/search?q=%E4%BD%99%E9%A2%9D%E5%AE%9D%E6%94%B6%E7%9B%8A%E7%8E%87%E7%A0%B41%E6%98%AF%E4%BB%80%E4%B9%88%E6%83%85%E5%86%B5)
+1. [央视调查悬空寺景区乱象](https://www.zhihu.com/search?q=%E5%A4%AE%E8%A7%86%E8%B0%83%E6%9F%A5%E6%82%AC%E7%A9%BA%E5%AF%BA%E6%99%AF%E5%8C%BA%E4%B9%B1%E8%B1%A1)
 1. [嵩山景区「爬不动了吧」标语引争议](https://www.zhihu.com/search?q=%E5%B5%A9%E5%B1%B1%E6%99%AF%E5%8C%BA%E3%80%8C%E7%88%AC%E4%B8%8D%E5%8A%A8%E4%BA%86%E5%90%A7%E3%80%8D%E6%A0%87%E8%AF%AD%E5%BC%95%E4%BA%89%E8%AE%AE)
 1. [林依晨自曝曾被前男友要求退圈](https://www.zhihu.com/search?q=%E6%9E%97%E4%BE%9D%E6%99%A8%E8%87%AA%E6%9B%9D%E6%9B%BE%E8%A2%AB%E5%89%8D%E7%94%B7%E5%8F%8B%E8%A6%81%E6%B1%82%E9%80%80%E5%9C%88)
 1. [「像糖尿病人一样吃饭」走红](https://www.zhihu.com/search?q=%E3%80%8C%E5%83%8F%E7%B3%96%E5%B0%BF%E7%97%85%E4%BA%BA%E4%B8%80%E6%A0%B7%E5%90%83%E9%A5%AD%E3%80%8D%E8%B5%B0%E7%BA%A2)
