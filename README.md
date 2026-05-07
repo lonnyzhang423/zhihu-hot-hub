@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-05-07 13:52:40 +0800`
+`更新时间：2026-05-07 16:17:26 +0800`
 
 ## 热门搜索
 
@@ -34,6 +34,7 @@
 1. [国内一年仅卖 2763 万台彩电](https://www.zhihu.com/search?q=%E5%9B%BD%E5%86%85%E4%B8%80%E5%B9%B4%E4%BB%85%E5%8D%96%202763%20%E4%B8%87%E5%8F%B0%E5%BD%A9%E7%94%B5)
 1. [河北一家五口被害案凶手已被执行死刑](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8C%97%E4%B8%80%E5%AE%B6%E4%BA%94%E5%8F%A3%E8%A2%AB%E5%AE%B3%E6%A1%88%E5%87%B6%E6%89%8B%E5%B7%B2%E8%A2%AB%E6%89%A7%E8%A1%8C%E6%AD%BB%E5%88%91)
 1. [鸿蒙智行回应副驾折叠争议](https://www.zhihu.com/search?q=%E9%B8%BF%E8%92%99%E6%99%BA%E8%A1%8C%E5%9B%9E%E5%BA%94%E5%89%AF%E9%A9%BE%E6%8A%98%E5%8F%A0%E4%BA%89%E8%AE%AE)
+1. [游客在景区体验悬崖秋千高空坠落](https://www.zhihu.com/search?q=%E6%B8%B8%E5%AE%A2%E5%9C%A8%E6%99%AF%E5%8C%BA%E4%BD%93%E9%AA%8C%E6%82%AC%E5%B4%96%E7%A7%8B%E5%8D%83%E9%AB%98%E7%A9%BA%E5%9D%A0%E8%90%BD)
 
 ## 热门话题
 
