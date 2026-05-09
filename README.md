@@ -11,14 +11,16 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-05-09 15:13:10 +0800`
+`更新时间：2026-05-09 17:25:50 +0800`
 
 ## 热门搜索
 
-1. [油价年内第7次上涨](https://www.zhihu.com/search?q=%E6%B2%B9%E4%BB%B7%E5%B9%B4%E5%86%85%E7%AC%AC7%E6%AC%A1%E4%B8%8A%E6%B6%A8)
+1. [汪苏泷演唱会](https://www.zhihu.com/search?q=%E6%B1%AA%E8%8B%8F%E6%B3%B7%E6%BC%94%E5%94%B1%E4%BC%9A)
+1. [俄罗斯胜利日阅兵](https://www.zhihu.com/search?q=%E4%BF%84%E7%BD%97%E6%96%AF%E8%83%9C%E5%88%A9%E6%97%A5%E9%98%85%E5%85%B5)
 1. [伊朗局势](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF)
 1. [以色列宣布袭击伊朗](https://www.zhihu.com/search?q=%E4%BB%A5%E8%89%B2%E5%88%97%E5%AE%A3%E5%B8%83%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97)
 1. [美以袭击伊朗](https://www.zhihu.com/search?q=%E7%BE%8E%E4%BB%A5%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97)
+1. [骑士vs活塞](https://www.zhihu.com/search?q=%E9%AA%91%E5%A3%ABvs%E6%B4%BB%E5%A1%9E)
 1. [伊朗会不会成为下一个伊拉克](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E4%BC%9A%E4%B8%8D%E4%BC%9A%E6%88%90%E4%B8%BA%E4%B8%8B%E4%B8%80%E4%B8%AA%E4%BC%8A%E6%8B%89%E5%85%8B)
 1. [速览中东危局40小时](https://www.zhihu.com/search?q=%E9%80%9F%E8%A7%88%E4%B8%AD%E4%B8%9C%E5%8D%B1%E5%B1%8040%E5%B0%8F%E6%97%B6)
 1. [这三种泳衣颜色一旦溺水难被发现](https://www.zhihu.com/search?q=%E8%BF%99%E4%B8%89%E7%A7%8D%E6%B3%B3%E8%A1%A3%E9%A2%9C%E8%89%B2%E4%B8%80%E6%97%A6%E6%BA%BA%E6%B0%B4%E9%9A%BE%E8%A2%AB%E5%8F%91%E7%8E%B0)
@@ -27,19 +29,17 @@
 1. [2026 五一档总票房 7.56 亿](https://www.zhihu.com/search?q=2026%20%E4%BA%94%E4%B8%80%E6%A1%A3%E6%80%BB%E7%A5%A8%E6%88%BF%207.56%20%E4%BA%BF)
 1. [李嘉诚退出英国电讯](https://www.zhihu.com/search?q=%E6%9D%8E%E5%98%89%E8%AF%9A%E9%80%80%E5%87%BA%E8%8B%B1%E5%9B%BD%E7%94%B5%E8%AE%AF)
 1. [OpenAI推出GPT-5.5 Instant](https://www.zhihu.com/search?q=OpenAI%E6%8E%A8%E5%87%BAGPT-5.5%20Instant)
-1. [俄罗斯胜利日阅兵](https://www.zhihu.com/search?q=%E4%BF%84%E7%BD%97%E6%96%AF%E8%83%9C%E5%88%A9%E6%97%A5%E9%98%85%E5%85%B5)
-1. [《人物》前主笔疑遭职场霸凌](https://www.zhihu.com/search?q=%E3%80%8A%E4%BA%BA%E7%89%A9%E3%80%8B%E5%89%8D%E4%B8%BB%E7%AC%94%E7%96%91%E9%81%AD%E8%81%8C%E5%9C%BA%E9%9C%B8%E5%87%8C)
-1. [暖暖自曝长期遭 MCN 公司压榨](https://www.zhihu.com/search?q=%E6%9A%96%E6%9A%96%E8%87%AA%E6%9B%9D%E9%95%BF%E6%9C%9F%E9%81%AD%20MCN%20%E5%85%AC%E5%8F%B8%E5%8E%8B%E6%A6%A8)
+1. [年轻人开始报兴趣班旅行](https://www.zhihu.com/search?q=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%BC%80%E5%A7%8B%E6%8A%A5%E5%85%B4%E8%B6%A3%E7%8F%AD%E6%97%85%E8%A1%8C)
 1. [网友偶遇全李酒店 店名引争议](https://www.zhihu.com/search?q=%E7%BD%91%E5%8F%8B%E5%81%B6%E9%81%87%E5%85%A8%E6%9D%8E%E9%85%92%E5%BA%97%20%E5%BA%97%E5%90%8D%E5%BC%95%E4%BA%89%E8%AE%AE)
-1. [孙杨电车事件](https://www.zhihu.com/search?q=%E5%AD%99%E6%9D%A8%E7%94%B5%E8%BD%A6%E4%BA%8B%E4%BB%B6)
-1. [山姆顾客用塑料袋大量取酱料](https://www.zhihu.com/search?q=%E5%B1%B1%E5%A7%86%E9%A1%BE%E5%AE%A2%E7%94%A8%E5%A1%91%E6%96%99%E8%A2%8B%E5%A4%A7%E9%87%8F%E5%8F%96%E9%85%B1%E6%96%99)
-1. [DeepSeek 大范围开放识图模式](https://www.zhihu.com/search?q=DeepSeek%20%E5%A4%A7%E8%8C%83%E5%9B%B4%E5%BC%80%E6%94%BE%E8%AF%86%E5%9B%BE%E6%A8%A1%E5%BC%8F)
-1. [金刚蹲三分钟胜过跑步五公里](https://www.zhihu.com/search?q=%E9%87%91%E5%88%9A%E8%B9%B2%E4%B8%89%E5%88%86%E9%92%9F%E8%83%9C%E8%BF%87%E8%B7%91%E6%AD%A5%E4%BA%94%E5%85%AC%E9%87%8C)
-1. [他人是自我的投射](https://www.zhihu.com/search?q=%E4%BB%96%E4%BA%BA%E6%98%AF%E8%87%AA%E6%88%91%E7%9A%84%E6%8A%95%E5%B0%84)
-1. [南通通报中学教师论文抄袭](https://www.zhihu.com/search?q=%E5%8D%97%E9%80%9A%E9%80%9A%E6%8A%A5%E4%B8%AD%E5%AD%A6%E6%95%99%E5%B8%88%E8%AE%BA%E6%96%87%E6%8A%84%E8%A2%AD)
-1. [全球教育平台遭黑客入侵全面瘫痪](https://www.zhihu.com/search?q=%E5%85%A8%E7%90%83%E6%95%99%E8%82%B2%E5%B9%B3%E5%8F%B0%E9%81%AD%E9%BB%91%E5%AE%A2%E5%85%A5%E4%BE%B5%E5%85%A8%E9%9D%A2%E7%98%AB%E7%97%AA)
-1. [余华真的读到浑身发抖吗](https://www.zhihu.com/search?q=%E4%BD%99%E5%8D%8E%E7%9C%9F%E7%9A%84%E8%AF%BB%E5%88%B0%E6%B5%91%E8%BA%AB%E5%8F%91%E6%8A%96%E5%90%97)
-1. [鸿蒙开发者曝合作内幕](https://www.zhihu.com/search?q=%E9%B8%BF%E8%92%99%E5%BC%80%E5%8F%91%E8%80%85%E6%9B%9D%E5%90%88%E4%BD%9C%E5%86%85%E5%B9%95)
+1. [女游客秋千坠亡家属已和解](https://www.zhihu.com/search?q=%E5%A5%B3%E6%B8%B8%E5%AE%A2%E7%A7%8B%E5%8D%83%E5%9D%A0%E4%BA%A1%E5%AE%B6%E5%B1%9E%E5%B7%B2%E5%92%8C%E8%A7%A3)
+1. [研究发现多吃苦对大脑有害](https://www.zhihu.com/search?q=%E7%A0%94%E7%A9%B6%E5%8F%91%E7%8E%B0%E5%A4%9A%E5%90%83%E8%8B%A6%E5%AF%B9%E5%A4%A7%E8%84%91%E6%9C%89%E5%AE%B3)
+1. [阿森纳时隔20年再进欧冠决赛](https://www.zhihu.com/search?q=%E9%98%BF%E6%A3%AE%E7%BA%B3%E6%97%B6%E9%9A%9420%E5%B9%B4%E5%86%8D%E8%BF%9B%E6%AC%A7%E5%86%A0%E5%86%B3%E8%B5%9B)
+1. [詹姆斯尽力局](https://www.zhihu.com/search?q=%E8%A9%B9%E5%A7%86%E6%96%AF%E5%B0%BD%E5%8A%9B%E5%B1%80)
+1. [两市成交额重回3万亿](https://www.zhihu.com/search?q=%E4%B8%A4%E5%B8%82%E6%88%90%E4%BA%A4%E9%A2%9D%E9%87%8D%E5%9B%9E3%E4%B8%87%E4%BA%BF)
+1. [伊朗警告美国](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E8%AD%A6%E5%91%8A%E7%BE%8E%E5%9B%BD)
+1. [未曾爱过是不是人生遗憾](https://www.zhihu.com/search?q=%E6%9C%AA%E6%9B%BE%E7%88%B1%E8%BF%87%E6%98%AF%E4%B8%8D%E6%98%AF%E4%BA%BA%E7%94%9F%E9%81%97%E6%86%BE)
+1. [同济大学通报教师论文造假事件](https://www.zhihu.com/search?q=%E5%90%8C%E6%B5%8E%E5%A4%A7%E5%AD%A6%E9%80%9A%E6%8A%A5%E6%95%99%E5%B8%88%E8%AE%BA%E6%96%87%E9%80%A0%E5%81%87%E4%BA%8B%E4%BB%B6)
+1. [三亚 4 只皮皮虾收费 1035 元](https://www.zhihu.com/search?q=%E4%B8%89%E4%BA%9A%204%20%E5%8F%AA%E7%9A%AE%E7%9A%AE%E8%99%BE%E6%94%B6%E8%B4%B9%201035%20%E5%85%83)
 
 ## 热门话题
 
