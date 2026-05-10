@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-05-10 12:02:49 +0800`
+`更新时间：2026-05-10 15:28:00 +0800`
 
 ## 热门搜索
 
@@ -33,13 +33,12 @@
 1. [詹姆斯尽力局](https://www.zhihu.com/search?q=%E8%A9%B9%E5%A7%86%E6%96%AF%E5%B0%BD%E5%8A%9B%E5%B1%80)
 1. [两市成交额重回3万亿](https://www.zhihu.com/search?q=%E4%B8%A4%E5%B8%82%E6%88%90%E4%BA%A4%E9%A2%9D%E9%87%8D%E5%9B%9E3%E4%B8%87%E4%BA%BF)
 1. [伊朗警告美国](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E8%AD%A6%E5%91%8A%E7%BE%8E%E5%9B%BD)
-1. [三亚 4 只皮皮虾收费 1035 元](https://www.zhihu.com/search?q=%E4%B8%89%E4%BA%9A%204%20%E5%8F%AA%E7%9A%AE%E7%9A%AE%E8%99%BE%E6%94%B6%E8%B4%B9%201035%20%E5%85%83)
-1. [国际奥委会被曝已叫停电竞奥运会](https://www.zhihu.com/search?q=%E5%9B%BD%E9%99%85%E5%A5%A5%E5%A7%94%E4%BC%9A%E8%A2%AB%E6%9B%9D%E5%B7%B2%E5%8F%AB%E5%81%9C%E7%94%B5%E7%AB%9E%E5%A5%A5%E8%BF%90%E4%BC%9A)
 1. [瑞士发现 1 例汉坦病毒感染病例](https://www.zhihu.com/search?q=%E7%91%9E%E5%A3%AB%E5%8F%91%E7%8E%B0%201%20%E4%BE%8B%E6%B1%89%E5%9D%A6%E7%97%85%E6%AF%92%E6%84%9F%E6%9F%93%E7%97%85%E4%BE%8B)
 1. [DeepSeek 估值半月飙升至450亿](https://www.zhihu.com/search?q=DeepSeek%20%E4%BC%B0%E5%80%BC%E5%8D%8A%E6%9C%88%E9%A3%99%E5%8D%87%E8%87%B3450%E4%BA%BF)
 1. [央视硬刚国际足联拒天价转播费](https://www.zhihu.com/search?q=%E5%A4%AE%E8%A7%86%E7%A1%AC%E5%88%9A%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%E6%8B%92%E5%A4%A9%E4%BB%B7%E8%BD%AC%E6%92%AD%E8%B4%B9)
 1. [马斯克xAI并入SpaceX](https://www.zhihu.com/search?q=%E9%A9%AC%E6%96%AF%E5%85%8BxAI%E5%B9%B6%E5%85%A5SpaceX)
 1. [比亚迪闪充电池最高温达76℃](https://www.zhihu.com/search?q=%E6%AF%94%E4%BA%9A%E8%BF%AA%E9%97%AA%E5%85%85%E7%94%B5%E6%B1%A0%E6%9C%80%E9%AB%98%E6%B8%A9%E8%BE%BE76%E2%84%83)
+1. [星空卫视停播](https://www.zhihu.com/search?q=%E6%98%9F%E7%A9%BA%E5%8D%AB%E8%A7%86%E5%81%9C%E6%92%AD)
 
 ## 热门话题
 
