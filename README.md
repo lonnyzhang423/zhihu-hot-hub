@@ -11,10 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-05-11 10:12:45 +0800`
+`更新时间：2026-05-11 14:29:40 +0800`
 
 ## 热门搜索
 
+1. [玄彬百想视帝](https://www.zhihu.com/search?q=%E7%8E%84%E5%BD%AC%E7%99%BE%E6%83%B3%E8%A7%86%E5%B8%9D)
 1. [汪苏泷演唱会](https://www.zhihu.com/search?q=%E6%B1%AA%E8%8B%8F%E6%B3%B7%E6%BC%94%E5%94%B1%E4%BC%9A)
 1. [国乒男团进决赛](https://www.zhihu.com/search?q=%E5%9B%BD%E4%B9%92%E7%94%B7%E5%9B%A2%E8%BF%9B%E5%86%B3%E8%B5%9B)
 1. [尼克斯vs76人](https://www.zhihu.com/search?q=%E5%B0%BC%E5%85%8B%E6%96%AFvs76%E4%BA%BA)
