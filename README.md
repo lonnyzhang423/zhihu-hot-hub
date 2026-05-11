@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-05-11 07:41:57 +0800`
+`更新时间：2026-05-11 10:12:45 +0800`
 
 ## 热门搜索
 
@@ -31,14 +31,13 @@
 1. [两市成交额重回3万亿](https://www.zhihu.com/search?q=%E4%B8%A4%E5%B8%82%E6%88%90%E4%BA%A4%E9%A2%9D%E9%87%8D%E5%9B%9E3%E4%B8%87%E4%BA%BF)
 1. [伊朗警告美国](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E8%AD%A6%E5%91%8A%E7%BE%8E%E5%9B%BD)
 1. [中大副院长邝栋明被举报论文造假](https://www.zhihu.com/search?q=%E4%B8%AD%E5%A4%A7%E5%89%AF%E9%99%A2%E9%95%BF%E9%82%9D%E6%A0%8B%E6%98%8E%E8%A2%AB%E4%B8%BE%E6%8A%A5%E8%AE%BA%E6%96%87%E9%80%A0%E5%81%87)
-1. [DeepSeek 估值半月飙升至450亿](https://www.zhihu.com/search?q=DeepSeek%20%E4%BC%B0%E5%80%BC%E5%8D%8A%E6%9C%88%E9%A3%99%E5%8D%87%E8%87%B3450%E4%BA%BF)
-1. [央视硬刚国际足联拒天价转播费](https://www.zhihu.com/search?q=%E5%A4%AE%E8%A7%86%E7%A1%AC%E5%88%9A%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%E6%8B%92%E5%A4%A9%E4%BB%B7%E8%BD%AC%E6%92%AD%E8%B4%B9)
-1. [比亚迪闪充电池最高温达76℃](https://www.zhihu.com/search?q=%E6%AF%94%E4%BA%9A%E8%BF%AA%E9%97%AA%E5%85%85%E7%94%B5%E6%B1%A0%E6%9C%80%E9%AB%98%E6%B8%A9%E8%BE%BE76%E2%84%83)
 1. [新物种广西两头蛇被发现](https://www.zhihu.com/search?q=%E6%96%B0%E7%89%A9%E7%A7%8D%E5%B9%BF%E8%A5%BF%E4%B8%A4%E5%A4%B4%E8%9B%87%E8%A2%AB%E5%8F%91%E7%8E%B0)
 1. [取消快慢班老师称难教](https://www.zhihu.com/search?q=%E5%8F%96%E6%B6%88%E5%BF%AB%E6%85%A2%E7%8F%AD%E8%80%81%E5%B8%88%E7%A7%B0%E9%9A%BE%E6%95%99)
 1. [昔日网红自嗨锅破产](https://www.zhihu.com/search?q=%E6%98%94%E6%97%A5%E7%BD%91%E7%BA%A2%E8%87%AA%E5%97%A8%E9%94%85%E7%A0%B4%E4%BA%A7)
 1. [三星停止在中国大陆销售家电产品](https://www.zhihu.com/search?q=%E4%B8%89%E6%98%9F%E5%81%9C%E6%AD%A2%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%A4%A7%E9%99%86%E9%94%80%E5%94%AE%E5%AE%B6%E7%94%B5%E4%BA%A7%E5%93%81)
 1. [男子辞职照顾岳父离婚获50万补偿](https://www.zhihu.com/search?q=%E7%94%B7%E5%AD%90%E8%BE%9E%E8%81%8C%E7%85%A7%E9%A1%BE%E5%B2%B3%E7%88%B6%E7%A6%BB%E5%A9%9A%E8%8E%B750%E4%B8%87%E8%A1%A5%E5%81%BF)
+1. [胖东来19名管理人员被降级](https://www.zhihu.com/search?q=%E8%83%96%E4%B8%9C%E6%9D%A519%E5%90%8D%E7%AE%A1%E7%90%86%E4%BA%BA%E5%91%98%E8%A2%AB%E9%99%8D%E7%BA%A7)
+1. [小朋友在镇政府牌匾上涂鸦](https://www.zhihu.com/search?q=%E5%B0%8F%E6%9C%8B%E5%8F%8B%E5%9C%A8%E9%95%87%E6%94%BF%E5%BA%9C%E7%89%8C%E5%8C%BE%E4%B8%8A%E6%B6%82%E9%B8%A6)
 
 ## 热门话题
 
