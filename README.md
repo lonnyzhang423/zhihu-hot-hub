@@ -11,30 +11,29 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-05-12 16:38:12 +0800`
+`更新时间：2026-05-12 19:13:24 +0800`
 
 ## 热门搜索
 
+1. [A股刷新多个新高](https://www.zhihu.com/search?q=A%E8%82%A1%E5%88%B7%E6%96%B0%E5%A4%9A%E4%B8%AA%E6%96%B0%E9%AB%98)
+1. [西班牙完成涉疫邮轮转运](https://www.zhihu.com/search?q=%E8%A5%BF%E7%8F%AD%E7%89%99%E5%AE%8C%E6%88%90%E6%B6%89%E7%96%AB%E9%82%AE%E8%BD%AE%E8%BD%AC%E8%BF%90)
+1. [湖人vs雷霆](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BAvs%E9%9B%B7%E9%9C%86)
+1. [你的低成本爱好是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9A%84%E4%BD%8E%E6%88%90%E6%9C%AC%E7%88%B1%E5%A5%BD%E6%98%AF%E4%BB%80%E4%B9%88)
+1. [美国情报系统现在属于什么水平](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E6%83%85%E6%8A%A5%E7%B3%BB%E7%BB%9F%E7%8E%B0%E5%9C%A8%E5%B1%9E%E4%BA%8E%E4%BB%80%E4%B9%88%E6%B0%B4%E5%B9%B3)
+1. [旅行后你对哪个城市祛魅了](https://www.zhihu.com/search?q=%E6%97%85%E8%A1%8C%E5%90%8E%E4%BD%A0%E5%AF%B9%E5%93%AA%E4%B8%AA%E5%9F%8E%E5%B8%82%E7%A5%9B%E9%AD%85%E4%BA%86)
+1. [为什么很多人喜欢和AI对话](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BE%88%E5%A4%9A%E4%BA%BA%E5%96%9C%E6%AC%A2%E5%92%8CAI%E5%AF%B9%E8%AF%9D)
+1. [人到中年后为什么很难快乐起来](https://www.zhihu.com/search?q=%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E5%90%8E%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BE%88%E9%9A%BE%E5%BF%AB%E4%B9%90%E8%B5%B7%E6%9D%A5)
+1. [什么才是真正的解决问题的能力](https://www.zhihu.com/search?q=%E4%BB%80%E4%B9%88%E6%89%8D%E6%98%AF%E7%9C%9F%E6%AD%A3%E7%9A%84%E8%A7%A3%E5%86%B3%E9%97%AE%E9%A2%98%E7%9A%84%E8%83%BD%E5%8A%9B)
+1. [体制内工作最好的心态是什么](https://www.zhihu.com/search?q=%E4%BD%93%E5%88%B6%E5%86%85%E5%B7%A5%E4%BD%9C%E6%9C%80%E5%A5%BD%E7%9A%84%E5%BF%83%E6%80%81%E6%98%AF%E4%BB%80%E4%B9%88)
+1. [你心目中的排名第一的雪糕](https://www.zhihu.com/search?q=%E4%BD%A0%E5%BF%83%E7%9B%AE%E4%B8%AD%E7%9A%84%E6%8E%92%E5%90%8D%E7%AC%AC%E4%B8%80%E7%9A%84%E9%9B%AA%E7%B3%95)
+1. [油车预计多长时间会被完全淘汰](https://www.zhihu.com/search?q=%E6%B2%B9%E8%BD%A6%E9%A2%84%E8%AE%A1%E5%A4%9A%E9%95%BF%E6%97%B6%E9%97%B4%E4%BC%9A%E8%A2%AB%E5%AE%8C%E5%85%A8%E6%B7%98%E6%B1%B0)
+1. [怎样判断一个人的认知在你之上](https://www.zhihu.com/search?q=%E6%80%8E%E6%A0%B7%E5%88%A4%E6%96%AD%E4%B8%80%E4%B8%AA%E4%BA%BA%E7%9A%84%E8%AE%A4%E7%9F%A5%E5%9C%A8%E4%BD%A0%E4%B9%8B%E4%B8%8A)
 1. [伊朗局势](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF)
 1. [以色列宣布袭击伊朗](https://www.zhihu.com/search?q=%E4%BB%A5%E8%89%B2%E5%88%97%E5%AE%A3%E5%B8%83%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97)
 1. [美以袭击伊朗](https://www.zhihu.com/search?q=%E7%BE%8E%E4%BB%A5%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97)
 1. [伊朗会不会成为下一个伊拉克](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E4%BC%9A%E4%B8%8D%E4%BC%9A%E6%88%90%E4%B8%BA%E4%B8%8B%E4%B8%80%E4%B8%AA%E4%BC%8A%E6%8B%89%E5%85%8B)
 1. [速览中东危局40小时](https://www.zhihu.com/search?q=%E9%80%9F%E8%A7%88%E4%B8%AD%E4%B8%9C%E5%8D%B1%E5%B1%8040%E5%B0%8F%E6%97%B6)
-1. [电视剧《低智商犯罪》热播](https://www.zhihu.com/search?q=%E7%94%B5%E8%A7%86%E5%89%A7%E3%80%8A%E4%BD%8E%E6%99%BA%E5%95%86%E7%8A%AF%E7%BD%AA%E3%80%8B%E7%83%AD%E6%92%AD)
-1. [智能门锁被照片刷脸打开](https://www.zhihu.com/search?q=%E6%99%BA%E8%83%BD%E9%97%A8%E9%94%81%E8%A2%AB%E7%85%A7%E7%89%87%E5%88%B7%E8%84%B8%E6%89%93%E5%BC%80)
-1. [「反向接话」视频爆火](https://www.zhihu.com/search?q=%E3%80%8C%E5%8F%8D%E5%90%91%E6%8E%A5%E8%AF%9D%E3%80%8D%E8%A7%86%E9%A2%91%E7%88%86%E7%81%AB)
-1. [国际足联可能已经慌了](https://www.zhihu.com/search?q=%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%E5%8F%AF%E8%83%BD%E5%B7%B2%E7%BB%8F%E6%85%8C%E4%BA%86)
-1. [一张打印照片秒开智能门锁](https://www.zhihu.com/search?q=%E4%B8%80%E5%BC%A0%E6%89%93%E5%8D%B0%E7%85%A7%E7%89%87%E7%A7%92%E5%BC%80%E6%99%BA%E8%83%BD%E9%97%A8%E9%94%81)
-1. [雨霖铃](https://www.zhihu.com/search?q=%E9%9B%A8%E9%9C%96%E9%93%83)
-1. [剪刀手拍照真会泄露指纹吗](https://www.zhihu.com/search?q=%E5%89%AA%E5%88%80%E6%89%8B%E6%8B%8D%E7%85%A7%E7%9C%9F%E4%BC%9A%E6%B3%84%E9%9C%B2%E6%8C%87%E7%BA%B9%E5%90%97)
-1. [因退货率高整条街被电商店铺拉黑](https://www.zhihu.com/search?q=%E5%9B%A0%E9%80%80%E8%B4%A7%E7%8E%87%E9%AB%98%E6%95%B4%E6%9D%A1%E8%A1%97%E8%A2%AB%E7%94%B5%E5%95%86%E5%BA%97%E9%93%BA%E6%8B%89%E9%BB%91)
-1. [鸿蒙开发者曝合作内幕](https://www.zhihu.com/search?q=%E9%B8%BF%E8%92%99%E5%BC%80%E5%8F%91%E8%80%85%E6%9B%9D%E5%90%88%E4%BD%9C%E5%86%85%E5%B9%95)
-1. [孙杨电车事件](https://www.zhihu.com/search?q=%E5%AD%99%E6%9D%A8%E7%94%B5%E8%BD%A6%E4%BA%8B%E4%BB%B6)
-1. [《给阿嬷的情书》涨至9.1分](https://www.zhihu.com/search?q=%E3%80%8A%E7%BB%99%E9%98%BF%E5%AC%B7%E7%9A%84%E6%83%85%E4%B9%A6%E3%80%8B%E6%B6%A8%E8%87%B39.1%E5%88%86)
-1. [女孩沉迷二次元花掉家中18万积蓄](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%A9%E6%B2%89%E8%BF%B7%E4%BA%8C%E6%AC%A1%E5%85%83%E8%8A%B1%E6%8E%89%E5%AE%B6%E4%B8%AD18%E4%B8%87%E7%A7%AF%E8%93%84)
-1. [deepseek正式跨入图文交互时代](https://www.zhihu.com/search?q=deepseek%E6%AD%A3%E5%BC%8F%E8%B7%A8%E5%85%A5%E5%9B%BE%E6%96%87%E4%BA%A4%E4%BA%92%E6%97%B6%E4%BB%A3)
-1. [47名消费者准备正式起诉张静初](https://www.zhihu.com/search?q=47%E5%90%8D%E6%B6%88%E8%B4%B9%E8%80%85%E5%87%86%E5%A4%87%E6%AD%A3%E5%BC%8F%E8%B5%B7%E8%AF%89%E5%BC%A0%E9%9D%99%E5%88%9D)
-1. [跑男疯狂证明自己](https://www.zhihu.com/search?q=%E8%B7%91%E7%94%B7%E7%96%AF%E7%8B%82%E8%AF%81%E6%98%8E%E8%87%AA%E5%B7%B1)
+1. [极普通家庭如何让孩子见世面](https://www.zhihu.com/search?q=%E6%9E%81%E6%99%AE%E9%80%9A%E5%AE%B6%E5%BA%AD%E5%A6%82%E4%BD%95%E8%AE%A9%E5%AD%A9%E5%AD%90%E8%A7%81%E4%B8%96%E9%9D%A2)
 
 ## 热门话题
 
