@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-05-14 03:00:21 +0800`
+`更新时间：2026-05-14 04:52:53 +0800`
 
 ## 热门搜索
 
@@ -38,7 +38,6 @@
 1. [阿里被曝将深度整合千问与淘宝](https://www.zhihu.com/search?q=%E9%98%BF%E9%87%8C%E8%A2%AB%E6%9B%9D%E5%B0%86%E6%B7%B1%E5%BA%A6%E6%95%B4%E5%90%88%E5%8D%83%E9%97%AE%E4%B8%8E%E6%B7%98%E5%AE%9D)
 1. [Anthropic 蒸馏后销毁书籍](https://www.zhihu.com/search?q=Anthropic%20%E8%92%B8%E9%A6%8F%E5%90%8E%E9%94%80%E6%AF%81%E4%B9%A6%E7%B1%8D)
 1. [钱江摩托声明从未针对张雪机车](https://www.zhihu.com/search?q=%E9%92%B1%E6%B1%9F%E6%91%A9%E6%89%98%E5%A3%B0%E6%98%8E%E4%BB%8E%E6%9C%AA%E9%92%88%E5%AF%B9%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6)
-1. [贾跃亭出任 FF 全球 CEO](https://www.zhihu.com/search?q=%E8%B4%BE%E8%B7%83%E4%BA%AD%E5%87%BA%E4%BB%BB%20FF%20%E5%85%A8%E7%90%83%20CEO)
 
 ## 热门话题
 
