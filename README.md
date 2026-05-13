@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-05-13 18:36:46 +0800`
+`更新时间：2026-05-13 21:21:15 +0800`
 
 ## 热门搜索
 
@@ -34,9 +34,9 @@
 1. [deepseek正式跨入图文交互时代](https://www.zhihu.com/search?q=deepseek%E6%AD%A3%E5%BC%8F%E8%B7%A8%E5%85%A5%E5%9B%BE%E6%96%87%E4%BA%A4%E4%BA%92%E6%97%B6%E4%BB%A3)
 1. [保时捷Taycan GT重夺纽北最速电车](https://www.zhihu.com/search?q=%E4%BF%9D%E6%97%B6%E6%8D%B7Taycan%20GT%E9%87%8D%E5%A4%BA%E7%BA%BD%E5%8C%97%E6%9C%80%E9%80%9F%E7%94%B5%E8%BD%A6)
 1. [女孩沉迷二次元花家中18万积蓄](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%A9%E6%B2%89%E8%BF%B7%E4%BA%8C%E6%AC%A1%E5%85%83%E8%8A%B1%E5%AE%B6%E4%B8%AD18%E4%B8%87%E7%A7%AF%E8%93%84)
-1. [小英带货佣金曝光](https://www.zhihu.com/search?q=%E5%B0%8F%E8%8B%B1%E5%B8%A6%E8%B4%A7%E4%BD%A3%E9%87%91%E6%9B%9D%E5%85%89)
 1. [45岁独身男子离世存款被转走](https://www.zhihu.com/search?q=45%E5%B2%81%E7%8B%AC%E8%BA%AB%E7%94%B7%E5%AD%90%E7%A6%BB%E4%B8%96%E5%AD%98%E6%AC%BE%E8%A2%AB%E8%BD%AC%E8%B5%B0)
 1. [4 月份 CPI 同比上涨 1.2％](https://www.zhihu.com/search?q=4%20%E6%9C%88%E4%BB%BD%20CPI%20%E5%90%8C%E6%AF%94%E4%B8%8A%E6%B6%A8%201.2%EF%BC%85)
+1. [阿里被曝将深度整合千问与淘宝](https://www.zhihu.com/search?q=%E9%98%BF%E9%87%8C%E8%A2%AB%E6%9B%9D%E5%B0%86%E6%B7%B1%E5%BA%A6%E6%95%B4%E5%90%88%E5%8D%83%E9%97%AE%E4%B8%8E%E6%B7%98%E5%AE%9D)
 
 ## 热门话题
 
