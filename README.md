@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-05-14 19:44:51 +0800`
+`更新时间：2026-05-14 21:46:52 +0800`
 
 ## 热门搜索
 
@@ -33,6 +33,7 @@
 1. [湖南一中学发退步快学生证明](https://www.zhihu.com/search?q=%E6%B9%96%E5%8D%97%E4%B8%80%E4%B8%AD%E5%AD%A6%E5%8F%91%E9%80%80%E6%AD%A5%E5%BF%AB%E5%AD%A6%E7%94%9F%E8%AF%81%E6%98%8E)
 1. [摩洛哥新娘刷屏全网](https://www.zhihu.com/search?q=%E6%91%A9%E6%B4%9B%E5%93%A5%E6%96%B0%E5%A8%98%E5%88%B7%E5%B1%8F%E5%85%A8%E7%BD%91)
 1. [iOS26.5 正式版发布](https://www.zhihu.com/search?q=iOS26.5%20%E6%AD%A3%E5%BC%8F%E7%89%88%E5%8F%91%E5%B8%83)
+1. [湖人 110:115 雷霆](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BA%20110%3A115%20%E9%9B%B7%E9%9C%86)
 
 ## 热门话题
 
