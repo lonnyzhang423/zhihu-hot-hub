@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-05-14 07:53:28 +0800`
+`更新时间：2026-05-14 10:25:32 +0800`
 
 ## 热门搜索
 
@@ -27,7 +27,6 @@
 1. [买190元榴莲仅退款买家已被拘](https://www.zhihu.com/search?q=%E4%B9%B0190%E5%85%83%E6%A6%B4%E8%8E%B2%E4%BB%85%E9%80%80%E6%AC%BE%E4%B9%B0%E5%AE%B6%E5%B7%B2%E8%A2%AB%E6%8B%98)
 1. [deepseek正式跨入图文交互时代](https://www.zhihu.com/search?q=deepseek%E6%AD%A3%E5%BC%8F%E8%B7%A8%E5%85%A5%E5%9B%BE%E6%96%87%E4%BA%A4%E4%BA%92%E6%97%B6%E4%BB%A3)
 1. [保时捷Taycan GT重夺纽北最速电车](https://www.zhihu.com/search?q=%E4%BF%9D%E6%97%B6%E6%8D%B7Taycan%20GT%E9%87%8D%E5%A4%BA%E7%BA%BD%E5%8C%97%E6%9C%80%E9%80%9F%E7%94%B5%E8%BD%A6)
-1. [45岁独身男子离世存款被转走](https://www.zhihu.com/search?q=45%E5%B2%81%E7%8B%AC%E8%BA%AB%E7%94%B7%E5%AD%90%E7%A6%BB%E4%B8%96%E5%AD%98%E6%AC%BE%E8%A2%AB%E8%BD%AC%E8%B5%B0)
 1. [阿里被曝将深度整合千问与淘宝](https://www.zhihu.com/search?q=%E9%98%BF%E9%87%8C%E8%A2%AB%E6%9B%9D%E5%B0%86%E6%B7%B1%E5%BA%A6%E6%95%B4%E5%90%88%E5%8D%83%E9%97%AE%E4%B8%8E%E6%B7%98%E5%AE%9D)
 1. [钱江摩托声明从未针对张雪机车](https://www.zhihu.com/search?q=%E9%92%B1%E6%B1%9F%E6%91%A9%E6%89%98%E5%A3%B0%E6%98%8E%E4%BB%8E%E6%9C%AA%E9%92%88%E5%AF%B9%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6)
 1. [贾跃亭出任 FF 全球 CEO](https://www.zhihu.com/search?q=%E8%B4%BE%E8%B7%83%E4%BA%AD%E5%87%BA%E4%BB%BB%20FF%20%E5%85%A8%E7%90%83%20CEO)
@@ -38,6 +37,7 @@
 1. [国际足联急了](https://www.zhihu.com/search?q=%E5%9B%BD%E9%99%85%E8%B6%B3%E8%81%94%E6%80%A5%E4%BA%86)
 1. [俄罗斯举行胜利日红场阅兵式](https://www.zhihu.com/search?q=%E4%BF%84%E7%BD%97%E6%96%AF%E4%B8%BE%E8%A1%8C%E8%83%9C%E5%88%A9%E6%97%A5%E7%BA%A2%E5%9C%BA%E9%98%85%E5%85%B5%E5%BC%8F)
 1. [徐州1比2宿迁](https://www.zhihu.com/search?q=%E5%BE%90%E5%B7%9E1%E6%AF%942%E5%AE%BF%E8%BF%81)
+1. [哈登连得7分](https://www.zhihu.com/search?q=%E5%93%88%E7%99%BB%E8%BF%9E%E5%BE%977%E5%88%86)
 
 ## 热门话题
 
