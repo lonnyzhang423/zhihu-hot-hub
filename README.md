@@ -11,11 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-05-15 17:39:26 +0800`
+`更新时间：2026-05-15 19:47:57 +0800`
 
 ## 热门搜索
 
-1. [巴菲特慈善午餐 900 万美元成交](https://www.zhihu.com/search?q=%E5%B7%B4%E8%8F%B2%E7%89%B9%E6%85%88%E5%96%84%E5%8D%88%E9%A4%90%20900%20%E4%B8%87%E7%BE%8E%E5%85%83%E6%88%90%E4%BA%A4)
+1. [股市](https://www.zhihu.com/search?q=%E8%82%A1%E5%B8%82)
 1. [广东启动防汛ⅳ级应急响应](https://www.zhihu.com/search?q=%E5%B9%BF%E4%B8%9C%E5%90%AF%E5%8A%A8%E9%98%B2%E6%B1%9B%E2%85%B3%E7%BA%A7%E5%BA%94%E6%80%A5%E5%93%8D%E5%BA%94)
 1. [A股三大指数集体收跌](https://www.zhihu.com/search?q=A%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E6%94%B6%E8%B7%8C)
 1. [今日国际家庭日](https://www.zhihu.com/search?q=%E4%BB%8A%E6%97%A5%E5%9B%BD%E9%99%85%E5%AE%B6%E5%BA%AD%E6%97%A5)
@@ -33,7 +33,6 @@
 1. [为什么吃碳水如今充满贬义色彩](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%90%83%E7%A2%B3%E6%B0%B4%E5%A6%82%E4%BB%8A%E5%85%85%E6%BB%A1%E8%B4%AC%E4%B9%89%E8%89%B2%E5%BD%A9)
 1. [OPPO 高级副总裁职级直降两级](https://www.zhihu.com/search?q=OPPO%20%E9%AB%98%E7%BA%A7%E5%89%AF%E6%80%BB%E8%A3%81%E8%81%8C%E7%BA%A7%E7%9B%B4%E9%99%8D%E4%B8%A4%E7%BA%A7)
 1. [家业定档](https://www.zhihu.com/search?q=%E5%AE%B6%E4%B8%9A%E5%AE%9A%E6%A1%A3)
-1. [湖南一中学发退步快学生证明](https://www.zhihu.com/search?q=%E6%B9%96%E5%8D%97%E4%B8%80%E4%B8%AD%E5%AD%A6%E5%8F%91%E9%80%80%E6%AD%A5%E5%BF%AB%E5%AD%A6%E7%94%9F%E8%AF%81%E6%98%8E)
 
 ## 热门话题
 
