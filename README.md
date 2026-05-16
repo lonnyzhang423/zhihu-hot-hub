@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-05-16 16:52:19 +0800`
+`更新时间：2026-05-16 18:21:58 +0800`
 
 ## 热门搜索
 
@@ -33,6 +33,8 @@
 1. [为什么吃碳水如今充满贬义色彩](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%90%83%E7%A2%B3%E6%B0%B4%E5%A6%82%E4%BB%8A%E5%85%85%E6%BB%A1%E8%B4%AC%E4%B9%89%E8%89%B2%E5%BD%A9)
 1. [家业定档](https://www.zhihu.com/search?q=%E5%AE%B6%E4%B8%9A%E5%AE%9A%E6%A1%A3)
 1. [宇树发布 GD01 载人变形机甲](https://www.zhihu.com/search?q=%E5%AE%87%E6%A0%91%E5%8F%91%E5%B8%83%20GD01%20%E8%BD%BD%E4%BA%BA%E5%8F%98%E5%BD%A2%E6%9C%BA%E7%94%B2)
+1. [县城理发店取名东尼遭英公司起诉](https://www.zhihu.com/search?q=%E5%8E%BF%E5%9F%8E%E7%90%86%E5%8F%91%E5%BA%97%E5%8F%96%E5%90%8D%E4%B8%9C%E5%B0%BC%E9%81%AD%E8%8B%B1%E5%85%AC%E5%8F%B8%E8%B5%B7%E8%AF%89)
+1. [孙颖莎3比0横扫早田希娜](https://www.zhihu.com/search?q=%E5%AD%99%E9%A2%96%E8%8E%8E3%E6%AF%940%E6%A8%AA%E6%89%AB%E6%97%A9%E7%94%B0%E5%B8%8C%E5%A8%9C)
 
 ## 热门话题
 
