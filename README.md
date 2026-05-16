@@ -11,13 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-05-16 18:55:46 +0800`
+`更新时间：2026-05-16 19:43:29 +0800`
 
 ## 热门搜索
 
-1. [那英再次加盟歌手](https://www.zhihu.com/search?q=%E9%82%A3%E8%8B%B1%E5%86%8D%E6%AC%A1%E5%8A%A0%E7%9B%9F%E6%AD%8C%E6%89%8B)
+1. [股市](https://www.zhihu.com/search?q=%E8%82%A1%E5%B8%82)
 1. [广东启动防汛ⅳ级应急响应](https://www.zhihu.com/search?q=%E5%B9%BF%E4%B8%9C%E5%90%AF%E5%8A%A8%E9%98%B2%E6%B1%9B%E2%85%B3%E7%BA%A7%E5%BA%94%E6%80%A5%E5%93%8D%E5%BA%94)
-1. [于东来200元餐费付10倍](https://www.zhihu.com/search?q=%E4%BA%8E%E4%B8%9C%E6%9D%A5200%E5%85%83%E9%A4%90%E8%B4%B9%E4%BB%9810%E5%80%8D)
 1. [A股三大指数集体收跌](https://www.zhihu.com/search?q=A%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E6%94%B6%E8%B7%8C)
 1. [今日国际家庭日](https://www.zhihu.com/search?q=%E4%BB%8A%E6%97%A5%E5%9B%BD%E9%99%85%E5%AE%B6%E5%BA%AD%E6%97%A5)
 1. [健身中存在放纵餐这个说法吗](https://www.zhihu.com/search?q=%E5%81%A5%E8%BA%AB%E4%B8%AD%E5%AD%98%E5%9C%A8%E6%94%BE%E7%BA%B5%E9%A4%90%E8%BF%99%E4%B8%AA%E8%AF%B4%E6%B3%95%E5%90%97)
