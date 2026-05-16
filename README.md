@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-05-16 07:46:14 +0800`
+`更新时间：2026-05-16 10:06:00 +0800`
 
 ## 热门搜索
 
-1. [股市](https://www.zhihu.com/search?q=%E8%82%A1%E5%B8%82)
+1. [新人500元请司仪要求随礼600](https://www.zhihu.com/search?q=%E6%96%B0%E4%BA%BA500%E5%85%83%E8%AF%B7%E5%8F%B8%E4%BB%AA%E8%A6%81%E6%B1%82%E9%9A%8F%E7%A4%BC600)
+1. [基辛格在天坛留言簿留下一句话](https://www.zhihu.com/search?q=%E5%9F%BA%E8%BE%9B%E6%A0%BC%E5%9C%A8%E5%A4%A9%E5%9D%9B%E7%95%99%E8%A8%80%E7%B0%BF%E7%95%99%E4%B8%8B%E4%B8%80%E5%8F%A5%E8%AF%9D)
 1. [广东启动防汛ⅳ级应急响应](https://www.zhihu.com/search?q=%E5%B9%BF%E4%B8%9C%E5%90%AF%E5%8A%A8%E9%98%B2%E6%B1%9B%E2%85%B3%E7%BA%A7%E5%BA%94%E6%80%A5%E5%93%8D%E5%BA%94)
 1. [A股三大指数集体收跌](https://www.zhihu.com/search?q=A%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E6%94%B6%E8%B7%8C)
 1. [今日国际家庭日](https://www.zhihu.com/search?q=%E4%BB%8A%E6%97%A5%E5%9B%BD%E9%99%85%E5%AE%B6%E5%BA%AD%E6%97%A5)
