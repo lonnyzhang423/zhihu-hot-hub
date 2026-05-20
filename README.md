@@ -11,16 +11,20 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-05-20 18:19:30 +0800`
+`更新时间：2026-05-20 21:31:22 +0800`
 
 ## 热门搜索
 
 1. [谷歌开发者大会](https://www.zhihu.com/search?q=%E8%B0%B7%E6%AD%8C%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E4%BC%9A)
+1. [A股三大指数集体翻红](https://www.zhihu.com/search?q=A%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E7%BF%BB%E7%BA%A2)
+1. [马刺vs雷霆](https://www.zhihu.com/search?q=%E9%A9%AC%E5%88%BAvs%E9%9B%B7%E9%9C%86)
 1. [伊朗局势](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF)
 1. [以色列宣布袭击伊朗](https://www.zhihu.com/search?q=%E4%BB%A5%E8%89%B2%E5%88%97%E5%AE%A3%E5%B8%83%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97)
 1. [美以袭击伊朗](https://www.zhihu.com/search?q=%E7%BE%8E%E4%BB%A5%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97)
 1. [伊朗会不会成为下一个伊拉克](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E4%BC%9A%E4%B8%8D%E4%BC%9A%E6%88%90%E4%B8%BA%E4%B8%8B%E4%B8%80%E4%B8%AA%E4%BC%8A%E6%8B%89%E5%85%8B)
 1. [速览中东危局40小时](https://www.zhihu.com/search?q=%E9%80%9F%E8%A7%88%E4%B8%AD%E4%B8%9C%E5%8D%B1%E5%B1%8040%E5%B0%8F%E6%97%B6)
+1. [低智商犯罪大结局](https://www.zhihu.com/search?q=%E4%BD%8E%E6%99%BA%E5%95%86%E7%8A%AF%E7%BD%AA%E5%A4%A7%E7%BB%93%E5%B1%80)
+1. [泰兰尼斯被曝千元童鞋成本仅37元](https://www.zhihu.com/search?q=%E6%B3%B0%E5%85%B0%E5%B0%BC%E6%96%AF%E8%A2%AB%E6%9B%9D%E5%8D%83%E5%85%83%E7%AB%A5%E9%9E%8B%E6%88%90%E6%9C%AC%E4%BB%8537%E5%85%83)
 1. [杨梅商贩浸泡8000倍超甜三无添加剂](https://www.zhihu.com/search?q=%E6%9D%A8%E6%A2%85%E5%95%86%E8%B4%A9%E6%B5%B8%E6%B3%A18000%E5%80%8D%E8%B6%85%E7%94%9C%E4%B8%89%E6%97%A0%E6%B7%BB%E5%8A%A0%E5%89%82)
 1. [上海交大学生豆包伪造证据私吞奖金](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%E4%BA%A4%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%B1%86%E5%8C%85%E4%BC%AA%E9%80%A0%E8%AF%81%E6%8D%AE%E7%A7%81%E5%90%9E%E5%A5%96%E9%87%91)
 1. [巨力索具被证监会立案](https://www.zhihu.com/search?q=%E5%B7%A8%E5%8A%9B%E7%B4%A2%E5%85%B7%E8%A2%AB%E8%AF%81%E7%9B%91%E4%BC%9A%E7%AB%8B%E6%A1%88)
@@ -28,19 +32,11 @@
 1. [电影《监狱来的妈妈》](https://www.zhihu.com/search?q=%E7%94%B5%E5%BD%B1%E3%80%8A%E7%9B%91%E7%8B%B1%E6%9D%A5%E7%9A%84%E5%A6%88%E5%A6%88%E3%80%8B)
 1. [女孩考倒数第一 爸爸淡定逆向教育](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%A9%E8%80%83%E5%80%92%E6%95%B0%E7%AC%AC%E4%B8%80%20%E7%88%B8%E7%88%B8%E6%B7%A1%E5%AE%9A%E9%80%86%E5%90%91%E6%95%99%E8%82%B2)
 1. [电影《监狱来的妈妈》引争议](https://www.zhihu.com/search?q=%E7%94%B5%E5%BD%B1%E3%80%8A%E7%9B%91%E7%8B%B1%E6%9D%A5%E7%9A%84%E5%A6%88%E5%A6%88%E3%80%8B%E5%BC%95%E4%BA%89%E8%AE%AE)
-1. [ 女子让邻居别放垃圾被殴打](https://www.zhihu.com/search?q=%20%E5%A5%B3%E5%AD%90%E8%AE%A9%E9%82%BB%E5%B1%85%E5%88%AB%E6%94%BE%E5%9E%83%E5%9C%BE%E8%A2%AB%E6%AE%B4%E6%89%93)
 1. [张雪机车拿下第五冠](https://www.zhihu.com/search?q=%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E6%8B%BF%E4%B8%8B%E7%AC%AC%E4%BA%94%E5%86%A0)
 1. [长鑫科技 Q1 净利润狂飙至 330 亿](https://www.zhihu.com/search?q=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%20Q1%20%E5%87%80%E5%88%A9%E6%B6%A6%E7%8B%82%E9%A3%99%E8%87%B3%20330%20%E4%BA%BF)
 1. [张雪机车昙花五现了](https://www.zhihu.com/search?q=%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E6%98%99%E8%8A%B1%E4%BA%94%E7%8E%B0%E4%BA%86)
 1. [卢昱晓屏摄《给阿嬷的情书》道歉](https://www.zhihu.com/search?q=%E5%8D%A2%E6%98%B1%E6%99%93%E5%B1%8F%E6%91%84%E3%80%8A%E7%BB%99%E9%98%BF%E5%AC%B7%E7%9A%84%E6%83%85%E4%B9%A6%E3%80%8B%E9%81%93%E6%AD%89)
 1. [罗永浩回怼保时捷「被抄袭无奈」言论](https://www.zhihu.com/search?q=%E7%BD%97%E6%B0%B8%E6%B5%A9%E5%9B%9E%E6%80%BC%E4%BF%9D%E6%97%B6%E6%8D%B7%E3%80%8C%E8%A2%AB%E6%8A%84%E8%A2%AD%E6%97%A0%E5%A5%88%E3%80%8D%E8%A8%80%E8%AE%BA)
-1. [张雪称准备冲击年度总冠军](https://www.zhihu.com/search?q=%E5%BC%A0%E9%9B%AA%E7%A7%B0%E5%87%86%E5%A4%87%E5%86%B2%E5%87%BB%E5%B9%B4%E5%BA%A6%E6%80%BB%E5%86%A0%E5%86%9B)
-1. [国内高校研制可回收火箭](https://www.zhihu.com/search?q=%E5%9B%BD%E5%86%85%E9%AB%98%E6%A0%A1%E7%A0%94%E5%88%B6%E5%8F%AF%E5%9B%9E%E6%94%B6%E7%81%AB%E7%AE%AD)
-1. [短剧首次入围金鹰奖票选](https://www.zhihu.com/search?q=%E7%9F%AD%E5%89%A7%E9%A6%96%E6%AC%A1%E5%85%A5%E5%9B%B4%E9%87%91%E9%B9%B0%E5%A5%96%E7%A5%A8%E9%80%89)
-1. [樊振东获欧冠冠军](https://www.zhihu.com/search?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E8%8E%B7%E6%AC%A7%E5%86%A0%E5%86%A0%E5%86%9B)
-1. [武大开放后食堂爆满 学生无座可坐](https://www.zhihu.com/search?q=%E6%AD%A6%E5%A4%A7%E5%BC%80%E6%94%BE%E5%90%8E%E9%A3%9F%E5%A0%82%E7%88%86%E6%BB%A1%20%E5%AD%A6%E7%94%9F%E6%97%A0%E5%BA%A7%E5%8F%AF%E5%9D%90)
-1. [湖南石门强降雨沿街商户被淹](https://www.zhihu.com/search?q=%E6%B9%96%E5%8D%97%E7%9F%B3%E9%97%A8%E5%BC%BA%E9%99%8D%E9%9B%A8%E6%B2%BF%E8%A1%97%E5%95%86%E6%88%B7%E8%A2%AB%E6%B7%B9)
-1. [耿同学再爆4大学5杰青学术造假](https://www.zhihu.com/search?q=%E8%80%BF%E5%90%8C%E5%AD%A6%E5%86%8D%E7%88%864%E5%A4%A7%E5%AD%A65%E6%9D%B0%E9%9D%92%E5%AD%A6%E6%9C%AF%E9%80%A0%E5%81%87)
 
 ## 热门话题
 
