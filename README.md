@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-05-21 10:31:23 +0800`
+`更新时间：2026-05-21 14:43:26 +0800`
 
 ## 热门搜索
 
-1. [谷歌开发者大会](https://www.zhihu.com/search?q=%E8%B0%B7%E6%AD%8C%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E4%BC%9A)
-1. [A股三大指数集体翻红](https://www.zhihu.com/search?q=A%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E7%BF%BB%E7%BA%A2)
+1. [iphone绝版配件回归](https://www.zhihu.com/search?q=iphone%E7%BB%9D%E7%89%88%E9%85%8D%E4%BB%B6%E5%9B%9E%E5%BD%92)
+1. [如何评价台积电](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E5%8F%B0%E7%A7%AF%E7%94%B5)
 1. [英伟达财报](https://www.zhihu.com/search?q=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E8%B4%A2%E6%8A%A5)
 1. [马刺vs雷霆](https://www.zhihu.com/search?q=%E9%A9%AC%E5%88%BAvs%E9%9B%B7%E9%9C%86)
 1. [伊朗局势](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF)
@@ -33,10 +33,10 @@
 1. [女孩考倒数第一 爸爸淡定逆向教育](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%A9%E8%80%83%E5%80%92%E6%95%B0%E7%AC%AC%E4%B8%80%20%E7%88%B8%E7%88%B8%E6%B7%A1%E5%AE%9A%E9%80%86%E5%90%91%E6%95%99%E8%82%B2)
 1. [电影《监狱来的妈妈》引争议](https://www.zhihu.com/search?q=%E7%94%B5%E5%BD%B1%E3%80%8A%E7%9B%91%E7%8B%B1%E6%9D%A5%E7%9A%84%E5%A6%88%E5%A6%88%E3%80%8B%E5%BC%95%E4%BA%89%E8%AE%AE)
 1. [张雪机车拿下第五冠](https://www.zhihu.com/search?q=%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E6%8B%BF%E4%B8%8B%E7%AC%AC%E4%BA%94%E5%86%A0)
-1. [长鑫科技 Q1 净利润狂飙至 330 亿](https://www.zhihu.com/search?q=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%20Q1%20%E5%87%80%E5%88%A9%E6%B6%A6%E7%8B%82%E9%A3%99%E8%87%B3%20330%20%E4%BA%BF)
 1. [张雪机车昙花五现了](https://www.zhihu.com/search?q=%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E6%98%99%E8%8A%B1%E4%BA%94%E7%8E%B0%E4%BA%86)
 1. [卢昱晓屏摄《给阿嬷的情书》道歉](https://www.zhihu.com/search?q=%E5%8D%A2%E6%98%B1%E6%99%93%E5%B1%8F%E6%91%84%E3%80%8A%E7%BB%99%E9%98%BF%E5%AC%B7%E7%9A%84%E6%83%85%E4%B9%A6%E3%80%8B%E9%81%93%E6%AD%89)
 1. [张雪称准备冲击年度总冠军](https://www.zhihu.com/search?q=%E5%BC%A0%E9%9B%AA%E7%A7%B0%E5%87%86%E5%A4%87%E5%86%B2%E5%87%BB%E5%B9%B4%E5%BA%A6%E6%80%BB%E5%86%A0%E5%86%9B)
+1. [樊振东获欧冠冠军](https://www.zhihu.com/search?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E8%8E%B7%E6%AC%A7%E5%86%A0%E5%86%A0%E5%86%9B)
 
 ## 热门话题
 
