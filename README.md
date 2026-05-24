@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-05-24 07:49:24 +0800`
+`更新时间：2026-05-24 10:28:11 +0800`
 
 ## 热门搜索
 
@@ -31,7 +31,6 @@
 1. [长江存储启动ipo辅导](https://www.zhihu.com/search?q=%E9%95%BF%E6%B1%9F%E5%AD%98%E5%82%A8%E5%90%AF%E5%8A%A8ipo%E8%BE%85%E5%AF%BC)
 1. [特斯拉放弃印度建厂](https://www.zhihu.com/search?q=%E7%89%B9%E6%96%AF%E6%8B%89%E6%94%BE%E5%BC%83%E5%8D%B0%E5%BA%A6%E5%BB%BA%E5%8E%82)
 1. [美军全面执行针对伊朗的海上封锁行动](https://www.zhihu.com/search?q=%E7%BE%8E%E5%86%9B%E5%85%A8%E9%9D%A2%E6%89%A7%E8%A1%8C%E9%92%88%E5%AF%B9%E4%BC%8A%E6%9C%97%E7%9A%84%E6%B5%B7%E4%B8%8A%E5%B0%81%E9%94%81%E8%A1%8C%E5%8A%A8)
-1. [上海第二工业大学学生课上「暴走」](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%E7%AC%AC%E4%BA%8C%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6%E5%AD%A6%E7%94%9F%E8%AF%BE%E4%B8%8A%E3%80%8C%E6%9A%B4%E8%B5%B0%E3%80%8D)
 1. [郭晶晶称爱情比门当户对更重要](https://www.zhihu.com/search?q=%E9%83%AD%E6%99%B6%E6%99%B6%E7%A7%B0%E7%88%B1%E6%83%85%E6%AF%94%E9%97%A8%E5%BD%93%E6%88%B7%E5%AF%B9%E6%9B%B4%E9%87%8D%E8%A6%81)
 1. [长白头发不是因为老是你太累了](https://www.zhihu.com/search?q=%E9%95%BF%E7%99%BD%E5%A4%B4%E5%8F%91%E4%B8%8D%E6%98%AF%E5%9B%A0%E4%B8%BA%E8%80%81%E6%98%AF%E4%BD%A0%E5%A4%AA%E7%B4%AF%E4%BA%86)
 1. [章晓梅章晓燕为无关个体](https://www.zhihu.com/search?q=%E7%AB%A0%E6%99%93%E6%A2%85%E7%AB%A0%E6%99%93%E7%87%95%E4%B8%BA%E6%97%A0%E5%85%B3%E4%B8%AA%E4%BD%93)
@@ -40,6 +39,7 @@
 1. [生理假](https://www.zhihu.com/search?q=%E7%94%9F%E7%90%86%E5%81%87)
 1. [烈性犬咬死女童狗主人获缓刑](https://www.zhihu.com/search?q=%E7%83%88%E6%80%A7%E7%8A%AC%E5%92%AC%E6%AD%BB%E5%A5%B3%E7%AB%A5%E7%8B%97%E4%B8%BB%E4%BA%BA%E8%8E%B7%E7%BC%93%E5%88%91)
 1. [黄金下跌原因](https://www.zhihu.com/search?q=%E9%BB%84%E9%87%91%E4%B8%8B%E8%B7%8C%E5%8E%9F%E5%9B%A0)
+1. [顶车救人女护士获赠新车欲捐出](https://www.zhihu.com/search?q=%E9%A1%B6%E8%BD%A6%E6%95%91%E4%BA%BA%E5%A5%B3%E6%8A%A4%E5%A3%AB%E8%8E%B7%E8%B5%A0%E6%96%B0%E8%BD%A6%E6%AC%B2%E6%8D%90%E5%87%BA)
 
 ## 热门话题
 
