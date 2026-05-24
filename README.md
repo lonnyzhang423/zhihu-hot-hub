@@ -11,12 +11,13 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-05-24 10:28:11 +0800`
+`更新时间：2026-05-24 14:29:01 +0800`
 
 ## 热门搜索
 
 1. [油价](https://www.zhihu.com/search?q=%E6%B2%B9%E4%BB%B7)
 1. [油价今晚上调](https://www.zhihu.com/search?q=%E6%B2%B9%E4%BB%B7%E4%BB%8A%E6%99%9A%E4%B8%8A%E8%B0%83)
+1. [武汉发布暴雨红色预警](https://www.zhihu.com/search?q=%E6%AD%A6%E6%B1%89%E5%8F%91%E5%B8%83%E6%9A%B4%E9%9B%A8%E7%BA%A2%E8%89%B2%E9%A2%84%E8%AD%A6)
 1. [金价](https://www.zhihu.com/search?q=%E9%87%91%E4%BB%B7)
 1. [伊朗局势](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF)
 1. [以色列宣布袭击伊朗](https://www.zhihu.com/search?q=%E4%BB%A5%E8%89%B2%E5%88%97%E5%AE%A3%E5%B8%83%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97)
@@ -24,7 +25,6 @@
 1. [伊朗会不会成为下一个伊拉克](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E4%BC%9A%E4%B8%8D%E4%BC%9A%E6%88%90%E4%B8%BA%E4%B8%8B%E4%B8%80%E4%B8%AA%E4%BC%8A%E6%8B%89%E5%85%8B)
 1. [速览中东危局40小时](https://www.zhihu.com/search?q=%E9%80%9F%E8%A7%88%E4%B8%AD%E4%B8%9C%E5%8D%B1%E5%B1%8040%E5%B0%8F%E6%97%B6)
 1. [5月15日A股行情](https://www.zhihu.com/search?q=5%E6%9C%8815%E6%97%A5A%E8%82%A1%E8%A1%8C%E6%83%85)
-1. [电影《监狱来的妈妈》引争议](https://www.zhihu.com/search?q=%E7%94%B5%E5%BD%B1%E3%80%8A%E7%9B%91%E7%8B%B1%E6%9D%A5%E7%9A%84%E5%A6%88%E5%A6%88%E3%80%8B%E5%BC%95%E4%BA%89%E8%AE%AE)
 1. [5月18日A股](https://www.zhihu.com/search?q=5%E6%9C%8818%E6%97%A5A%E8%82%A1)
 1. [姜乘澜被执行1119万](https://www.zhihu.com/search?q=%E5%A7%9C%E4%B9%98%E6%BE%9C%E8%A2%AB%E6%89%A7%E8%A1%8C1119%E4%B8%87)
 1. [三大运营商token套餐全面上线](https://www.zhihu.com/search?q=%E4%B8%89%E5%A4%A7%E8%BF%90%E8%90%A5%E5%95%86token%E5%A5%97%E9%A4%90%E5%85%A8%E9%9D%A2%E4%B8%8A%E7%BA%BF)
@@ -39,7 +39,6 @@
 1. [生理假](https://www.zhihu.com/search?q=%E7%94%9F%E7%90%86%E5%81%87)
 1. [烈性犬咬死女童狗主人获缓刑](https://www.zhihu.com/search?q=%E7%83%88%E6%80%A7%E7%8A%AC%E5%92%AC%E6%AD%BB%E5%A5%B3%E7%AB%A5%E7%8B%97%E4%B8%BB%E4%BA%BA%E8%8E%B7%E7%BC%93%E5%88%91)
 1. [黄金下跌原因](https://www.zhihu.com/search?q=%E9%BB%84%E9%87%91%E4%B8%8B%E8%B7%8C%E5%8E%9F%E5%9B%A0)
-1. [顶车救人女护士获赠新车欲捐出](https://www.zhihu.com/search?q=%E9%A1%B6%E8%BD%A6%E6%95%91%E4%BA%BA%E5%A5%B3%E6%8A%A4%E5%A3%AB%E8%8E%B7%E8%B5%A0%E6%96%B0%E8%BD%A6%E6%AC%B2%E6%8D%90%E5%87%BA)
 
 ## 热门话题
 
