@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-05-26 05:16:56 +0800`
+`更新时间：2026-05-26 07:13:17 +0800`
 
 ## 热门搜索
 
-1. [乌克兰首都基辅传出爆炸声](https://www.zhihu.com/search?q=%E4%B9%8C%E5%85%8B%E5%85%B0%E9%A6%96%E9%83%BD%E5%9F%BA%E8%BE%85%E4%BC%A0%E5%87%BA%E7%88%86%E7%82%B8%E5%A3%B0)
-1. [今年首个红色山洪灾害气象预警发布](https://www.zhihu.com/search?q=%E4%BB%8A%E5%B9%B4%E9%A6%96%E4%B8%AA%E7%BA%A2%E8%89%B2%E5%B1%B1%E6%B4%AA%E7%81%BE%E5%AE%B3%E6%B0%94%E8%B1%A1%E9%A2%84%E8%AD%A6%E5%8F%91%E5%B8%83)
+1. [棣月系be了](https://www.zhihu.com/search?q=%E6%A3%A3%E6%9C%88%E7%B3%BBbe%E4%BA%86)
+1. [死了么app改名在么在么](https://www.zhihu.com/search?q=%E6%AD%BB%E4%BA%86%E4%B9%88app%E6%94%B9%E5%90%8D%E5%9C%A8%E4%B9%88%E5%9C%A8%E4%B9%88)
 1. [雷霆vs马刺](https://www.zhihu.com/search?q=%E9%9B%B7%E9%9C%86vs%E9%A9%AC%E5%88%BA)
 1. [尼克斯vs骑士](https://www.zhihu.com/search?q=%E5%B0%BC%E5%85%8B%E6%96%AFvs%E9%AA%91%E5%A3%AB)
 1. [伊朗局势](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF)
