@@ -11,13 +11,14 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-05-25 07:52:02 +0800`
+`更新时间：2026-05-25 10:36:33 +0800`
 
 ## 热门搜索
 
 1. [油价](https://www.zhihu.com/search?q=%E6%B2%B9%E4%BB%B7)
 1. [油价今晚上调](https://www.zhihu.com/search?q=%E6%B2%B9%E4%BB%B7%E4%BB%8A%E6%99%9A%E4%B8%8A%E8%B0%83)
 1. [武汉发布暴雨红色预警](https://www.zhihu.com/search?q=%E6%AD%A6%E6%B1%89%E5%8F%91%E5%B8%83%E6%9A%B4%E9%9B%A8%E7%BA%A2%E8%89%B2%E9%A2%84%E8%AD%A6)
+1. [今年首个红色山洪灾害气象预警发布](https://www.zhihu.com/search?q=%E4%BB%8A%E5%B9%B4%E9%A6%96%E4%B8%AA%E7%BA%A2%E8%89%B2%E5%B1%B1%E6%B4%AA%E7%81%BE%E5%AE%B3%E6%B0%94%E8%B1%A1%E9%A2%84%E8%AD%A6%E5%8F%91%E5%B8%83)
 1. [金价](https://www.zhihu.com/search?q=%E9%87%91%E4%BB%B7)
 1. [伊朗局势](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF)
 1. [以色列宣布袭击伊朗](https://www.zhihu.com/search?q=%E4%BB%A5%E8%89%B2%E5%88%97%E5%AE%A3%E5%B8%83%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97)
