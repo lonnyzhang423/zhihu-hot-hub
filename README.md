@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-05-30 18:06:21 +0800`
+`更新时间：2026-05-30 20:07:16 +0800`
 
 ## 热门搜索
 
@@ -24,7 +24,6 @@
 1. [《小巷人家2》原班人马回归](https://www.zhihu.com/search?q=%E3%80%8A%E5%B0%8F%E5%B7%B7%E4%BA%BA%E5%AE%B62%E3%80%8B%E5%8E%9F%E7%8F%AD%E4%BA%BA%E9%A9%AC%E5%9B%9E%E5%BD%92)
 1. [日本本州东部6.5级地震](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E6%9C%AC%E5%B7%9E%E4%B8%9C%E9%83%A86.5%E7%BA%A7%E5%9C%B0%E9%9C%87)
 1. [711门店广告夯爆了写成劣爆了](https://www.zhihu.com/search?q=711%E9%97%A8%E5%BA%97%E5%B9%BF%E5%91%8A%E5%A4%AF%E7%88%86%E4%BA%86%E5%86%99%E6%88%90%E5%8A%A3%E7%88%86%E4%BA%86)
-1. [小米通报空调安装「抽真空」造假](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3%E9%80%9A%E6%8A%A5%E7%A9%BA%E8%B0%83%E5%AE%89%E8%A3%85%E3%80%8C%E6%8A%BD%E7%9C%9F%E7%A9%BA%E3%80%8D%E9%80%A0%E5%81%87)
 1. [全球100个最热城市印度占98个](https://www.zhihu.com/search?q=%E5%85%A8%E7%90%83100%E4%B8%AA%E6%9C%80%E7%83%AD%E5%9F%8E%E5%B8%82%E5%8D%B0%E5%BA%A6%E5%8D%A098%E4%B8%AA)
 1. [留神峪煤矿有重大违法行为](https://www.zhihu.com/search?q=%E7%95%99%E7%A5%9E%E5%B3%AA%E7%85%A4%E7%9F%BF%E6%9C%89%E9%87%8D%E5%A4%A7%E8%BF%9D%E6%B3%95%E8%A1%8C%E4%B8%BA)
 1. [荣耀 OPPO 推出磁吸外置自拍屏](https://www.zhihu.com/search?q=%E8%8D%A3%E8%80%80%20OPPO%20%E6%8E%A8%E5%87%BA%E7%A3%81%E5%90%B8%E5%A4%96%E7%BD%AE%E8%87%AA%E6%8B%8D%E5%B1%8F)
@@ -33,7 +32,6 @@
 1. [广州试点收购二手住宅](https://www.zhihu.com/search?q=%E5%B9%BF%E5%B7%9E%E8%AF%95%E7%82%B9%E6%94%B6%E8%B4%AD%E4%BA%8C%E6%89%8B%E4%BD%8F%E5%AE%85)
 1. [大润发创始人尹衍梁去世](https://www.zhihu.com/search?q=%E5%A4%A7%E6%B6%A6%E5%8F%91%E5%88%9B%E5%A7%8B%E4%BA%BA%E5%B0%B9%E8%A1%8D%E6%A2%81%E5%8E%BB%E4%B8%96)
 1. [印度被烤糊了](https://www.zhihu.com/search?q=%E5%8D%B0%E5%BA%A6%E8%A2%AB%E7%83%A4%E7%B3%8A%E4%BA%86)
-1. [谢苗《火遮眼》定档6月11日](https://www.zhihu.com/search?q=%E8%B0%A2%E8%8B%97%E3%80%8A%E7%81%AB%E9%81%AE%E7%9C%BC%E3%80%8B%E5%AE%9A%E6%A1%A36%E6%9C%8811%E6%97%A5)
 1. [于正反驳余华](https://www.zhihu.com/search?q=%E4%BA%8E%E6%AD%A3%E5%8F%8D%E9%A9%B3%E4%BD%99%E5%8D%8E)
 1. [广东2026高三开学延至9月](https://www.zhihu.com/search?q=%E5%B9%BF%E4%B8%9C2026%E9%AB%98%E4%B8%89%E5%BC%80%E5%AD%A6%E5%BB%B6%E8%87%B39%E6%9C%88)
 1. [美国公司用离体「缸中之脑」测试药物](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E5%85%AC%E5%8F%B8%E7%94%A8%E7%A6%BB%E4%BD%93%E3%80%8C%E7%BC%B8%E4%B8%AD%E4%B9%8B%E8%84%91%E3%80%8D%E6%B5%8B%E8%AF%95%E8%8D%AF%E7%89%A9)
@@ -42,6 +40,8 @@
 1. [小米一季度净利润61亿元](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3%E4%B8%80%E5%AD%A3%E5%BA%A6%E5%87%80%E5%88%A9%E6%B6%A661%E4%BA%BF%E5%85%83)
 1. [女子因漏放吸管辱骂砸打店员](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E5%9B%A0%E6%BC%8F%E6%94%BE%E5%90%B8%E7%AE%A1%E8%BE%B1%E9%AA%82%E7%A0%B8%E6%89%93%E5%BA%97%E5%91%98)
 1. [海底捞宣布小料台牛肉粒回归](https://www.zhihu.com/search?q=%E6%B5%B7%E5%BA%95%E6%8D%9E%E5%AE%A3%E5%B8%83%E5%B0%8F%E6%96%99%E5%8F%B0%E7%89%9B%E8%82%89%E7%B2%92%E5%9B%9E%E5%BD%92)
+1. [朋友圈发照片炫耀造成泄密](https://www.zhihu.com/search?q=%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%8F%91%E7%85%A7%E7%89%87%E7%82%AB%E8%80%80%E9%80%A0%E6%88%90%E6%B3%84%E5%AF%86)
+1. [教育部提醒这类学历不予认证](https://www.zhihu.com/search?q=%E6%95%99%E8%82%B2%E9%83%A8%E6%8F%90%E9%86%92%E8%BF%99%E7%B1%BB%E5%AD%A6%E5%8E%86%E4%B8%8D%E4%BA%88%E8%AE%A4%E8%AF%81)
 
 ## 热门话题
 
