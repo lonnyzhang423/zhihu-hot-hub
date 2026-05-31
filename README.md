@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-05-31 07:54:02 +0800`
+`更新时间：2026-05-31 10:37:15 +0800`
 
 ## 热门搜索
 
@@ -33,7 +33,6 @@
 1. [印度被烤糊了](https://www.zhihu.com/search?q=%E5%8D%B0%E5%BA%A6%E8%A2%AB%E7%83%A4%E7%B3%8A%E4%BA%86)
 1. [于正反驳余华](https://www.zhihu.com/search?q=%E4%BA%8E%E6%AD%A3%E5%8F%8D%E9%A9%B3%E4%BD%99%E5%8D%8E)
 1. [广东2026高三开学延至9月](https://www.zhihu.com/search?q=%E5%B9%BF%E4%B8%9C2026%E9%AB%98%E4%B8%89%E5%BC%80%E5%AD%A6%E5%BB%B6%E8%87%B39%E6%9C%88)
-1. [美国公司用离体「缸中之脑」测试药物](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E5%85%AC%E5%8F%B8%E7%94%A8%E7%A6%BB%E4%BD%93%E3%80%8C%E7%BC%B8%E4%B8%AD%E4%B9%8B%E8%84%91%E3%80%8D%E6%B5%8B%E8%AF%95%E8%8D%AF%E7%89%A9)
 1. [户口以后没那么重要了](https://www.zhihu.com/search?q=%E6%88%B7%E5%8F%A3%E4%BB%A5%E5%90%8E%E6%B2%A1%E9%82%A3%E4%B9%88%E9%87%8D%E8%A6%81%E4%BA%86)
 1. [美国公布月球基地建设路线图](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E5%85%AC%E5%B8%83%E6%9C%88%E7%90%83%E5%9F%BA%E5%9C%B0%E5%BB%BA%E8%AE%BE%E8%B7%AF%E7%BA%BF%E5%9B%BE)
 1. [小米一季度净利润61亿元](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3%E4%B8%80%E5%AD%A3%E5%BA%A6%E5%87%80%E5%88%A9%E6%B6%A661%E4%BA%BF%E5%85%83)
