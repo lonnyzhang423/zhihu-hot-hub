@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-05-31 16:56:02 +0800`
+`更新时间：2026-05-31 19:03:57 +0800`
 
 ## 热门搜索
 
@@ -21,7 +21,6 @@
 1. [美以袭击伊朗](https://www.zhihu.com/search?q=%E7%BE%8E%E4%BB%A5%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97)
 1. [伊朗会不会成为下一个伊拉克](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E4%BC%9A%E4%B8%8D%E4%BC%9A%E6%88%90%E4%B8%BA%E4%B8%8B%E4%B8%80%E4%B8%AA%E4%BC%8A%E6%8B%89%E5%85%8B)
 1. [速览中东危局40小时](https://www.zhihu.com/search?q=%E9%80%9F%E8%A7%88%E4%B8%AD%E4%B8%9C%E5%8D%B1%E5%B1%8040%E5%B0%8F%E6%97%B6)
-1. [日本本州东部6.5级地震](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E6%9C%AC%E5%B7%9E%E4%B8%9C%E9%83%A86.5%E7%BA%A7%E5%9C%B0%E9%9C%87)
 1. [711门店广告夯爆了写成劣爆了](https://www.zhihu.com/search?q=711%E9%97%A8%E5%BA%97%E5%B9%BF%E5%91%8A%E5%A4%AF%E7%88%86%E4%BA%86%E5%86%99%E6%88%90%E5%8A%A3%E7%88%86%E4%BA%86)
 1. [「碳水脸」说法引争议](https://www.zhihu.com/search?q=%E3%80%8C%E7%A2%B3%E6%B0%B4%E8%84%B8%E3%80%8D%E8%AF%B4%E6%B3%95%E5%BC%95%E4%BA%89%E8%AE%AE)
 1. [全球100个最热城市印度占98个](https://www.zhihu.com/search?q=%E5%85%A8%E7%90%83100%E4%B8%AA%E6%9C%80%E7%83%AD%E5%9F%8E%E5%B8%82%E5%8D%B0%E5%BA%A6%E5%8D%A098%E4%B8%AA)
