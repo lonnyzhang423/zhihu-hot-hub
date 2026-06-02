@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-06-02 06:56:34 +0800`
+`更新时间：2026-06-02 08:08:09 +0800`
 
 ## 热门搜索
 
@@ -36,9 +36,9 @@
 1. [59岁梁实第30次参加高考](https://www.zhihu.com/search?q=59%E5%B2%81%E6%A2%81%E5%AE%9E%E7%AC%AC30%E6%AC%A1%E5%8F%82%E5%8A%A0%E9%AB%98%E8%80%83)
 1. [日本寿司郎抽检十个盘子十个脏](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E5%AF%BF%E5%8F%B8%E9%83%8E%E6%8A%BD%E6%A3%80%E5%8D%81%E4%B8%AA%E7%9B%98%E5%AD%90%E5%8D%81%E4%B8%AA%E8%84%8F)
 1. [李斌回应车越做越大：毛利更高](https://www.zhihu.com/search?q=%E6%9D%8E%E6%96%8C%E5%9B%9E%E5%BA%94%E8%BD%A6%E8%B6%8A%E5%81%9A%E8%B6%8A%E5%A4%A7%EF%BC%9A%E6%AF%9B%E5%88%A9%E6%9B%B4%E9%AB%98)
-1. [钱学森从未说过「人再笨还学不会微积分吗」](https://www.zhihu.com/search?q=%E9%92%B1%E5%AD%A6%E6%A3%AE%E4%BB%8E%E6%9C%AA%E8%AF%B4%E8%BF%87%E3%80%8C%E4%BA%BA%E5%86%8D%E7%AC%A8%E8%BF%98%E5%AD%A6%E4%B8%8D%E4%BC%9A%E5%BE%AE%E7%A7%AF%E5%88%86%E5%90%97%E3%80%8D)
 1. [专家：一生最好只减肥一次](https://www.zhihu.com/search?q=%E4%B8%93%E5%AE%B6%EF%BC%9A%E4%B8%80%E7%94%9F%E6%9C%80%E5%A5%BD%E5%8F%AA%E5%87%8F%E8%82%A5%E4%B8%80%E6%AC%A1)
 1. [张雪机车阿拉贡站首回合位列第8](https://www.zhihu.com/search?q=%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E9%98%BF%E6%8B%89%E8%B4%A1%E7%AB%99%E9%A6%96%E5%9B%9E%E5%90%88%E4%BD%8D%E5%88%97%E7%AC%AC8)
+1. [鞠萍姐姐 6 月 1 日正式退休](https://www.zhihu.com/search?q=%E9%9E%A0%E8%90%8D%E5%A7%90%E5%A7%90%206%20%E6%9C%88%201%20%E6%97%A5%E6%AD%A3%E5%BC%8F%E9%80%80%E4%BC%91)
 
 ## 热门话题
 
