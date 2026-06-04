@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-06-05 05:47:49 +0800`
+`更新时间：2026-06-05 07:15:02 +0800`
 
 ## 热门搜索
 
@@ -25,7 +25,6 @@
 1. [英伟达发布RTX Spark芯片](https://www.zhihu.com/search?q=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%8F%91%E5%B8%83RTX%20Spark%E8%8A%AF%E7%89%87)
 1. [「崩老头」现象](https://www.zhihu.com/search?q=%E3%80%8C%E5%B4%A9%E8%80%81%E5%A4%B4%E3%80%8D%E7%8E%B0%E8%B1%A1)
 1. [AL0:3WE](https://www.zhihu.com/search?q=AL0%3A3WE)
-1. [大厂又曝断指计划](https://www.zhihu.com/search?q=%E5%A4%A7%E5%8E%82%E5%8F%88%E6%9B%9D%E6%96%AD%E6%8C%87%E8%AE%A1%E5%88%92)
 1. [瑞幸把 HelloKitty 写成 HeeloKitty](https://www.zhihu.com/search?q=%E7%91%9E%E5%B9%B8%E6%8A%8A%20HelloKitty%20%E5%86%99%E6%88%90%20HeeloKitty)
 1. [库里签约李宁](https://www.zhihu.com/search?q=%E5%BA%93%E9%87%8C%E7%AD%BE%E7%BA%A6%E6%9D%8E%E5%AE%81)
 1. [王楚钦任国乒男队队长](https://www.zhihu.com/search?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E4%BB%BB%E5%9B%BD%E4%B9%92%E7%94%B7%E9%98%9F%E9%98%9F%E9%95%BF)
@@ -44,6 +43,7 @@
 1. [高考穿什么颜色衣服](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E7%A9%BF%E4%BB%80%E4%B9%88%E9%A2%9C%E8%89%B2%E8%A1%A3%E6%9C%8D)
 1. [高考食谱](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E9%A3%9F%E8%B0%B1)
 1. [高考期间三天食谱](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E6%9C%9F%E9%97%B4%E4%B8%89%E5%A4%A9%E9%A3%9F%E8%B0%B1)
+1. [毕业礼物](https://www.zhihu.com/search?q=%E6%AF%95%E4%B8%9A%E7%A4%BC%E7%89%A9)
 
 ## 热门话题
 
