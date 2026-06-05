@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-06-05 10:34:56 +0800`
+`更新时间：2026-06-05 14:59:15 +0800`
 
 ## 热门搜索
 
@@ -26,10 +26,8 @@
 1. [「崩老头」现象](https://www.zhihu.com/search?q=%E3%80%8C%E5%B4%A9%E8%80%81%E5%A4%B4%E3%80%8D%E7%8E%B0%E8%B1%A1)
 1. [AL0:3WE](https://www.zhihu.com/search?q=AL0%3A3WE)
 1. [库里签约李宁](https://www.zhihu.com/search?q=%E5%BA%93%E9%87%8C%E7%AD%BE%E7%BA%A6%E6%9D%8E%E5%AE%81)
-1. [王楚钦任国乒男队队长](https://www.zhihu.com/search?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%E4%BB%BB%E5%9B%BD%E4%B9%92%E7%94%B7%E9%98%9F%E9%98%9F%E9%95%BF)
 1. [纪录片《迈克尔·杰克逊：判决》遭抵制](https://www.zhihu.com/search?q=%E7%BA%AA%E5%BD%95%E7%89%87%E3%80%8A%E8%BF%88%E5%85%8B%E5%B0%94%C2%B7%E6%9D%B0%E5%85%8B%E9%80%8A%EF%BC%9A%E5%88%A4%E5%86%B3%E3%80%8B%E9%81%AD%E6%8A%B5%E5%88%B6)
 1. [官方通报女大学生被骗入戒网瘾学校](https://www.zhihu.com/search?q=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%A5%B3%E5%A4%A7%E5%AD%A6%E7%94%9F%E8%A2%AB%E9%AA%97%E5%85%A5%E6%88%92%E7%BD%91%E7%98%BE%E5%AD%A6%E6%A0%A1)
-1. [咖啡戒断致周末头痛呕吐](https://www.zhihu.com/search?q=%E5%92%96%E5%95%A1%E6%88%92%E6%96%AD%E8%87%B4%E5%91%A8%E6%9C%AB%E5%A4%B4%E7%97%9B%E5%91%95%E5%90%90)
 1. [高考心态怎么调整](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E5%BF%83%E6%80%81%E6%80%8E%E4%B9%88%E8%B0%83%E6%95%B4)
 1. [心态崩了怎么调整](https://www.zhihu.com/search?q=%E5%BF%83%E6%80%81%E5%B4%A9%E4%BA%86%E6%80%8E%E4%B9%88%E8%B0%83%E6%95%B4)
 1. [高考前焦虑怎么调整](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E5%89%8D%E7%84%A6%E8%99%91%E6%80%8E%E4%B9%88%E8%B0%83%E6%95%B4)
@@ -44,6 +42,8 @@
 1. [高考期间三天食谱](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E6%9C%9F%E9%97%B4%E4%B8%89%E5%A4%A9%E9%A3%9F%E8%B0%B1)
 1. [毕业礼物](https://www.zhihu.com/search?q=%E6%AF%95%E4%B8%9A%E7%A4%BC%E7%89%A9)
 1. [高考礼物](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E7%A4%BC%E7%89%A9)
+1. [高考玄学](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E7%8E%84%E5%AD%A6)
+1. [如何让考试超常发挥的玄学](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AE%A9%E8%80%83%E8%AF%95%E8%B6%85%E5%B8%B8%E5%8F%91%E6%8C%A5%E7%9A%84%E7%8E%84%E5%AD%A6)
 
 ## 热门话题
 
