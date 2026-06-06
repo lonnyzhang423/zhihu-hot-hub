@@ -11,12 +11,13 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-06-06 11:41:22 +0800`
+`更新时间：2026-06-06 14:47:00 +0800`
 
 ## 热门搜索
 
-1. [俄方提出停战条件](https://www.zhihu.com/search?q=%E4%BF%84%E6%96%B9%E6%8F%90%E5%87%BA%E5%81%9C%E6%88%98%E6%9D%A1%E4%BB%B6)
-1. [梁靖崑谈如何与王楚钦带好队伍](https://www.zhihu.com/search?q=%E6%A2%81%E9%9D%96%E5%B4%91%E8%B0%88%E5%A6%82%E4%BD%95%E4%B8%8E%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%B8%A6%E5%A5%BD%E9%98%9F%E4%BC%8D)
+1. [今日芒种](https://www.zhihu.com/search?q=%E4%BB%8A%E6%97%A5%E8%8A%92%E7%A7%8D)
+1. [错怪孩子需要道歉吗](https://www.zhihu.com/search?q=%E9%94%99%E6%80%AA%E5%AD%A9%E5%AD%90%E9%9C%80%E8%A6%81%E9%81%93%E6%AD%89%E5%90%97)
+1. [美股三大指数集体收跌](https://www.zhihu.com/search?q=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E6%94%B6%E8%B7%8C)
 1. [你看过最感动的短篇漫画是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9C%8B%E8%BF%87%E6%9C%80%E6%84%9F%E5%8A%A8%E7%9A%84%E7%9F%AD%E7%AF%87%E6%BC%AB%E7%94%BB%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [为什么人不能靠意志力戒毒](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BA%BA%E4%B8%8D%E8%83%BD%E9%9D%A0%E6%84%8F%E5%BF%97%E5%8A%9B%E6%88%92%E6%AF%92)
 1. [高考进入倒计时](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E8%BF%9B%E5%85%A5%E5%80%92%E8%AE%A1%E6%97%B6)
@@ -35,6 +36,7 @@
 1. [认知水平高的人有什么特征](https://www.zhihu.com/search?q=%E8%AE%A4%E7%9F%A5%E6%B0%B4%E5%B9%B3%E9%AB%98%E7%9A%84%E4%BA%BA%E6%9C%89%E4%BB%80%E4%B9%88%E7%89%B9%E5%BE%81)
 1. [手工作品真的卖不出去吗](https://www.zhihu.com/search?q=%E6%89%8B%E5%B7%A5%E4%BD%9C%E5%93%81%E7%9C%9F%E7%9A%84%E5%8D%96%E4%B8%8D%E5%87%BA%E5%8E%BB%E5%90%97)
 1. [对25岁的年轻人有哪些忠告](https://www.zhihu.com/search?q=%E5%AF%B925%E5%B2%81%E7%9A%84%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%9C%89%E5%93%AA%E4%BA%9B%E5%BF%A0%E5%91%8A)
+1. [马刺vs尼克斯](https://www.zhihu.com/search?q=%E9%A9%AC%E5%88%BAvs%E5%B0%BC%E5%85%8B%E6%96%AF)
 1. [住家保姆为什么总干不长](https://www.zhihu.com/search?q=%E4%BD%8F%E5%AE%B6%E4%BF%9D%E5%A7%86%E4%B8%BA%E4%BB%80%E4%B9%88%E6%80%BB%E5%B9%B2%E4%B8%8D%E9%95%BF)
 1. [如何看待西安市的前景](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E8%A5%BF%E5%AE%89%E5%B8%82%E7%9A%84%E5%89%8D%E6%99%AF)
 1. [华为智驾在业界是什么水平](https://www.zhihu.com/search?q=%E5%8D%8E%E4%B8%BA%E6%99%BA%E9%A9%BE%E5%9C%A8%E4%B8%9A%E7%95%8C%E6%98%AF%E4%BB%80%E4%B9%88%E6%B0%B4%E5%B9%B3)
@@ -42,7 +44,6 @@
 1. [如何看待非常固执的人](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E9%9D%9E%E5%B8%B8%E5%9B%BA%E6%89%A7%E7%9A%84%E4%BA%BA)
 1. [什么才是真正解决问题的能力](https://www.zhihu.com/search?q=%E4%BB%80%E4%B9%88%E6%89%8D%E6%98%AF%E7%9C%9F%E6%AD%A3%E8%A7%A3%E5%86%B3%E9%97%AE%E9%A2%98%E7%9A%84%E8%83%BD%E5%8A%9B)
 1. [如何评价电影给阿嬷的情书](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E7%94%B5%E5%BD%B1%E7%BB%99%E9%98%BF%E5%AC%B7%E7%9A%84%E6%83%85%E4%B9%A6)
-1. [普通人要Codex有什么用](https://www.zhihu.com/search?q=%E6%99%AE%E9%80%9A%E4%BA%BA%E8%A6%81Codex%E6%9C%89%E4%BB%80%E4%B9%88%E7%94%A8)
 
 ## 热门话题
 
