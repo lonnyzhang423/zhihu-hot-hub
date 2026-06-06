@@ -11,12 +11,13 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-06-06 17:19:00 +0800`
+`更新时间：2026-06-06 19:17:54 +0800`
 
 ## 热门搜索
 
-1. [2188元一碗面日均卖出几十碗](https://www.zhihu.com/search?q=2188%E5%85%83%E4%B8%80%E7%A2%97%E9%9D%A2%E6%97%A5%E5%9D%87%E5%8D%96%E5%87%BA%E5%87%A0%E5%8D%81%E7%A2%97)
-1. [戴尔科技股价](https://www.zhihu.com/search?q=%E6%88%B4%E5%B0%94%E7%A7%91%E6%8A%80%E8%82%A1%E4%BB%B7)
+1. [今日芒种](https://www.zhihu.com/search?q=%E4%BB%8A%E6%97%A5%E8%8A%92%E7%A7%8D)
+1. [错怪孩子需要道歉吗](https://www.zhihu.com/search?q=%E9%94%99%E6%80%AA%E5%AD%A9%E5%AD%90%E9%9C%80%E8%A6%81%E9%81%93%E6%AD%89%E5%90%97)
+1. [美股三大指数集体收跌](https://www.zhihu.com/search?q=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E6%94%B6%E8%B7%8C)
 1. [你看过最感动的短篇漫画是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9C%8B%E8%BF%87%E6%9C%80%E6%84%9F%E5%8A%A8%E7%9A%84%E7%9F%AD%E7%AF%87%E6%BC%AB%E7%94%BB%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [为什么人不能靠意志力戒毒](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BA%BA%E4%B8%8D%E8%83%BD%E9%9D%A0%E6%84%8F%E5%BF%97%E5%8A%9B%E6%88%92%E6%AF%92)
 1. [高考进入倒计时](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E8%BF%9B%E5%85%A5%E5%80%92%E8%AE%A1%E6%97%B6)
