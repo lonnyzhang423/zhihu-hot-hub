@@ -11,12 +11,13 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-06-07 21:23:13 +0800`
+`更新时间：2026-06-07 23:19:05 +0800`
 
 ## 热门搜索
 
 1. [今日芒种](https://www.zhihu.com/search?q=%E4%BB%8A%E6%97%A5%E8%8A%92%E7%A7%8D)
 1. [错怪孩子需要道歉吗](https://www.zhihu.com/search?q=%E9%94%99%E6%80%AA%E5%AD%A9%E5%AD%90%E9%9C%80%E8%A6%81%E9%81%93%E6%AD%89%E5%90%97)
+1. [浪姐四公](https://www.zhihu.com/search?q=%E6%B5%AA%E5%A7%90%E5%9B%9B%E5%85%AC)
 1. [你看过最感动的短篇漫画是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9C%8B%E8%BF%87%E6%9C%80%E6%84%9F%E5%8A%A8%E7%9A%84%E7%9F%AD%E7%AF%87%E6%BC%AB%E7%94%BB%E6%98%AF%E4%BB%80%E4%B9%88)
 1. [为什么人不能靠意志力戒毒](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BA%BA%E4%B8%8D%E8%83%BD%E9%9D%A0%E6%84%8F%E5%BF%97%E5%8A%9B%E6%88%92%E6%AF%92)
 1. [高考加油](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E5%8A%A0%E6%B2%B9)
@@ -42,7 +43,6 @@
 1. [速览中东危局40小时](https://www.zhihu.com/search?q=%E9%80%9F%E8%A7%88%E4%B8%AD%E4%B8%9C%E5%8D%B1%E5%B1%8040%E5%B0%8F%E6%97%B6)
 1. [如何看待非常固执的人](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E9%9D%9E%E5%B8%B8%E5%9B%BA%E6%89%A7%E7%9A%84%E4%BA%BA)
 1. [什么才是真正解决问题的能力](https://www.zhihu.com/search?q=%E4%BB%80%E4%B9%88%E6%89%8D%E6%98%AF%E7%9C%9F%E6%AD%A3%E8%A7%A3%E5%86%B3%E9%97%AE%E9%A2%98%E7%9A%84%E8%83%BD%E5%8A%9B)
-1. [如何评价电影给阿嬷的情书](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E7%94%B5%E5%BD%B1%E7%BB%99%E9%98%BF%E5%AC%B7%E7%9A%84%E6%83%85%E4%B9%A6)
 
 ## 热门话题
 
