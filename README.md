@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-06-08 08:16:59 +0800`
+`更新时间：2026-06-08 13:58:24 +0800`
 
 ## 热门搜索
 
@@ -42,7 +42,6 @@
 1. [伊朗会不会成为下一个伊拉克](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E4%BC%9A%E4%B8%8D%E4%BC%9A%E6%88%90%E4%B8%BA%E4%B8%8B%E4%B8%80%E4%B8%AA%E4%BC%8A%E6%8B%89%E5%85%8B)
 1. [速览中东危局40小时](https://www.zhihu.com/search?q=%E9%80%9F%E8%A7%88%E4%B8%AD%E4%B8%9C%E5%8D%B1%E5%B1%8040%E5%B0%8F%E6%97%B6)
 1. [如何看待非常固执的人](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E9%9D%9E%E5%B8%B8%E5%9B%BA%E6%89%A7%E7%9A%84%E4%BA%BA)
-1. [什么才是真正解决问题的能力](https://www.zhihu.com/search?q=%E4%BB%80%E4%B9%88%E6%89%8D%E6%98%AF%E7%9C%9F%E6%AD%A3%E8%A7%A3%E5%86%B3%E9%97%AE%E9%A2%98%E7%9A%84%E8%83%BD%E5%8A%9B)
 
 ## 热门话题
 
