@@ -11,14 +11,15 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-06-09 07:17:12 +0800`
+`更新时间：2026-06-09 12:10:50 +0800`
 
 ## 热门搜索
 
-1. [A股](https://www.zhihu.com/search?q=A%E8%82%A1)
-1. [TES战胜WE](https://www.zhihu.com/search?q=TES%E6%88%98%E8%83%9CWE)
+1. [2026江西高考语文](https://www.zhihu.com/search?q=2026%E6%B1%9F%E8%A5%BF%E9%AB%98%E8%80%83%E8%AF%AD%E6%96%87)
+1. [韩国游客暑期涌向中国](https://www.zhihu.com/search?q=%E9%9F%A9%E5%9B%BD%E6%B8%B8%E5%AE%A2%E6%9A%91%E6%9C%9F%E6%B6%8C%E5%90%91%E4%B8%AD%E5%9B%BD)
 1. [浪姐四公](https://www.zhihu.com/search?q=%E6%B5%AA%E5%A7%90%E5%9B%9B%E5%85%AC)
 1. [高考注意事项](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9)
+1. [高考化学](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E5%8C%96%E5%AD%A6)
 1. [BLG战胜JDG](https://www.zhihu.com/search?q=BLG%E6%88%98%E8%83%9CJDG)
 1. [BLG 1:3 不敌 WE](https://www.zhihu.com/search?q=BLG%201%3A3%20%E4%B8%8D%E6%95%8C%20WE)
 1. [高考时间](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E6%97%B6%E9%97%B4)
@@ -26,7 +27,6 @@
 1. [监考时怎么打发时间](https://www.zhihu.com/search?q=%E7%9B%91%E8%80%83%E6%97%B6%E6%80%8E%E4%B9%88%E6%89%93%E5%8F%91%E6%97%B6%E9%97%B4)
 1. [高考押题](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E6%8A%BC%E9%A2%98)
 1. [地理答题模板](https://www.zhihu.com/search?q=%E5%9C%B0%E7%90%86%E7%AD%94%E9%A2%98%E6%A8%A1%E6%9D%BF)
-1. [政治高中大题答题模板](https://www.zhihu.com/search?q=%E6%94%BF%E6%B2%BB%E9%AB%98%E4%B8%AD%E5%A4%A7%E9%A2%98%E7%AD%94%E9%A2%98%E6%A8%A1%E6%9D%BF)
 1. [SpaceX被曝IPO定价135美元](https://www.zhihu.com/search?q=SpaceX%E8%A2%AB%E6%9B%9DIPO%E5%AE%9A%E4%BB%B7135%E7%BE%8E%E5%85%83)
 1. [2026 高考](https://www.zhihu.com/search?q=2026%20%E9%AB%98%E8%80%83)
 1. [2026高考数学](https://www.zhihu.com/search?q=2026%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6)
