@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-06-11 18:07:28 +0800`
+`更新时间：2026-06-11 22:30:22 +0800`
 
 ## 热门搜索
 
 1. [任天堂直面会](https://www.zhihu.com/search?q=%E4%BB%BB%E5%A4%A9%E5%A0%82%E7%9B%B4%E9%9D%A2%E4%BC%9A)
+1. [美股三大指数集体收跌](https://www.zhihu.com/search?q=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E6%94%B6%E8%B7%8C)
 1. [人到中年读书还有意义吗](https://www.zhihu.com/search?q=%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E8%AF%BB%E4%B9%A6%E8%BF%98%E6%9C%89%E6%84%8F%E4%B9%89%E5%90%97)
 1. [伊朗局势](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF)
 1. [以色列宣布袭击伊朗](https://www.zhihu.com/search?q=%E4%BB%A5%E8%89%B2%E5%88%97%E5%AE%A3%E5%B8%83%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97)
@@ -35,13 +36,12 @@
 1. [重回高考那年还能做对几道](https://www.zhihu.com/search?q=%E9%87%8D%E5%9B%9E%E9%AB%98%E8%80%83%E9%82%A3%E5%B9%B4%E8%BF%98%E8%83%BD%E5%81%9A%E5%AF%B9%E5%87%A0%E9%81%93)
 1. [2026 高考加油](https://www.zhihu.com/search?q=2026%20%E9%AB%98%E8%80%83%E5%8A%A0%E6%B2%B9)
 1. [2026 高考数学](https://www.zhihu.com/search?q=2026%20%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6)
+1. [2026 高考数学新课标 I 卷](https://www.zhihu.com/search?q=2026%20%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E6%96%B0%E8%AF%BE%E6%A0%87%20I%20%E5%8D%B7)
 1. [2026 北京高考数学](https://www.zhihu.com/search?q=2026%20%E5%8C%97%E4%BA%AC%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6)
-1. [​小米SU7电吸门夹伤车主拇指致骨折](https://www.zhihu.com/search?q=%E2%80%8B%E5%B0%8F%E7%B1%B3SU7%E7%94%B5%E5%90%B8%E9%97%A8%E5%A4%B9%E4%BC%A4%E8%BD%A6%E4%B8%BB%E6%8B%87%E6%8C%87%E8%87%B4%E9%AA%A8%E6%8A%98)
 1. [高考数学难不难](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E6%95%B0%E5%AD%A6%E9%9A%BE%E4%B8%8D%E9%9A%BE)
+1. [黄仁勋自嘲亚洲家庭关系](https://www.zhihu.com/search?q=%E9%BB%84%E4%BB%81%E5%8B%8B%E8%87%AA%E5%98%B2%E4%BA%9A%E6%B4%B2%E5%AE%B6%E5%BA%AD%E5%85%B3%E7%B3%BB)
 1. [程序员自费购买AI Token上班](https://www.zhihu.com/search?q=%E7%A8%8B%E5%BA%8F%E5%91%98%E8%87%AA%E8%B4%B9%E8%B4%AD%E4%B9%B0AI%20Token%E4%B8%8A%E7%8F%AD)
 1. [Gemini 北美大豆包](https://www.zhihu.com/search?q=Gemini%20%E5%8C%97%E7%BE%8E%E5%A4%A7%E8%B1%86%E5%8C%85)
-1. [市场监管总局约谈美宜佳总部](https://www.zhihu.com/search?q=%E5%B8%82%E5%9C%BA%E7%9B%91%E7%AE%A1%E6%80%BB%E5%B1%80%E7%BA%A6%E8%B0%88%E7%BE%8E%E5%AE%9C%E4%BD%B3%E6%80%BB%E9%83%A8)
-1. [网友吐槽大学行政老师](https://www.zhihu.com/search?q=%E7%BD%91%E5%8F%8B%E5%90%90%E6%A7%BD%E5%A4%A7%E5%AD%A6%E8%A1%8C%E6%94%BF%E8%80%81%E5%B8%88)
 
 ## 热门话题
 
