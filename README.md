@@ -11,12 +11,13 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-06-13 07:24:45 +0800`
+`更新时间：2026-06-13 12:25:33 +0800`
 
 ## 热门搜索
 
 1. [任天堂直面会](https://www.zhihu.com/search?q=%E4%BB%BB%E5%A4%A9%E5%A0%82%E7%9B%B4%E9%9D%A2%E4%BC%9A)
 1. [高考作文](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87)
+1. [英语四级](https://www.zhihu.com/search?q=%E8%8B%B1%E8%AF%AD%E5%9B%9B%E7%BA%A7)
 1. [HLE战胜T1](https://www.zhihu.com/search?q=HLE%E6%88%98%E8%83%9CT1)
 1. [伊朗计划彻底封锁霍尔木兹海峡](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E8%AE%A1%E5%88%92%E5%BD%BB%E5%BA%95%E5%B0%81%E9%94%81%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1)
 1. [2026 高考](https://www.zhihu.com/search?q=2026%20%E9%AB%98%E8%80%83)
@@ -35,10 +36,9 @@
 1. [张桂梅连续16年送考](https://www.zhihu.com/search?q=%E5%BC%A0%E6%A1%82%E6%A2%85%E8%BF%9E%E7%BB%AD16%E5%B9%B4%E9%80%81%E8%80%83)
 1. [昔日零分考生37岁再战高考](https://www.zhihu.com/search?q=%E6%98%94%E6%97%A5%E9%9B%B6%E5%88%86%E8%80%83%E7%94%9F37%E5%B2%81%E5%86%8D%E6%88%98%E9%AB%98%E8%80%83)
 1. [5月汽车销量前十已无燃油车](https://www.zhihu.com/search?q=5%E6%9C%88%E6%B1%BD%E8%BD%A6%E9%94%80%E9%87%8F%E5%89%8D%E5%8D%81%E5%B7%B2%E6%97%A0%E7%87%83%E6%B2%B9%E8%BD%A6)
-1. [护肤品致癌化学物质](https://www.zhihu.com/search?q=%E6%8A%A4%E8%82%A4%E5%93%81%E8%87%B4%E7%99%8C%E5%8C%96%E5%AD%A6%E7%89%A9%E8%B4%A8)
 1. [网络测评活动规范印发](https://www.zhihu.com/search?q=%E7%BD%91%E7%BB%9C%E6%B5%8B%E8%AF%84%E6%B4%BB%E5%8A%A8%E8%A7%84%E8%8C%83%E5%8D%B0%E5%8F%91)
 1. [钉钉前副总裁和老员工网上互喷](https://www.zhihu.com/search?q=%E9%92%89%E9%92%89%E5%89%8D%E5%89%AF%E6%80%BB%E8%A3%81%E5%92%8C%E8%80%81%E5%91%98%E5%B7%A5%E7%BD%91%E4%B8%8A%E4%BA%92%E5%96%B7)
-1. [蒙淇淇曝白鹿《莫离》换编剧](https://www.zhihu.com/search?q=%E8%92%99%E6%B7%87%E6%B7%87%E6%9B%9D%E7%99%BD%E9%B9%BF%E3%80%8A%E8%8E%AB%E7%A6%BB%E3%80%8B%E6%8D%A2%E7%BC%96%E5%89%A7)
+1. [谢娜演唱会官宣全国巡演引争议](https://www.zhihu.com/search?q=%E8%B0%A2%E5%A8%9C%E6%BC%94%E5%94%B1%E4%BC%9A%E5%AE%98%E5%AE%A3%E5%85%A8%E5%9B%BD%E5%B7%A1%E6%BC%94%E5%BC%95%E4%BA%89%E8%AE%AE)
 
 ## 热门话题
 
