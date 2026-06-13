@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-06-13 19:48:03 +0800`
+`更新时间：2026-06-13 21:27:25 +0800`
 
 ## 热门搜索
 
@@ -27,7 +27,6 @@
 1. [2026高考生物](https://www.zhihu.com/search?q=2026%E9%AB%98%E8%80%83%E7%94%9F%E7%89%A9)
 1. [重回高考那年还能做对几道](https://www.zhihu.com/search?q=%E9%87%8D%E5%9B%9E%E9%AB%98%E8%80%83%E9%82%A3%E5%B9%B4%E8%BF%98%E8%83%BD%E5%81%9A%E5%AF%B9%E5%87%A0%E9%81%93)
 1. [张慧雯淘汰](https://www.zhihu.com/search?q=%E5%BC%A0%E6%85%A7%E9%9B%AF%E6%B7%98%E6%B1%B0)
-1. [膳魔师致 3 人失明](https://www.zhihu.com/search?q=%E8%86%B3%E9%AD%94%E5%B8%88%E8%87%B4%203%20%E4%BA%BA%E5%A4%B1%E6%98%8E)
 1. [张桂梅连续16年送考](https://www.zhihu.com/search?q=%E5%BC%A0%E6%A1%82%E6%A2%85%E8%BF%9E%E7%BB%AD16%E5%B9%B4%E9%80%81%E8%80%83)
 1. [昔日零分考生37岁再战高考](https://www.zhihu.com/search?q=%E6%98%94%E6%97%A5%E9%9B%B6%E5%88%86%E8%80%83%E7%94%9F37%E5%B2%81%E5%86%8D%E6%88%98%E9%AB%98%E8%80%83)
 1. [5月汽车销量前十已无燃油车](https://www.zhihu.com/search?q=5%E6%9C%88%E6%B1%BD%E8%BD%A6%E9%94%80%E9%87%8F%E5%89%8D%E5%8D%81%E5%B7%B2%E6%97%A0%E7%87%83%E6%B2%B9%E8%BD%A6)
