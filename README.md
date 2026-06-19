@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-06-19 18:49:10 +0800`
+`更新时间：2026-06-19 22:16:06 +0800`
 
 ## 热门搜索
 
@@ -28,10 +28,7 @@
 1. [携程被罚款1000万元](https://www.zhihu.com/search?q=%E6%90%BA%E7%A8%8B%E8%A2%AB%E7%BD%9A%E6%AC%BE1000%E4%B8%87%E5%85%83)
 1. [国乒单打全军覆没](https://www.zhihu.com/search?q=%E5%9B%BD%E4%B9%92%E5%8D%95%E6%89%93%E5%85%A8%E5%86%9B%E8%A6%86%E6%B2%A1)
 1. [雷军现身武汉过早吃热干面面窝](https://www.zhihu.com/search?q=%E9%9B%B7%E5%86%9B%E7%8E%B0%E8%BA%AB%E6%AD%A6%E6%B1%89%E8%BF%87%E6%97%A9%E5%90%83%E7%83%AD%E5%B9%B2%E9%9D%A2%E9%9D%A2%E7%AA%9D)
-1. [多所双一流明确扩招计划](https://www.zhihu.com/search?q=%E5%A4%9A%E6%89%80%E5%8F%8C%E4%B8%80%E6%B5%81%E6%98%8E%E7%A1%AE%E6%89%A9%E6%8B%9B%E8%AE%A1%E5%88%92)
 1. [马斯克称SpaceX2030年或实现万亿营收](https://www.zhihu.com/search?q=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A7%B0SpaceX2030%E5%B9%B4%E6%88%96%E5%AE%9E%E7%8E%B0%E4%B8%87%E4%BA%BF%E8%90%A5%E6%94%B6)
-1. [第38届大众电影百花奖初评入围名单](https://www.zhihu.com/search?q=%E7%AC%AC38%E5%B1%8A%E5%A4%A7%E4%BC%97%E7%94%B5%E5%BD%B1%E7%99%BE%E8%8A%B1%E5%A5%96%E5%88%9D%E8%AF%84%E5%85%A5%E5%9B%B4%E5%90%8D%E5%8D%95)
-1. [沈腾未入围百花奖](https://www.zhihu.com/search?q=%E6%B2%88%E8%85%BE%E6%9C%AA%E5%85%A5%E5%9B%B4%E7%99%BE%E8%8A%B1%E5%A5%96)
 1. [腾讯大幅下调员工 AI Token 额度](https://www.zhihu.com/search?q=%E8%85%BE%E8%AE%AF%E5%A4%A7%E5%B9%85%E4%B8%8B%E8%B0%83%E5%91%98%E5%B7%A5%20AI%20Token%20%E9%A2%9D%E5%BA%A6)
 1. [歌手2026补位歌手官宣](https://www.zhihu.com/search?q=%E6%AD%8C%E6%89%8B2026%E8%A1%A5%E4%BD%8D%E6%AD%8C%E6%89%8B%E5%AE%98%E5%AE%A3)
 1. [3亿北斗工程现脆皮底座](https://www.zhihu.com/search?q=3%E4%BA%BF%E5%8C%97%E6%96%97%E5%B7%A5%E7%A8%8B%E7%8E%B0%E8%84%86%E7%9A%AE%E5%BA%95%E5%BA%A7)
