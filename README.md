@@ -11,11 +11,10 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-06-21 20:05:43 +0800`
+`更新时间：2026-06-21 23:06:53 +0800`
 
 ## 热门搜索
 
-1. [端午安康](https://www.zhihu.com/search?q=%E7%AB%AF%E5%8D%88%E5%AE%89%E5%BA%B7)
 1. [美联储宣布维持利率不变](https://www.zhihu.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8%E5%AE%A3%E5%B8%83%E7%BB%B4%E6%8C%81%E5%88%A9%E7%8E%87%E4%B8%8D%E5%8F%98)
 1. [梅西哭了](https://www.zhihu.com/search?q=%E6%A2%85%E8%A5%BF%E5%93%AD%E4%BA%86)
 1. [伊朗关闭霍尔木兹海峡](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%85%B3%E9%97%AD%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1)
@@ -37,6 +36,7 @@
 1. [双休和单休完全是两种人生](https://www.zhihu.com/search?q=%E5%8F%8C%E4%BC%91%E5%92%8C%E5%8D%95%E4%BC%91%E5%AE%8C%E5%85%A8%E6%98%AF%E4%B8%A4%E7%A7%8D%E4%BA%BA%E7%94%9F)
 1. [我国成功发射实践三十一号卫星](https://www.zhihu.com/search?q=%E6%88%91%E5%9B%BD%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84%E5%AE%9E%E8%B7%B5%E4%B8%89%E5%8D%81%E4%B8%80%E5%8F%B7%E5%8D%AB%E6%98%9F)
 1. [吴倩在读硕士](https://www.zhihu.com/search?q=%E5%90%B4%E5%80%A9%E5%9C%A8%E8%AF%BB%E7%A1%95%E5%A3%AB)
+1. [曾志伟夸成毅很努力有内涵](https://www.zhihu.com/search?q=%E6%9B%BE%E5%BF%97%E4%BC%9F%E5%A4%B8%E6%88%90%E6%AF%85%E5%BE%88%E5%8A%AA%E5%8A%9B%E6%9C%89%E5%86%85%E6%B6%B5)
 
 ## 热门话题
 
