@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-06-21 08:04:58 +0800`
+`更新时间：2026-06-21 13:53:24 +0800`
 
 ## 热门搜索
 
@@ -35,9 +35,10 @@
 1. [韩国散户卖股票爆买豪宅](https://www.zhihu.com/search?q=%E9%9F%A9%E5%9B%BD%E6%95%A3%E6%88%B7%E5%8D%96%E8%82%A1%E7%A5%A8%E7%88%86%E4%B9%B0%E8%B1%AA%E5%AE%85)
 1. [5万欧身价零封5亿欧豪门](https://www.zhihu.com/search?q=5%E4%B8%87%E6%AC%A7%E8%BA%AB%E4%BB%B7%E9%9B%B6%E5%B0%815%E4%BA%BF%E6%AC%A7%E8%B1%AA%E9%97%A8)
 1. [百花奖入围名单](https://www.zhihu.com/search?q=%E7%99%BE%E8%8A%B1%E5%A5%96%E5%85%A5%E5%9B%B4%E5%90%8D%E5%8D%95)
-1. [易立竞采访向佐](https://www.zhihu.com/search?q=%E6%98%93%E7%AB%8B%E7%AB%9E%E9%87%87%E8%AE%BF%E5%90%91%E4%BD%90)
 1. [於水谈 AI：不完美成就艺术](https://www.zhihu.com/search?q=%E6%96%BC%E6%B0%B4%E8%B0%88%20AI%EF%BC%9A%E4%B8%8D%E5%AE%8C%E7%BE%8E%E6%88%90%E5%B0%B1%E8%89%BA%E6%9C%AF)
 1. [你离开了家乡但你的胃没有](https://www.zhihu.com/search?q=%E4%BD%A0%E7%A6%BB%E5%BC%80%E4%BA%86%E5%AE%B6%E4%B9%A1%E4%BD%86%E4%BD%A0%E7%9A%84%E8%83%83%E6%B2%A1%E6%9C%89)
+1. [2万亿存款去哪儿了](https://www.zhihu.com/search?q=2%E4%B8%87%E4%BA%BF%E5%AD%98%E6%AC%BE%E5%8E%BB%E5%93%AA%E5%84%BF%E4%BA%86)
+1. [双休和单休完全是两种人生](https://www.zhihu.com/search?q=%E5%8F%8C%E4%BC%91%E5%92%8C%E5%8D%95%E4%BC%91%E5%AE%8C%E5%85%A8%E6%98%AF%E4%B8%A4%E7%A7%8D%E4%BA%BA%E7%94%9F)
 
 ## 热门话题
 
