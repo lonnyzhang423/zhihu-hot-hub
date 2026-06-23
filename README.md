@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-06-23 07:12:33 +0800`
+`更新时间：2026-06-23 10:26:55 +0800`
 
 ## 热门搜索
 
@@ -33,6 +33,7 @@
 1. [莫斯科遭无人机袭击](https://www.zhihu.com/search?q=%E8%8E%AB%E6%96%AF%E7%A7%91%E9%81%AD%E6%97%A0%E4%BA%BA%E6%9C%BA%E8%A2%AD%E5%87%BB)
 1. [伊朗足协正式投诉美国](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E8%B6%B3%E5%8D%8F%E6%AD%A3%E5%BC%8F%E6%8A%95%E8%AF%89%E7%BE%8E%E5%9B%BD)
 1. [纸尿裤报道专家称被迫签声明](https://www.zhihu.com/search?q=%E7%BA%B8%E5%B0%BF%E8%A3%A4%E6%8A%A5%E9%81%93%E4%B8%93%E5%AE%B6%E7%A7%B0%E8%A2%AB%E8%BF%AB%E7%AD%BE%E5%A3%B0%E6%98%8E)
+1. [小孩姐吐槽小米雷军武汉过早](https://www.zhihu.com/search?q=%E5%B0%8F%E5%AD%A9%E5%A7%90%E5%90%90%E6%A7%BD%E5%B0%8F%E7%B1%B3%E9%9B%B7%E5%86%9B%E6%AD%A6%E6%B1%89%E8%BF%87%E6%97%A9)
 
 ## 热门话题
 
