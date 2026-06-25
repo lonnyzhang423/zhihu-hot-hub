@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-06-25 07:59:33 +0800`
+`更新时间：2026-06-25 11:40:39 +0800`
 
 ## 热门搜索
 
-1. [河南高考出分](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8D%97%E9%AB%98%E8%80%83%E5%87%BA%E5%88%86)
-1. [上海高考查分](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86)
+1. [梅西说又拿下一场硬仗](https://www.zhihu.com/search?q=%E6%A2%85%E8%A5%BF%E8%AF%B4%E5%8F%88%E6%8B%BF%E4%B8%8B%E4%B8%80%E5%9C%BA%E7%A1%AC%E4%BB%97)
+1. [别想太多是最廉价的安慰](https://www.zhihu.com/search?q=%E5%88%AB%E6%83%B3%E5%A4%AA%E5%A4%9A%E6%98%AF%E6%9C%80%E5%BB%89%E4%BB%B7%E7%9A%84%E5%AE%89%E6%85%B0)
 1. [广东高考分数线](https://www.zhihu.com/search?q=%E5%B9%BF%E4%B8%9C%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF)
 1. [高考分数线](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF)
 1. [福建高考查分](https://www.zhihu.com/search?q=%E7%A6%8F%E5%BB%BA%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86)
