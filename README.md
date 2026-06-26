@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-06-26 10:32:00 +0800`
+`更新时间：2026-06-26 14:44:14 +0800`
 
 ## 热门搜索
 
@@ -25,7 +25,6 @@
 1. [福建高考出分](https://www.zhihu.com/search?q=%E7%A6%8F%E5%BB%BA%E9%AB%98%E8%80%83%E5%87%BA%E5%88%86)
 1. [重庆高考出分](https://www.zhihu.com/search?q=%E9%87%8D%E5%BA%86%E9%AB%98%E8%80%83%E5%87%BA%E5%88%86)
 1. [黑龙江高考出分](https://www.zhihu.com/search?q=%E9%BB%91%E9%BE%99%E6%B1%9F%E9%AB%98%E8%80%83%E5%87%BA%E5%88%86)
-1. [江苏高考出分](https://www.zhihu.com/search?q=%E6%B1%9F%E8%8B%8F%E9%AB%98%E8%80%83%E5%87%BA%E5%88%86)
 1. [steam崩了](https://www.zhihu.com/search?q=steam%E5%B4%A9%E4%BA%86)
 1. [伊朗局势](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF)
 1. [以色列宣布袭击伊朗](https://www.zhihu.com/search?q=%E4%BB%A5%E8%89%B2%E5%88%97%E5%AE%A3%E5%B8%83%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97)
@@ -33,9 +32,9 @@
 1. [伊朗会不会成为下一个伊拉克](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E4%BC%9A%E4%B8%8D%E4%BC%9A%E6%88%90%E4%B8%BA%E4%B8%8B%E4%B8%80%E4%B8%AA%E4%BC%8A%E6%8B%89%E5%85%8B)
 1. [速览中东危局40小时](https://www.zhihu.com/search?q=%E9%80%9F%E8%A7%88%E4%B8%AD%E4%B8%9C%E5%8D%B1%E5%B1%8040%E5%B0%8F%E6%97%B6)
 1. [云南昆明3.6级地震](https://www.zhihu.com/search?q=%E4%BA%91%E5%8D%97%E6%98%86%E6%98%8E3.6%E7%BA%A7%E5%9C%B0%E9%9C%87)
-1. [易立竞采访向佐](https://www.zhihu.com/search?q=%E6%98%93%E7%AB%8B%E7%AB%9E%E9%87%87%E8%AE%BF%E5%90%91%E4%BD%90)
-1. [部分电脑今年涨超 20%](https://www.zhihu.com/search?q=%E9%83%A8%E5%88%86%E7%94%B5%E8%84%91%E4%BB%8A%E5%B9%B4%E6%B6%A8%E8%B6%85%2020%25)
+1. [「崩老头」现象](https://www.zhihu.com/search?q=%E3%80%8C%E5%B4%A9%E8%80%81%E5%A4%B4%E3%80%8D%E7%8E%B0%E8%B1%A1)
 1. [牛New寿喜烧成北京排队王](https://www.zhihu.com/search?q=%E7%89%9BNew%E5%AF%BF%E5%96%9C%E7%83%A7%E6%88%90%E5%8C%97%E4%BA%AC%E6%8E%92%E9%98%9F%E7%8E%8B)
+1. [塔克拉玛干沙漠出现洪水](https://www.zhihu.com/search?q=%E5%A1%94%E5%85%8B%E6%8B%89%E7%8E%9B%E5%B9%B2%E6%B2%99%E6%BC%A0%E5%87%BA%E7%8E%B0%E6%B4%AA%E6%B0%B4)
 
 ## 热门话题
 
