@@ -11,30 +11,34 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-06-26 13:15:05 +0800`
+`更新时间：2026-06-26 17:40:48 +0800`
 
 ## 热门搜索
 
 1. [河南高考出分](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8D%97%E9%AB%98%E8%80%83%E5%87%BA%E5%88%86)
-1. [gta6](https://www.zhihu.com/search?q=gta6)
-1. [C罗帽子戏法](https://www.zhihu.com/search?q=C%E7%BD%97%E5%B8%BD%E5%AD%90%E6%88%8F%E6%B3%95)
-1. [什么是情绪价值](https://www.zhihu.com/search?q=%E4%BB%80%E4%B9%88%E6%98%AF%E6%83%85%E7%BB%AA%E4%BB%B7%E5%80%BC)
-1. [高考分数线](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF)
 1. [上海高考出分](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%E9%AB%98%E8%80%83%E5%87%BA%E5%88%86)
 1. [天津高考出分](https://www.zhihu.com/search?q=%E5%A4%A9%E6%B4%A5%E9%AB%98%E8%80%83%E5%87%BA%E5%88%86)
 1. [福建高考出分](https://www.zhihu.com/search?q=%E7%A6%8F%E5%BB%BA%E9%AB%98%E8%80%83%E5%87%BA%E5%88%86)
 1. [重庆高考出分](https://www.zhihu.com/search?q=%E9%87%8D%E5%BA%86%E9%AB%98%E8%80%83%E5%87%BA%E5%88%86)
 1. [黑龙江高考出分](https://www.zhihu.com/search?q=%E9%BB%91%E9%BE%99%E6%B1%9F%E9%AB%98%E8%80%83%E5%87%BA%E5%88%86)
-1. [江苏高考出分](https://www.zhihu.com/search?q=%E6%B1%9F%E8%8B%8F%E9%AB%98%E8%80%83%E5%87%BA%E5%88%86)
-1. [steam崩了](https://www.zhihu.com/search?q=steam%E5%B4%A9%E4%BA%86)
 1. [伊朗局势](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF)
 1. [以色列宣布袭击伊朗](https://www.zhihu.com/search?q=%E4%BB%A5%E8%89%B2%E5%88%97%E5%AE%A3%E5%B8%83%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97)
 1. [美以袭击伊朗](https://www.zhihu.com/search?q=%E7%BE%8E%E4%BB%A5%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97)
 1. [伊朗会不会成为下一个伊拉克](https://www.zhihu.com/search?q=%E4%BC%8A%E6%9C%97%E4%BC%9A%E4%B8%8D%E4%BC%9A%E6%88%90%E4%B8%BA%E4%B8%8B%E4%B8%80%E4%B8%AA%E4%BC%8A%E6%8B%89%E5%85%8B)
 1. [速览中东危局40小时](https://www.zhihu.com/search?q=%E9%80%9F%E8%A7%88%E4%B8%AD%E4%B8%9C%E5%8D%B1%E5%B1%8040%E5%B0%8F%E6%97%B6)
-1. [云南昆明3.6级地震](https://www.zhihu.com/search?q=%E4%BA%91%E5%8D%97%E6%98%86%E6%98%8E3.6%E7%BA%A7%E5%9C%B0%E9%9C%87)
 1. [「崩老头」现象](https://www.zhihu.com/search?q=%E3%80%8C%E5%B4%A9%E8%80%81%E5%A4%B4%E3%80%8D%E7%8E%B0%E8%B1%A1)
 1. [牛New寿喜烧成北京排队王](https://www.zhihu.com/search?q=%E7%89%9BNew%E5%AF%BF%E5%96%9C%E7%83%A7%E6%88%90%E5%8C%97%E4%BA%AC%E6%8E%92%E9%98%9F%E7%8E%8B)
+1. [Steam主机售价](https://www.zhihu.com/search?q=Steam%E4%B8%BB%E6%9C%BA%E5%94%AE%E4%BB%B7)
+1. [大陆电影行业现状](https://www.zhihu.com/search?q=%E5%A4%A7%E9%99%86%E7%94%B5%E5%BD%B1%E8%A1%8C%E4%B8%9A%E7%8E%B0%E7%8A%B6)
+1. [恋与深空新男主致大规模退游](https://www.zhihu.com/search?q=%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA%E6%96%B0%E7%94%B7%E4%B8%BB%E8%87%B4%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%80%80%E6%B8%B8)
+1. [韩红为《抓特务》宣传呼吁「走个面」](https://www.zhihu.com/search?q=%E9%9F%A9%E7%BA%A2%E4%B8%BA%E3%80%8A%E6%8A%93%E7%89%B9%E5%8A%A1%E3%80%8B%E5%AE%A3%E4%BC%A0%E5%91%BC%E5%90%81%E3%80%8C%E8%B5%B0%E4%B8%AA%E9%9D%A2%E3%80%8D)
+1. [马云阿里团建下田插秧](https://www.zhihu.com/search?q=%E9%A9%AC%E4%BA%91%E9%98%BF%E9%87%8C%E5%9B%A2%E5%BB%BA%E4%B8%8B%E7%94%B0%E6%8F%92%E7%A7%A7)
+1. [2026 高考成绩陆续公布](https://www.zhihu.com/search?q=2026%20%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9%E9%99%86%E7%BB%AD%E5%85%AC%E5%B8%83)
+1. [曝 OpenAI GPT-5.6 周四登场](https://www.zhihu.com/search?q=%E6%9B%9D%20OpenAI%20GPT-5.6%20%E5%91%A8%E5%9B%9B%E7%99%BB%E5%9C%BA)
+1. [2026 上海高考分数线](https://www.zhihu.com/search?q=2026%20%E4%B8%8A%E6%B5%B7%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF)
+1. [金价狂泻30%](https://www.zhihu.com/search?q=%E9%87%91%E4%BB%B7%E7%8B%82%E6%B3%BB30%25)
+1. [2026 天津高考分数线](https://www.zhihu.com/search?q=2026%20%E5%A4%A9%E6%B4%A5%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF)
+1. [在图书馆被紫外灯照 12 个小时](https://www.zhihu.com/search?q=%E5%9C%A8%E5%9B%BE%E4%B9%A6%E9%A6%86%E8%A2%AB%E7%B4%AB%E5%A4%96%E7%81%AF%E7%85%A7%2012%20%E4%B8%AA%E5%B0%8F%E6%97%B6)
 
 ## 热门话题
 
