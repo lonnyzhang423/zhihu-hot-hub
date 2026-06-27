@@ -11,12 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-06-27 19:21:00 +0800`
+`更新时间：2026-06-27 21:12:21 +0800`
 
 ## 热门搜索
 
-1. [河南高考出分](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8D%97%E9%AB%98%E8%80%83%E5%87%BA%E5%88%86)
-1. [广东高考分数线公布](https://www.zhihu.com/search?q=%E5%B9%BF%E4%B8%9C%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E5%85%AC%E5%B8%83)
+1. [记者质问韩国队是否食物中毒](https://www.zhihu.com/search?q=%E8%AE%B0%E8%80%85%E8%B4%A8%E9%97%AE%E9%9F%A9%E5%9B%BD%E9%98%9F%E6%98%AF%E5%90%A6%E9%A3%9F%E7%89%A9%E4%B8%AD%E6%AF%92)
 1. [四川高考分数线公布](https://www.zhihu.com/search?q=%E5%9B%9B%E5%B7%9D%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E5%85%AC%E5%B8%83)
 1. [山西高考分数线公布](https://www.zhihu.com/search?q=%E5%B1%B1%E8%A5%BF%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E5%85%AC%E5%B8%83)
 1. [北京高考分数线公布](https://www.zhihu.com/search?q=%E5%8C%97%E4%BA%AC%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E5%85%AC%E5%B8%83)
