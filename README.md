@@ -11,11 +11,10 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-06-28 17:22:15 +0800`
+`更新时间：2026-06-28 19:51:47 +0800`
 
 ## 热门搜索
 
-1. [河南高考出分](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8D%97%E9%AB%98%E8%80%83%E5%87%BA%E5%88%86)
 1. [广东高考分数线公布](https://www.zhihu.com/search?q=%E5%B9%BF%E4%B8%9C%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E5%85%AC%E5%B8%83)
 1. [四川高考分数线公布](https://www.zhihu.com/search?q=%E5%9B%9B%E5%B7%9D%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E5%85%AC%E5%B8%83)
 1. [山西高考分数线公布](https://www.zhihu.com/search?q=%E5%B1%B1%E8%A5%BF%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E7%BA%BF%E5%85%AC%E5%B8%83)
@@ -43,6 +42,7 @@
 1. [为什么成功人士都精力充沛](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%88%90%E5%8A%9F%E4%BA%BA%E5%A3%AB%E9%83%BD%E7%B2%BE%E5%8A%9B%E5%85%85%E6%B2%9B)
 1. [黄金下跌原因](https://www.zhihu.com/search?q=%E9%BB%84%E9%87%91%E4%B8%8B%E8%B7%8C%E5%8E%9F%E5%9B%A0)
 1. [为什么给阿嬤的情书动人心](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%BB%99%E9%98%BF%E5%AC%A4%E7%9A%84%E6%83%85%E4%B9%A6%E5%8A%A8%E4%BA%BA%E5%BF%83)
+1. [AI泡沫还能持续多久](https://www.zhihu.com/search?q=AI%E6%B3%A1%E6%B2%AB%E8%BF%98%E8%83%BD%E6%8C%81%E7%BB%AD%E5%A4%9A%E4%B9%85)
 
 ## 热门话题
 
