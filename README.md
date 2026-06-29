@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-06-29 19:19:19 +0800`
+`更新时间：2026-06-29 23:59:50 +0800`
 
 ## 热门搜索
 
@@ -40,6 +40,7 @@
 1. [黄仁勋为什么最近频繁个性出镜](https://www.zhihu.com/search?q=%E9%BB%84%E4%BB%81%E5%8B%8B%E4%B8%BA%E4%BB%80%E4%B9%88%E6%9C%80%E8%BF%91%E9%A2%91%E7%B9%81%E4%B8%AA%E6%80%A7%E5%87%BA%E9%95%9C)
 1. [庆祝建党105周年](https://www.zhihu.com/search?q=%E5%BA%86%E7%A5%9D%E5%BB%BA%E5%85%9A105%E5%91%A8%E5%B9%B4)
 1. [目前最有发展前景的工科专业](https://www.zhihu.com/search?q=%E7%9B%AE%E5%89%8D%E6%9C%80%E6%9C%89%E5%8F%91%E5%B1%95%E5%89%8D%E6%99%AF%E7%9A%84%E5%B7%A5%E7%A7%91%E4%B8%93%E4%B8%9A)
+1. [有哪些文字正在逐渐消失](https://www.zhihu.com/search?q=%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%87%E5%AD%97%E6%AD%A3%E5%9C%A8%E9%80%90%E6%B8%90%E6%B6%88%E5%A4%B1)
 
 ## 热门话题
 
