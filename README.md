@@ -11,13 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-07-01 00:16:48 +0800`
+`更新时间：2026-07-01 02:29:23 +0800`
 
 ## 热门搜索
 
 1. [高考数据通](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E6%95%B0%E6%8D%AE%E9%80%9A)
 1. [高考分数排名](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E6%8E%92%E5%90%8D)
-1. [OpenAI发布GPT-5.6系列模型](https://www.zhihu.com/search?q=OpenAI%E5%8F%91%E5%B8%83GPT-5.6%E7%B3%BB%E5%88%97%E6%A8%A1%E5%9E%8B)
 1. [热浪炙烤欧洲 多地打破高温纪录](https://www.zhihu.com/search?q=%E7%83%AD%E6%B5%AA%E7%82%99%E7%83%A4%E6%AC%A7%E6%B4%B2%20%E5%A4%9A%E5%9C%B0%E6%89%93%E7%A0%B4%E9%AB%98%E6%B8%A9%E7%BA%AA%E5%BD%95)
 1. [欧洲35℃高温影响超1亿人](https://www.zhihu.com/search?q=%E6%AC%A7%E6%B4%B235%E2%84%83%E9%AB%98%E6%B8%A9%E5%BD%B1%E5%93%8D%E8%B6%851%E4%BA%BF%E4%BA%BA)
 1. [勇哥餐饮创业说被封号客服挂电话](https://www.zhihu.com/search?q=%E5%8B%87%E5%93%A5%E9%A4%90%E9%A5%AE%E5%88%9B%E4%B8%9A%E8%AF%B4%E8%A2%AB%E5%B0%81%E5%8F%B7%E5%AE%A2%E6%9C%8D%E6%8C%82%E7%94%B5%E8%AF%9D)
@@ -28,7 +27,6 @@
 1. [《乘风 2026》曾沛慈年度总冠军](https://www.zhihu.com/search?q=%E3%80%8A%E4%B9%98%E9%A3%8E%202026%E3%80%8B%E6%9B%BE%E6%B2%9B%E6%85%88%E5%B9%B4%E5%BA%A6%E6%80%BB%E5%86%A0%E5%86%9B)
 1. [北大程乐松毕业致辞火了](https://www.zhihu.com/search?q=%E5%8C%97%E5%A4%A7%E7%A8%8B%E4%B9%90%E6%9D%BE%E6%AF%95%E4%B8%9A%E8%87%B4%E8%BE%9E%E7%81%AB%E4%BA%86)
 1. [笔趣阁APP再次爆火](https://www.zhihu.com/search?q=%E7%AC%94%E8%B6%A3%E9%98%81APP%E5%86%8D%E6%AC%A1%E7%88%86%E7%81%AB)
-1. [雷军斥资近5亿增持金山软件](https://www.zhihu.com/search?q=%E9%9B%B7%E5%86%9B%E6%96%A5%E8%B5%84%E8%BF%915%E4%BA%BF%E5%A2%9E%E6%8C%81%E9%87%91%E5%B1%B1%E8%BD%AF%E4%BB%B6)
 1. [恋与深空致歉玩家仍退游删号](https://www.zhihu.com/search?q=%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA%E8%87%B4%E6%AD%89%E7%8E%A9%E5%AE%B6%E4%BB%8D%E9%80%80%E6%B8%B8%E5%88%A0%E5%8F%B7)
 1. [苹果美光存储涨价口水战](https://www.zhihu.com/search?q=%E8%8B%B9%E6%9E%9C%E7%BE%8E%E5%85%89%E5%AD%98%E5%82%A8%E6%B6%A8%E4%BB%B7%E5%8F%A3%E6%B0%B4%E6%88%98)
 1. [央视揭露手机测评「特调机」作弊](https://www.zhihu.com/search?q=%E5%A4%AE%E8%A7%86%E6%8F%AD%E9%9C%B2%E6%89%8B%E6%9C%BA%E6%B5%8B%E8%AF%84%E3%80%8C%E7%89%B9%E8%B0%83%E6%9C%BA%E3%80%8D%E4%BD%9C%E5%BC%8A)
@@ -39,6 +37,8 @@
 1. [HTTP 只读查询新方法将成正式标准](https://www.zhihu.com/search?q=HTTP%20%E5%8F%AA%E8%AF%BB%E6%9F%A5%E8%AF%A2%E6%96%B0%E6%96%B9%E6%B3%95%E5%B0%86%E6%88%90%E6%AD%A3%E5%BC%8F%E6%A0%87%E5%87%86)
 1. [曾卓君夺《饿狼传说》项目冠军](https://www.zhihu.com/search?q=%E6%9B%BE%E5%8D%93%E5%90%9B%E5%A4%BA%E3%80%8A%E9%A5%BF%E7%8B%BC%E4%BC%A0%E8%AF%B4%E3%80%8B%E9%A1%B9%E7%9B%AE%E5%86%A0%E5%86%9B)
 1. [河北教师周末巡网吧台球厅](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8C%97%E6%95%99%E5%B8%88%E5%91%A8%E6%9C%AB%E5%B7%A1%E7%BD%91%E5%90%A7%E5%8F%B0%E7%90%83%E5%8E%85)
+1. [PS6 物料成本逼近 1000 美元](https://www.zhihu.com/search?q=PS6%20%E7%89%A9%E6%96%99%E6%88%90%E6%9C%AC%E9%80%BC%E8%BF%91%201000%20%E7%BE%8E%E5%85%83)
+1. [东鹏特饮老板不喝自家饮料系谣言](https://www.zhihu.com/search?q=%E4%B8%9C%E9%B9%8F%E7%89%B9%E9%A5%AE%E8%80%81%E6%9D%BF%E4%B8%8D%E5%96%9D%E8%87%AA%E5%AE%B6%E9%A5%AE%E6%96%99%E7%B3%BB%E8%B0%A3%E8%A8%80)
 
 ## 热门话题
 
