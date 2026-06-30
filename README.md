@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-07-01 06:09:47 +0800`
+`更新时间：2026-07-01 07:59:25 +0800`
 
 ## 热门搜索
 
@@ -31,7 +31,6 @@
 1. [苹果美光存储涨价口水战](https://www.zhihu.com/search?q=%E8%8B%B9%E6%9E%9C%E7%BE%8E%E5%85%89%E5%AD%98%E5%82%A8%E6%B6%A8%E4%BB%B7%E5%8F%A3%E6%B0%B4%E6%88%98)
 1. [央视揭露手机测评「特调机」作弊](https://www.zhihu.com/search?q=%E5%A4%AE%E8%A7%86%E6%8F%AD%E9%9C%B2%E6%89%8B%E6%9C%BA%E6%B5%8B%E8%AF%84%E3%80%8C%E7%89%B9%E8%B0%83%E6%9C%BA%E3%80%8D%E4%BD%9C%E5%BC%8A)
 1. [三星、SK 海力士大规模投资计划](https://www.zhihu.com/search?q=%E4%B8%89%E6%98%9F%E3%80%81SK%20%E6%B5%B7%E5%8A%9B%E5%A3%AB%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%8A%95%E8%B5%84%E8%AE%A1%E5%88%92)
-1. [跑步机上爬坡减肥公式爆火](https://www.zhihu.com/search?q=%E8%B7%91%E6%AD%A5%E6%9C%BA%E4%B8%8A%E7%88%AC%E5%9D%A1%E5%87%8F%E8%82%A5%E5%85%AC%E5%BC%8F%E7%88%86%E7%81%AB)
 1. [20 家日本实体被列入出口管制名单](https://www.zhihu.com/search?q=20%20%E5%AE%B6%E6%97%A5%E6%9C%AC%E5%AE%9E%E4%BD%93%E8%A2%AB%E5%88%97%E5%85%A5%E5%87%BA%E5%8F%A3%E7%AE%A1%E5%88%B6%E5%90%8D%E5%8D%95)
 1. [网友吐槽以前不让妆女二艳压女主](https://www.zhihu.com/search?q=%E7%BD%91%E5%8F%8B%E5%90%90%E6%A7%BD%E4%BB%A5%E5%89%8D%E4%B8%8D%E8%AE%A9%E5%A6%86%E5%A5%B3%E4%BA%8C%E8%89%B3%E5%8E%8B%E5%A5%B3%E4%B8%BB)
 1. [HTTP 只读查询新方法将成正式标准](https://www.zhihu.com/search?q=HTTP%20%E5%8F%AA%E8%AF%BB%E6%9F%A5%E8%AF%A2%E6%96%B0%E6%96%B9%E6%B3%95%E5%B0%86%E6%88%90%E6%AD%A3%E5%BC%8F%E6%A0%87%E5%87%86)
@@ -39,6 +38,7 @@
 1. [河北教师周末巡网吧台球厅](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8C%97%E6%95%99%E5%B8%88%E5%91%A8%E6%9C%AB%E5%B7%A1%E7%BD%91%E5%90%A7%E5%8F%B0%E7%90%83%E5%8E%85)
 1. [PS6 物料成本逼近 1000 美元](https://www.zhihu.com/search?q=PS6%20%E7%89%A9%E6%96%99%E6%88%90%E6%9C%AC%E9%80%BC%E8%BF%91%201000%20%E7%BE%8E%E5%85%83)
 1. [东鹏特饮老板不喝自家饮料系谣言](https://www.zhihu.com/search?q=%E4%B8%9C%E9%B9%8F%E7%89%B9%E9%A5%AE%E8%80%81%E6%9D%BF%E4%B8%8D%E5%96%9D%E8%87%AA%E5%AE%B6%E9%A5%AE%E6%96%99%E7%B3%BB%E8%B0%A3%E8%A8%80)
+1. [网友称用玻璃吸管喝水有风险](https://www.zhihu.com/search?q=%E7%BD%91%E5%8F%8B%E7%A7%B0%E7%94%A8%E7%8E%BB%E7%92%83%E5%90%B8%E7%AE%A1%E5%96%9D%E6%B0%B4%E6%9C%89%E9%A3%8E%E9%99%A9)
 
 ## 热门话题
 
