@@ -11,14 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-06-30 18:26:23 +0800`
+`更新时间：2026-06-30 21:04:19 +0800`
 
 ## 热门搜索
 
-1. [王安宇毕业证学位证丢失登报声明](https://www.zhihu.com/search?q=%E7%8E%8B%E5%AE%89%E5%AE%87%E6%AF%95%E4%B8%9A%E8%AF%81%E5%AD%A6%E4%BD%8D%E8%AF%81%E4%B8%A2%E5%A4%B1%E7%99%BB%E6%8A%A5%E5%A3%B0%E6%98%8E)
-1. [80后集体扎堆染黄毛](https://www.zhihu.com/search?q=80%E5%90%8E%E9%9B%86%E4%BD%93%E6%89%8E%E5%A0%86%E6%9F%93%E9%BB%84%E6%AF%9B)
+1. [高考数据通](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E6%95%B0%E6%8D%AE%E9%80%9A)
 1. [高考分数排名](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E6%8E%92%E5%90%8D)
-1. [2026国内票房与北美院线反差巨大](https://www.zhihu.com/search?q=2026%E5%9B%BD%E5%86%85%E7%A5%A8%E6%88%BF%E4%B8%8E%E5%8C%97%E7%BE%8E%E9%99%A2%E7%BA%BF%E5%8F%8D%E5%B7%AE%E5%B7%A8%E5%A4%A7)
 1. [欧洲热浪已致上百人死亡](https://www.zhihu.com/search?q=%E6%AC%A7%E6%B4%B2%E7%83%AD%E6%B5%AA%E5%B7%B2%E8%87%B4%E4%B8%8A%E7%99%BE%E4%BA%BA%E6%AD%BB%E4%BA%A1)
 1. [OpenAI发布GPT-5.6系列模型](https://www.zhihu.com/search?q=OpenAI%E5%8F%91%E5%B8%83GPT-5.6%E7%B3%BB%E5%88%97%E6%A8%A1%E5%9E%8B)
 1. [热浪炙烤欧洲 多地打破高温纪录](https://www.zhihu.com/search?q=%E7%83%AD%E6%B5%AA%E7%82%99%E7%83%A4%E6%AC%A7%E6%B4%B2%20%E5%A4%9A%E5%9C%B0%E6%89%93%E7%A0%B4%E9%AB%98%E6%B8%A9%E7%BA%AA%E5%BD%95)
@@ -36,6 +34,10 @@
 1. [雷军斥资近5亿增持金山软件](https://www.zhihu.com/search?q=%E9%9B%B7%E5%86%9B%E6%96%A5%E8%B5%84%E8%BF%915%E4%BA%BF%E5%A2%9E%E6%8C%81%E9%87%91%E5%B1%B1%E8%BD%AF%E4%BB%B6)
 1. [阿尔及利亚3-3奥地利](https://www.zhihu.com/search?q=%E9%98%BF%E5%B0%94%E5%8F%8A%E5%88%A9%E4%BA%9A3-3%E5%A5%A5%E5%9C%B0%E5%88%A9)
 1. [恋与深空致歉玩家仍退游删号](https://www.zhihu.com/search?q=%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA%E8%87%B4%E6%AD%89%E7%8E%A9%E5%AE%B6%E4%BB%8D%E9%80%80%E6%B8%B8%E5%88%A0%E5%8F%B7)
+1. [苹果美光存储涨价口水战](https://www.zhihu.com/search?q=%E8%8B%B9%E6%9E%9C%E7%BE%8E%E5%85%89%E5%AD%98%E5%82%A8%E6%B6%A8%E4%BB%B7%E5%8F%A3%E6%B0%B4%E6%88%98)
+1. [央视揭露手机测评「特调机」作弊](https://www.zhihu.com/search?q=%E5%A4%AE%E8%A7%86%E6%8F%AD%E9%9C%B2%E6%89%8B%E6%9C%BA%E6%B5%8B%E8%AF%84%E3%80%8C%E7%89%B9%E8%B0%83%E6%9C%BA%E3%80%8D%E4%BD%9C%E5%BC%8A)
+1. [普朗克 1940 年的老论文被撤稿](https://www.zhihu.com/search?q=%E6%99%AE%E6%9C%97%E5%85%8B%201940%20%E5%B9%B4%E7%9A%84%E8%80%81%E8%AE%BA%E6%96%87%E8%A2%AB%E6%92%A4%E7%A8%BF)
+1. [三星、SK 海力士大规模投资计划](https://www.zhihu.com/search?q=%E4%B8%89%E6%98%9F%E3%80%81SK%20%E6%B5%B7%E5%8A%9B%E5%A3%AB%E5%A4%A7%E8%A7%84%E6%A8%A1%E6%8A%95%E8%B5%84%E8%AE%A1%E5%88%92)
 
 ## 热门话题
 
