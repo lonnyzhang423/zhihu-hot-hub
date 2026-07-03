@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-07-04 04:53:43 +0800`
+`更新时间：2026-07-04 05:57:47 +0800`
 
 ## 热门搜索
 
-1. [A股](https://www.zhihu.com/search?q=A%E8%82%A1)
+1. [你见过最惊艳的公司名称](https://www.zhihu.com/search?q=%E4%BD%A0%E8%A7%81%E8%BF%87%E6%9C%80%E6%83%8A%E8%89%B3%E7%9A%84%E5%85%AC%E5%8F%B8%E5%90%8D%E7%A7%B0)
+1. [霉霉婚礼禁用手机](https://www.zhihu.com/search?q=%E9%9C%89%E9%9C%89%E5%A9%9A%E7%A4%BC%E7%A6%81%E7%94%A8%E6%89%8B%E6%9C%BA)
 1. [高铁上的商务座都被谁买了](https://www.zhihu.com/search?q=%E9%AB%98%E9%93%81%E4%B8%8A%E7%9A%84%E5%95%86%E5%8A%A1%E5%BA%A7%E9%83%BD%E8%A2%AB%E8%B0%81%E4%B9%B0%E4%BA%86)
 1. [G2对战TES](https://www.zhihu.com/search?q=G2%E5%AF%B9%E6%88%98TES)
 1. [克罗地亚出局](https://www.zhihu.com/search?q=%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A%E5%87%BA%E5%B1%80)
