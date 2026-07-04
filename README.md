@@ -11,11 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-07-04 08:11:49 +0800`
+`更新时间：2026-07-04 12:40:23 +0800`
 
 ## 热门搜索
 
-1. [A股](https://www.zhihu.com/search?q=A%E8%82%A1)
+1. [BLG将与T1交手](https://www.zhihu.com/search?q=BLG%E5%B0%86%E4%B8%8ET1%E4%BA%A4%E6%89%8B)
 1. [高铁上的商务座都被谁买了](https://www.zhihu.com/search?q=%E9%AB%98%E9%93%81%E4%B8%8A%E7%9A%84%E5%95%86%E5%8A%A1%E5%BA%A7%E9%83%BD%E8%A2%AB%E8%B0%81%E4%B9%B0%E4%BA%86)
 1. [G2对战TES](https://www.zhihu.com/search?q=G2%E5%AF%B9%E6%88%98TES)
 1. [克罗地亚出局](https://www.zhihu.com/search?q=%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A%E5%87%BA%E5%B1%80)
@@ -38,6 +38,7 @@
 1. [如何评价电影给阿嬷的情书](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E7%94%B5%E5%BD%B1%E7%BB%99%E9%98%BF%E5%AC%B7%E7%9A%84%E6%83%85%E4%B9%A6)
 1. [AI泡沫还能持续多久](https://www.zhihu.com/search?q=AI%E6%B3%A1%E6%B2%AB%E8%BF%98%E8%83%BD%E6%8C%81%E7%BB%AD%E5%A4%9A%E4%B9%85)
 1. [功夫女足](https://www.zhihu.com/search?q=%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3)
+1. [高考数据通](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E6%95%B0%E6%8D%AE%E9%80%9A)
 
 ## 热门话题
 
