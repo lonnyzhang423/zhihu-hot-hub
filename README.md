@@ -11,12 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-07-04 20:10:47 +0800`
+`更新时间：2026-07-04 22:41:53 +0800`
 
 ## 热门搜索
 
-1. [百草味回应手撕鱿鱼条可能含鱼](https://www.zhihu.com/search?q=%E7%99%BE%E8%8D%89%E5%91%B3%E5%9B%9E%E5%BA%94%E6%89%8B%E6%92%95%E9%B1%BF%E9%B1%BC%E6%9D%A1%E5%8F%AF%E8%83%BD%E5%90%AB%E9%B1%BC)
-1. [鸿蒙智行上半年交付24万台](https://www.zhihu.com/search?q=%E9%B8%BF%E8%92%99%E6%99%BA%E8%A1%8C%E4%B8%8A%E5%8D%8A%E5%B9%B4%E4%BA%A4%E4%BB%9824%E4%B8%87%E5%8F%B0)
+1. [A股](https://www.zhihu.com/search?q=A%E8%82%A1)
 1. [高铁上的商务座都被谁买了](https://www.zhihu.com/search?q=%E9%AB%98%E9%93%81%E4%B8%8A%E7%9A%84%E5%95%86%E5%8A%A1%E5%BA%A7%E9%83%BD%E8%A2%AB%E8%B0%81%E4%B9%B0%E4%BA%86)
 1. [G2对战TES](https://www.zhihu.com/search?q=G2%E5%AF%B9%E6%88%98TES)
 1. [克罗地亚出局](https://www.zhihu.com/search?q=%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A%E5%87%BA%E5%B1%80)
