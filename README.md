@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-07-07 00:55:25 +0800`
+`更新时间：2026-07-07 03:00:36 +0800`
 
 ## 热门搜索
 
@@ -24,6 +24,7 @@
 1. [北京国安vs山东泰山](https://www.zhihu.com/search?q=%E5%8C%97%E4%BA%AC%E5%9B%BD%E5%AE%89vs%E5%B1%B1%E4%B8%9C%E6%B3%B0%E5%B1%B1)
 1. [blg对战t1](https://www.zhihu.com/search?q=blg%E5%AF%B9%E6%88%98t1)
 1. [孙颖莎vs王艺迪](https://www.zhihu.com/search?q=%E5%AD%99%E9%A2%96%E8%8E%8Evs%E7%8E%8B%E8%89%BA%E8%BF%AA)
+1. [葡萄牙vs西班牙](https://www.zhihu.com/search?q=%E8%91%A1%E8%90%84%E7%89%99vs%E8%A5%BF%E7%8F%AD%E7%89%99)
 1. [NBA夏季联赛](https://www.zhihu.com/search?q=NBA%E5%A4%8F%E5%AD%A3%E8%81%94%E8%B5%9B)
 1. [蒯曼vs张本美和](https://www.zhihu.com/search?q=%E8%92%AF%E6%9B%BCvs%E5%BC%A0%E6%9C%AC%E7%BE%8E%E5%92%8C)
 1. [樊振东上海活动](https://www.zhihu.com/search?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E4%B8%8A%E6%B5%B7%E6%B4%BB%E5%8A%A8)
@@ -39,7 +40,6 @@
 1. [当meta开始卖算力](https://www.zhihu.com/search?q=%E5%BD%93meta%E5%BC%80%E5%A7%8B%E5%8D%96%E7%AE%97%E5%8A%9B)
 1. [索尼宣布取消实体版游戏](https://www.zhihu.com/search?q=%E7%B4%A2%E5%B0%BC%E5%AE%A3%E5%B8%83%E5%8F%96%E6%B6%88%E5%AE%9E%E4%BD%93%E7%89%88%E6%B8%B8%E6%88%8F)
 1. [克罗地亚绝平球被吹](https://www.zhihu.com/search?q=%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A%E7%BB%9D%E5%B9%B3%E7%90%83%E8%A2%AB%E5%90%B9)
-1. [AI 冲击千元手机市场](https://www.zhihu.com/search?q=AI%20%E5%86%B2%E5%87%BB%E5%8D%83%E5%85%83%E6%89%8B%E6%9C%BA%E5%B8%82%E5%9C%BA)
 
 ## 热门话题
 
