@@ -11,14 +11,15 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-07-06 07:07:57 +0800`
+`更新时间：2026-07-06 12:13:09 +0800`
 
 ## 热门搜索
 
-1. [A股](https://www.zhihu.com/search?q=A%E8%82%A1)
+1. [异环真红](https://www.zhihu.com/search?q=%E5%BC%82%E7%8E%AF%E7%9C%9F%E7%BA%A2)
+1. [47岁吴建豪再婚](https://www.zhihu.com/search?q=47%E5%B2%81%E5%90%B4%E5%BB%BA%E8%B1%AA%E5%86%8D%E5%A9%9A)
 1. [高铁上的商务座都被谁买了](https://www.zhihu.com/search?q=%E9%AB%98%E9%93%81%E4%B8%8A%E7%9A%84%E5%95%86%E5%8A%A1%E5%BA%A7%E9%83%BD%E8%A2%AB%E8%B0%81%E4%B9%B0%E4%BA%86)
 1. [G2对战TES](https://www.zhihu.com/search?q=G2%E5%AF%B9%E6%88%98TES)
-1. [克罗地亚出局](https://www.zhihu.com/search?q=%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A%E5%87%BA%E5%B1%80)
+1. [苹果涨价潮席卷二手市场](https://www.zhihu.com/search?q=%E8%8B%B9%E6%9E%9C%E6%B6%A8%E4%BB%B7%E6%BD%AE%E5%B8%AD%E5%8D%B7%E4%BA%8C%E6%89%8B%E5%B8%82%E5%9C%BA)
 1. [高考查分是种什么样的体验](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86%E6%98%AF%E7%A7%8D%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E4%BD%93%E9%AA%8C)
 1. [山姆超市是怎么在中国火起来的](https://www.zhihu.com/search?q=%E5%B1%B1%E5%A7%86%E8%B6%85%E5%B8%82%E6%98%AF%E6%80%8E%E4%B9%88%E5%9C%A8%E4%B8%AD%E5%9B%BD%E7%81%AB%E8%B5%B7%E6%9D%A5%E7%9A%84)
 1. [你的低成本爱好是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9A%84%E4%BD%8E%E6%88%90%E6%9C%AC%E7%88%B1%E5%A5%BD%E6%98%AF%E4%BB%80%E4%B9%88)
@@ -38,7 +39,7 @@
 1. [如何评价电影给阿嬷的情书](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E7%94%B5%E5%BD%B1%E7%BB%99%E9%98%BF%E5%AC%B7%E7%9A%84%E6%83%85%E4%B9%A6)
 1. [AI泡沫还能持续多久](https://www.zhihu.com/search?q=AI%E6%B3%A1%E6%B2%AB%E8%BF%98%E8%83%BD%E6%8C%81%E7%BB%AD%E5%A4%9A%E4%B9%85)
 1. [功夫女足](https://www.zhihu.com/search?q=%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3)
-1. [高考数据通](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E6%95%B0%E6%8D%AE%E9%80%9A)
+1. [《南部档案》大结局](https://www.zhihu.com/search?q=%E3%80%8A%E5%8D%97%E9%83%A8%E6%A1%A3%E6%A1%88%E3%80%8B%E5%A4%A7%E7%BB%93%E5%B1%80)
 
 ## 热门话题
 
