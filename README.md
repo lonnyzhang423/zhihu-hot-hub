@@ -11,29 +11,35 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-07-06 15:03:10 +0800`
+`更新时间：2026-07-06 19:56:21 +0800`
 
 ## 热门搜索
 
+1. [网红刘一手离婚](https://www.zhihu.com/search?q=%E7%BD%91%E7%BA%A2%E5%88%98%E4%B8%80%E6%89%8B%E7%A6%BB%E5%A9%9A)
+1. [曝郭宇欣掉饼](https://www.zhihu.com/search?q=%E6%9B%9D%E9%83%AD%E5%AE%87%E6%AC%A3%E6%8E%89%E9%A5%BC)
+1. [有线耳机](https://www.zhihu.com/search?q=%E6%9C%89%E7%BA%BF%E8%80%B3%E6%9C%BA)
+1. [崩坏星穹铁道](https://www.zhihu.com/search?q=%E5%B4%A9%E5%9D%8F%E6%98%9F%E7%A9%B9%E9%93%81%E9%81%93)
+1. [湖人vs热火](https://www.zhihu.com/search?q=%E6%B9%96%E4%BA%BAvs%E7%83%AD%E7%81%AB)
+1. [A股三大指数集体高开](https://www.zhihu.com/search?q=A%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80)
 1. [孙颖莎冠军](https://www.zhihu.com/search?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E5%86%A0%E5%86%9B)
+1. [北京国安vs山东泰山](https://www.zhihu.com/search?q=%E5%8C%97%E4%BA%AC%E5%9B%BD%E5%AE%89vs%E5%B1%B1%E4%B8%9C%E6%B3%B0%E5%B1%B1)
+1. [blg对战t1](https://www.zhihu.com/search?q=blg%E5%AF%B9%E6%88%98t1)
+1. [孙颖莎vs王艺迪](https://www.zhihu.com/search?q=%E5%AD%99%E9%A2%96%E8%8E%8Evs%E7%8E%8B%E8%89%BA%E8%BF%AA)
+1. [NBA夏季联赛](https://www.zhihu.com/search?q=NBA%E5%A4%8F%E5%AD%A3%E8%81%94%E8%B5%9B)
+1. [蒯曼vs张本美和](https://www.zhihu.com/search?q=%E8%92%AF%E6%9B%BCvs%E5%BC%A0%E6%9C%AC%E7%BE%8E%E5%92%8C)
+1. [樊振东上海活动](https://www.zhihu.com/search?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E4%B8%8A%E6%B5%B7%E6%B4%BB%E5%8A%A8)
+1. [功夫女足](https://www.zhihu.com/search?q=%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3)
 1. [《南部档案》大结局](https://www.zhihu.com/search?q=%E3%80%8A%E5%8D%97%E9%83%A8%E6%A1%A3%E6%A1%88%E3%80%8B%E5%A4%A7%E7%BB%93%E5%B1%80)
 1. [高考数据通](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E6%95%B0%E6%8D%AE%E9%80%9A)
 1. [高考分数排名](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E6%8E%92%E5%90%8D)
 1. [WPS 背刺用户](https://www.zhihu.com/search?q=WPS%20%E8%83%8C%E5%88%BA%E7%94%A8%E6%88%B7)
-1. [河北公司处罚「走路散漫」员工](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8C%97%E5%85%AC%E5%8F%B8%E5%A4%84%E7%BD%9A%E3%80%8C%E8%B5%B0%E8%B7%AF%E6%95%A3%E6%BC%AB%E3%80%8D%E5%91%98%E5%B7%A5)
-1. [安圭拉靠.ai域名每年赚千万美元](https://www.zhihu.com/search?q=%E5%AE%89%E5%9C%AD%E6%8B%89%E9%9D%A0.ai%E5%9F%9F%E5%90%8D%E6%AF%8F%E5%B9%B4%E8%B5%9A%E5%8D%83%E4%B8%87%E7%BE%8E%E5%85%83)
+1. [恋与深空敖尹取消上线](https://www.zhihu.com/search?q=%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA%E6%95%96%E5%B0%B9%E5%8F%96%E6%B6%88%E4%B8%8A%E7%BA%BF)
+1. [a股交易新规7月6日起施行](https://www.zhihu.com/search?q=a%E8%82%A1%E4%BA%A4%E6%98%93%E6%96%B0%E8%A7%847%E6%9C%886%E6%97%A5%E8%B5%B7%E6%96%BD%E8%A1%8C)
+1. [电动汽车最严国标来了](https://www.zhihu.com/search?q=%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E6%9C%80%E4%B8%A5%E5%9B%BD%E6%A0%87%E6%9D%A5%E4%BA%86)
+1. [今年第9号台风巴威已生成](https://www.zhihu.com/search?q=%E4%BB%8A%E5%B9%B4%E7%AC%AC9%E5%8F%B7%E5%8F%B0%E9%A3%8E%E5%B7%B4%E5%A8%81%E5%B7%B2%E7%94%9F%E6%88%90)
+1. [当meta开始卖算力](https://www.zhihu.com/search?q=%E5%BD%93meta%E5%BC%80%E5%A7%8B%E5%8D%96%E7%AE%97%E5%8A%9B)
 1. [索尼宣布取消实体版游戏](https://www.zhihu.com/search?q=%E7%B4%A2%E5%B0%BC%E5%AE%A3%E5%B8%83%E5%8F%96%E6%B6%88%E5%AE%9E%E4%BD%93%E7%89%88%E6%B8%B8%E6%88%8F)
 1. [北京韩红爱心慈善基金会发说明](https://www.zhihu.com/search?q=%E5%8C%97%E4%BA%AC%E9%9F%A9%E7%BA%A2%E7%88%B1%E5%BF%83%E6%85%88%E5%96%84%E5%9F%BA%E9%87%91%E4%BC%9A%E5%8F%91%E8%AF%B4%E6%98%8E)
-1. [C罗莫德里奇紧紧相拥](https://www.zhihu.com/search?q=C%E7%BD%97%E8%8E%AB%E5%BE%B7%E9%87%8C%E5%A5%87%E7%B4%A7%E7%B4%A7%E7%9B%B8%E6%8B%A5)
-1. [大空头伯里进一步做空AI](https://www.zhihu.com/search?q=%E5%A4%A7%E7%A9%BA%E5%A4%B4%E4%BC%AF%E9%87%8C%E8%BF%9B%E4%B8%80%E6%AD%A5%E5%81%9A%E7%A9%BAAI)
-1. [克罗地亚绝平球被吹](https://www.zhihu.com/search?q=%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A%E7%BB%9D%E5%B9%B3%E7%90%83%E8%A2%AB%E5%90%B9)
-1. [AI 冲击千元手机市场](https://www.zhihu.com/search?q=AI%20%E5%86%B2%E5%87%BB%E5%8D%83%E5%85%83%E6%89%8B%E6%9C%BA%E5%B8%82%E5%9C%BA)
-1. [火焰山地表温度飙至 84℃](https://www.zhihu.com/search?q=%E7%81%AB%E7%84%B0%E5%B1%B1%E5%9C%B0%E8%A1%A8%E6%B8%A9%E5%BA%A6%E9%A3%99%E8%87%B3%2084%E2%84%83)
-1. [CS2 XPL T1广州站2026](https://www.zhihu.com/search?q=CS2%20XPL%20T1%E5%B9%BF%E5%B7%9E%E7%AB%992026)
-1. [《脱口秀和 Ta 的朋友们》第三季第二期](https://www.zhihu.com/search?q=%E3%80%8A%E8%84%B1%E5%8F%A3%E7%A7%80%E5%92%8C%20Ta%20%E7%9A%84%E6%9C%8B%E5%8F%8B%E4%BB%AC%E3%80%8B%E7%AC%AC%E4%B8%89%E5%AD%A3%E7%AC%AC%E4%BA%8C%E6%9C%9F)
-1. [阿根廷 vs 佛得角](https://www.zhihu.com/search?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%20vs%20%E4%BD%9B%E5%BE%97%E8%A7%92)
-1. [哥伦比亚 vs 加纳](https://www.zhihu.com/search?q=%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A%20vs%20%E5%8A%A0%E7%BA%B3)
-1. [Meta新模型被指追平GPT-5.5](https://www.zhihu.com/search?q=Meta%E6%96%B0%E6%A8%A1%E5%9E%8B%E8%A2%AB%E6%8C%87%E8%BF%BD%E5%B9%B3GPT-5.5)
 
 ## 热门话题
 
