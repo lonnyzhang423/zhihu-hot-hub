@@ -11,12 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-07-06 07:57:50 +0800`
+`更新时间：2026-07-06 10:52:31 +0800`
 
 ## 热门搜索
 
-1. [庞峥麟首次入选男篮世预赛名单](https://www.zhihu.com/search?q=%E5%BA%9E%E5%B3%A5%E9%BA%9F%E9%A6%96%E6%AC%A1%E5%85%A5%E9%80%89%E7%94%B7%E7%AF%AE%E4%B8%96%E9%A2%84%E8%B5%9B%E5%90%8D%E5%8D%95)
-1. [男子踹倒搂妻陌生人后发现是女子](https://www.zhihu.com/search?q=%E7%94%B7%E5%AD%90%E8%B8%B9%E5%80%92%E6%90%82%E5%A6%BB%E9%99%8C%E7%94%9F%E4%BA%BA%E5%90%8E%E5%8F%91%E7%8E%B0%E6%98%AF%E5%A5%B3%E5%AD%90)
+1. [A股](https://www.zhihu.com/search?q=A%E8%82%A1)
 1. [高铁上的商务座都被谁买了](https://www.zhihu.com/search?q=%E9%AB%98%E9%93%81%E4%B8%8A%E7%9A%84%E5%95%86%E5%8A%A1%E5%BA%A7%E9%83%BD%E8%A2%AB%E8%B0%81%E4%B9%B0%E4%BA%86)
 1. [G2对战TES](https://www.zhihu.com/search?q=G2%E5%AF%B9%E6%88%98TES)
 1. [克罗地亚出局](https://www.zhihu.com/search?q=%E5%85%8B%E7%BD%97%E5%9C%B0%E4%BA%9A%E5%87%BA%E5%B1%80)
@@ -39,7 +38,7 @@
 1. [如何评价电影给阿嬷的情书](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E7%94%B5%E5%BD%B1%E7%BB%99%E9%98%BF%E5%AC%B7%E7%9A%84%E6%83%85%E4%B9%A6)
 1. [AI泡沫还能持续多久](https://www.zhihu.com/search?q=AI%E6%B3%A1%E6%B2%AB%E8%BF%98%E8%83%BD%E6%8C%81%E7%BB%AD%E5%A4%9A%E4%B9%85)
 1. [功夫女足](https://www.zhihu.com/search?q=%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3)
-1. [高考数据通](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E6%95%B0%E6%8D%AE%E9%80%9A)
+1. [《南部档案》大结局](https://www.zhihu.com/search?q=%E3%80%8A%E5%8D%97%E9%83%A8%E6%A1%A3%E6%A1%88%E3%80%8B%E5%A4%A7%E7%BB%93%E5%B1%80)
 
 ## 热门话题
 
