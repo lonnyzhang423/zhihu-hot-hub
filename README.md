@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-07-08 00:18:31 +0800`
+`更新时间：2026-07-08 02:55:12 +0800`
 
 ## 热门搜索
 
@@ -37,7 +37,6 @@
 1. [茉莉奶白侵权 LV 被判赔 1030 万](https://www.zhihu.com/search?q=%E8%8C%89%E8%8E%89%E5%A5%B6%E7%99%BD%E4%BE%B5%E6%9D%83%20LV%20%E8%A2%AB%E5%88%A4%E8%B5%94%201030%20%E4%B8%87)
 1. [恋与深空](https://www.zhihu.com/search?q=%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA)
 1. [泰山景区回应隔离铁丝网质疑](https://www.zhihu.com/search?q=%E6%B3%B0%E5%B1%B1%E6%99%AF%E5%8C%BA%E5%9B%9E%E5%BA%94%E9%9A%94%E7%A6%BB%E9%93%81%E4%B8%9D%E7%BD%91%E8%B4%A8%E7%96%91)
-1. [詹姆斯离开湖人去向成谜](https://www.zhihu.com/search?q=%E8%A9%B9%E5%A7%86%E6%96%AF%E7%A6%BB%E5%BC%80%E6%B9%96%E4%BA%BA%E5%8E%BB%E5%90%91%E6%88%90%E8%B0%9C)
 1. [2027年起恢复对 4 类车辆征车船税](https://www.zhihu.com/search?q=2027%E5%B9%B4%E8%B5%B7%E6%81%A2%E5%A4%8D%E5%AF%B9%204%20%E7%B1%BB%E8%BD%A6%E8%BE%86%E5%BE%81%E8%BD%A6%E8%88%B9%E7%A8%8E)
 
 ## 热门话题
