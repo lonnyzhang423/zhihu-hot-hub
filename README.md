@@ -11,12 +11,19 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-07-08 15:34:31 +0800`
+`更新时间：2026-07-08 18:26:01 +0800`
 
 ## 热门搜索
 
-1. [瑞士 vs 哥伦比亚](https://www.zhihu.com/search?q=%E7%91%9E%E5%A3%AB%20vs%20%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A)
-1. [金山办公回应「WPS滥收费」](https://www.zhihu.com/search?q=%E9%87%91%E5%B1%B1%E5%8A%9E%E5%85%AC%E5%9B%9E%E5%BA%94%E3%80%8CWPS%E6%BB%A5%E6%94%B6%E8%B4%B9%E3%80%8D)
+1. [北京暴雨](https://www.zhihu.com/search?q=%E5%8C%97%E4%BA%AC%E6%9A%B4%E9%9B%A8)
+1. [台风](https://www.zhihu.com/search?q=%E5%8F%B0%E9%A3%8E)
+1. [裁判](https://www.zhihu.com/search?q=%E8%A3%81%E5%88%A4)
+1. [苏醒](https://www.zhihu.com/search?q=%E8%8B%8F%E9%86%92)
+1. [美股](https://www.zhihu.com/search?q=%E7%BE%8E%E8%82%A1)
+1. [葡萄牙vs西班牙](https://www.zhihu.com/search?q=%E8%91%A1%E8%90%84%E7%89%99vs%E8%A5%BF%E7%8F%AD%E7%89%99)
+1. [电影奥德赛](https://www.zhihu.com/search?q=%E7%94%B5%E5%BD%B1%E5%A5%A5%E5%BE%B7%E8%B5%9B)
+1. [地震快讯](https://www.zhihu.com/search?q=%E5%9C%B0%E9%9C%87%E5%BF%AB%E8%AE%AF)
+1. [功夫女足](https://www.zhihu.com/search?q=%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3)
 1. [高考数据通](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E6%95%B0%E6%8D%AE%E9%80%9A)
 1. [高考分数排名](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E6%8E%92%E5%90%8D)
 1. [WPS 背刺用户](https://www.zhihu.com/search?q=WPS%20%E8%83%8C%E5%88%BA%E7%94%A8%E6%88%B7)
@@ -31,14 +38,6 @@
 1. [挪威 2-1 巴西](https://www.zhihu.com/search?q=%E6%8C%AA%E5%A8%81%202-1%20%E5%B7%B4%E8%A5%BF)
 1. [巴西1-2挪威](https://www.zhihu.com/search?q=%E5%B7%B4%E8%A5%BF1-2%E6%8C%AA%E5%A8%81)
 1. [内马尔哭了](https://www.zhihu.com/search?q=%E5%86%85%E9%A9%AC%E5%B0%94%E5%93%AD%E4%BA%86)
-1. [字节申请热门网络梗著作权](https://www.zhihu.com/search?q=%E5%AD%97%E8%8A%82%E7%94%B3%E8%AF%B7%E7%83%AD%E9%97%A8%E7%BD%91%E7%BB%9C%E6%A2%97%E8%91%97%E4%BD%9C%E6%9D%83)
-1. [内马尔宣布国家队退役](https://www.zhihu.com/search?q=%E5%86%85%E9%A9%AC%E5%B0%94%E5%AE%A3%E5%B8%83%E5%9B%BD%E5%AE%B6%E9%98%9F%E9%80%80%E5%BD%B9)
-1. [多益网络徐波称女儿被诱拐走](https://www.zhihu.com/search?q=%E5%A4%9A%E7%9B%8A%E7%BD%91%E7%BB%9C%E5%BE%90%E6%B3%A2%E7%A7%B0%E5%A5%B3%E5%84%BF%E8%A2%AB%E8%AF%B1%E6%8B%90%E8%B5%B0)
-1. [司晓迪疑曝与鹿晗暧昧照](https://www.zhihu.com/search?q=%E5%8F%B8%E6%99%93%E8%BF%AA%E7%96%91%E6%9B%9D%E4%B8%8E%E9%B9%BF%E6%99%97%E6%9A%A7%E6%98%A7%E7%85%A7)
-1. [挪威是巴西唯一没战胜过的国家](https://www.zhihu.com/search?q=%E6%8C%AA%E5%A8%81%E6%98%AF%E5%B7%B4%E8%A5%BF%E5%94%AF%E4%B8%80%E6%B2%A1%E6%88%98%E8%83%9C%E8%BF%87%E7%9A%84%E5%9B%BD%E5%AE%B6)
-1. [FIFA 决定美国队巴洛贡红牌停赛暂缓一年](https://www.zhihu.com/search?q=FIFA%20%E5%86%B3%E5%AE%9A%E7%BE%8E%E5%9B%BD%E9%98%9F%E5%B7%B4%E6%B4%9B%E8%B4%A1%E7%BA%A2%E7%89%8C%E5%81%9C%E8%B5%9B%E6%9A%82%E7%BC%93%E4%B8%80%E5%B9%B4)
-1. [哈兰德受害者+1](https://www.zhihu.com/search?q=%E5%93%88%E5%85%B0%E5%BE%B7%E5%8F%97%E5%AE%B3%E8%80%85%2B1)
-1. [美国前锋巴洛贡红牌禁赛被「缓刑」](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E5%89%8D%E9%94%8B%E5%B7%B4%E6%B4%9B%E8%B4%A1%E7%BA%A2%E7%89%8C%E7%A6%81%E8%B5%9B%E8%A2%AB%E3%80%8C%E7%BC%93%E5%88%91%E3%80%8D)
 
 ## 热门话题
 
