@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-07-09 01:45:13 +0800`
+`更新时间：2026-07-09 03:44:22 +0800`
 
 ## 热门搜索
 
-1. [北京暴雨](https://www.zhihu.com/search?q=%E5%8C%97%E4%BA%AC%E6%9A%B4%E9%9B%A8)
-1. [台风](https://www.zhihu.com/search?q=%E5%8F%B0%E9%A3%8E)
+1. [农夫山泉向广西捐赠1000万](https://www.zhihu.com/search?q=%E5%86%9C%E5%A4%AB%E5%B1%B1%E6%B3%89%E5%90%91%E5%B9%BF%E8%A5%BF%E6%8D%90%E8%B5%A01000%E4%B8%87)
+1. [金山办公回应「WPS滥收费」](https://www.zhihu.com/search?q=%E9%87%91%E5%B1%B1%E5%8A%9E%E5%85%AC%E5%9B%9E%E5%BA%94%E3%80%8CWPS%E6%BB%A5%E6%94%B6%E8%B4%B9%E3%80%8D)
 1. [裁判](https://www.zhihu.com/search?q=%E8%A3%81%E5%88%A4)
 1. [苏醒](https://www.zhihu.com/search?q=%E8%8B%8F%E9%86%92)
 1. [G2对战T1](https://www.zhihu.com/search?q=G2%E5%AF%B9%E6%88%98T1)
