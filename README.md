@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-07-09 19:12:24 +0800`
+`更新时间：2026-07-09 23:25:42 +0800`
 
 ## 热门搜索
 
@@ -31,14 +31,14 @@
 1. [LV在中国密集维权](https://www.zhihu.com/search?q=LV%E5%9C%A8%E4%B8%AD%E5%9B%BD%E5%AF%86%E9%9B%86%E7%BB%B4%E6%9D%83)
 1. [国家一级文物现「TCL 电视」字样](https://www.zhihu.com/search?q=%E5%9B%BD%E5%AE%B6%E4%B8%80%E7%BA%A7%E6%96%87%E7%89%A9%E7%8E%B0%E3%80%8CTCL%20%E7%94%B5%E8%A7%86%E3%80%8D%E5%AD%97%E6%A0%B7)
 1. [司晓迪疑曝与鹿晗暧昧照](https://www.zhihu.com/search?q=%E5%8F%B8%E6%99%93%E8%BF%AA%E7%96%91%E6%9B%9D%E4%B8%8E%E9%B9%BF%E6%99%97%E6%9A%A7%E6%98%A7%E7%85%A7)
-1. [患者控诉每天四五点起床等医生查房](https://www.zhihu.com/search?q=%E6%82%A3%E8%80%85%E6%8E%A7%E8%AF%89%E6%AF%8F%E5%A4%A9%E5%9B%9B%E4%BA%94%E7%82%B9%E8%B5%B7%E5%BA%8A%E7%AD%89%E5%8C%BB%E7%94%9F%E6%9F%A5%E6%88%BF)
 1. [FIFA 决定美国队巴洛贡红牌停赛暂缓一年](https://www.zhihu.com/search?q=FIFA%20%E5%86%B3%E5%AE%9A%E7%BE%8E%E5%9B%BD%E9%98%9F%E5%B7%B4%E6%B4%9B%E8%B4%A1%E7%BA%A2%E7%89%8C%E5%81%9C%E8%B5%9B%E6%9A%82%E7%BC%93%E4%B8%80%E5%B9%B4)
 1. [美国前锋巴洛贡红牌禁赛被「缓刑」](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E5%89%8D%E9%94%8B%E5%B7%B4%E6%B4%9B%E8%B4%A1%E7%BA%A2%E7%89%8C%E7%A6%81%E8%B5%9B%E8%A2%AB%E3%80%8C%E7%BC%93%E5%88%91%E3%80%8D)
-1. [苏宁清仓家乐福中国](https://www.zhihu.com/search?q=%E8%8B%8F%E5%AE%81%E6%B8%85%E4%BB%93%E5%AE%B6%E4%B9%90%E7%A6%8F%E4%B8%AD%E5%9B%BD)
 1. [广西南宁一水库坝体出现缺口](https://www.zhihu.com/search?q=%E5%B9%BF%E8%A5%BF%E5%8D%97%E5%AE%81%E4%B8%80%E6%B0%B4%E5%BA%93%E5%9D%9D%E4%BD%93%E5%87%BA%E7%8E%B0%E7%BC%BA%E5%8F%A3)
 1. [广西内涝](https://www.zhihu.com/search?q=%E5%B9%BF%E8%A5%BF%E5%86%85%E6%B6%9D)
+1. [吃饭会用很多纸巾是「感官过载」](https://www.zhihu.com/search?q=%E5%90%83%E9%A5%AD%E4%BC%9A%E7%94%A8%E5%BE%88%E5%A4%9A%E7%BA%B8%E5%B7%BE%E6%98%AF%E3%80%8C%E6%84%9F%E5%AE%98%E8%BF%87%E8%BD%BD%E3%80%8D)
 1. [为什么很多人用创伤来定义感受](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BE%88%E5%A4%9A%E4%BA%BA%E7%94%A8%E5%88%9B%E4%BC%A4%E6%9D%A5%E5%AE%9A%E4%B9%89%E6%84%9F%E5%8F%97)
 1. [六蓝水库决堤](https://www.zhihu.com/search?q=%E5%85%AD%E8%93%9D%E6%B0%B4%E5%BA%93%E5%86%B3%E5%A0%A4)
+1. [合法的薅公司羊毛的方式](https://www.zhihu.com/search?q=%E5%90%88%E6%B3%95%E7%9A%84%E8%96%85%E5%85%AC%E5%8F%B8%E7%BE%8A%E6%AF%9B%E7%9A%84%E6%96%B9%E5%BC%8F)
 
 ## 热门话题
 
