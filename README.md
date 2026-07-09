@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-07-09 18:51:36 +0800`
+`更新时间：2026-07-09 21:43:50 +0800`
 
 ## 热门搜索
 
@@ -37,8 +37,8 @@
 1. [苏宁清仓家乐福中国](https://www.zhihu.com/search?q=%E8%8B%8F%E5%AE%81%E6%B8%85%E4%BB%93%E5%AE%B6%E4%B9%90%E7%A6%8F%E4%B8%AD%E5%9B%BD)
 1. [广西南宁一水库坝体出现缺口](https://www.zhihu.com/search?q=%E5%B9%BF%E8%A5%BF%E5%8D%97%E5%AE%81%E4%B8%80%E6%B0%B4%E5%BA%93%E5%9D%9D%E4%BD%93%E5%87%BA%E7%8E%B0%E7%BC%BA%E5%8F%A3)
 1. [广西内涝](https://www.zhihu.com/search?q=%E5%B9%BF%E8%A5%BF%E5%86%85%E6%B6%9D)
+1. [吃饭会用很多纸巾是「感官过载」](https://www.zhihu.com/search?q=%E5%90%83%E9%A5%AD%E4%BC%9A%E7%94%A8%E5%BE%88%E5%A4%9A%E7%BA%B8%E5%B7%BE%E6%98%AF%E3%80%8C%E6%84%9F%E5%AE%98%E8%BF%87%E8%BD%BD%E3%80%8D)
 1. [为什么很多人用创伤来定义感受](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BE%88%E5%A4%9A%E4%BA%BA%E7%94%A8%E5%88%9B%E4%BC%A4%E6%9D%A5%E5%AE%9A%E4%B9%89%E6%84%9F%E5%8F%97)
-1. [六蓝水库决堤](https://www.zhihu.com/search?q=%E5%85%AD%E8%93%9D%E6%B0%B4%E5%BA%93%E5%86%B3%E5%A0%A4)
 
 ## 热门话题
 
