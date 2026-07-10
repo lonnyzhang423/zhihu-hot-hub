@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-07-11 06:51:57 +0800`
+`更新时间：2026-07-11 07:50:33 +0800`
 
 ## 热门搜索
 
@@ -39,9 +39,9 @@
 1. [悬案播出](https://www.zhihu.com/search?q=%E6%82%AC%E6%A1%88%E6%92%AD%E5%87%BA)
 1. [悬案真实](https://www.zhihu.com/search?q=%E6%82%AC%E6%A1%88%E7%9C%9F%E5%AE%9E)
 1. [超强级别台风巴威持续逼近](https://www.zhihu.com/search?q=%E8%B6%85%E5%BC%BA%E7%BA%A7%E5%88%AB%E5%8F%B0%E9%A3%8E%E5%B7%B4%E5%A8%81%E6%8C%81%E7%BB%AD%E9%80%BC%E8%BF%91)
-1. [广西六蓝水库曾被列为问题水库](https://www.zhihu.com/search?q=%E5%B9%BF%E8%A5%BF%E5%85%AD%E8%93%9D%E6%B0%B4%E5%BA%93%E6%9B%BE%E8%A2%AB%E5%88%97%E4%B8%BA%E9%97%AE%E9%A2%98%E6%B0%B4%E5%BA%93)
 1. [阿根廷 vs 埃及](https://www.zhihu.com/search?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%20vs%20%E5%9F%83%E5%8F%8A)
 1. [广西洪水致养蛇场眼镜蛇逃逸](https://www.zhihu.com/search?q=%E5%B9%BF%E8%A5%BF%E6%B4%AA%E6%B0%B4%E8%87%B4%E5%85%BB%E8%9B%87%E5%9C%BA%E7%9C%BC%E9%95%9C%E8%9B%87%E9%80%83%E9%80%B8)
+1. [12306优化凌晨乘车提示语](https://www.zhihu.com/search?q=12306%E4%BC%98%E5%8C%96%E5%87%8C%E6%99%A8%E4%B9%98%E8%BD%A6%E6%8F%90%E7%A4%BA%E8%AF%AD)
 
 ## 热门话题
 
