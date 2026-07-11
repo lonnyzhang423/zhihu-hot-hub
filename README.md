@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-07-11 07:50:33 +0800`
+`更新时间：2026-07-11 09:49:26 +0800`
 
 ## 热门搜索
 
@@ -42,6 +42,7 @@
 1. [阿根廷 vs 埃及](https://www.zhihu.com/search?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%20vs%20%E5%9F%83%E5%8F%8A)
 1. [广西洪水致养蛇场眼镜蛇逃逸](https://www.zhihu.com/search?q=%E5%B9%BF%E8%A5%BF%E6%B4%AA%E6%B0%B4%E8%87%B4%E5%85%BB%E8%9B%87%E5%9C%BA%E7%9C%BC%E9%95%9C%E8%9B%87%E9%80%83%E9%80%B8)
 1. [12306优化凌晨乘车提示语](https://www.zhihu.com/search?q=12306%E4%BC%98%E5%8C%96%E5%87%8C%E6%99%A8%E4%B9%98%E8%BD%A6%E6%8F%90%E7%A4%BA%E8%AF%AD)
+1. [C罗2006到2026](https://www.zhihu.com/search?q=C%E7%BD%972006%E5%88%B02026)
 
 ## 热门话题
 
