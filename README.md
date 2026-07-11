@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-07-11 22:19:55 +0800`
+`更新时间：2026-07-11 23:44:55 +0800`
 
 ## 热门搜索
 
-1. [姆巴佩失点](https://www.zhihu.com/search?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E5%A4%B1%E7%82%B9)
-1. [挪威是一个什么样的国家](https://www.zhihu.com/search?q=%E6%8C%AA%E5%A8%81%E6%98%AF%E4%B8%80%E4%B8%AA%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E5%9B%BD%E5%AE%B6)
+1. [陈翔删博](https://www.zhihu.com/search?q=%E9%99%88%E7%BF%94%E5%88%A0%E5%8D%9A)
+1. [阿根廷仙人指路](https://www.zhihu.com/search?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E4%BB%99%E4%BA%BA%E6%8C%87%E8%B7%AF)
 1. [美股](https://www.zhihu.com/search?q=%E7%BE%8E%E8%82%A1)
 1. [NBA夏季联赛](https://www.zhihu.com/search?q=NBA%E5%A4%8F%E5%AD%A3%E8%81%94%E8%B5%9B)
 1. [河南造出全球最大培育钻石](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8D%97%E9%80%A0%E5%87%BA%E5%85%A8%E7%90%83%E6%9C%80%E5%A4%A7%E5%9F%B9%E8%82%B2%E9%92%BB%E7%9F%B3)
@@ -27,7 +27,7 @@
 1. [姆巴佩破门](https://www.zhihu.com/search?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E7%A0%B4%E9%97%A8)
 1. [高考数据通](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E6%95%B0%E6%8D%AE%E9%80%9A)
 1. [高考分数排名](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E6%8E%92%E5%90%8D)
-1. [恋与深空取消上线敖尹](https://www.zhihu.com/search?q=%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA%E5%8F%96%E6%B6%88%E4%B8%8A%E7%BA%BF%E6%95%96%E5%B0%B9)
+1. [姆巴佩失点](https://www.zhihu.com/search?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E5%A4%B1%E7%82%B9)
 1. [恋与深空](https://www.zhihu.com/search?q=%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA)
 1. [广西南宁一水库坝体出现缺口](https://www.zhihu.com/search?q=%E5%B9%BF%E8%A5%BF%E5%8D%97%E5%AE%81%E4%B8%80%E6%B0%B4%E5%BA%93%E5%9D%9D%E4%BD%93%E5%87%BA%E7%8E%B0%E7%BC%BA%E5%8F%A3)
 1. [广西内涝](https://www.zhihu.com/search?q=%E5%B9%BF%E8%A5%BF%E5%86%85%E6%B6%9D)
