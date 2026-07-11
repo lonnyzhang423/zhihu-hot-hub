@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-07-11 16:52:26 +0800`
+`更新时间：2026-07-11 18:20:47 +0800`
 
 ## 热门搜索
 
@@ -42,6 +42,7 @@
 1. [男子被大风从12楼吸走摔落](https://www.zhihu.com/search?q=%E7%94%B7%E5%AD%90%E8%A2%AB%E5%A4%A7%E9%A3%8E%E4%BB%8E12%E6%A5%BC%E5%90%B8%E8%B5%B0%E6%91%94%E8%90%BD)
 1. [鹿晗 司晓迪](https://www.zhihu.com/search?q=%E9%B9%BF%E6%99%97%20%E5%8F%B8%E6%99%93%E8%BF%AA)
 1. [台风美莎克](https://www.zhihu.com/search?q=%E5%8F%B0%E9%A3%8E%E7%BE%8E%E8%8E%8E%E5%85%8B)
+1. [广西用无人机投放物资](https://www.zhihu.com/search?q=%E5%B9%BF%E8%A5%BF%E7%94%A8%E6%97%A0%E4%BA%BA%E6%9C%BA%E6%8A%95%E6%94%BE%E7%89%A9%E8%B5%84)
 
 ## 热门话题
 
