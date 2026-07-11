@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-07-11 17:18:07 +0800`
+`更新时间：2026-07-11 18:55:25 +0800`
 
 ## 热门搜索
 
-1. [姆巴佩失点](https://www.zhihu.com/search?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E5%A4%B1%E7%82%B9)
-1. [挪威是一个什么样的国家](https://www.zhihu.com/search?q=%E6%8C%AA%E5%A8%81%E6%98%AF%E4%B8%80%E4%B8%AA%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E5%9B%BD%E5%AE%B6)
+1. [长征十号乙](https://www.zhihu.com/search?q=%E9%95%BF%E5%BE%81%E5%8D%81%E5%8F%B7%E4%B9%99)
+1. [李想官宣新车型i9](https://www.zhihu.com/search?q=%E6%9D%8E%E6%83%B3%E5%AE%98%E5%AE%A3%E6%96%B0%E8%BD%A6%E5%9E%8Bi9)
 1. [美股](https://www.zhihu.com/search?q=%E7%BE%8E%E8%82%A1)
 1. [NBA夏季联赛](https://www.zhihu.com/search?q=NBA%E5%A4%8F%E5%AD%A3%E8%81%94%E8%B5%9B)
 1. [河南造出全球最大培育钻石](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8D%97%E9%80%A0%E5%87%BA%E5%85%A8%E7%90%83%E6%9C%80%E5%A4%A7%E5%9F%B9%E8%82%B2%E9%92%BB%E7%9F%B3)
@@ -42,6 +42,7 @@
 1. [男子被大风从12楼吸走摔落](https://www.zhihu.com/search?q=%E7%94%B7%E5%AD%90%E8%A2%AB%E5%A4%A7%E9%A3%8E%E4%BB%8E12%E6%A5%BC%E5%90%B8%E8%B5%B0%E6%91%94%E8%90%BD)
 1. [鹿晗 司晓迪](https://www.zhihu.com/search?q=%E9%B9%BF%E6%99%97%20%E5%8F%B8%E6%99%93%E8%BF%AA)
 1. [台风美莎克](https://www.zhihu.com/search?q=%E5%8F%B0%E9%A3%8E%E7%BE%8E%E8%8E%8E%E5%85%8B)
+1. [广西用无人机投放物资](https://www.zhihu.com/search?q=%E5%B9%BF%E8%A5%BF%E7%94%A8%E6%97%A0%E4%BA%BA%E6%9C%BA%E6%8A%95%E6%94%BE%E7%89%A9%E8%B5%84)
 
 ## 热门话题
 
