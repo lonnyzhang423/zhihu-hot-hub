@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-07-14 15:04:16 +0800`
+`更新时间：2026-07-14 17:47:45 +0800`
 
 ## 热门搜索
 
@@ -26,6 +26,7 @@
 1. [悬案播出](https://www.zhihu.com/search?q=%E6%82%AC%E6%A1%88%E6%92%AD%E5%87%BA)
 1. [悬案真实](https://www.zhihu.com/search?q=%E6%82%AC%E6%A1%88%E7%9C%9F%E5%AE%9E)
 1. [超强级别台风巴威持续逼近](https://www.zhihu.com/search?q=%E8%B6%85%E5%BC%BA%E7%BA%A7%E5%88%AB%E5%8F%B0%E9%A3%8E%E5%B7%B4%E5%A8%81%E6%8C%81%E7%BB%AD%E9%80%BC%E8%BF%91)
+1. [多款新车被指撞脸小米](https://www.zhihu.com/search?q=%E5%A4%9A%E6%AC%BE%E6%96%B0%E8%BD%A6%E8%A2%AB%E6%8C%87%E6%92%9E%E8%84%B8%E5%B0%8F%E7%B1%B3)
 1. [台风巴威到哪了](https://www.zhihu.com/search?q=%E5%8F%B0%E9%A3%8E%E5%B7%B4%E5%A8%81%E5%88%B0%E5%93%AA%E4%BA%86)
 1. [台风巴威11日晚登陆福建浙江沿海](https://www.zhihu.com/search?q=%E5%8F%B0%E9%A3%8E%E5%B7%B4%E5%A8%8111%E6%97%A5%E6%99%9A%E7%99%BB%E9%99%86%E7%A6%8F%E5%BB%BA%E6%B5%99%E6%B1%9F%E6%B2%BF%E6%B5%B7)
 1. [福建晋江一鞋厂发生火灾](https://www.zhihu.com/search?q=%E7%A6%8F%E5%BB%BA%E6%99%8B%E6%B1%9F%E4%B8%80%E9%9E%8B%E5%8E%82%E5%8F%91%E7%94%9F%E7%81%AB%E7%81%BE)
@@ -39,7 +40,6 @@
 1. [动画电影《三国第一部：争洛阳》热映](https://www.zhihu.com/search?q=%E5%8A%A8%E7%94%BB%E7%94%B5%E5%BD%B1%E3%80%8A%E4%B8%89%E5%9B%BD%E7%AC%AC%E4%B8%80%E9%83%A8%EF%BC%9A%E4%BA%89%E6%B4%9B%E9%98%B3%E3%80%8B%E7%83%AD%E6%98%A0)
 1. [《功夫女足》热映](https://www.zhihu.com/search?q=%E3%80%8A%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E3%80%8B%E7%83%AD%E6%98%A0)
 1. [内蒙古 16 岁高中生因拍门玩闹被捅杀](https://www.zhihu.com/search?q=%E5%86%85%E8%92%99%E5%8F%A4%2016%20%E5%B2%81%E9%AB%98%E4%B8%AD%E7%94%9F%E5%9B%A0%E6%8B%8D%E9%97%A8%E7%8E%A9%E9%97%B9%E8%A2%AB%E6%8D%85%E6%9D%80)
-1. [长沙通报体育局干部占车位事件](https://www.zhihu.com/search?q=%E9%95%BF%E6%B2%99%E9%80%9A%E6%8A%A5%E4%BD%93%E8%82%B2%E5%B1%80%E5%B9%B2%E9%83%A8%E5%8D%A0%E8%BD%A6%E4%BD%8D%E4%BA%8B%E4%BB%B6)
 1. [长沙占车位体育局干部被停职](https://www.zhihu.com/search?q=%E9%95%BF%E6%B2%99%E5%8D%A0%E8%BD%A6%E4%BD%8D%E4%BD%93%E8%82%B2%E5%B1%80%E5%B9%B2%E9%83%A8%E8%A2%AB%E5%81%9C%E8%81%8C)
 1. [冉莹颖邹市明《姐姐当家 2》表现](https://www.zhihu.com/search?q=%E5%86%89%E8%8E%B9%E9%A2%96%E9%82%B9%E5%B8%82%E6%98%8E%E3%80%8A%E5%A7%90%E5%A7%90%E5%BD%93%E5%AE%B6%202%E3%80%8B%E8%A1%A8%E7%8E%B0)
 1. [台风巴威登陆](https://www.zhihu.com/search?q=%E5%8F%B0%E9%A3%8E%E5%B7%B4%E5%A8%81%E7%99%BB%E9%99%86)
