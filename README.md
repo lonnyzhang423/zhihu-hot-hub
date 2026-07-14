@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-07-14 11:13:52 +0800`
+`更新时间：2026-07-14 14:18:04 +0800`
 
 ## 热门搜索
 
@@ -20,7 +20,6 @@
 1. [高考数据通](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E6%95%B0%E6%8D%AE%E9%80%9A)
 1. [高考分数排名](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E6%8E%92%E5%90%8D)
 1. [小红书遭举报存在VIE信披矛盾等问题](https://www.zhihu.com/search?q=%E5%B0%8F%E7%BA%A2%E4%B9%A6%E9%81%AD%E4%B8%BE%E6%8A%A5%E5%AD%98%E5%9C%A8VIE%E4%BF%A1%E6%8A%AB%E7%9F%9B%E7%9B%BE%E7%AD%89%E9%97%AE%E9%A2%98)
-1. [茉莉奶白侵权 LV 被判赔 1030 万](https://www.zhihu.com/search?q=%E8%8C%89%E8%8E%89%E5%A5%B6%E7%99%BD%E4%BE%B5%E6%9D%83%20LV%20%E8%A2%AB%E5%88%A4%E8%B5%94%201030%20%E4%B8%87)
 1. [冉莹颖邹市明三次离婚没离成](https://www.zhihu.com/search?q=%E5%86%89%E8%8E%B9%E9%A2%96%E9%82%B9%E5%B8%82%E6%98%8E%E4%B8%89%E6%AC%A1%E7%A6%BB%E5%A9%9A%E6%B2%A1%E7%A6%BB%E6%88%90)
 1. [悬案热播](https://www.zhihu.com/search?q=%E6%82%AC%E6%A1%88%E7%83%AD%E6%92%AD)
 1. [悬案真实背景](https://www.zhihu.com/search?q=%E6%82%AC%E6%A1%88%E7%9C%9F%E5%AE%9E%E8%83%8C%E6%99%AF)
@@ -39,10 +38,12 @@
 1. [台风巴威又改路线了](https://www.zhihu.com/search?q=%E5%8F%B0%E9%A3%8E%E5%B7%B4%E5%A8%81%E5%8F%88%E6%94%B9%E8%B7%AF%E7%BA%BF%E4%BA%86)
 1. [OpenAI推出GPT-5.6](https://www.zhihu.com/search?q=OpenAI%E6%8E%A8%E5%87%BAGPT-5.6)
 1. [福建已成立晋江鞋厂火灾事故调查组](https://www.zhihu.com/search?q=%E7%A6%8F%E5%BB%BA%E5%B7%B2%E6%88%90%E7%AB%8B%E6%99%8B%E6%B1%9F%E9%9E%8B%E5%8E%82%E7%81%AB%E7%81%BE%E4%BA%8B%E6%95%85%E8%B0%83%E6%9F%A5%E7%BB%84)
-1. [长征十号乙火箭实现一子级可控回收](https://www.zhihu.com/search?q=%E9%95%BF%E5%BE%81%E5%8D%81%E5%8F%B7%E4%B9%99%E7%81%AB%E7%AE%AD%E5%AE%9E%E7%8E%B0%E4%B8%80%E5%AD%90%E7%BA%A7%E5%8F%AF%E6%8E%A7%E5%9B%9E%E6%94%B6)
-1. [长征十号乙火箭回收成功](https://www.zhihu.com/search?q=%E9%95%BF%E5%BE%81%E5%8D%81%E5%8F%B7%E4%B9%99%E7%81%AB%E7%AE%AD%E5%9B%9E%E6%94%B6%E6%88%90%E5%8A%9F)
 1. [快船猛龙交易叫停](https://www.zhihu.com/search?q=%E5%BF%AB%E8%88%B9%E7%8C%9B%E9%BE%99%E4%BA%A4%E6%98%93%E5%8F%AB%E5%81%9C)
 1. [大疆救人](https://www.zhihu.com/search?q=%E5%A4%A7%E7%96%86%E6%95%91%E4%BA%BA)
+1. [巴威预计12日凌晨登陆](https://www.zhihu.com/search?q=%E5%B7%B4%E5%A8%81%E9%A2%84%E8%AE%A112%E6%97%A5%E5%87%8C%E6%99%A8%E7%99%BB%E9%99%86)
+1. [万妮达淘汰](https://www.zhihu.com/search?q=%E4%B8%87%E5%A6%AE%E8%BE%BE%E6%B7%98%E6%B1%B0)
+1. [巴威再度增强为强台风级](https://www.zhihu.com/search?q=%E5%B7%B4%E5%A8%81%E5%86%8D%E5%BA%A6%E5%A2%9E%E5%BC%BA%E4%B8%BA%E5%BC%BA%E5%8F%B0%E9%A3%8E%E7%BA%A7)
+1. [功夫女足票房突破1亿](https://www.zhihu.com/search?q=%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E7%A5%A8%E6%88%BF%E7%AA%81%E7%A0%B41%E4%BA%BF)
 
 ## 热门话题
 
