@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-07-15 19:40:23 +0800`
+`更新时间：2026-07-15 21:57:20 +0800`
 
 ## 热门搜索
 
-1. [名创优品致歉](https://www.zhihu.com/search?q=%E5%90%8D%E5%88%9B%E4%BC%98%E5%93%81%E8%87%B4%E6%AD%89)
+1. [韩国股市今年来已熔断7次](https://www.zhihu.com/search?q=%E9%9F%A9%E5%9B%BD%E8%82%A1%E5%B8%82%E4%BB%8A%E5%B9%B4%E6%9D%A5%E5%B7%B2%E7%86%94%E6%96%AD7%E6%AC%A1)
+1. [sk海力士暴跌](https://www.zhihu.com/search?q=sk%E6%B5%B7%E5%8A%9B%E5%A3%AB%E6%9A%B4%E8%B7%8C)
 1. [GDP](https://www.zhihu.com/search?q=GDP)
 1. [美国CPI](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BDCPI)
 1. [NBA夏季联赛](https://www.zhihu.com/search?q=NBA%E5%A4%8F%E5%AD%A3%E8%81%94%E8%B5%9B)
@@ -24,7 +25,6 @@
 1. [高考数据通](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E6%95%B0%E6%8D%AE%E9%80%9A)
 1. [高考分数排名](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E6%8E%92%E5%90%8D)
 1. [茉莉奶白侵权 LV 被判赔 1030 万](https://www.zhihu.com/search?q=%E8%8C%89%E8%8E%89%E5%A5%B6%E7%99%BD%E4%BE%B5%E6%9D%83%20LV%20%E8%A2%AB%E5%88%A4%E8%B5%94%201030%20%E4%B8%87)
-1. [sk海力士暴跌](https://www.zhihu.com/search?q=sk%E6%B5%B7%E5%8A%9B%E5%A3%AB%E6%9A%B4%E8%B7%8C)
 1. [灿如繁星](https://www.zhihu.com/search?q=%E7%81%BF%E5%A6%82%E7%B9%81%E6%98%9F)
 1. [悬案热播](https://www.zhihu.com/search?q=%E6%82%AC%E6%A1%88%E7%83%AD%E6%92%AD)
 1. [悬案真实背景](https://www.zhihu.com/search?q=%E6%82%AC%E6%A1%88%E7%9C%9F%E5%AE%9E%E8%83%8C%E6%99%AF)
@@ -39,7 +39,6 @@
 1. [雀骨](https://www.zhihu.com/search?q=%E9%9B%80%E9%AA%A8)
 1. [功夫女足票房突破1亿](https://www.zhihu.com/search?q=%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E7%A5%A8%E6%88%BF%E7%AA%81%E7%A0%B41%E4%BA%BF)
 1. [阿根廷vs瑞士](https://www.zhihu.com/search?q=%E9%98%BF%E6%A0%B9%E5%BB%B7vs%E7%91%9E%E5%A3%AB)
-1. [《功夫女足》热映](https://www.zhihu.com/search?q=%E3%80%8A%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E3%80%8B%E7%83%AD%E6%98%A0)
 1. [内蒙古 16 岁高中生因拍门玩闹被捅杀](https://www.zhihu.com/search?q=%E5%86%85%E8%92%99%E5%8F%A4%2016%20%E5%B2%81%E9%AB%98%E4%B8%AD%E7%94%9F%E5%9B%A0%E6%8B%8D%E9%97%A8%E7%8E%A9%E9%97%B9%E8%A2%AB%E6%8D%85%E6%9D%80)
 1. [冉莹颖邹市明《姐姐当家 2》表现](https://www.zhihu.com/search?q=%E5%86%89%E8%8E%B9%E9%A2%96%E9%82%B9%E5%B8%82%E6%98%8E%E3%80%8A%E5%A7%90%E5%A7%90%E5%BD%93%E5%AE%B6%202%E3%80%8B%E8%A1%A8%E7%8E%B0)
 
