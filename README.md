@@ -11,18 +11,18 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-07-15 19:22:26 +0800`
+`更新时间：2026-07-15 21:14:46 +0800`
 
 ## 热门搜索
 
-1. [名创优品致歉](https://www.zhihu.com/search?q=%E5%90%8D%E5%88%9B%E4%BC%98%E5%93%81%E8%87%B4%E6%AD%89)
+1. [高考分数排名](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E6%8E%92%E5%90%8D)
 1. [GDP](https://www.zhihu.com/search?q=GDP)
 1. [美国CPI](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BDCPI)
 1. [NBA夏季联赛](https://www.zhihu.com/search?q=NBA%E5%A4%8F%E5%AD%A3%E8%81%94%E8%B5%9B)
 1. [TMEA盛典阵容官宣](https://www.zhihu.com/search?q=TMEA%E7%9B%9B%E5%85%B8%E9%98%B5%E5%AE%B9%E5%AE%98%E5%AE%A3)
 1. [美伊冲突](https://www.zhihu.com/search?q=%E7%BE%8E%E4%BC%8A%E5%86%B2%E7%AA%81)
 1. [高考数据通](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E6%95%B0%E6%8D%AE%E9%80%9A)
-1. [高考分数排名](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E6%8E%92%E5%90%8D)
+1. [韩国股市今年来已熔断7次](https://www.zhihu.com/search?q=%E9%9F%A9%E5%9B%BD%E8%82%A1%E5%B8%82%E4%BB%8A%E5%B9%B4%E6%9D%A5%E5%B7%B2%E7%86%94%E6%96%AD7%E6%AC%A1)
 1. [茉莉奶白侵权 LV 被判赔 1030 万](https://www.zhihu.com/search?q=%E8%8C%89%E8%8E%89%E5%A5%B6%E7%99%BD%E4%BE%B5%E6%9D%83%20LV%20%E8%A2%AB%E5%88%A4%E8%B5%94%201030%20%E4%B8%87)
 1. [sk海力士暴跌](https://www.zhihu.com/search?q=sk%E6%B5%B7%E5%8A%9B%E5%A3%AB%E6%9A%B4%E8%B7%8C)
 1. [灿如繁星](https://www.zhihu.com/search?q=%E7%81%BF%E5%A6%82%E7%B9%81%E6%98%9F)
