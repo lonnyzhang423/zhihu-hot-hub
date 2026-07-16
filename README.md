@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-07-16 19:45:29 +0800`
+`更新时间：2026-07-16 22:09:15 +0800`
 
 ## 热门搜索
 
-1. [名创优品致歉](https://www.zhihu.com/search?q=%E5%90%8D%E5%88%9B%E4%BC%98%E5%93%81%E8%87%B4%E6%AD%89)
+1. [为什么潜水是极限运动](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E6%BD%9C%E6%B0%B4%E6%98%AF%E6%9E%81%E9%99%90%E8%BF%90%E5%8A%A8)
+1. [开启40天三伏天](https://www.zhihu.com/search?q=%E5%BC%80%E5%90%AF40%E5%A4%A9%E4%B8%89%E4%BC%8F%E5%A4%A9)
 1. [A股](https://www.zhihu.com/search?q=A%E8%82%A1)
 1. [崩坏星穹铁道](https://www.zhihu.com/search?q=%E5%B4%A9%E5%9D%8F%E6%98%9F%E7%A9%B9%E9%93%81%E9%81%93)
 1. [苏醒](https://www.zhihu.com/search?q=%E8%8B%8F%E9%86%92)
@@ -41,9 +42,9 @@
 1. [具俊晔被曝准备与大S儿女争遗产](https://www.zhihu.com/search?q=%E5%85%B7%E4%BF%8A%E6%99%94%E8%A2%AB%E6%9B%9D%E5%87%86%E5%A4%87%E4%B8%8E%E5%A4%A7S%E5%84%BF%E5%A5%B3%E4%BA%89%E9%81%97%E4%BA%A7)
 1. [英格兰vs阿根廷](https://www.zhihu.com/search?q=%E8%8B%B1%E6%A0%BC%E5%85%B0vs%E9%98%BF%E6%A0%B9%E5%BB%B7)
 1. [新能源车平均车龄仅1.8年](https://www.zhihu.com/search?q=%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E5%B9%B3%E5%9D%87%E8%BD%A6%E9%BE%84%E4%BB%851.8%E5%B9%B4)
+1. [动画电影八仙票房预测](https://www.zhihu.com/search?q=%E5%8A%A8%E7%94%BB%E7%94%B5%E5%BD%B1%E5%85%AB%E4%BB%99%E7%A5%A8%E6%88%BF%E9%A2%84%E6%B5%8B)
 1. [两院士称现在是基础研究最好的时代](https://www.zhihu.com/search?q=%E4%B8%A4%E9%99%A2%E5%A3%AB%E7%A7%B0%E7%8E%B0%E5%9C%A8%E6%98%AF%E5%9F%BA%E7%A1%80%E7%A0%94%E7%A9%B6%E6%9C%80%E5%A5%BD%E7%9A%84%E6%97%B6%E4%BB%A3)
 1. [2030年海南将禁售燃油车](https://www.zhihu.com/search?q=2030%E5%B9%B4%E6%B5%B7%E5%8D%97%E5%B0%86%E7%A6%81%E5%94%AE%E7%87%83%E6%B2%B9%E8%BD%A6)
-1. [台风巴威致青岛海水倒灌](https://www.zhihu.com/search?q=%E5%8F%B0%E9%A3%8E%E5%B7%B4%E5%A8%81%E8%87%B4%E9%9D%92%E5%B2%9B%E6%B5%B7%E6%B0%B4%E5%80%92%E7%81%8C)
 
 ## 热门话题
 
