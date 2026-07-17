@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-07-17 20:15:07 +0800`
+`更新时间：2026-07-17 22:48:20 +0800`
 
 ## 热门搜索
 
@@ -38,9 +38,9 @@
 1. [方便面怎么煮才好吃](https://www.zhihu.com/search?q=%E6%96%B9%E4%BE%BF%E9%9D%A2%E6%80%8E%E4%B9%88%E7%85%AE%E6%89%8D%E5%A5%BD%E5%90%83)
 1. [普通人要Codex有什么用](https://www.zhihu.com/search?q=%E6%99%AE%E9%80%9A%E4%BA%BA%E8%A6%81Codex%E6%9C%89%E4%BB%80%E4%B9%88%E7%94%A8)
 1. [AI泡沫还能持续多久](https://www.zhihu.com/search?q=AI%E6%B3%A1%E6%B2%AB%E8%BF%98%E8%83%BD%E6%8C%81%E7%BB%AD%E5%A4%9A%E4%B9%85)
+1. [《八仙！》定档 7 月 24 日](https://www.zhihu.com/search?q=%E3%80%8A%E5%85%AB%E4%BB%99%EF%BC%81%E3%80%8B%E5%AE%9A%E6%A1%A3%207%20%E6%9C%88%2024%20%E6%97%A5)
 1. [Starlink为什么能跑通](https://www.zhihu.com/search?q=Starlink%E4%B8%BA%E4%BB%80%E4%B9%88%E8%83%BD%E8%B7%91%E9%80%9A)
 1. [高考数据通](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E6%95%B0%E6%8D%AE%E9%80%9A)
-1. [高考分数排名](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E6%8E%92%E5%90%8D)
 
 ## 热门话题
 
