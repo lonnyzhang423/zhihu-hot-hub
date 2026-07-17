@@ -11,38 +11,37 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-07-17 12:55:48 +0800`
+`更新时间：2026-07-17 15:11:16 +0800`
 
 ## 热门搜索
 
-1. [名创优品致歉](https://www.zhihu.com/search?q=%E5%90%8D%E5%88%9B%E4%BC%98%E5%93%81%E8%87%B4%E6%AD%89)
-1. [A股](https://www.zhihu.com/search?q=A%E8%82%A1)
-1. [崩坏星穹铁道](https://www.zhihu.com/search?q=%E5%B4%A9%E5%9D%8F%E6%98%9F%E7%A9%B9%E9%93%81%E9%81%93)
-1. [苏醒](https://www.zhihu.com/search?q=%E8%8B%8F%E9%86%92)
-1. [强对流天气](https://www.zhihu.com/search?q=%E5%BC%BA%E5%AF%B9%E6%B5%81%E5%A4%A9%E6%B0%94)
-1. [入伏](https://www.zhihu.com/search?q=%E5%85%A5%E4%BC%8F)
-1. [NBA夏季联赛](https://www.zhihu.com/search?q=NBA%E5%A4%8F%E5%AD%A3%E8%81%94%E8%B5%9B)
-1. [奔跑吧14](https://www.zhihu.com/search?q=%E5%A5%94%E8%B7%91%E5%90%A714)
-1. [功夫女足](https://www.zhihu.com/search?q=%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3)
 1. [高考数据通](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E6%95%B0%E6%8D%AE%E9%80%9A)
 1. [高考分数排名](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E6%8E%92%E5%90%8D)
 1. [冉莹颖邹市明三次离婚没离成](https://www.zhihu.com/search?q=%E5%86%89%E8%8E%B9%E9%A2%96%E9%82%B9%E5%B8%82%E6%98%8E%E4%B8%89%E6%AC%A1%E7%A6%BB%E5%A9%9A%E6%B2%A1%E7%A6%BB%E6%88%90)
-1. [灿如繁星](https://www.zhihu.com/search?q=%E7%81%BF%E5%A6%82%E7%B9%81%E6%98%9F)
 1. [悬案热播](https://www.zhihu.com/search?q=%E6%82%AC%E6%A1%88%E7%83%AD%E6%92%AD)
 1. [悬案真实背景](https://www.zhihu.com/search?q=%E6%82%AC%E6%A1%88%E7%9C%9F%E5%AE%9E%E8%83%8C%E6%99%AF)
 1. [悬案导演答](https://www.zhihu.com/search?q=%E6%82%AC%E6%A1%88%E5%AF%BC%E6%BC%94%E7%AD%94)
 1. [悬案播出](https://www.zhihu.com/search?q=%E6%82%AC%E6%A1%88%E6%92%AD%E5%87%BA)
 1. [悬案真实](https://www.zhihu.com/search?q=%E6%82%AC%E6%A1%88%E7%9C%9F%E5%AE%9E)
 1. [长鑫科技最高估值超4万亿](https://www.zhihu.com/search?q=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E6%9C%80%E9%AB%98%E4%BC%B0%E5%80%BC%E8%B6%854%E4%B8%87%E4%BA%BF)
-1. [阿根廷vs瑞士](https://www.zhihu.com/search?q=%E9%98%BF%E6%A0%B9%E5%BB%B7vs%E7%91%9E%E5%A3%AB)
 1. [《功夫女足》热映](https://www.zhihu.com/search?q=%E3%80%8A%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E3%80%8B%E7%83%AD%E6%98%A0)
 1. [冉莹颖邹市明《姐姐当家 2》表现](https://www.zhihu.com/search?q=%E5%86%89%E8%8E%B9%E9%A2%96%E9%82%B9%E5%B8%82%E6%98%8E%E3%80%8A%E5%A7%90%E5%A7%90%E5%BD%93%E5%AE%B6%202%E3%80%8B%E8%A1%A8%E7%8E%B0)
-1. [英格兰vs阿根廷](https://www.zhihu.com/search?q=%E8%8B%B1%E6%A0%BC%E5%85%B0vs%E9%98%BF%E6%A0%B9%E5%BB%B7)
 1. [新能源车平均车龄仅1.8年](https://www.zhihu.com/search?q=%E6%96%B0%E8%83%BD%E6%BA%90%E8%BD%A6%E5%B9%B3%E5%9D%87%E8%BD%A6%E9%BE%84%E4%BB%851.8%E5%B9%B4)
 1. [动画电影八仙票房预测](https://www.zhihu.com/search?q=%E5%8A%A8%E7%94%BB%E7%94%B5%E5%BD%B1%E5%85%AB%E4%BB%99%E7%A5%A8%E6%88%BF%E9%A2%84%E6%B5%8B)
 1. [辽宁多地暴雨](https://www.zhihu.com/search?q=%E8%BE%BD%E5%AE%81%E5%A4%9A%E5%9C%B0%E6%9A%B4%E9%9B%A8)
 1. [被字节开除索赔的实习生创业](https://www.zhihu.com/search?q=%E8%A2%AB%E5%AD%97%E8%8A%82%E5%BC%80%E9%99%A4%E7%B4%A2%E8%B5%94%E7%9A%84%E5%AE%9E%E4%B9%A0%E7%94%9F%E5%88%9B%E4%B8%9A)
 1. [SpaceX星舰第13次试飞](https://www.zhihu.com/search?q=SpaceX%E6%98%9F%E8%88%B0%E7%AC%AC13%E6%AC%A1%E8%AF%95%E9%A3%9E)
+1. [沈阳百年一遇暴雨](https://www.zhihu.com/search?q=%E6%B2%88%E9%98%B3%E7%99%BE%E5%B9%B4%E4%B8%80%E9%81%87%E6%9A%B4%E9%9B%A8)
+1. [周星驰曾称没人欠我电影票](https://www.zhihu.com/search?q=%E5%91%A8%E6%98%9F%E9%A9%B0%E6%9B%BE%E7%A7%B0%E6%B2%A1%E4%BA%BA%E6%AC%A0%E6%88%91%E7%94%B5%E5%BD%B1%E7%A5%A8)
+1. [苹果测试长鑫存储内存芯片](https://www.zhihu.com/search?q=%E8%8B%B9%E6%9E%9C%E6%B5%8B%E8%AF%95%E9%95%BF%E9%91%AB%E5%AD%98%E5%82%A8%E5%86%85%E5%AD%98%E8%8A%AF%E7%89%87)
+1. [王虹邓煜 菲尔兹奖](https://www.zhihu.com/search?q=%E7%8E%8B%E8%99%B9%E9%82%93%E7%85%9C%20%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96)
+1. [功夫女足预测票房升至30.3亿](https://www.zhihu.com/search?q=%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E9%A2%84%E6%B5%8B%E7%A5%A8%E6%88%BF%E5%8D%87%E8%87%B330.3%E4%BA%BF)
+1. [曝王虹邓煜疑似获 2026 菲尔兹奖](https://www.zhihu.com/search?q=%E6%9B%9D%E7%8E%8B%E8%99%B9%E9%82%93%E7%85%9C%E7%96%91%E4%BC%BC%E8%8E%B7%202026%20%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96)
+1. [乐事被曝薯片中吃出蓝薯片异物](https://www.zhihu.com/search?q=%E4%B9%90%E4%BA%8B%E8%A2%AB%E6%9B%9D%E8%96%AF%E7%89%87%E4%B8%AD%E5%90%83%E5%87%BA%E8%93%9D%E8%96%AF%E7%89%87%E5%BC%82%E7%89%A9)
+1. [邹市明夫妇投资理财亏损2亿](https://www.zhihu.com/search?q=%E9%82%B9%E5%B8%82%E6%98%8E%E5%A4%AB%E5%A6%87%E6%8A%95%E8%B5%84%E7%90%86%E8%B4%A2%E4%BA%8F%E6%8D%9F2%E4%BA%BF)
+1. [LV起诉国家知产局](https://www.zhihu.com/search?q=LV%E8%B5%B7%E8%AF%89%E5%9B%BD%E5%AE%B6%E7%9F%A5%E4%BA%A7%E5%B1%80)
+1. [Codex 搭载 GPT-5.6 后用户弃用 Skills](https://www.zhihu.com/search?q=Codex%20%E6%90%AD%E8%BD%BD%20GPT-5.6%20%E5%90%8E%E7%94%A8%E6%88%B7%E5%BC%83%E7%94%A8%20Skills)
+1. [曝具俊晔祭拜大 S 是节目组摆拍](https://www.zhihu.com/search?q=%E6%9B%9D%E5%85%B7%E4%BF%8A%E6%99%94%E7%A5%AD%E6%8B%9C%E5%A4%A7%20S%20%E6%98%AF%E8%8A%82%E7%9B%AE%E7%BB%84%E6%91%86%E6%8B%8D)
 
 ## 热门话题
 
