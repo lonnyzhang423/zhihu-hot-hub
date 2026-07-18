@@ -11,11 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-07-18 12:40:13 +0800`
+`更新时间：2026-07-18 14:53:52 +0800`
 
 ## 热门搜索
 
-1. [名创优品致歉](https://www.zhihu.com/search?q=%E5%90%8D%E5%88%9B%E4%BC%98%E5%93%81%E8%87%B4%E6%AD%89)
+1. [佛得角门将回应加盟迈阿密国际](https://www.zhihu.com/search?q=%E4%BD%9B%E5%BE%97%E8%A7%92%E9%97%A8%E5%B0%86%E5%9B%9E%E5%BA%94%E5%8A%A0%E7%9B%9F%E8%BF%88%E9%98%BF%E5%AF%86%E5%9B%BD%E9%99%85)
 1. [A股](https://www.zhihu.com/search?q=A%E8%82%A1)
 1. [王者荣耀](https://www.zhihu.com/search?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80)
 1. [上证指数](https://www.zhihu.com/search?q=%E4%B8%8A%E8%AF%81%E6%8C%87%E6%95%B0)
