@@ -11,11 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-07-18 16:43:27 +0800`
+`更新时间：2026-07-18 18:10:20 +0800`
 
 ## 热门搜索
 
-1. [阿迪达斯又放假了](https://www.zhihu.com/search?q=%E9%98%BF%E8%BF%AA%E8%BE%BE%E6%96%AF%E5%8F%88%E6%94%BE%E5%81%87%E4%BA%86)
+1. [名创优品致歉](https://www.zhihu.com/search?q=%E5%90%8D%E5%88%9B%E4%BC%98%E5%93%81%E8%87%B4%E6%AD%89)
 1. [A股](https://www.zhihu.com/search?q=A%E8%82%A1)
 1. [王者荣耀](https://www.zhihu.com/search?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80)
 1. [上证指数](https://www.zhihu.com/search?q=%E4%B8%8A%E8%AF%81%E6%8C%87%E6%95%B0)
@@ -40,7 +40,6 @@
 1. [AI泡沫还能持续多久](https://www.zhihu.com/search?q=AI%E6%B3%A1%E6%B2%AB%E8%BF%98%E8%83%BD%E6%8C%81%E7%BB%AD%E5%A4%9A%E4%B9%85)
 1. [《八仙！》定档 7 月 24 日](https://www.zhihu.com/search?q=%E3%80%8A%E5%85%AB%E4%BB%99%EF%BC%81%E3%80%8B%E5%AE%9A%E6%A1%A3%207%20%E6%9C%88%2024%20%E6%97%A5)
 1. [Starlink为什么能跑通](https://www.zhihu.com/search?q=Starlink%E4%B8%BA%E4%BB%80%E4%B9%88%E8%83%BD%E8%B7%91%E9%80%9A)
-1. [高考数据通](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E6%95%B0%E6%8D%AE%E9%80%9A)
 
 ## 热门话题
 
