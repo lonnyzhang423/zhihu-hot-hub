@@ -11,36 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-07-18 06:39:51 +0800`
+`更新时间：2026-07-18 08:10:12 +0800`
 
 ## 热门搜索
 
-1. [名创优品致歉](https://www.zhihu.com/search?q=%E5%90%8D%E5%88%9B%E4%BC%98%E5%93%81%E8%87%B4%E6%AD%89)
-1. [A股](https://www.zhihu.com/search?q=A%E8%82%A1)
-1. [王者荣耀](https://www.zhihu.com/search?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80)
-1. [上证指数](https://www.zhihu.com/search?q=%E4%B8%8A%E8%AF%81%E6%8C%87%E6%95%B0)
-1. [油价](https://www.zhihu.com/search?q=%E6%B2%B9%E4%BB%B7)
-1. [阿根廷](https://www.zhihu.com/search?q=%E9%98%BF%E6%A0%B9%E5%BB%B7)
-1. [BLG战胜T1](https://www.zhihu.com/search?q=BLG%E6%88%98%E8%83%9CT1)
-1. [你的低成本爱好是什么](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9A%84%E4%BD%8E%E6%88%90%E6%9C%AC%E7%88%B1%E5%A5%BD%E6%98%AF%E4%BB%80%E4%B9%88)
-1. [如何评价歼50战斗机](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E6%AD%BC50%E6%88%98%E6%96%97%E6%9C%BA)
-1. [你知道哪些很冷的冷知识](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9F%A5%E9%81%93%E5%93%AA%E4%BA%9B%E5%BE%88%E5%86%B7%E7%9A%84%E5%86%B7%E7%9F%A5%E8%AF%86)
-1. [为什么狗对小孩子容忍度高](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%8B%97%E5%AF%B9%E5%B0%8F%E5%AD%A9%E5%AD%90%E5%AE%B9%E5%BF%8D%E5%BA%A6%E9%AB%98)
-1. [如何低成本照顾自己的心理健康](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E4%BD%8E%E6%88%90%E6%9C%AC%E7%85%A7%E9%A1%BE%E8%87%AA%E5%B7%B1%E7%9A%84%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7)
-1. [目前你总结出最大的旅行经验](https://www.zhihu.com/search?q=%E7%9B%AE%E5%89%8D%E4%BD%A0%E6%80%BB%E7%BB%93%E5%87%BA%E6%9C%80%E5%A4%A7%E7%9A%84%E6%97%85%E8%A1%8C%E7%BB%8F%E9%AA%8C)
-1. [世界最伟大的水果](https://www.zhihu.com/search?q=%E4%B8%96%E7%95%8C%E6%9C%80%E4%BC%9F%E5%A4%A7%E7%9A%84%E6%B0%B4%E6%9E%9C)
-1. [公司即将要倒闭的征兆](https://www.zhihu.com/search?q=%E5%85%AC%E5%8F%B8%E5%8D%B3%E5%B0%86%E8%A6%81%E5%80%92%E9%97%AD%E7%9A%84%E5%BE%81%E5%85%86)
-1. [工作中到底能闯多大的祸](https://www.zhihu.com/search?q=%E5%B7%A5%E4%BD%9C%E4%B8%AD%E5%88%B0%E5%BA%95%E8%83%BD%E9%97%AF%E5%A4%9A%E5%A4%A7%E7%9A%84%E7%A5%B8)
-1. [普通人的一生该如何破局](https://www.zhihu.com/search?q=%E6%99%AE%E9%80%9A%E4%BA%BA%E7%9A%84%E4%B8%80%E7%94%9F%E8%AF%A5%E5%A6%82%E4%BD%95%E7%A0%B4%E5%B1%80)
-1. [杨翰森还能在nba待多久](https://www.zhihu.com/search?q=%E6%9D%A8%E7%BF%B0%E6%A3%AE%E8%BF%98%E8%83%BD%E5%9C%A8nba%E5%BE%85%E5%A4%9A%E4%B9%85)
-1. [为什么很多人喜欢养猫](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BE%88%E5%A4%9A%E4%BA%BA%E5%96%9C%E6%AC%A2%E5%85%BB%E7%8C%AB)
-1. [石勒为什么认为刘邦比刘秀强](https://www.zhihu.com/search?q=%E7%9F%B3%E5%8B%92%E4%B8%BA%E4%BB%80%E4%B9%88%E8%AE%A4%E4%B8%BA%E5%88%98%E9%82%A6%E6%AF%94%E5%88%98%E7%A7%80%E5%BC%BA)
-1. [方便面怎么煮才好吃](https://www.zhihu.com/search?q=%E6%96%B9%E4%BE%BF%E9%9D%A2%E6%80%8E%E4%B9%88%E7%85%AE%E6%89%8D%E5%A5%BD%E5%90%83)
-1. [普通人要Codex有什么用](https://www.zhihu.com/search?q=%E6%99%AE%E9%80%9A%E4%BA%BA%E8%A6%81Codex%E6%9C%89%E4%BB%80%E4%B9%88%E7%94%A8)
-1. [AI泡沫还能持续多久](https://www.zhihu.com/search?q=AI%E6%B3%A1%E6%B2%AB%E8%BF%98%E8%83%BD%E6%8C%81%E7%BB%AD%E5%A4%9A%E4%B9%85)
-1. [《八仙！》定档 7 月 24 日](https://www.zhihu.com/search?q=%E3%80%8A%E5%85%AB%E4%BB%99%EF%BC%81%E3%80%8B%E5%AE%9A%E6%A1%A3%207%20%E6%9C%88%2024%20%E6%97%A5)
-1. [Starlink为什么能跑通](https://www.zhihu.com/search?q=Starlink%E4%B8%BA%E4%BB%80%E4%B9%88%E8%83%BD%E8%B7%91%E9%80%9A)
-1. [高考数据通](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E6%95%B0%E6%8D%AE%E9%80%9A)
+暂无数据
 
 ## 热门话题
 
