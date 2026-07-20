@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-07-20 10:06:30 +0800`
+`更新时间：2026-07-20 14:06:59 +0800`
 
 ## 热门搜索
 
-1. [名创优品致歉](https://www.zhihu.com/search?q=%E5%90%8D%E5%88%9B%E4%BC%98%E5%93%81%E8%87%B4%E6%AD%89)
+1. [以后大家拼的就是身体了](https://www.zhihu.com/search?q=%E4%BB%A5%E5%90%8E%E5%A4%A7%E5%AE%B6%E6%8B%BC%E7%9A%84%E5%B0%B1%E6%98%AF%E8%BA%AB%E4%BD%93%E4%BA%86)
+1. [chatgpt出现故障](https://www.zhihu.com/search?q=chatgpt%E5%87%BA%E7%8E%B0%E6%95%85%E9%9A%9C)
 1. [A股](https://www.zhihu.com/search?q=A%E8%82%A1)
 1. [王者荣耀](https://www.zhihu.com/search?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80)
 1. [上证指数](https://www.zhihu.com/search?q=%E4%B8%8A%E8%AF%81%E6%8C%87%E6%95%B0)
