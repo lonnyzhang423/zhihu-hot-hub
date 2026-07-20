@@ -11,19 +11,17 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-07-20 19:51:31 +0800`
+`更新时间：2026-07-20 22:22:41 +0800`
 
 ## 热门搜索
 
-1. [大连英博3比1山东泰山](https://www.zhihu.com/search?q=%E5%A4%A7%E8%BF%9E%E8%8B%B1%E5%8D%9A3%E6%AF%941%E5%B1%B1%E4%B8%9C%E6%B3%B0%E5%B1%B1)
-1. [女孩囤积大量吧唧致甲醛中毒](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%A9%E5%9B%A4%E7%A7%AF%E5%A4%A7%E9%87%8F%E5%90%A7%E5%94%A7%E8%87%B4%E7%94%B2%E9%86%9B%E4%B8%AD%E6%AF%92)
+1. [金球奖](https://www.zhihu.com/search?q=%E9%87%91%E7%90%83%E5%A5%96)
 1. [a股](https://www.zhihu.com/search?q=a%E8%82%A1)
 1. [F1](https://www.zhihu.com/search?q=F1)
 1. [苏醒](https://www.zhihu.com/search?q=%E8%8B%8F%E9%86%92)
 1. [GEN对战T1](https://www.zhihu.com/search?q=GEN%E5%AF%B9%E6%88%98T1)
 1. [A股行情](https://www.zhihu.com/search?q=A%E8%82%A1%E8%A1%8C%E6%83%85)
 1. [澎湖海战](https://www.zhihu.com/search?q=%E6%BE%8E%E6%B9%96%E6%B5%B7%E6%88%98)
-1. [《八仙！》定档 7 月 24 日](https://www.zhihu.com/search?q=%E3%80%8A%E5%85%AB%E4%BB%99%EF%BC%81%E3%80%8B%E5%AE%9A%E6%A1%A3%207%20%E6%9C%88%2024%20%E6%97%A5)
 1. [高考数据通](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E6%95%B0%E6%8D%AE%E9%80%9A)
 1. [高考分数排名](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E6%8E%92%E5%90%8D)
 1. [半熟恋人5](https://www.zhihu.com/search?q=%E5%8D%8A%E7%86%9F%E6%81%8B%E4%BA%BA5)
@@ -38,8 +36,10 @@
 1. [DeepSeek V4 正式版即将发布](https://www.zhihu.com/search?q=DeepSeek%20V4%20%E6%AD%A3%E5%BC%8F%E7%89%88%E5%8D%B3%E5%B0%86%E5%8F%91%E5%B8%83)
 1. [曝气象局会卡40℃不报](https://www.zhihu.com/search?q=%E6%9B%9D%E6%B0%94%E8%B1%A1%E5%B1%80%E4%BC%9A%E5%8D%A140%E2%84%83%E4%B8%8D%E6%8A%A5)
 1. [重庆彭水发生山体崩塌](https://www.zhihu.com/search?q=%E9%87%8D%E5%BA%86%E5%BD%AD%E6%B0%B4%E5%8F%91%E7%94%9F%E5%B1%B1%E4%BD%93%E5%B4%A9%E5%A1%8C)
-1. [比亚迪高管评中国车市](https://www.zhihu.com/search?q=%E6%AF%94%E4%BA%9A%E8%BF%AA%E9%AB%98%E7%AE%A1%E8%AF%84%E4%B8%AD%E5%9B%BD%E8%BD%A6%E5%B8%82)
 1. [曲婉婷自曝得乳腺癌](https://www.zhihu.com/search?q=%E6%9B%B2%E5%A9%89%E5%A9%B7%E8%87%AA%E6%9B%9D%E5%BE%97%E4%B9%B3%E8%85%BA%E7%99%8C)
+1. [重庆山体垮塌疑引发烟花厂爆炸](https://www.zhihu.com/search?q=%E9%87%8D%E5%BA%86%E5%B1%B1%E4%BD%93%E5%9E%AE%E5%A1%8C%E7%96%91%E5%BC%95%E5%8F%91%E7%83%9F%E8%8A%B1%E5%8E%82%E7%88%86%E7%82%B8)
+1. [人生选择模拟器](https://www.zhihu.com/search?q=%E4%BA%BA%E7%94%9F%E9%80%89%E6%8B%A9%E6%A8%A1%E6%8B%9F%E5%99%A8)
+1. [《功夫女足》7 天票房破 10 亿](https://www.zhihu.com/search?q=%E3%80%8A%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3%E3%80%8B7%20%E5%A4%A9%E7%A5%A8%E6%88%BF%E7%A0%B4%2010%20%E4%BA%BF)
 
 ## 热门话题
 
