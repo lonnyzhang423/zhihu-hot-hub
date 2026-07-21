@@ -11,11 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-07-21 20:21:02 +0800`
+`更新时间：2026-07-21 22:56:33 +0800`
 
 ## 热门搜索
 
-1. [上证指数](https://www.zhihu.com/search?q=%E4%B8%8A%E8%AF%81%E6%8C%87%E6%95%B0)
+1. [不太理解光脚穿洞洞鞋的人](https://www.zhihu.com/search?q=%E4%B8%8D%E5%A4%AA%E7%90%86%E8%A7%A3%E5%85%89%E8%84%9A%E7%A9%BF%E6%B4%9E%E6%B4%9E%E9%9E%8B%E7%9A%84%E4%BA%BA)
 1. [F1](https://www.zhihu.com/search?q=F1)
 1. [高考数据通](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E6%95%B0%E6%8D%AE%E9%80%9A)
 1. [高考分数排名](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E6%8E%92%E5%90%8D)
@@ -31,7 +31,6 @@
 1. [詹姆斯下家](https://www.zhihu.com/search?q=%E8%A9%B9%E5%A7%86%E6%96%AF%E4%B8%8B%E5%AE%B6)
 1. [2026年菲尔兹奖](https://www.zhihu.com/search?q=2026%E5%B9%B4%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96)
 1. [莫言之女管笑笑被爆论文涉嫌抄袭](https://www.zhihu.com/search?q=%E8%8E%AB%E8%A8%80%E4%B9%8B%E5%A5%B3%E7%AE%A1%E7%AC%91%E7%AC%91%E8%A2%AB%E7%88%86%E8%AE%BA%E6%96%87%E6%B6%89%E5%AB%8C%E6%8A%84%E8%A2%AD)
-1. [女孩囤积大量吧唧致甲醛中毒](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%A9%E5%9B%A4%E7%A7%AF%E5%A4%A7%E9%87%8F%E5%90%A7%E5%94%A7%E8%87%B4%E7%94%B2%E9%86%9B%E4%B8%AD%E6%AF%92)
 1. [电影《八仙！》海外定档](https://www.zhihu.com/search?q=%E7%94%B5%E5%BD%B1%E3%80%8A%E5%85%AB%E4%BB%99%EF%BC%81%E3%80%8B%E6%B5%B7%E5%A4%96%E5%AE%9A%E6%A1%A3)
 1. [《八仙！》票房破 2 亿](https://www.zhihu.com/search?q=%E3%80%8A%E5%85%AB%E4%BB%99%EF%BC%81%E3%80%8B%E7%A5%A8%E6%88%BF%E7%A0%B4%202%20%E4%BA%BF)
 1. [为何穿凉鞋的人越来越少了](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BD%95%E7%A9%BF%E5%87%89%E9%9E%8B%E7%9A%84%E4%BA%BA%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%B0%91%E4%BA%86)
@@ -39,7 +38,8 @@
 1. [人类发现生命所需三大特征均具备行星](https://www.zhihu.com/search?q=%E4%BA%BA%E7%B1%BB%E5%8F%91%E7%8E%B0%E7%94%9F%E5%91%BD%E6%89%80%E9%9C%80%E4%B8%89%E5%A4%A7%E7%89%B9%E5%BE%81%E5%9D%87%E5%85%B7%E5%A4%87%E8%A1%8C%E6%98%9F)
 1. [杭州图书馆允许流浪汉免费入馆阅读](https://www.zhihu.com/search?q=%E6%9D%AD%E5%B7%9E%E5%9B%BE%E4%B9%A6%E9%A6%86%E5%85%81%E8%AE%B8%E6%B5%81%E6%B5%AA%E6%B1%89%E5%85%8D%E8%B4%B9%E5%85%A5%E9%A6%86%E9%98%85%E8%AF%BB)
 1. [樊振东解说阿根廷西班牙决赛](https://www.zhihu.com/search?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%E8%A7%A3%E8%AF%B4%E9%98%BF%E6%A0%B9%E5%BB%B7%E8%A5%BF%E7%8F%AD%E7%89%99%E5%86%B3%E8%B5%9B)
-1. [西班牙 vs 阿根廷](https://www.zhihu.com/search?q=%E8%A5%BF%E7%8F%AD%E7%89%99%20vs%20%E9%98%BF%E6%A0%B9%E5%BB%B7)
+1. [武汉高空作业副绳疑遭人为割断](https://www.zhihu.com/search?q=%E6%AD%A6%E6%B1%89%E9%AB%98%E7%A9%BA%E4%BD%9C%E4%B8%9A%E5%89%AF%E7%BB%B3%E7%96%91%E9%81%AD%E4%BA%BA%E4%B8%BA%E5%89%B2%E6%96%AD)
+1. [月之暗面kimi称算力紧缺](https://www.zhihu.com/search?q=%E6%9C%88%E4%B9%8B%E6%9A%97%E9%9D%A2kimi%E7%A7%B0%E7%AE%97%E5%8A%9B%E7%B4%A7%E7%BC%BA)
 
 ## 热门话题
 
