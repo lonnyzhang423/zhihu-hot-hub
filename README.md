@@ -11,17 +11,25 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-07-22 17:31:41 +0800`
+`更新时间：2026-07-22 19:53:12 +0800`
 
 ## 热门搜索
 
+1. [台风](https://www.zhihu.com/search?q=%E5%8F%B0%E9%A3%8E)
+1. [韦世豪破门](https://www.zhihu.com/search?q=%E9%9F%A6%E4%B8%96%E8%B1%AA%E7%A0%B4%E9%97%A8)
+1. [上海申花vs青岛海牛](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%E7%94%B3%E8%8A%B1vs%E9%9D%92%E5%B2%9B%E6%B5%B7%E7%89%9B)
+1. [电影功夫女足](https://www.zhihu.com/search?q=%E7%94%B5%E5%BD%B1%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3)
 1. [高考数据通](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E6%95%B0%E6%8D%AE%E9%80%9A)
 1. [高考分数排名](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E6%8E%92%E5%90%8D)
+1. [恋与深空](https://www.zhihu.com/search?q=%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA)
+1. [半熟恋人](https://www.zhihu.com/search?q=%E5%8D%8A%E7%86%9F%E6%81%8B%E4%BA%BA)
 1. [阿根廷 脏](https://www.zhihu.com/search?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%20%E8%84%8F)
+1. [雀骨](https://www.zhihu.com/search?q=%E9%9B%80%E9%AA%A8)
+1. [百花杀](https://www.zhihu.com/search?q=%E7%99%BE%E8%8A%B1%E6%9D%80)
 1. [Kimi-K3 灰度测试](https://www.zhihu.com/search?q=Kimi-K3%20%E7%81%B0%E5%BA%A6%E6%B5%8B%E8%AF%95)
-1. [2026 世界人工智能大会](https://www.zhihu.com/search?q=2026%20%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E4%BC%9A)
 1. [KIMI K3模型正式上线](https://www.zhihu.com/search?q=KIMI%20K3%E6%A8%A1%E5%9E%8B%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF)
 1. [DeepSeek V4 正式版即将发布](https://www.zhihu.com/search?q=DeepSeek%20V4%20%E6%AD%A3%E5%BC%8F%E7%89%88%E5%8D%B3%E5%B0%86%E5%8F%91%E5%B8%83)
+1. [西班牙vs阿根廷](https://www.zhihu.com/search?q=%E8%A5%BF%E7%8F%AD%E7%89%99vs%E9%98%BF%E6%A0%B9%E5%BB%B7)
 1. [2026年菲尔兹奖](https://www.zhihu.com/search?q=2026%E5%B9%B4%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96)
 1. [于东来建议年假至少休20至40天](https://www.zhihu.com/search?q=%E4%BA%8E%E4%B8%9C%E6%9D%A5%E5%BB%BA%E8%AE%AE%E5%B9%B4%E5%81%87%E8%87%B3%E5%B0%91%E4%BC%9120%E8%87%B340%E5%A4%A9)
 1. [莫言之女管笑笑被爆论文涉嫌抄袭](https://www.zhihu.com/search?q=%E8%8E%AB%E8%A8%80%E4%B9%8B%E5%A5%B3%E7%AE%A1%E7%AC%91%E7%AC%91%E8%A2%AB%E7%88%86%E8%AE%BA%E6%96%87%E6%B6%89%E5%AB%8C%E6%8A%84%E8%A2%AD)
@@ -33,10 +41,6 @@
 1. [马龙许昕全锦赛男双夺冠](https://www.zhihu.com/search?q=%E9%A9%AC%E9%BE%99%E8%AE%B8%E6%98%95%E5%85%A8%E9%94%A6%E8%B5%9B%E7%94%B7%E5%8F%8C%E5%A4%BA%E5%86%A0)
 1. [月之暗面kimi称算力紧缺](https://www.zhihu.com/search?q=%E6%9C%88%E4%B9%8B%E6%9A%97%E9%9D%A2kimi%E7%A7%B0%E7%AE%97%E5%8A%9B%E7%B4%A7%E7%BC%BA)
 1. [西班牙 1-0 阿根廷](https://www.zhihu.com/search?q=%E8%A5%BF%E7%8F%AD%E7%89%99%201-0%20%E9%98%BF%E6%A0%B9%E5%BB%B7)
-1. [西班牙夺冠](https://www.zhihu.com/search?q=%E8%A5%BF%E7%8F%AD%E7%89%99%E5%A4%BA%E5%86%A0)
-1. [全美出现数据中心出售潮](https://www.zhihu.com/search?q=%E5%85%A8%E7%BE%8E%E5%87%BA%E7%8E%B0%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E5%87%BA%E5%94%AE%E6%BD%AE)
-1. [拼多多自动推荐微信图片物品](https://www.zhihu.com/search?q=%E6%8B%BC%E5%A4%9A%E5%A4%9A%E8%87%AA%E5%8A%A8%E6%8E%A8%E8%8D%90%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87%E7%89%A9%E5%93%81)
-1. [西班牙领奖时阿根廷全队背过身](https://www.zhihu.com/search?q=%E8%A5%BF%E7%8F%AD%E7%89%99%E9%A2%86%E5%A5%96%E6%97%B6%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%85%A8%E9%98%9F%E8%83%8C%E8%BF%87%E8%BA%AB)
 
 ## 热门话题
 
