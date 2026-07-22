@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-07-22 18:58:37 +0800`
+`更新时间：2026-07-22 20:24:06 +0800`
 
 ## 热门搜索
 
@@ -22,6 +22,11 @@
 1. [高考数据通](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E6%95%B0%E6%8D%AE%E9%80%9A)
 1. [高考分数排名](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E6%8E%92%E5%90%8D)
 1. [恋与深空](https://www.zhihu.com/search?q=%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA)
+1. [悬案热播](https://www.zhihu.com/search?q=%E6%82%AC%E6%A1%88%E7%83%AD%E6%92%AD)
+1. [悬案真实背景](https://www.zhihu.com/search?q=%E6%82%AC%E6%A1%88%E7%9C%9F%E5%AE%9E%E8%83%8C%E6%99%AF)
+1. [悬案导演答](https://www.zhihu.com/search?q=%E6%82%AC%E6%A1%88%E5%AF%BC%E6%BC%94%E7%AD%94)
+1. [悬案播出](https://www.zhihu.com/search?q=%E6%82%AC%E6%A1%88%E6%92%AD%E5%87%BA)
+1. [悬案真实](https://www.zhihu.com/search?q=%E6%82%AC%E6%A1%88%E7%9C%9F%E5%AE%9E)
 1. [半熟恋人](https://www.zhihu.com/search?q=%E5%8D%8A%E7%86%9F%E6%81%8B%E4%BA%BA)
 1. [阿根廷 脏](https://www.zhihu.com/search?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%20%E8%84%8F)
 1. [雀骨](https://www.zhihu.com/search?q=%E9%9B%80%E9%AA%A8)
@@ -37,10 +42,6 @@
 1. [旭旭宝宝不看周星驰新片被网暴](https://www.zhihu.com/search?q=%E6%97%AD%E6%97%AD%E5%AE%9D%E5%AE%9D%E4%B8%8D%E7%9C%8B%E5%91%A8%E6%98%9F%E9%A9%B0%E6%96%B0%E7%89%87%E8%A2%AB%E7%BD%91%E6%9A%B4)
 1. [西班牙 vs 阿根廷](https://www.zhihu.com/search?q=%E8%A5%BF%E7%8F%AD%E7%89%99%20vs%20%E9%98%BF%E6%A0%B9%E5%BB%B7)
 1. [苏州杭州上海迎特大暴雨](https://www.zhihu.com/search?q=%E8%8B%8F%E5%B7%9E%E6%9D%AD%E5%B7%9E%E4%B8%8A%E6%B5%B7%E8%BF%8E%E7%89%B9%E5%A4%A7%E6%9A%B4%E9%9B%A8)
-1. [Kimi K3 力压 ClaudeFable5 登顶](https://www.zhihu.com/search?q=Kimi%20K3%20%E5%8A%9B%E5%8E%8B%20ClaudeFable5%20%E7%99%BB%E9%A1%B6)
-1. [马龙许昕全锦赛男双夺冠](https://www.zhihu.com/search?q=%E9%A9%AC%E9%BE%99%E8%AE%B8%E6%98%95%E5%85%A8%E9%94%A6%E8%B5%9B%E7%94%B7%E5%8F%8C%E5%A4%BA%E5%86%A0)
-1. [月之暗面kimi称算力紧缺](https://www.zhihu.com/search?q=%E6%9C%88%E4%B9%8B%E6%9A%97%E9%9D%A2kimi%E7%A7%B0%E7%AE%97%E5%8A%9B%E7%B4%A7%E7%BC%BA)
-1. [西班牙 1-0 阿根廷](https://www.zhihu.com/search?q=%E8%A5%BF%E7%8F%AD%E7%89%99%201-0%20%E9%98%BF%E6%A0%B9%E5%BB%B7)
 
 ## 热门话题
 
