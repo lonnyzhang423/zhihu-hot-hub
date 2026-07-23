@@ -11,36 +11,30 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-07-23 13:44:57 +0800`
+`更新时间：2026-07-23 16:12:51 +0800`
 
 ## 热门搜索
 
-1. [真的有交易系统这一说吗](https://www.zhihu.com/search?q=%E7%9C%9F%E7%9A%84%E6%9C%89%E4%BA%A4%E6%98%93%E7%B3%BB%E7%BB%9F%E8%BF%99%E4%B8%80%E8%AF%B4%E5%90%97)
-1. [女子还剩几小时退休差点多等 11 年](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E8%BF%98%E5%89%A9%E5%87%A0%E5%B0%8F%E6%97%B6%E9%80%80%E4%BC%91%E5%B7%AE%E7%82%B9%E5%A4%9A%E7%AD%89%2011%20%E5%B9%B4)
-1. [韦世豪破门](https://www.zhihu.com/search?q=%E9%9F%A6%E4%B8%96%E8%B1%AA%E7%A0%B4%E9%97%A8)
-1. [上海申花vs青岛海牛](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%E7%94%B3%E8%8A%B1vs%E9%9D%92%E5%B2%9B%E6%B5%B7%E7%89%9B)
-1. [电影功夫女足](https://www.zhihu.com/search?q=%E7%94%B5%E5%BD%B1%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3)
 1. [高考数据通](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E6%95%B0%E6%8D%AE%E9%80%9A)
 1. [高考分数排名](https://www.zhihu.com/search?q=%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%E6%8E%92%E5%90%8D)
-1. [恋与深空](https://www.zhihu.com/search?q=%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA)
 1. [悬案热播](https://www.zhihu.com/search?q=%E6%82%AC%E6%A1%88%E7%83%AD%E6%92%AD)
 1. [悬案真实背景](https://www.zhihu.com/search?q=%E6%82%AC%E6%A1%88%E7%9C%9F%E5%AE%9E%E8%83%8C%E6%99%AF)
 1. [悬案导演答](https://www.zhihu.com/search?q=%E6%82%AC%E6%A1%88%E5%AF%BC%E6%BC%94%E7%AD%94)
 1. [悬案播出](https://www.zhihu.com/search?q=%E6%82%AC%E6%A1%88%E6%92%AD%E5%87%BA)
 1. [悬案真实](https://www.zhihu.com/search?q=%E6%82%AC%E6%A1%88%E7%9C%9F%E5%AE%9E)
-1. [半熟恋人](https://www.zhihu.com/search?q=%E5%8D%8A%E7%86%9F%E6%81%8B%E4%BA%BA)
 1. [阿根廷 脏](https://www.zhihu.com/search?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%20%E8%84%8F)
-1. [雀骨](https://www.zhihu.com/search?q=%E9%9B%80%E9%AA%A8)
-1. [百花杀](https://www.zhihu.com/search?q=%E7%99%BE%E8%8A%B1%E6%9D%80)
 1. [Kimi-K3 灰度测试](https://www.zhihu.com/search?q=Kimi-K3%20%E7%81%B0%E5%BA%A6%E6%B5%8B%E8%AF%95)
 1. [KIMI K3模型正式上线](https://www.zhihu.com/search?q=KIMI%20K3%E6%A8%A1%E5%9E%8B%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF)
-1. [西班牙vs阿根廷](https://www.zhihu.com/search?q=%E8%A5%BF%E7%8F%AD%E7%89%99vs%E9%98%BF%E6%A0%B9%E5%BB%B7)
+1. [2026年菲尔兹奖](https://www.zhihu.com/search?q=2026%E5%B9%B4%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96)
 1. [莫言之女管笑笑被爆论文涉嫌抄袭](https://www.zhihu.com/search?q=%E8%8E%AB%E8%A8%80%E4%B9%8B%E5%A5%B3%E7%AE%A1%E7%AC%91%E7%AC%91%E8%A2%AB%E7%88%86%E8%AE%BA%E6%96%87%E6%B6%89%E5%AB%8C%E6%8A%84%E8%A2%AD)
 1. [《群星闪耀时》提档至 7 月 25 日](https://www.zhihu.com/search?q=%E3%80%8A%E7%BE%A4%E6%98%9F%E9%97%AA%E8%80%80%E6%97%B6%E3%80%8B%E6%8F%90%E6%A1%A3%E8%87%B3%207%20%E6%9C%88%2025%20%E6%97%A5)
-1. [为何穿凉鞋的人越来越少了](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BD%95%E7%A9%BF%E5%87%89%E9%9E%8B%E7%9A%84%E4%BA%BA%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%B0%91%E4%BA%86)
 1. [西班牙 vs 阿根廷](https://www.zhihu.com/search?q=%E8%A5%BF%E7%8F%AD%E7%89%99%20vs%20%E9%98%BF%E6%A0%B9%E5%BB%B7)
 1. [Kimi K3 力压 ClaudeFable5 登顶](https://www.zhihu.com/search?q=Kimi%20K3%20%E5%8A%9B%E5%8E%8B%20ClaudeFable5%20%E7%99%BB%E9%A1%B6)
 1. [西班牙 1-0 阿根廷](https://www.zhihu.com/search?q=%E8%A5%BF%E7%8F%AD%E7%89%99%201-0%20%E9%98%BF%E6%A0%B9%E5%BB%B7)
+1. [西班牙夺冠](https://www.zhihu.com/search?q=%E8%A5%BF%E7%8F%AD%E7%89%99%E5%A4%BA%E5%86%A0)
+1. [西班牙领奖时阿根廷全队背过身](https://www.zhihu.com/search?q=%E8%A5%BF%E7%8F%AD%E7%89%99%E9%A2%86%E5%A5%96%E6%97%B6%E9%98%BF%E6%A0%B9%E5%BB%B7%E5%85%A8%E9%98%9F%E8%83%8C%E8%BF%87%E8%BA%AB)
+1. [电影《八仙！》热映](https://www.zhihu.com/search?q=%E7%94%B5%E5%BD%B1%E3%80%8A%E5%85%AB%E4%BB%99%EF%BC%81%E3%80%8B%E7%83%AD%E6%98%A0)
+1. [雅可比猜想被AI证伪](https://www.zhihu.com/search?q=%E9%9B%85%E5%8F%AF%E6%AF%94%E7%8C%9C%E6%83%B3%E8%A2%ABAI%E8%AF%81%E4%BC%AA)
 
 ## 热门话题
 
