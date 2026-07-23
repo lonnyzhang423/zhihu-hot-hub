@@ -11,11 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-07-24 06:51:52 +0800`
+`更新时间：2026-07-24 07:53:06 +0800`
 
 ## 热门搜索
 
-1. [王祖贤ai人脸授权](https://www.zhihu.com/search?q=%E7%8E%8B%E7%A5%96%E8%B4%A4ai%E4%BA%BA%E8%84%B8%E6%8E%88%E6%9D%83)
+1. [上证指数](https://www.zhihu.com/search?q=%E4%B8%8A%E8%AF%81%E6%8C%87%E6%95%B0)
 1. [TES战胜WE](https://www.zhihu.com/search?q=TES%E6%88%98%E8%83%9CWE)
 1. [为什么在中国邮箱不流行](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%9C%A8%E4%B8%AD%E5%9B%BD%E9%82%AE%E7%AE%B1%E4%B8%8D%E6%B5%81%E8%A1%8C)
 1. [今日大暑](https://www.zhihu.com/search?q=%E4%BB%8A%E6%97%A5%E5%A4%A7%E6%9A%91)
@@ -35,6 +35,7 @@
 1. [电影《八仙！》热映](https://www.zhihu.com/search?q=%E7%94%B5%E5%BD%B1%E3%80%8A%E5%85%AB%E4%BB%99%EF%BC%81%E3%80%8B%E7%83%AD%E6%98%A0)
 1. [背调公司称能查离婚诉讼](https://www.zhihu.com/search?q=%E8%83%8C%E8%B0%83%E5%85%AC%E5%8F%B8%E7%A7%B0%E8%83%BD%E6%9F%A5%E7%A6%BB%E5%A9%9A%E8%AF%89%E8%AE%BC)
 1. [演员谢贤去世](https://www.zhihu.com/search?q=%E6%BC%94%E5%91%98%E8%B0%A2%E8%B4%A4%E5%8E%BB%E4%B8%96)
+1. [谢贤遗产公布](https://www.zhihu.com/search?q=%E8%B0%A2%E8%B4%A4%E9%81%97%E4%BA%A7%E5%85%AC%E5%B8%83)
 
 ## 热门话题
 
