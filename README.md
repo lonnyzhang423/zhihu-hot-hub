@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-07-24 01:10:14 +0800`
+`更新时间：2026-07-24 03:00:22 +0800`
 
 ## 热门搜索
 
-1. [上证指数](https://www.zhihu.com/search?q=%E4%B8%8A%E8%AF%81%E6%8C%87%E6%95%B0)
+1. [人身险最新预定利率研究值出炉](https://www.zhihu.com/search?q=%E4%BA%BA%E8%BA%AB%E9%99%A9%E6%9C%80%E6%96%B0%E9%A2%84%E5%AE%9A%E5%88%A9%E7%8E%87%E7%A0%94%E7%A9%B6%E5%80%BC%E5%87%BA%E7%82%89)
+1. [证监会资本市场](https://www.zhihu.com/search?q=%E8%AF%81%E7%9B%91%E4%BC%9A%E8%B5%84%E6%9C%AC%E5%B8%82%E5%9C%BA)
 1. [TES战胜WE](https://www.zhihu.com/search?q=TES%E6%88%98%E8%83%9CWE)
 1. [为什么在中国邮箱不流行](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%9C%A8%E4%B8%AD%E5%9B%BD%E9%82%AE%E7%AE%B1%E4%B8%8D%E6%B5%81%E8%A1%8C)
 1. [今日大暑](https://www.zhihu.com/search?q=%E4%BB%8A%E6%97%A5%E5%A4%A7%E6%9A%91)
