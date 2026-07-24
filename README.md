@@ -11,12 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-07-24 11:25:52 +0800`
+`更新时间：2026-07-24 14:32:42 +0800`
 
 ## 热门搜索
 
-1. [赵又廷说上半年只接到10个剧本](https://www.zhihu.com/search?q=%E8%B5%B5%E5%8F%88%E5%BB%B7%E8%AF%B4%E4%B8%8A%E5%8D%8A%E5%B9%B4%E5%8F%AA%E6%8E%A5%E5%88%B010%E4%B8%AA%E5%89%A7%E6%9C%AC)
-1. [耐克中国内地销售格局将大变](https://www.zhihu.com/search?q=%E8%80%90%E5%85%8B%E4%B8%AD%E5%9B%BD%E5%86%85%E5%9C%B0%E9%94%80%E5%94%AE%E6%A0%BC%E5%B1%80%E5%B0%86%E5%A4%A7%E5%8F%98)
+1. [上证指数](https://www.zhihu.com/search?q=%E4%B8%8A%E8%AF%81%E6%8C%87%E6%95%B0)
 1. [TES战胜WE](https://www.zhihu.com/search?q=TES%E6%88%98%E8%83%9CWE)
 1. [为什么在中国邮箱不流行](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%9C%A8%E4%B8%AD%E5%9B%BD%E9%82%AE%E7%AE%B1%E4%B8%8D%E6%B5%81%E8%A1%8C)
 1. [今日大暑](https://www.zhihu.com/search?q=%E4%BB%8A%E6%97%A5%E5%A4%A7%E6%9A%91)
@@ -29,15 +28,15 @@
 1. [八仙](https://www.zhihu.com/search?q=%E5%85%AB%E4%BB%99)
 1. [百花杀](https://www.zhihu.com/search?q=%E7%99%BE%E8%8A%B1%E6%9D%80)
 1. [Kimi-K3 灰度测试](https://www.zhihu.com/search?q=Kimi-K3%20%E7%81%B0%E5%BA%A6%E6%B5%8B%E8%AF%95)
+1. [KIMI K3模型正式上线](https://www.zhihu.com/search?q=KIMI%20K3%E6%A8%A1%E5%9E%8B%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF)
 1. [2026年菲尔兹奖](https://www.zhihu.com/search?q=2026%E5%B9%B4%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96)
 1. [莫言之女管笑笑被爆论文涉嫌抄袭](https://www.zhihu.com/search?q=%E8%8E%AB%E8%A8%80%E4%B9%8B%E5%A5%B3%E7%AE%A1%E7%AC%91%E7%AC%91%E8%A2%AB%E7%88%86%E8%AE%BA%E6%96%87%E6%B6%89%E5%AB%8C%E6%8A%84%E8%A2%AD)
 1. [Kimi K3 力压 ClaudeFable5 登顶](https://www.zhihu.com/search?q=Kimi%20K3%20%E5%8A%9B%E5%8E%8B%20ClaudeFable5%20%E7%99%BB%E9%A1%B6)
 1. [7 月 DDR5 内存价格再次暴涨](https://www.zhihu.com/search?q=7%20%E6%9C%88%20DDR5%20%E5%86%85%E5%AD%98%E4%BB%B7%E6%A0%BC%E5%86%8D%E6%AC%A1%E6%9A%B4%E6%B6%A8)
 1. [电影《八仙！》热映](https://www.zhihu.com/search?q=%E7%94%B5%E5%BD%B1%E3%80%8A%E5%85%AB%E4%BB%99%EF%BC%81%E3%80%8B%E7%83%AD%E6%98%A0)
-1. [演员谢贤去世](https://www.zhihu.com/search?q=%E6%BC%94%E5%91%98%E8%B0%A2%E8%B4%A4%E5%8E%BB%E4%B8%96)
-1. [谢贤遗产公布](https://www.zhihu.com/search?q=%E8%B0%A2%E8%B4%A4%E9%81%97%E4%BA%A7%E5%85%AC%E5%B8%83)
 1. [今年平均每天有3款新车发布](https://www.zhihu.com/search?q=%E4%BB%8A%E5%B9%B4%E5%B9%B3%E5%9D%87%E6%AF%8F%E5%A4%A9%E6%9C%893%E6%AC%BE%E6%96%B0%E8%BD%A6%E5%8F%91%E5%B8%83)
 1. [谢贤去世](https://www.zhihu.com/search?q=%E8%B0%A2%E8%B4%A4%E5%8E%BB%E4%B8%96)
+1. [2026世界人工智能大会](https://www.zhihu.com/search?q=2026%E4%B8%96%E7%95%8C%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%A7%E4%BC%9A)
 
 ## 热门话题
 
