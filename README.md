@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-07-26 15:40:12 +0800`
+`更新时间：2026-07-26 18:07:12 +0800`
 
 ## 热门搜索
 
@@ -40,10 +40,10 @@
 1. [如何看待周星驰新电影功夫女足](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E5%91%A8%E6%98%9F%E9%A9%B0%E6%96%B0%E7%94%B5%E5%BD%B1%E5%8A%9F%E5%A4%AB%E5%A5%B3%E8%B6%B3)
 1. [百花杀](https://www.zhihu.com/search?q=%E7%99%BE%E8%8A%B1%E6%9D%80)
 1. [如何评价三国第一部争洛阳](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7%E4%B8%89%E5%9B%BD%E7%AC%AC%E4%B8%80%E9%83%A8%E4%BA%89%E6%B4%9B%E9%98%B3)
-1. [2026年菲尔兹奖](https://www.zhihu.com/search?q=2026%E5%B9%B4%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96)
 1. [电影《八仙！》热映](https://www.zhihu.com/search?q=%E7%94%B5%E5%BD%B1%E3%80%8A%E5%85%AB%E4%BB%99%EF%BC%81%E3%80%8B%E7%83%AD%E6%98%A0)
 1. [这一秒过火](https://www.zhihu.com/search?q=%E8%BF%99%E4%B8%80%E7%A7%92%E8%BF%87%E7%81%AB)
 1. [菲方围顶冲撞中方巡逻艇](https://www.zhihu.com/search?q=%E8%8F%B2%E6%96%B9%E5%9B%B4%E9%A1%B6%E5%86%B2%E6%92%9E%E4%B8%AD%E6%96%B9%E5%B7%A1%E9%80%BB%E8%89%87)
+1. [央视曝乙游年龄门槛形同虚设](https://www.zhihu.com/search?q=%E5%A4%AE%E8%A7%86%E6%9B%9D%E4%B9%99%E6%B8%B8%E5%B9%B4%E9%BE%84%E9%97%A8%E6%A7%9B%E5%BD%A2%E5%90%8C%E8%99%9A%E8%AE%BE)
 
 ## 热门话题
 
