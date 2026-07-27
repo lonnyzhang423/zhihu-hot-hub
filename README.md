@@ -11,19 +11,18 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-07-27 20:31:33 +0800`
+`更新时间：2026-07-27 23:47:28 +0800`
 
 ## 热门搜索
 
-1. [「只有河南」被 25 亿出售](https://www.zhihu.com/search?q=%E3%80%8C%E5%8F%AA%E6%9C%89%E6%B2%B3%E5%8D%97%E3%80%8D%E8%A2%AB%2025%20%E4%BA%BF%E5%87%BA%E5%94%AE)
+1. [电影《八仙！》热映](https://www.zhihu.com/search?q=%E7%94%B5%E5%BD%B1%E3%80%8A%E5%85%AB%E4%BB%99%EF%BC%81%E3%80%8B%E7%83%AD%E6%98%A0)
 1. [Bin BLG](https://www.zhihu.com/search?q=Bin%20BLG)
 1. [滔搏暴力打折甩卖耐克库存](https://www.zhihu.com/search?q=%E6%BB%94%E6%90%8F%E6%9A%B4%E5%8A%9B%E6%89%93%E6%8A%98%E7%94%A9%E5%8D%96%E8%80%90%E5%85%8B%E5%BA%93%E5%AD%98)
 1. [贫困生喝咖啡引争议](https://www.zhihu.com/search?q=%E8%B4%AB%E5%9B%B0%E7%94%9F%E5%96%9D%E5%92%96%E5%95%A1%E5%BC%95%E4%BA%89%E8%AE%AE)
 1. [腾讯317万年终奖员工泄密被辞退](https://www.zhihu.com/search?q=%E8%85%BE%E8%AE%AF317%E4%B8%87%E5%B9%B4%E7%BB%88%E5%A5%96%E5%91%98%E5%B7%A5%E6%B3%84%E5%AF%86%E8%A2%AB%E8%BE%9E%E9%80%80)
 1. [王虹 13 岁跳级上高中 16 岁上北大](https://www.zhihu.com/search?q=%E7%8E%8B%E8%99%B9%2013%20%E5%B2%81%E8%B7%B3%E7%BA%A7%E4%B8%8A%E9%AB%98%E4%B8%AD%2016%20%E5%B2%81%E4%B8%8A%E5%8C%97%E5%A4%A7)
 1. [FLUX 3原生多模态大模型](https://www.zhihu.com/search?q=FLUX%203%E5%8E%9F%E7%94%9F%E5%A4%9A%E6%A8%A1%E6%80%81%E5%A4%A7%E6%A8%A1%E5%9E%8B)
-1. [宇树发布新机器狗](https://www.zhihu.com/search?q=%E5%AE%87%E6%A0%91%E5%8F%91%E5%B8%83%E6%96%B0%E6%9C%BA%E5%99%A8%E7%8B%97)
-1. [射雕英雄传侠之大者收视登顶](https://www.zhihu.com/search?q=%E5%B0%84%E9%9B%95%E8%8B%B1%E9%9B%84%E4%BC%A0%E4%BE%A0%E4%B9%8B%E5%A4%A7%E8%80%85%E6%94%B6%E8%A7%86%E7%99%BB%E9%A1%B6)
+1. [上海 6 岁女孩基因编辑试验后死亡](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%206%20%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%9F%BA%E5%9B%A0%E7%BC%96%E8%BE%91%E8%AF%95%E9%AA%8C%E5%90%8E%E6%AD%BB%E4%BA%A1)
 1. [Anthropic发布Claude Opus 5](https://www.zhihu.com/search?q=Anthropic%E5%8F%91%E5%B8%83Claude%20Opus%205)
 1. [詹姆斯加盟 76 人](https://www.zhihu.com/search?q=%E8%A9%B9%E5%A7%86%E6%96%AF%E5%8A%A0%E7%9B%9F%2076%20%E4%BA%BA)
 1. [携程被罚没51.79亿元](https://www.zhihu.com/search?q=%E6%90%BA%E7%A8%8B%E8%A2%AB%E7%BD%9A%E6%B2%A151.79%E4%BA%BF%E5%85%83)
@@ -36,6 +35,9 @@
 1. [郑州新东方暑假补课被查](https://www.zhihu.com/search?q=%E9%83%91%E5%B7%9E%E6%96%B0%E4%B8%9C%E6%96%B9%E6%9A%91%E5%81%87%E8%A1%A5%E8%AF%BE%E8%A2%AB%E6%9F%A5)
 1. [《三国第一部：争洛阳》撤档](https://www.zhihu.com/search?q=%E3%80%8A%E4%B8%89%E5%9B%BD%E7%AC%AC%E4%B8%80%E9%83%A8%EF%BC%9A%E4%BA%89%E6%B4%9B%E9%98%B3%E3%80%8B%E6%92%A4%E6%A1%A3)
 1. [「被裁掉的女孩」播放破2亿](https://www.zhihu.com/search?q=%E3%80%8C%E8%A2%AB%E8%A3%81%E6%8E%89%E7%9A%84%E5%A5%B3%E5%AD%A9%E3%80%8D%E6%92%AD%E6%94%BE%E7%A0%B42%E4%BA%BF)
+1. [幼儿产检正常出生双脚畸形](https://www.zhihu.com/search?q=%E5%B9%BC%E5%84%BF%E4%BA%A7%E6%A3%80%E6%AD%A3%E5%B8%B8%E5%87%BA%E7%94%9F%E5%8F%8C%E8%84%9A%E7%95%B8%E5%BD%A2)
+1. [中南大学一硕士论文被指13页雷同](https://www.zhihu.com/search?q=%E4%B8%AD%E5%8D%97%E5%A4%A7%E5%AD%A6%E4%B8%80%E7%A1%95%E5%A3%AB%E8%AE%BA%E6%96%87%E8%A2%AB%E6%8C%8713%E9%A1%B5%E9%9B%B7%E5%90%8C)
+1. [阿根廷人疯狂庆祝亚军](https://www.zhihu.com/search?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E4%BA%BA%E7%96%AF%E7%8B%82%E5%BA%86%E7%A5%9D%E4%BA%9A%E5%86%9B)
 
 ## 热门话题
 
