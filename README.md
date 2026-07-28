@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-07-28 18:25:18 +0800`
+`更新时间：2026-07-28 20:48:43 +0800`
 
 ## 热门搜索
 
-1. [10艘万吨大驱亮相](https://www.zhihu.com/search?q=10%E8%89%98%E4%B8%87%E5%90%A8%E5%A4%A7%E9%A9%B1%E4%BA%AE%E7%9B%B8)
-1. [台风白海豚要来了](https://www.zhihu.com/search?q=%E5%8F%B0%E9%A3%8E%E7%99%BD%E6%B5%B7%E8%B1%9A%E8%A6%81%E6%9D%A5%E4%BA%86)
+1. [A股](https://www.zhihu.com/search?q=A%E8%82%A1)
+1. [日本地震](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87)
 1. [俄罗斯警告日本](https://www.zhihu.com/search?q=%E4%BF%84%E7%BD%97%E6%96%AF%E8%AD%A6%E5%91%8A%E6%97%A5%E6%9C%AC)
 1. [美股](https://www.zhihu.com/search?q=%E7%BE%8E%E8%82%A1)
 1. [黎曼猜想为什么难以解决](https://www.zhihu.com/search?q=%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9A%BE%E4%BB%A5%E8%A7%A3%E5%86%B3)
