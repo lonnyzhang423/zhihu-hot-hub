@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-07-29 07:06:45 +0800`
+`更新时间：2026-07-29 11:19:58 +0800`
 
 ## 热门搜索
 
@@ -37,12 +37,12 @@
 1. [为什么空心人越来越多](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%A9%BA%E5%BF%83%E4%BA%BA%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A)
 1. [为什么说中餐正在悄悄退化](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E8%AF%B4%E4%B8%AD%E9%A4%90%E6%AD%A3%E5%9C%A8%E6%82%84%E6%82%84%E9%80%80%E5%8C%96)
 1. [如何评价7月新番尼古喵喵](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B77%E6%9C%88%E6%96%B0%E7%95%AA%E5%B0%BC%E5%8F%A4%E5%96%B5%E5%96%B5)
-1. [电影《八仙！》热映](https://www.zhihu.com/search?q=%E7%94%B5%E5%BD%B1%E3%80%8A%E5%85%AB%E4%BB%99%EF%BC%81%E3%80%8B%E7%83%AD%E6%98%A0)
 1. [这一秒过火](https://www.zhihu.com/search?q=%E8%BF%99%E4%B8%80%E7%A7%92%E8%BF%87%E7%81%AB)
 1. [Bin BLG](https://www.zhihu.com/search?q=Bin%20BLG)
 1. [你有哪些祛魅的经历](https://www.zhihu.com/search?q=%E4%BD%A0%E6%9C%89%E5%93%AA%E4%BA%9B%E7%A5%9B%E9%AD%85%E7%9A%84%E7%BB%8F%E5%8E%86)
 1. [滔搏暴力打折甩卖耐克库存](https://www.zhihu.com/search?q=%E6%BB%94%E6%90%8F%E6%9A%B4%E5%8A%9B%E6%89%93%E6%8A%98%E7%94%A9%E5%8D%96%E8%80%90%E5%85%8B%E5%BA%93%E5%AD%98)
 1. [上海 6 岁女孩基因编辑试验后死亡](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%206%20%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%9F%BA%E5%9B%A0%E7%BC%96%E8%BE%91%E8%AF%95%E9%AA%8C%E5%90%8E%E6%AD%BB%E4%BA%A1)
+1. [黄仁勋反对美封禁中国ai模型](https://www.zhihu.com/search?q=%E9%BB%84%E4%BB%81%E5%8B%8B%E5%8F%8D%E5%AF%B9%E7%BE%8E%E5%B0%81%E7%A6%81%E4%B8%AD%E5%9B%BDai%E6%A8%A1%E5%9E%8B)
 
 ## 热门话题
 
