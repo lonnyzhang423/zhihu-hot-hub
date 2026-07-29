@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-07-29 19:14:27 +0800`
+`更新时间：2026-07-29 21:47:18 +0800`
 
 ## 热门搜索
 
@@ -41,8 +41,8 @@
 1. [菲尔兹奖](https://www.zhihu.com/search?q=%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96)
 1. [王虹](https://www.zhihu.com/search?q=%E7%8E%8B%E8%99%B9)
 1. [唐山大地震 50 周年](https://www.zhihu.com/search?q=%E5%94%90%E5%B1%B1%E5%A4%A7%E5%9C%B0%E9%9C%87%2050%20%E5%91%A8%E5%B9%B4)
-1. [全国新冠阳性率呈上升趋势](https://www.zhihu.com/search?q=%E5%85%A8%E5%9B%BD%E6%96%B0%E5%86%A0%E9%98%B3%E6%80%A7%E7%8E%87%E5%91%88%E4%B8%8A%E5%8D%87%E8%B6%8B%E5%8A%BF)
 1. [张雅琪菜单被吐槽](https://www.zhihu.com/search?q=%E5%BC%A0%E9%9B%85%E7%90%AA%E8%8F%9C%E5%8D%95%E8%A2%AB%E5%90%90%E6%A7%BD)
+1. [台风红霞在广东惠州登陆](https://www.zhihu.com/search?q=%E5%8F%B0%E9%A3%8E%E7%BA%A2%E9%9C%9E%E5%9C%A8%E5%B9%BF%E4%B8%9C%E6%83%A0%E5%B7%9E%E7%99%BB%E9%99%86)
 
 ## 热门话题
 
