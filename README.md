@@ -11,12 +11,13 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-07-30 06:52:08 +0800`
+`更新时间：2026-07-30 07:53:53 +0800`
 
 ## 热门搜索
 
 1. [A股](https://www.zhihu.com/search?q=A%E8%82%A1)
 1. [日本地震](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E5%9C%B0%E9%9C%87)
+1. [美联储宣布维持利率不变](https://www.zhihu.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8%E5%AE%A3%E5%B8%83%E7%BB%B4%E6%8C%81%E5%88%A9%E7%8E%87%E4%B8%8D%E5%8F%98)
 1. [你都见过哪些不动声色的善良](https://www.zhihu.com/search?q=%E4%BD%A0%E9%83%BD%E8%A7%81%E8%BF%87%E5%93%AA%E4%BA%9B%E4%B8%8D%E5%8A%A8%E5%A3%B0%E8%89%B2%E7%9A%84%E5%96%84%E8%89%AF)
 1. [上海震感](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%E9%9C%87%E6%84%9F)
 1. [黎曼猜想为什么难以解决](https://www.zhihu.com/search?q=%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9A%BE%E4%BB%A5%E8%A7%A3%E5%86%B3)
@@ -42,7 +43,6 @@
 1. [王虹](https://www.zhihu.com/search?q=%E7%8E%8B%E8%99%B9)
 1. [唐山大地震 50 周年](https://www.zhihu.com/search?q=%E5%94%90%E5%B1%B1%E5%A4%A7%E5%9C%B0%E9%9C%87%2050%20%E5%91%A8%E5%B9%B4)
 1. [张雅琪菜单被吐槽](https://www.zhihu.com/search?q=%E5%BC%A0%E9%9B%85%E7%90%AA%E8%8F%9C%E5%8D%95%E8%A2%AB%E5%90%90%E6%A7%BD)
-1. [台风红霞在广东惠州登陆](https://www.zhihu.com/search?q=%E5%8F%B0%E9%A3%8E%E7%BA%A2%E9%9C%9E%E5%9C%A8%E5%B9%BF%E4%B8%9C%E6%83%A0%E5%B7%9E%E7%99%BB%E9%99%86)
 
 ## 热门话题
 
