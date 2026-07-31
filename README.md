@@ -11,12 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-07-31 09:56:31 +0800`
+`更新时间：2026-07-31 13:29:30 +0800`
 
 ## 热门搜索
 
-1. [美联储](https://www.zhihu.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8)
-1. [王者荣耀](https://www.zhihu.com/search?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80)
+1. [修杰楷开庭认罪请求缓刑](https://www.zhihu.com/search?q=%E4%BF%AE%E6%9D%B0%E6%A5%B7%E5%BC%80%E5%BA%AD%E8%AE%A4%E7%BD%AA%E8%AF%B7%E6%B1%82%E7%BC%93%E5%88%91)
 1. [美联储宣布维持利率不变](https://www.zhihu.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8%E5%AE%A3%E5%B8%83%E7%BB%B4%E6%8C%81%E5%88%A9%E7%8E%87%E4%B8%8D%E5%8F%98)
 1. [你都见过哪些不动声色的善良](https://www.zhihu.com/search?q=%E4%BD%A0%E9%83%BD%E8%A7%81%E8%BF%87%E5%93%AA%E4%BA%9B%E4%B8%8D%E5%8A%A8%E5%A3%B0%E8%89%B2%E7%9A%84%E5%96%84%E8%89%AF)
 1. [BLG战胜LGD](https://www.zhihu.com/search?q=BLG%E6%88%98%E8%83%9CLGD)
@@ -32,7 +31,7 @@
 1. [工作中到底能闯多大的祸](https://www.zhihu.com/search?q=%E5%B7%A5%E4%BD%9C%E4%B8%AD%E5%88%B0%E5%BA%95%E8%83%BD%E9%97%AF%E5%A4%9A%E5%A4%A7%E7%9A%84%E7%A5%B8)
 1. [大彻大悟的人都看透了什么](https://www.zhihu.com/search?q=%E5%A4%A7%E5%BD%BB%E5%A4%A7%E6%82%9F%E7%9A%84%E4%BA%BA%E9%83%BD%E7%9C%8B%E9%80%8F%E4%BA%86%E4%BB%80%E4%B9%88)
 1. [如何长期保持高能量状态](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E9%95%BF%E6%9C%9F%E4%BF%9D%E6%8C%81%E9%AB%98%E8%83%BD%E9%87%8F%E7%8A%B6%E6%80%81)
-1. [旅游为什么容易吵架](https://www.zhihu.com/search?q=%E6%97%85%E6%B8%B8%E4%B8%BA%E4%BB%80%E4%B9%88%E5%AE%B9%E6%98%93%E5%90%B5%E6%9E%B6)
+1. [苏超的热度为什么降温了](https://www.zhihu.com/search?q=%E8%8B%8F%E8%B6%85%E7%9A%84%E7%83%AD%E5%BA%A6%E4%B8%BA%E4%BB%80%E4%B9%88%E9%99%8D%E6%B8%A9%E4%BA%86)
 1. [KT战胜T1](https://www.zhihu.com/search?q=KT%E6%88%98%E8%83%9CT1)
 1. [你的中年无力感来自什么](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9A%84%E4%B8%AD%E5%B9%B4%E6%97%A0%E5%8A%9B%E6%84%9F%E6%9D%A5%E8%87%AA%E4%BB%80%E4%B9%88)
 1. [国足什么成绩大家才会满意](https://www.zhihu.com/search?q=%E5%9B%BD%E8%B6%B3%E4%BB%80%E4%B9%88%E6%88%90%E7%BB%A9%E5%A4%A7%E5%AE%B6%E6%89%8D%E4%BC%9A%E6%BB%A1%E6%84%8F)
