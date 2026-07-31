@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-07-31 19:21:18 +0800`
+`更新时间：2026-07-31 21:42:32 +0800`
 
 ## 热门搜索
 
@@ -41,8 +41,9 @@
 1. [这一秒过火](https://www.zhihu.com/search?q=%E8%BF%99%E4%B8%80%E7%A7%92%E8%BF%87%E7%81%AB)
 1. [你有哪些祛魅的经历](https://www.zhihu.com/search?q=%E4%BD%A0%E6%9C%89%E5%93%AA%E4%BA%9B%E7%A5%9B%E9%AD%85%E7%9A%84%E7%BB%8F%E5%8E%86)
 1. [上海 6 岁女孩基因编辑试验后死亡](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%206%20%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%9F%BA%E5%9B%A0%E7%BC%96%E8%BE%91%E8%AF%95%E9%AA%8C%E5%90%8E%E6%AD%BB%E4%BA%A1)
-1. [美通缉重犯在华东师范大学任职](https://www.zhihu.com/search?q=%E7%BE%8E%E9%80%9A%E7%BC%89%E9%87%8D%E7%8A%AF%E5%9C%A8%E5%8D%8E%E4%B8%9C%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6%E4%BB%BB%E8%81%8C)
 1. [KIMI K3 正式开源](https://www.zhihu.com/search?q=KIMI%20K3%20%E6%AD%A3%E5%BC%8F%E5%BC%80%E6%BA%90)
+1. [美股芯片股全线大跌](https://www.zhihu.com/search?q=%E7%BE%8E%E8%82%A1%E8%8A%AF%E7%89%87%E8%82%A1%E5%85%A8%E7%BA%BF%E5%A4%A7%E8%B7%8C)
+1. [韩国股市熔断](https://www.zhihu.com/search?q=%E9%9F%A9%E5%9B%BD%E8%82%A1%E5%B8%82%E7%86%94%E6%96%AD)
 
 ## 热门话题
 
