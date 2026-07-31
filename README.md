@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-07-31 18:46:32 +0800`
+`更新时间：2026-07-31 21:01:09 +0800`
 
 ## 热门搜索
 
-1. [A股](https://www.zhihu.com/search?q=A%E8%82%A1)
-1. [油价](https://www.zhihu.com/search?q=%E6%B2%B9%E4%BB%B7)
+1. [a股市值前10红了9个](https://www.zhihu.com/search?q=a%E8%82%A1%E5%B8%82%E5%80%BC%E5%89%8D10%E7%BA%A2%E4%BA%869%E4%B8%AA)
+1. [LGD超级兵偷家](https://www.zhihu.com/search?q=LGD%E8%B6%85%E7%BA%A7%E5%85%B5%E5%81%B7%E5%AE%B6)
 1. [美联储宣布维持利率不变](https://www.zhihu.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8%E5%AE%A3%E5%B8%83%E7%BB%B4%E6%8C%81%E5%88%A9%E7%8E%87%E4%B8%8D%E5%8F%98)
 1. [歌手歌单](https://www.zhihu.com/search?q=%E6%AD%8C%E6%89%8B%E6%AD%8C%E5%8D%95)
 1. [百花奖](https://www.zhihu.com/search?q=%E7%99%BE%E8%8A%B1%E5%A5%96)
@@ -41,8 +41,9 @@
 1. [这一秒过火](https://www.zhihu.com/search?q=%E8%BF%99%E4%B8%80%E7%A7%92%E8%BF%87%E7%81%AB)
 1. [你有哪些祛魅的经历](https://www.zhihu.com/search?q=%E4%BD%A0%E6%9C%89%E5%93%AA%E4%BA%9B%E7%A5%9B%E9%AD%85%E7%9A%84%E7%BB%8F%E5%8E%86)
 1. [上海 6 岁女孩基因编辑试验后死亡](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%206%20%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%9F%BA%E5%9B%A0%E7%BC%96%E8%BE%91%E8%AF%95%E9%AA%8C%E5%90%8E%E6%AD%BB%E4%BA%A1)
-1. [美通缉重犯在华东师范大学任职](https://www.zhihu.com/search?q=%E7%BE%8E%E9%80%9A%E7%BC%89%E9%87%8D%E7%8A%AF%E5%9C%A8%E5%8D%8E%E4%B8%9C%E5%B8%88%E8%8C%83%E5%A4%A7%E5%AD%A6%E4%BB%BB%E8%81%8C)
 1. [KIMI K3 正式开源](https://www.zhihu.com/search?q=KIMI%20K3%20%E6%AD%A3%E5%BC%8F%E5%BC%80%E6%BA%90)
+1. [美股芯片股全线大跌](https://www.zhihu.com/search?q=%E7%BE%8E%E8%82%A1%E8%8A%AF%E7%89%87%E8%82%A1%E5%85%A8%E7%BA%BF%E5%A4%A7%E8%B7%8C)
+1. [韩国股市熔断](https://www.zhihu.com/search?q=%E9%9F%A9%E5%9B%BD%E8%82%A1%E5%B8%82%E7%86%94%E6%96%AD)
 
 ## 热门话题
 
