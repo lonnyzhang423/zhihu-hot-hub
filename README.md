@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-07-31 07:54:21 +0800`
+`更新时间：2026-07-31 09:56:31 +0800`
 
 ## 热门搜索
 
@@ -36,11 +36,11 @@
 1. [KT战胜T1](https://www.zhihu.com/search?q=KT%E6%88%98%E8%83%9CT1)
 1. [你的中年无力感来自什么](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9A%84%E4%B8%AD%E5%B9%B4%E6%97%A0%E5%8A%9B%E6%84%9F%E6%9D%A5%E8%87%AA%E4%BB%80%E4%B9%88)
 1. [国足什么成绩大家才会满意](https://www.zhihu.com/search?q=%E5%9B%BD%E8%B6%B3%E4%BB%80%E4%B9%88%E6%88%90%E7%BB%A9%E5%A4%A7%E5%AE%B6%E6%89%8D%E4%BC%9A%E6%BB%A1%E6%84%8F)
+1. [LOL官宣将推出怀旧模式](https://www.zhihu.com/search?q=LOL%E5%AE%98%E5%AE%A3%E5%B0%86%E6%8E%A8%E5%87%BA%E6%80%80%E6%97%A7%E6%A8%A1%E5%BC%8F)
 1. [如何准确分析一家上市公司年报](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E5%87%86%E7%A1%AE%E5%88%86%E6%9E%90%E4%B8%80%E5%AE%B6%E4%B8%8A%E5%B8%82%E5%85%AC%E5%8F%B8%E5%B9%B4%E6%8A%A5)
 1. [电影《八仙！》热映](https://www.zhihu.com/search?q=%E7%94%B5%E5%BD%B1%E3%80%8A%E5%85%AB%E4%BB%99%EF%BC%81%E3%80%8B%E7%83%AD%E6%98%A0)
 1. [这一秒过火](https://www.zhihu.com/search?q=%E8%BF%99%E4%B8%80%E7%A7%92%E8%BF%87%E7%81%AB)
 1. [你有哪些祛魅的经历](https://www.zhihu.com/search?q=%E4%BD%A0%E6%9C%89%E5%93%AA%E4%BA%9B%E7%A5%9B%E9%AD%85%E7%9A%84%E7%BB%8F%E5%8E%86)
-1. [献血拿战锤40k模型](https://www.zhihu.com/search?q=%E7%8C%AE%E8%A1%80%E6%8B%BF%E6%88%98%E9%94%A440k%E6%A8%A1%E5%9E%8B)
 1. [上海 6 岁女孩基因编辑试验后死亡](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%206%20%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%9F%BA%E5%9B%A0%E7%BC%96%E8%BE%91%E8%AF%95%E9%AA%8C%E5%90%8E%E6%AD%BB%E4%BA%A1)
 1. [唐山大地震 50 周年](https://www.zhihu.com/search?q=%E5%94%90%E5%B1%B1%E5%A4%A7%E5%9C%B0%E9%9C%87%2050%20%E5%91%A8%E5%B9%B4)
 
