@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-08-01 21:03:29 +0800`
+`更新时间：2026-08-01 22:52:25 +0800`
 
 ## 热门搜索
 
@@ -36,7 +36,6 @@
 1. [国足什么成绩大家才会满意](https://www.zhihu.com/search?q=%E5%9B%BD%E8%B6%B3%E4%BB%80%E4%B9%88%E6%88%90%E7%BB%A9%E5%A4%A7%E5%AE%B6%E6%89%8D%E4%BC%9A%E6%BB%A1%E6%84%8F)
 1. [如何评价7月新番尼古喵喵](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B77%E6%9C%88%E6%96%B0%E7%95%AA%E5%B0%BC%E5%8F%A4%E5%96%B5%E5%96%B5)
 1. [LOL官宣将推出怀旧模式](https://www.zhihu.com/search?q=LOL%E5%AE%98%E5%AE%A3%E5%B0%86%E6%8E%A8%E5%87%BA%E6%80%80%E6%97%A7%E6%A8%A1%E5%BC%8F)
-1. [电影《八仙！》热映](https://www.zhihu.com/search?q=%E7%94%B5%E5%BD%B1%E3%80%8A%E5%85%AB%E4%BB%99%EF%BC%81%E3%80%8B%E7%83%AD%E6%98%A0)
 1. [这一秒过火](https://www.zhihu.com/search?q=%E8%BF%99%E4%B8%80%E7%A7%92%E8%BF%87%E7%81%AB)
 1. [你有哪些祛魅的经历](https://www.zhihu.com/search?q=%E4%BD%A0%E6%9C%89%E5%93%AA%E4%BA%9B%E7%A5%9B%E9%AD%85%E7%9A%84%E7%BB%8F%E5%8E%86)
 1. [2026 菲尔兹奖即将公布](https://www.zhihu.com/search?q=2026%20%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96%E5%8D%B3%E5%B0%86%E5%85%AC%E5%B8%83)
