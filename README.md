@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-08-04 01:13:58 +0800`
+`更新时间：2026-08-04 03:46:18 +0800`
 
 ## 热门搜索
 
@@ -39,10 +39,10 @@
 1. [王戟称永不折戟](https://www.zhihu.com/search?q=%E7%8E%8B%E6%88%9F%E7%A7%B0%E6%B0%B8%E4%B8%8D%E6%8A%98%E6%88%9F)
 1. [蜘蛛侠4](https://www.zhihu.com/search?q=%E8%9C%98%E8%9B%9B%E4%BE%A04)
 1. [通天河伴漂服务被指擦边](https://www.zhihu.com/search?q=%E9%80%9A%E5%A4%A9%E6%B2%B3%E4%BC%B4%E6%BC%82%E6%9C%8D%E5%8A%A1%E8%A2%AB%E6%8C%87%E6%93%A6%E8%BE%B9)
-1. [字节移动用户时长超越腾讯](https://www.zhihu.com/search?q=%E5%AD%97%E8%8A%82%E7%A7%BB%E5%8A%A8%E7%94%A8%E6%88%B7%E6%97%B6%E9%95%BF%E8%B6%85%E8%B6%8A%E8%85%BE%E8%AE%AF)
 1. [宏观杠杆率2022年来首次下降至308.2%](https://www.zhihu.com/search?q=%E5%AE%8F%E8%A7%82%E6%9D%A0%E6%9D%86%E7%8E%872022%E5%B9%B4%E6%9D%A5%E9%A6%96%E6%AC%A1%E4%B8%8B%E9%99%8D%E8%87%B3308.2%25)
 1. [长鑫科技市值破4万亿](https://www.zhihu.com/search?q=%E9%95%BF%E9%91%AB%E7%A7%91%E6%8A%80%E5%B8%82%E5%80%BC%E7%A0%B44%E4%B8%87%E4%BA%BF)
 1. [日本设立国家情报局](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E8%AE%BE%E7%AB%8B%E5%9B%BD%E5%AE%B6%E6%83%85%E6%8A%A5%E5%B1%80)
+1. [连云港火灾母女窗外避险时坠楼](https://www.zhihu.com/search?q=%E8%BF%9E%E4%BA%91%E6%B8%AF%E7%81%AB%E7%81%BE%E6%AF%8D%E5%A5%B3%E7%AA%97%E5%A4%96%E9%81%BF%E9%99%A9%E6%97%B6%E5%9D%A0%E6%A5%BC)
 
 ## 热门话题
 
