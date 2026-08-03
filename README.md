@@ -11,12 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-08-03 07:51:32 +0800`
+`更新时间：2026-08-03 09:56:36 +0800`
 
 ## 热门搜索
 
-1. [A股](https://www.zhihu.com/search?q=A%E8%82%A1)
-1. [油价](https://www.zhihu.com/search?q=%E6%B2%B9%E4%BB%B7)
+1. [5年期大额存单回来了](https://www.zhihu.com/search?q=5%E5%B9%B4%E6%9C%9F%E5%A4%A7%E9%A2%9D%E5%AD%98%E5%8D%95%E5%9B%9E%E6%9D%A5%E4%BA%86)
 1. [美联储宣布维持利率不变](https://www.zhihu.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8%E5%AE%A3%E5%B8%83%E7%BB%B4%E6%8C%81%E5%88%A9%E7%8E%87%E4%B8%8D%E5%8F%98)
 1. [歌手歌单](https://www.zhihu.com/search?q=%E6%AD%8C%E6%89%8B%E6%AD%8C%E5%8D%95)
 1. [百花奖](https://www.zhihu.com/search?q=%E7%99%BE%E8%8A%B1%E5%A5%96)
@@ -36,13 +35,13 @@
 1. [八仙](https://www.zhihu.com/search?q=%E5%85%AB%E4%BB%99)
 1. [国足什么成绩大家才会满意](https://www.zhihu.com/search?q=%E5%9B%BD%E8%B6%B3%E4%BB%80%E4%B9%88%E6%88%90%E7%BB%A9%E5%A4%A7%E5%AE%B6%E6%89%8D%E4%BC%9A%E6%BB%A1%E6%84%8F)
 1. [如何评价7月新番尼古喵喵](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B77%E6%9C%88%E6%96%B0%E7%95%AA%E5%B0%BC%E5%8F%A4%E5%96%B5%E5%96%B5)
-1. [LOL官宣将推出怀旧模式](https://www.zhihu.com/search?q=LOL%E5%AE%98%E5%AE%A3%E5%B0%86%E6%8E%A8%E5%87%BA%E6%80%80%E6%97%A7%E6%A8%A1%E5%BC%8F)
 1. [这一秒过火](https://www.zhihu.com/search?q=%E8%BF%99%E4%B8%80%E7%A7%92%E8%BF%87%E7%81%AB)
 1. [你有哪些祛魅的经历](https://www.zhihu.com/search?q=%E4%BD%A0%E6%9C%89%E5%93%AA%E4%BA%9B%E7%A5%9B%E9%AD%85%E7%9A%84%E7%BB%8F%E5%8E%86)
 1. [2026 菲尔兹奖即将公布](https://www.zhihu.com/search?q=2026%20%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96%E5%8D%B3%E5%B0%86%E5%85%AC%E5%B8%83)
 1. [知友邓煜获得菲尔兹奖](https://www.zhihu.com/search?q=%E7%9F%A5%E5%8F%8B%E9%82%93%E7%85%9C%E8%8E%B7%E5%BE%97%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96)
 1. [邓煜获得菲尔兹奖](https://www.zhihu.com/search?q=%E9%82%93%E7%85%9C%E8%8E%B7%E5%BE%97%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96)
 1. [邓煜王虹获得菲尔兹奖](https://www.zhihu.com/search?q=%E9%82%93%E7%85%9C%E7%8E%8B%E8%99%B9%E8%8E%B7%E5%BE%97%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96)
+1. [患癌妻子申请销毁婚外胚胎遭拒](https://www.zhihu.com/search?q=%E6%82%A3%E7%99%8C%E5%A6%BB%E5%AD%90%E7%94%B3%E8%AF%B7%E9%94%80%E6%AF%81%E5%A9%9A%E5%A4%96%E8%83%9A%E8%83%8E%E9%81%AD%E6%8B%92)
 
 ## 热门话题
 
