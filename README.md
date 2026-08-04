@@ -11,12 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-08-05 06:04:30 +0800`
+`更新时间：2026-08-05 07:55:37 +0800`
 
 ## 热门搜索
 
-1. [台风](https://www.zhihu.com/search?q=%E5%8F%B0%E9%A3%8E)
-1. [心动的信号](https://www.zhihu.com/search?q=%E5%BF%83%E5%8A%A8%E7%9A%84%E4%BF%A1%E5%8F%B7)
+1. [宗馥莉同父异母兄弟成立新公司](https://www.zhihu.com/search?q=%E5%AE%97%E9%A6%A5%E8%8E%89%E5%90%8C%E7%88%B6%E5%BC%82%E6%AF%8D%E5%85%84%E5%BC%9F%E6%88%90%E7%AB%8B%E6%96%B0%E5%85%AC%E5%8F%B8)
 1. [王者荣耀](https://www.zhihu.com/search?q=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80)
 1. [薛之谦演唱会](https://www.zhihu.com/search?q=%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%BC%94%E5%94%B1%E4%BC%9A)
 1. [郑钦文退赛](https://www.zhihu.com/search?q=%E9%83%91%E9%92%A6%E6%96%87%E9%80%80%E8%B5%9B)
@@ -28,6 +27,7 @@
 1. [邓煜获得菲尔兹奖](https://www.zhihu.com/search?q=%E9%82%93%E7%85%9C%E8%8E%B7%E5%BE%97%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96)
 1. [邓煜王虹获得菲尔兹奖](https://www.zhihu.com/search?q=%E9%82%93%E7%85%9C%E7%8E%8B%E8%99%B9%E8%8E%B7%E5%BE%97%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96)
 1. [台风白海豚要来了](https://www.zhihu.com/search?q=%E5%8F%B0%E9%A3%8E%E7%99%BD%E6%B5%B7%E8%B1%9A%E8%A6%81%E6%9D%A5%E4%BA%86)
+1. [东野圭吾遗作将发售](https://www.zhihu.com/search?q=%E4%B8%9C%E9%87%8E%E5%9C%AD%E5%90%BE%E9%81%97%E4%BD%9C%E5%B0%86%E5%8F%91%E5%94%AE)
 1. [患癌妻子申请销毁婚外胚胎遭拒](https://www.zhihu.com/search?q=%E6%82%A3%E7%99%8C%E5%A6%BB%E5%AD%90%E7%94%B3%E8%AF%B7%E9%94%80%E6%AF%81%E5%A9%9A%E5%A4%96%E8%83%9A%E8%83%8E%E9%81%AD%E6%8B%92)
 1. [九门](https://www.zhihu.com/search?q=%E4%B9%9D%E9%97%A8)
 1. [揽佬新歌《中国人能飞》爆火](https://www.zhihu.com/search?q=%E6%8F%BD%E4%BD%AC%E6%96%B0%E6%AD%8C%E3%80%8A%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%83%BD%E9%A3%9E%E3%80%8B%E7%88%86%E7%81%AB)
