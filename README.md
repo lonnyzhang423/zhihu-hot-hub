@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-08-05 00:07:39 +0800`
+`更新时间：2026-08-05 02:22:57 +0800`
 
 ## 热门搜索
 
@@ -37,10 +37,10 @@
 1. [蔡崇信宣布离婚](https://www.zhihu.com/search?q=%E8%94%A1%E5%B4%87%E4%BF%A1%E5%AE%A3%E5%B8%83%E7%A6%BB%E5%A9%9A)
 1. [精神科医生10级美颜证件照火了](https://www.zhihu.com/search?q=%E7%B2%BE%E7%A5%9E%E7%A7%91%E5%8C%BB%E7%94%9F10%E7%BA%A7%E7%BE%8E%E9%A2%9C%E8%AF%81%E4%BB%B6%E7%85%A7%E7%81%AB%E4%BA%86)
 1. [《年会不能停2！》热映](https://www.zhihu.com/search?q=%E3%80%8A%E5%B9%B4%E4%BC%9A%E4%B8%8D%E8%83%BD%E5%81%9C2%EF%BC%81%E3%80%8B%E7%83%AD%E6%98%A0)
-1. [OpenAI称AI系统攻克十项长期未解难题](https://www.zhihu.com/search?q=OpenAI%E7%A7%B0AI%E7%B3%BB%E7%BB%9F%E6%94%BB%E5%85%8B%E5%8D%81%E9%A1%B9%E9%95%BF%E6%9C%9F%E6%9C%AA%E8%A7%A3%E9%9A%BE%E9%A2%98)
 1. [金标樊A价格](https://www.zhihu.com/search?q=%E9%87%91%E6%A0%87%E6%A8%8AA%E4%BB%B7%E6%A0%BC)
 1. [抗日射击游戏《抵抗者》全新实机演示公开](https://www.zhihu.com/search?q=%E6%8A%97%E6%97%A5%E5%B0%84%E5%87%BB%E6%B8%B8%E6%88%8F%E3%80%8A%E6%8A%B5%E6%8A%97%E8%80%85%E3%80%8B%E5%85%A8%E6%96%B0%E5%AE%9E%E6%9C%BA%E6%BC%94%E7%A4%BA%E5%85%AC%E5%BC%80)
-1. [方程豹7月销量超4万辆](https://www.zhihu.com/search?q=%E6%96%B9%E7%A8%8B%E8%B1%B97%E6%9C%88%E9%94%80%E9%87%8F%E8%B6%854%E4%B8%87%E8%BE%86)
+1. [坐公交车就可以出去了](https://www.zhihu.com/search?q=%E5%9D%90%E5%85%AC%E4%BA%A4%E8%BD%A6%E5%B0%B1%E5%8F%AF%E4%BB%A5%E5%87%BA%E5%8E%BB%E4%BA%86)
+1. [小米多款手机正式涨价](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3%E5%A4%9A%E6%AC%BE%E6%89%8B%E6%9C%BA%E6%AD%A3%E5%BC%8F%E6%B6%A8%E4%BB%B7)
 
 ## 热门话题
 
