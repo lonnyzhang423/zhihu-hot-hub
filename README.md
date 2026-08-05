@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-08-05 11:17:34 +0800`
+`更新时间：2026-08-05 14:34:25 +0800`
 
 ## 热门搜索
 
@@ -38,8 +38,8 @@
 1. [蔡崇信宣布离婚](https://www.zhihu.com/search?q=%E8%94%A1%E5%B4%87%E4%BF%A1%E5%AE%A3%E5%B8%83%E7%A6%BB%E5%A9%9A)
 1. [精神科医生10级美颜证件照火了](https://www.zhihu.com/search?q=%E7%B2%BE%E7%A5%9E%E7%A7%91%E5%8C%BB%E7%94%9F10%E7%BA%A7%E7%BE%8E%E9%A2%9C%E8%AF%81%E4%BB%B6%E7%85%A7%E7%81%AB%E4%BA%86)
 1. [《年会不能停2！》热映](https://www.zhihu.com/search?q=%E3%80%8A%E5%B9%B4%E4%BC%9A%E4%B8%8D%E8%83%BD%E5%81%9C2%EF%BC%81%E3%80%8B%E7%83%AD%E6%98%A0)
-1. [金标樊A价格](https://www.zhihu.com/search?q=%E9%87%91%E6%A0%87%E6%A8%8AA%E4%BB%B7%E6%A0%BC)
 1. [抗日射击游戏《抵抗者》全新实机演示公开](https://www.zhihu.com/search?q=%E6%8A%97%E6%97%A5%E5%B0%84%E5%87%BB%E6%B8%B8%E6%88%8F%E3%80%8A%E6%8A%B5%E6%8A%97%E8%80%85%E3%80%8B%E5%85%A8%E6%96%B0%E5%AE%9E%E6%9C%BA%E6%BC%94%E7%A4%BA%E5%85%AC%E5%BC%80)
+1. [房主任 母女关系](https://www.zhihu.com/search?q=%E6%88%BF%E4%B8%BB%E4%BB%BB%20%E6%AF%8D%E5%A5%B3%E5%85%B3%E7%B3%BB)
 1. [坐公交车就可以出去了](https://www.zhihu.com/search?q=%E5%9D%90%E5%85%AC%E4%BA%A4%E8%BD%A6%E5%B0%B1%E5%8F%AF%E4%BB%A5%E5%87%BA%E5%8E%BB%E4%BA%86)
 
 ## 热门话题
