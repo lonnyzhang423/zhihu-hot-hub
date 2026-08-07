@@ -11,11 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-08-07 07:50:27 +0800`
+`更新时间：2026-08-07 10:09:37 +0800`
 
 ## 热门搜索
 
-1. [成都暴雨](https://www.zhihu.com/search?q=%E6%88%90%E9%83%BD%E6%9A%B4%E9%9B%A8)
+1. [中传多个艺术类专业取消艺考](https://www.zhihu.com/search?q=%E4%B8%AD%E4%BC%A0%E5%A4%9A%E4%B8%AA%E8%89%BA%E6%9C%AF%E7%B1%BB%E4%B8%93%E4%B8%9A%E5%8F%96%E6%B6%88%E8%89%BA%E8%80%83)
 1. [中餐厅](https://www.zhihu.com/search?q=%E4%B8%AD%E9%A4%90%E5%8E%85)
 1. [宜宾地震](https://www.zhihu.com/search?q=%E5%AE%9C%E5%AE%BE%E5%9C%B0%E9%9C%87)
 1. [理想i8发布](https://www.zhihu.com/search?q=%E7%90%86%E6%83%B3i8%E5%8F%91%E5%B8%83)
@@ -41,7 +41,6 @@
 1. [孙颖莎因伤退赛](https://www.zhihu.com/search?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E5%9B%A0%E4%BC%A4%E9%80%80%E8%B5%9B)
 1. [美日证实双方联合干预日元汇率](https://www.zhihu.com/search?q=%E7%BE%8E%E6%97%A5%E8%AF%81%E5%AE%9E%E5%8F%8C%E6%96%B9%E8%81%94%E5%90%88%E5%B9%B2%E9%A2%84%E6%97%A5%E5%85%83%E6%B1%87%E7%8E%87)
 1. [市监局通报牛蛙抗生素超标](https://www.zhihu.com/search?q=%E5%B8%82%E7%9B%91%E5%B1%80%E9%80%9A%E6%8A%A5%E7%89%9B%E8%9B%99%E6%8A%97%E7%94%9F%E7%B4%A0%E8%B6%85%E6%A0%87)
-1. [银鹭回应赔偿转账备注顾客敲诈](https://www.zhihu.com/search?q=%E9%93%B6%E9%B9%AD%E5%9B%9E%E5%BA%94%E8%B5%94%E5%81%BF%E8%BD%AC%E8%B4%A6%E5%A4%87%E6%B3%A8%E9%A1%BE%E5%AE%A2%E6%95%B2%E8%AF%88)
 
 ## 热门话题
 
