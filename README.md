@@ -11,24 +11,17 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-08-07 14:04:55 +0800`
+`更新时间：2026-08-07 16:07:09 +0800`
 
 ## 热门搜索
 
-1. [传销头目出狱办国学书院打孩子](https://www.zhihu.com/search?q=%E4%BC%A0%E9%94%80%E5%A4%B4%E7%9B%AE%E5%87%BA%E7%8B%B1%E5%8A%9E%E5%9B%BD%E5%AD%A6%E4%B9%A6%E9%99%A2%E6%89%93%E5%AD%A9%E5%AD%90)
-1. [中餐厅](https://www.zhihu.com/search?q=%E4%B8%AD%E9%A4%90%E5%8E%85)
-1. [宜宾地震](https://www.zhihu.com/search?q=%E5%AE%9C%E5%AE%BE%E5%9C%B0%E9%9C%87)
-1. [理想i8发布](https://www.zhihu.com/search?q=%E7%90%86%E6%83%B3i8%E5%8F%91%E5%B8%83)
 1. [四川宜宾高县 5.0 级地震](https://www.zhihu.com/search?q=%E5%9B%9B%E5%B7%9D%E5%AE%9C%E5%AE%BE%E9%AB%98%E5%8E%BF%205.0%20%E7%BA%A7%E5%9C%B0%E9%9C%87)
 1. [电影《八仙！》热映](https://www.zhihu.com/search?q=%E7%94%B5%E5%BD%B1%E3%80%8A%E5%85%AB%E4%BB%99%EF%BC%81%E3%80%8B%E7%83%AD%E6%98%A0)
-1. [这一秒过火](https://www.zhihu.com/search?q=%E8%BF%99%E4%B8%80%E7%A7%92%E8%BF%87%E7%81%AB)
 1. [2026 菲尔兹奖即将公布](https://www.zhihu.com/search?q=2026%20%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96%E5%8D%B3%E5%B0%86%E5%85%AC%E5%B8%83)
 1. [知友邓煜获得菲尔兹奖](https://www.zhihu.com/search?q=%E7%9F%A5%E5%8F%8B%E9%82%93%E7%85%9C%E8%8E%B7%E5%BE%97%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96)
 1. [邓煜获得菲尔兹奖](https://www.zhihu.com/search?q=%E9%82%93%E7%85%9C%E8%8E%B7%E5%BE%97%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96)
 1. [邓煜王虹获得菲尔兹奖](https://www.zhihu.com/search?q=%E9%82%93%E7%85%9C%E7%8E%8B%E8%99%B9%E8%8E%B7%E5%BE%97%E8%8F%B2%E5%B0%94%E5%85%B9%E5%A5%96)
 1. [东野圭吾遗作将发售](https://www.zhihu.com/search?q=%E4%B8%9C%E9%87%8E%E5%9C%AD%E5%90%BE%E9%81%97%E4%BD%9C%E5%B0%86%E5%8F%91%E5%94%AE)
-1. [橹穆](https://www.zhihu.com/search?q=%E6%A9%B9%E7%A9%86)
-1. [spacex市值暴跌](https://www.zhihu.com/search?q=spacex%E5%B8%82%E5%80%BC%E6%9A%B4%E8%B7%8C)
 1. [邓煜北大转学 MIT](https://www.zhihu.com/search?q=%E9%82%93%E7%85%9C%E5%8C%97%E5%A4%A7%E8%BD%AC%E5%AD%A6%20MIT)
 1. [柯洁夺冠后称7月下棋不足5小时](https://www.zhihu.com/search?q=%E6%9F%AF%E6%B4%81%E5%A4%BA%E5%86%A0%E5%90%8E%E7%A7%B07%E6%9C%88%E4%B8%8B%E6%A3%8B%E4%B8%8D%E8%B6%B35%E5%B0%8F%E6%97%B6)
 1. [儿科医生韩杰因医疗事故罪被判刑](https://www.zhihu.com/search?q=%E5%84%BF%E7%A7%91%E5%8C%BB%E7%94%9F%E9%9F%A9%E6%9D%B0%E5%9B%A0%E5%8C%BB%E7%96%97%E4%BA%8B%E6%95%85%E7%BD%AA%E8%A2%AB%E5%88%A4%E5%88%91)
@@ -36,11 +29,16 @@
 1. [打工人三件套涨价](https://www.zhihu.com/search?q=%E6%89%93%E5%B7%A5%E4%BA%BA%E4%B8%89%E4%BB%B6%E5%A5%97%E6%B6%A8%E4%BB%B7)
 1. [仲树诺兰对谈电影《奥德赛》](https://www.zhihu.com/search?q=%E4%BB%B2%E6%A0%91%E8%AF%BA%E5%85%B0%E5%AF%B9%E8%B0%88%E7%94%B5%E5%BD%B1%E3%80%8A%E5%A5%A5%E5%BE%B7%E8%B5%9B%E3%80%8B)
 1. [美国制裁洽洽瓜子思念水饺](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E5%88%B6%E8%A3%81%E6%B4%BD%E6%B4%BD%E7%93%9C%E5%AD%90%E6%80%9D%E5%BF%B5%E6%B0%B4%E9%A5%BA)
-1. [孙颖莎因伤退赛](https://www.zhihu.com/search?q=%E5%AD%99%E9%A2%96%E8%8E%8E%E5%9B%A0%E4%BC%A4%E9%80%80%E8%B5%9B)
-1. [美日证实双方联合干预日元汇率](https://www.zhihu.com/search?q=%E7%BE%8E%E6%97%A5%E8%AF%81%E5%AE%9E%E5%8F%8C%E6%96%B9%E8%81%94%E5%90%88%E5%B9%B2%E9%A2%84%E6%97%A5%E5%85%83%E6%B1%87%E7%8E%87)
-1. [市监局通报牛蛙抗生素超标](https://www.zhihu.com/search?q=%E5%B8%82%E7%9B%91%E5%B1%80%E9%80%9A%E6%8A%A5%E7%89%9B%E8%9B%99%E6%8A%97%E7%94%9F%E7%B4%A0%E8%B6%85%E6%A0%87)
-1. [银鹭回应赔偿转账备注顾客敲诈](https://www.zhihu.com/search?q=%E9%93%B6%E9%B9%AD%E5%9B%9E%E5%BA%94%E8%B5%94%E5%81%BF%E8%BD%AC%E8%B4%A6%E5%A4%87%E6%B3%A8%E9%A1%BE%E5%AE%A2%E6%95%B2%E8%AF%88)
-1. [显卡一日一价](https://www.zhihu.com/search?q=%E6%98%BE%E5%8D%A1%E4%B8%80%E6%97%A5%E4%B8%80%E4%BB%B7)
+1. [精神小伙一封写给妈妈的信获赞200万](https://www.zhihu.com/search?q=%E7%B2%BE%E7%A5%9E%E5%B0%8F%E4%BC%99%E4%B8%80%E5%B0%81%E5%86%99%E7%BB%99%E5%A6%88%E5%A6%88%E7%9A%84%E4%BF%A1%E8%8E%B7%E8%B5%9E200%E4%B8%87)
+1. [比亚迪腾势 Z9S 预售 31.98 万元起](https://www.zhihu.com/search?q=%E6%AF%94%E4%BA%9A%E8%BF%AA%E8%85%BE%E5%8A%BF%20Z9S%20%E9%A2%84%E5%94%AE%2031.98%20%E4%B8%87%E5%85%83%E8%B5%B7)
+1. [亚运会中国领奖服发布](https://www.zhihu.com/search?q=%E4%BA%9A%E8%BF%90%E4%BC%9A%E4%B8%AD%E5%9B%BD%E9%A2%86%E5%A5%96%E6%9C%8D%E5%8F%91%E5%B8%83)
+1. [寿命与祖母辈遗传有关](https://www.zhihu.com/search?q=%E5%AF%BF%E5%91%BD%E4%B8%8E%E7%A5%96%E6%AF%8D%E8%BE%88%E9%81%97%E4%BC%A0%E6%9C%89%E5%85%B3)
+1. [大厂集体押注 AI 办公](https://www.zhihu.com/search?q=%E5%A4%A7%E5%8E%82%E9%9B%86%E4%BD%93%E6%8A%BC%E6%B3%A8%20AI%20%E5%8A%9E%E5%85%AC)
+1. [东野圭吾遗作《永恒的记忆》](https://www.zhihu.com/search?q=%E4%B8%9C%E9%87%8E%E5%9C%AD%E5%90%BE%E9%81%97%E4%BD%9C%E3%80%8A%E6%B0%B8%E6%81%92%E7%9A%84%E8%AE%B0%E5%BF%86%E3%80%8B)
+1. [35 岁女子喝可乐致 60 岁脸](https://www.zhihu.com/search?q=35%20%E5%B2%81%E5%A5%B3%E5%AD%90%E5%96%9D%E5%8F%AF%E4%B9%90%E8%87%B4%2060%20%E5%B2%81%E8%84%B8)
+1. [台风「白海豚」最新状态](https://www.zhihu.com/search?q=%E5%8F%B0%E9%A3%8E%E3%80%8C%E7%99%BD%E6%B5%B7%E8%B1%9A%E3%80%8D%E6%9C%80%E6%96%B0%E7%8A%B6%E6%80%81)
+1. [SpaceX 用英伟达 AI 建太空数据中心](https://www.zhihu.com/search?q=SpaceX%20%E7%94%A8%E8%8B%B1%E4%BC%9F%E8%BE%BE%20AI%20%E5%BB%BA%E5%A4%AA%E7%A9%BA%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83)
+1. [猎鹰9火箭残骸撞月](https://www.zhihu.com/search?q=%E7%8C%8E%E9%B9%B09%E7%81%AB%E7%AE%AD%E6%AE%8B%E9%AA%B8%E6%92%9E%E6%9C%88)
 
 ## 热门话题
 
