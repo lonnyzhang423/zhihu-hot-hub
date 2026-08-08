@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-08-08 13:35:53 +0800`
+`更新时间：2026-08-08 14:35:39 +0800`
 
 ## 热门搜索
 
-1. [广岛投弹飞行员从未后悔](https://www.zhihu.com/search?q=%E5%B9%BF%E5%B2%9B%E6%8A%95%E5%BC%B9%E9%A3%9E%E8%A1%8C%E5%91%98%E4%BB%8E%E6%9C%AA%E5%90%8E%E6%82%94)
-1. [AI 中式天庭视频火了](https://www.zhihu.com/search?q=AI%20%E4%B8%AD%E5%BC%8F%E5%A4%A9%E5%BA%AD%E8%A7%86%E9%A2%91%E7%81%AB%E4%BA%86)
+1. [百花奖](https://www.zhihu.com/search?q=%E7%99%BE%E8%8A%B1%E5%A5%96)
+1. [NIP战胜iG](https://www.zhihu.com/search?q=NIP%E6%88%98%E8%83%9CiG)
 1. [宜宾地震](https://www.zhihu.com/search?q=%E5%AE%9C%E5%AE%BE%E5%9C%B0%E9%9C%87)
 1. [gen战胜hle](https://www.zhihu.com/search?q=gen%E6%88%98%E8%83%9Chle)
 1. [歌手总决赛](https://www.zhihu.com/search?q=%E6%AD%8C%E6%89%8B%E6%80%BB%E5%86%B3%E8%B5%9B)
@@ -26,7 +26,6 @@
 1. [儿科医生韩杰因医疗事故罪被判刑](https://www.zhihu.com/search?q=%E5%84%BF%E7%A7%91%E5%8C%BB%E7%94%9F%E9%9F%A9%E6%9D%B0%E5%9B%A0%E5%8C%BB%E7%96%97%E4%BA%8B%E6%95%85%E7%BD%AA%E8%A2%AB%E5%88%A4%E5%88%91)
 1. [你的公积金将有新变化](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9A%84%E5%85%AC%E7%A7%AF%E9%87%91%E5%B0%86%E6%9C%89%E6%96%B0%E5%8F%98%E5%8C%96)
 1. [市监局通报牛蛙抗生素超标](https://www.zhihu.com/search?q=%E5%B8%82%E7%9B%91%E5%B1%80%E9%80%9A%E6%8A%A5%E7%89%9B%E8%9B%99%E6%8A%97%E7%94%9F%E7%B4%A0%E8%B6%85%E6%A0%87)
-1. [大厂集体押注 AI 办公](https://www.zhihu.com/search?q=%E5%A4%A7%E5%8E%82%E9%9B%86%E4%BD%93%E6%8A%BC%E6%B3%A8%20AI%20%E5%8A%9E%E5%85%AC)
 1. [让AI替自己向同事求助](https://www.zhihu.com/search?q=%E8%AE%A9AI%E6%9B%BF%E8%87%AA%E5%B7%B1%E5%90%91%E5%90%8C%E4%BA%8B%E6%B1%82%E5%8A%A9)
 1. [日本谋求对敌基地攻击能力](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E8%B0%8B%E6%B1%82%E5%AF%B9%E6%95%8C%E5%9F%BA%E5%9C%B0%E6%94%BB%E5%87%BB%E8%83%BD%E5%8A%9B)
 1. [2026 暑期档国产片频繁调档](https://www.zhihu.com/search?q=2026%20%E6%9A%91%E6%9C%9F%E6%A1%A3%E5%9B%BD%E4%BA%A7%E7%89%87%E9%A2%91%E7%B9%81%E8%B0%83%E6%A1%A3)
@@ -37,6 +36,7 @@
 1. [韩国宣布国家灾难状态](https://www.zhihu.com/search?q=%E9%9F%A9%E5%9B%BD%E5%AE%A3%E5%B8%83%E5%9B%BD%E5%AE%B6%E7%81%BE%E9%9A%BE%E7%8A%B6%E6%80%81)
 1. [立秋](https://www.zhihu.com/search?q=%E7%AB%8B%E7%A7%8B)
 1. [蜘蛛侠荷兰弟替身「河南弟」](https://www.zhihu.com/search?q=%E8%9C%98%E8%9B%9B%E4%BE%A0%E8%8D%B7%E5%85%B0%E5%BC%9F%E6%9B%BF%E8%BA%AB%E3%80%8C%E6%B2%B3%E5%8D%97%E5%BC%9F%E3%80%8D)
+1. [周杰伦 刘若雪](https://www.zhihu.com/search?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%20%E5%88%98%E8%8B%A5%E9%9B%AA)
 
 ## 热门话题
 
