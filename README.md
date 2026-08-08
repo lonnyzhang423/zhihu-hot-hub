@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-08-08 18:40:10 +0800`
+`更新时间：2026-08-08 19:34:54 +0800`
 
 ## 热门搜索
 
@@ -20,6 +20,7 @@
 1. [宜宾地震](https://www.zhihu.com/search?q=%E5%AE%9C%E5%AE%BE%E5%9C%B0%E9%9C%87)
 1. [gen战胜hle](https://www.zhihu.com/search?q=gen%E6%88%98%E8%83%9Chle)
 1. [歌手总决赛](https://www.zhihu.com/search?q=%E6%AD%8C%E6%89%8B%E6%80%BB%E5%86%B3%E8%B5%9B)
+1. [中学要求新生填家长职务和车价](https://www.zhihu.com/search?q=%E4%B8%AD%E5%AD%A6%E8%A6%81%E6%B1%82%E6%96%B0%E7%94%9F%E5%A1%AB%E5%AE%B6%E9%95%BF%E8%81%8C%E5%8A%A1%E5%92%8C%E8%BD%A6%E4%BB%B7)
 1. [EWC](https://www.zhihu.com/search?q=EWC)
 1. [电影《八仙！》热映](https://www.zhihu.com/search?q=%E7%94%B5%E5%BD%B1%E3%80%8A%E5%85%AB%E4%BB%99%EF%BC%81%E3%80%8B%E7%83%AD%E6%98%A0)
 1. [安徽卫视播放AI剧](https://www.zhihu.com/search?q=%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86%E6%92%AD%E6%94%BEAI%E5%89%A7)
@@ -38,7 +39,6 @@
 1. [官方通报西安赛格商场坠楼案](https://www.zhihu.com/search?q=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E8%A5%BF%E5%AE%89%E8%B5%9B%E6%A0%BC%E5%95%86%E5%9C%BA%E5%9D%A0%E6%A5%BC%E6%A1%88)
 1. [赛格商场坠亡事件排除刑事案件](https://www.zhihu.com/search?q=%E8%B5%9B%E6%A0%BC%E5%95%86%E5%9C%BA%E5%9D%A0%E4%BA%A1%E4%BA%8B%E4%BB%B6%E6%8E%92%E9%99%A4%E5%88%91%E4%BA%8B%E6%A1%88%E4%BB%B6)
 1. [赛格单方面认定违约金核算基数](https://www.zhihu.com/search?q=%E8%B5%9B%E6%A0%BC%E5%8D%95%E6%96%B9%E9%9D%A2%E8%AE%A4%E5%AE%9A%E8%BF%9D%E7%BA%A6%E9%87%91%E6%A0%B8%E7%AE%97%E5%9F%BA%E6%95%B0)
-1. [婚外胚胎案丈夫称已销毁胚胎](https://www.zhihu.com/search?q=%E5%A9%9A%E5%A4%96%E8%83%9A%E8%83%8E%E6%A1%88%E4%B8%88%E5%A4%AB%E7%A7%B0%E5%B7%B2%E9%94%80%E6%AF%81%E8%83%9A%E8%83%8E)
 
 ## 热门话题
 
