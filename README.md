@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-08-08 08:56:55 +0800`
+`更新时间：2026-08-08 10:51:35 +0800`
 
 ## 热门搜索
 
@@ -36,7 +36,6 @@
 1. [《流浪地球 3》不走半爆米花风](https://www.zhihu.com/search?q=%E3%80%8A%E6%B5%81%E6%B5%AA%E5%9C%B0%E7%90%83%203%E3%80%8B%E4%B8%8D%E8%B5%B0%E5%8D%8A%E7%88%86%E7%B1%B3%E8%8A%B1%E9%A3%8E)
 1. [猎鹰9火箭残骸撞月](https://www.zhihu.com/search?q=%E7%8C%8E%E9%B9%B09%E7%81%AB%E7%AE%AD%E6%AE%8B%E9%AA%B8%E6%92%9E%E6%9C%88)
 1. [44岁爸爸因叛逆期女儿考研上985](https://www.zhihu.com/search?q=44%E5%B2%81%E7%88%B8%E7%88%B8%E5%9B%A0%E5%8F%9B%E9%80%86%E6%9C%9F%E5%A5%B3%E5%84%BF%E8%80%83%E7%A0%94%E4%B8%8A985)
-1. [韩国宣布国家灾难状态](https://www.zhihu.com/search?q=%E9%9F%A9%E5%9B%BD%E5%AE%A3%E5%B8%83%E5%9B%BD%E5%AE%B6%E7%81%BE%E9%9A%BE%E7%8A%B6%E6%80%81)
 
 ## 热门话题
 
