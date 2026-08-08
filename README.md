@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-08-08 16:28:52 +0800`
+`更新时间：2026-08-08 17:28:21 +0800`
 
 ## 热门搜索
 
@@ -27,7 +27,6 @@
 1. [儿科医生韩杰因医疗事故罪被判刑](https://www.zhihu.com/search?q=%E5%84%BF%E7%A7%91%E5%8C%BB%E7%94%9F%E9%9F%A9%E6%9D%B0%E5%9B%A0%E5%8C%BB%E7%96%97%E4%BA%8B%E6%95%85%E7%BD%AA%E8%A2%AB%E5%88%A4%E5%88%91)
 1. [你的公积金将有新变化](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9A%84%E5%85%AC%E7%A7%AF%E9%87%91%E5%B0%86%E6%9C%89%E6%96%B0%E5%8F%98%E5%8C%96)
 1. [市监局通报牛蛙抗生素超标](https://www.zhihu.com/search?q=%E5%B8%82%E7%9B%91%E5%B1%80%E9%80%9A%E6%8A%A5%E7%89%9B%E8%9B%99%E6%8A%97%E7%94%9F%E7%B4%A0%E8%B6%85%E6%A0%87)
-1. [让AI替自己向同事求助](https://www.zhihu.com/search?q=%E8%AE%A9AI%E6%9B%BF%E8%87%AA%E5%B7%B1%E5%90%91%E5%90%8C%E4%BA%8B%E6%B1%82%E5%8A%A9)
 1. [日本谋求对敌基地攻击能力](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E8%B0%8B%E6%B1%82%E5%AF%B9%E6%95%8C%E5%9F%BA%E5%9C%B0%E6%94%BB%E5%87%BB%E8%83%BD%E5%8A%9B)
 1. [2026 暑期档国产片频繁调档](https://www.zhihu.com/search?q=2026%20%E6%9A%91%E6%9C%9F%E6%A1%A3%E5%9B%BD%E4%BA%A7%E7%89%87%E9%A2%91%E7%B9%81%E8%B0%83%E6%A1%A3)
 1. [电车露营冲击暑期酒店生意](https://www.zhihu.com/search?q=%E7%94%B5%E8%BD%A6%E9%9C%B2%E8%90%A5%E5%86%B2%E5%87%BB%E6%9A%91%E6%9C%9F%E9%85%92%E5%BA%97%E7%94%9F%E6%84%8F)
@@ -38,6 +37,7 @@
 1. [周杰伦 刘若雪](https://www.zhihu.com/search?q=%E5%91%A8%E6%9D%B0%E4%BC%A6%20%E5%88%98%E8%8B%A5%E9%9B%AA)
 1. [官方通报西安赛格商场坠楼案](https://www.zhihu.com/search?q=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E8%A5%BF%E5%AE%89%E8%B5%9B%E6%A0%BC%E5%95%86%E5%9C%BA%E5%9D%A0%E6%A5%BC%E6%A1%88)
 1. [赛格商场坠亡事件排除刑事案件](https://www.zhihu.com/search?q=%E8%B5%9B%E6%A0%BC%E5%95%86%E5%9C%BA%E5%9D%A0%E4%BA%A1%E4%BA%8B%E4%BB%B6%E6%8E%92%E9%99%A4%E5%88%91%E4%BA%8B%E6%A1%88%E4%BB%B6)
+1. [赛格单方面认定违约金核算基数](https://www.zhihu.com/search?q=%E8%B5%9B%E6%A0%BC%E5%8D%95%E6%96%B9%E9%9D%A2%E8%AE%A4%E5%AE%9A%E8%BF%9D%E7%BA%A6%E9%87%91%E6%A0%B8%E7%AE%97%E5%9F%BA%E6%95%B0)
 
 ## 热门话题
 
