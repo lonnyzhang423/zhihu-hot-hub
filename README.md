@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-08-09 13:51:00 +0800`
+`更新时间：2026-08-09 15:06:00 +0800`
 
 ## 热门搜索
 
@@ -22,16 +22,13 @@
 1. [中学要求新生填家长职务和车价](https://www.zhihu.com/search?q=%E4%B8%AD%E5%AD%A6%E8%A6%81%E6%B1%82%E6%96%B0%E7%94%9F%E5%A1%AB%E5%AE%B6%E9%95%BF%E8%81%8C%E5%8A%A1%E5%92%8C%E8%BD%A6%E4%BB%B7)
 1. [EWC](https://www.zhihu.com/search?q=EWC)
 1. [电影《八仙！》热映](https://www.zhihu.com/search?q=%E7%94%B5%E5%BD%B1%E3%80%8A%E5%85%AB%E4%BB%99%EF%BC%81%E3%80%8B%E7%83%AD%E6%98%A0)
-1. [安徽卫视播放AI剧](https://www.zhihu.com/search?q=%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86%E6%92%AD%E6%94%BEAI%E5%89%A7)
 1. [spacex市值暴跌](https://www.zhihu.com/search?q=spacex%E5%B8%82%E5%80%BC%E6%9A%B4%E8%B7%8C)
 1. [台风白海豚](https://www.zhihu.com/search?q=%E5%8F%B0%E9%A3%8E%E7%99%BD%E6%B5%B7%E8%B1%9A)
 1. [你的公积金将有新变化](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9A%84%E5%85%AC%E7%A7%AF%E9%87%91%E5%B0%86%E6%9C%89%E6%96%B0%E5%8F%98%E5%8C%96)
 1. [市监局通报牛蛙抗生素超标](https://www.zhihu.com/search?q=%E5%B8%82%E7%9B%91%E5%B1%80%E9%80%9A%E6%8A%A5%E7%89%9B%E8%9B%99%E6%8A%97%E7%94%9F%E7%B4%A0%E8%B6%85%E6%A0%87)
+1. [《奥德赛》刷新 IMAX 中国点映记录](https://www.zhihu.com/search?q=%E3%80%8A%E5%A5%A5%E5%BE%B7%E8%B5%9B%E3%80%8B%E5%88%B7%E6%96%B0%20IMAX%20%E4%B8%AD%E5%9B%BD%E7%82%B9%E6%98%A0%E8%AE%B0%E5%BD%95)
 1. [台风「白海豚」最新状态](https://www.zhihu.com/search?q=%E5%8F%B0%E9%A3%8E%E3%80%8C%E7%99%BD%E6%B5%B7%E8%B1%9A%E3%80%8D%E6%9C%80%E6%96%B0%E7%8A%B6%E6%80%81)
 1. [韩国宣布国家灾难状态](https://www.zhihu.com/search?q=%E9%9F%A9%E5%9B%BD%E5%AE%A3%E5%B8%83%E5%9B%BD%E5%AE%B6%E7%81%BE%E9%9A%BE%E7%8A%B6%E6%80%81)
-1. [官方通报西安赛格商场坠楼案](https://www.zhihu.com/search?q=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E8%A5%BF%E5%AE%89%E8%B5%9B%E6%A0%BC%E5%95%86%E5%9C%BA%E5%9D%A0%E6%A5%BC%E6%A1%88)
-1. [赛格商场坠亡事件排除刑事案件](https://www.zhihu.com/search?q=%E8%B5%9B%E6%A0%BC%E5%95%86%E5%9C%BA%E5%9D%A0%E4%BA%A1%E4%BA%8B%E4%BB%B6%E6%8E%92%E9%99%A4%E5%88%91%E4%BA%8B%E6%A1%88%E4%BB%B6)
-1. [赛格单方面认定违约金核算基数](https://www.zhihu.com/search?q=%E8%B5%9B%E6%A0%BC%E5%8D%95%E6%96%B9%E9%9D%A2%E8%AE%A4%E5%AE%9A%E8%BF%9D%E7%BA%A6%E9%87%91%E6%A0%B8%E7%AE%97%E5%9F%BA%E6%95%B0)
 1. [婚外胚胎案丈夫称已销毁胚胎](https://www.zhihu.com/search?q=%E5%A9%9A%E5%A4%96%E8%83%9A%E8%83%8E%E6%A1%88%E4%B8%88%E5%A4%AB%E7%A7%B0%E5%B7%B2%E9%94%80%E6%AF%81%E8%83%9A%E8%83%8E)
 1. [沈腾新片《欢迎来龙餐馆》定档](https://www.zhihu.com/search?q=%E6%B2%88%E8%85%BE%E6%96%B0%E7%89%87%E3%80%8A%E6%AC%A2%E8%BF%8E%E6%9D%A5%E9%BE%99%E9%A4%90%E9%A6%86%E3%80%8B%E5%AE%9A%E6%A1%A3)
 1. [29岁的王一博](https://www.zhihu.com/search?q=29%E5%B2%81%E7%9A%84%E7%8E%8B%E4%B8%80%E5%8D%9A)
@@ -42,6 +39,8 @@
 1. [乘客称投诉绕路遭司机持铁棍殴打](https://www.zhihu.com/search?q=%E4%B9%98%E5%AE%A2%E7%A7%B0%E6%8A%95%E8%AF%89%E7%BB%95%E8%B7%AF%E9%81%AD%E5%8F%B8%E6%9C%BA%E6%8C%81%E9%93%81%E6%A3%8D%E6%AE%B4%E6%89%93)
 1. [官方通报西安赛格商场坠亡事件](https://www.zhihu.com/search?q=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E8%A5%BF%E5%AE%89%E8%B5%9B%E6%A0%BC%E5%95%86%E5%9C%BA%E5%9D%A0%E4%BA%A1%E4%BA%8B%E4%BB%B6)
 1. [白海豚体型堪比东三省](https://www.zhihu.com/search?q=%E7%99%BD%E6%B5%B7%E8%B1%9A%E4%BD%93%E5%9E%8B%E5%A0%AA%E6%AF%94%E4%B8%9C%E4%B8%89%E7%9C%81)
+1. [强闯我驻日使馆男子称深感后悔](https://www.zhihu.com/search?q=%E5%BC%BA%E9%97%AF%E6%88%91%E9%A9%BB%E6%97%A5%E4%BD%BF%E9%A6%86%E7%94%B7%E5%AD%90%E7%A7%B0%E6%B7%B1%E6%84%9F%E5%90%8E%E6%82%94)
+1. [切尔西vs尤文图斯](https://www.zhihu.com/search?q=%E5%88%87%E5%B0%94%E8%A5%BFvs%E5%B0%A4%E6%96%87%E5%9B%BE%E6%96%AF)
 
 ## 热门话题
 
