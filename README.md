@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-08-09 07:35:22 +0800`
+`更新时间：2026-08-09 10:11:45 +0800`
 
 ## 热门搜索
 
@@ -19,7 +19,6 @@
 1. [NIP战胜iG](https://www.zhihu.com/search?q=NIP%E6%88%98%E8%83%9CiG)
 1. [宜宾地震](https://www.zhihu.com/search?q=%E5%AE%9C%E5%AE%BE%E5%9C%B0%E9%9C%87)
 1. [gen战胜hle](https://www.zhihu.com/search?q=gen%E6%88%98%E8%83%9Chle)
-1. [歌手总决赛](https://www.zhihu.com/search?q=%E6%AD%8C%E6%89%8B%E6%80%BB%E5%86%B3%E8%B5%9B)
 1. [中学要求新生填家长职务和车价](https://www.zhihu.com/search?q=%E4%B8%AD%E5%AD%A6%E8%A6%81%E6%B1%82%E6%96%B0%E7%94%9F%E5%A1%AB%E5%AE%B6%E9%95%BF%E8%81%8C%E5%8A%A1%E5%92%8C%E8%BD%A6%E4%BB%B7)
 1. [EWC](https://www.zhihu.com/search?q=EWC)
 1. [电影《八仙！》热映](https://www.zhihu.com/search?q=%E7%94%B5%E5%BD%B1%E3%80%8A%E5%85%AB%E4%BB%99%EF%BC%81%E3%80%8B%E7%83%AD%E6%98%A0)
@@ -38,9 +37,11 @@
 1. [赛格单方面认定违约金核算基数](https://www.zhihu.com/search?q=%E8%B5%9B%E6%A0%BC%E5%8D%95%E6%96%B9%E9%9D%A2%E8%AE%A4%E5%AE%9A%E8%BF%9D%E7%BA%A6%E9%87%91%E6%A0%B8%E7%AE%97%E5%9F%BA%E6%95%B0)
 1. [婚外胚胎案丈夫称已销毁胚胎](https://www.zhihu.com/search?q=%E5%A9%9A%E5%A4%96%E8%83%9A%E8%83%8E%E6%A1%88%E4%B8%88%E5%A4%AB%E7%A7%B0%E5%B7%B2%E9%94%80%E6%AF%81%E8%83%9A%E8%83%8E)
 1. [沈腾新片《欢迎来龙餐馆》定档](https://www.zhihu.com/search?q=%E6%B2%88%E8%85%BE%E6%96%B0%E7%89%87%E3%80%8A%E6%AC%A2%E8%BF%8E%E6%9D%A5%E9%BE%99%E9%A4%90%E9%A6%86%E3%80%8B%E5%AE%9A%E6%A1%A3)
-1. [余承东称手机将大涨价](https://www.zhihu.com/search?q=%E4%BD%99%E6%89%BF%E4%B8%9C%E7%A7%B0%E6%89%8B%E6%9C%BA%E5%B0%86%E5%A4%A7%E6%B6%A8%E4%BB%B7)
 1. [29岁的王一博](https://www.zhihu.com/search?q=29%E5%B2%81%E7%9A%84%E7%8E%8B%E4%B8%80%E5%8D%9A)
 1. [医生漏诊获刑](https://www.zhihu.com/search?q=%E5%8C%BB%E7%94%9F%E6%BC%8F%E8%AF%8A%E8%8E%B7%E5%88%91)
+1. [歌手总决赛帮唱](https://www.zhihu.com/search?q=%E6%AD%8C%E6%89%8B%E6%80%BB%E5%86%B3%E8%B5%9B%E5%B8%AE%E5%94%B1)
+1. [美国撤销巴西驻美大使签证](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E6%92%A4%E9%94%80%E5%B7%B4%E8%A5%BF%E9%A9%BB%E7%BE%8E%E5%A4%A7%E4%BD%BF%E7%AD%BE%E8%AF%81)
+1. [女子自称怀孕向雪饼猴索要手术费](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E8%87%AA%E7%A7%B0%E6%80%80%E5%AD%95%E5%90%91%E9%9B%AA%E9%A5%BC%E7%8C%B4%E7%B4%A2%E8%A6%81%E6%89%8B%E6%9C%AF%E8%B4%B9)
 
 ## 热门话题
 
