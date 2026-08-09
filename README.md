@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-08-10 00:23:01 +0800`
+`更新时间：2026-08-10 01:22:11 +0800`
 
 ## 热门搜索
 
-1. [汪峰阻止14岁女儿买大牌](https://www.zhihu.com/search?q=%E6%B1%AA%E5%B3%B0%E9%98%BB%E6%AD%A214%E5%B2%81%E5%A5%B3%E5%84%BF%E4%B9%B0%E5%A4%A7%E7%89%8C)
+1. [百花奖](https://www.zhihu.com/search?q=%E7%99%BE%E8%8A%B1%E5%A5%96)
+1. [NIP战胜iG](https://www.zhihu.com/search?q=NIP%E6%88%98%E8%83%9CiG)
 1. [宜宾地震](https://www.zhihu.com/search?q=%E5%AE%9C%E5%AE%BE%E5%9C%B0%E9%9C%87)
 1. [gen战胜hle](https://www.zhihu.com/search?q=gen%E6%88%98%E8%83%9Chle)
 1. [EWC](https://www.zhihu.com/search?q=EWC)
