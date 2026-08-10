@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-08-10 12:44:18 +0800`
+`更新时间：2026-08-10 14:14:59 +0800`
 
 ## 热门搜索
 
@@ -20,10 +20,13 @@
 1. [NIP战胜iG](https://www.zhihu.com/search?q=NIP%E6%88%98%E8%83%9CiG)
 1. [宜宾地震](https://www.zhihu.com/search?q=%E5%AE%9C%E5%AE%BE%E5%9C%B0%E9%9C%87)
 1. [gen战胜hle](https://www.zhihu.com/search?q=gen%E6%88%98%E8%83%9Chle)
+1. [中学要求新生填家长职务和车价](https://www.zhihu.com/search?q=%E4%B8%AD%E5%AD%A6%E8%A6%81%E6%B1%82%E6%96%B0%E7%94%9F%E5%A1%AB%E5%AE%B6%E9%95%BF%E8%81%8C%E5%8A%A1%E5%92%8C%E8%BD%A6%E4%BB%B7)
 1. [EWC](https://www.zhihu.com/search?q=EWC)
 1. [电影《八仙！》热映](https://www.zhihu.com/search?q=%E7%94%B5%E5%BD%B1%E3%80%8A%E5%85%AB%E4%BB%99%EF%BC%81%E3%80%8B%E7%83%AD%E6%98%A0)
+1. [《蜘蛛侠：崭新之日》票房](https://www.zhihu.com/search?q=%E3%80%8A%E8%9C%98%E8%9B%9B%E4%BE%A0%EF%BC%9A%E5%B4%AD%E6%96%B0%E4%B9%8B%E6%97%A5%E3%80%8B%E7%A5%A8%E6%88%BF)
 1. [spacex市值暴跌](https://www.zhihu.com/search?q=spacex%E5%B8%82%E5%80%BC%E6%9A%B4%E8%B7%8C)
 1. [台风白海豚](https://www.zhihu.com/search?q=%E5%8F%B0%E9%A3%8E%E7%99%BD%E6%B5%B7%E8%B1%9A)
+1. [同济大学取消教师长期聘任](https://www.zhihu.com/search?q=%E5%90%8C%E6%B5%8E%E5%A4%A7%E5%AD%A6%E5%8F%96%E6%B6%88%E6%95%99%E5%B8%88%E9%95%BF%E6%9C%9F%E8%81%98%E4%BB%BB)
 1. [你的公积金将有新变化](https://www.zhihu.com/search?q=%E4%BD%A0%E7%9A%84%E5%85%AC%E7%A7%AF%E9%87%91%E5%B0%86%E6%9C%89%E6%96%B0%E5%8F%98%E5%8C%96)
 1. [市监局通报牛蛙抗生素超标](https://www.zhihu.com/search?q=%E5%B8%82%E7%9B%91%E5%B1%80%E9%80%9A%E6%8A%A5%E7%89%9B%E8%9B%99%E6%8A%97%E7%94%9F%E7%B4%A0%E8%B6%85%E6%A0%87)
 1. [《奥德赛》刷新 IMAX 中国点映记录](https://www.zhihu.com/search?q=%E3%80%8A%E5%A5%A5%E5%BE%B7%E8%B5%9B%E3%80%8B%E5%88%B7%E6%96%B0%20IMAX%20%E4%B8%AD%E5%9B%BD%E7%82%B9%E6%98%A0%E8%AE%B0%E5%BD%95)
@@ -39,8 +42,6 @@
 1. [女子自称怀孕向雪饼猴索要手术费](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E8%87%AA%E7%A7%B0%E6%80%80%E5%AD%95%E5%90%91%E9%9B%AA%E9%A5%BC%E7%8C%B4%E7%B4%A2%E8%A6%81%E6%89%8B%E6%9C%AF%E8%B4%B9)
 1. [乘客称投诉绕路遭司机持铁棍殴打](https://www.zhihu.com/search?q=%E4%B9%98%E5%AE%A2%E7%A7%B0%E6%8A%95%E8%AF%89%E7%BB%95%E8%B7%AF%E9%81%AD%E5%8F%B8%E6%9C%BA%E6%8C%81%E9%93%81%E6%A3%8D%E6%AE%B4%E6%89%93)
 1. [官方通报西安赛格商场坠亡事件](https://www.zhihu.com/search?q=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E8%A5%BF%E5%AE%89%E8%B5%9B%E6%A0%BC%E5%95%86%E5%9C%BA%E5%9D%A0%E4%BA%A1%E4%BA%8B%E4%BB%B6)
-1. [白海豚体型堪比东三省](https://www.zhihu.com/search?q=%E7%99%BD%E6%B5%B7%E8%B1%9A%E4%BD%93%E5%9E%8B%E5%A0%AA%E6%AF%94%E4%B8%9C%E4%B8%89%E7%9C%81)
-1. [强闯我驻日使馆男子称深感后悔](https://www.zhihu.com/search?q=%E5%BC%BA%E9%97%AF%E6%88%91%E9%A9%BB%E6%97%A5%E4%BD%BF%E9%A6%86%E7%94%B7%E5%AD%90%E7%A7%B0%E6%B7%B1%E6%84%9F%E5%90%8E%E6%82%94)
 
 ## 热门话题
 
