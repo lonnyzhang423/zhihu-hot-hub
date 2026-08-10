@@ -11,11 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-08-10 07:21:26 +0800`
+`更新时间：2026-08-10 09:02:17 +0800`
 
 ## 热门搜索
 
 1. [百花奖](https://www.zhihu.com/search?q=%E7%99%BE%E8%8A%B1%E5%A5%96)
+1. [国乒怎么了](https://www.zhihu.com/search?q=%E5%9B%BD%E4%B9%92%E6%80%8E%E4%B9%88%E4%BA%86)
 1. [NIP战胜iG](https://www.zhihu.com/search?q=NIP%E6%88%98%E8%83%9CiG)
 1. [宜宾地震](https://www.zhihu.com/search?q=%E5%AE%9C%E5%AE%BE%E5%9C%B0%E9%9C%87)
 1. [gen战胜hle](https://www.zhihu.com/search?q=gen%E6%88%98%E8%83%9Chle)
@@ -40,7 +41,6 @@
 1. [白海豚体型堪比东三省](https://www.zhihu.com/search?q=%E7%99%BD%E6%B5%B7%E8%B1%9A%E4%BD%93%E5%9E%8B%E5%A0%AA%E6%AF%94%E4%B8%9C%E4%B8%89%E7%9C%81)
 1. [强闯我驻日使馆男子称深感后悔](https://www.zhihu.com/search?q=%E5%BC%BA%E9%97%AF%E6%88%91%E9%A9%BB%E6%97%A5%E4%BD%BF%E9%A6%86%E7%94%B7%E5%AD%90%E7%A7%B0%E6%B7%B1%E6%84%9F%E5%90%8E%E6%82%94)
 1. [切尔西vs尤文图斯](https://www.zhihu.com/search?q=%E5%88%87%E5%B0%94%E8%A5%BFvs%E5%B0%A4%E6%96%87%E5%9B%BE%E6%96%AF)
-1. [阿根廷中国行或取消](https://www.zhihu.com/search?q=%E9%98%BF%E6%A0%B9%E5%BB%B7%E4%B8%AD%E5%9B%BD%E8%A1%8C%E6%88%96%E5%8F%96%E6%B6%88)
 
 ## 热门话题
 
