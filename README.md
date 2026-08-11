@@ -11,10 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-08-12 04:35:03 +0800`
+`更新时间：2026-08-12 05:36:07 +0800`
 
 ## 热门搜索
 
+1. [国乒怎么了](https://www.zhihu.com/search?q=%E5%9B%BD%E4%B9%92%E6%80%8E%E4%B9%88%E4%BA%86)
 1. [《蜘蛛侠：崭新之日》票房](https://www.zhihu.com/search?q=%E3%80%8A%E8%9C%98%E8%9B%9B%E4%BE%A0%EF%BC%9A%E5%B4%AD%E6%96%B0%E4%B9%8B%E6%97%A5%E3%80%8B%E7%A5%A8%E6%88%BF)
 1. [台风白海豚](https://www.zhihu.com/search?q=%E5%8F%B0%E9%A3%8E%E7%99%BD%E6%B5%B7%E8%B1%9A)
 1. [同济大学取消教师长期聘任](https://www.zhihu.com/search?q=%E5%90%8C%E6%B5%8E%E5%A4%A7%E5%AD%A6%E5%8F%96%E6%B6%88%E6%95%99%E5%B8%88%E9%95%BF%E6%9C%9F%E8%81%98%E4%BB%BB)
@@ -40,7 +41,6 @@
 1. [白海豚提前登陆](https://www.zhihu.com/search?q=%E7%99%BD%E6%B5%B7%E8%B1%9A%E6%8F%90%E5%89%8D%E7%99%BB%E9%99%86)
 1. [台风白海豚在浙江玉环沿海登陆](https://www.zhihu.com/search?q=%E5%8F%B0%E9%A3%8E%E7%99%BD%E6%B5%B7%E8%B1%9A%E5%9C%A8%E6%B5%99%E6%B1%9F%E7%8E%89%E7%8E%AF%E6%B2%BF%E6%B5%B7%E7%99%BB%E9%99%86)
 1. [张本美和横滨赛冠军](https://www.zhihu.com/search?q=%E5%BC%A0%E6%9C%AC%E7%BE%8E%E5%92%8C%E6%A8%AA%E6%BB%A8%E8%B5%9B%E5%86%A0%E5%86%9B)
-1. [民办高校人工智能专业未录满](https://www.zhihu.com/search?q=%E6%B0%91%E5%8A%9E%E9%AB%98%E6%A0%A1%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E4%B8%93%E4%B8%9A%E6%9C%AA%E5%BD%95%E6%BB%A1)
 
 ## 热门话题
 
