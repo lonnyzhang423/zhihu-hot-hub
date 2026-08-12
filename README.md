@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-08-12 15:09:46 +0800`
+`更新时间：2026-08-12 17:02:21 +0800`
 
 ## 热门搜索
 
@@ -33,6 +33,7 @@
 1. [白海豚10级风圈](https://www.zhihu.com/search?q=%E7%99%BD%E6%B5%B7%E8%B1%9A10%E7%BA%A7%E9%A3%8E%E5%9C%88)
 1. [网红雅典娜证实被害](https://www.zhihu.com/search?q=%E7%BD%91%E7%BA%A2%E9%9B%85%E5%85%B8%E5%A8%9C%E8%AF%81%E5%AE%9E%E8%A2%AB%E5%AE%B3)
 1. [白海豚提前登陆](https://www.zhihu.com/search?q=%E7%99%BD%E6%B5%B7%E8%B1%9A%E6%8F%90%E5%89%8D%E7%99%BB%E9%99%86)
+1. [麦积山景区看所有石窟需2000元](https://www.zhihu.com/search?q=%E9%BA%A6%E7%A7%AF%E5%B1%B1%E6%99%AF%E5%8C%BA%E7%9C%8B%E6%89%80%E6%9C%89%E7%9F%B3%E7%AA%9F%E9%9C%802000%E5%85%83)
 1. [台风白海豚在浙江玉环沿海登陆](https://www.zhihu.com/search?q=%E5%8F%B0%E9%A3%8E%E7%99%BD%E6%B5%B7%E8%B1%9A%E5%9C%A8%E6%B5%99%E6%B1%9F%E7%8E%89%E7%8E%AF%E6%B2%BF%E6%B5%B7%E7%99%BB%E9%99%86)
 1. [张本美和横滨赛冠军](https://www.zhihu.com/search?q=%E5%BC%A0%E6%9C%AC%E7%BE%8E%E5%92%8C%E6%A8%AA%E6%BB%A8%E8%B5%9B%E5%86%A0%E5%86%9B)
 1. [沈腾 影帝](https://www.zhihu.com/search?q=%E6%B2%88%E8%85%BE%20%E5%BD%B1%E5%B8%9D)
