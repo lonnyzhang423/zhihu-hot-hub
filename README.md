@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-08-12 07:30:18 +0800`
+`更新时间：2026-08-12 09:08:27 +0800`
 
 ## 热门搜索
 
@@ -29,7 +29,6 @@
 1. [于东来称不达国际一流就关店](https://www.zhihu.com/search?q=%E4%BA%8E%E4%B8%9C%E6%9D%A5%E7%A7%B0%E4%B8%8D%E8%BE%BE%E5%9B%BD%E9%99%85%E4%B8%80%E6%B5%81%E5%B0%B1%E5%85%B3%E5%BA%97)
 1. [台风白海豚影响中国已成定局](https://www.zhihu.com/search?q=%E5%8F%B0%E9%A3%8E%E7%99%BD%E6%B5%B7%E8%B1%9A%E5%BD%B1%E5%93%8D%E4%B8%AD%E5%9B%BD%E5%B7%B2%E6%88%90%E5%AE%9A%E5%B1%80)
 1. [国乒男单横滨冠军赛全军覆没](https://www.zhihu.com/search?q=%E5%9B%BD%E4%B9%92%E7%94%B7%E5%8D%95%E6%A8%AA%E6%BB%A8%E5%86%A0%E5%86%9B%E8%B5%9B%E5%85%A8%E5%86%9B%E8%A6%86%E6%B2%A1)
-1. [包文婧坦言二胎很难一碗水端平](https://www.zhihu.com/search?q=%E5%8C%85%E6%96%87%E5%A9%A7%E5%9D%A6%E8%A8%80%E4%BA%8C%E8%83%8E%E5%BE%88%E9%9A%BE%E4%B8%80%E7%A2%97%E6%B0%B4%E7%AB%AF%E5%B9%B3)
 1. [欢迎来龙餐馆热映](https://www.zhihu.com/search?q=%E6%AC%A2%E8%BF%8E%E6%9D%A5%E9%BE%99%E9%A4%90%E9%A6%86%E7%83%AD%E6%98%A0)
 1. [欢迎来龙餐馆点映](https://www.zhihu.com/search?q=%E6%AC%A2%E8%BF%8E%E6%9D%A5%E9%BE%99%E9%A4%90%E9%A6%86%E7%82%B9%E6%98%A0)
 1. [日本一医院错把患者脑部当肿瘤切除](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E4%B8%80%E5%8C%BB%E9%99%A2%E9%94%99%E6%8A%8A%E6%82%A3%E8%80%85%E8%84%91%E9%83%A8%E5%BD%93%E8%82%BF%E7%98%A4%E5%88%87%E9%99%A4)
@@ -41,6 +40,7 @@
 1. [白海豚提前登陆](https://www.zhihu.com/search?q=%E7%99%BD%E6%B5%B7%E8%B1%9A%E6%8F%90%E5%89%8D%E7%99%BB%E9%99%86)
 1. [台风白海豚在浙江玉环沿海登陆](https://www.zhihu.com/search?q=%E5%8F%B0%E9%A3%8E%E7%99%BD%E6%B5%B7%E8%B1%9A%E5%9C%A8%E6%B5%99%E6%B1%9F%E7%8E%89%E7%8E%AF%E6%B2%BF%E6%B5%B7%E7%99%BB%E9%99%86)
 1. [张本美和横滨赛冠军](https://www.zhihu.com/search?q=%E5%BC%A0%E6%9C%AC%E7%BE%8E%E5%92%8C%E6%A8%AA%E6%BB%A8%E8%B5%9B%E5%86%A0%E5%86%9B)
+1. [民办高校人工智能专业未录满](https://www.zhihu.com/search?q=%E6%B0%91%E5%8A%9E%E9%AB%98%E6%A0%A1%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E4%B8%93%E4%B8%9A%E6%9C%AA%E5%BD%95%E6%BB%A1)
 
 ## 热门话题
 
