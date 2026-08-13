@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-08-13 16:11:52 +0800`
+`更新时间：2026-08-13 17:53:54 +0800`
 
 ## 热门搜索
 
@@ -24,7 +24,6 @@
 1. [台风白海豚大到能覆盖整个华东](https://www.zhihu.com/search?q=%E5%8F%B0%E9%A3%8E%E7%99%BD%E6%B5%B7%E8%B1%9A%E5%A4%A7%E5%88%B0%E8%83%BD%E8%A6%86%E7%9B%96%E6%95%B4%E4%B8%AA%E5%8D%8E%E4%B8%9C)
 1. [白海豚10级风圈](https://www.zhihu.com/search?q=%E7%99%BD%E6%B5%B7%E8%B1%9A10%E7%BA%A7%E9%A3%8E%E5%9C%88)
 1. [白海豚提前登陆](https://www.zhihu.com/search?q=%E7%99%BD%E6%B5%B7%E8%B1%9A%E6%8F%90%E5%89%8D%E7%99%BB%E9%99%86)
-1. [麦积山景区看所有石窟需2000元](https://www.zhihu.com/search?q=%E9%BA%A6%E7%A7%AF%E5%B1%B1%E6%99%AF%E5%8C%BA%E7%9C%8B%E6%89%80%E6%9C%89%E7%9F%B3%E7%AA%9F%E9%9C%802000%E5%85%83)
 1. [台风白海豚在浙江玉环沿海登陆](https://www.zhihu.com/search?q=%E5%8F%B0%E9%A3%8E%E7%99%BD%E6%B5%B7%E8%B1%9A%E5%9C%A8%E6%B5%99%E6%B1%9F%E7%8E%89%E7%8E%AF%E6%B2%BF%E6%B5%B7%E7%99%BB%E9%99%86)
 1. [沈腾 影帝](https://www.zhihu.com/search?q=%E6%B2%88%E8%85%BE%20%E5%BD%B1%E5%B8%9D)
 1. [《欢迎来龙餐馆》奥斯卡](https://www.zhihu.com/search?q=%E3%80%8A%E6%AC%A2%E8%BF%8E%E6%9D%A5%E9%BE%99%E9%A4%90%E9%A6%86%E3%80%8B%E5%A5%A5%E6%96%AF%E5%8D%A1)
@@ -41,6 +40,7 @@
 1. [卫诗雅百花奖最佳女主角](https://www.zhihu.com/search?q=%E5%8D%AB%E8%AF%97%E9%9B%85%E7%99%BE%E8%8A%B1%E5%A5%96%E6%9C%80%E4%BD%B3%E5%A5%B3%E4%B8%BB%E8%A7%92)
 1. [哥伦比亚 7.5 级地震](https://www.zhihu.com/search?q=%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A%207.5%20%E7%BA%A7%E5%9C%B0%E9%9C%87)
 1. [张旭骂贵州言论引争议](https://www.zhihu.com/search?q=%E5%BC%A0%E6%97%AD%E9%AA%82%E8%B4%B5%E5%B7%9E%E8%A8%80%E8%AE%BA%E5%BC%95%E4%BA%89%E8%AE%AE)
+1. [大鹏百花奖最佳导演奖](https://www.zhihu.com/search?q=%E5%A4%A7%E9%B9%8F%E7%99%BE%E8%8A%B1%E5%A5%96%E6%9C%80%E4%BD%B3%E5%AF%BC%E6%BC%94%E5%A5%96)
 
 ## 热门话题
 
