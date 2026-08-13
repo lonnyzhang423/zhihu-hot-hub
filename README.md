@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-08-13 16:25:55 +0800`
+`更新时间：2026-08-13 18:14:52 +0800`
 
 ## 热门搜索
 
-1. [《影之刃零》正式开启预售](https://www.zhihu.com/search?q=%E3%80%8A%E5%BD%B1%E4%B9%8B%E5%88%83%E9%9B%B6%E3%80%8B%E6%AD%A3%E5%BC%8F%E5%BC%80%E5%90%AF%E9%A2%84%E5%94%AE)
-1. [Anthropic 将黎曼猜想已知下界提高至67.2%](https://www.zhihu.com/search?q=Anthropic%20%E5%B0%86%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E5%B7%B2%E7%9F%A5%E4%B8%8B%E7%95%8C%E6%8F%90%E9%AB%98%E8%87%B367.2%25)
+1. [Claude黎曼猜想获重大突破](https://www.zhihu.com/search?q=Claude%E9%BB%8E%E6%9B%BC%E7%8C%9C%E6%83%B3%E8%8E%B7%E9%87%8D%E5%A4%A7%E7%AA%81%E7%A0%B4)
+1. [台风白海豚](https://www.zhihu.com/search?q=%E5%8F%B0%E9%A3%8E%E7%99%BD%E6%B5%B7%E8%B1%9A)
 1. [台风「白海豚」最新状态](https://www.zhihu.com/search?q=%E5%8F%B0%E9%A3%8E%E3%80%8C%E7%99%BD%E6%B5%B7%E8%B1%9A%E3%80%8D%E6%9C%80%E6%96%B0%E7%8A%B6%E6%80%81)
 1. [蓝箭朱雀三号火箭近日试飞](https://www.zhihu.com/search?q=%E8%93%9D%E7%AE%AD%E6%9C%B1%E9%9B%80%E4%B8%89%E5%8F%B7%E7%81%AB%E7%AE%AD%E8%BF%91%E6%97%A5%E8%AF%95%E9%A3%9E)
 1. [河南三支一扶考试存组织作弊犯罪](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8D%97%E4%B8%89%E6%94%AF%E4%B8%80%E6%89%B6%E8%80%83%E8%AF%95%E5%AD%98%E7%BB%84%E7%BB%87%E4%BD%9C%E5%BC%8A%E7%8A%AF%E7%BD%AA)
@@ -37,11 +37,9 @@
 1. [白海豚突然大拐弯](https://www.zhihu.com/search?q=%E7%99%BD%E6%B5%B7%E8%B1%9A%E7%AA%81%E7%84%B6%E5%A4%A7%E6%8B%90%E5%BC%AF)
 1. [王骁获百花奖最佳男配](https://www.zhihu.com/search?q=%E7%8E%8B%E9%AA%81%E8%8E%B7%E7%99%BE%E8%8A%B1%E5%A5%96%E6%9C%80%E4%BD%B3%E7%94%B7%E9%85%8D)
 1. [萨日娜获百花奖最佳女配](https://www.zhihu.com/search?q=%E8%90%A8%E6%97%A5%E5%A8%9C%E8%8E%B7%E7%99%BE%E8%8A%B1%E5%A5%96%E6%9C%80%E4%BD%B3%E5%A5%B3%E9%85%8D)
-1. [《南京照相馆》最佳编剧奖](https://www.zhihu.com/search?q=%E3%80%8A%E5%8D%97%E4%BA%AC%E7%85%A7%E7%9B%B8%E9%A6%86%E3%80%8B%E6%9C%80%E4%BD%B3%E7%BC%96%E5%89%A7%E5%A5%96)
 1. [卫诗雅百花奖最佳女主角](https://www.zhihu.com/search?q=%E5%8D%AB%E8%AF%97%E9%9B%85%E7%99%BE%E8%8A%B1%E5%A5%96%E6%9C%80%E4%BD%B3%E5%A5%B3%E4%B8%BB%E8%A7%92)
 1. [哥伦比亚 7.5 级地震](https://www.zhihu.com/search?q=%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A%207.5%20%E7%BA%A7%E5%9C%B0%E9%9C%87)
 1. [张旭骂贵州言论引争议](https://www.zhihu.com/search?q=%E5%BC%A0%E6%97%AD%E9%AA%82%E8%B4%B5%E5%B7%9E%E8%A8%80%E8%AE%BA%E5%BC%95%E4%BA%89%E8%AE%AE)
-1. [大鹏百花奖最佳导演奖](https://www.zhihu.com/search?q=%E5%A4%A7%E9%B9%8F%E7%99%BE%E8%8A%B1%E5%A5%96%E6%9C%80%E4%BD%B3%E5%AF%BC%E6%BC%94%E5%A5%96)
 
 ## 热门话题
 
