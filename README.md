@@ -11,16 +11,15 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-08-14 16:21:30 +0800`
+`更新时间：2026-08-14 18:10:43 +0800`
 
 ## 热门搜索
 
-1. [花 48 万买事业编没办成中间人拒退款](https://www.zhihu.com/search?q=%E8%8A%B1%2048%20%E4%B8%87%E4%B9%B0%E4%BA%8B%E4%B8%9A%E7%BC%96%E6%B2%A1%E5%8A%9E%E6%88%90%E4%B8%AD%E9%97%B4%E4%BA%BA%E6%8B%92%E9%80%80%E6%AC%BE)
+1. [电影《八仙！》热映](https://www.zhihu.com/search?q=%E7%94%B5%E5%BD%B1%E3%80%8A%E5%85%AB%E4%BB%99%EF%BC%81%E3%80%8B%E7%83%AD%E6%98%A0)
 1. [河南三支一扶考试存组织作弊犯罪](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8D%97%E4%B8%89%E6%94%AF%E4%B8%80%E6%89%B6%E8%80%83%E8%AF%95%E5%AD%98%E7%BB%84%E7%BB%87%E4%BD%9C%E5%BC%8A%E7%8A%AF%E7%BD%AA)
 1. [河南三支一扶笔试将重考](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8D%97%E4%B8%89%E6%94%AF%E4%B8%80%E6%89%B6%E7%AC%94%E8%AF%95%E5%B0%86%E9%87%8D%E8%80%83)
 1. [《欢迎来龙餐馆》热映](https://www.zhihu.com/search?q=%E3%80%8A%E6%AC%A2%E8%BF%8E%E6%9D%A5%E9%BE%99%E9%A4%90%E9%A6%86%E3%80%8B%E7%83%AD%E6%98%A0)
 1. [苹果被曝正测试长鑫存储芯片](https://www.zhihu.com/search?q=%E8%8B%B9%E6%9E%9C%E8%A2%AB%E6%9B%9D%E6%AD%A3%E6%B5%8B%E8%AF%95%E9%95%BF%E9%91%AB%E5%AD%98%E5%82%A8%E8%8A%AF%E7%89%87)
-1. [于东来回应关闭胖东来生活广场店](https://www.zhihu.com/search?q=%E4%BA%8E%E4%B8%9C%E6%9D%A5%E5%9B%9E%E5%BA%94%E5%85%B3%E9%97%AD%E8%83%96%E4%B8%9C%E6%9D%A5%E7%94%9F%E6%B4%BB%E5%B9%BF%E5%9C%BA%E5%BA%97)
 1. [王骁获百花奖最佳男配](https://www.zhihu.com/search?q=%E7%8E%8B%E9%AA%81%E8%8E%B7%E7%99%BE%E8%8A%B1%E5%A5%96%E6%9C%80%E4%BD%B3%E7%94%B7%E9%85%8D)
 1. [萨日娜获百花奖最佳女配](https://www.zhihu.com/search?q=%E8%90%A8%E6%97%A5%E5%A8%9C%E8%8E%B7%E7%99%BE%E8%8A%B1%E5%A5%96%E6%9C%80%E4%BD%B3%E5%A5%B3%E9%85%8D)
 1. [《南京照相馆》最佳编剧奖](https://www.zhihu.com/search?q=%E3%80%8A%E5%8D%97%E4%BA%AC%E7%85%A7%E7%9B%B8%E9%A6%86%E3%80%8B%E6%9C%80%E4%BD%B3%E7%BC%96%E5%89%A7%E5%A5%96)
@@ -28,6 +27,7 @@
 1. [大鹏百花奖最佳导演奖](https://www.zhihu.com/search?q=%E5%A4%A7%E9%B9%8F%E7%99%BE%E8%8A%B1%E5%A5%96%E6%9C%80%E4%BD%B3%E5%AF%BC%E6%BC%94%E5%A5%96)
 1. [《哪吒之魔童闹海》最佳影片](https://www.zhihu.com/search?q=%E3%80%8A%E5%93%AA%E5%90%92%E4%B9%8B%E9%AD%94%E7%AB%A5%E9%97%B9%E6%B5%B7%E3%80%8B%E6%9C%80%E4%BD%B3%E5%BD%B1%E7%89%87)
 1. [易烊千玺百花奖最佳男主角](https://www.zhihu.com/search?q=%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E7%99%BE%E8%8A%B1%E5%A5%96%E6%9C%80%E4%BD%B3%E7%94%B7%E4%B8%BB%E8%A7%92)
+1. [儿子说「以后大不了送外卖」爸爸真带他去了](https://www.zhihu.com/search?q=%E5%84%BF%E5%AD%90%E8%AF%B4%E3%80%8C%E4%BB%A5%E5%90%8E%E5%A4%A7%E4%B8%8D%E4%BA%86%E9%80%81%E5%A4%96%E5%8D%96%E3%80%8D%E7%88%B8%E7%88%B8%E7%9C%9F%E5%B8%A6%E4%BB%96%E5%8E%BB%E4%BA%86)
 1. [阿维塔高管称与华为合作非必要](https://www.zhihu.com/search?q=%E9%98%BF%E7%BB%B4%E5%A1%94%E9%AB%98%E7%AE%A1%E7%A7%B0%E4%B8%8E%E5%8D%8E%E4%B8%BA%E5%90%88%E4%BD%9C%E9%9D%9E%E5%BF%85%E8%A6%81)
 1. [Claude 生成文本 隐形水印](https://www.zhihu.com/search?q=Claude%20%E7%94%9F%E6%88%90%E6%96%87%E6%9C%AC%20%E9%9A%90%E5%BD%A2%E6%B0%B4%E5%8D%B0)
 1. [呼兰三个月挽救开花俱乐部](https://www.zhihu.com/search?q=%E5%91%BC%E5%85%B0%E4%B8%89%E4%B8%AA%E6%9C%88%E6%8C%BD%E6%95%91%E5%BC%80%E8%8A%B1%E4%BF%B1%E4%B9%90%E9%83%A8)
@@ -36,6 +36,8 @@
 1. [拼豆之后拼布火了](https://www.zhihu.com/search?q=%E6%8B%BC%E8%B1%86%E4%B9%8B%E5%90%8E%E6%8B%BC%E5%B8%83%E7%81%AB%E4%BA%86)
 1. [男子有姓名被当无名尸滞留太平间](https://www.zhihu.com/search?q=%E7%94%B7%E5%AD%90%E6%9C%89%E5%A7%93%E5%90%8D%E8%A2%AB%E5%BD%93%E6%97%A0%E5%90%8D%E5%B0%B8%E6%BB%9E%E7%95%99%E5%A4%AA%E5%B9%B3%E9%97%B4)
 1. [梁文锋财富一年暴涨3850%](https://www.zhihu.com/search?q=%E6%A2%81%E6%96%87%E9%94%8B%E8%B4%A2%E5%AF%8C%E4%B8%80%E5%B9%B4%E6%9A%B4%E6%B6%A83850%25)
+1. [京东出现「李鬼」笔记本](https://www.zhihu.com/search?q=%E4%BA%AC%E4%B8%9C%E5%87%BA%E7%8E%B0%E3%80%8C%E6%9D%8E%E9%AC%BC%E3%80%8D%E7%AC%94%E8%AE%B0%E6%9C%AC)
+1. [《影之刃零》正式开启预售](https://www.zhihu.com/search?q=%E3%80%8A%E5%BD%B1%E4%B9%8B%E5%88%83%E9%9B%B6%E3%80%8B%E6%AD%A3%E5%BC%8F%E5%BC%80%E5%90%AF%E9%A2%84%E5%94%AE)
 
 ## 热门话题
 
