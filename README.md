@@ -11,12 +11,14 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-08-17 17:31:35 +0800`
+`更新时间：2026-08-17 18:22:32 +0800`
 
 ## 热门搜索
 
-1. [阿森纳vs曼城](https://www.zhihu.com/search?q=%E9%98%BF%E6%A3%AE%E7%BA%B3vs%E6%9B%BC%E5%9F%8E)
+1. [DeepSeek 新定价已生效](https://www.zhihu.com/search?q=DeepSeek%20%E6%96%B0%E5%AE%9A%E4%BB%B7%E5%B7%B2%E7%94%9F%E6%95%88)
+1. [龙餐馆原型称每天都可能被死神点名](https://www.zhihu.com/search?q=%E9%BE%99%E9%A4%90%E9%A6%86%E5%8E%9F%E5%9E%8B%E7%A7%B0%E6%AF%8F%E5%A4%A9%E9%83%BD%E5%8F%AF%E8%83%BD%E8%A2%AB%E6%AD%BB%E7%A5%9E%E7%82%B9%E5%90%8D)
 1. [儿科医生韩杰因医疗事故罪被判刑](https://www.zhihu.com/search?q=%E5%84%BF%E7%A7%91%E5%8C%BB%E7%94%9F%E9%9F%A9%E6%9D%B0%E5%9B%A0%E5%8C%BB%E7%96%97%E4%BA%8B%E6%95%85%E7%BD%AA%E8%A2%AB%E5%88%A4%E5%88%91)
+1. [曝 Bin 疑似不想打比赛了](https://www.zhihu.com/search?q=%E6%9B%9D%20Bin%20%E7%96%91%E4%BC%BC%E4%B8%8D%E6%83%B3%E6%89%93%E6%AF%94%E8%B5%9B%E4%BA%86)
 1. [《欢迎来龙餐馆》热映](https://www.zhihu.com/search?q=%E3%80%8A%E6%AC%A2%E8%BF%8E%E6%9D%A5%E9%BE%99%E9%A4%90%E9%A6%86%E3%80%8B%E7%83%AD%E6%98%A0)
 1. [欢迎来龙餐馆 细节](https://www.zhihu.com/search?q=%E6%AC%A2%E8%BF%8E%E6%9D%A5%E9%BE%99%E9%A4%90%E9%A6%86%20%E7%BB%86%E8%8A%82)
 1. [研究称每天吃西红柿可减轻脂肪肝](https://www.zhihu.com/search?q=%E7%A0%94%E7%A9%B6%E7%A7%B0%E6%AF%8F%E5%A4%A9%E5%90%83%E8%A5%BF%E7%BA%A2%E6%9F%BF%E5%8F%AF%E5%87%8F%E8%BD%BB%E8%84%82%E8%82%AA%E8%82%9D)
@@ -36,6 +38,7 @@
 1. [谁杀死了驾校](https://www.zhihu.com/search?q=%E8%B0%81%E6%9D%80%E6%AD%BB%E4%BA%86%E9%A9%BE%E6%A0%A1)
 1. [电影《牛来》反向出圈](https://www.zhihu.com/search?q=%E7%94%B5%E5%BD%B1%E3%80%8A%E7%89%9B%E6%9D%A5%E3%80%8B%E5%8F%8D%E5%90%91%E5%87%BA%E5%9C%88)
 1. [微信朋友圈不会有二次编辑功能](https://www.zhihu.com/search?q=%E5%BE%AE%E4%BF%A1%E6%9C%8B%E5%8F%8B%E5%9C%88%E4%B8%8D%E4%BC%9A%E6%9C%89%E4%BA%8C%E6%AC%A1%E7%BC%96%E8%BE%91%E5%8A%9F%E8%83%BD)
+1. [DeepSeek Harness 发布](https://www.zhihu.com/search?q=DeepSeek%20Harness%20%E5%8F%91%E5%B8%83)
 
 ## 热门话题
 
