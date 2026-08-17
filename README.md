@@ -11,16 +11,15 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-08-17 15:07:35 +0800`
+`更新时间：2026-08-17 16:51:54 +0800`
 
 ## 热门搜索
 
-1. [网红小家电集体吃灰](https://www.zhihu.com/search?q=%E7%BD%91%E7%BA%A2%E5%B0%8F%E5%AE%B6%E7%94%B5%E9%9B%86%E4%BD%93%E5%90%83%E7%81%B0)
-1. [贾跃亭：FF机器人将独立融资上市](https://www.zhihu.com/search?q=%E8%B4%BE%E8%B7%83%E4%BA%AD%EF%BC%9AFF%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%B0%86%E7%8B%AC%E7%AB%8B%E8%9E%8D%E8%B5%84%E4%B8%8A%E5%B8%82)
+1. [阿森纳vs曼城](https://www.zhihu.com/search?q=%E9%98%BF%E6%A3%AE%E7%BA%B3vs%E6%9B%BC%E5%9F%8E)
+1. [儿科医生韩杰因医疗事故罪被判刑](https://www.zhihu.com/search?q=%E5%84%BF%E7%A7%91%E5%8C%BB%E7%94%9F%E9%9F%A9%E6%9D%B0%E5%9B%A0%E5%8C%BB%E7%96%97%E4%BA%8B%E6%95%85%E7%BD%AA%E8%A2%AB%E5%88%A4%E5%88%91)
 1. [《欢迎来龙餐馆》热映](https://www.zhihu.com/search?q=%E3%80%8A%E6%AC%A2%E8%BF%8E%E6%9D%A5%E9%BE%99%E9%A4%90%E9%A6%86%E3%80%8B%E7%83%AD%E6%98%A0)
 1. [欢迎来龙餐馆 细节](https://www.zhihu.com/search?q=%E6%AC%A2%E8%BF%8E%E6%9D%A5%E9%BE%99%E9%A4%90%E9%A6%86%20%E7%BB%86%E8%8A%82)
 1. [研究称每天吃西红柿可减轻脂肪肝](https://www.zhihu.com/search?q=%E7%A0%94%E7%A9%B6%E7%A7%B0%E6%AF%8F%E5%A4%A9%E5%90%83%E8%A5%BF%E7%BA%A2%E6%9F%BF%E5%8F%AF%E5%87%8F%E8%BD%BB%E8%84%82%E8%82%AA%E8%82%9D)
-1. [段永平「亿元对赌」言论](https://www.zhihu.com/search?q=%E6%AE%B5%E6%B0%B8%E5%B9%B3%E3%80%8C%E4%BA%BF%E5%85%83%E5%AF%B9%E8%B5%8C%E3%80%8D%E8%A8%80%E8%AE%BA)
 1. [《牛来》电影建模粗糙票房仅为七千元](https://www.zhihu.com/search?q=%E3%80%8A%E7%89%9B%E6%9D%A5%E3%80%8B%E7%94%B5%E5%BD%B1%E5%BB%BA%E6%A8%A1%E7%B2%97%E7%B3%99%E7%A5%A8%E6%88%BF%E4%BB%85%E4%B8%BA%E4%B8%83%E5%8D%83%E5%85%83)
 1. [《牛来》 观众想哭](https://www.zhihu.com/search?q=%E3%80%8A%E7%89%9B%E6%9D%A5%E3%80%8B%20%E8%A7%82%E4%BC%97%E6%83%B3%E5%93%AD)
 1. [五粮液不得低于 800 元抛售](https://www.zhihu.com/search?q=%E4%BA%94%E7%B2%AE%E6%B6%B2%E4%B8%8D%E5%BE%97%E4%BD%8E%E4%BA%8E%20800%20%E5%85%83%E6%8A%9B%E5%94%AE)
