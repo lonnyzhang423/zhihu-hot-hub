@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-08-19 06:30:29 +0800`
+`更新时间：2026-08-19 07:27:56 +0800`
 
 ## 热门搜索
 
@@ -39,8 +39,8 @@
 1. [TI2026 中国队瑞士轮全出局](https://www.zhihu.com/search?q=TI2026%20%E4%B8%AD%E5%9B%BD%E9%98%9F%E7%91%9E%E5%A3%AB%E8%BD%AE%E5%85%A8%E5%87%BA%E5%B1%80)
 1. [日本人战斗分队在乌成立](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E4%BA%BA%E6%88%98%E6%96%97%E5%88%86%E9%98%9F%E5%9C%A8%E4%B9%8C%E6%88%90%E7%AB%8B)
 1. [新番《尼古喵喵》引争议](https://www.zhihu.com/search?q=%E6%96%B0%E7%95%AA%E3%80%8A%E5%B0%BC%E5%8F%A4%E5%96%B5%E5%96%B5%E3%80%8B%E5%BC%95%E4%BA%89%E8%AE%AE)
+1. [网红小家电集体吃灰](https://www.zhihu.com/search?q=%E7%BD%91%E7%BA%A2%E5%B0%8F%E5%AE%B6%E7%94%B5%E9%9B%86%E4%BD%93%E5%90%83%E7%81%B0)
 1. [《牛来》团队回应下架传闻](https://www.zhihu.com/search?q=%E3%80%8A%E7%89%9B%E6%9D%A5%E3%80%8B%E5%9B%A2%E9%98%9F%E5%9B%9E%E5%BA%94%E4%B8%8B%E6%9E%B6%E4%BC%A0%E9%97%BB)
-1. [DeepSeek 新定价已生效](https://www.zhihu.com/search?q=DeepSeek%20%E6%96%B0%E5%AE%9A%E4%BB%B7%E5%B7%B2%E7%94%9F%E6%95%88)
 
 ## 热门话题
 
