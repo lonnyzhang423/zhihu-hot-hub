@@ -11,12 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-08-25 20:58:58 +0800`
+`更新时间：2026-08-25 21:57:15 +0800`
 
 ## 热门搜索
 
-1. [何猷君晒与C罗合照](https://www.zhihu.com/search?q=%E4%BD%95%E7%8C%B7%E5%90%9B%E6%99%92%E4%B8%8EC%E7%BD%97%E5%90%88%E7%85%A7)
-1. [可以带宠物上大学了](https://www.zhihu.com/search?q=%E5%8F%AF%E4%BB%A5%E5%B8%A6%E5%AE%A0%E7%89%A9%E4%B8%8A%E5%A4%A7%E5%AD%A6%E4%BA%86)
+1. [金鹰奖](https://www.zhihu.com/search?q=%E9%87%91%E9%B9%B0%E5%A5%96)
 1. [曼城vs伯恩茅斯](https://www.zhihu.com/search?q=%E6%9B%BC%E5%9F%8Evs%E4%BC%AF%E6%81%A9%E8%8C%85%E6%96%AF)
 1. [花开锦绣](https://www.zhihu.com/search?q=%E8%8A%B1%E5%BC%80%E9%94%A6%E7%BB%A3)
 1. [电影《牛来》反向出圈](https://www.zhihu.com/search?q=%E7%94%B5%E5%BD%B1%E3%80%8A%E7%89%9B%E6%9D%A5%E3%80%8B%E5%8F%8D%E5%90%91%E5%87%BA%E5%9C%88)
