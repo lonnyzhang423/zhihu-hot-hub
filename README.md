@@ -11,12 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-08-25 21:40:53 +0800`
+`更新时间：2026-08-25 22:34:55 +0800`
 
 ## 热门搜索
 
-1. [宇树科技机器人拳拳到肉](https://www.zhihu.com/search?q=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%8B%B3%E6%8B%B3%E5%88%B0%E8%82%89)
-1. [donk获EWC赛事MVP](https://www.zhihu.com/search?q=donk%E8%8E%B7EWC%E8%B5%9B%E4%BA%8BMVP)
+1. [金鹰奖](https://www.zhihu.com/search?q=%E9%87%91%E9%B9%B0%E5%A5%96)
 1. [曼城vs伯恩茅斯](https://www.zhihu.com/search?q=%E6%9B%BC%E5%9F%8Evs%E4%BC%AF%E6%81%A9%E8%8C%85%E6%96%AF)
 1. [花开锦绣](https://www.zhihu.com/search?q=%E8%8A%B1%E5%BC%80%E9%94%A6%E7%BB%A3)
 1. [电影《牛来》反向出圈](https://www.zhihu.com/search?q=%E7%94%B5%E5%BD%B1%E3%80%8A%E7%89%9B%E6%9D%A5%E3%80%8B%E5%8F%8D%E5%90%91%E5%87%BA%E5%9C%88)
