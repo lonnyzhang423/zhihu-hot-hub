@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-08-26 08:43:57 +0800`
+`更新时间：2026-08-26 10:19:26 +0800`
 
 ## 热门搜索
 
@@ -35,9 +35,9 @@
 1. [泡泡玛特ip格局大变](https://www.zhihu.com/search?q=%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9ip%E6%A0%BC%E5%B1%80%E5%A4%A7%E5%8F%98)
 1. [宇树发布新产品售价9900元起](https://www.zhihu.com/search?q=%E5%AE%87%E6%A0%91%E5%8F%91%E5%B8%83%E6%96%B0%E4%BA%A7%E5%93%81%E5%94%AE%E4%BB%B79900%E5%85%83%E8%B5%B7)
 1. [游戏《诡秘之主》开服](https://www.zhihu.com/search?q=%E6%B8%B8%E6%88%8F%E3%80%8A%E8%AF%A1%E7%A7%98%E4%B9%8B%E4%B8%BB%E3%80%8B%E5%BC%80%E6%9C%8D)
-1. [九家车企因门把手缺陷召回多款汽车](https://www.zhihu.com/search?q=%E4%B9%9D%E5%AE%B6%E8%BD%A6%E4%BC%81%E5%9B%A0%E9%97%A8%E6%8A%8A%E6%89%8B%E7%BC%BA%E9%99%B7%E5%8F%AC%E5%9B%9E%E5%A4%9A%E6%AC%BE%E6%B1%BD%E8%BD%A6)
 1. [宇树科技回撤近 40%](https://www.zhihu.com/search?q=%E5%AE%87%E6%A0%91%E7%A7%91%E6%8A%80%E5%9B%9E%E6%92%A4%E8%BF%91%2040%25)
 1. [一斤鸭脖能买一斤牛肉一斤排骨](https://www.zhihu.com/search?q=%E4%B8%80%E6%96%A4%E9%B8%AD%E8%84%96%E8%83%BD%E4%B9%B0%E4%B8%80%E6%96%A4%E7%89%9B%E8%82%89%E4%B8%80%E6%96%A4%E6%8E%92%E9%AA%A8)
+1. [河北一地被曝甲醛泡白菜](https://www.zhihu.com/search?q=%E6%B2%B3%E5%8C%97%E4%B8%80%E5%9C%B0%E8%A2%AB%E6%9B%9D%E7%94%B2%E9%86%9B%E6%B3%A1%E7%99%BD%E8%8F%9C)
 
 ## 热门话题
 
