@@ -11,12 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-08-26 09:45:34 +0800`
+`更新时间：2026-08-26 11:11:55 +0800`
 
 ## 热门搜索
 
-1. [万亿AI债务为何从财报消失](https://www.zhihu.com/search?q=%E4%B8%87%E4%BA%BFAI%E5%80%BA%E5%8A%A1%E4%B8%BA%E4%BD%95%E4%BB%8E%E8%B4%A2%E6%8A%A5%E6%B6%88%E5%A4%B1)
-1. [大数据杀熟3台手机显示3个价格](https://www.zhihu.com/search?q=%E5%A4%A7%E6%95%B0%E6%8D%AE%E6%9D%80%E7%86%9F3%E5%8F%B0%E6%89%8B%E6%9C%BA%E6%98%BE%E7%A4%BA3%E4%B8%AA%E4%BB%B7%E6%A0%BC)
+1. [130亿美元huggingface要卖了](https://www.zhihu.com/search?q=130%E4%BA%BF%E7%BE%8E%E5%85%83huggingface%E8%A6%81%E5%8D%96%E4%BA%86)
 1. [曼城vs伯恩茅斯](https://www.zhihu.com/search?q=%E6%9B%BC%E5%9F%8Evs%E4%BC%AF%E6%81%A9%E8%8C%85%E6%96%AF)
 1. [花开锦绣](https://www.zhihu.com/search?q=%E8%8A%B1%E5%BC%80%E9%94%A6%E7%BB%A3)
 1. [电影《牛来》反向出圈](https://www.zhihu.com/search?q=%E7%94%B5%E5%BD%B1%E3%80%8A%E7%89%9B%E6%9D%A5%E3%80%8B%E5%8F%8D%E5%90%91%E5%87%BA%E5%9C%88)
