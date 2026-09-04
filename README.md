@@ -11,11 +11,30 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-09-04 12:06:07 +0800`
+`更新时间：2026-09-04 17:27:03 +0800`
 
 ## 热门搜索
 
-暂无数据
+1. [老虎伍兹酒驾认罪](https://www.zhihu.com/search?q=%E8%80%81%E8%99%8E%E4%BC%8D%E5%85%B9%E9%85%92%E9%A9%BE%E8%AE%A4%E7%BD%AA)
+1. [HLE对战T1](https://www.zhihu.com/search?q=HLE%E5%AF%B9%E6%88%98T1)
+1. [LPL](https://www.zhihu.com/search?q=LPL)
+1. [Manus宣布恢复独立运营](https://www.zhihu.com/search?q=Manus%E5%AE%A3%E5%B8%83%E6%81%A2%E5%A4%8D%E7%8B%AC%E7%AB%8B%E8%BF%90%E8%90%A5)
+1. [出发吧！看山](https://www.zhihu.com/search?q=%E5%87%BA%E5%8F%91%E5%90%A7%EF%BC%81%E7%9C%8B%E5%B1%B1)
+1. [小米18Fold](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B318Fold)
+1. [2026女排亚锦赛](https://www.zhihu.com/search?q=2026%E5%A5%B3%E6%8E%92%E4%BA%9A%E9%94%A6%E8%B5%9B)
+1. [刘翔向网友求助职场选择](https://www.zhihu.com/search?q=%E5%88%98%E7%BF%94%E5%90%91%E7%BD%91%E5%8F%8B%E6%B1%82%E5%8A%A9%E8%81%8C%E5%9C%BA%E9%80%89%E6%8B%A9)
+1. [孙宇晨起诉景甜](https://www.zhihu.com/search?q=%E5%AD%99%E5%AE%87%E6%99%A8%E8%B5%B7%E8%AF%89%E6%99%AF%E7%94%9C)
+1. [Claude 不要把五千万美元给她](https://www.zhihu.com/search?q=Claude%20%E4%B8%8D%E8%A6%81%E6%8A%8A%E4%BA%94%E5%8D%83%E4%B8%87%E7%BE%8E%E5%85%83%E7%BB%99%E5%A5%B9)
+1. [孙宇晨](https://www.zhihu.com/search?q=%E5%AD%99%E5%AE%87%E6%99%A8)
+1. [景甜回应被起诉](https://www.zhihu.com/search?q=%E6%99%AF%E7%94%9C%E5%9B%9E%E5%BA%94%E8%A2%AB%E8%B5%B7%E8%AF%89)
+1. [景甜回应](https://www.zhihu.com/search?q=%E6%99%AF%E7%94%9C%E5%9B%9E%E5%BA%94)
+1. [吉隆口岸小邬警官确认平安](https://www.zhihu.com/search?q=%E5%90%89%E9%9A%86%E5%8F%A3%E5%B2%B8%E5%B0%8F%E9%82%AC%E8%AD%A6%E5%AE%98%E7%A1%AE%E8%AE%A4%E5%B9%B3%E5%AE%89)
+1. [吉隆泥石流已致16人遇难546人失联](https://www.zhihu.com/search?q=%E5%90%89%E9%9A%86%E6%B3%A5%E7%9F%B3%E6%B5%81%E5%B7%B2%E8%87%B416%E4%BA%BA%E9%81%87%E9%9A%BE546%E4%BA%BA%E5%A4%B1%E8%81%94)
+1. [《花少 2》爆料](https://www.zhihu.com/search?q=%E3%80%8A%E8%8A%B1%E5%B0%91%202%E3%80%8B%E7%88%86%E6%96%99)
+1. [DLSS5 意外泄露](https://www.zhihu.com/search?q=DLSS5%20%E6%84%8F%E5%A4%96%E6%B3%84%E9%9C%B2)
+1. [《肖申克的救赎》首次内地上映](https://www.zhihu.com/search?q=%E3%80%8A%E8%82%96%E7%94%B3%E5%85%8B%E7%9A%84%E6%95%91%E8%B5%8E%E3%80%8B%E9%A6%96%E6%AC%A1%E5%86%85%E5%9C%B0%E4%B8%8A%E6%98%A0)
+1. [尼泊尔泥石流已致903遇难4247失联](https://www.zhihu.com/search?q=%E5%B0%BC%E6%B3%8A%E5%B0%94%E6%B3%A5%E7%9F%B3%E6%B5%81%E5%B7%B2%E8%87%B4903%E9%81%87%E9%9A%BE4247%E5%A4%B1%E8%81%94)
+1. [绝味鸭脖为啥卖不动了](https://www.zhihu.com/search?q=%E7%BB%9D%E5%91%B3%E9%B8%AD%E8%84%96%E4%B8%BA%E5%95%A5%E5%8D%96%E4%B8%8D%E5%8A%A8%E4%BA%86)
 
 ## 热门话题
 
