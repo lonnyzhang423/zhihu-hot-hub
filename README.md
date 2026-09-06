@@ -11,21 +11,19 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-09-06 13:19:45 +0800`
+`更新时间：2026-09-06 17:56:36 +0800`
 
 ## 热门搜索
 
-1. [淘宝崩了](https://www.zhihu.com/search?q=%E6%B7%98%E5%AE%9D%E5%B4%A9%E4%BA%86)
-1. [郑钦文vs凯斯](https://www.zhihu.com/search?q=%E9%83%91%E9%92%A6%E6%96%87vs%E5%87%AF%E6%96%AF)
+1. [特斯拉Cybercab运营](https://www.zhihu.com/search?q=%E7%89%B9%E6%96%AF%E6%8B%89Cybercab%E8%BF%90%E8%90%A5)
+1. [佛得角大使携夫人抵达湖南永州](https://www.zhihu.com/search?q=%E4%BD%9B%E5%BE%97%E8%A7%92%E5%A4%A7%E4%BD%BF%E6%90%BA%E5%A4%AB%E4%BA%BA%E6%8A%B5%E8%BE%BE%E6%B9%96%E5%8D%97%E6%B0%B8%E5%B7%9E)
 1. [ChatGPT崩了](https://www.zhihu.com/search?q=ChatGPT%E5%B4%A9%E4%BA%86)
 1. [BLG战胜WE](https://www.zhihu.com/search?q=BLG%E6%88%98%E8%83%9CWE)
 1. [出发吧！看山](https://www.zhihu.com/search?q=%E5%87%BA%E5%8F%91%E5%90%A7%EF%BC%81%E7%9C%8B%E5%B1%B1)
 1. [曝科大讯飞公关副总裁被解除职务](https://www.zhihu.com/search?q=%E6%9B%9D%E7%A7%91%E5%A4%A7%E8%AE%AF%E9%A3%9E%E5%85%AC%E5%85%B3%E5%89%AF%E6%80%BB%E8%A3%81%E8%A2%AB%E8%A7%A3%E9%99%A4%E8%81%8C%E5%8A%A1)
 1. [早春晴朗](https://www.zhihu.com/search?q=%E6%97%A9%E6%98%A5%E6%99%B4%E6%9C%97)
-1. [黑客攻击孙宇晨旗下平台](https://www.zhihu.com/search?q=%E9%BB%91%E5%AE%A2%E6%94%BB%E5%87%BB%E5%AD%99%E5%AE%87%E6%99%A8%E6%97%97%E4%B8%8B%E5%B9%B3%E5%8F%B0)
 1. [多家车企公布8月交付量](https://www.zhihu.com/search?q=%E5%A4%9A%E5%AE%B6%E8%BD%A6%E4%BC%81%E5%85%AC%E5%B8%838%E6%9C%88%E4%BA%A4%E4%BB%98%E9%87%8F)
 1. [一年级家长年龄相差近30岁](https://www.zhihu.com/search?q=%E4%B8%80%E5%B9%B4%E7%BA%A7%E5%AE%B6%E9%95%BF%E5%B9%B4%E9%BE%84%E7%9B%B8%E5%B7%AE%E8%BF%9130%E5%B2%81)
-1. [苹果小米华为发布时间撞档](https://www.zhihu.com/search?q=%E8%8B%B9%E6%9E%9C%E5%B0%8F%E7%B1%B3%E5%8D%8E%E4%B8%BA%E5%8F%91%E5%B8%83%E6%97%B6%E9%97%B4%E6%92%9E%E6%A1%A3)
 1. [可可里小姐低价走量撑不住了](https://www.zhihu.com/search?q=%E5%8F%AF%E5%8F%AF%E9%87%8C%E5%B0%8F%E5%A7%90%E4%BD%8E%E4%BB%B7%E8%B5%B0%E9%87%8F%E6%92%91%E4%B8%8D%E4%BD%8F%E4%BA%86)
 1. [中国羽毛球大师赛](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E7%BE%BD%E6%AF%9B%E7%90%83%E5%A4%A7%E5%B8%88%E8%B5%9B)
 1. [苹果新任ceo特努斯年薪曝光](https://www.zhihu.com/search?q=%E8%8B%B9%E6%9E%9C%E6%96%B0%E4%BB%BBceo%E7%89%B9%E5%8A%AA%E6%96%AF%E5%B9%B4%E8%96%AA%E6%9B%9D%E5%85%89)
@@ -35,6 +33,10 @@
 1. [美国银行副总裁时代广场被刺身亡](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E9%93%B6%E8%A1%8C%E5%89%AF%E6%80%BB%E8%A3%81%E6%97%B6%E4%BB%A3%E5%B9%BF%E5%9C%BA%E8%A2%AB%E5%88%BA%E8%BA%AB%E4%BA%A1)
 1. [秘鲁宣布与伊朗断绝外交关系](https://www.zhihu.com/search?q=%E7%A7%98%E9%B2%81%E5%AE%A3%E5%B8%83%E4%B8%8E%E4%BC%8A%E6%9C%97%E6%96%AD%E7%BB%9D%E5%A4%96%E4%BA%A4%E5%85%B3%E7%B3%BB)
 1. [曝千元酒店用刷马桶刷子清洁坐垫](https://www.zhihu.com/search?q=%E6%9B%9D%E5%8D%83%E5%85%83%E9%85%92%E5%BA%97%E7%94%A8%E5%88%B7%E9%A9%AC%E6%A1%B6%E5%88%B7%E5%AD%90%E6%B8%85%E6%B4%81%E5%9D%90%E5%9E%AB)
+1. [90后存活率](https://www.zhihu.com/search?q=90%E5%90%8E%E5%AD%98%E6%B4%BB%E7%8E%87)
+1. [夏窗top20转会](https://www.zhihu.com/search?q=%E5%A4%8F%E7%AA%97top20%E8%BD%AC%E4%BC%9A)
+1. [北交所公司上半年超八成实现盈利](https://www.zhihu.com/search?q=%E5%8C%97%E4%BA%A4%E6%89%80%E5%85%AC%E5%8F%B8%E4%B8%8A%E5%8D%8A%E5%B9%B4%E8%B6%85%E5%85%AB%E6%88%90%E5%AE%9E%E7%8E%B0%E7%9B%88%E5%88%A9)
+1. [Gemini 3.8 Flash 发布](https://www.zhihu.com/search?q=Gemini%203.8%20Flash%20%E5%8F%91%E5%B8%83)
 
 ## 热门话题
 
