@@ -11,10 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-09-11 00:46:27 +0800`
+`更新时间：2026-09-11 03:22:18 +0800`
 
 ## 热门搜索
 
+1. [教师节](https://www.zhihu.com/search?q=%E6%95%99%E5%B8%88%E8%8A%82)
+1. [欧冠](https://www.zhihu.com/search?q=%E6%AC%A7%E5%86%A0)
 1. [心动的信号](https://www.zhihu.com/search?q=%E5%BF%83%E5%8A%A8%E7%9A%84%E4%BF%A1%E5%8F%B7)
 1. [A股](https://www.zhihu.com/search?q=A%E8%82%A1)
 1. [装警察打17岁少年霸凌者涉寻衅滋事](https://www.zhihu.com/search?q=%E8%A3%85%E8%AD%A6%E5%AF%9F%E6%89%9317%E5%B2%81%E5%B0%91%E5%B9%B4%E9%9C%B8%E5%87%8C%E8%80%85%E6%B6%89%E5%AF%BB%E8%A1%85%E6%BB%8B%E4%BA%8B)
