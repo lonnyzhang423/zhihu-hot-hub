@@ -11,20 +11,18 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-09-12 10:15:15 +0800`
+`更新时间：2026-09-12 15:28:33 +0800`
 
 ## 热门搜索
 
-1. [教师节](https://www.zhihu.com/search?q=%E6%95%99%E5%B8%88%E8%8A%82)
 1. [油价上涨](https://www.zhihu.com/search?q=%E6%B2%B9%E4%BB%B7%E4%B8%8A%E6%B6%A8)
 1. [酒店为什么会有三小时钟点房](https://www.zhihu.com/search?q=%E9%85%92%E5%BA%97%E4%B8%BA%E4%BB%80%E4%B9%88%E4%BC%9A%E6%9C%89%E4%B8%89%E5%B0%8F%E6%97%B6%E9%92%9F%E7%82%B9%E6%88%BF)
 1. [中国航天又一次成功发射](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E8%88%AA%E5%A4%A9%E5%8F%88%E4%B8%80%E6%AC%A1%E6%88%90%E5%8A%9F%E5%8F%91%E5%B0%84)
+1. [国乒男单全军覆没](https://www.zhihu.com/search?q=%E5%9B%BD%E4%B9%92%E7%94%B7%E5%8D%95%E5%85%A8%E5%86%9B%E8%A6%86%E6%B2%A1)
 1. [菏泽古沉船元青花疑遭内盗](https://www.zhihu.com/search?q=%E8%8F%8F%E6%B3%BD%E5%8F%A4%E6%B2%89%E8%88%B9%E5%85%83%E9%9D%92%E8%8A%B1%E7%96%91%E9%81%AD%E5%86%85%E7%9B%97)
 1. [上海地铁要涨价了](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81%E8%A6%81%E6%B6%A8%E4%BB%B7%E4%BA%86)
 1. [梅姨被公诉](https://www.zhihu.com/search?q=%E6%A2%85%E5%A7%A8%E8%A2%AB%E5%85%AC%E8%AF%89)
 1. [武汉大学教授曾梦琪被举报](https://www.zhihu.com/search?q=%E6%AD%A6%E6%B1%89%E5%A4%A7%E5%AD%A6%E6%95%99%E6%8E%88%E6%9B%BE%E6%A2%A6%E7%90%AA%E8%A2%AB%E4%B8%BE%E6%8A%A5)
-1. [GPT-6 正式发布](https://www.zhihu.com/search?q=GPT-6%20%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83)
-1. [GPT-6 贵](https://www.zhihu.com/search?q=GPT-6%20%E8%B4%B5)
 1. [设计师称中国客厅已失去意义](https://www.zhihu.com/search?q=%E8%AE%BE%E8%AE%A1%E5%B8%88%E7%A7%B0%E4%B8%AD%E5%9B%BD%E5%AE%A2%E5%8E%85%E5%B7%B2%E5%A4%B1%E5%8E%BB%E6%84%8F%E4%B9%89)
 1. [江西孩子看演唱会后全家低保取消](https://www.zhihu.com/search?q=%E6%B1%9F%E8%A5%BF%E5%AD%A9%E5%AD%90%E7%9C%8B%E6%BC%94%E5%94%B1%E4%BC%9A%E5%90%8E%E5%85%A8%E5%AE%B6%E4%BD%8E%E4%BF%9D%E5%8F%96%E6%B6%88)
 1. [《早春晴朗》口碑褒贬不一](https://www.zhihu.com/search?q=%E3%80%8A%E6%97%A9%E6%98%A5%E6%99%B4%E6%9C%97%E3%80%8B%E5%8F%A3%E7%A2%91%E8%A4%92%E8%B4%AC%E4%B8%8D%E4%B8%80)
@@ -33,8 +31,12 @@
 1. [小鹏机器人生产线正式启用](https://www.zhihu.com/search?q=%E5%B0%8F%E9%B9%8F%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%94%9F%E4%BA%A7%E7%BA%BF%E6%AD%A3%E5%BC%8F%E5%90%AF%E7%94%A8)
 1. [邓煜称若AI取代数学家就去写小说](https://www.zhihu.com/search?q=%E9%82%93%E7%85%9C%E7%A7%B0%E8%8B%A5AI%E5%8F%96%E4%BB%A3%E6%95%B0%E5%AD%A6%E5%AE%B6%E5%B0%B1%E5%8E%BB%E5%86%99%E5%B0%8F%E8%AF%B4)
 1. [小米 宁德时代](https://www.zhihu.com/search?q=%E5%B0%8F%E7%B1%B3%20%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3)
-1. [OpenAI攻克N-S方程千禧难题](https://www.zhihu.com/search?q=OpenAI%E6%94%BB%E5%85%8BN-S%E6%96%B9%E7%A8%8B%E5%8D%83%E7%A6%A7%E9%9A%BE%E9%A2%98)
 1. [智己启动无方向盘车测试](https://www.zhihu.com/search?q=%E6%99%BA%E5%B7%B1%E5%90%AF%E5%8A%A8%E6%97%A0%E6%96%B9%E5%90%91%E7%9B%98%E8%BD%A6%E6%B5%8B%E8%AF%95)
+1. [亚洲水塔 50 年冰储量减 20%](https://www.zhihu.com/search?q=%E4%BA%9A%E6%B4%B2%E6%B0%B4%E5%A1%94%2050%20%E5%B9%B4%E5%86%B0%E5%82%A8%E9%87%8F%E5%87%8F%2020%25)
+1. [梅姨落网更多细节曝光](https://www.zhihu.com/search?q=%E6%A2%85%E5%A7%A8%E8%90%BD%E7%BD%91%E6%9B%B4%E5%A4%9A%E7%BB%86%E8%8A%82%E6%9B%9D%E5%85%89)
+1. [金球奖公布30人候选](https://www.zhihu.com/search?q=%E9%87%91%E7%90%83%E5%A5%96%E5%85%AC%E5%B8%8330%E4%BA%BA%E5%80%99%E9%80%89)
+1. [受资助女孩质问为何没打生活费](https://www.zhihu.com/search?q=%E5%8F%97%E8%B5%84%E5%8A%A9%E5%A5%B3%E5%AD%A9%E8%B4%A8%E9%97%AE%E4%B8%BA%E4%BD%95%E6%B2%A1%E6%89%93%E7%94%9F%E6%B4%BB%E8%B4%B9)
+1. [海底捞猛跌](https://www.zhihu.com/search?q=%E6%B5%B7%E5%BA%95%E6%8D%9E%E7%8C%9B%E8%B7%8C)
 
 ## 热门话题
 
