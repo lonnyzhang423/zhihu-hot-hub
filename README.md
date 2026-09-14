@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-09-14 07:51:30 +0800`
+`更新时间：2026-09-14 10:30:33 +0800`
 
 ## 热门搜索
 
@@ -22,7 +22,6 @@
 1. [菏泽古沉船元青花疑遭内盗](https://www.zhihu.com/search?q=%E8%8F%8F%E6%B3%BD%E5%8F%A4%E6%B2%89%E8%88%B9%E5%85%83%E9%9D%92%E8%8A%B1%E7%96%91%E9%81%AD%E5%86%85%E7%9B%97)
 1. [上海地铁要涨价了](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81%E8%A6%81%E6%B6%A8%E4%BB%B7%E4%BA%86)
 1. [梅姨被公诉](https://www.zhihu.com/search?q=%E6%A2%85%E5%A7%A8%E8%A2%AB%E5%85%AC%E8%AF%89)
-1. [《早春晴朗》口碑褒贬不一](https://www.zhihu.com/search?q=%E3%80%8A%E6%97%A9%E6%98%A5%E6%99%B4%E6%9C%97%E3%80%8B%E5%8F%A3%E7%A2%91%E8%A4%92%E8%B4%AC%E4%B8%8D%E4%B8%80)
 1. [华为时隔六年再次发布高性能芯片](https://www.zhihu.com/search?q=%E5%8D%8E%E4%B8%BA%E6%97%B6%E9%9A%94%E5%85%AD%E5%B9%B4%E5%86%8D%E6%AC%A1%E5%8F%91%E5%B8%83%E9%AB%98%E6%80%A7%E8%83%BD%E8%8A%AF%E7%89%87)
 1. [《冬城猎凶》热播](https://www.zhihu.com/search?q=%E3%80%8A%E5%86%AC%E5%9F%8E%E7%8C%8E%E5%87%B6%E3%80%8B%E7%83%AD%E6%92%AD)
 1. [小鹏机器人生产线正式启用](https://www.zhihu.com/search?q=%E5%B0%8F%E9%B9%8F%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%94%9F%E4%BA%A7%E7%BA%BF%E6%AD%A3%E5%BC%8F%E5%90%AF%E7%94%A8)
@@ -37,6 +36,7 @@
 1. [知乎 CLI 创作者能力上新](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%20CLI%20%E5%88%9B%E4%BD%9C%E8%80%85%E8%83%BD%E5%8A%9B%E4%B8%8A%E6%96%B0)
 1. [iPhone 18 Pro系列发布](https://www.zhihu.com/search?q=iPhone%2018%20Pro%E7%B3%BB%E5%88%97%E5%8F%91%E5%B8%83)
 1. [三星嘲讽苹果iPhoneDuo](https://www.zhihu.com/search?q=%E4%B8%89%E6%98%9F%E5%98%B2%E8%AE%BD%E8%8B%B9%E6%9E%9CiPhoneDuo)
+1. [多邻国疑开撕 iPhone Duo](https://www.zhihu.com/search?q=%E5%A4%9A%E9%82%BB%E5%9B%BD%E7%96%91%E5%BC%80%E6%92%95%20iPhone%20Duo)
 
 ## 热门话题
 
