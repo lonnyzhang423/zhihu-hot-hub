@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-09-15 10:34:41 +0800`
+`更新时间：2026-09-15 16:11:57 +0800`
 
 ## 热门搜索
 
@@ -21,6 +21,7 @@
 1. [AL战胜BLG](https://www.zhihu.com/search?q=AL%E6%88%98%E8%83%9CBLG)
 1. [BLG对战AL](https://www.zhihu.com/search?q=BLG%E5%AF%B9%E6%88%98AL)
 1. [苏超](https://www.zhihu.com/search?q=%E8%8B%8F%E8%B6%85)
+1. [DeepSeek 崩了](https://www.zhihu.com/search?q=DeepSeek%20%E5%B4%A9%E4%BA%86)
 1. [美联储加息预期升温](https://www.zhihu.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A8%E5%8A%A0%E6%81%AF%E9%A2%84%E6%9C%9F%E5%8D%87%E6%B8%A9)
 1. [菏泽古沉船元青花疑遭内盗](https://www.zhihu.com/search?q=%E8%8F%8F%E6%B3%BD%E5%8F%A4%E6%B2%89%E8%88%B9%E5%85%83%E9%9D%92%E8%8A%B1%E7%96%91%E9%81%AD%E5%86%85%E7%9B%97)
 1. [吉隆口岸小邬警官确认平安](https://www.zhihu.com/search?q=%E5%90%89%E9%9A%86%E5%8F%A3%E5%B2%B8%E5%B0%8F%E9%82%AC%E8%AD%A6%E5%AE%98%E7%A1%AE%E8%AE%A4%E5%B9%B3%E5%AE%89)
@@ -31,11 +32,11 @@
 1. [GPT-6 正式发布](https://www.zhihu.com/search?q=GPT-6%20%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83)
 1. [GPT-6 贵](https://www.zhihu.com/search?q=GPT-6%20%E8%B4%B5)
 1. [英雄联盟15周年盛典](https://www.zhihu.com/search?q=%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F15%E5%91%A8%E5%B9%B4%E7%9B%9B%E5%85%B8)
-1. [《冬城猎凶》热播](https://www.zhihu.com/search?q=%E3%80%8A%E5%86%AC%E5%9F%8E%E7%8C%8E%E5%87%B6%E3%80%8B%E7%83%AD%E6%92%AD)
 1. [2026哈尔滨马拉松](https://www.zhihu.com/search?q=2026%E5%93%88%E5%B0%94%E6%BB%A8%E9%A9%AC%E6%8B%89%E6%9D%BE)
-1. [勇哥维护让员工干17个小时的老板](https://www.zhihu.com/search?q=%E5%8B%87%E5%93%A5%E7%BB%B4%E6%8A%A4%E8%AE%A9%E5%91%98%E5%B7%A5%E5%B9%B217%E4%B8%AA%E5%B0%8F%E6%97%B6%E7%9A%84%E8%80%81%E6%9D%BF)
 1. [平陆运河9月16日建成通航](https://www.zhihu.com/search?q=%E5%B9%B3%E9%99%86%E8%BF%90%E6%B2%B39%E6%9C%8816%E6%97%A5%E5%BB%BA%E6%88%90%E9%80%9A%E8%88%AA)
 1. [Anthropic研究员因担忧AI失控辞职](https://www.zhihu.com/search?q=Anthropic%E7%A0%94%E7%A9%B6%E5%91%98%E5%9B%A0%E6%8B%85%E5%BF%A7AI%E5%A4%B1%E6%8E%A7%E8%BE%9E%E8%81%8C)
+1. [知乎 CLI 创作者能力上新](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%20CLI%20%E5%88%9B%E4%BD%9C%E8%80%85%E8%83%BD%E5%8A%9B%E4%B8%8A%E6%96%B0)
+1. [三星嘲讽苹果iPhoneDuo](https://www.zhihu.com/search?q=%E4%B8%89%E6%98%9F%E5%98%B2%E8%AE%BD%E8%8B%B9%E6%9E%9CiPhoneDuo)
 
 ## 热门话题
 
