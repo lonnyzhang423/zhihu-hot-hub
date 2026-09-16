@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-09-16 06:02:57 +0800`
+`更新时间：2026-09-16 09:14:59 +0800`
 
 ## 热门搜索
 
@@ -30,15 +30,16 @@
 1. [Anthropic研究员因担忧AI失控辞职](https://www.zhihu.com/search?q=Anthropic%E7%A0%94%E7%A9%B6%E5%91%98%E5%9B%A0%E6%8B%85%E5%BF%A7AI%E5%A4%B1%E6%8E%A7%E8%BE%9E%E8%81%8C)
 1. [知乎 CLI 创作者能力上新](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%20CLI%20%E5%88%9B%E4%BD%9C%E8%80%85%E8%83%BD%E5%8A%9B%E4%B8%8A%E6%96%B0)
 1. [三星嘲讽苹果iPhoneDuo](https://www.zhihu.com/search?q=%E4%B8%89%E6%98%9F%E5%98%B2%E8%AE%BD%E8%8B%B9%E6%9E%9CiPhoneDuo)
-1. [上海市体育局回应刘翔买断](https://www.zhihu.com/search?q=%E4%B8%8A%E6%B5%B7%E5%B8%82%E4%BD%93%E8%82%B2%E5%B1%80%E5%9B%9E%E5%BA%94%E5%88%98%E7%BF%94%E4%B9%B0%E6%96%AD)
 1. [多邻国疑开撕 iPhone Duo](https://www.zhihu.com/search?q=%E5%A4%9A%E9%82%BB%E5%9B%BD%E7%96%91%E5%BC%80%E6%92%95%20iPhone%20Duo)
-1. [刘翔工资卡11年0支出](https://www.zhihu.com/search?q=%E5%88%98%E7%BF%94%E5%B7%A5%E8%B5%84%E5%8D%A111%E5%B9%B40%E6%94%AF%E5%87%BA)
 1. [2026名古屋亚运会](https://www.zhihu.com/search?q=2026%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9A%E8%BF%90%E4%BC%9A)
 1. [冬城猎凶](https://www.zhihu.com/search?q=%E5%86%AC%E5%9F%8E%E7%8C%8E%E5%87%B6)
 1. [罗永浩吐槽iphoneduo多处抄袭](https://www.zhihu.com/search?q=%E7%BD%97%E6%B0%B8%E6%B5%A9%E5%90%90%E6%A7%BDiphoneduo%E5%A4%9A%E5%A4%84%E6%8A%84%E8%A2%AD)
 1. [库克推折叠屏或受三星华为影响](https://www.zhihu.com/search?q=%E5%BA%93%E5%85%8B%E6%8E%A8%E6%8A%98%E5%8F%A0%E5%B1%8F%E6%88%96%E5%8F%97%E4%B8%89%E6%98%9F%E5%8D%8E%E4%B8%BA%E5%BD%B1%E5%93%8D)
 1. [举报元青花杯失踪后店铺遭连查](https://www.zhihu.com/search?q=%E4%B8%BE%E6%8A%A5%E5%85%83%E9%9D%92%E8%8A%B1%E6%9D%AF%E5%A4%B1%E8%B8%AA%E5%90%8E%E5%BA%97%E9%93%BA%E9%81%AD%E8%BF%9E%E6%9F%A5)
 1. [邓煜等菲奖得主称 AI 公司正摧毁数学](https://www.zhihu.com/search?q=%E9%82%93%E7%85%9C%E7%AD%89%E8%8F%B2%E5%A5%96%E5%BE%97%E4%B8%BB%E7%A7%B0%20AI%20%E5%85%AC%E5%8F%B8%E6%AD%A3%E6%91%A7%E6%AF%81%E6%95%B0%E5%AD%A6)
+1. [多车队宣布永久退出中国 GT](https://www.zhihu.com/search?q=%E5%A4%9A%E8%BD%A6%E9%98%9F%E5%AE%A3%E5%B8%83%E6%B0%B8%E4%B9%85%E9%80%80%E5%87%BA%E4%B8%AD%E5%9B%BD%20GT)
+1. [名校硕士因第一学历是专科遭大厂拒绝](https://www.zhihu.com/search?q=%E5%90%8D%E6%A0%A1%E7%A1%95%E5%A3%AB%E5%9B%A0%E7%AC%AC%E4%B8%80%E5%AD%A6%E5%8E%86%E6%98%AF%E4%B8%93%E7%A7%91%E9%81%AD%E5%A4%A7%E5%8E%82%E6%8B%92%E7%BB%9D)
+1. [ 女婴在月子中心无呼吸心跳送医死亡](https://www.zhihu.com/search?q=%20%E5%A5%B3%E5%A9%B4%E5%9C%A8%E6%9C%88%E5%AD%90%E4%B8%AD%E5%BF%83%E6%97%A0%E5%91%BC%E5%90%B8%E5%BF%83%E8%B7%B3%E9%80%81%E5%8C%BB%E6%AD%BB%E4%BA%A1)
 
 ## 热门话题
 
