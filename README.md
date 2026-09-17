@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-09-17 06:01:16 +0800`
+`更新时间：2026-09-17 09:15:16 +0800`
 
 ## 热门搜索
 
-1. [亚运会](https://www.zhihu.com/search?q=%E4%BA%9A%E8%BF%90%E4%BC%9A)
-1. [披荆斩棘](https://www.zhihu.com/search?q=%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98)
+1. [有视障人士被弹窗广告困住](https://www.zhihu.com/search?q=%E6%9C%89%E8%A7%86%E9%9A%9C%E4%BA%BA%E5%A3%AB%E8%A2%AB%E5%BC%B9%E7%AA%97%E5%B9%BF%E5%91%8A%E5%9B%B0%E4%BD%8F)
+1. [婴儿误被注射10倍量肾上腺素](https://www.zhihu.com/search?q=%E5%A9%B4%E5%84%BF%E8%AF%AF%E8%A2%AB%E6%B3%A8%E5%B0%8410%E5%80%8D%E9%87%8F%E8%82%BE%E4%B8%8A%E8%85%BA%E7%B4%A0)
 1. [姆巴佩破门](https://www.zhihu.com/search?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E7%A0%B4%E9%97%A8)
 1. [平陆运河9月16日建成通航](https://www.zhihu.com/search?q=%E5%B9%B3%E9%99%86%E8%BF%90%E6%B2%B39%E6%9C%8816%E6%97%A5%E5%BB%BA%E6%88%90%E9%80%9A%E8%88%AA)
 1. [知乎 CLI 创作者能力上新](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%20CLI%20%E5%88%9B%E4%BD%9C%E8%80%85%E8%83%BD%E5%8A%9B%E4%B8%8A%E6%96%B0)
@@ -27,7 +27,6 @@
 1. [罗永浩说野人先生难吃](https://www.zhihu.com/search?q=%E7%BD%97%E6%B0%B8%E6%B5%A9%E8%AF%B4%E9%87%8E%E4%BA%BA%E5%85%88%E7%94%9F%E9%9A%BE%E5%90%83)
 1. [Anthropic 等顶级 AI 公司呼吁减速](https://www.zhihu.com/search?q=Anthropic%20%E7%AD%89%E9%A1%B6%E7%BA%A7%20AI%20%E5%85%AC%E5%8F%B8%E5%91%BC%E5%90%81%E5%87%8F%E9%80%9F)
 1. [三大 AI 巨头联手呼吁放缓开发步伐](https://www.zhihu.com/search?q=%E4%B8%89%E5%A4%A7%20AI%20%E5%B7%A8%E5%A4%B4%E8%81%94%E6%89%8B%E5%91%BC%E5%90%81%E6%94%BE%E7%BC%93%E5%BC%80%E5%8F%91%E6%AD%A5%E4%BC%90)
-1. [国宝级川菜大师拿下百厨总冠军](https://www.zhihu.com/search?q=%E5%9B%BD%E5%AE%9D%E7%BA%A7%E5%B7%9D%E8%8F%9C%E5%A4%A7%E5%B8%88%E6%8B%BF%E4%B8%8B%E7%99%BE%E5%8E%A8%E6%80%BB%E5%86%A0%E5%86%9B)
 1. [多家券商收紧个人程序化交易接入](https://www.zhihu.com/search?q=%E5%A4%9A%E5%AE%B6%E5%88%B8%E5%95%86%E6%94%B6%E7%B4%A7%E4%B8%AA%E4%BA%BA%E7%A8%8B%E5%BA%8F%E5%8C%96%E4%BA%A4%E6%98%93%E6%8E%A5%E5%85%A5)
 1. [广汽集团突发紧急停牌](https://www.zhihu.com/search?q=%E5%B9%BF%E6%B1%BD%E9%9B%86%E5%9B%A2%E7%AA%81%E5%8F%91%E7%B4%A7%E6%80%A5%E5%81%9C%E7%89%8C)
 1. [HYROX最新声明遭网友质疑](https://www.zhihu.com/search?q=HYROX%E6%9C%80%E6%96%B0%E5%A3%B0%E6%98%8E%E9%81%AD%E7%BD%91%E5%8F%8B%E8%B4%A8%E7%96%91)
