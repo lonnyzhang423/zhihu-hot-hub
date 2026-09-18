@@ -11,11 +11,30 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-09-18 06:28:27 +0800`
+`更新时间：2026-09-18 09:10:37 +0800`
 
 ## 热门搜索
 
-暂无数据
+1. [女孩正颌手术被做反变成鞋拔子脸](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%A9%E6%AD%A3%E9%A2%8C%E6%89%8B%E6%9C%AF%E8%A2%AB%E5%81%9A%E5%8F%8D%E5%8F%98%E6%88%90%E9%9E%8B%E6%8B%94%E5%AD%90%E8%84%B8)
+1. [吉隆口岸小邬警官确认平安](https://www.zhihu.com/search?q=%E5%90%89%E9%9A%86%E5%8F%A3%E5%B2%B8%E5%B0%8F%E9%82%AC%E8%AD%A6%E5%AE%98%E7%A1%AE%E8%AE%A4%E5%B9%B3%E5%AE%89)
+1. [吉隆泥石流已致16人遇难546人失联](https://www.zhihu.com/search?q=%E5%90%89%E9%9A%86%E6%B3%A5%E7%9F%B3%E6%B5%81%E5%B7%B2%E8%87%B416%E4%BA%BA%E9%81%87%E9%9A%BE546%E4%BA%BA%E5%A4%B1%E8%81%94)
+1. [尼泊尔泥石流已致903遇难4247失联](https://www.zhihu.com/search?q=%E5%B0%BC%E6%B3%8A%E5%B0%94%E6%B3%A5%E7%9F%B3%E6%B5%81%E5%B7%B2%E8%87%B4903%E9%81%87%E9%9A%BE4247%E5%A4%B1%E8%81%94)
+1. [交锋](https://www.zhihu.com/search?q=%E4%BA%A4%E9%94%8B)
+1. [通往吉隆口岸 216 国道实现畅通](https://www.zhihu.com/search?q=%E9%80%9A%E5%BE%80%E5%90%89%E9%9A%86%E5%8F%A3%E5%B2%B8%20216%20%E5%9B%BD%E9%81%93%E5%AE%9E%E7%8E%B0%E7%95%85%E9%80%9A)
+1. [Anthropic研究员因担忧AI失控辞职](https://www.zhihu.com/search?q=Anthropic%E7%A0%94%E7%A9%B6%E5%91%98%E5%9B%A0%E6%8B%85%E5%BF%A7AI%E5%A4%B1%E6%8E%A7%E8%BE%9E%E8%81%8C)
+1. [知乎 CLI 创作者能力上新](https://www.zhihu.com/search?q=%E7%9F%A5%E4%B9%8E%20CLI%20%E5%88%9B%E4%BD%9C%E8%80%85%E8%83%BD%E5%8A%9B%E4%B8%8A%E6%96%B0)
+1. [2026名古屋亚运会](https://www.zhihu.com/search?q=2026%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9A%E8%BF%90%E4%BC%9A)
+1. [张国伟疑似谈刘翔安置事件](https://www.zhihu.com/search?q=%E5%BC%A0%E5%9B%BD%E4%BC%9F%E7%96%91%E4%BC%BC%E8%B0%88%E5%88%98%E7%BF%94%E5%AE%89%E7%BD%AE%E4%BA%8B%E4%BB%B6)
+1. [公职人员醉驾撞死5旬夫妻](https://www.zhihu.com/search?q=%E5%85%AC%E8%81%8C%E4%BA%BA%E5%91%98%E9%86%89%E9%A9%BE%E6%92%9E%E6%AD%BB5%E6%97%AC%E5%A4%AB%E5%A6%BB)
+1. [情侣在演唱会求婚被喊坐下](https://www.zhihu.com/search?q=%E6%83%85%E4%BE%A3%E5%9C%A8%E6%BC%94%E5%94%B1%E4%BC%9A%E6%B1%82%E5%A9%9A%E8%A2%AB%E5%96%8A%E5%9D%90%E4%B8%8B)
+1. [曝经纪人幕后推动登贝莱姆巴佩矛盾传闻](https://www.zhihu.com/search?q=%E6%9B%9D%E7%BB%8F%E7%BA%AA%E4%BA%BA%E5%B9%95%E5%90%8E%E6%8E%A8%E5%8A%A8%E7%99%BB%E8%B4%9D%E8%8E%B1%E5%A7%86%E5%B7%B4%E4%BD%A9%E7%9F%9B%E7%9B%BE%E4%BC%A0%E9%97%BB)
+1. [《魔兽争霸3重制版》新DLC获盛赞](https://www.zhihu.com/search?q=%E3%80%8A%E9%AD%94%E5%85%BD%E4%BA%89%E9%9C%B83%E9%87%8D%E5%88%B6%E7%89%88%E3%80%8B%E6%96%B0DLC%E8%8E%B7%E7%9B%9B%E8%B5%9E)
+1. [姆巴佩登贝莱因争金球奖闹翻](https://www.zhihu.com/search?q=%E5%A7%86%E5%B7%B4%E4%BD%A9%E7%99%BB%E8%B4%9D%E8%8E%B1%E5%9B%A0%E4%BA%89%E9%87%91%E7%90%83%E5%A5%96%E9%97%B9%E7%BF%BB)
+1. [曝姆巴佩与登贝莱彻底决裂](https://www.zhihu.com/search?q=%E6%9B%9D%E5%A7%86%E5%B7%B4%E4%BD%A9%E4%B8%8E%E7%99%BB%E8%B4%9D%E8%8E%B1%E5%BD%BB%E5%BA%95%E5%86%B3%E8%A3%82)
+1. [DeepSeek 工程师刘胜与长文](https://www.zhihu.com/search?q=DeepSeek%20%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%88%98%E8%83%9C%E4%B8%8E%E9%95%BF%E6%96%87)
+1. [《我不得不把才华埋葬在昨天》](https://www.zhihu.com/search?q=%E3%80%8A%E6%88%91%E4%B8%8D%E5%BE%97%E4%B8%8D%E6%8A%8A%E6%89%8D%E5%8D%8E%E5%9F%8B%E8%91%AC%E5%9C%A8%E6%98%A8%E5%A4%A9%E3%80%8B)
+1. [如果英国解体福尔摩斯归谁](https://www.zhihu.com/search?q=%E5%A6%82%E6%9E%9C%E8%8B%B1%E5%9B%BD%E8%A7%A3%E4%BD%93%E7%A6%8F%E5%B0%94%E6%91%A9%E6%96%AF%E5%BD%92%E8%B0%81)
+1. [微信「小微」AI 助手被指侵犯隐私](https://www.zhihu.com/search?q=%E5%BE%AE%E4%BF%A1%E3%80%8C%E5%B0%8F%E5%BE%AE%E3%80%8DAI%20%E5%8A%A9%E6%89%8B%E8%A2%AB%E6%8C%87%E4%BE%B5%E7%8A%AF%E9%9A%90%E7%A7%81)
 
 ## 热门话题
 
