@@ -11,35 +11,35 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-09-25 15:32:22 +0800`
+`更新时间：2026-09-25 21:33:27 +0800`
 
 ## 热门搜索
 
-1. [吉隆口岸小邬警官确认平安](https://www.zhihu.com/search?q=%E5%90%89%E9%9A%86%E5%8F%A3%E5%B2%B8%E5%B0%8F%E9%82%AC%E8%AD%A6%E5%AE%98%E7%A1%AE%E8%AE%A4%E5%B9%B3%E5%AE%89)
-1. [吉隆泥石流已致16人遇难546人失联](https://www.zhihu.com/search?q=%E5%90%89%E9%9A%86%E6%B3%A5%E7%9F%B3%E6%B5%81%E5%B7%B2%E8%87%B416%E4%BA%BA%E9%81%87%E9%9A%BE546%E4%BA%BA%E5%A4%B1%E8%81%94)
-1. [尼泊尔泥石流已致903遇难4247失联](https://www.zhihu.com/search?q=%E5%B0%BC%E6%B3%8A%E5%B0%94%E6%B3%A5%E7%9F%B3%E6%B5%81%E5%B7%B2%E8%87%B4903%E9%81%87%E9%9A%BE4247%E5%A4%B1%E8%81%94)
-1. [通往吉隆口岸 216 国道实现畅通](https://www.zhihu.com/search?q=%E9%80%9A%E5%BE%80%E5%90%89%E9%9A%86%E5%8F%A3%E5%B2%B8%20216%20%E5%9B%BD%E9%81%93%E5%AE%9E%E7%8E%B0%E7%95%85%E9%80%9A)
+1. [央视中秋晚会节目单](https://www.zhihu.com/search?q=%E5%A4%AE%E8%A7%86%E4%B8%AD%E7%A7%8B%E6%99%9A%E4%BC%9A%E8%8A%82%E7%9B%AE%E5%8D%95)
+1. [美债收益率飙升](https://www.zhihu.com/search?q=%E7%BE%8E%E5%80%BA%E6%94%B6%E7%9B%8A%E7%8E%87%E9%A3%99%E5%8D%87)
 1. [2026名古屋亚运会](https://www.zhihu.com/search?q=2026%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9A%E8%BF%90%E4%BC%9A)
 1. [前OpenAI研究员发布Jev模型](https://www.zhihu.com/search?q=%E5%89%8DOpenAI%E7%A0%94%E7%A9%B6%E5%91%98%E5%8F%91%E5%B8%83Jev%E6%A8%A1%E5%9E%8B)
 1. [人民日报评第一学历歧视](https://www.zhihu.com/search?q=%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E8%AF%84%E7%AC%AC%E4%B8%80%E5%AD%A6%E5%8E%86%E6%AD%A7%E8%A7%86)
 1. [看山今日一签](https://www.zhihu.com/search?q=%E7%9C%8B%E5%B1%B1%E4%BB%8A%E6%97%A5%E4%B8%80%E7%AD%BE)
-1. [钟南山团队称超七成肺癌非高危](https://www.zhihu.com/search?q=%E9%92%9F%E5%8D%97%E5%B1%B1%E5%9B%A2%E9%98%9F%E7%A7%B0%E8%B6%85%E4%B8%83%E6%88%90%E8%82%BA%E7%99%8C%E9%9D%9E%E9%AB%98%E5%8D%B1)
-1. [钟南山团队发现肺结节发病新趋势](https://www.zhihu.com/search?q=%E9%92%9F%E5%8D%97%E5%B1%B1%E5%9B%A2%E9%98%9F%E5%8F%91%E7%8E%B0%E8%82%BA%E7%BB%93%E8%8A%82%E5%8F%91%E7%97%85%E6%96%B0%E8%B6%8B%E5%8A%BF)
-1. [2026 云栖大会](https://www.zhihu.com/search?q=2026%20%E4%BA%91%E6%A0%96%E5%A4%A7%E4%BC%9A)
+1. [施一公称西湖大学放弃科研量化指标](https://www.zhihu.com/search?q=%E6%96%BD%E4%B8%80%E5%85%AC%E7%A7%B0%E8%A5%BF%E6%B9%96%E5%A4%A7%E5%AD%A6%E6%94%BE%E5%BC%83%E7%A7%91%E7%A0%94%E9%87%8F%E5%8C%96%E6%8C%87%E6%A0%87)
 1. [软银拟发超百亿美元垃圾债押注AI](https://www.zhihu.com/search?q=%E8%BD%AF%E9%93%B6%E6%8B%9F%E5%8F%91%E8%B6%85%E7%99%BE%E4%BA%BF%E7%BE%8E%E5%85%83%E5%9E%83%E5%9C%BE%E5%80%BA%E6%8A%BC%E6%B3%A8AI)
-1. [16 部影片定档 2026 中秋](https://www.zhihu.com/search?q=16%20%E9%83%A8%E5%BD%B1%E7%89%87%E5%AE%9A%E6%A1%A3%202026%20%E4%B8%AD%E7%A7%8B)
-1. [怪不得我们都喜欢睡觉盖被子](https://www.zhihu.com/search?q=%E6%80%AA%E4%B8%8D%E5%BE%97%E6%88%91%E4%BB%AC%E9%83%BD%E5%96%9C%E6%AC%A2%E7%9D%A1%E8%A7%89%E7%9B%96%E8%A2%AB%E5%AD%90)
-1. [盖被子是心理安全感的生理性寻求](https://www.zhihu.com/search?q=%E7%9B%96%E8%A2%AB%E5%AD%90%E6%98%AF%E5%BF%83%E7%90%86%E5%AE%89%E5%85%A8%E6%84%9F%E7%9A%84%E7%94%9F%E7%90%86%E6%80%A7%E5%AF%BB%E6%B1%82)
 1. [2026 国庆](https://www.zhihu.com/search?q=2026%20%E5%9B%BD%E5%BA%86)
-1. [钟薛高创始人称西贝倒了是行业倒退](https://www.zhihu.com/search?q=%E9%92%9F%E8%96%9B%E9%AB%98%E5%88%9B%E5%A7%8B%E4%BA%BA%E7%A7%B0%E8%A5%BF%E8%B4%9D%E5%80%92%E4%BA%86%E6%98%AF%E8%A1%8C%E4%B8%9A%E5%80%92%E9%80%80)
-1. [曝华为将推出竖向三折叠手机](https://www.zhihu.com/search?q=%E6%9B%9D%E5%8D%8E%E4%B8%BA%E5%B0%86%E6%8E%A8%E5%87%BA%E7%AB%96%E5%90%91%E4%B8%89%E6%8A%98%E5%8F%A0%E6%89%8B%E6%9C%BA)
-1. [曝华为还将推出新形态手机](https://www.zhihu.com/search?q=%E6%9B%9D%E5%8D%8E%E4%B8%BA%E8%BF%98%E5%B0%86%E6%8E%A8%E5%87%BA%E6%96%B0%E5%BD%A2%E6%80%81%E6%89%8B%E6%9C%BA)
-1. [到梦空间](https://www.zhihu.com/search?q=%E5%88%B0%E6%A2%A6%E7%A9%BA%E9%97%B4)
+1. [管维佳曝男篮球员抱怨郭士强](https://www.zhihu.com/search?q=%E7%AE%A1%E7%BB%B4%E4%BD%B3%E6%9B%9D%E7%94%B7%E7%AF%AE%E7%90%83%E5%91%98%E6%8A%B1%E6%80%A8%E9%83%AD%E5%A3%AB%E5%BC%BA)
+1. [AMD市值首破1万亿美元](https://www.zhihu.com/search?q=AMD%E5%B8%82%E5%80%BC%E9%A6%96%E7%A0%B41%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83)
 1. [苹果高管：看到iPhone贴膜浑身不自在](https://www.zhihu.com/search?q=%E8%8B%B9%E6%9E%9C%E9%AB%98%E7%AE%A1%EF%BC%9A%E7%9C%8B%E5%88%B0iPhone%E8%B4%B4%E8%86%9C%E6%B5%91%E8%BA%AB%E4%B8%8D%E8%87%AA%E5%9C%A8)
 1. [汪顺亚运会400米混摘铜](https://www.zhihu.com/search?q=%E6%B1%AA%E9%A1%BA%E4%BA%9A%E8%BF%90%E4%BC%9A400%E7%B1%B3%E6%B7%B7%E6%91%98%E9%93%9C)
 1. [Anthropic 发布 Opus 5.5](https://www.zhihu.com/search?q=Anthropic%20%E5%8F%91%E5%B8%83%20Opus%205.5)
-1. [GPT-6 Sol 和 Luna 发布](https://www.zhihu.com/search?q=GPT-6%20Sol%20%E5%92%8C%20Luna%20%E5%8F%91%E5%B8%83)
 1. [班主任发准考证致 7 人志愿被改](https://www.zhihu.com/search?q=%E7%8F%AD%E4%B8%BB%E4%BB%BB%E5%8F%91%E5%87%86%E8%80%83%E8%AF%81%E8%87%B4%207%20%E4%BA%BA%E5%BF%97%E6%84%BF%E8%A2%AB%E6%94%B9)
+1. [每周至少半天校外实践教学](https://www.zhihu.com/search?q=%E6%AF%8F%E5%91%A8%E8%87%B3%E5%B0%91%E5%8D%8A%E5%A4%A9%E6%A0%A1%E5%A4%96%E5%AE%9E%E8%B7%B5%E6%95%99%E5%AD%A6)
+1. [「武汉高启强」黄大发二审维持死刑](https://www.zhihu.com/search?q=%E3%80%8C%E6%AD%A6%E6%B1%89%E9%AB%98%E5%90%AF%E5%BC%BA%E3%80%8D%E9%BB%84%E5%A4%A7%E5%8F%91%E4%BA%8C%E5%AE%A1%E7%BB%B4%E6%8C%81%E6%AD%BB%E5%88%91)
+1. [老人离世6亿全给再婚妻子](https://www.zhihu.com/search?q=%E8%80%81%E4%BA%BA%E7%A6%BB%E4%B8%966%E4%BA%BF%E5%85%A8%E7%BB%99%E5%86%8D%E5%A9%9A%E5%A6%BB%E5%AD%90)
+1. [多家车企陆续弃用宁德并自研电池](https://www.zhihu.com/search?q=%E5%A4%9A%E5%AE%B6%E8%BD%A6%E4%BC%81%E9%99%86%E7%BB%AD%E5%BC%83%E7%94%A8%E5%AE%81%E5%BE%B7%E5%B9%B6%E8%87%AA%E7%A0%94%E7%94%B5%E6%B1%A0)
+1. [车企集体和宁德提分手](https://www.zhihu.com/search?q=%E8%BD%A6%E4%BC%81%E9%9B%86%E4%BD%93%E5%92%8C%E5%AE%81%E5%BE%B7%E6%8F%90%E5%88%86%E6%89%8B)
+1. [泰康人寿以遗传性疾病为由拒赔](https://www.zhihu.com/search?q=%E6%B3%B0%E5%BA%B7%E4%BA%BA%E5%AF%BF%E4%BB%A5%E9%81%97%E4%BC%A0%E6%80%A7%E7%96%BE%E7%97%85%E4%B8%BA%E7%94%B1%E6%8B%92%E8%B5%94)
+1. [居民反映看完广告才能进家门](https://www.zhihu.com/search?q=%E5%B1%85%E6%B0%91%E5%8F%8D%E6%98%A0%E7%9C%8B%E5%AE%8C%E5%B9%BF%E5%91%8A%E6%89%8D%E8%83%BD%E8%BF%9B%E5%AE%B6%E9%97%A8)
+1. [美股纳指又创新高](https://www.zhihu.com/search?q=%E7%BE%8E%E8%82%A1%E7%BA%B3%E6%8C%87%E5%8F%88%E5%88%9B%E6%96%B0%E9%AB%98)
+1. [字节通报二季度违规案例](https://www.zhihu.com/search?q=%E5%AD%97%E8%8A%82%E9%80%9A%E6%8A%A5%E4%BA%8C%E5%AD%A3%E5%BA%A6%E8%BF%9D%E8%A7%84%E6%A1%88%E4%BE%8B)
+1. [闲鱼公布调查结果](https://www.zhihu.com/search?q=%E9%97%B2%E9%B1%BC%E5%85%AC%E5%B8%83%E8%B0%83%E6%9F%A5%E7%BB%93%E6%9E%9C)
 
 ## 热门话题
 
