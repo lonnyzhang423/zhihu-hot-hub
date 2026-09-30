@@ -11,12 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-09-30 06:54:27 +0800`
+`更新时间：2026-09-30 09:56:53 +0800`
 
 ## 热门搜索
 
-1. [柏林马拉松](https://www.zhihu.com/search?q=%E6%9F%8F%E6%9E%97%E9%A9%AC%E6%8B%89%E6%9D%BE)
-1. [米兰时装周](https://www.zhihu.com/search?q=%E7%B1%B3%E5%85%B0%E6%97%B6%E8%A3%85%E5%91%A8)
+1. [星舰成功入轨并完成卫星部署](https://www.zhihu.com/search?q=%E6%98%9F%E8%88%B0%E6%88%90%E5%8A%9F%E5%85%A5%E8%BD%A8%E5%B9%B6%E5%AE%8C%E6%88%90%E5%8D%AB%E6%98%9F%E9%83%A8%E7%BD%B2)
+1. [对手穿错鞋中国队递补获金银牌](https://www.zhihu.com/search?q=%E5%AF%B9%E6%89%8B%E7%A9%BF%E9%94%99%E9%9E%8B%E4%B8%AD%E5%9B%BD%E9%98%9F%E9%80%92%E8%A1%A5%E8%8E%B7%E9%87%91%E9%93%B6%E7%89%8C)
 1. [港漫是如何沦落到如今的地步的](https://www.zhihu.com/search?q=%E6%B8%AF%E6%BC%AB%E6%98%AF%E5%A6%82%E4%BD%95%E6%B2%A6%E8%90%BD%E5%88%B0%E5%A6%82%E4%BB%8A%E7%9A%84%E5%9C%B0%E6%AD%A5%E7%9A%84)
 1. [王楚钦vs林诗栋](https://www.zhihu.com/search?q=%E7%8E%8B%E6%A5%9A%E9%92%A6vs%E6%9E%97%E8%AF%97%E6%A0%8B)
 1. [「绝命毒师」为什么是神剧](https://www.zhihu.com/search?q=%E3%80%8C%E7%BB%9D%E5%91%BD%E6%AF%92%E5%B8%88%E3%80%8D%E4%B8%BA%E4%BB%80%E4%B9%88%E6%98%AF%E7%A5%9E%E5%89%A7)
