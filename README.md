@@ -11,35 +11,30 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-09-30 09:56:53 +0800`
+`更新时间：2026-09-30 16:19:41 +0800`
 
 ## 热门搜索
 
-1. [星舰成功入轨并完成卫星部署](https://www.zhihu.com/search?q=%E6%98%9F%E8%88%B0%E6%88%90%E5%8A%9F%E5%85%A5%E8%BD%A8%E5%B9%B6%E5%AE%8C%E6%88%90%E5%8D%AB%E6%98%9F%E9%83%A8%E7%BD%B2)
-1. [对手穿错鞋中国队递补获金银牌](https://www.zhihu.com/search?q=%E5%AF%B9%E6%89%8B%E7%A9%BF%E9%94%99%E9%9E%8B%E4%B8%AD%E5%9B%BD%E9%98%9F%E9%80%92%E8%A1%A5%E8%8E%B7%E9%87%91%E9%93%B6%E7%89%8C)
-1. [港漫是如何沦落到如今的地步的](https://www.zhihu.com/search?q=%E6%B8%AF%E6%BC%AB%E6%98%AF%E5%A6%82%E4%BD%95%E6%B2%A6%E8%90%BD%E5%88%B0%E5%A6%82%E4%BB%8A%E7%9A%84%E5%9C%B0%E6%AD%A5%E7%9A%84)
-1. [王楚钦vs林诗栋](https://www.zhihu.com/search?q=%E7%8E%8B%E6%A5%9A%E9%92%A6vs%E6%9E%97%E8%AF%97%E6%A0%8B)
-1. [「绝命毒师」为什么是神剧](https://www.zhihu.com/search?q=%E3%80%8C%E7%BB%9D%E5%91%BD%E6%AF%92%E5%B8%88%E3%80%8D%E4%B8%BA%E4%BB%80%E4%B9%88%E6%98%AF%E7%A5%9E%E5%89%A7)
-1. [认知水平高的人有什么特征](https://www.zhihu.com/search?q=%E8%AE%A4%E7%9F%A5%E6%B0%B4%E5%B9%B3%E9%AB%98%E7%9A%84%E4%BA%BA%E6%9C%89%E4%BB%80%E4%B9%88%E7%89%B9%E5%BE%81)
-1. [职场中懂规矩比能力更重要吗](https://www.zhihu.com/search?q=%E8%81%8C%E5%9C%BA%E4%B8%AD%E6%87%82%E8%A7%84%E7%9F%A9%E6%AF%94%E8%83%BD%E5%8A%9B%E6%9B%B4%E9%87%8D%E8%A6%81%E5%90%97)
-1. [为什么一定要频繁记录自己](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%80%E5%AE%9A%E8%A6%81%E9%A2%91%E7%B9%81%E8%AE%B0%E5%BD%95%E8%87%AA%E5%B7%B1)
-1. [无期徒刑是否比死刑更令人绝望](https://www.zhihu.com/search?q=%E6%97%A0%E6%9C%9F%E5%BE%92%E5%88%91%E6%98%AF%E5%90%A6%E6%AF%94%E6%AD%BB%E5%88%91%E6%9B%B4%E4%BB%A4%E4%BA%BA%E7%BB%9D%E6%9C%9B)
-1. [github是什么有什么用](https://www.zhihu.com/search?q=github%E6%98%AF%E4%BB%80%E4%B9%88%E6%9C%89%E4%BB%80%E4%B9%88%E7%94%A8)
-1. [人到中年为什么很难快乐](https://www.zhihu.com/search?q=%E4%BA%BA%E5%88%B0%E4%B8%AD%E5%B9%B4%E4%B8%BA%E4%BB%80%E4%B9%88%E5%BE%88%E9%9A%BE%E5%BF%AB%E4%B9%90)
-1. [人与人相处什么最重要](https://www.zhihu.com/search?q=%E4%BA%BA%E4%B8%8E%E4%BA%BA%E7%9B%B8%E5%A4%84%E4%BB%80%E4%B9%88%E6%9C%80%E9%87%8D%E8%A6%81)
-1. [为什么空心人越来越多](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E7%A9%BA%E5%BF%83%E4%BA%BA%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%9A)
-1. [永生是一种什么样的体验](https://www.zhihu.com/search?q=%E6%B0%B8%E7%94%9F%E6%98%AF%E4%B8%80%E7%A7%8D%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E4%BD%93%E9%AA%8C)
-1. [兰香如故](https://www.zhihu.com/search?q=%E5%85%B0%E9%A6%99%E5%A6%82%E6%95%85)
+1. [2026名古屋亚运会](https://www.zhihu.com/search?q=2026%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9A%E8%BF%90%E4%BC%9A)
 1. [看山今日一签](https://www.zhihu.com/search?q=%E7%9C%8B%E5%B1%B1%E4%BB%8A%E6%97%A5%E4%B8%80%E7%AD%BE)
 1. [2026 国庆](https://www.zhihu.com/search?q=2026%20%E5%9B%BD%E5%BA%86)
-1. [沃尔玛中国高管调整](https://www.zhihu.com/search?q=%E6%B2%83%E5%B0%94%E7%8E%9B%E4%B8%AD%E5%9B%BD%E9%AB%98%E7%AE%A1%E8%B0%83%E6%95%B4)
-1. [与人交往最重要的是什么](https://www.zhihu.com/search?q=%E4%B8%8E%E4%BA%BA%E4%BA%A4%E5%BE%80%E6%9C%80%E9%87%8D%E8%A6%81%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88)
-1. [我不是大师](https://www.zhihu.com/search?q=%E6%88%91%E4%B8%8D%E6%98%AF%E5%A4%A7%E5%B8%88)
 1. [刘欢病逝](https://www.zhihu.com/search?q=%E5%88%98%E6%AC%A2%E7%97%85%E9%80%9D)
-1. [比尔盖茨警告ai或致十亿人死亡](https://www.zhihu.com/search?q=%E6%AF%94%E5%B0%94%E7%9B%96%E8%8C%A8%E8%AD%A6%E5%91%8Aai%E6%88%96%E8%87%B4%E5%8D%81%E4%BA%BF%E4%BA%BA%E6%AD%BB%E4%BA%A1)
-1. [中美达成八点成果共识](https://www.zhihu.com/search?q=%E4%B8%AD%E7%BE%8E%E8%BE%BE%E6%88%90%E5%85%AB%E7%82%B9%E6%88%90%E6%9E%9C%E5%85%B1%E8%AF%86)
 1. [刘欢到退休时仍是副教授](https://www.zhihu.com/search?q=%E5%88%98%E6%AC%A2%E5%88%B0%E9%80%80%E4%BC%91%E6%97%B6%E4%BB%8D%E6%98%AF%E5%89%AF%E6%95%99%E6%8E%88)
-1. [网红潘宏虐狗纠纷终审判决](https://www.zhihu.com/search?q=%E7%BD%91%E7%BA%A2%E6%BD%98%E5%AE%8F%E8%99%90%E7%8B%97%E7%BA%A0%E7%BA%B7%E7%BB%88%E5%AE%A1%E5%88%A4%E5%86%B3)
+1. [曝车上冰箱使用率仅5%](https://www.zhihu.com/search?q=%E6%9B%9D%E8%BD%A6%E4%B8%8A%E5%86%B0%E7%AE%B1%E4%BD%BF%E7%94%A8%E7%8E%87%E4%BB%855%25)
+1. [亚运女单决赛王曼昱vs孙颖莎](https://www.zhihu.com/search?q=%E4%BA%9A%E8%BF%90%E5%A5%B3%E5%8D%95%E5%86%B3%E8%B5%9B%E7%8E%8B%E6%9B%BC%E6%98%B1vs%E5%AD%99%E9%A2%96%E8%8E%8E)
+1. [王曼昱战胜孙颖莎夺冠](https://www.zhihu.com/search?q=%E7%8E%8B%E6%9B%BC%E6%98%B1%E6%88%98%E8%83%9C%E5%AD%99%E9%A2%96%E8%8E%8E%E5%A4%BA%E5%86%A0)
+1. [张家齐妈妈公开念家书批评女儿](https://www.zhihu.com/search?q=%E5%BC%A0%E5%AE%B6%E9%BD%90%E5%A6%88%E5%A6%88%E5%85%AC%E5%BC%80%E5%BF%B5%E5%AE%B6%E4%B9%A6%E6%89%B9%E8%AF%84%E5%A5%B3%E5%84%BF)
+1. [张家齐妈妈聊天记录 窒息](https://www.zhihu.com/search?q=%E5%BC%A0%E5%AE%B6%E9%BD%90%E5%A6%88%E5%A6%88%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%20%E7%AA%92%E6%81%AF)
+1. [张家齐妈妈原谅张家齐了](https://www.zhihu.com/search?q=%E5%BC%A0%E5%AE%B6%E9%BD%90%E5%A6%88%E5%A6%88%E5%8E%9F%E8%B0%85%E5%BC%A0%E5%AE%B6%E9%BD%90%E4%BA%86)
+1. [武契奇宣布辞职](https://www.zhihu.com/search?q=%E6%AD%A6%E5%A5%91%E5%A5%87%E5%AE%A3%E5%B8%83%E8%BE%9E%E8%81%8C)
+1. [樊振东 3-0 格拉尔多](https://www.zhihu.com/search?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%203-0%20%E6%A0%BC%E6%8B%89%E5%B0%94%E5%A4%9A)
+1. [蔚来与吉利达成充换电战略合作](https://www.zhihu.com/search?q=%E8%94%9A%E6%9D%A5%E4%B8%8E%E5%90%89%E5%88%A9%E8%BE%BE%E6%88%90%E5%85%85%E6%8D%A2%E7%94%B5%E6%88%98%E7%95%A5%E5%90%88%E4%BD%9C)
+1. [蔚来吉利充换电合作](https://www.zhihu.com/search?q=%E8%94%9A%E6%9D%A5%E5%90%89%E5%88%A9%E5%85%85%E6%8D%A2%E7%94%B5%E5%90%88%E4%BD%9C)
+1. [年轻人花一万二买房去大兴安岭隐居](https://www.zhihu.com/search?q=%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%8A%B1%E4%B8%80%E4%B8%87%E4%BA%8C%E4%B9%B0%E6%88%BF%E5%8E%BB%E5%A4%A7%E5%85%B4%E5%AE%89%E5%B2%AD%E9%9A%90%E5%B1%85)
+1. [中国科协锐评光伏鸟类争议论文](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E7%A7%91%E5%8D%8F%E9%94%90%E8%AF%84%E5%85%89%E4%BC%8F%E9%B8%9F%E7%B1%BB%E4%BA%89%E8%AE%AE%E8%AE%BA%E6%96%87)
+1. [我国最北高铁正式通车](https://www.zhihu.com/search?q=%E6%88%91%E5%9B%BD%E6%9C%80%E5%8C%97%E9%AB%98%E9%93%81%E6%AD%A3%E5%BC%8F%E9%80%9A%E8%BD%A6)
+1. [SpaceX星舰第14 次试飞](https://www.zhihu.com/search?q=SpaceX%E6%98%9F%E8%88%B0%E7%AC%AC14%20%E6%AC%A1%E8%AF%95%E9%A3%9E)
+1. [王楚钦 vs 林诗栋](https://www.zhihu.com/search?q=%E7%8E%8B%E6%A5%9A%E9%92%A6%20vs%20%E6%9E%97%E8%AF%97%E6%A0%8B)
 
 ## 热门话题
 
