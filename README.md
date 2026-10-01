@@ -11,10 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-10-01 04:42:46 +0800`
+`更新时间：2026-10-01 08:27:33 +0800`
 
 ## 热门搜索
 
+1. [国庆节](https://www.zhihu.com/search?q=%E5%9B%BD%E5%BA%86%E8%8A%82)
 1. [你都见过哪些不动声色的善良](https://www.zhihu.com/search?q=%E4%BD%A0%E9%83%BD%E8%A7%81%E8%BF%87%E5%93%AA%E4%BA%9B%E4%B8%8D%E5%8A%A8%E5%A3%B0%E8%89%B2%E7%9A%84%E5%96%84%E8%89%AF)
 1. [飞天奖](https://www.zhihu.com/search?q=%E9%A3%9E%E5%A4%A9%E5%A5%96)
 1. [金鹰奖](https://www.zhihu.com/search?q=%E9%87%91%E9%B9%B0%E5%A5%96)
@@ -41,7 +42,6 @@
 1. [张家齐妈妈原谅张家齐了](https://www.zhihu.com/search?q=%E5%BC%A0%E5%AE%B6%E9%BD%90%E5%A6%88%E5%A6%88%E5%8E%9F%E8%B0%85%E5%BC%A0%E5%AE%B6%E9%BD%90%E4%BA%86)
 1. [武契奇宣布辞职](https://www.zhihu.com/search?q=%E6%AD%A6%E5%A5%91%E5%A5%87%E5%AE%A3%E5%B8%83%E8%BE%9E%E8%81%8C)
 1. [樊振东 3-0 格拉尔多](https://www.zhihu.com/search?q=%E6%A8%8A%E6%8C%AF%E4%B8%9C%203-0%20%E6%A0%BC%E6%8B%89%E5%B0%94%E5%A4%9A)
-1. [蔚来与吉利达成充换电战略合作](https://www.zhihu.com/search?q=%E8%94%9A%E6%9D%A5%E4%B8%8E%E5%90%89%E5%88%A9%E8%BE%BE%E6%88%90%E5%85%85%E6%8D%A2%E7%94%B5%E6%88%98%E7%95%A5%E5%90%88%E4%BD%9C)
 
 ## 热门话题
 
