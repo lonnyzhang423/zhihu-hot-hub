@@ -11,34 +11,31 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-10-03 12:56:22 +0800`
+`更新时间：2026-10-03 18:19:59 +0800`
 
 ## 热门搜索
 
-1. [离职高管向寒武纪索赔278亿](https://www.zhihu.com/search?q=%E7%A6%BB%E8%81%8C%E9%AB%98%E7%AE%A1%E5%90%91%E5%AF%92%E6%AD%A6%E7%BA%AA%E7%B4%A2%E8%B5%94278%E4%BA%BF)
-1. [易会满被公诉](https://www.zhihu.com/search?q=%E6%98%93%E4%BC%9A%E6%BB%A1%E8%A2%AB%E5%85%AC%E8%AF%89)
-1. [赛力斯](https://www.zhihu.com/search?q=%E8%B5%9B%E5%8A%9B%E6%96%AF)
+1. [国庆节](https://www.zhihu.com/search?q=%E5%9B%BD%E5%BA%86%E8%8A%82)
+1. [披荆斩棘四公](https://www.zhihu.com/search?q=%E6%8A%AB%E8%8D%86%E6%96%A9%E6%A3%98%E5%9B%9B%E5%85%AC)
+1. [2026名古屋亚运会](https://www.zhihu.com/search?q=2026%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9A%E8%BF%90%E4%BC%9A)
 1. [2026 国庆](https://www.zhihu.com/search?q=2026%20%E5%9B%BD%E5%BA%86)
-1. [武契奇宣布辞职](https://www.zhihu.com/search?q=%E6%AD%A6%E5%A5%91%E5%A5%87%E5%AE%A3%E5%B8%83%E8%BE%9E%E8%81%8C)
-1. [我国最北高铁正式通车](https://www.zhihu.com/search?q=%E6%88%91%E5%9B%BD%E6%9C%80%E5%8C%97%E9%AB%98%E9%93%81%E6%AD%A3%E5%BC%8F%E9%80%9A%E8%BD%A6)
-1. [ 陈冠希吴彦祖王祖贤复出](https://www.zhihu.com/search?q=%20%E9%99%88%E5%86%A0%E5%B8%8C%E5%90%B4%E5%BD%A6%E7%A5%96%E7%8E%8B%E7%A5%96%E8%B4%A4%E5%A4%8D%E5%87%BA)
-1. [如何实现财务自由](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E8%B4%A2%E5%8A%A1%E8%87%AA%E7%94%B1)
-1. [林雨薇长文告别国家队](https://www.zhihu.com/search?q=%E6%9E%97%E9%9B%A8%E8%96%87%E9%95%BF%E6%96%87%E5%91%8A%E5%88%AB%E5%9B%BD%E5%AE%B6%E9%98%9F)
 1. [张家齐被问直播赚多少钱算够](https://www.zhihu.com/search?q=%E5%BC%A0%E5%AE%B6%E9%BD%90%E8%A2%AB%E9%97%AE%E7%9B%B4%E6%92%AD%E8%B5%9A%E5%A4%9A%E5%B0%91%E9%92%B1%E7%AE%97%E5%A4%9F)
-1. [北京动物园办抓美国白蛾大赛](https://www.zhihu.com/search?q=%E5%8C%97%E4%BA%AC%E5%8A%A8%E7%89%A9%E5%9B%AD%E5%8A%9E%E6%8A%93%E7%BE%8E%E5%9B%BD%E7%99%BD%E8%9B%BE%E5%A4%A7%E8%B5%9B)
-1. [DeepSeek 年化营收破 10 亿美元](https://www.zhihu.com/search?q=DeepSeek%20%E5%B9%B4%E5%8C%96%E8%90%A5%E6%94%B6%E7%A0%B4%2010%20%E4%BA%BF%E7%BE%8E%E5%85%83)
-1. [于和伟获金鹰奖最佳男主角](https://www.zhihu.com/search?q=%E4%BA%8E%E5%92%8C%E4%BC%9F%E8%8E%B7%E9%87%91%E9%B9%B0%E5%A5%96%E6%9C%80%E4%BD%B3%E7%94%B7%E4%B8%BB%E8%A7%92)
-1. [网传大学生替缺课老师讲课一小时](https://www.zhihu.com/search?q=%E7%BD%91%E4%BC%A0%E5%A4%A7%E5%AD%A6%E7%94%9F%E6%9B%BF%E7%BC%BA%E8%AF%BE%E8%80%81%E5%B8%88%E8%AE%B2%E8%AF%BE%E4%B8%80%E5%B0%8F%E6%97%B6)
 1. [AI 抽卡出重大成果论文署名归属](https://www.zhihu.com/search?q=AI%20%E6%8A%BD%E5%8D%A1%E5%87%BA%E9%87%8D%E5%A4%A7%E6%88%90%E6%9E%9C%E8%AE%BA%E6%96%87%E7%BD%B2%E5%90%8D%E5%BD%92%E5%B1%9E)
-1. [房贷贴息1个百分点](https://www.zhihu.com/search?q=%E6%88%BF%E8%B4%B7%E8%B4%B4%E6%81%AF1%E4%B8%AA%E7%99%BE%E5%88%86%E7%82%B9)
-1. [苹果将进军智能家居](https://www.zhihu.com/search?q=%E8%8B%B9%E6%9E%9C%E5%B0%86%E8%BF%9B%E5%86%9B%E6%99%BA%E8%83%BD%E5%AE%B6%E5%B1%85)
-1. [多地限高份子钱](https://www.zhihu.com/search?q=%E5%A4%9A%E5%9C%B0%E9%99%90%E9%AB%98%E4%BB%BD%E5%AD%90%E9%92%B1)
+1. [易会满被公诉](https://www.zhihu.com/search?q=%E6%98%93%E4%BC%9A%E6%BB%A1%E8%A2%AB%E5%85%AC%E8%AF%89)
 1. [迪拜航空客机发疑似劫机警报](https://www.zhihu.com/search?q=%E8%BF%AA%E6%8B%9C%E8%88%AA%E7%A9%BA%E5%AE%A2%E6%9C%BA%E5%8F%91%E7%96%91%E4%BC%BC%E5%8A%AB%E6%9C%BA%E8%AD%A6%E6%8A%A5)
-1. [文春曝张本智和私生活](https://www.zhihu.com/search?q=%E6%96%87%E6%98%A5%E6%9B%9D%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%E7%A7%81%E7%94%9F%E6%B4%BB)
 1. [C罗官宣离开国家队集训](https://www.zhihu.com/search?q=C%E7%BD%97%E5%AE%98%E5%AE%A3%E7%A6%BB%E5%BC%80%E5%9B%BD%E5%AE%B6%E9%98%9F%E9%9B%86%E8%AE%AD)
 1. [国庆假期](https://www.zhihu.com/search?q=%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F)
 1. [25 岁画师约稿遭电诈 4 万元后坠亡](https://www.zhihu.com/search?q=25%20%E5%B2%81%E7%94%BB%E5%B8%88%E7%BA%A6%E7%A8%BF%E9%81%AD%E7%94%B5%E8%AF%88%204%20%E4%B8%87%E5%85%83%E5%90%8E%E5%9D%A0%E4%BA%A1)
-1. [迪拜航空确认航班发生事故](https://www.zhihu.com/search?q=%E8%BF%AA%E6%8B%9C%E8%88%AA%E7%A9%BA%E7%A1%AE%E8%AE%A4%E8%88%AA%E7%8F%AD%E5%8F%91%E7%94%9F%E4%BA%8B%E6%95%85)
+1. [谷歌发布Gemini 4 Argon](https://www.zhihu.com/search?q=%E8%B0%B7%E6%AD%8C%E5%8F%91%E5%B8%83Gemini%204%20Argon)
+1. [高铁票凌晨候补成功醒来车已开走](https://www.zhihu.com/search?q=%E9%AB%98%E9%93%81%E7%A5%A8%E5%87%8C%E6%99%A8%E5%80%99%E8%A1%A5%E6%88%90%E5%8A%9F%E9%86%92%E6%9D%A5%E8%BD%A6%E5%B7%B2%E5%BC%80%E8%B5%B0)
+1. [2025 年全国结婚登记 676.5 万对](https://www.zhihu.com/search?q=2025%20%E5%B9%B4%E5%85%A8%E5%9B%BD%E7%BB%93%E5%A9%9A%E7%99%BB%E8%AE%B0%20676.5%20%E4%B8%87%E5%AF%B9)
+1. [豆包聚合第三方履约涉足吃住行游](https://www.zhihu.com/search?q=%E8%B1%86%E5%8C%85%E8%81%9A%E5%90%88%E7%AC%AC%E4%B8%89%E6%96%B9%E5%B1%A5%E7%BA%A6%E6%B6%89%E8%B6%B3%E5%90%83%E4%BD%8F%E8%A1%8C%E6%B8%B8)
+1. [十个 Claude5.5 协作攻克汤姆逊难题](https://www.zhihu.com/search?q=%E5%8D%81%E4%B8%AA%20Claude5.5%20%E5%8D%8F%E4%BD%9C%E6%94%BB%E5%85%8B%E6%B1%A4%E5%A7%86%E9%80%8A%E9%9A%BE%E9%A2%98)
+1. [多家车企9月交付量出炉](https://www.zhihu.com/search?q=%E5%A4%9A%E5%AE%B6%E8%BD%A6%E4%BC%819%E6%9C%88%E4%BA%A4%E4%BB%98%E9%87%8F%E5%87%BA%E7%82%89)
+1. [小沈阳夫妇《什么意思夫妇》热映](https://www.zhihu.com/search?q=%E5%B0%8F%E6%B2%88%E9%98%B3%E5%A4%AB%E5%A6%87%E3%80%8A%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D%E5%A4%AB%E5%A6%87%E3%80%8B%E7%83%AD%E6%98%A0)
+1. [微软发布 WSL3.0](https://www.zhihu.com/search?q=%E5%BE%AE%E8%BD%AF%E5%8F%91%E5%B8%83%20WSL3.0)
+1. [MiniMax新模型](https://www.zhihu.com/search?q=MiniMax%E6%96%B0%E6%A8%A1%E5%9E%8B)
+1. [美联储10月加息预期回落](https://www.zhihu.com/search?q=%E7%BE%8E%E8%81%94%E5%82%A810%E6%9C%88%E5%8A%A0%E6%81%AF%E9%A2%84%E6%9C%9F%E5%9B%9E%E8%90%BD)
 
 ## 热门话题
 
