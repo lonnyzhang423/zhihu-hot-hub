@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-10-05 01:16:20 +0800`
+`更新时间：2026-10-05 04:40:28 +0800`
 
 ## 热门搜索
 
@@ -33,7 +33,6 @@
 1. [美国 9 月非农数据公布](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%209%20%E6%9C%88%E9%9D%9E%E5%86%9C%E6%95%B0%E6%8D%AE%E5%85%AC%E5%B8%83)
 1. [邵佳一 国足](https://www.zhihu.com/search?q=%E9%82%B5%E4%BD%B3%E4%B8%80%20%E5%9B%BD%E8%B6%B3)
 1. [国足0比5惨败却让小将接受采访](https://www.zhihu.com/search?q=%E5%9B%BD%E8%B6%B30%E6%AF%945%E6%83%A8%E8%B4%A5%E5%8D%B4%E8%AE%A9%E5%B0%8F%E5%B0%86%E6%8E%A5%E5%8F%97%E9%87%87%E8%AE%BF)
-1. [极客湾解析华为 Mate 90 韬定律芯片](https://www.zhihu.com/search?q=%E6%9E%81%E5%AE%A2%E6%B9%BE%E8%A7%A3%E6%9E%90%E5%8D%8E%E4%B8%BA%20Mate%2090%20%E9%9F%AC%E5%AE%9A%E5%BE%8B%E8%8A%AF%E7%89%87)
 1. [网友吐槽店铺没开门就能被差评](https://www.zhihu.com/search?q=%E7%BD%91%E5%8F%8B%E5%90%90%E6%A7%BD%E5%BA%97%E9%93%BA%E6%B2%A1%E5%BC%80%E9%97%A8%E5%B0%B1%E8%83%BD%E8%A2%AB%E5%B7%AE%E8%AF%84)
 1. [德国教材：很多中国人没有汽车](https://www.zhihu.com/search?q=%E5%BE%B7%E5%9B%BD%E6%95%99%E6%9D%90%EF%BC%9A%E5%BE%88%E5%A4%9A%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B2%A1%E6%9C%89%E6%B1%BD%E8%BD%A6)
 1. [蔡天凤失踪前曾致电多人](https://www.zhihu.com/search?q=%E8%94%A1%E5%A4%A9%E5%87%A4%E5%A4%B1%E8%B8%AA%E5%89%8D%E6%9B%BE%E8%87%B4%E7%94%B5%E5%A4%9A%E4%BA%BA)
