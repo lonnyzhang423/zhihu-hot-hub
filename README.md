@@ -11,20 +11,20 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-10-08 05:10:07 +0800`
+`更新时间：2026-10-08 09:43:28 +0800`
 
 ## 热门搜索
 
 1. [国庆节](https://www.zhihu.com/search?q=%E5%9B%BD%E5%BA%86%E8%8A%82)
 1. [韦世豪被红牌罚下](https://www.zhihu.com/search?q=%E9%9F%A6%E4%B8%96%E8%B1%AA%E8%A2%AB%E7%BA%A2%E7%89%8C%E7%BD%9A%E4%B8%8B)
 1. [诺贝尔物理学奖预测](https://www.zhihu.com/search?q=%E8%AF%BA%E8%B4%9D%E5%B0%94%E7%89%A9%E7%90%86%E5%AD%A6%E5%A5%96%E9%A2%84%E6%B5%8B)
+1. [2026名古屋亚运会](https://www.zhihu.com/search?q=2026%E5%90%8D%E5%8F%A4%E5%B1%8B%E4%BA%9A%E8%BF%90%E4%BC%9A)
 1. [2026 国庆](https://www.zhihu.com/search?q=2026%20%E5%9B%BD%E5%BA%86)
 1. [邵佳一 国足](https://www.zhihu.com/search?q=%E9%82%B5%E4%BD%B3%E4%B8%80%20%E5%9B%BD%E8%B6%B3)
 1. [国足0比5惨败却让小将接受采访](https://www.zhihu.com/search?q=%E5%9B%BD%E8%B6%B30%E6%AF%945%E6%83%A8%E8%B4%A5%E5%8D%B4%E8%AE%A9%E5%B0%8F%E5%B0%86%E6%8E%A5%E5%8F%97%E9%87%87%E8%AE%BF)
 1. [网传俄实验室发生鼠疫泄漏](https://www.zhihu.com/search?q=%E7%BD%91%E4%BC%A0%E4%BF%84%E5%AE%9E%E9%AA%8C%E5%AE%A4%E5%8F%91%E7%94%9F%E9%BC%A0%E7%96%AB%E6%B3%84%E6%BC%8F)
 1. [辅导员被要求与学生同吃同住](https://www.zhihu.com/search?q=%E8%BE%85%E5%AF%BC%E5%91%98%E8%A2%AB%E8%A6%81%E6%B1%82%E4%B8%8E%E5%AD%A6%E7%94%9F%E5%90%8C%E5%90%83%E5%90%8C%E4%BD%8F)
 1. [张家齐妈妈看见张家齐就哭](https://www.zhihu.com/search?q=%E5%BC%A0%E5%AE%B6%E9%BD%90%E5%A6%88%E5%A6%88%E7%9C%8B%E8%A7%81%E5%BC%A0%E5%AE%B6%E9%BD%90%E5%B0%B1%E5%93%AD)
-1. [超10万份孕妇血样被偷运出境](https://www.zhihu.com/search?q=%E8%B6%8510%E4%B8%87%E4%BB%BD%E5%AD%95%E5%A6%87%E8%A1%80%E6%A0%B7%E8%A2%AB%E5%81%B7%E8%BF%90%E5%87%BA%E5%A2%83)
 1. [《生化危机：爆发夜》热映](https://www.zhihu.com/search?q=%E3%80%8A%E7%94%9F%E5%8C%96%E5%8D%B1%E6%9C%BA%EF%BC%9A%E7%88%86%E5%8F%91%E5%A4%9C%E3%80%8B%E7%83%AD%E6%98%A0)
 1. [普宁考生称因HIV被拒教师入职](https://www.zhihu.com/search?q=%E6%99%AE%E5%AE%81%E8%80%83%E7%94%9F%E7%A7%B0%E5%9B%A0HIV%E8%A2%AB%E6%8B%92%E6%95%99%E5%B8%88%E5%85%A5%E8%81%8C)
 1. [2026 诺贝尔生理学或医学奖](https://www.zhihu.com/search?q=2026%20%E8%AF%BA%E8%B4%9D%E5%B0%94%E7%94%9F%E7%90%86%E5%AD%A6%E6%88%96%E5%8C%BB%E5%AD%A6%E5%A5%96)
