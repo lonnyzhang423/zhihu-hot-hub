@@ -11,18 +11,18 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-10-13 20:21:45 +0800`
+`更新时间：2026-10-14 03:40:16 +0800`
 
 ## 热门搜索
 
-1. [赛力斯涨停原因](https://www.zhihu.com/search?q=%E8%B5%9B%E5%8A%9B%E6%96%AF%E6%B6%A8%E5%81%9C%E5%8E%9F%E5%9B%A0)
+1. [印度正式申办2036年奥运会](https://www.zhihu.com/search?q=%E5%8D%B0%E5%BA%A6%E6%AD%A3%E5%BC%8F%E7%94%B3%E5%8A%9E2036%E5%B9%B4%E5%A5%A5%E8%BF%90%E4%BC%9A)
+1. [霸王茶姬致歉](https://www.zhihu.com/search?q=%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E8%87%B4%E6%AD%89)
 1. [全市场超4300只个股下挫](https://www.zhihu.com/search?q=%E5%85%A8%E5%B8%82%E5%9C%BA%E8%B6%854300%E5%8F%AA%E4%B8%AA%E8%82%A1%E4%B8%8B%E6%8C%AB)
 1. [尊界V800刹车踏板支架断裂](https://www.zhihu.com/search?q=%E5%B0%8A%E7%95%8CV800%E5%88%B9%E8%BD%A6%E8%B8%8F%E6%9D%BF%E6%94%AF%E6%9E%B6%E6%96%AD%E8%A3%82)
 1. [江淮汽车回应尊界刹车踏板支架断裂](https://www.zhihu.com/search?q=%E6%B1%9F%E6%B7%AE%E6%B1%BD%E8%BD%A6%E5%9B%9E%E5%BA%94%E5%B0%8A%E7%95%8C%E5%88%B9%E8%BD%A6%E8%B8%8F%E6%9D%BF%E6%94%AF%E6%9E%B6%E6%96%AD%E8%A3%82)
-1. [印度正式申办2036年奥运会](https://www.zhihu.com/search?q=%E5%8D%B0%E5%BA%A6%E6%AD%A3%E5%BC%8F%E7%94%B3%E5%8A%9E2036%E5%B9%B4%E5%A5%A5%E8%BF%90%E4%BC%9A)
+1. [苹果计划进军智能家居市场](https://www.zhihu.com/search?q=%E8%8B%B9%E6%9E%9C%E8%AE%A1%E5%88%92%E8%BF%9B%E5%86%9B%E6%99%BA%E8%83%BD%E5%AE%B6%E5%B1%85%E5%B8%82%E5%9C%BA)
 1. [尊界回应刹车踏板支架断裂](https://www.zhihu.com/search?q=%E5%B0%8A%E7%95%8C%E5%9B%9E%E5%BA%94%E5%88%B9%E8%BD%A6%E8%B8%8F%E6%9D%BF%E6%94%AF%E6%9E%B6%E6%96%AD%E8%A3%82)
 1. [广东一医院病房墙体长满霉菌](https://www.zhihu.com/search?q=%E5%B9%BF%E4%B8%9C%E4%B8%80%E5%8C%BB%E9%99%A2%E7%97%85%E6%88%BF%E5%A2%99%E4%BD%93%E9%95%BF%E6%BB%A1%E9%9C%89%E8%8F%8C)
-1. [邵艾伦对话孙宇晨](https://www.zhihu.com/search?q=%E9%82%B5%E8%89%BE%E4%BC%A6%E5%AF%B9%E8%AF%9D%E5%AD%99%E5%AE%87%E6%99%A8)
 1. [双汇被罚1.29亿](https://www.zhihu.com/search?q=%E5%8F%8C%E6%B1%87%E8%A2%AB%E7%BD%9A1.29%E4%BA%BF)
 1. [电影《生化危机：爆发夜》热映](https://www.zhihu.com/search?q=%E7%94%B5%E5%BD%B1%E3%80%8A%E7%94%9F%E5%8C%96%E5%8D%B1%E6%9C%BA%EF%BC%9A%E7%88%86%E5%8F%91%E5%A4%9C%E3%80%8B%E7%83%AD%E6%98%A0)
 1. [傅园慧爸爸意外迎来「宣发期」](https://www.zhihu.com/search?q=%E5%82%85%E5%9B%AD%E6%85%A7%E7%88%B8%E7%88%B8%E6%84%8F%E5%A4%96%E8%BF%8E%E6%9D%A5%E3%80%8C%E5%AE%A3%E5%8F%91%E6%9C%9F%E3%80%8D)
@@ -37,8 +37,13 @@
 1. [胡歌称拍仙剑三很无聊](https://www.zhihu.com/search?q=%E8%83%A1%E6%AD%8C%E7%A7%B0%E6%8B%8D%E4%BB%99%E5%89%91%E4%B8%89%E5%BE%88%E6%97%A0%E8%81%8A)
 1. [2026年诺贝尔经济学奖](https://www.zhihu.com/search?q=2026%E5%B9%B4%E8%AF%BA%E8%B4%9D%E5%B0%94%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%A5%96)
 1. [曝华为将推子品牌星芒](https://www.zhihu.com/search?q=%E6%9B%9D%E5%8D%8E%E4%B8%BA%E5%B0%86%E6%8E%A8%E5%AD%90%E5%93%81%E7%89%8C%E6%98%9F%E8%8A%92)
+1. [松岛辉空4-3林昀儒夺冠](https://www.zhihu.com/search?q=%E6%9D%BE%E5%B2%9B%E8%BE%89%E7%A9%BA4-3%E6%9E%97%E6%98%80%E5%84%92%E5%A4%BA%E5%86%A0)
 1. [郑钦文 2-0 安德列娃](https://www.zhihu.com/search?q=%E9%83%91%E9%92%A6%E6%96%87%202-0%20%E5%AE%89%E5%BE%B7%E5%88%97%E5%A8%83)
 1. [郑钦文夺冠后热泪盈眶](https://www.zhihu.com/search?q=%E9%83%91%E9%92%A6%E6%96%87%E5%A4%BA%E5%86%A0%E5%90%8E%E7%83%AD%E6%B3%AA%E7%9B%88%E7%9C%B6)
+1. [女子3个月对盒马399件商品申请仅退款](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%903%E4%B8%AA%E6%9C%88%E5%AF%B9%E7%9B%92%E9%A9%AC399%E4%BB%B6%E5%95%86%E5%93%81%E7%94%B3%E8%AF%B7%E4%BB%85%E9%80%80%E6%AC%BE)
+1. [周鸿祎攀岩摔骨折](https://www.zhihu.com/search?q=%E5%91%A8%E9%B8%BF%E7%A5%8E%E6%94%80%E5%B2%A9%E6%91%94%E9%AA%A8%E6%8A%98)
+1. [哈药股份总裁芦传有被立案](https://www.zhihu.com/search?q=%E5%93%88%E8%8D%AF%E8%82%A1%E4%BB%BD%E6%80%BB%E8%A3%81%E8%8A%A6%E4%BC%A0%E6%9C%89%E8%A2%AB%E7%AB%8B%E6%A1%88)
+1. [丘成桐牵头成立数学AI联盟](https://www.zhihu.com/search?q=%E4%B8%98%E6%88%90%E6%A1%90%E7%89%B5%E5%A4%B4%E6%88%90%E7%AB%8B%E6%95%B0%E5%AD%A6AI%E8%81%94%E7%9B%9F)
 
 ## 热门话题
 
