@@ -11,13 +11,12 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-10-14 21:33:07 +0800`
+`更新时间：2026-10-15 02:27:46 +0800`
 
 ## 热门搜索
 
 1. [欧冠](https://www.zhihu.com/search?q=%E6%AC%A7%E5%86%A0)
 1. [国考](https://www.zhihu.com/search?q=%E5%9B%BD%E8%80%83)
-1. [印度正式申办2036年奥运会](https://www.zhihu.com/search?q=%E5%8D%B0%E5%BA%A6%E6%AD%A3%E5%BC%8F%E7%94%B3%E5%8A%9E2036%E5%B9%B4%E5%A5%A5%E8%BF%90%E4%BC%9A)
 1. [勇士vs湖人](https://www.zhihu.com/search?q=%E5%8B%87%E5%A3%ABvs%E6%B9%96%E4%BA%BA)
 1. [雷霆VS步行者](https://www.zhihu.com/search?q=%E9%9B%B7%E9%9C%86VS%E6%AD%A5%E8%A1%8C%E8%80%85)
 1. [猛龙VS尼克斯](https://www.zhihu.com/search?q=%E7%8C%9B%E9%BE%99VS%E5%B0%BC%E5%85%8B%E6%96%AF)
@@ -29,7 +28,6 @@
 1. [玉簟秋](https://www.zhihu.com/search?q=%E7%8E%89%E7%B0%9F%E7%A7%8B)
 1. [雅思考试临时取消仅退考试费](https://www.zhihu.com/search?q=%E9%9B%85%E6%80%9D%E8%80%83%E8%AF%95%E4%B8%B4%E6%97%B6%E5%8F%96%E6%B6%88%E4%BB%85%E9%80%80%E8%80%83%E8%AF%95%E8%B4%B9)
 1. [2026年诺贝尔经济学奖](https://www.zhihu.com/search?q=2026%E5%B9%B4%E8%AF%BA%E8%B4%9D%E5%B0%94%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%A5%96)
-1. [松岛辉空4-3林昀儒夺冠](https://www.zhihu.com/search?q=%E6%9D%BE%E5%B2%9B%E8%BE%89%E7%A9%BA4-3%E6%9E%97%E6%98%80%E5%84%92%E5%A4%BA%E5%86%A0)
 1. [郑钦文夺得中网女单冠军](https://www.zhihu.com/search?q=%E9%83%91%E9%92%A6%E6%96%87%E5%A4%BA%E5%BE%97%E4%B8%AD%E7%BD%91%E5%A5%B3%E5%8D%95%E5%86%A0%E5%86%9B)
 1. [郑钦文 2-0 安德列娃](https://www.zhihu.com/search?q=%E9%83%91%E9%92%A6%E6%96%87%202-0%20%E5%AE%89%E5%BE%B7%E5%88%97%E5%A8%83)
 1. [郑钦文夺冠后热泪盈眶](https://www.zhihu.com/search?q=%E9%83%91%E9%92%A6%E6%96%87%E5%A4%BA%E5%86%A0%E5%90%8E%E7%83%AD%E6%B3%AA%E7%9B%88%E7%9C%B6)
@@ -37,6 +35,8 @@
 1. [日本用工市场再现「挑企业」潮](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E7%94%A8%E5%B7%A5%E5%B8%82%E5%9C%BA%E5%86%8D%E7%8E%B0%E3%80%8C%E6%8C%91%E4%BC%81%E4%B8%9A%E3%80%8D%E6%BD%AE)
 1. [单位欠缴社保最高罚三倍](https://www.zhihu.com/search?q=%E5%8D%95%E4%BD%8D%E6%AC%A0%E7%BC%B4%E7%A4%BE%E4%BF%9D%E6%9C%80%E9%AB%98%E7%BD%9A%E4%B8%89%E5%80%8D)
 1. [AI 逆向工程工具 REA 爆火](https://www.zhihu.com/search?q=AI%20%E9%80%86%E5%90%91%E5%B7%A5%E7%A8%8B%E5%B7%A5%E5%85%B7%20REA%20%E7%88%86%E7%81%AB)
+1. [网友被洗衣凝珠烧伤眼睛](https://www.zhihu.com/search?q=%E7%BD%91%E5%8F%8B%E8%A2%AB%E6%B4%97%E8%A1%A3%E5%87%9D%E7%8F%A0%E7%83%A7%E4%BC%A4%E7%9C%BC%E7%9D%9B)
+1. [偶像剧扎堆出现「二婚男主」](https://www.zhihu.com/search?q=%E5%81%B6%E5%83%8F%E5%89%A7%E6%89%8E%E5%A0%86%E5%87%BA%E7%8E%B0%E3%80%8C%E4%BA%8C%E5%A9%9A%E7%94%B7%E4%B8%BB%E3%80%8D)
 
 ## 热门话题
 
