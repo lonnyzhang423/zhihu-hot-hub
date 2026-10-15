@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-10-15 20:18:45 +0800`
+`更新时间：2026-10-16 01:30:26 +0800`
 
 ## 热门搜索
 
@@ -26,9 +26,6 @@
 1. [AI 逆向工程工具 REA 爆火](https://www.zhihu.com/search?q=AI%20%E9%80%86%E5%90%91%E5%B7%A5%E7%A8%8B%E5%B7%A5%E5%85%B7%20REA%20%E7%88%86%E7%81%AB)
 1. [偶像剧扎堆出现「二婚男主」](https://www.zhihu.com/search?q=%E5%81%B6%E5%83%8F%E5%89%A7%E6%89%8E%E5%A0%86%E5%87%BA%E7%8E%B0%E3%80%8C%E4%BA%8C%E5%A9%9A%E7%94%B7%E4%B8%BB%E3%80%8D)
 1. [王老菊谈做游戏](https://www.zhihu.com/search?q=%E7%8E%8B%E8%80%81%E8%8F%8A%E8%B0%88%E5%81%9A%E6%B8%B8%E6%88%8F)
-1. [独立游戏开发者统测全国卷](https://www.zhihu.com/search?q=%E7%8B%AC%E7%AB%8B%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91%E8%80%85%E7%BB%9F%E6%B5%8B%E5%85%A8%E5%9B%BD%E5%8D%B7)
-1. [尊界V800公布制动踏板第三方检测结果](https://www.zhihu.com/search?q=%E5%B0%8A%E7%95%8CV800%E5%85%AC%E5%B8%83%E5%88%B6%E5%8A%A8%E8%B8%8F%E6%9D%BF%E7%AC%AC%E4%B8%89%E6%96%B9%E6%A3%80%E6%B5%8B%E7%BB%93%E6%9E%9C)
-1. [北京社保缴费工资基数上下限发布](https://www.zhihu.com/search?q=%E5%8C%97%E4%BA%AC%E7%A4%BE%E4%BF%9D%E7%BC%B4%E8%B4%B9%E5%B7%A5%E8%B5%84%E5%9F%BA%E6%95%B0%E4%B8%8A%E4%B8%8B%E9%99%90%E5%8F%91%E5%B8%83)
 1. [懂车帝质疑尊界V800检测结果](https://www.zhihu.com/search?q=%E6%87%82%E8%BD%A6%E5%B8%9D%E8%B4%A8%E7%96%91%E5%B0%8A%E7%95%8CV800%E6%A3%80%E6%B5%8B%E7%BB%93%E6%9E%9C)
 1. [新车研发须包含「两冬一夏」测试](https://www.zhihu.com/search?q=%E6%96%B0%E8%BD%A6%E7%A0%94%E5%8F%91%E9%A1%BB%E5%8C%85%E5%90%AB%E3%80%8C%E4%B8%A4%E5%86%AC%E4%B8%80%E5%A4%8F%E3%80%8D%E6%B5%8B%E8%AF%95)
 1. [给字节大模型投毒的实习生开启创业](https://www.zhihu.com/search?q=%E7%BB%99%E5%AD%97%E8%8A%82%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%8A%95%E6%AF%92%E7%9A%84%E5%AE%9E%E4%B9%A0%E7%94%9F%E5%BC%80%E5%90%AF%E5%88%9B%E4%B8%9A)
@@ -36,8 +33,8 @@
 1. [患者送1.9元汽水后举报药房人员收礼](https://www.zhihu.com/search?q=%E6%82%A3%E8%80%85%E9%80%811.9%E5%85%83%E6%B1%BD%E6%B0%B4%E5%90%8E%E4%B8%BE%E6%8A%A5%E8%8D%AF%E6%88%BF%E4%BA%BA%E5%91%98%E6%94%B6%E7%A4%BC)
 1. [东门健男](https://www.zhihu.com/search?q=%E4%B8%9C%E9%97%A8%E5%81%A5%E7%94%B7)
 1. [王星被胁迫借下的网贷该不该还](https://www.zhihu.com/search?q=%E7%8E%8B%E6%98%9F%E8%A2%AB%E8%83%81%E8%BF%AB%E5%80%9F%E4%B8%8B%E7%9A%84%E7%BD%91%E8%B4%B7%E8%AF%A5%E4%B8%8D%E8%AF%A5%E8%BF%98)
-1. [老干妈引入 AI 检验辣椒品质](https://www.zhihu.com/search?q=%E8%80%81%E5%B9%B2%E5%A6%88%E5%BC%95%E5%85%A5%20AI%20%E6%A3%80%E9%AA%8C%E8%BE%A3%E6%A4%92%E5%93%81%E8%B4%A8)
 1. [百果园2年亏掉了7个亿](https://www.zhihu.com/search?q=%E7%99%BE%E6%9E%9C%E5%9B%AD2%E5%B9%B4%E4%BA%8F%E6%8E%89%E4%BA%867%E4%B8%AA%E4%BA%BF)
+1. [谷歌发布Gemini4Argon](https://www.zhihu.com/search?q=%E8%B0%B7%E6%AD%8C%E5%8F%91%E5%B8%83Gemini4Argon)
 
 ## 热门话题
 
