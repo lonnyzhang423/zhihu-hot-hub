@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-10-18 01:38:59 +0800`
+`更新时间：2026-10-18 03:52:45 +0800`
 
 ## 热门搜索
 
@@ -37,7 +37,6 @@
 1. [申真谞斩获烂柯杯成九冠王](https://www.zhihu.com/search?q=%E7%94%B3%E7%9C%9F%E8%B0%9E%E6%96%A9%E8%8E%B7%E7%83%82%E6%9F%AF%E6%9D%AF%E6%88%90%E4%B9%9D%E5%86%A0%E7%8E%8B)
 1. [13 岁女团成员父母被曝恶意欠薪](https://www.zhihu.com/search?q=13%20%E5%B2%81%E5%A5%B3%E5%9B%A2%E6%88%90%E5%91%98%E7%88%B6%E6%AF%8D%E8%A2%AB%E6%9B%9D%E6%81%B6%E6%84%8F%E6%AC%A0%E8%96%AA)
 1. [特斯拉 Roadster 亮相](https://www.zhihu.com/search?q=%E7%89%B9%E6%96%AF%E6%8B%89%20Roadster%20%E4%BA%AE%E7%9B%B8)
-1. [美国肯德基将改用可口可乐](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E8%82%AF%E5%BE%B7%E5%9F%BA%E5%B0%86%E6%94%B9%E7%94%A8%E5%8F%AF%E5%8F%A3%E5%8F%AF%E4%B9%90)
 1. [洛阳博物馆回应闭馆一年](https://www.zhihu.com/search?q=%E6%B4%9B%E9%98%B3%E5%8D%9A%E7%89%A9%E9%A6%86%E5%9B%9E%E5%BA%94%E9%97%AD%E9%A6%86%E4%B8%80%E5%B9%B4)
 1. [俄罗斯堪察加发生6.9级左右地震](https://www.zhihu.com/search?q=%E4%BF%84%E7%BD%97%E6%96%AF%E5%A0%AA%E5%AF%9F%E5%8A%A0%E5%8F%91%E7%94%9F6.9%E7%BA%A7%E5%B7%A6%E5%8F%B3%E5%9C%B0%E9%9C%87)
 1. [佛得角门将沃齐尼亚疑被弃用](https://www.zhihu.com/search?q=%E4%BD%9B%E5%BE%97%E8%A7%92%E9%97%A8%E5%B0%86%E6%B2%83%E9%BD%90%E5%B0%BC%E4%BA%9A%E7%96%91%E8%A2%AB%E5%BC%83%E7%94%A8)
