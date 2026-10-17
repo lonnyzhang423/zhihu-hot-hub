@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-10-17 07:08:57 +0800`
+`更新时间：2026-10-17 10:14:18 +0800`
 
 ## 热门搜索
 
@@ -34,11 +34,12 @@
 1. [双 11 促销规则越来越简单](https://www.zhihu.com/search?q=%E5%8F%8C%2011%20%E4%BF%83%E9%94%80%E8%A7%84%E5%88%99%E8%B6%8A%E6%9D%A5%E8%B6%8A%E7%AE%80%E5%8D%95)
 1. [博主曝懂车帝隐瞒丰田车测试问题](https://www.zhihu.com/search?q=%E5%8D%9A%E4%B8%BB%E6%9B%9D%E6%87%82%E8%BD%A6%E5%B8%9D%E9%9A%90%E7%9E%92%E4%B8%B0%E7%94%B0%E8%BD%A6%E6%B5%8B%E8%AF%95%E9%97%AE%E9%A2%98)
 1. [懂车帝改口北美花生员工身份](https://www.zhihu.com/search?q=%E6%87%82%E8%BD%A6%E5%B8%9D%E6%94%B9%E5%8F%A3%E5%8C%97%E7%BE%8E%E8%8A%B1%E7%94%9F%E5%91%98%E5%B7%A5%E8%BA%AB%E4%BB%BD)
-1. [懂车帝称北美花生夸大员工身份](https://www.zhihu.com/search?q=%E6%87%82%E8%BD%A6%E5%B8%9D%E7%A7%B0%E5%8C%97%E7%BE%8E%E8%8A%B1%E7%94%9F%E5%A4%B8%E5%A4%A7%E5%91%98%E5%B7%A5%E8%BA%AB%E4%BB%BD)
 1. [研究显示中国高校教师平均年薪 15.54 万元](https://www.zhihu.com/search?q=%E7%A0%94%E7%A9%B6%E6%98%BE%E7%A4%BA%E4%B8%AD%E5%9B%BD%E9%AB%98%E6%A0%A1%E6%95%99%E5%B8%88%E5%B9%B3%E5%9D%87%E5%B9%B4%E8%96%AA%2015.54%20%E4%B8%87%E5%85%83)
 1. [蒙古国草原火灾](https://www.zhihu.com/search?q=%E8%92%99%E5%8F%A4%E5%9B%BD%E8%8D%89%E5%8E%9F%E7%81%AB%E7%81%BE)
-1. [1岁宝宝误食邻居毒鸡蛋进ICU](https://www.zhihu.com/search?q=1%E5%B2%81%E5%AE%9D%E5%AE%9D%E8%AF%AF%E9%A3%9F%E9%82%BB%E5%B1%85%E6%AF%92%E9%B8%A1%E8%9B%8B%E8%BF%9BICU)
 1. [李秀满新女团被曝最小成员仅 13 岁](https://www.zhihu.com/search?q=%E6%9D%8E%E7%A7%80%E6%BB%A1%E6%96%B0%E5%A5%B3%E5%9B%A2%E8%A2%AB%E6%9B%9D%E6%9C%80%E5%B0%8F%E6%88%90%E5%91%98%E4%BB%85%2013%20%E5%B2%81)
+1. [大厂员工吐槽校招生特别mean](https://www.zhihu.com/search?q=%E5%A4%A7%E5%8E%82%E5%91%98%E5%B7%A5%E5%90%90%E6%A7%BD%E6%A0%A1%E6%8B%9B%E7%94%9F%E7%89%B9%E5%88%ABmean)
+1. [DeepSeek宣布故障补偿方案](https://www.zhihu.com/search?q=DeepSeek%E5%AE%A3%E5%B8%83%E6%95%85%E9%9A%9C%E8%A1%A5%E5%81%BF%E6%96%B9%E6%A1%88)
+1. [苹果首款折叠屏手机10月23日发售](https://www.zhihu.com/search?q=%E8%8B%B9%E6%9E%9C%E9%A6%96%E6%AC%BE%E6%8A%98%E5%8F%A0%E5%B1%8F%E6%89%8B%E6%9C%BA10%E6%9C%8823%E6%97%A5%E5%8F%91%E5%94%AE)
 
 ## 热门话题
 
