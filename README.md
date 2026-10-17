@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-10-17 19:52:18 +0800`
+`更新时间：2026-10-17 22:41:30 +0800`
 
 ## 热门搜索
 
@@ -22,16 +22,12 @@
 1. [苹果手表 睡眠呼吸暂停识别功能](https://www.zhihu.com/search?q=%E8%8B%B9%E6%9E%9C%E6%89%8B%E8%A1%A8%20%E7%9D%A1%E7%9C%A0%E5%91%BC%E5%90%B8%E6%9A%82%E5%81%9C%E8%AF%86%E5%88%AB%E5%8A%9F%E8%83%BD)
 1. [《兰香如故》女主婚后剧情被指劝退](https://www.zhihu.com/search?q=%E3%80%8A%E5%85%B0%E9%A6%99%E5%A6%82%E6%95%85%E3%80%8B%E5%A5%B3%E4%B8%BB%E5%A9%9A%E5%90%8E%E5%89%A7%E6%83%85%E8%A2%AB%E6%8C%87%E5%8A%9D%E9%80%80)
 1. [A 股 10 月 14 日行情](https://www.zhihu.com/search?q=A%20%E8%82%A1%2010%20%E6%9C%88%2014%20%E6%97%A5%E8%A1%8C%E6%83%85)
-1. [硕士年薪 25 万辞职去教书](https://www.zhihu.com/search?q=%E7%A1%95%E5%A3%AB%E5%B9%B4%E8%96%AA%2025%20%E4%B8%87%E8%BE%9E%E8%81%8C%E5%8E%BB%E6%95%99%E4%B9%A6)
-1. [谷歌发布 AI 游戏创作平台](https://www.zhihu.com/search?q=%E8%B0%B7%E6%AD%8C%E5%8F%91%E5%B8%83%20AI%20%E6%B8%B8%E6%88%8F%E5%88%9B%E4%BD%9C%E5%B9%B3%E5%8F%B0)
 1. [短剧被指让人越看越笨](https://www.zhihu.com/search?q=%E7%9F%AD%E5%89%A7%E8%A2%AB%E6%8C%87%E8%AE%A9%E4%BA%BA%E8%B6%8A%E7%9C%8B%E8%B6%8A%E7%AC%A8)
 1. [懂车帝改口北美花生员工身份](https://www.zhihu.com/search?q=%E6%87%82%E8%BD%A6%E5%B8%9D%E6%94%B9%E5%8F%A3%E5%8C%97%E7%BE%8E%E8%8A%B1%E7%94%9F%E5%91%98%E5%B7%A5%E8%BA%AB%E4%BB%BD)
 1. [研究显示中国高校教师平均年薪 15.54 万元](https://www.zhihu.com/search?q=%E7%A0%94%E7%A9%B6%E6%98%BE%E7%A4%BA%E4%B8%AD%E5%9B%BD%E9%AB%98%E6%A0%A1%E6%95%99%E5%B8%88%E5%B9%B3%E5%9D%87%E5%B9%B4%E8%96%AA%2015.54%20%E4%B8%87%E5%85%83)
 1. [蒙古国草原火灾](https://www.zhihu.com/search?q=%E8%92%99%E5%8F%A4%E5%9B%BD%E8%8D%89%E5%8E%9F%E7%81%AB%E7%81%BE)
 1. [李秀满新女团被曝最小成员仅 13 岁](https://www.zhihu.com/search?q=%E6%9D%8E%E7%A7%80%E6%BB%A1%E6%96%B0%E5%A5%B3%E5%9B%A2%E8%A2%AB%E6%9B%9D%E6%9C%80%E5%B0%8F%E6%88%90%E5%91%98%E4%BB%85%2013%20%E5%B2%81)
-1. [大厂员工吐槽校招生特别mean](https://www.zhihu.com/search?q=%E5%A4%A7%E5%8E%82%E5%91%98%E5%B7%A5%E5%90%90%E6%A7%BD%E6%A0%A1%E6%8B%9B%E7%94%9F%E7%89%B9%E5%88%ABmean)
 1. [DeepSeek宣布故障补偿方案](https://www.zhihu.com/search?q=DeepSeek%E5%AE%A3%E5%B8%83%E6%95%85%E9%9A%9C%E8%A1%A5%E5%81%BF%E6%96%B9%E6%A1%88)
-1. [周迅获釜山电影节最佳女演员](https://www.zhihu.com/search?q=%E5%91%A8%E8%BF%85%E8%8E%B7%E9%87%9C%E5%B1%B1%E7%94%B5%E5%BD%B1%E8%8A%82%E6%9C%80%E4%BD%B3%E5%A5%B3%E6%BC%94%E5%91%98)
 1. [二十岁拿国际 A 类影后和四十岁区别](https://www.zhihu.com/search?q=%E4%BA%8C%E5%8D%81%E5%B2%81%E6%8B%BF%E5%9B%BD%E9%99%85%20A%20%E7%B1%BB%E5%BD%B1%E5%90%8E%E5%92%8C%E5%9B%9B%E5%8D%81%E5%B2%81%E5%8C%BA%E5%88%AB)
 1. [DeepSeek故障补偿](https://www.zhihu.com/search?q=DeepSeek%E6%95%85%E9%9A%9C%E8%A1%A5%E5%81%BF)
 1. [胖东来梦之城施工细节获赞](https://www.zhihu.com/search?q=%E8%83%96%E4%B8%9C%E6%9D%A5%E6%A2%A6%E4%B9%8B%E5%9F%8E%E6%96%BD%E5%B7%A5%E7%BB%86%E8%8A%82%E8%8E%B7%E8%B5%9E)
@@ -40,6 +36,10 @@
 1. [中建七局被曝拖欠320万农民工工资](https://www.zhihu.com/search?q=%E4%B8%AD%E5%BB%BA%E4%B8%83%E5%B1%80%E8%A2%AB%E6%9B%9D%E6%8B%96%E6%AC%A0320%E4%B8%87%E5%86%9C%E6%B0%91%E5%B7%A5%E5%B7%A5%E8%B5%84)
 1. [申真谞斩获烂柯杯成九冠王](https://www.zhihu.com/search?q=%E7%94%B3%E7%9C%9F%E8%B0%9E%E6%96%A9%E8%8E%B7%E7%83%82%E6%9F%AF%E6%9D%AF%E6%88%90%E4%B9%9D%E5%86%A0%E7%8E%8B)
 1. [13 岁女团成员父母被曝恶意欠薪](https://www.zhihu.com/search?q=13%20%E5%B2%81%E5%A5%B3%E5%9B%A2%E6%88%90%E5%91%98%E7%88%B6%E6%AF%8D%E8%A2%AB%E6%9B%9D%E6%81%B6%E6%84%8F%E6%AC%A0%E8%96%AA)
+1. [特斯拉 Roadster 亮相](https://www.zhihu.com/search?q=%E7%89%B9%E6%96%AF%E6%8B%89%20Roadster%20%E4%BA%AE%E7%9B%B8)
+1. [美国肯德基将改用可口可乐](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E8%82%AF%E5%BE%B7%E5%9F%BA%E5%B0%86%E6%94%B9%E7%94%A8%E5%8F%AF%E5%8F%A3%E5%8F%AF%E4%B9%90)
+1. [洛阳博物馆回应闭馆一年](https://www.zhihu.com/search?q=%E6%B4%9B%E9%98%B3%E5%8D%9A%E7%89%A9%E9%A6%86%E5%9B%9E%E5%BA%94%E9%97%AD%E9%A6%86%E4%B8%80%E5%B9%B4)
+1. [俄罗斯堪察加发生6.9级左右地震](https://www.zhihu.com/search?q=%E4%BF%84%E7%BD%97%E6%96%AF%E5%A0%AA%E5%AF%9F%E5%8A%A0%E5%8F%91%E7%94%9F6.9%E7%BA%A7%E5%B7%A6%E5%8F%B3%E5%9C%B0%E9%9C%87)
 
 ## 热门话题
 
