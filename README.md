@@ -11,19 +11,19 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-10-17 22:41:30 +0800`
+`更新时间：2026-10-18 01:38:59 +0800`
 
 ## 热门搜索
 
 1. [DeepSeek崩了](https://www.zhihu.com/search?q=DeepSeek%E5%B4%A9%E4%BA%86)
 1. [蔡天凤失踪前曾致电多人](https://www.zhihu.com/search?q=%E8%94%A1%E5%A4%A9%E5%87%A4%E5%A4%B1%E8%B8%AA%E5%89%8D%E6%9B%BE%E8%87%B4%E7%94%B5%E5%A4%9A%E4%BA%BA)
 1. [番茄小说签约新规](https://www.zhihu.com/search?q=%E7%95%AA%E8%8C%84%E5%B0%8F%E8%AF%B4%E7%AD%BE%E7%BA%A6%E6%96%B0%E8%A7%84)
-1. [饶毅曝某华人编辑收费200万帮发论文](https://www.zhihu.com/search?q=%E9%A5%B6%E6%AF%85%E6%9B%9D%E6%9F%90%E5%8D%8E%E4%BA%BA%E7%BC%96%E8%BE%91%E6%94%B6%E8%B4%B9200%E4%B8%87%E5%B8%AE%E5%8F%91%E8%AE%BA%E6%96%87)
 1. [苹果手表 睡眠呼吸暂停识别功能](https://www.zhihu.com/search?q=%E8%8B%B9%E6%9E%9C%E6%89%8B%E8%A1%A8%20%E7%9D%A1%E7%9C%A0%E5%91%BC%E5%90%B8%E6%9A%82%E5%81%9C%E8%AF%86%E5%88%AB%E5%8A%9F%E8%83%BD)
 1. [《兰香如故》女主婚后剧情被指劝退](https://www.zhihu.com/search?q=%E3%80%8A%E5%85%B0%E9%A6%99%E5%A6%82%E6%95%85%E3%80%8B%E5%A5%B3%E4%B8%BB%E5%A9%9A%E5%90%8E%E5%89%A7%E6%83%85%E8%A2%AB%E6%8C%87%E5%8A%9D%E9%80%80)
 1. [A 股 10 月 14 日行情](https://www.zhihu.com/search?q=A%20%E8%82%A1%2010%20%E6%9C%88%2014%20%E6%97%A5%E8%A1%8C%E6%83%85)
 1. [短剧被指让人越看越笨](https://www.zhihu.com/search?q=%E7%9F%AD%E5%89%A7%E8%A2%AB%E6%8C%87%E8%AE%A9%E4%BA%BA%E8%B6%8A%E7%9C%8B%E8%B6%8A%E7%AC%A8)
 1. [懂车帝改口北美花生员工身份](https://www.zhihu.com/search?q=%E6%87%82%E8%BD%A6%E5%B8%9D%E6%94%B9%E5%8F%A3%E5%8C%97%E7%BE%8E%E8%8A%B1%E7%94%9F%E5%91%98%E5%B7%A5%E8%BA%AB%E4%BB%BD)
+1. [科学家首次用中国大模型攻克世界级数学难题](https://www.zhihu.com/search?q=%E7%A7%91%E5%AD%A6%E5%AE%B6%E9%A6%96%E6%AC%A1%E7%94%A8%E4%B8%AD%E5%9B%BD%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%94%BB%E5%85%8B%E4%B8%96%E7%95%8C%E7%BA%A7%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98)
 1. [研究显示中国高校教师平均年薪 15.54 万元](https://www.zhihu.com/search?q=%E7%A0%94%E7%A9%B6%E6%98%BE%E7%A4%BA%E4%B8%AD%E5%9B%BD%E9%AB%98%E6%A0%A1%E6%95%99%E5%B8%88%E5%B9%B3%E5%9D%87%E5%B9%B4%E8%96%AA%2015.54%20%E4%B8%87%E5%85%83)
 1. [蒙古国草原火灾](https://www.zhihu.com/search?q=%E8%92%99%E5%8F%A4%E5%9B%BD%E8%8D%89%E5%8E%9F%E7%81%AB%E7%81%BE)
 1. [李秀满新女团被曝最小成员仅 13 岁](https://www.zhihu.com/search?q=%E6%9D%8E%E7%A7%80%E6%BB%A1%E6%96%B0%E5%A5%B3%E5%9B%A2%E8%A2%AB%E6%9B%9D%E6%9C%80%E5%B0%8F%E6%88%90%E5%91%98%E4%BB%85%2013%20%E5%B2%81)
@@ -40,6 +40,7 @@
 1. [美国肯德基将改用可口可乐](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E8%82%AF%E5%BE%B7%E5%9F%BA%E5%B0%86%E6%94%B9%E7%94%A8%E5%8F%AF%E5%8F%A3%E5%8F%AF%E4%B9%90)
 1. [洛阳博物馆回应闭馆一年](https://www.zhihu.com/search?q=%E6%B4%9B%E9%98%B3%E5%8D%9A%E7%89%A9%E9%A6%86%E5%9B%9E%E5%BA%94%E9%97%AD%E9%A6%86%E4%B8%80%E5%B9%B4)
 1. [俄罗斯堪察加发生6.9级左右地震](https://www.zhihu.com/search?q=%E4%BF%84%E7%BD%97%E6%96%AF%E5%A0%AA%E5%AF%9F%E5%8A%A0%E5%8F%91%E7%94%9F6.9%E7%BA%A7%E5%B7%A6%E5%8F%B3%E5%9C%B0%E9%9C%87)
+1. [佛得角门将沃齐尼亚疑被弃用](https://www.zhihu.com/search?q=%E4%BD%9B%E5%BE%97%E8%A7%92%E9%97%A8%E5%B0%86%E6%B2%83%E9%BD%90%E5%B0%BC%E4%BA%9A%E7%96%91%E8%A2%AB%E5%BC%83%E7%94%A8)
 
 ## 热门话题
 
