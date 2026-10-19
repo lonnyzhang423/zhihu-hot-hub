@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-10-19 06:04:51 +0800`
+`更新时间：2026-10-19 08:37:46 +0800`
 
 ## 热门搜索
 
@@ -32,13 +32,11 @@
 1. [京城大师赛被曝要求选手裸检](https://www.zhihu.com/search?q=%E4%BA%AC%E5%9F%8E%E5%A4%A7%E5%B8%88%E8%B5%9B%E8%A2%AB%E6%9B%9D%E8%A6%81%E6%B1%82%E9%80%89%E6%89%8B%E8%A3%B8%E6%A3%80)
 1. [澳洲公司用AI扮受害者反套骗子信息](https://www.zhihu.com/search?q=%E6%BE%B3%E6%B4%B2%E5%85%AC%E5%8F%B8%E7%94%A8AI%E6%89%AE%E5%8F%97%E5%AE%B3%E8%80%85%E5%8F%8D%E5%A5%97%E9%AA%97%E5%AD%90%E4%BF%A1%E6%81%AF)
 1. [女子转走前男友近20万被判返还](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E8%BD%AC%E8%B5%B0%E5%89%8D%E7%94%B7%E5%8F%8B%E8%BF%9120%E4%B8%87%E8%A2%AB%E5%88%A4%E8%BF%94%E8%BF%98)
-1. [班主任休产假遭家长质问一定要生孩子吗](https://www.zhihu.com/search?q=%E7%8F%AD%E4%B8%BB%E4%BB%BB%E4%BC%91%E4%BA%A7%E5%81%87%E9%81%AD%E5%AE%B6%E9%95%BF%E8%B4%A8%E9%97%AE%E4%B8%80%E5%AE%9A%E8%A6%81%E7%94%9F%E5%AD%A9%E5%AD%90%E5%90%97)
 1. [流浪地球3首测票房48亿](https://www.zhihu.com/search?q=%E6%B5%81%E6%B5%AA%E5%9C%B0%E7%90%833%E9%A6%96%E6%B5%8B%E7%A5%A8%E6%88%BF48%E4%BA%BF)
 1. [自愿放弃社保无效](https://www.zhihu.com/search?q=%E8%87%AA%E6%84%BF%E6%94%BE%E5%BC%83%E7%A4%BE%E4%BF%9D%E6%97%A0%E6%95%88)
 1. [妈妈因大一儿子未考技能证书降生活费](https://www.zhihu.com/search?q=%E5%A6%88%E5%A6%88%E5%9B%A0%E5%A4%A7%E4%B8%80%E5%84%BF%E5%AD%90%E6%9C%AA%E8%80%83%E6%8A%80%E8%83%BD%E8%AF%81%E4%B9%A6%E9%99%8D%E7%94%9F%E6%B4%BB%E8%B4%B9)
 1. [DeepSeek V4.1 Flash 发布新版本](https://www.zhihu.com/search?q=DeepSeek%20V4.1%20Flash%20%E5%8F%91%E5%B8%83%E6%96%B0%E7%89%88%E6%9C%AC)
 1. [英伟达市值9天蒸发4万亿](https://www.zhihu.com/search?q=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%B8%82%E5%80%BC9%E5%A4%A9%E8%92%B8%E5%8F%914%E4%B8%87%E4%BA%BF)
-1. [智界将获独立造车资质](https://www.zhihu.com/search?q=%E6%99%BA%E7%95%8C%E5%B0%86%E8%8E%B7%E7%8B%AC%E7%AB%8B%E9%80%A0%E8%BD%A6%E8%B5%84%E8%B4%A8)
 1. [95后小伙兼职做共享儿女](https://www.zhihu.com/search?q=95%E5%90%8E%E5%B0%8F%E4%BC%99%E5%85%BC%E8%81%8C%E5%81%9A%E5%85%B1%E4%BA%AB%E5%84%BF%E5%A5%B3)
 
 ## 热门话题
