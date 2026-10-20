@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-10-20 20:24:58 +0800`
+`更新时间：2026-10-21 01:38:27 +0800`
 
 ## 热门搜索
 
@@ -35,7 +35,6 @@
 1. [吴越质问花姐骗了多少钱](https://www.zhihu.com/search?q=%E5%90%B4%E8%B6%8A%E8%B4%A8%E9%97%AE%E8%8A%B1%E5%A7%90%E9%AA%97%E4%BA%86%E5%A4%9A%E5%B0%91%E9%92%B1)
 1. [王自如喊话罗永浩想与其和解](https://www.zhihu.com/search?q=%E7%8E%8B%E8%87%AA%E5%A6%82%E5%96%8A%E8%AF%9D%E7%BD%97%E6%B0%B8%E6%B5%A9%E6%83%B3%E4%B8%8E%E5%85%B6%E5%92%8C%E8%A7%A3)
 1. [王自如喊话罗永浩](https://www.zhihu.com/search?q=%E7%8E%8B%E8%87%AA%E5%A6%82%E5%96%8A%E8%AF%9D%E7%BD%97%E6%B0%B8%E6%B5%A9)
-1. [张雪回应九号自动驾驶争议](https://www.zhihu.com/search?q=%E5%BC%A0%E9%9B%AA%E5%9B%9E%E5%BA%94%E4%B9%9D%E5%8F%B7%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E4%BA%89%E8%AE%AE)
 
 ## 热门话题
 
