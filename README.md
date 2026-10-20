@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-10-21 01:38:27 +0800`
+`更新时间：2026-10-21 05:01:25 +0800`
 
 ## 热门搜索
 
@@ -26,8 +26,6 @@
 1. [妈妈因大一儿子未考技能证书降生活费](https://www.zhihu.com/search?q=%E5%A6%88%E5%A6%88%E5%9B%A0%E5%A4%A7%E4%B8%80%E5%84%BF%E5%AD%90%E6%9C%AA%E8%80%83%E6%8A%80%E8%83%BD%E8%AF%81%E4%B9%A6%E9%99%8D%E7%94%9F%E6%B4%BB%E8%B4%B9)
 1. [英伟达市值9天蒸发4万亿](https://www.zhihu.com/search?q=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%B8%82%E5%80%BC9%E5%A4%A9%E8%92%B8%E5%8F%914%E4%B8%87%E4%BA%BF)
 1. [防癌神药出厂价不到1块钱](https://www.zhihu.com/search?q=%E9%98%B2%E7%99%8C%E7%A5%9E%E8%8D%AF%E5%87%BA%E5%8E%82%E4%BB%B7%E4%B8%8D%E5%88%B01%E5%9D%97%E9%92%B1)
-1. [巴萨5比2贝蒂斯](https://www.zhihu.com/search?q=%E5%B7%B4%E8%90%A85%E6%AF%942%E8%B4%9D%E8%92%82%E6%96%AF)
-1. [亚马尔世界波破门](https://www.zhihu.com/search?q=%E4%BA%9A%E9%A9%AC%E5%B0%94%E4%B8%96%E7%95%8C%E6%B3%A2%E7%A0%B4%E9%97%A8)
 1. [AB型爸A型妈生出O型娃](https://www.zhihu.com/search?q=AB%E5%9E%8B%E7%88%B8A%E5%9E%8B%E5%A6%88%E7%94%9F%E5%87%BAO%E5%9E%8B%E5%A8%83)
 1. [网传国际乒联及多国乒协收到举报信](https://www.zhihu.com/search?q=%E7%BD%91%E4%BC%A0%E5%9B%BD%E9%99%85%E4%B9%92%E8%81%94%E5%8F%8A%E5%A4%9A%E5%9B%BD%E4%B9%92%E5%8D%8F%E6%94%B6%E5%88%B0%E4%B8%BE%E6%8A%A5%E4%BF%A1)
 1. [贫困生能花三千块治牙吗](https://www.zhihu.com/search?q=%E8%B4%AB%E5%9B%B0%E7%94%9F%E8%83%BD%E8%8A%B1%E4%B8%89%E5%8D%83%E5%9D%97%E6%B2%BB%E7%89%99%E5%90%97)
@@ -35,6 +33,7 @@
 1. [吴越质问花姐骗了多少钱](https://www.zhihu.com/search?q=%E5%90%B4%E8%B6%8A%E8%B4%A8%E9%97%AE%E8%8A%B1%E5%A7%90%E9%AA%97%E4%BA%86%E5%A4%9A%E5%B0%91%E9%92%B1)
 1. [王自如喊话罗永浩想与其和解](https://www.zhihu.com/search?q=%E7%8E%8B%E8%87%AA%E5%A6%82%E5%96%8A%E8%AF%9D%E7%BD%97%E6%B0%B8%E6%B5%A9%E6%83%B3%E4%B8%8E%E5%85%B6%E5%92%8C%E8%A7%A3)
 1. [王自如喊话罗永浩](https://www.zhihu.com/search?q=%E7%8E%8B%E8%87%AA%E5%A6%82%E5%96%8A%E8%AF%9D%E7%BD%97%E6%B0%B8%E6%B5%A9)
+1. [孙悟空林黛玉圣黛CP缘何爆火](https://www.zhihu.com/search?q=%E5%AD%99%E6%82%9F%E7%A9%BA%E6%9E%97%E9%BB%9B%E7%8E%89%E5%9C%A3%E9%BB%9BCP%E7%BC%98%E4%BD%95%E7%88%86%E7%81%AB)
 
 ## 热门话题
 
