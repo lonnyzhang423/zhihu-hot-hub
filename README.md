@@ -11,36 +11,32 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-10-20 08:13:02 +0800`
+`更新时间：2026-10-20 13:49:37 +0800`
 
 ## 热门搜索
 
-1. [张雪机车德比斯 年度亚军](https://www.zhihu.com/search?q=%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E5%BE%B7%E6%AF%94%E6%96%AF%20%E5%B9%B4%E5%BA%A6%E4%BA%9A%E5%86%9B)
-1. [代露娃再回应争议](https://www.zhihu.com/search?q=%E4%BB%A3%E9%9C%B2%E5%A8%83%E5%86%8D%E5%9B%9E%E5%BA%94%E4%BA%89%E8%AE%AE)
-1. [中年人了还有减肥的必要吗](https://www.zhihu.com/search?q=%E4%B8%AD%E5%B9%B4%E4%BA%BA%E4%BA%86%E8%BF%98%E6%9C%89%E5%87%8F%E8%82%A5%E7%9A%84%E5%BF%85%E8%A6%81%E5%90%97)
-1. [如何才能永保旺盛的精力](https://www.zhihu.com/search?q=%E5%A6%82%E4%BD%95%E6%89%8D%E8%83%BD%E6%B0%B8%E4%BF%9D%E6%97%BA%E7%9B%9B%E7%9A%84%E7%B2%BE%E5%8A%9B)
-1. [鳄鱼和鸟类不会衰老是真的吗](https://www.zhihu.com/search?q=%E9%B3%84%E9%B1%BC%E5%92%8C%E9%B8%9F%E7%B1%BB%E4%B8%8D%E4%BC%9A%E8%A1%B0%E8%80%81%E6%98%AF%E7%9C%9F%E7%9A%84%E5%90%97)
-1. [怎样避免活在信息茧房之中](https://www.zhihu.com/search?q=%E6%80%8E%E6%A0%B7%E9%81%BF%E5%85%8D%E6%B4%BB%E5%9C%A8%E4%BF%A1%E6%81%AF%E8%8C%A7%E6%88%BF%E4%B9%8B%E4%B8%AD)
-1. [为什么大多数人没有超强的执行力](https://www.zhihu.com/search?q=%E4%B8%BA%E4%BB%80%E4%B9%88%E5%A4%A7%E5%A4%9A%E6%95%B0%E4%BA%BA%E6%B2%A1%E6%9C%89%E8%B6%85%E5%BC%BA%E7%9A%84%E6%89%A7%E8%A1%8C%E5%8A%9B)
-1. [怎么样做到真正的不内耗](https://www.zhihu.com/search?q=%E6%80%8E%E4%B9%88%E6%A0%B7%E5%81%9A%E5%88%B0%E7%9C%9F%E6%AD%A3%E7%9A%84%E4%B8%8D%E5%86%85%E8%80%97)
-1. [能讲一个身边的无解阳谋吗](https://www.zhihu.com/search?q=%E8%83%BD%E8%AE%B2%E4%B8%80%E4%B8%AA%E8%BA%AB%E8%BE%B9%E7%9A%84%E6%97%A0%E8%A7%A3%E9%98%B3%E8%B0%8B%E5%90%97)
-1. [立场重要还是是非重要](https://www.zhihu.com/search?q=%E7%AB%8B%E5%9C%BA%E9%87%8D%E8%A6%81%E8%BF%98%E6%98%AF%E6%98%AF%E9%9D%9E%E9%87%8D%E8%A6%81)
-1. [最近你悟出了什么样的人生道理](https://www.zhihu.com/search?q=%E6%9C%80%E8%BF%91%E4%BD%A0%E6%82%9F%E5%87%BA%E4%BA%86%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E4%BA%BA%E7%94%9F%E9%81%93%E7%90%86)
 1. [司美格鲁肽在美遭批量起诉](https://www.zhihu.com/search?q=%E5%8F%B8%E7%BE%8E%E6%A0%BC%E9%B2%81%E8%82%BD%E5%9C%A8%E7%BE%8E%E9%81%AD%E6%89%B9%E9%87%8F%E8%B5%B7%E8%AF%89)
-1. [嫁金钗](https://www.zhihu.com/search?q=%E5%AB%81%E9%87%91%E9%92%97)
-1. [患者送1.9元汽水后举报药房人员收礼](https://www.zhihu.com/search?q=%E6%82%A3%E8%80%85%E9%80%811.9%E5%85%83%E6%B1%BD%E6%B0%B4%E5%90%8E%E4%B8%BE%E6%8A%A5%E8%8D%AF%E6%88%BF%E4%BA%BA%E5%91%98%E6%94%B6%E7%A4%BC)
-1. [美人余](https://www.zhihu.com/search?q=%E7%BE%8E%E4%BA%BA%E4%BD%99)
-1. [荣耀WIN2](https://www.zhihu.com/search?q=%E8%8D%A3%E8%80%80WIN2)
-1. [1.9元汽水涉事医务人员已报警](https://www.zhihu.com/search?q=1.9%E5%85%83%E6%B1%BD%E6%B0%B4%E6%B6%89%E4%BA%8B%E5%8C%BB%E5%8A%A1%E4%BA%BA%E5%91%98%E5%B7%B2%E6%8A%A5%E8%AD%A6)
 1. [员工离职当天遇车祸被认定工伤](https://www.zhihu.com/search?q=%E5%91%98%E5%B7%A5%E7%A6%BB%E8%81%8C%E5%BD%93%E5%A4%A9%E9%81%87%E8%BD%A6%E7%A5%B8%E8%A2%AB%E8%AE%A4%E5%AE%9A%E5%B7%A5%E4%BC%A4)
 1. [女子晒手机单号遭5人接力冒领](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E6%99%92%E6%89%8B%E6%9C%BA%E5%8D%95%E5%8F%B7%E9%81%AD5%E4%BA%BA%E6%8E%A5%E5%8A%9B%E5%86%92%E9%A2%86)
-1. [官方通报商户用硫磺熏制桂花](https://www.zhihu.com/search?q=%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%95%86%E6%88%B7%E7%94%A8%E7%A1%AB%E7%A3%BA%E7%86%8F%E5%88%B6%E6%A1%82%E8%8A%B1)
 1. [iPhoneDuo一分钟售罄](https://www.zhihu.com/search?q=iPhoneDuo%E4%B8%80%E5%88%86%E9%92%9F%E5%94%AE%E7%BD%84)
-1. [腾讯云智能体被曝自主探测高德](https://www.zhihu.com/search?q=%E8%85%BE%E8%AE%AF%E4%BA%91%E6%99%BA%E8%83%BD%E4%BD%93%E8%A2%AB%E6%9B%9D%E8%87%AA%E4%B8%BB%E6%8E%A2%E6%B5%8B%E9%AB%98%E5%BE%B7)
-1. [女子转走前男友近20万被判返还](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E8%BD%AC%E8%B5%B0%E5%89%8D%E7%94%B7%E5%8F%8B%E8%BF%9120%E4%B8%87%E8%A2%AB%E5%88%A4%E8%BF%94%E8%BF%98)
-1. [班主任休产假遭家长质问一定要生孩子吗](https://www.zhihu.com/search?q=%E7%8F%AD%E4%B8%BB%E4%BB%BB%E4%BC%91%E4%BA%A7%E5%81%87%E9%81%AD%E5%AE%B6%E9%95%BF%E8%B4%A8%E9%97%AE%E4%B8%80%E5%AE%9A%E8%A6%81%E7%94%9F%E5%AD%A9%E5%AD%90%E5%90%97)
+1. [特斯拉SpaceX大跌](https://www.zhihu.com/search?q=%E7%89%B9%E6%96%AF%E6%8B%89SpaceX%E5%A4%A7%E8%B7%8C)
+1. [自愿放弃社保无效](https://www.zhihu.com/search?q=%E8%87%AA%E6%84%BF%E6%94%BE%E5%BC%83%E7%A4%BE%E4%BF%9D%E6%97%A0%E6%95%88)
 1. [DeepSeek V4.1 Flash 发布新版本](https://www.zhihu.com/search?q=DeepSeek%20V4.1%20Flash%20%E5%8F%91%E5%B8%83%E6%96%B0%E7%89%88%E6%9C%AC)
 1. [英伟达市值9天蒸发4万亿](https://www.zhihu.com/search?q=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%B8%82%E5%80%BC9%E5%A4%A9%E8%92%B8%E5%8F%914%E4%B8%87%E4%BA%BF)
+1. [95后小伙兼职做共享儿女](https://www.zhihu.com/search?q=95%E5%90%8E%E5%B0%8F%E4%BC%99%E5%85%BC%E8%81%8C%E5%81%9A%E5%85%B1%E4%BA%AB%E5%84%BF%E5%A5%B3)
+1. [巴萨5比2贝蒂斯](https://www.zhihu.com/search?q=%E5%B7%B4%E8%90%A85%E6%AF%942%E8%B4%9D%E8%92%82%E6%96%AF)
+1. [亚马尔世界波破门](https://www.zhihu.com/search?q=%E4%BA%9A%E9%A9%AC%E5%B0%94%E4%B8%96%E7%95%8C%E6%B3%A2%E7%A0%B4%E9%97%A8)
+1. [AB型爸A型妈生出O型娃](https://www.zhihu.com/search?q=AB%E5%9E%8B%E7%88%B8A%E5%9E%8B%E5%A6%88%E7%94%9F%E5%87%BAO%E5%9E%8B%E5%A8%83)
+1. [网传国际乒联及多国乒协收到举报信](https://www.zhihu.com/search?q=%E7%BD%91%E4%BC%A0%E5%9B%BD%E9%99%85%E4%B9%92%E8%81%94%E5%8F%8A%E5%A4%9A%E5%9B%BD%E4%B9%92%E5%8D%8F%E6%94%B6%E5%88%B0%E4%B8%BE%E6%8A%A5%E4%BF%A1)
+1. [贫困生能花三千块治牙吗](https://www.zhihu.com/search?q=%E8%B4%AB%E5%9B%B0%E7%94%9F%E8%83%BD%E8%8A%B1%E4%B8%89%E5%8D%83%E5%9D%97%E6%B2%BB%E7%89%99%E5%90%97)
+1. [大麦就肖战演唱会天价票谣言报警](https://www.zhihu.com/search?q=%E5%A4%A7%E9%BA%A6%E5%B0%B1%E8%82%96%E6%88%98%E6%BC%94%E5%94%B1%E4%BC%9A%E5%A4%A9%E4%BB%B7%E7%A5%A8%E8%B0%A3%E8%A8%80%E6%8A%A5%E8%AD%A6)
+1. [吊车救援中车辆掉落司机身亡](https://www.zhihu.com/search?q=%E5%90%8A%E8%BD%A6%E6%95%91%E6%8F%B4%E4%B8%AD%E8%BD%A6%E8%BE%86%E6%8E%89%E8%90%BD%E5%8F%B8%E6%9C%BA%E8%BA%AB%E4%BA%A1)
+1. [2026 法考主观题](https://www.zhihu.com/search?q=2026%20%E6%B3%95%E8%80%83%E4%B8%BB%E8%A7%82%E9%A2%98)
+1. [吴越质问花姐骗了多少钱](https://www.zhihu.com/search?q=%E5%90%B4%E8%B6%8A%E8%B4%A8%E9%97%AE%E8%8A%B1%E5%A7%90%E9%AA%97%E4%BA%86%E5%A4%9A%E5%B0%91%E9%92%B1)
+1. [建议售价1980的眼镜片批发价30](https://www.zhihu.com/search?q=%E5%BB%BA%E8%AE%AE%E5%94%AE%E4%BB%B71980%E7%9A%84%E7%9C%BC%E9%95%9C%E7%89%87%E6%89%B9%E5%8F%91%E4%BB%B730)
+1. [王自如喊话罗永浩想与其和解](https://www.zhihu.com/search?q=%E7%8E%8B%E8%87%AA%E5%A6%82%E5%96%8A%E8%AF%9D%E7%BD%97%E6%B0%B8%E6%B5%A9%E6%83%B3%E4%B8%8E%E5%85%B6%E5%92%8C%E8%A7%A3)
+1. [王自如喊话罗永浩](https://www.zhihu.com/search?q=%E7%8E%8B%E8%87%AA%E5%A6%82%E5%96%8A%E8%AF%9D%E7%BD%97%E6%B0%B8%E6%B5%A9)
+1. [张雪回应九号自动驾驶争议](https://www.zhihu.com/search?q=%E5%BC%A0%E9%9B%AA%E5%9B%9E%E5%BA%94%E4%B9%9D%E5%8F%B7%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E4%BA%89%E8%AE%AE)
 
 ## 热门话题
 
