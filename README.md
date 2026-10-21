@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-10-21 05:01:25 +0800`
+`更新时间：2026-10-21 08:14:48 +0800`
 
 ## 热门搜索
 
@@ -22,7 +22,6 @@
 1. [缩量](https://www.zhihu.com/search?q=%E7%BC%A9%E9%87%8F)
 1. [女子晒手机单号遭5人接力冒领](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E6%99%92%E6%89%8B%E6%9C%BA%E5%8D%95%E5%8F%B7%E9%81%AD5%E4%BA%BA%E6%8E%A5%E5%8A%9B%E5%86%92%E9%A2%86)
 1. [特斯拉SpaceX大跌](https://www.zhihu.com/search?q=%E7%89%B9%E6%96%AF%E6%8B%89SpaceX%E5%A4%A7%E8%B7%8C)
-1. [自愿放弃社保无效](https://www.zhihu.com/search?q=%E8%87%AA%E6%84%BF%E6%94%BE%E5%BC%83%E7%A4%BE%E4%BF%9D%E6%97%A0%E6%95%88)
 1. [妈妈因大一儿子未考技能证书降生活费](https://www.zhihu.com/search?q=%E5%A6%88%E5%A6%88%E5%9B%A0%E5%A4%A7%E4%B8%80%E5%84%BF%E5%AD%90%E6%9C%AA%E8%80%83%E6%8A%80%E8%83%BD%E8%AF%81%E4%B9%A6%E9%99%8D%E7%94%9F%E6%B4%BB%E8%B4%B9)
 1. [英伟达市值9天蒸发4万亿](https://www.zhihu.com/search?q=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%B8%82%E5%80%BC9%E5%A4%A9%E8%92%B8%E5%8F%914%E4%B8%87%E4%BA%BF)
 1. [防癌神药出厂价不到1块钱](https://www.zhihu.com/search?q=%E9%98%B2%E7%99%8C%E7%A5%9E%E8%8D%AF%E5%87%BA%E5%8E%82%E4%BB%B7%E4%B8%8D%E5%88%B01%E5%9D%97%E9%92%B1)
@@ -34,6 +33,7 @@
 1. [王自如喊话罗永浩想与其和解](https://www.zhihu.com/search?q=%E7%8E%8B%E8%87%AA%E5%A6%82%E5%96%8A%E8%AF%9D%E7%BD%97%E6%B0%B8%E6%B5%A9%E6%83%B3%E4%B8%8E%E5%85%B6%E5%92%8C%E8%A7%A3)
 1. [王自如喊话罗永浩](https://www.zhihu.com/search?q=%E7%8E%8B%E8%87%AA%E5%A6%82%E5%96%8A%E8%AF%9D%E7%BD%97%E6%B0%B8%E6%B5%A9)
 1. [孙悟空林黛玉圣黛CP缘何爆火](https://www.zhihu.com/search?q=%E5%AD%99%E6%82%9F%E7%A9%BA%E6%9E%97%E9%BB%9B%E7%8E%89%E5%9C%A3%E9%BB%9BCP%E7%BC%98%E4%BD%95%E7%88%86%E7%81%AB)
+1. [2026 年维密大秀](https://www.zhihu.com/search?q=2026%20%E5%B9%B4%E7%BB%B4%E5%AF%86%E5%A4%A7%E7%A7%80)
 
 ## 热门话题
 
