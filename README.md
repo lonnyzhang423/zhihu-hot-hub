@@ -11,7 +11,7 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-10-22 06:54:37 +0800`
+`更新时间：2026-10-22 09:06:21 +0800`
 
 ## 热门搜索
 
@@ -22,7 +22,6 @@
 1. [女子晒手机单号遭5人接力冒领](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E6%99%92%E6%89%8B%E6%9C%BA%E5%8D%95%E5%8F%B7%E9%81%AD5%E4%BA%BA%E6%8E%A5%E5%8A%9B%E5%86%92%E9%A2%86)
 1. [英伟达市值9天蒸发4万亿](https://www.zhihu.com/search?q=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%B8%82%E5%80%BC9%E5%A4%A9%E8%92%B8%E5%8F%914%E4%B8%87%E4%BA%BF)
 1. [大麦就肖战演唱会天价票谣言报警](https://www.zhihu.com/search?q=%E5%A4%A7%E9%BA%A6%E5%B0%B1%E8%82%96%E6%88%98%E6%BC%94%E5%94%B1%E4%BC%9A%E5%A4%A9%E4%BB%B7%E7%A5%A8%E8%B0%A3%E8%A8%80%E6%8A%A5%E8%AD%A6)
-1. [台风蔷琵加强为超强台风](https://www.zhihu.com/search?q=%E5%8F%B0%E9%A3%8E%E8%94%B7%E7%90%B5%E5%8A%A0%E5%BC%BA%E4%B8%BA%E8%B6%85%E5%BC%BA%E5%8F%B0%E9%A3%8E)
 1. [建议售价1980的眼镜片批发价30](https://www.zhihu.com/search?q=%E5%BB%BA%E8%AE%AE%E5%94%AE%E4%BB%B71980%E7%9A%84%E7%9C%BC%E9%95%9C%E7%89%87%E6%89%B9%E5%8F%91%E4%BB%B730)
 1. [孙悟空林黛玉圣黛CP缘何爆火](https://www.zhihu.com/search?q=%E5%AD%99%E6%82%9F%E7%A9%BA%E6%9E%97%E9%BB%9B%E7%8E%89%E5%9C%A3%E9%BB%9BCP%E7%BC%98%E4%BD%95%E7%88%86%E7%81%AB)
 1. [2026 年维密大秀](https://www.zhihu.com/search?q=2026%20%E5%B9%B4%E7%BB%B4%E5%AF%86%E5%A4%A7%E7%A7%80)
@@ -36,9 +35,9 @@
 1. [中国留学生俄罗斯课堂披旭日旗](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E4%BF%84%E7%BD%97%E6%96%AF%E8%AF%BE%E5%A0%82%E6%8A%AB%E6%97%AD%E6%97%A5%E6%97%97)
 1. [员工下班绕道购物返途身亡被认工伤](https://www.zhihu.com/search?q=%E5%91%98%E5%B7%A5%E4%B8%8B%E7%8F%AD%E7%BB%95%E9%81%93%E8%B4%AD%E7%89%A9%E8%BF%94%E9%80%94%E8%BA%AB%E4%BA%A1%E8%A2%AB%E8%AE%A4%E5%B7%A5%E4%BC%A4)
 1. [日本流行取消吃饭](https://www.zhihu.com/search?q=%E6%97%A5%E6%9C%AC%E6%B5%81%E8%A1%8C%E5%8F%96%E6%B6%88%E5%90%83%E9%A5%AD)
-1. [女子用AI问诊救下前夫一命](https://www.zhihu.com/search?q=%E5%A5%B3%E5%AD%90%E7%94%A8AI%E9%97%AE%E8%AF%8A%E6%95%91%E4%B8%8B%E5%89%8D%E5%A4%AB%E4%B8%80%E5%91%BD)
 1. [DeepSeek新模型名登顶最差榜](https://www.zhihu.com/search?q=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E5%90%8D%E7%99%BB%E9%A1%B6%E6%9C%80%E5%B7%AE%E6%A6%9C)
 1. [内娱进入大怀孕时代](https://www.zhihu.com/search?q=%E5%86%85%E5%A8%B1%E8%BF%9B%E5%85%A5%E5%A4%A7%E6%80%80%E5%AD%95%E6%97%B6%E4%BB%A3)
+1. [法国怎么了](https://www.zhihu.com/search?q=%E6%B3%95%E5%9B%BD%E6%80%8E%E4%B9%88%E4%BA%86)
 
 ## 热门话题
 
