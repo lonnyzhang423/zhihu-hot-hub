@@ -11,12 +11,11 @@
 - [v2ex热榜](https://github.com/lonnyzhang423/v2ex-hot-hub)
 
 
-`更新时间：2026-10-24 20:34:57 +0800`
+`更新时间：2026-10-25 00:31:09 +0800`
 
 ## 热门搜索
 
-1. [曹骏要开演唱会了](https://www.zhihu.com/search?q=%E6%9B%B9%E9%AA%8F%E8%A6%81%E5%BC%80%E6%BC%94%E5%94%B1%E4%BC%9A%E4%BA%86)
-1. [PHP严重漏洞被AI模型发现](https://www.zhihu.com/search?q=PHP%E4%B8%A5%E9%87%8D%E6%BC%8F%E6%B4%9E%E8%A2%ABAI%E6%A8%A1%E5%9E%8B%E5%8F%91%E7%8E%B0)
+1. [今日霜降](https://www.zhihu.com/search?q=%E4%BB%8A%E6%97%A5%E9%9C%9C%E9%99%8D)
 1. [明代运粮为何不走海运](https://www.zhihu.com/search?q=%E6%98%8E%E4%BB%A3%E8%BF%90%E7%B2%AE%E4%B8%BA%E4%BD%95%E4%B8%8D%E8%B5%B0%E6%B5%B7%E8%BF%90)
 1. [NBA](https://www.zhihu.com/search?q=NBA)
 1. [Yandex数据中心遭乌袭击停运](https://www.zhihu.com/search?q=Yandex%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E9%81%AD%E4%B9%8C%E8%A2%AD%E5%87%BB%E5%81%9C%E8%BF%90)
@@ -26,20 +25,20 @@
 1. [法国怎么了](https://www.zhihu.com/search?q=%E6%B3%95%E5%9B%BD%E6%80%8E%E4%B9%88%E4%BA%86)
 1. [美舰冲闯南沙仙宾礁海域](https://www.zhihu.com/search?q=%E7%BE%8E%E8%88%B0%E5%86%B2%E9%97%AF%E5%8D%97%E6%B2%99%E4%BB%99%E5%AE%BE%E7%A4%81%E6%B5%B7%E5%9F%9F)
 1. [巴黎圣日耳曼 4-2 巴萨](https://www.zhihu.com/search?q=%E5%B7%B4%E9%BB%8E%E5%9C%A3%E6%97%A5%E8%80%B3%E6%9B%BC%204-2%20%E5%B7%B4%E8%90%A8)
-1. [国家癌症中心公布发病前五癌症](https://www.zhihu.com/search?q=%E5%9B%BD%E5%AE%B6%E7%99%8C%E7%97%87%E4%B8%AD%E5%BF%83%E5%85%AC%E5%B8%83%E5%8F%91%E7%97%85%E5%89%8D%E4%BA%94%E7%99%8C%E7%97%87)
+1. [《沙丘3》中国内地定档](https://www.zhihu.com/search?q=%E3%80%8A%E6%B2%99%E4%B8%983%E3%80%8B%E4%B8%AD%E5%9B%BD%E5%86%85%E5%9C%B0%E5%AE%9A%E6%A1%A3)
+1. [96岁老人独自乘火车进藏](https://www.zhihu.com/search?q=96%E5%B2%81%E8%80%81%E4%BA%BA%E7%8B%AC%E8%87%AA%E4%B9%98%E7%81%AB%E8%BD%A6%E8%BF%9B%E8%97%8F)
+1. [星巴克将施行消费入座](https://www.zhihu.com/search?q=%E6%98%9F%E5%B7%B4%E5%85%8B%E5%B0%86%E6%96%BD%E8%A1%8C%E6%B6%88%E8%B4%B9%E5%85%A5%E5%BA%A7)
 1. [武志红李雪互相指控对方是NPD](https://www.zhihu.com/search?q=%E6%AD%A6%E5%BF%97%E7%BA%A2%E6%9D%8E%E9%9B%AA%E4%BA%92%E7%9B%B8%E6%8C%87%E6%8E%A7%E5%AF%B9%E6%96%B9%E6%98%AFNPD)
 1. [令人心动的offer8遭医学生吐槽](https://www.zhihu.com/search?q=%E4%BB%A4%E4%BA%BA%E5%BF%83%E5%8A%A8%E7%9A%84offer8%E9%81%AD%E5%8C%BB%E5%AD%A6%E7%94%9F%E5%90%90%E6%A7%BD)
 1. [子祺事变](https://www.zhihu.com/search?q=%E5%AD%90%E7%A5%BA%E4%BA%8B%E5%8F%98)
-1. [红果短剧宣布将下线金币功能](https://www.zhihu.com/search?q=%E7%BA%A2%E6%9E%9C%E7%9F%AD%E5%89%A7%E5%AE%A3%E5%B8%83%E5%B0%86%E4%B8%8B%E7%BA%BF%E9%87%91%E5%B8%81%E5%8A%9F%E8%83%BD)
 1. [宝马员工争着离职](https://www.zhihu.com/search?q=%E5%AE%9D%E9%A9%AC%E5%91%98%E5%B7%A5%E4%BA%89%E7%9D%80%E7%A6%BB%E8%81%8C)
 1. [美国一战斗舰冲闯中国南沙海域](https://www.zhihu.com/search?q=%E7%BE%8E%E5%9B%BD%E4%B8%80%E6%88%98%E6%96%97%E8%88%B0%E5%86%B2%E9%97%AF%E4%B8%AD%E5%9B%BD%E5%8D%97%E6%B2%99%E6%B5%B7%E5%9F%9F)
 1. [朱新礼再出发](https://www.zhihu.com/search?q=%E6%9C%B1%E6%96%B0%E7%A4%BC%E5%86%8D%E5%87%BA%E5%8F%91)
 1. [iphone18粉色曝光](https://www.zhihu.com/search?q=iphone18%E7%B2%89%E8%89%B2%E6%9B%9D%E5%85%89)
 1. [土耳其人多为希腊人后裔吗](https://www.zhihu.com/search?q=%E5%9C%9F%E8%80%B3%E5%85%B6%E4%BA%BA%E5%A4%9A%E4%B8%BA%E5%B8%8C%E8%85%8A%E4%BA%BA%E5%90%8E%E8%A3%94%E5%90%97)
-1. [六小龄童回应圣黛cp](https://www.zhihu.com/search?q=%E5%85%AD%E5%B0%8F%E9%BE%84%E7%AB%A5%E5%9B%9E%E5%BA%94%E5%9C%A3%E9%BB%9Bcp)
-1. [泽连斯基称若保留75%领土可达成协议](https://www.zhihu.com/search?q=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E7%A7%B0%E8%8B%A5%E4%BF%9D%E7%95%9975%25%E9%A2%86%E5%9C%9F%E5%8F%AF%E8%BE%BE%E6%88%90%E5%8D%8F%E8%AE%AE)
-1. [泽连斯基称保留75%领土可达成和平协议](https://www.zhihu.com/search?q=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E7%A7%B0%E4%BF%9D%E7%95%9975%25%E9%A2%86%E5%9C%9F%E5%8F%AF%E8%BE%BE%E6%88%90%E5%92%8C%E5%B9%B3%E5%8D%8F%E8%AE%AE)
-1. [曝明星自费买高定惹怒品牌PR](https://www.zhihu.com/search?q=%E6%9B%9D%E6%98%8E%E6%98%9F%E8%87%AA%E8%B4%B9%E4%B9%B0%E9%AB%98%E5%AE%9A%E6%83%B9%E6%80%92%E5%93%81%E7%89%8CPR)
+1. [eMudhra中间证书私钥存严重缺陷](https://www.zhihu.com/search?q=eMudhra%E4%B8%AD%E9%97%B4%E8%AF%81%E4%B9%A6%E7%A7%81%E9%92%A5%E5%AD%98%E4%B8%A5%E9%87%8D%E7%BC%BA%E9%99%B7)
+1. [中土网民爆发大规模互怼](https://www.zhihu.com/search?q=%E4%B8%AD%E5%9C%9F%E7%BD%91%E6%B0%91%E7%88%86%E5%8F%91%E5%A4%A7%E8%A7%84%E6%A8%A1%E4%BA%92%E6%80%BC)
+1. [《边缘行者 2》开播获外媒满分评价](https://www.zhihu.com/search?q=%E3%80%8A%E8%BE%B9%E7%BC%98%E8%A1%8C%E8%80%85%202%E3%80%8B%E5%BC%80%E6%92%AD%E8%8E%B7%E5%A4%96%E5%AA%92%E6%BB%A1%E5%88%86%E8%AF%84%E4%BB%B7)
 
 ## 热门话题
 
